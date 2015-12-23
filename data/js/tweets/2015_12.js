@@ -1,5 +1,577 @@
 Grailbird.data.tweets_2015_12 = [
   {
+    "created_at": "Wed Dec 23 03:45:38 +0000 2015",
+    "id": 679508136244346881,
+    "id_str": "679508136244346881",
+    "text": "RT @StrandMag: The top twenty books of 2015...@PolisBooks @Morrow_PB @CrownPublishing @SeventhStBooks @nelsondemille @sbkslandmark https://…",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 23 03:03:12 +0000 2015",
+      "id": 679497455625359360,
+      "id_str": "679497455625359360",
+      "text": "The top twenty books of 2015...@PolisBooks @Morrow_PB @CrownPublishing @SeventhStBooks @nelsondemille @sbkslandmark https://t.co/8Wy0dqwMfr",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 153495818,
+        "id_str": "153495818",
+        "name": "The Strand Magazine",
+        "screen_name": "StrandMag",
+        "location": "Birmingham, MI",
+        "description": "Want the best in mysteries? Look to The Strand Mystery Magazine. Each issue delivers stories of mystery and suspense by some of today's leading mystery writers.",
+        "url": "http://t.co/09VlMTDeOZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/09VlMTDeOZ",
+                "expanded_url": "http://www.strandmag.com",
+                "display_url": "strandmag.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1862,
+        "friends_count": 1375,
+        "listed_count": 80,
+        "created_at": "Tue Jun 08 18:24:05 +0000 2010",
+        "favourites_count": 99,
+        "utc_offset": -18000,
+        "time_zone": "Quito",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1072,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667582461547692032/Ln--Mt93_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667582461547692032/Ln--Mt93_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153495818/1447999088",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "PolisBooks",
+            "name": "Polis Books",
+            "id": 1195331892,
+            "id_str": "1195331892",
+            "indices": [
+              31,
+              42
+            ]
+          },
+          {
+            "screen_name": "Morrow_PB",
+            "name": "WilliamMorrowPB",
+            "id": 288972421,
+            "id_str": "288972421",
+            "indices": [
+              43,
+              53
+            ]
+          },
+          {
+            "screen_name": "CrownPublishing",
+            "name": "Crown Publishing",
+            "id": 26554371,
+            "id_str": "26554371",
+            "indices": [
+              54,
+              70
+            ]
+          },
+          {
+            "screen_name": "SeventhStBooks",
+            "name": "Seventh Street Books",
+            "id": 730833601,
+            "id_str": "730833601",
+            "indices": [
+              71,
+              86
+            ]
+          },
+          {
+            "screen_name": "nelsondemille",
+            "name": "Nelson DeMille",
+            "id": 845781432,
+            "id_str": "845781432",
+            "indices": [
+              87,
+              101
+            ]
+          },
+          {
+            "screen_name": "sbkslandmark",
+            "name": "SourcebooksLandmark",
+            "id": 326892335,
+            "id_str": "326892335",
+            "indices": [
+              102,
+              115
+            ]
+          }
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 679497454258110466,
+            "id_str": "679497454258110466",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CW4PVaLWQAIbSde.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CW4PVaLWQAIbSde.jpg",
+            "url": "https://t.co/8Wy0dqwMfr",
+            "display_url": "pic.twitter.com/8Wy0dqwMfr",
+            "expanded_url": "http://twitter.com/StrandMag/status/679497455625359360/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 264,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 466,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 900,
+                "h": 700,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 679497454258110466,
+            "id_str": "679497454258110466",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/CW4PVaLWQAIbSde.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CW4PVaLWQAIbSde.jpg",
+            "url": "https://t.co/8Wy0dqwMfr",
+            "display_url": "pic.twitter.com/8Wy0dqwMfr",
+            "expanded_url": "http://twitter.com/StrandMag/status/679497455625359360/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 264,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 466,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 900,
+                "h": 700,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "StrandMag",
+          "name": "The Strand Magazine",
+          "id": 153495818,
+          "id_str": "153495818",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "PolisBooks",
+          "name": "Polis Books",
+          "id": 1195331892,
+          "id_str": "1195331892",
+          "indices": [
+            46,
+            57
+          ]
+        },
+        {
+          "screen_name": "Morrow_PB",
+          "name": "WilliamMorrowPB",
+          "id": 288972421,
+          "id_str": "288972421",
+          "indices": [
+            58,
+            68
+          ]
+        },
+        {
+          "screen_name": "CrownPublishing",
+          "name": "Crown Publishing",
+          "id": 26554371,
+          "id_str": "26554371",
+          "indices": [
+            69,
+            85
+          ]
+        },
+        {
+          "screen_name": "SeventhStBooks",
+          "name": "Seventh Street Books",
+          "id": 730833601,
+          "id_str": "730833601",
+          "indices": [
+            86,
+            101
+          ]
+        },
+        {
+          "screen_name": "nelsondemille",
+          "name": "Nelson DeMille",
+          "id": 845781432,
+          "id_str": "845781432",
+          "indices": [
+            102,
+            116
+          ]
+        },
+        {
+          "screen_name": "sbkslandmark",
+          "name": "SourcebooksLandmark",
+          "id": 326892335,
+          "id_str": "326892335",
+          "indices": [
+            117,
+            130
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 679497454258110466,
+          "id_str": "679497454258110466",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW4PVaLWQAIbSde.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CW4PVaLWQAIbSde.jpg",
+          "url": "https://t.co/8Wy0dqwMfr",
+          "display_url": "pic.twitter.com/8Wy0dqwMfr",
+          "expanded_url": "http://twitter.com/StrandMag/status/679497455625359360/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 264,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 466,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 700,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 679497455625359360,
+          "source_status_id_str": "679497455625359360",
+          "source_user_id": 153495818,
+          "source_user_id_str": "153495818"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 679497454258110466,
+          "id_str": "679497454258110466",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW4PVaLWQAIbSde.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CW4PVaLWQAIbSde.jpg",
+          "url": "https://t.co/8Wy0dqwMfr",
+          "display_url": "pic.twitter.com/8Wy0dqwMfr",
+          "expanded_url": "http://twitter.com/StrandMag/status/679497455625359360/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 264,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 466,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 700,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 679497455625359360,
+          "source_status_id_str": "679497455625359360",
+          "source_user_id": 153495818,
+          "source_user_id_str": "153495818"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 23 03:30:16 +0000 2015",
+    "id": 679504265212104704,
+    "id_str": "679504265212104704",
+    "text": "這篇有意思。原來 Waterstones 不堪連年虧損，被俄國人收購，找了倫敦一家獨立書店老闆管理，砍掉一半的管理層與三分之一門市人員，整頓庫存與營運方式，2015年重新獲利。 https://t.co/PX9XQnA5xe https://t.co/X9ZS23AXoL",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PX9XQnA5xe",
+          "expanded_url": "http://bit.ly/1OmAP6A",
+          "display_url": "bit.ly/1OmAP6A",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 679504261470748672,
+          "id_str": "679504261470748672",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW4VhpBUAAA-A7u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CW4VhpBUAAA-A7u.jpg",
+          "url": "https://t.co/X9ZS23AXoL",
+          "display_url": "pic.twitter.com/X9ZS23AXoL",
+          "expanded_url": "http://twitter.com/wastemobile/status/679504265212104704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 204,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 780,
+              "h": 468,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 679504261470748672,
+          "id_str": "679504261470748672",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW4VhpBUAAA-A7u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CW4VhpBUAAA-A7u.jpg",
+          "url": "https://t.co/X9ZS23AXoL",
+          "display_url": "pic.twitter.com/X9ZS23AXoL",
+          "expanded_url": "http://twitter.com/wastemobile/status/679504265212104704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 204,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 780,
+              "h": 468,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Dec 22 08:04:01 +0000 2015",
     "id": 679210769586585601,
     "id_str": "679210769586585601",
