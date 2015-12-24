@@ -1,5 +1,853 @@
 Grailbird.data.tweets_2015_12 = [
   {
+    "created_at": "Thu Dec 24 09:23:41 +0000 2015",
+    "id": 679955593390456835,
+    "id_str": "679955593390456835",
+    "text": "今天在天母逛了一圈，確實冷清不少，但以前常聚餐的「女娘的店」依舊長存，頗驚訝。\n\n聖誕快樂！",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 23 15:06:56 +0000 2015",
+    "id": 679679589006745600,
+    "id_str": "679679589006745600",
+    "text": "推「改成船停在醉月湖」...XD https://t.co/agxCV4SfQW",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 679678538715275264,
+    "quoted_status_id_str": "679678538715275264",
+    "quoted_status": {
+      "created_at": "Wed Dec 23 15:02:46 +0000 2015",
+      "id": 679678538715275264,
+      "id_str": "679678538715275264",
+      "text": "Re: [校園] 台大捐血車被市府要求這個月離開 - 看板 NTU - 批踢踢實業坊 - https://t.co/9SkXGRgxcA",
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15558510,
+        "id_str": "15558510",
+        "name": "Orson Wang",
+        "screen_name": "orsonwang",
+        "location": "Taipei",
+        "description": "兵以詐立，以利動。絕智棄辯，民利百倍；絕巧棄利，盜賊亡有；絕為棄作，民復孝慈。",
+        "url": "https://t.co/cKRdxIn2np",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/cKRdxIn2np",
+                "expanded_url": "http://orson.tw",
+                "display_url": "orson.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 447,
+        "friends_count": 572,
+        "listed_count": 32,
+        "created_at": "Wed Jul 23 09:36:08 +0000 2008",
+        "favourites_count": 124,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7419,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/678431519409496064/oUMJDe8B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/678431519409496064/oUMJDe8B_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9SkXGRgxcA",
+            "expanded_url": "https://www.ptt.cc/bbs/NTU/M.1450804457.A.613.html",
+            "display_url": "ptt.cc/bbs/NTU/M.1450…",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/agxCV4SfQW",
+          "expanded_url": "https://twitter.com/orsonwang/status/679678538715275264",
+          "display_url": "twitter.com/orsonwang/stat…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Dec 23 13:41:35 +0000 2015",
+    "id": 679658111196528641,
+    "id_str": "679658111196528641",
+    "text": "1. 提供綱要與範例。\n2. 根據曾替出版商編輯過的書目，挑出最符合你的編輯人。\n3. 提供試編檔讓你理解。\n\n紐約一間替作者服務的公司，第一次看到編輯人聯盟，有點意思。 https://t.co/LL55LTAP5o https://t.co/3UD2lbHXGq",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LL55LTAP5o",
+          "expanded_url": "http://bit.ly/1QLqQbq",
+          "display_url": "bit.ly/1QLqQbq",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 679658107375464449,
+          "id_str": "679658107375464449",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW6hcprUMAEIgTb.png",
+          "media_url_https": "https://pbs.twimg.com/media/CW6hcprUMAEIgTb.png",
+          "url": "https://t.co/3UD2lbHXGq",
+          "display_url": "pic.twitter.com/3UD2lbHXGq",
+          "expanded_url": "http://twitter.com/wastemobile/status/679658111196528641/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 577,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 679658107375464449,
+          "id_str": "679658107375464449",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW6hcprUMAEIgTb.png",
+          "media_url_https": "https://pbs.twimg.com/media/CW6hcprUMAEIgTb.png",
+          "url": "https://t.co/3UD2lbHXGq",
+          "display_url": "pic.twitter.com/3UD2lbHXGq",
+          "expanded_url": "http://twitter.com/wastemobile/status/679658111196528641/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 577,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 23 13:06:03 +0000 2015",
+    "id": 679649166683815936,
+    "id_str": "679649166683815936",
+    "text": "16週就可以「透過軟體檢視情節合不合理」，這也太強了！可以旁聽嗎？ https://t.co/BXwfx8VS7B",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 679643305957658624,
+    "quoted_status_id_str": "679643305957658624",
+    "quoted_status": {
+      "created_at": "Wed Dec 23 12:42:45 +0000 2015",
+      "id": 679643305957658624,
+      "id_str": "679643305957658624",
+      "text": "我覺得這個構想很好，但落實到課程設計會不會太蠢了？\"學生在16周的課程中，要使用3D列印機製作漢字，或學習如何製作網頁，以及了解各國現在數位文學的發展。尤其透過電腦程式語言，設計小說情節\"\nhttps://t.co/JnrxDGUMLl\n台大推動雙專長 人文科系學寫程式",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18081539,
+        "id_str": "18081539",
+        "name": "老貓",
+        "screen_name": "octw",
+        "location": "Taipei, Taiwan",
+        "description": "我是「老貓學出版」站長，現在主力在「內容推進實驗室」。圖書編輯、網站開發兼愛貓人士。長期歡迎為大眾讀者而寫的文史、科普，及科幻創作投稿。我的G+：+octw chen",
+        "url": "http://t.co/AaL9U7AckY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/AaL9U7AckY",
+                "expanded_url": "http://www.contnt.net/2009/10/twitter-tips.html",
+                "display_url": "contnt.net/2009/10/twitte…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 11154,
+        "friends_count": 241,
+        "listed_count": 295,
+        "created_at": "Fri Dec 12 18:02:21 +0000 2008",
+        "favourites_count": 616,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24843,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/401261665/DSCN0431_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/401261665/DSCN0431_normal.JPG",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "204a435ce97d5de4",
+        "url": "https://api.twitter.com/1.1/geo/id/204a435ce97d5de4.json",
+        "place_type": "country",
+        "name": "台灣",
+        "full_name": "台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                118.1261605,
+                21.754958
+              ],
+              [
+                124.579142,
+                21.754958
+              ],
+              [
+                124.579142,
+                26.460533
+              ],
+              [
+                118.1261605,
+                26.460533
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JnrxDGUMLl",
+            "expanded_url": "http://udn.com/news/story/6928/1394837",
+            "display_url": "udn.com/news/story/692…",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BXwfx8VS7B",
+          "expanded_url": "https://twitter.com/octw/status/679643305957658624",
+          "display_url": "twitter.com/octw/status/67…",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 23 06:08:13 +0000 2015",
+    "id": 679544018506629121,
+    "id_str": "679544018506629121",
+    "text": "《银带》 Silver Cord https://t.co/uBlsleQre5 2016要買的第一本紙本書，是本漫畫。Kevin Kelly 在 Kickstarter 上眾籌4萬美金，中國譯言網循相同模式募得31萬人民幣。 https://t.co/5ZAEMEyZba",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uBlsleQre5",
+          "expanded_url": "http://bit.ly/1U3QNRw",
+          "display_url": "bit.ly/1U3QNRw",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 679544014790508544,
+          "id_str": "679544014790508544",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW45rlrUwAAdu-4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CW45rlrUwAAdu-4.jpg",
+          "url": "https://t.co/5ZAEMEyZba",
+          "display_url": "pic.twitter.com/5ZAEMEyZba",
+          "expanded_url": "http://twitter.com/wastemobile/status/679544018506629121/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 291,
+              "h": 456,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 291,
+              "h": 456,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 291,
+              "h": 456,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 679544014790508544,
+          "id_str": "679544014790508544",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CW45rlrUwAAdu-4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CW45rlrUwAAdu-4.jpg",
+          "url": "https://t.co/5ZAEMEyZba",
+          "display_url": "pic.twitter.com/5ZAEMEyZba",
+          "expanded_url": "http://twitter.com/wastemobile/status/679544018506629121/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 291,
+              "h": 456,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 291,
+              "h": 456,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 291,
+              "h": 456,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 23 05:09:56 +0000 2015",
+    "id": 679529348714528768,
+    "id_str": "679529348714528768",
+    "text": "RT @tmas68: 看： \"London bus stops embrace e-paper - BBC News\" ( https://t.co/7p0lFA1XOY )  [ 結合太陽能板電力，用電子紙技術來呈現公車時刻表與動態到站資訊的倫敦公車站牌 ]",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 23 05:04:48 +0000 2015",
+      "id": 679528058668363780,
+      "id_str": "679528058668363780",
+      "text": "看： \"London bus stops embrace e-paper - BBC News\" ( https://t.co/7p0lFA1XOY )  [ 結合太陽能板電力，用電子紙技術來呈現公車時刻表與動態到站資訊的倫敦公車站牌 ]",
+      "source": "<a href=\"http://twitthat.com/\" rel=\"nofollow\">twitthat</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 32893,
+        "id_str": "32893",
+        "name": "張育章",
+        "screen_name": "tmas68",
+        "location": "Tamsui, Taipei",
+        "description": "兒子的大書僮",
+        "url": "https://t.co/oJhmsdLZNE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/oJhmsdLZNE",
+                "expanded_url": "https://plus.google.com/u/0/111263029234904833703",
+                "display_url": "plus.google.com/u/0/1112630292…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3675,
+        "friends_count": 1968,
+        "listed_count": 110,
+        "created_at": "Thu Nov 30 20:21:35 +0000 2006",
+        "favourites_count": 7995,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13384,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DEDEB8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4021970/3088874401_338504aeef_b.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4021970/3088874401_338504aeef_b.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/304761746/tm_web_id_photo_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/304761746/tm_web_id_photo_normal.JPG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32893/1348623120",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7p0lFA1XOY",
+            "expanded_url": "http://twitthat.com/jVttt",
+            "display_url": "twitthat.com/jVttt",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tmas68",
+          "name": "張育章",
+          "id": 32893,
+          "id_str": "32893",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7p0lFA1XOY",
+          "expanded_url": "http://twitthat.com/jVttt",
+          "display_url": "twitthat.com/jVttt",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Dec 23 03:45:38 +0000 2015",
     "id": 679508136244346881,
     "id_str": "679508136244346881",
