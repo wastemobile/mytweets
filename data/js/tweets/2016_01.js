@@ -1,5 +1,819 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Thu Jan 07 04:22:49 +0000 2016",
+    "id": 684953307786293249,
+    "id_str": "684953307786293249",
+    "text": "RT @Eiei456Shan: 雄女在日治時代真的是水手服唷。啾咪。 https://t.co/BsTNk8pvpC",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jan 06 15:10:19 +0000 2016",
+      "id": 684753870434648065,
+      "id_str": "684753870434648065",
+      "text": "雄女在日治時代真的是水手服唷。啾咪。 https://t.co/BsTNk8pvpC",
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2299336976,
+        "id_str": "2299336976",
+        "name": "伊哎伊哎四五六",
+        "screen_name": "Eiei456Shan",
+        "location": "高雄市, 台灣",
+        "description": "If it's stupid but it works, it isn't stupid.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 358,
+        "friends_count": 141,
+        "listed_count": 9,
+        "created_at": "Sun Jan 19 09:08:20 +0000 2014",
+        "favourites_count": 995,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3726,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3A8FB7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/682863053000421380/tKiLTovo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/682863053000421380/tKiLTovo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2299336976/1417107836",
+        "profile_link_color": "0F2540",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 10,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 684753863568572416,
+            "id_str": "684753863568572416",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYC8AsyUwAAa6QM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CYC8AsyUwAAa6QM.jpg",
+            "url": "https://t.co/BsTNk8pvpC",
+            "display_url": "pic.twitter.com/BsTNk8pvpC",
+            "expanded_url": "http://twitter.com/Eiei456Shan/status/684753870434648065/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 520,
+                "h": 390,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 520,
+                "h": 390,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 684753863568572416,
+            "id_str": "684753863568572416",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYC8AsyUwAAa6QM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CYC8AsyUwAAa6QM.jpg",
+            "url": "https://t.co/BsTNk8pvpC",
+            "display_url": "pic.twitter.com/BsTNk8pvpC",
+            "expanded_url": "http://twitter.com/Eiei456Shan/status/684753870434648065/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 520,
+                "h": 390,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 520,
+                "h": 390,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Eiei456Shan",
+          "name": "伊哎伊哎四五六",
+          "id": 2299336976,
+          "id_str": "2299336976",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 684753863568572416,
+          "id_str": "684753863568572416",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/CYC8AsyUwAAa6QM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CYC8AsyUwAAa6QM.jpg",
+          "url": "https://t.co/BsTNk8pvpC",
+          "display_url": "pic.twitter.com/BsTNk8pvpC",
+          "expanded_url": "http://twitter.com/Eiei456Shan/status/684753870434648065/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 520,
+              "h": 390,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 520,
+              "h": 390,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 684753870434648065,
+          "source_status_id_str": "684753870434648065",
+          "source_user_id": 2299336976,
+          "source_user_id_str": "2299336976"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 684753863568572416,
+          "id_str": "684753863568572416",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/CYC8AsyUwAAa6QM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CYC8AsyUwAAa6QM.jpg",
+          "url": "https://t.co/BsTNk8pvpC",
+          "display_url": "pic.twitter.com/BsTNk8pvpC",
+          "expanded_url": "http://twitter.com/Eiei456Shan/status/684753870434648065/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 520,
+              "h": 390,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 520,
+              "h": 390,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 684753870434648065,
+          "source_status_id_str": "684753870434648065",
+          "source_user_id": 2299336976,
+          "source_user_id_str": "2299336976"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 06 16:04:43 +0000 2016",
+    "id": 684767559866908672,
+    "id_str": "684767559866908672",
+    "text": "Has Withings overpriced its new fitness tracker, the Go? https://t.co/JL882yFS7k 來自 @appadvice //這個用 E-ink 當簡易面板的玩意兒看起來不錯，看來今年有不少新東西啊！",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AppAdvice",
+          "name": "AppAdvice.com",
+          "id": 15395727,
+          "id_str": "15395727",
+          "indices": [
+            84,
+            94
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JL882yFS7k",
+          "expanded_url": "http://appadvice.com/appnn/2016/01/has-withings-overpriced-its-new-fitness-tracker-the-go",
+          "display_url": "appadvice.com/appnn/2016/01/…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 06 14:22:11 +0000 2016",
+    "id": 684741756022198272,
+    "id_str": "684741756022198272",
+    "text": "RT @Brecht: 這篇報導帶給我不少新的觀點「高潞・以用：我們就是進擊的衝組（郝明義、陳季芳）」 https://t.co/JGAclNlTVe",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jan 06 14:18:03 +0000 2016",
+      "id": 684740715176316929,
+      "id_str": "684740715176316929",
+      "text": "這篇報導帶給我不少新的觀點「高潞・以用：我們就是進擊的衝組（郝明義、陳季芳）」 https://t.co/JGAclNlTVe",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 724233,
+        "id_str": "724233",
+        "name": "Brecht",
+        "screen_name": "Brecht",
+        "location": "Taiwan",
+        "description": "就是再往前一步，然後再跨出一步，看看能走到哪",
+        "url": "http://t.co/spcdTGh8aH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/spcdTGh8aH",
+                "expanded_url": "http://about.me/brecht",
+                "display_url": "about.me/brecht",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2096,
+        "friends_count": 1179,
+        "listed_count": 60,
+        "created_at": "Mon Jan 29 06:47:34 +0000 2007",
+        "favourites_count": 8926,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16626,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/43012/street_dance.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/43012/street_dance.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/478344725099855872/Z4nDWfl8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/478344725099855872/Z4nDWfl8_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/724233/1444212592",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JGAclNlTVe",
+            "expanded_url": "http://newtalk.tw/news/view/2016-01-06/68869",
+            "display_url": "newtalk.tw/news/view/2016…",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Brecht",
+          "name": "Brecht",
+          "id": 724233,
+          "id_str": "724233",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JGAclNlTVe",
+          "expanded_url": "http://newtalk.tw/news/view/2016-01-06/68869",
+          "display_url": "newtalk.tw/news/view/2016…",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 06 13:21:37 +0000 2016",
+    "id": 684726516064759808,
+    "id_str": "684726516064759808",
+    "text": "每一本漫畫都是著色書的概念...XD https://t.co/DEExeP4xm7",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 684720978413240320,
+    "quoted_status_id_str": "684720978413240320",
+    "quoted_status": {
+      "created_at": "Wed Jan 06 12:59:37 +0000 2016",
+      "id": 684720978413240320,
+      "id_str": "684720978413240320",
+      "text": "之後不分腳色全部都塗黑了，塗完一跨頁覺得好累...但效果真的頗機掰 https://t.co/rKNESB3zkM",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 150516875,
+        "id_str": "150516875",
+        "name": "請把我埋在櫻花樹下",
+        "screen_name": "Delete_Again",
+        "location": "低薪之島",
+        "description": "我下輩子要成為裸奔國手。",
+        "url": "https://t.co/byIUOoekXU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/byIUOoekXU",
+                "expanded_url": "https://www.youtube.com/watch?v=8igik6KI5No",
+                "display_url": "youtube.com/watch?v=8igik6…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1900,
+        "friends_count": 654,
+        "listed_count": 69,
+        "created_at": "Tue Jun 01 03:52:24 +0000 2010",
+        "favourites_count": 6482,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19324,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/660705495154491392/5OcoejD0.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/660705495154491392/5OcoejD0.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685013988522852352/8bowLocn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685013988522852352/8bowLocn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/150516875/1450792611",
+        "profile_link_color": "993377",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "favorite_count": 27,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 684720872884572160,
+            "id_str": "684720872884572160",
+            "indices": [
+              34,
+              57
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYCeAY6UkAA7jRB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CYCeAY6UkAA7jRB.jpg",
+            "url": "https://t.co/rKNESB3zkM",
+            "display_url": "pic.twitter.com/rKNESB3zkM",
+            "expanded_url": "http://twitter.com/Delete_Again/status/684720978413240320/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 110,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 194,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 605,
+                "h": 196,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 684720872884572160,
+            "id_str": "684720872884572160",
+            "indices": [
+              34,
+              57
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYCeAY6UkAA7jRB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CYCeAY6UkAA7jRB.jpg",
+            "url": "https://t.co/rKNESB3zkM",
+            "display_url": "pic.twitter.com/rKNESB3zkM",
+            "expanded_url": "http://twitter.com/Delete_Again/status/684720978413240320/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 110,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 194,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 605,
+                "h": 196,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 684720974546112512,
+            "id_str": "684720974546112512",
+            "indices": [
+              34,
+              57
+            ],
+            "media_url": "http://pbs.twimg.com/media/CYCeGToUkAA8-0p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CYCeGToUkAA8-0p.jpg",
+            "url": "https://t.co/rKNESB3zkM",
+            "display_url": "pic.twitter.com/rKNESB3zkM",
+            "expanded_url": "http://twitter.com/Delete_Again/status/684720978413240320/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DEExeP4xm7",
+          "expanded_url": "https://twitter.com/Delete_Again/status/684720978413240320",
+          "display_url": "twitter.com/Delete_Again/s…",
+          "indices": [
+            19,
+            42
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jan 05 16:56:11 +0000 2016",
     "id": 684418125622718464,
     "id_str": "684418125622718464",
