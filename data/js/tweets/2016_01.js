@@ -1,5 +1,509 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Thu Jan 14 08:19:06 +0000 2016",
+    "id": 687549488487993344,
+    "id_str": "687549488487993344",
+    "text": "RT @AdviceToWriters: If you want to be a writer, you must do two things above all others: read a lot and write a lot. \nSTEPHEN KING\n\n#amwri…",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 14 07:41:45 +0000 2016",
+      "id": 687540085865103360,
+      "id_str": "687540085865103360",
+      "text": "If you want to be a writer, you must do two things above all others: read a lot and write a lot. \nSTEPHEN KING\n\n#amwriting #writing",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 44949890,
+        "id_str": "44949890",
+        "name": "Jon Winokur",
+        "screen_name": "AdviceToWriters",
+        "location": "Los Angeles, CA",
+        "description": "Writerly wisdom of the ages collected by the author of Advice To Writers, The Big Book of Irony, and The Portable Curmudgeon.",
+        "url": "http://t.co/69ET5owjbv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/69ET5owjbv",
+                "expanded_url": "http://www.AdviceToWriters.com/",
+                "display_url": "AdviceToWriters.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 233465,
+        "friends_count": 732,
+        "listed_count": 9850,
+        "created_at": "Fri Jun 05 17:49:41 +0000 2009",
+        "favourites_count": 16,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 39046,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "929394",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/16801295/16626249.JPG",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/16801295/16626249.JPG",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/251324142/typewriter097_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/251324142/typewriter097_normal.jpg",
+        "profile_link_color": "B82A25",
+        "profile_sidebar_border_color": "D43931",
+        "profile_sidebar_fill_color": "DFE3DC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 110,
+      "favorite_count": 167,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "amwriting",
+            "indices": [
+              112,
+              122
+            ]
+          },
+          {
+            "text": "writing",
+            "indices": [
+              123,
+              131
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 110,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "amwriting",
+          "indices": [
+            133,
+            140
+          ]
+        },
+        {
+          "text": "writing",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AdviceToWriters",
+          "name": "Jon Winokur",
+          "id": 44949890,
+          "id_str": "44949890",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jan 14 04:58:32 +0000 2016",
+    "id": 687499015198343168,
+    "id_str": "687499015198343168",
+    "text": "RT @Pinboard: The business of bookmarking: 2015 revenue was $159,550, capital and operating expenses were $16,493. Stay out of the cloud, m…",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 14 04:57:57 +0000 2016",
+      "id": 687498864849375233,
+      "id_str": "687498864849375233",
+      "text": "The business of bookmarking: 2015 revenue was $159,550, capital and operating expenses were $16,493. Stay out of the cloud, my friends!",
+      "source": "<a href=\"http://sites.google.com/site/yorufukurou/\" rel=\"nofollow\">YoruFukurou</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 55525953,
+        "id_str": "55525953",
+        "name": "Pinboard",
+        "screen_name": "Pinboard",
+        "location": "San Francisco",
+        "description": "veni vidi tweeti",
+        "url": "http://t.co/qOHjNexLMt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/qOHjNexLMt",
+                "expanded_url": "http://pinboard.in",
+                "display_url": "pinboard.in",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 28028,
+        "friends_count": 6,
+        "listed_count": 1710,
+        "created_at": "Fri Jul 10 10:24:12 +0000 2009",
+        "favourites_count": 54,
+        "utc_offset": 7200,
+        "time_zone": "Bucharest",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22045,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/494414965/logo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/494414965/logo_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 22,
+      "favorite_count": 93,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Pinboard",
+          "name": "Pinboard",
+          "id": 55525953,
+          "id_str": "55525953",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 13 16:10:25 +0000 2016",
+    "id": 687305710556676096,
+    "id_str": "687305710556676096",
+    "text": "RT @jdalton: Lodash v4 is out! Modern only, 4Kb core, more ES6, more modular, 1st class FP support, perf wins, fixes, &amp; emojis https://t.co…",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jan 12 23:24:50 +0000 2016",
+      "id": 687052646281158656,
+      "id_str": "687052646281158656",
+      "text": "Lodash v4 is out! Modern only, 4Kb core, more ES6, more modular, 1st class FP support, perf wins, fixes, &amp; emojis https://t.co/Anp3b7rJDP 📣",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14272162,
+        "id_str": "14272162",
+        "name": "John-David Dalton",
+        "screen_name": "jdalton",
+        "location": "",
+        "description": "JavaScript tinkerer, bug fixer, & benchmark runner • Creator of lodash • Former Chakra Perf PM • Current Web Apps & Frameworks PM @Microsoft.",
+        "url": "http://t.co/83IahLI7LU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/83IahLI7LU",
+                "expanded_url": "http://www.allyoucanleet.com",
+                "display_url": "allyoucanleet.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12963,
+        "friends_count": 66,
+        "listed_count": 919,
+        "created_at": "Tue Apr 01 04:15:22 +0000 2008",
+        "favourites_count": 1557,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5507,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2433036493/crjkw5aw9xmhki3bhvbv_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2433036493/crjkw5aw9xmhki3bhvbv_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14272162/1398218380",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 465,
+      "favorite_count": 417,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Anp3b7rJDP",
+            "expanded_url": "https://github.com/lodash/lodash/releases/tag/4.0.0",
+            "display_url": "github.com/lodash/lodash/…",
+            "indices": [
+              118,
+              141
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 465,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jdalton",
+          "name": "John-David Dalton",
+          "id": 14272162,
+          "id_str": "14272162",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Anp3b7rJDP",
+          "expanded_url": "https://github.com/lodash/lodash/releases/tag/4.0.0",
+          "display_url": "github.com/lodash/lodash/…",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Jan 13 12:38:48 +0000 2016",
     "id": 687252453113266176,
     "id_str": "687252453113266176",
