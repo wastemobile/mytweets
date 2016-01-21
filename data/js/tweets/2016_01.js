@@ -1,5 +1,373 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Thu Jan 21 16:58:28 +0000 2016",
+    "id": 690216904321929216,
+    "id_str": "690216904321929216",
+    "text": "前推中的 #automator ，如果是想要把 ePub 轉成 mobi，就將 Script 中的 .epub 改成 .mobi，另存一個「轉成mobi」服務，你就可以自由選擇互轉，簡單方便。",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "automator",
+          "indices": [
+            5,
+            15
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 21 16:55:08 +0000 2016",
+    "id": 690216068476891136,
+    "id_str": "690216068476891136",
+    "text": "也分享一個常用的 #automator ，安裝了 Calibre，但每次想轉一個 mobi/azw3 成 ePub 還要開程式太麻煩，就依照附圖輸入，之後在任何 kindle 書檔上按右鍵、服務選單中挑選，原地轉好轉滿。 https://t.co/mF1DmuWfXZ",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "automator",
+          "indices": [
+            9,
+            19
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 690216064710389760,
+          "id_str": "690216064710389760",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZQj2ptUsAARX49.png",
+          "media_url_https": "https://pbs.twimg.com/media/CZQj2ptUsAARX49.png",
+          "url": "https://t.co/mF1DmuWfXZ",
+          "display_url": "pic.twitter.com/mF1DmuWfXZ",
+          "expanded_url": "http://twitter.com/wastemobile/status/690216068476891136/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 142,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 776,
+              "h": 326,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 252,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 690216064710389760,
+          "id_str": "690216064710389760",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZQj2ptUsAARX49.png",
+          "media_url_https": "https://pbs.twimg.com/media/CZQj2ptUsAARX49.png",
+          "url": "https://t.co/mF1DmuWfXZ",
+          "display_url": "pic.twitter.com/mF1DmuWfXZ",
+          "expanded_url": "http://twitter.com/wastemobile/status/690216068476891136/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 142,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 776,
+              "h": 326,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 252,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 21 16:00:29 +0000 2016",
+    "id": 690202312401235968,
+    "id_str": "690202312401235968",
+    "text": "《开箱整理我的藏书》 - 班雅明讀書隨筆 https://t.co/Fkm5M7sgkC 這一波入手的紙本書都太難了一點。但有趣的是，多本平行閱讀，紙本書比電子書更容易記憶回復與再次進入，確認無誤。 #紙書 https://t.co/9Co8nRS3jb",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "紙書",
+          "indices": [
+            100,
+            103
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Fkm5M7sgkC",
+          "expanded_url": "http://bit.ly/1NmMYRX",
+          "display_url": "bit.ly/1NmMYRX",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 690202308202758145,
+          "id_str": "690202308202758145",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZQXV6uUgAEC3P4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZQXV6uUgAEC3P4.jpg",
+          "url": "https://t.co/9Co8nRS3jb",
+          "display_url": "pic.twitter.com/9Co8nRS3jb",
+          "expanded_url": "http://twitter.com/wastemobile/status/690202312401235968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 690202308202758145,
+          "id_str": "690202308202758145",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZQXV6uUgAEC3P4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZQXV6uUgAEC3P4.jpg",
+          "url": "https://t.co/9Co8nRS3jb",
+          "display_url": "pic.twitter.com/9Co8nRS3jb",
+          "expanded_url": "http://twitter.com/wastemobile/status/690202312401235968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 21 05:56:47 +0000 2016",
+    "id": 690050386774900736,
+    "id_str": "690050386774900736",
+    "text": "現在，全世界都強力支持 GFW 了。",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Thu Jan 21 04:37:57 +0000 2016",
     "id": 690030550015447041,
     "id_str": "690030550015447041",
