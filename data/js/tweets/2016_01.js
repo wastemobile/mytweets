@@ -1,5 +1,731 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Thu Jan 21 04:37:57 +0000 2016",
+    "id": 690030550015447041,
+    "id_str": "690030550015447041",
+    "text": "《我与岩波书店》- 一个编辑的回忆：1963～2003 https://t.co/8T2fgfK0jF //聯經有出繁體版，但譯者相同 #紙本 https://t.co/cTMR8OfzfY",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "紙本",
+          "indices": [
+            68,
+            71
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8T2fgfK0jF",
+          "expanded_url": "http://bit.ly/1OHt3PG",
+          "display_url": "bit.ly/1OHt3PG",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 690030544936022016,
+          "id_str": "690030544936022016",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZN7H-sUsAAkfvp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZN7H-sUsAAkfvp.jpg",
+          "url": "https://t.co/cTMR8OfzfY",
+          "display_url": "pic.twitter.com/cTMR8OfzfY",
+          "expanded_url": "http://twitter.com/wastemobile/status/690030550015447041/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 272,
+              "h": 406,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 272,
+              "h": 406,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 272,
+              "h": 406,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 690030544936022016,
+          "id_str": "690030544936022016",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZN7H-sUsAAkfvp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZN7H-sUsAAkfvp.jpg",
+          "url": "https://t.co/cTMR8OfzfY",
+          "display_url": "pic.twitter.com/cTMR8OfzfY",
+          "expanded_url": "http://twitter.com/wastemobile/status/690030550015447041/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 272,
+              "h": 406,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 272,
+              "h": 406,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 272,
+              "h": 406,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 21 04:01:35 +0000 2016",
+    "id": 690021395334467584,
+    "id_str": "690021395334467584",
+    "text": "《黑箱社会 - 控制金錢和信息的數據法則》（The Black Box Society） https://t.co/VsSERMrhb4 #紙本 #精裝 https://t.co/wD6I5bnqat",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "紙本",
+          "indices": [
+            69,
+            72
+          ]
+        },
+        {
+          "text": "精裝",
+          "indices": [
+            73,
+            76
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VsSERMrhb4",
+          "expanded_url": "http://bit.ly/1Pq7tyI",
+          "display_url": "bit.ly/1Pq7tyI",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 690021390083309569,
+          "id_str": "690021390083309569",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZNyzGNWQAEEzDB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZNyzGNWQAEEzDB.jpg",
+          "url": "https://t.co/wD6I5bnqat",
+          "display_url": "pic.twitter.com/wD6I5bnqat",
+          "expanded_url": "http://twitter.com/wastemobile/status/690021395334467584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 312,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 312,
+              "h": 426,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 312,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 690021390083309569,
+          "id_str": "690021390083309569",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZNyzGNWQAEEzDB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZNyzGNWQAEEzDB.jpg",
+          "url": "https://t.co/wD6I5bnqat",
+          "display_url": "pic.twitter.com/wD6I5bnqat",
+          "expanded_url": "http://twitter.com/wastemobile/status/690021395334467584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 312,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 312,
+              "h": 426,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 312,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 20 13:52:08 +0000 2016",
+    "id": 689807624674488320,
+    "id_str": "689807624674488320",
+    "text": "《数字时代的文化》 https://t.co/QM0Ht32qyC 媽呀～一本遠比預想難很多的書... #紙本 https://t.co/EluNww0Qnx",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "紙本",
+          "indices": [
+            52,
+            55
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QM0Ht32qyC",
+          "expanded_url": "http://bit.ly/1WtYPor",
+          "display_url": "bit.ly/1WtYPor",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 689807620840919040,
+          "id_str": "689807620840919040",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZKwYFuUkAAYjbi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZKwYFuUkAAYjbi.jpg",
+          "url": "https://t.co/EluNww0Qnx",
+          "display_url": "pic.twitter.com/EluNww0Qnx",
+          "expanded_url": "http://twitter.com/wastemobile/status/689807624674488320/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 351,
+              "h": 378,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 366,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 351,
+              "h": 378,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 689807620840919040,
+          "id_str": "689807620840919040",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZKwYFuUkAAYjbi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZKwYFuUkAAYjbi.jpg",
+          "url": "https://t.co/EluNww0Qnx",
+          "display_url": "pic.twitter.com/EluNww0Qnx",
+          "expanded_url": "http://twitter.com/wastemobile/status/689807624674488320/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 351,
+              "h": 378,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 366,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 351,
+              "h": 378,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jan 19 12:46:56 +0000 2016",
+    "id": 689428828263854080,
+    "id_str": "689428828263854080",
+    "text": "解读知乎“诈捐女神”，一个自媒体“鬼才”的作死之路 https://t.co/0PppqXUmdv https://t.co/vn5OFKK4YC",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0PppqXUmdv",
+          "expanded_url": "http://bit.ly/1RxE23Z",
+          "display_url": "bit.ly/1RxE23Z",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 689428823629148162,
+          "id_str": "689428823629148162",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZFX3MJUsAIpkNo.png",
+          "media_url_https": "https://pbs.twimg.com/media/CZFX3MJUsAIpkNo.png",
+          "url": "https://t.co/vn5OFKK4YC",
+          "display_url": "pic.twitter.com/vn5OFKK4YC",
+          "expanded_url": "http://twitter.com/wastemobile/status/689428828263854080/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 330,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 353,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 187,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 689428823629148162,
+          "id_str": "689428823629148162",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZFX3MJUsAIpkNo.png",
+          "media_url_https": "https://pbs.twimg.com/media/CZFX3MJUsAIpkNo.png",
+          "url": "https://t.co/vn5OFKK4YC",
+          "display_url": "pic.twitter.com/vn5OFKK4YC",
+          "expanded_url": "http://twitter.com/wastemobile/status/689428828263854080/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 330,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 353,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 187,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jan 19 12:27:41 +0000 2016",
+    "id": 689423984878686209,
+    "id_str": "689423984878686209",
+    "text": "@faa_gui 就是最近覺得她吐得有點勤，於心不忍啊～",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 689423186836914176,
+    "in_reply_to_status_id_str": "689423186836914176",
+    "in_reply_to_user_id": 1259849810,
+    "in_reply_to_user_id_str": "1259849810",
+    "in_reply_to_screen_name": "faa_gui",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "faa_gui",
+          "name": "fagüi",
+          "id": 1259849810,
+          "id_str": "1259849810",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jan 19 10:21:31 +0000 2016",
+    "id": 689392233930301440,
+    "id_str": "689392233930301440",
+    "text": "@jinxray 試過，但她鼻子上已經有一小塊長不出毛了耶！不敢再試...。",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 689391936398995456,
+    "in_reply_to_status_id_str": "689391936398995456",
+    "in_reply_to_user_id": 152547435,
+    "in_reply_to_user_id_str": "152547435",
+    "in_reply_to_screen_name": "jinxray",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jinxray",
+          "name": "Gnomon Simony",
+          "id": 152547435,
+          "id_str": "152547435",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jan 19 10:16:11 +0000 2016",
+    "id": 689390890033385472,
+    "id_str": "689390890033385472",
+    "text": "我希望小英總統上任後，能夠面對一個想必她自己也感同身受的嚴峻議題，那就是，化毛膏實在太難餵了！請責成相關單位儘速研發出貓咪搶著吃的化毛膏，勒令難餵的商品迅速下架。 #胖胖妳躲哪去了 #出來面對",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "胖胖妳躲哪去了",
+          "indices": [
+            82,
+            90
+          ]
+        },
+        {
+          "text": "出來面對",
+          "indices": [
+            91,
+            96
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jan 18 17:35:36 +0000 2016",
     "id": 689139088289468416,
     "id_str": "689139088289468416",
