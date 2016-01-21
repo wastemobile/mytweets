@@ -1,5 +1,190 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Thu Jan 21 17:41:32 +0000 2016",
+    "id": 690227744282513408,
+    "id_str": "690227744282513408",
+    "text": "如何给自己制定合理的读书计划？ https://t.co/FaBw7GYjC3 這圖好像與之前推過國外某讀書計劃推薦很像，一種「強制偶遇」，跳出常軌並製（自）造驚喜，活得不一樣有時真的沒那麼難。 https://t.co/K9KPxIx4tm",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FaBw7GYjC3",
+          "expanded_url": "http://bit.ly/1JZRhrK",
+          "display_url": "bit.ly/1JZRhrK",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 690227740482482176,
+          "id_str": "690227740482482176",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZQueRWUMAAy9Km.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZQueRWUMAAy9Km.jpg",
+          "url": "https://t.co/K9KPxIx4tm",
+          "display_url": "pic.twitter.com/K9KPxIx4tm",
+          "expanded_url": "http://twitter.com/wastemobile/status/690227744282513408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 690227740482482176,
+          "id_str": "690227740482482176",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZQueRWUMAAy9Km.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZQueRWUMAAy9Km.jpg",
+          "url": "https://t.co/K9KPxIx4tm",
+          "display_url": "pic.twitter.com/K9KPxIx4tm",
+          "expanded_url": "http://twitter.com/wastemobile/status/690227744282513408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 21 17:32:23 +0000 2016",
+    "id": 690225441479614464,
+    "id_str": "690225441479614464",
+    "text": "忘了說，剛才那個利用 Calibre ebook-convert 的 #automator 程序寫法，是可以多選數個檔案後，按右鍵選服務，自動轉多個檔案的。如果安裝 Calibre 只為了轉檔，這兩個自動化服務幾乎可以讓你再也不用打開 Calibre 主程式。",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "automator",
+          "indices": [
+            35,
+            45
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jan 21 16:58:28 +0000 2016",
     "id": 690216904321929216,
     "id_str": "690216904321929216",
