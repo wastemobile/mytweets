@@ -1,5 +1,365 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Fri Jan 22 05:48:36 +0000 2016",
+    "id": 690410717334339585,
+    "id_str": "690410717334339585",
+    "text": "既然已經翻牆出來，功課做完、業績達成了，就抓緊時間、四處逛逛看看啊！\n\n交班前記得清一下瀏覽紀錄就好。",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 22 04:41:31 +0000 2016",
+    "id": 690393833968918528,
+    "id_str": "690393833968918528",
+    "text": "RT @tzangms: [Blog]: \"創下單月 45TB 流量紀錄的個人專案\" ( https://t.co/T5uHqJyy2O ) # 因為 MyAudioCast 關站做了一些紀錄跟心得, 其實只想著趕快把這篇寫完後放出來, 其實有很多事情沒想的很清楚, 也希望有前…",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 22 04:33:09 +0000 2016",
+      "id": 690391728185024512,
+      "id_str": "690391728185024512",
+      "text": "[Blog]: \"創下單月 45TB 流量紀錄的個人專案\" ( https://t.co/T5uHqJyy2O ) # 因為 MyAudioCast 關站做了一些紀錄跟心得, 其實只想著趕快把這篇寫完後放出來, 其實有很多事情沒想的很清楚, 也希望有前輩看完可以分享經驗跟討論",
+      "source": "<a href=\"http://twitthat.com/\" rel=\"nofollow\">twitthat</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 690663,
+        "id_str": "690663",
+        "name": "海總理",
+        "screen_name": "tzangms",
+        "location": "Taiwan",
+        "description": "重新奪回衝動型購物這個稱號",
+        "url": "http://t.co/v5iUzVo0MY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/v5iUzVo0MY",
+                "expanded_url": "http://tzangms.com",
+                "display_url": "tzangms.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7059,
+        "friends_count": 1095,
+        "listed_count": 188,
+        "created_at": "Wed Jan 24 01:55:13 +0000 2007",
+        "favourites_count": 10501,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 100865,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/622802910204694528/zcVnSvrG_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/622802910204694528/zcVnSvrG_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/690663/1450083622",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/T5uHqJyy2O",
+            "expanded_url": "https://tzangms.com/the-record-of-myaudiocast/",
+            "display_url": "tzangms.com/the-record-of-…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tzangms",
+          "name": "海總理",
+          "id": 690663,
+          "id_str": "690663",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T5uHqJyy2O",
+          "expanded_url": "https://tzangms.com/the-record-of-myaudiocast/",
+          "display_url": "tzangms.com/the-record-of-…",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 22 04:06:04 +0000 2016",
+    "id": 690384913640615938,
+    "id_str": "690384913640615938",
+    "text": "社交网络上不知道说什么聪明话？Google 想用机器人帮你解决这问题 by @Qdailycom https://t.co/66eeW71UgP 就是「掉書袋」的未來版嘍～ https://t.co/VslkY97yQm",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Qdailycom",
+          "name": "Qdaily",
+          "id": 2476656662,
+          "id_str": "2476656662",
+          "indices": [
+            38,
+            48
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/66eeW71UgP",
+          "expanded_url": "http://bit.ly/1ncJJr5",
+          "display_url": "bit.ly/1ncJJr5",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 690384908972351490,
+          "id_str": "690384908972351490",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZS9armWYAI5vH3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZS9armWYAI5vH3.jpg",
+          "url": "https://t.co/VslkY97yQm",
+          "display_url": "pic.twitter.com/VslkY97yQm",
+          "expanded_url": "http://twitter.com/wastemobile/status/690384913640615938/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 223,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 393,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1020,
+              "h": 669,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 690384908972351490,
+          "id_str": "690384908972351490",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZS9armWYAI5vH3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZS9armWYAI5vH3.jpg",
+          "url": "https://t.co/VslkY97yQm",
+          "display_url": "pic.twitter.com/VslkY97yQm",
+          "expanded_url": "http://twitter.com/wastemobile/status/690384913640615938/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 223,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 393,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1020,
+              "h": 669,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jan 21 17:41:32 +0000 2016",
     "id": 690227744282513408,
     "id_str": "690227744282513408",
