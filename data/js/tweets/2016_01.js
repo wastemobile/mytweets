@@ -1,5 +1,927 @@
 Grailbird.data.tweets_2016_01 = [
   {
+    "created_at": "Fri Jan 22 08:37:40 +0000 2016",
+    "id": 690453263506759681,
+    "id_str": "690453263506759681",
+    "text": "〈出版商抬高電子書售價，是拿石頭砸自己的腳嗎？〉 by Caleb Mason 答案很明顯：是。 https://t.co/niV09X5TFA https://t.co/xoQxADq1DS",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/niV09X5TFA",
+          "expanded_url": "http://bit.ly/1lBoBd9",
+          "display_url": "bit.ly/1lBoBd9",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 690453258653949952,
+          "id_str": "690453258653949952",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZT7lKAUYAAD96H.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZT7lKAUYAAD96H.jpg",
+          "url": "https://t.co/xoQxADq1DS",
+          "display_url": "pic.twitter.com/xoQxADq1DS",
+          "expanded_url": "http://twitter.com/wastemobile/status/690453263506759681/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 154,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 272,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 690453258653949952,
+          "id_str": "690453258653949952",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/CZT7lKAUYAAD96H.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CZT7lKAUYAAD96H.jpg",
+          "url": "https://t.co/xoQxADq1DS",
+          "display_url": "pic.twitter.com/xoQxADq1DS",
+          "expanded_url": "http://twitter.com/wastemobile/status/690453263506759681/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 154,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 272,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 22 08:18:08 +0000 2016",
+    "id": 690448348143341569,
+    "id_str": "690448348143341569",
+    "text": "推上能人異士真的很多，曾被我宣稱是「讓日本正式跨入 EPUB 3.0 世代」的絕佳工具，都被推友代理進來了，很期待歐～ https://t.co/rHZrXTCsm0",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 215365271647567872,
+    "quoted_status_id_str": "215365271647567872",
+    "quoted_status": {
+      "created_at": "Wed Jun 20 08:47:36 +0000 2012",
+      "id": 215365271647567872,
+      "id_str": "215365271647567872",
+      "text": "由於許多日本出版社用來製作電子書的工具 MCBook 昨日發佈新版，支援 EPUB 3.0，因此廣濟堂的 BookGate 率先公布將於七月開始供應 EPUB 3 電子書。幾乎可以這樣說，「日本正式邁入 EPUB 3.0 世代」。 #好工具真的很重要 #fb",
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "Taipei",
+        "description": "「小型工具帶來一種完成工作的方法，也帶來一種實現自我變革、社會變革、最終實現世界變革的途徑。」 《數字烏托邦》",
+        "url": "https://t.co/5LQVtqARrN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LQVtqARrN",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2324,
+        "friends_count": 1037,
+        "listed_count": 110,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 2006,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14211,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1444152077",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "好工具真的很重要",
+            "indices": [
+              116,
+              125
+            ]
+          },
+          {
+            "text": "fb",
+            "indices": [
+              126,
+              129
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rHZrXTCsm0",
+          "expanded_url": "https://twitter.com/wastemobile/statuses/215365271647567872",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 22 08:08:44 +0000 2016",
+    "id": 690445980689281025,
+    "id_str": "690445980689281025",
+    "text": "@kyoto_zipsky @editranslator 真是意外，加油！那是很紮實的好東西，期待歐～",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 690445606561681408,
+    "in_reply_to_status_id_str": "690445606561681408",
+    "in_reply_to_user_id": 190920291,
+    "in_reply_to_user_id_str": "190920291",
+    "in_reply_to_screen_name": "kyoto_zipsky",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kyoto_zipsky",
+          "name": "京都的蛋",
+          "id": 190920291,
+          "id_str": "190920291",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "editranslator",
+          "name": "爬格子新手",
+          "id": 3009362250,
+          "id_str": "3009362250",
+          "indices": [
+            14,
+            28
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 22 08:01:00 +0000 2016",
+    "id": 690444036985987072,
+    "id_str": "690444036985987072",
+    "text": "@kyoto_zipsky @editranslator 多問一句，那個「My本棚」可以讓讀者整合來自不同出版社 Apps 書籍的功能，也在你的分銷方案內嗎？",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 690443691144671233,
+    "in_reply_to_status_id_str": "690443691144671233",
+    "in_reply_to_user_id": 190920291,
+    "in_reply_to_user_id_str": "190920291",
+    "in_reply_to_screen_name": "kyoto_zipsky",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kyoto_zipsky",
+          "name": "京都的蛋",
+          "id": 190920291,
+          "id_str": "190920291",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "editranslator",
+          "name": "爬格子新手",
+          "id": 3009362250,
+          "id_str": "3009362250",
+          "indices": [
+            14,
+            28
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 22 07:58:14 +0000 2016",
+    "id": 690443337992650752,
+    "id_str": "690443337992650752",
+    "text": "@kyoto_zipsky @editranslator 那個真的很強，關鍵是非常懂字型、排版與出版流程，中文化後好好推是有前途的。",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 690442962812166144,
+    "in_reply_to_status_id_str": "690442962812166144",
+    "in_reply_to_user_id": 190920291,
+    "in_reply_to_user_id_str": "190920291",
+    "in_reply_to_screen_name": "kyoto_zipsky",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kyoto_zipsky",
+          "name": "京都的蛋",
+          "id": 190920291,
+          "id_str": "190920291",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "editranslator",
+          "name": "爬格子新手",
+          "id": 3009362250,
+          "id_str": "3009362250",
+          "indices": [
+            14,
+            28
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 22 07:53:49 +0000 2016",
+    "id": 690442228997693440,
+    "id_str": "690442228997693440",
+    "text": "@kyoto_zipsky @editranslator 抱歉，MCBook，2010年推過 https://t.co/aVoYgsS69C",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 690441387599335424,
+    "in_reply_to_status_id_str": "690441387599335424",
+    "in_reply_to_user_id": 190920291,
+    "in_reply_to_user_id_str": "190920291",
+    "in_reply_to_screen_name": "kyoto_zipsky",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 20882720799,
+    "quoted_status_id_str": "20882720799",
+    "quoted_status": {
+      "created_at": "Wed Aug 11 12:48:25 +0000 2010",
+      "id": 20882720799,
+      "id_str": "20882720799",
+      "text": "今天懂了 Franklin Covey Japan 與文藝春秋的那些 App eBook 為什麼排版那麼漂亮，原來都是 MCBook 提供的工具與流程，光看那流程中有專屬的校對工具，還有將每頁畫面彙整成一整張PDF供編輯校對的考量，就知道真的是瞭解出版的軍火商。",
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "Taipei",
+        "description": "「小型工具帶來一種完成工作的方法，也帶來一種實現自我變革、社會變革、最終實現世界變革的途徑。」 《數字烏托邦》",
+        "url": "https://t.co/5LQVtqARrN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LQVtqARrN",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2324,
+        "friends_count": 1037,
+        "listed_count": 110,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 2006,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14211,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1444152077",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "65B0DA",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kyoto_zipsky",
+          "name": "京都的蛋",
+          "id": 190920291,
+          "id_str": "190920291",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "editranslator",
+          "name": "爬格子新手",
+          "id": 3009362250,
+          "id_str": "3009362250",
+          "indices": [
+            14,
+            28
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aVoYgsS69C",
+          "expanded_url": "https://twitter.com/wastemobile/statuses/20882720799",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 22 07:51:33 +0000 2016",
+    "id": 690441655195963393,
+    "id_str": "690441655195963393",
+    "text": "@kyoto_zipsky @editranslator 日本 Appstore 很多用它的方案，叫什麼 MBook 之類的那個？",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 690441387599335424,
+    "in_reply_to_status_id_str": "690441387599335424",
+    "in_reply_to_user_id": 190920291,
+    "in_reply_to_user_id_str": "190920291",
+    "in_reply_to_screen_name": "kyoto_zipsky",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kyoto_zipsky",
+          "name": "京都的蛋",
+          "id": 190920291,
+          "id_str": "190920291",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "editranslator",
+          "name": "爬格子新手",
+          "id": 3009362250,
+          "id_str": "3009362250",
+          "indices": [
+            14,
+            28
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 22 07:47:13 +0000 2016",
+    "id": 690440565842903040,
+    "id_str": "690440565842903040",
+    "text": "@kyoto_zipsky @editranslator 哇！森澤啊～",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 690440306198716416,
+    "in_reply_to_status_id_str": "690440306198716416",
+    "in_reply_to_user_id": 190920291,
+    "in_reply_to_user_id_str": "190920291",
+    "in_reply_to_screen_name": "kyoto_zipsky",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kyoto_zipsky",
+          "name": "京都的蛋",
+          "id": 190920291,
+          "id_str": "190920291",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "editranslator",
+          "name": "爬格子新手",
+          "id": 3009362250,
+          "id_str": "3009362250",
+          "indices": [
+            14,
+            28
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 22 07:44:17 +0000 2016",
+    "id": 690439829755002881,
+    "id_str": "690439829755002881",
+    "text": "@kyoto_zipsky @editranslator Aquafadas?",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 690438979963883520,
+    "in_reply_to_status_id_str": "690438979963883520",
+    "in_reply_to_user_id": 190920291,
+    "in_reply_to_user_id_str": "190920291",
+    "in_reply_to_screen_name": "kyoto_zipsky",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kyoto_zipsky",
+          "name": "京都的蛋",
+          "id": 190920291,
+          "id_str": "190920291",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "editranslator",
+          "name": "爬格子新手",
+          "id": 3009362250,
+          "id_str": "3009362250",
+          "indices": [
+            14,
+            28
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+  },
+  {
+    "created_at": "Fri Jan 22 07:33:26 +0000 2016",
+    "id": 690437098374066177,
+    "id_str": "690437098374066177",
+    "text": "@kyoto_zipsky 很好奇，用在哪兒的電子書模組？",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 690436127912792064,
+    "in_reply_to_status_id_str": "690436127912792064",
+    "in_reply_to_user_id": 190920291,
+    "in_reply_to_user_id_str": "190920291",
+    "in_reply_to_screen_name": "kyoto_zipsky",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kyoto_zipsky",
+          "name": "京都的蛋",
+          "id": 190920291,
+          "id_str": "190920291",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jan 22 05:48:36 +0000 2016",
     "id": 690410717334339585,
     "id_str": "690410717334339585",
