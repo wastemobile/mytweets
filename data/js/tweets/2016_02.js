@@ -1,5 +1,843 @@
 Grailbird.data.tweets_2016_02 = [
   {
+    "created_at": "Thu Feb 04 09:00:48 +0000 2016",
+    "id": 695170126996373504,
+    "id_str": "695170126996373504",
+    "text": "從大量報紙與小說節選段落，共三十多萬英文字進行統計，出現最多的字母是 E（12.7%）。\n\n一版兩百頁的小說，Gilbert Adair 翻譯 Georges Perec 的著作《虛無》（A Void），整本沒有用字母 E。\n\n很冷，但我驚呆了。",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 03 15:33:42 +0000 2016",
+    "id": 694906614134902784,
+    "id_str": "694906614134902784",
+    "text": "Evernote 台灣有兩百萬用戶！大驚！ https://t.co/cKc21xMxPp",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 694902490609758209,
+    "quoted_status_id_str": "694902490609758209",
+    "quoted_status": {
+      "created_at": "Wed Feb 03 15:17:19 +0000 2016",
+      "id": 694902490609758209,
+      "id_str": "694902490609758209",
+      "text": "Congrats to our @evernote colleagues in Taiwan who are celebrating 2 million users! https://t.co/4wXHnBGeKJ 🎉 https://t.co/wv0czVmyoT",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14177755,
+        "id_str": "14177755",
+        "name": "Gretel Perera",
+        "screen_name": "gretelperera",
+        "location": "Silicon Valley, CA",
+        "description": "Senior PR Manager @evernote @Evernote_latam @Evernote_br. @Dell alumni. @TexasExes. Venezolana en Silicon Valley. #LatinasinTech",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2723,
+        "friends_count": 2904,
+        "listed_count": 132,
+        "created_at": "Wed Mar 19 16:27:03 +0000 2008",
+        "favourites_count": 4561,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3527,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/663998574/000000_cork-board.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/663998574/000000_cork-board.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/459062414906900480/GobNxO5R_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/459062414906900480/GobNxO5R_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14177755/1348089007",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 18,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "evernote",
+            "name": "evernote",
+            "id": 13837292,
+            "id_str": "13837292",
+            "indices": [
+              16,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4wXHnBGeKJ",
+            "expanded_url": "http://bit.ly/1nGDgoA",
+            "display_url": "bit.ly/1nGDgoA",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 694902489858994176,
+            "id_str": "694902489858994176",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/CaTKIf2UcAA1zj4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CaTKIf2UcAA1zj4.jpg",
+            "url": "https://t.co/wv0czVmyoT",
+            "display_url": "pic.twitter.com/wv0czVmyoT",
+            "expanded_url": "http://twitter.com/gretelperera/status/694902490609758209/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 694902489858994176,
+            "id_str": "694902489858994176",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/CaTKIf2UcAA1zj4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CaTKIf2UcAA1zj4.jpg",
+            "url": "https://t.co/wv0czVmyoT",
+            "display_url": "pic.twitter.com/wv0czVmyoT",
+            "expanded_url": "http://twitter.com/gretelperera/status/694902490609758209/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cKc21xMxPp",
+          "expanded_url": "https://twitter.com/gretelperera/status/694902490609758209",
+          "display_url": "twitter.com/gretelperera/s…",
+          "indices": [
+            22,
+            45
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 03 14:18:17 +0000 2016",
+    "id": 694887636297646080,
+    "id_str": "694887636297646080",
+    "text": "RT @editionsatplay: We asked some very smart people: If you could make any digital book what would it be? https://t.co/ob3TpwMdHH https://t…",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 03 10:56:29 +0000 2016",
+      "id": 694836852046565376,
+      "id_str": "694836852046565376",
+      "text": "We asked some very smart people: If you could make any digital book what would it be? https://t.co/ob3TpwMdHH https://t.co/pjcZa6IN7P",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4745523943,
+        "id_str": "4745523943",
+        "name": "Editions At Play",
+        "screen_name": "editionsatplay",
+        "location": "",
+        "description": "A bookstore for books that cannot be printed. Made by @VisualEditions and @Google. We are now open.",
+        "url": "https://t.co/nlZHYdddwt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/nlZHYdddwt",
+                "expanded_url": "http://editionsatplay.com",
+                "display_url": "editionsatplay.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 149,
+        "friends_count": 30,
+        "listed_count": 7,
+        "created_at": "Mon Jan 11 23:43:47 +0000 2016",
+        "favourites_count": 96,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 64,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/687421839065387009/sb0xzH9Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/687421839065387009/sb0xzH9Q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4745523943/1452729089",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "favorite_count": 29,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ob3TpwMdHH",
+            "expanded_url": "http://www.editionsatplay.com",
+            "display_url": "editionsatplay.com",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 694836851102859264,
+            "id_str": "694836851102859264",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/CaSOb0bWQAAUYIV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CaSOb0bWQAAUYIV.jpg",
+            "url": "https://t.co/pjcZa6IN7P",
+            "display_url": "pic.twitter.com/pjcZa6IN7P",
+            "expanded_url": "http://twitter.com/editionsatplay/status/694836852046565376/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 145,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 438,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 256,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 694836851102859264,
+            "id_str": "694836851102859264",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/CaSOb0bWQAAUYIV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CaSOb0bWQAAUYIV.jpg",
+            "url": "https://t.co/pjcZa6IN7P",
+            "display_url": "pic.twitter.com/pjcZa6IN7P",
+            "expanded_url": "http://twitter.com/editionsatplay/status/694836852046565376/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 145,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 438,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 256,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "editionsatplay",
+          "name": "Editions At Play",
+          "id": 4745523943,
+          "id_str": "4745523943",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ob3TpwMdHH",
+          "expanded_url": "http://www.editionsatplay.com",
+          "display_url": "editionsatplay.com",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 694836851102859264,
+          "id_str": "694836851102859264",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CaSOb0bWQAAUYIV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CaSOb0bWQAAUYIV.jpg",
+          "url": "https://t.co/pjcZa6IN7P",
+          "display_url": "pic.twitter.com/pjcZa6IN7P",
+          "expanded_url": "http://twitter.com/editionsatplay/status/694836852046565376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 145,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 438,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 256,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 694836852046565376,
+          "source_status_id_str": "694836852046565376",
+          "source_user_id": 4745523943,
+          "source_user_id_str": "4745523943"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 694836851102859264,
+          "id_str": "694836851102859264",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CaSOb0bWQAAUYIV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CaSOb0bWQAAUYIV.jpg",
+          "url": "https://t.co/pjcZa6IN7P",
+          "display_url": "pic.twitter.com/pjcZa6IN7P",
+          "expanded_url": "http://twitter.com/editionsatplay/status/694836852046565376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 145,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 438,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 256,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 694836852046565376,
+          "source_status_id_str": "694836852046565376",
+          "source_user_id": 4745523943,
+          "source_user_id_str": "4745523943"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Feb 03 11:24:37 +0000 2016",
+    "id": 694843930840428544,
+    "id_str": "694843930840428544",
+    "text": "吃飯時開電視，國家地理頻道在播《史蒂芬霍金的未來新世界》第六集，看到幾台四軸無人機可以平衡直立桿、彼此丟接，還能三台合作拉張空網，自動判斷接人類丟出的球、再回拋給人，真是讓我驚呆了！（當然目前是在一個很誇張的超級實驗環境中。）\n\n這系列影片值得找來看看。",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 03 11:18:54 +0000 2016",
+    "id": 694842490902286336,
+    "id_str": "694842490902286336",
+    "text": "RT @TokKoba: First Editor's Draft of EPUB 3.1 Available for Review\n\nhttps://t.co/d3e9rwMv8Y",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 03 10:40:03 +0000 2016",
+      "id": 694832715011461120,
+      "id_str": "694832715011461120",
+      "text": "First Editor's Draft of EPUB 3.1 Available for Review\n\nhttps://t.co/d3e9rwMv8Y",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 132348701,
+        "id_str": "132348701",
+        "name": "Tokushige Kobayashi",
+        "screen_name": "TokKoba",
+        "location": "",
+        "description": "長野県生まれで東京在住です。出版社から脱サラでアンテナハウス設立。同社代表取締役。今年は会社設立30周年です。現在は電子出版に関心をもっています。新しい書籍像を研究・開発しています。",
+        "url": "http://t.co/8LmCp0LoyP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/8LmCp0LoyP",
+                "expanded_url": "http://blog.cas-ub.com/",
+                "display_url": "blog.cas-ub.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 763,
+        "friends_count": 294,
+        "listed_count": 89,
+        "created_at": "Tue Apr 13 00:35:56 +0000 2010",
+        "favourites_count": 127,
+        "utc_offset": 32400,
+        "time_zone": "Tokyo",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4212,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/138586725/kpd_campaignrogo3.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/138586725/kpd_campaignrogo3.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1134107719/DSCF0196_1__normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134107719/DSCF0196_1__normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/d3e9rwMv8Y",
+            "expanded_url": "http://epubzone.org/news/first-editors-draft-of-epub-31-available-for-review-0",
+            "display_url": "epubzone.org/news/first-edi…",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TokKoba",
+          "name": "Tokushige Kobayashi",
+          "id": 132348701,
+          "id_str": "132348701",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d3e9rwMv8Y",
+          "expanded_url": "http://epubzone.org/news/first-editors-draft-of-epub-31-available-for-review-0",
+          "display_url": "epubzone.org/news/first-edi…",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Feb 03 08:49:28 +0000 2016",
     "id": 694804886483931136,
     "id_str": "694804886483931136",
