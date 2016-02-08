@@ -1,5 +1,220 @@
 Grailbird.data.tweets_2016_02 = [
   {
+    "created_at": "Mon Feb 08 07:59:22 +0000 2016",
+    "id": 696604217151090688,
+    "id_str": "696604217151090688",
+    "text": "一時疏忽，原來前幾日推過的 Editions at Play 來頭不小，居然是 Google Creative Lab 與倫敦 Visual Editions 合作的實驗專案。 https://t.co/o0CiPgQvuo https://t.co/Q6HEeK4Sth",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/o0CiPgQvuo",
+          "expanded_url": "http://bit.ly/1NZjASb",
+          "display_url": "bit.ly/1NZjASb",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 696604207772643328,
+          "id_str": "696604207772643328",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CarV1hFUsAAZJUt.png",
+          "media_url_https": "https://pbs.twimg.com/media/CarV1hFUsAAZJUt.png",
+          "url": "https://t.co/Q6HEeK4Sth",
+          "display_url": "pic.twitter.com/Q6HEeK4Sth",
+          "expanded_url": "http://twitter.com/wastemobile/status/696604217151090688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 252,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 839,
+              "h": 624,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 446,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 696604207772643328,
+          "id_str": "696604207772643328",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CarV1hFUsAAZJUt.png",
+          "media_url_https": "https://pbs.twimg.com/media/CarV1hFUsAAZJUt.png",
+          "url": "https://t.co/Q6HEeK4Sth",
+          "display_url": "pic.twitter.com/Q6HEeK4Sth",
+          "expanded_url": "http://twitter.com/wastemobile/status/696604217151090688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 252,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 839,
+              "h": 624,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 446,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 696604214143791104,
+          "id_str": "696604214143791104",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CarV140UsAAlPjt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CarV140UsAAlPjt.jpg",
+          "url": "https://t.co/Q6HEeK4Sth",
+          "display_url": "pic.twitter.com/Q6HEeK4Sth",
+          "expanded_url": "http://twitter.com/wastemobile/status/696604217151090688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1022,
+              "h": 499,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 292,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 166,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Feb 07 04:32:40 +0000 2016",
+    "id": 696189810914897920,
+    "id_str": "696189810914897920",
+    "text": "「美國圖書業，從其十九世紀形成階段到 1891 年 4 月，一直未受國際版權協議的約束，書商們得以肆無忌憚地剽竊歐洲 — 主要是英國 — 成熟的文學作品。」 by Sutherland, J.",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 06 15:18:56 +0000 2016",
     "id": 695990061280550912,
     "id_str": "695990061280550912",
