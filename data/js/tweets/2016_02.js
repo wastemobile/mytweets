@@ -1,5 +1,529 @@
 Grailbird.data.tweets_2016_02 = [
   {
+    "created_at": "Wed Feb 17 17:45:17 +0000 2016",
+    "id": 700013159675899904,
+    "id_str": "700013159675899904",
+    "text": "嚇！中元節什麼時候改時間了？ https://t.co/RmffsJ6IHt",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 699975677609533440,
+    "quoted_status_id_str": "699975677609533440",
+    "quoted_status": {
+      "created_at": "Wed Feb 17 15:16:21 +0000 2016",
+      "id": 699975677609533440,
+      "id_str": "699975677609533440",
+      "text": "燈燈燈～我#這不是亮了嗎！ https://t.co/NJlpkI7LKK",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2503372706,
+        "id_str": "2503372706",
+        "name": "DJ金寶",
+        "screen_name": "pttradiotw",
+        "location": "Taiwan",
+        "description": "以前的PTTradio，現在的DJ金寶。 非PTT站方單位。 來信請寄： pttradio.web@gmail.com === 新節目「寶島大夜班」@寶島聯播網 週一到週六，凌晨 0:00 ~ 3:00。",
+        "url": "https://t.co/ThntBY6gvh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ThntBY6gvh",
+                "expanded_url": "http://facebook.com/pttradio",
+                "display_url": "facebook.com/pttradio",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 711,
+        "friends_count": 194,
+        "listed_count": 20,
+        "created_at": "Sun May 18 04:44:46 +0000 2014",
+        "favourites_count": 35,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7389,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/698085414217732096/i9iZPN0B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/698085414217732096/i9iZPN0B_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2503372706/1452648973",
+        "profile_link_color": "999999",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 699975669074137088,
+            "id_str": "699975669074137088",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/media/CbbQKZKUkAAg4Mw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CbbQKZKUkAAg4Mw.jpg",
+            "url": "https://t.co/NJlpkI7LKK",
+            "display_url": "pic.twitter.com/NJlpkI7LKK",
+            "expanded_url": "http://twitter.com/pttradiotw/status/699975677609533440/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 227,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 699975669074137088,
+            "id_str": "699975669074137088",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/media/CbbQKZKUkAAg4Mw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CbbQKZKUkAAg4Mw.jpg",
+            "url": "https://t.co/NJlpkI7LKK",
+            "display_url": "pic.twitter.com/NJlpkI7LKK",
+            "expanded_url": "http://twitter.com/pttradiotw/status/699975677609533440/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 227,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RmffsJ6IHt",
+          "expanded_url": "https://twitter.com/pttradiotw/status/699975677609533440",
+          "display_url": "twitter.com/pttradiotw/sta…",
+          "indices": [
+            15,
+            38
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 17 16:56:23 +0000 2016",
+    "id": 700000851784433664,
+    "id_str": "700000851784433664",
+    "text": "有什麼是 Slack 能，而 Telegram 不能的？",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Feb 17 16:50:25 +0000 2016",
+    "id": 699999353641897985,
+    "id_str": "699999353641897985",
+    "text": "麻瓜好像只要學會用 Telegram bot 搭配 IFTTT，就可以玩好一陣子了。 https://t.co/dzw3yxnRe3",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dzw3yxnRe3",
+          "expanded_url": "http://bit.ly/1SSDtmr",
+          "display_url": "bit.ly/1SSDtmr",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 17 16:41:35 +0000 2016",
+    "id": 699997128857296897,
+    "id_str": "699997128857296897",
+    "text": "其實 Telegram 也有開放機器人，有人花一週寫了個「旅遊對談規劃」的機器人，還蠻好玩的，可以看出一點這種「交談式服務」的潛力。 https://t.co/TgWtxyN6xo https://t.co/BNMfu2DIbd",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TgWtxyN6xo",
+          "expanded_url": "http://bit.ly/1SSCZN0",
+          "display_url": "bit.ly/1SSCZN0",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 699997125740883968,
+          "id_str": "699997125740883968",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/CbbjrVeUcAAvre2.png",
+          "media_url_https": "https://pbs.twimg.com/media/CbbjrVeUcAAvre2.png",
+          "url": "https://t.co/BNMfu2DIbd",
+          "display_url": "pic.twitter.com/BNMfu2DIbd",
+          "expanded_url": "http://twitter.com/wastemobile/status/699997128857296897/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 782,
+              "h": 499,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 217,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 699997125740883968,
+          "id_str": "699997125740883968",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/CbbjrVeUcAAvre2.png",
+          "media_url_https": "https://pbs.twimg.com/media/CbbjrVeUcAAvre2.png",
+          "url": "https://t.co/BNMfu2DIbd",
+          "display_url": "pic.twitter.com/BNMfu2DIbd",
+          "expanded_url": "http://twitter.com/wastemobile/status/699997128857296897/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 782,
+              "h": 499,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 217,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 17 15:29:18 +0000 2016",
+    "id": 699978936336257024,
+    "id_str": "699978936336257024",
+    "text": "@Wcw5504 感謝，測試後確實如此，還是日文直排相當漂亮的 Voyager 方案呢～",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 699972643517132800,
+    "in_reply_to_status_id_str": "699972643517132800",
+    "in_reply_to_user_id": 269838003,
+    "in_reply_to_user_id_str": "269838003",
+    "in_reply_to_screen_name": "Wcw5504",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Wcw5504",
+          "name": "五月雨",
+          "id": 269838003,
+          "id_str": "269838003",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Feb 17 10:14:49 +0000 2016",
     "id": 699899797206007808,
     "id_str": "699899797206007808",
