@@ -1,5 +1,939 @@
 Grailbird.data.tweets_2016_02 = [
   {
+    "created_at": "Fri Feb 19 03:33:43 +0000 2016",
+    "id": 700523630120165376,
+    "id_str": "700523630120165376",
+    "text": "《案例：重建还是将死——关于Twitter的时下境况》 Free eBook https://t.co/2CZQpjg4Hn https://t.co/ZzZtYexTIj https://t.co/icEU00F5Es",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 700375566365536256,
+    "in_reply_to_status_id_str": "700375566365536256",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 700375566365536256,
+    "quoted_status_id_str": "700375566365536256",
+    "quoted_status": {
+      "created_at": "Thu Feb 18 17:45:22 +0000 2016",
+      "id": 700375566365536256,
+      "id_str": "700375566365536256",
+      "text": "大推！直擊核心的一篇好文。一個用140字溝通資訊的極簡服務，一季能賺五億美金，算是失敗嗎？非得滿足華爾街想賺一百倍、一千倍的瘋狂慾望才叫成功？這種貪婪將會毀掉真正的數位經濟。 https://t.co/0NFaHYqK8e https://t.co/DLvidxnm6N",
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "Taipei",
+        "description": "「小型工具帶來一種完成工作的方法，也帶來一種實現自我變革、社會變革、最終實現世界變革的途徑。」 《數字烏托邦》\n\n所以大家可以開始用 Telegram 了嗎？",
+        "url": "https://t.co/5LQVtqARrN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LQVtqARrN",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2518,
+        "friends_count": 1041,
+        "listed_count": 112,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 2045,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14402,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1444152077",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "quoted_status_id": 700305772719316993,
+      "quoted_status_id_str": "700305772719316993",
+      "is_quote_status": true,
+      "retweet_count": 32,
+      "favorite_count": 22,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0NFaHYqK8e",
+            "expanded_url": "https://twitter.com/TheAtlantic/status/700305772719316993",
+            "display_url": "twitter.com/TheAtlantic/st…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 700375562972319744,
+            "id_str": "700375562972319744",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cbg73SBUUAAHueq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cbg73SBUUAAHueq.jpg",
+            "url": "https://t.co/DLvidxnm6N",
+            "display_url": "pic.twitter.com/DLvidxnm6N",
+            "expanded_url": "http://twitter.com/wastemobile/status/700375566365536256/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 227,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 700375562972319744,
+            "id_str": "700375562972319744",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cbg73SBUUAAHueq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cbg73SBUUAAHueq.jpg",
+            "url": "https://t.co/DLvidxnm6N",
+            "display_url": "pic.twitter.com/DLvidxnm6N",
+            "expanded_url": "http://twitter.com/wastemobile/status/700375566365536256/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 227,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2CZQpjg4Hn",
+          "expanded_url": "http://bit.ly/1KYwkOt",
+          "display_url": "bit.ly/1KYwkOt",
+          "indices": [
+            39,
+            62
+          ]
+        },
+        {
+          "url": "https://t.co/ZzZtYexTIj",
+          "expanded_url": "https://twitter.com/wastemobile/status/700375566365536256",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 700523626953465858,
+          "id_str": "700523626953465858",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/CbjChvVUYAIemjI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CbjChvVUYAIemjI.jpg",
+          "url": "https://t.co/icEU00F5Es",
+          "display_url": "pic.twitter.com/icEU00F5Es",
+          "expanded_url": "http://twitter.com/wastemobile/status/700523630120165376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 700523626953465858,
+          "id_str": "700523626953465858",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/CbjChvVUYAIemjI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CbjChvVUYAIemjI.jpg",
+          "url": "https://t.co/icEU00F5Es",
+          "display_url": "pic.twitter.com/icEU00F5Es",
+          "expanded_url": "http://twitter.com/wastemobile/status/700523630120165376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 18 17:45:22 +0000 2016",
+    "id": 700375566365536256,
+    "id_str": "700375566365536256",
+    "text": "大推！直擊核心的一篇好文。一個用140字溝通資訊的極簡服務，一季能賺五億美金，算是失敗嗎？非得滿足華爾街想賺一百倍、一千倍的瘋狂慾望才叫成功？這種貪婪將會毀掉真正的數位經濟。 https://t.co/0NFaHYqK8e https://t.co/DLvidxnm6N",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 700305772719316993,
+    "quoted_status_id_str": "700305772719316993",
+    "quoted_status": {
+      "created_at": "Thu Feb 18 13:08:01 +0000 2016",
+      "id": 700305772719316993,
+      "id_str": "700305772719316993",
+      "text": "Twitter isn't a failure, and its stock-market troubles are only evidence of how broken the system is https://t.co/jCGQOkvY7D",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 35773039,
+        "id_str": "35773039",
+        "name": "The Atlantic",
+        "screen_name": "TheAtlantic",
+        "location": "Washington, D.C.",
+        "description": "Politics, culture, business, science, technology, health, education, global affairs, more. Tweets by @CaitlinFrazier",
+        "url": "http://t.co/pI6FUBgQdl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/pI6FUBgQdl",
+                "expanded_url": "http://www.theatlantic.com",
+                "display_url": "theatlantic.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1218736,
+        "friends_count": 1015,
+        "listed_count": 23799,
+        "created_at": "Mon Apr 27 15:41:54 +0000 2009",
+        "favourites_count": 661,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 81209,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/215776367/twitter-main.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/215776367/twitter-main.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268207868/twitter-icon-main_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268207868/twitter-icon-main_normal.png",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "E6ECF2",
+        "profile_text_color": "000408",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 360,
+      "favorite_count": 343,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jCGQOkvY7D",
+            "expanded_url": "http://theatln.tc/1XzD8Ux",
+            "display_url": "theatln.tc/1XzD8Ux",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "retweet_count": 32,
+    "favorite_count": 22,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0NFaHYqK8e",
+          "expanded_url": "https://twitter.com/TheAtlantic/status/700305772719316993",
+          "display_url": "twitter.com/TheAtlantic/st…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 700375562972319744,
+          "id_str": "700375562972319744",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cbg73SBUUAAHueq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cbg73SBUUAAHueq.jpg",
+          "url": "https://t.co/DLvidxnm6N",
+          "display_url": "pic.twitter.com/DLvidxnm6N",
+          "expanded_url": "http://twitter.com/wastemobile/status/700375566365536256/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 227,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 700375562972319744,
+          "id_str": "700375562972319744",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cbg73SBUUAAHueq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cbg73SBUUAAHueq.jpg",
+          "url": "https://t.co/DLvidxnm6N",
+          "display_url": "pic.twitter.com/DLvidxnm6N",
+          "expanded_url": "http://twitter.com/wastemobile/status/700375566365536256/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 227,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 18 16:27:11 +0000 2016",
+    "id": 700355893779562496,
+    "id_str": "700355893779562496",
+    "text": "發現上次沒買到的《睡鼠說 - 個人電腦之迷幻往事》，博客來新到貨，過兩天就可看了，好多人推薦這本呢～ https://t.co/mE5kHJQMvr https://t.co/TQxagPrtl4",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mE5kHJQMvr",
+          "expanded_url": "http://bit.ly/1SUvoO2",
+          "display_url": "bit.ly/1SUvoO2",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 700355890180804608,
+          "id_str": "700355890180804608",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cbgp-LKUUAAJnZw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cbgp-LKUUAAJnZw.jpg",
+          "url": "https://t.co/TQxagPrtl4",
+          "display_url": "pic.twitter.com/TQxagPrtl4",
+          "expanded_url": "http://twitter.com/wastemobile/status/700355893779562496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 297,
+              "h": 447,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 297,
+              "h": 447,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 297,
+              "h": 447,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 700355890180804608,
+          "id_str": "700355890180804608",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cbgp-LKUUAAJnZw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cbgp-LKUUAAJnZw.jpg",
+          "url": "https://t.co/TQxagPrtl4",
+          "display_url": "pic.twitter.com/TQxagPrtl4",
+          "expanded_url": "http://twitter.com/wastemobile/status/700355893779562496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 297,
+              "h": 447,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 297,
+              "h": 447,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 297,
+              "h": 447,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 18 14:55:09 +0000 2016",
+    "id": 700332730072993792,
+    "id_str": "700332730072993792",
+    "text": "RT @mobileread: Copyright Office asking for opinions on DRM, Defective By Design replies https://t.co/FmclIE2fwX",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 18 14:50:09 +0000 2016",
+      "id": 700331475128991746,
+      "id_str": "700331475128991746",
+      "text": "Copyright Office asking for opinions on DRM, Defective By Design replies https://t.co/FmclIE2fwX",
+      "source": "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 38746309,
+        "id_str": "38746309",
+        "name": "MobileRead",
+        "screen_name": "mobileread",
+        "location": "Zürich, Switzerland",
+        "description": "Where e-book newbies and industry veterans chat about e-books and e-book technologies",
+        "url": "http://t.co/nuLyZw9sPF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/nuLyZw9sPF",
+                "expanded_url": "http://www.mobileread.com",
+                "display_url": "mobileread.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1649,
+        "friends_count": 200,
+        "listed_count": 131,
+        "created_at": "Fri May 08 22:40:35 +0000 2009",
+        "favourites_count": 2,
+        "utc_offset": 3600,
+        "time_zone": "Berlin",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1607,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F7F7F7",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/12197381/mobileread.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/12197381/mobileread.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/204703226/mobileread_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/204703226/mobileread_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38746309/1376912649",
+        "profile_link_color": "FF5B00",
+        "profile_sidebar_border_color": "FF5B00",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FmclIE2fwX",
+            "expanded_url": "http://goo.gl/fb/0v6Beb",
+            "display_url": "goo.gl/fb/0v6Beb",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mobileread",
+          "name": "MobileRead",
+          "id": 38746309,
+          "id_str": "38746309",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FmclIE2fwX",
+          "expanded_url": "http://goo.gl/fb/0v6Beb",
+          "display_url": "goo.gl/fb/0v6Beb",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 18 11:07:40 +0000 2016",
+    "id": 700275481858342914,
+    "id_str": "700275481858342914",
+    "text": "@Specter_hi 哇哈哈，You got it！這就是我喜歡這書單的原因啊～。根據推測，會有50%的人從第一本挑起，總是讀《老人與海》也太無聊了...XD",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 700273221921148932,
+    "in_reply_to_status_id_str": "700273221921148932",
+    "in_reply_to_user_id": 12180372,
+    "in_reply_to_user_id_str": "12180372",
+    "in_reply_to_screen_name": "Specter_hi",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Specter_hi",
+          "name": "Specter",
+          "id": 12180372,
+          "id_str": "12180372",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Feb 18 06:00:05 +0000 2016",
     "id": 700198079299883008,
     "id_str": "700198079299883008",
