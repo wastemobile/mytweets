@@ -1,5 +1,617 @@
 Grailbird.data.tweets_2016_03 = [
   {
+    "created_at": "Sun Mar 06 16:02:29 +0000 2016",
+    "id": 706510269296431105,
+    "id_str": "706510269296431105",
+    "text": "《臥虎藏龍2》電影很糟，但因為沒看過小說，所以當做故事補完，打著呵欠看完了。",
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 06 08:25:11 +0000 2016",
+    "id": 706395186000109568,
+    "id_str": "706395186000109568",
+    "text": "在博覽群書、廣納友言，特別是推友的醍醐灌頂之下，參透了！\n\n「未來世界，將是女人、喵星人與機器人三強鼎立的時代。但男人依舊主導著一個領域：服務業，服務她們的產業。」\n\n頓時覺得前途光明、空氣清新，就連胃口也好了起來，出門吃飯去。",
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 8,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 06 07:31:03 +0000 2016",
+    "id": 706381563076849664,
+    "id_str": "706381563076849664",
+    "text": "大家不要那麼專業，推特讓人壓力好大啊！ https://t.co/OWX7FuXqAk",
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 706380391171518464,
+    "quoted_status_id_str": "706380391171518464",
+    "quoted_status": {
+      "created_at": "Sun Mar 06 07:26:23 +0000 2016",
+      "id": 706380391171518464,
+      "id_str": "706380391171518464",
+      "text": "@wastemobile 其實她沒講完，後續還有「....搞他到離婚，奪他一半財產和贍養費，養幾隻小狼狗，這樣過一生。」",
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 706373870542913536,
+      "in_reply_to_status_id_str": "706373870542913536",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 190920291,
+        "id_str": "190920291",
+        "name": "京都的蛋",
+        "screen_name": "kyoto_zipsky",
+        "location": "Taiwan,Taipei",
+        "description": "軟體開發產業混了近二十年，從開發面混到行銷面、從業務面混到策略規劃面，自己調侃是公司的救火隊和瑞士小刀。＼喜歡京都，哪裡的文化氛圍讓我思緒可以沈澱清晰。＼喜歡貓，因為那個喜歡鬧點脾氣的固執和撒嬌，總讓人會心一笑。＼喜歡雨，因為那夠詩意。＼喜歡談管理，不是因為自己很厲害，只是自己和自己的對話。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 242,
+        "friends_count": 186,
+        "listed_count": 6,
+        "created_at": "Wed Sep 15 04:41:00 +0000 2010",
+        "favourites_count": 242,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4489,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644418532176822272/V4gCAmmQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644418532176822272/V4gCAmmQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/190920291/1444355986",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "019a3137395a2973",
+        "url": "https://api.twitter.com/1.1/geo/id/019a3137395a2973.json",
+        "place_type": "city",
+        "name": "新北市",
+        "full_name": "新北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.282664,
+                24.673115
+              ],
+              [
+                122.007508,
+                24.673115
+              ],
+              [
+                122.007508,
+                25.2995704
+              ],
+              [
+                121.282664,
+                25.2995704
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OWX7FuXqAk",
+          "expanded_url": "https://twitter.com/kyoto_zipsky/status/706380391171518464",
+          "display_url": "twitter.com/kyoto_zipsky/s…",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 06 07:00:29 +0000 2016",
+    "id": 706373870542913536,
+    "id_str": "706373870542913536",
+    "text": "朋友的寶貝女兒念中山女高，功課好、英文佳，講話邏輯清晰，組織日常事務條理分明、計畫嚴謹，長得又漂亮，一看就是女強人的架勢。忍不住問她，志向是什麼？想在哪方面發光發熱？她很認真的回答我...\n\n「嫁個有錢人」。 #真實案例",
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 15,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "真實案例",
+          "indices": [
+            105,
+            110
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 06 06:49:08 +0000 2016",
+    "id": 706371015287255040,
+    "id_str": "706371015287255040",
+    "text": "Larry Wall 在《Programming Perl》中指出優秀的程序員有三大美德：Laziness, Impatience and Hubris，亦即「懶惰、急躁和傲慢」。（咦？）",
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 06 06:43:42 +0000 2016",
+    "id": 706369648564895744,
+    "id_str": "706369648564895744",
+    "text": "@mjwoorg 調整字大小的功能確實壞了，更新也不對勁（我直接下載覆蓋），但舊版輸入中文字非常不對勁，字距會亂跳、選字會失效，打起來痛苦會讓人很快放棄。，現在就是可以專注點用而已。這東西是整個骨架看起來很不錯，血肉始終毛病不斷...。",
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 706368230068097024,
+    "in_reply_to_status_id_str": "706368230068097024",
+    "in_reply_to_user_id": 468879796,
+    "in_reply_to_user_id_str": "468879796",
+    "in_reply_to_screen_name": "mjwoorg",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mjwoorg",
+          "name": "M Jwo",
+          "id": 468879796,
+          "id_str": "468879796",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 06 06:32:24 +0000 2016",
+    "id": 706366803572723712,
+    "id_str": "706366803572723712",
+    "text": "GitBook Mac 桌面程式之前輸入中文總覺得卡卡，最近的 5.0.2 版更新有大幅改善。關掉對中文沒用的英文校對與拼字檢查，頁面也不會出現檢查輔助顯示，算是正式進入可用狀態。 https://t.co/OoBftKJQtd https://t.co/XwwSLfRH56",
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OoBftKJQtd",
+          "expanded_url": "http://bit.ly/1p878vk",
+          "display_url": "bit.ly/1p878vk",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 706366800477290496,
+          "id_str": "706366800477290496",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cc2E3M-UAAAq1iA.png",
+          "media_url_https": "https://pbs.twimg.com/media/Cc2E3M-UAAAq1iA.png",
+          "url": "https://t.co/XwwSLfRH56",
+          "display_url": "pic.twitter.com/XwwSLfRH56",
+          "expanded_url": "http://twitter.com/wastemobile/status/706366803572723712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1000,
+              "h": 601,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 361,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 204,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 706366800477290496,
+          "id_str": "706366800477290496",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cc2E3M-UAAAq1iA.png",
+          "media_url_https": "https://pbs.twimg.com/media/Cc2E3M-UAAAq1iA.png",
+          "url": "https://t.co/XwwSLfRH56",
+          "display_url": "pic.twitter.com/XwwSLfRH56",
+          "expanded_url": "http://twitter.com/wastemobile/status/706366803572723712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1000,
+              "h": 601,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 361,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 204,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 06 05:14:49 +0000 2016",
+    "id": 706347280220053505,
+    "id_str": "706347280220053505",
+    "text": "有線電視今天居然也一整天播《紙牌屋》第四季看到飽，宅也是你們聯手逼出來的。",
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Mar 06 01:00:29 +0000 2016",
     "id": 706283272943218688,
     "id_str": "706283272943218688",
