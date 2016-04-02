@@ -1,5 +1,1438 @@
 Grailbird.data.tweets_2016_03 = [
   {
+    "created_at": "Thu Mar 31 16:42:29 +0000 2016",
+    "id": 715580035080388608,
+    "id_str": "715580035080388608",
+    "text": "RT @tmas68: 紀念自殺身亡的 Aaron Swartz，Verso出版社今天提供六本電子書免費下載  https://t.co/nHLtoZ2jbW",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tmas68",
+          "name": "張育章",
+          "id": 32893,
+          "id_str": "32893",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nHLtoZ2jbW",
+          "expanded_url": "http://www.versobooks.com/blogs/2575-psst-downloading-isn-t-stealing-for-today?utm_source=Master+List&utm_campaign=5f2c51cd53-UK+Direct+-+Swartz+%26+other+free+ebooks+promo&utm_medium=email&utm_term=0_1f96ba5fab-5f2c51cd53-409750869",
+          "display_url": "versobooks.com/blogs/2575-pss…",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 31 16:39:30 +0000 2016",
+      "id": 715579283410792452,
+      "id_str": "715579283410792452",
+      "text": "紀念自殺身亡的 Aaron Swartz，Verso出版社今天提供六本電子書免費下載  https://t.co/nHLtoZ2jbW",
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nHLtoZ2jbW",
+            "expanded_url": "http://www.versobooks.com/blogs/2575-psst-downloading-isn-t-stealing-for-today?utm_source=Master+List&utm_campaign=5f2c51cd53-UK+Direct+-+Swartz+%26+other+free+ebooks+promo&utm_medium=email&utm_term=0_1f96ba5fab-5f2c51cd53-409750869",
+            "display_url": "versobooks.com/blogs/2575-pss…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 32893,
+        "id_str": "32893",
+        "name": "張育章",
+        "screen_name": "tmas68",
+        "location": "Tamsui, Taipei",
+        "description": "兒子的大書僮",
+        "url": "https://t.co/oJhmsdLZNE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/oJhmsdLZNE",
+                "expanded_url": "https://plus.google.com/u/0/111263029234904833703",
+                "display_url": "plus.google.com/u/0/1112630292…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3805,
+        "friends_count": 1986,
+        "listed_count": 114,
+        "created_at": "Thu Nov 30 20:21:35 +0000 2006",
+        "favourites_count": 8034,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13593,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DEDEB8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4021970/3088874401_338504aeef_b.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4021970/3088874401_338504aeef_b.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/304761746/tm_web_id_photo_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/304761746/tm_web_id_photo_normal.JPG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32893/1348623120",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 31 16:22:56 +0000 2016",
+    "id": 715575114947907584,
+    "id_str": "715575114947907584",
+    "text": "RT @drobo: Backup your data today and stay Drobo safe! #WorldBackupDay https://t.co/j16Xi5tuT0",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "WorldBackupDay",
+          "indices": [
+            55,
+            70
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "drobo",
+          "name": "Drobo",
+          "id": 14721260,
+          "id_str": "14721260",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 715575066310803456,
+          "id_str": "715575066310803456",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce47u0WVAAAheKS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce47u0WVAAAheKS.jpg",
+          "url": "https://t.co/j16Xi5tuT0",
+          "display_url": "pic.twitter.com/j16Xi5tuT0",
+          "expanded_url": "http://twitter.com/drobo/status/715575066705047553/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 715575066705047553,
+          "source_status_id_str": "715575066705047553",
+          "source_user_id": 14721260,
+          "source_user_id_str": "14721260"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 715575066310803456,
+          "id_str": "715575066310803456",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce47u0WVAAAheKS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce47u0WVAAAheKS.jpg",
+          "url": "https://t.co/j16Xi5tuT0",
+          "display_url": "pic.twitter.com/j16Xi5tuT0",
+          "expanded_url": "http://twitter.com/drobo/status/715575066705047553/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 715575066705047553,
+          "source_status_id_str": "715575066705047553",
+          "source_user_id": 14721260,
+          "source_user_id_str": "14721260"
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 31 16:22:45 +0000 2016",
+      "id": 715575066705047553,
+      "id_str": "715575066705047553",
+      "text": "Backup your data today and stay Drobo safe! #WorldBackupDay https://t.co/j16Xi5tuT0",
+      "entities": {
+        "hashtags": [
+          {
+            "text": "WorldBackupDay",
+            "indices": [
+              44,
+              59
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 715575066310803456,
+            "id_str": "715575066310803456",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce47u0WVAAAheKS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce47u0WVAAAheKS.jpg",
+            "url": "https://t.co/j16Xi5tuT0",
+            "display_url": "pic.twitter.com/j16Xi5tuT0",
+            "expanded_url": "http://twitter.com/drobo/status/715575066705047553/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 715575066310803456,
+            "id_str": "715575066310803456",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce47u0WVAAAheKS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce47u0WVAAAheKS.jpg",
+            "url": "https://t.co/j16Xi5tuT0",
+            "display_url": "pic.twitter.com/j16Xi5tuT0",
+            "expanded_url": "http://twitter.com/drobo/status/715575066705047553/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 300,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 170,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14721260,
+        "id_str": "14721260",
+        "name": "Drobo",
+        "screen_name": "drobo",
+        "location": "Silicon Valley, CA",
+        "description": "Smart storage that grows with you and protects what matters.Drobo provides redundant data protection without the complexities of traditional RAID.",
+        "url": "http://t.co/YJEuW3EQmR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/YJEuW3EQmR",
+                "expanded_url": "http://www.drobo.com",
+                "display_url": "drobo.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 29310,
+        "friends_count": 12035,
+        "listed_count": 1374,
+        "created_at": "Sat May 10 04:07:29 +0000 2008",
+        "favourites_count": 1304,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6962,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/588391547978186752/0zgb6W1__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/588391547978186752/0zgb6W1__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14721260/1399412894",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 31 16:03:46 +0000 2016",
+    "id": 715570290151960576,
+    "id_str": "715570290151960576",
+    "text": "在 Jobs 創立 Apple、John Lennon 夢想 Nutopia 的這天，想起 “Newsroom” 第一季 “The Greater Fool” 的結局。願癲狂的理想主義騎士精神永存，寧做大傻瓜，不讓自己成為自私自利的聰明人。\n\n2016 愚人節快樂！",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 31 12:51:58 +0000 2016",
+    "id": 715522020348289024,
+    "id_str": "715522020348289024",
+    "text": "好吧，我打不倒中華電信永遠擋在你前面的現實，只能自己在腦中哼唱一下了...",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 31 12:48:33 +0000 2016",
+    "id": 715521161979756544,
+    "id_str": "715521161979756544",
+    "text": "1973年4月1號，約翰藍儂與小野洋子在紐約宣布了一個名為「Nutopia」的概念性國家，約翰自任為大使。在 @AppleMusic 聽他的「Imagine」，虛構是為了對抗現實。\nhttps://t.co/o8pyydLRzj https://t.co/XNn8047RZs",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AppleMusic",
+          "name": "Apple Music",
+          "id": 74580436,
+          "id_str": "74580436",
+          "indices": [
+            55,
+            66
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/o8pyydLRzj",
+          "expanded_url": "https://itun.es/tw/6OKb2?i=906383887",
+          "display_url": "itun.es/tw/6OKb2?i=906…",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 715521161635897345,
+          "id_str": "715521161635897345",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce4KtJyVIAEY0ut.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce4KtJyVIAEY0ut.jpg",
+          "url": "https://t.co/XNn8047RZs",
+          "display_url": "pic.twitter.com/XNn8047RZs",
+          "expanded_url": "http://twitter.com/wastemobile/status/715521161979756544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 125,
+              "h": 125,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 125,
+              "h": 125,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 125,
+              "h": 125,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 125,
+              "h": 125,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 715521161635897345,
+          "id_str": "715521161635897345",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce4KtJyVIAEY0ut.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce4KtJyVIAEY0ut.jpg",
+          "url": "https://t.co/XNn8047RZs",
+          "display_url": "pic.twitter.com/XNn8047RZs",
+          "expanded_url": "http://twitter.com/wastemobile/status/715521161979756544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 125,
+              "h": 125,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 125,
+              "h": 125,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 125,
+              "h": 125,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 125,
+              "h": 125,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 31 12:29:55 +0000 2016",
+    "id": 715516473880420352,
+    "id_str": "715516473880420352",
+    "text": "得趕緊補完 ES2015 了，嗚哈～",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 31 10:54:32 +0000 2016",
+    "id": 715492467513040896,
+    "id_str": "715492467513040896",
+    "text": "You hope for the best, and make do with what you get.",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 31 09:58:57 +0000 2016",
+    "id": 715478481631444996,
+    "id_str": "715478481631444996",
+    "text": "本日最勵志～ https://t.co/XGQBvmtEsZ",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XGQBvmtEsZ",
+          "expanded_url": "https://twitter.com/xiiaozaizai520/status/715437203581632512",
+          "display_url": "twitter.com/xiiaozaizai520…",
+          "indices": [
+            7,
+            30
+          ]
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 715437203581632512,
+    "quoted_status_id_str": "715437203581632512",
+    "quoted_status": {
+      "created_at": "Thu Mar 31 07:14:56 +0000 2016",
+      "id": 715437203581632512,
+      "id_str": "715437203581632512",
+      "text": "喜歡就去追吧\n管人家有沒有女朋友幹嘛\n\n球隊還有守門員呢\n球不是照樣進嗎？😏 https://t.co/KvxlrOFNLc",
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 715437200725258240,
+            "id_str": "715437200725258240",
+            "indices": [
+              39,
+              62
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce2-V_BUMAA1BvT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce2-V_BUMAA1BvT.jpg",
+            "url": "https://t.co/KvxlrOFNLc",
+            "display_url": "pic.twitter.com/KvxlrOFNLc",
+            "expanded_url": "http://twitter.com/xiiaozaizai520/status/715437203581632512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 715437200725258240,
+            "id_str": "715437200725258240",
+            "indices": [
+              39,
+              62
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce2-V_BUMAA1BvT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce2-V_BUMAA1BvT.jpg",
+            "url": "https://t.co/KvxlrOFNLc",
+            "display_url": "pic.twitter.com/KvxlrOFNLc",
+            "expanded_url": "http://twitter.com/xiiaozaizai520/status/715437203581632512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 600,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1659358670,
+        "id_str": "1659358670",
+        "name": "麥仔仔",
+        "screen_name": "xiiaozaizai520",
+        "location": "",
+        "description": "我們還年輕，談不上永遠。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 494,
+        "friends_count": 10,
+        "listed_count": 0,
+        "created_at": "Sat Aug 10 05:31:41 +0000 2013",
+        "favourites_count": 26989,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6811,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710693759936106496/jBwkirWO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710693759936106496/jBwkirWO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659358670/1444422155",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 33,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Mar 31 07:32:15 +0000 2016",
+    "id": 715441561459228672,
+    "id_str": "715441561459228672",
+    "text": "RT @openculture: Patti Smith’s List of Favorite Books: From Rimbaud to Susan Sontag https://t.co/oko35omn9k https://t.co/rbcsrwfFQZ",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "openculture",
+          "name": "Open Culture",
+          "id": 19826509,
+          "id_str": "19826509",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oko35omn9k",
+          "expanded_url": "http://goo.gl/tknYbt",
+          "display_url": "goo.gl/tknYbt",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 715434788027371520,
+          "id_str": "715434788027371520",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce28JjBUEAAeVe9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce28JjBUEAAeVe9.jpg",
+          "url": "https://t.co/rbcsrwfFQZ",
+          "display_url": "pic.twitter.com/rbcsrwfFQZ",
+          "expanded_url": "http://twitter.com/openculture/status/715441256411738112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 480,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 715441256411738112,
+          "source_status_id_str": "715441256411738112",
+          "source_user_id": 19826509,
+          "source_user_id_str": "19826509"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 715434788027371520,
+          "id_str": "715434788027371520",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce28JjBUEAAeVe9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce28JjBUEAAeVe9.jpg",
+          "url": "https://t.co/rbcsrwfFQZ",
+          "display_url": "pic.twitter.com/rbcsrwfFQZ",
+          "expanded_url": "http://twitter.com/openculture/status/715441256411738112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 480,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 715441256411738112,
+          "source_status_id_str": "715441256411738112",
+          "source_user_id": 19826509,
+          "source_user_id_str": "19826509"
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 31 07:31:02 +0000 2016",
+      "id": 715441256411738112,
+      "id_str": "715441256411738112",
+      "text": "Patti Smith’s List of Favorite Books: From Rimbaud to Susan Sontag https://t.co/oko35omn9k https://t.co/rbcsrwfFQZ",
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oko35omn9k",
+            "expanded_url": "http://goo.gl/tknYbt",
+            "display_url": "goo.gl/tknYbt",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 715434788027371520,
+            "id_str": "715434788027371520",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce28JjBUEAAeVe9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce28JjBUEAAeVe9.jpg",
+            "url": "https://t.co/rbcsrwfFQZ",
+            "display_url": "pic.twitter.com/rbcsrwfFQZ",
+            "expanded_url": "http://twitter.com/openculture/status/715441256411738112/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 480,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 715434788027371520,
+            "id_str": "715434788027371520",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce28JjBUEAAeVe9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce28JjBUEAAeVe9.jpg",
+            "url": "https://t.co/rbcsrwfFQZ",
+            "display_url": "pic.twitter.com/rbcsrwfFQZ",
+            "expanded_url": "http://twitter.com/openculture/status/715441256411738112/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 480,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19826509,
+        "id_str": "19826509",
+        "name": "Open Culture",
+        "screen_name": "openculture",
+        "location": "Mountain View, CA",
+        "description": "The best FREE cultural & educational media on the web. Features free courses, movies, audio books, eBooks & thought-provoking daily posts. Edited by @dancolman",
+        "url": "http://t.co/HVA1Vpy2Ba",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/HVA1Vpy2Ba",
+                "expanded_url": "http://www.openculture.com",
+                "display_url": "openculture.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 277913,
+        "friends_count": 814,
+        "listed_count": 11302,
+        "created_at": "Sat Jan 31 19:01:34 +0000 2009",
+        "favourites_count": 14,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 34560,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "86ACB7",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4564878/oc_twitter.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4564878/oc_twitter.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/74425623/open_culture_white_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/74425623/open_culture_white_normal.jpg",
+        "profile_link_color": "306885",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "F6F2E3",
+        "profile_text_color": "62625D",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 75,
+      "favorite_count": 150,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 75,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 31 05:52:44 +0000 2016",
+    "id": 715416518939451396,
+    "id_str": "715416518939451396",
+    "text": "App Store 的龜速更新真是太惱人了，真是中華電信的問題嗎？",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Mar 31 03:55:51 +0000 2016",
     "id": 715387103203332097,
     "id_str": "715387103203332097",
