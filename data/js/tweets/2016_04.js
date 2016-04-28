@@ -1,5 +1,1098 @@
 Grailbird.data.tweets_2016_04 = [
   {
+    "created_at": "Thu Apr 28 02:30:06 +0000 2016",
+    "id": 725512384383610881,
+    "id_str": "725512384383610881",
+    "text": "The easiest way to send EPUBs to your Kindle! https://t.co/Tl4FjoZtY6 15MB 以下的書檔，上傳、轉檔，最後代傳到你的 Kindle。",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Tl4FjoZtY6",
+          "expanded_url": "http://www.sendepubtokindle.com",
+          "display_url": "sendepubtokindle.com",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 27 13:19:53 +0000 2016",
+    "id": 725313521408307204,
+    "id_str": "725313521408307204",
+    "text": "@angelsmileoo 願他安息，幸運有妳們的陪伴與照顧，也祝福妳們。",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "angelsmileoo",
+          "name": "Mehtap",
+          "id": 686323,
+          "id_str": "686323",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 725284628156669952,
+    "in_reply_to_status_id_str": "725284628156669952",
+    "in_reply_to_user_id": 686323,
+    "in_reply_to_user_id_str": "686323",
+    "in_reply_to_screen_name": "angelsmileoo",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "00180402799fed03",
+      "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+      "place_type": "city",
+      "name": "台北市",
+      "full_name": "台北市, 台灣",
+      "country_code": "TW",
+      "country": "台灣",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.457132,
+              24.960508
+            ],
+            [
+              121.66582,
+              24.960508
+            ],
+            [
+              121.66582,
+              25.211004
+            ],
+            [
+              121.457132,
+              25.211004
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 27 13:17:12 +0000 2016",
+    "id": 725312844305068032,
+    "id_str": "725312844305068032",
+    "text": "@vipconrad 用圖利二字太嚴重，那是自由選擇，讀者只選自己想看的，腦中並沒有誰會從中賺到比較多錢這樣的判斷。當然規則可以設計得更精巧，例如分類、分級或根據其他條件，不讓少部分書吃光不同類別、冷門書的借閱額度。怕的是圖書館沒人願意花腦筋與功夫去多搞這些細節。",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "vipconrad",
+          "name": "Conrad Peng",
+          "id": 27437209,
+          "id_str": "27437209",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 725278795851132928,
+    "in_reply_to_status_id_str": "725278795851132928",
+    "in_reply_to_user_id": 27437209,
+    "in_reply_to_user_id_str": "27437209",
+    "in_reply_to_screen_name": "vipconrad",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "00180402799fed03",
+      "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+      "place_type": "city",
+      "name": "台北市",
+      "full_name": "台北市, 台灣",
+      "country_code": "TW",
+      "country": "台灣",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.457132,
+              24.960508
+            ],
+            [
+              121.66582,
+              24.960508
+            ],
+            [
+              121.66582,
+              25.211004
+            ],
+            [
+              121.457132,
+              25.211004
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 27 07:38:48 +0000 2016",
+    "id": 725227684628824064,
+    "id_str": "725227684628824064",
+    "text": "@swpave 感謝感謝，片段知識稍微串起來了...",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "swpave",
+          "name": "豬小草",
+          "id": 133622918,
+          "id_str": "133622918",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 725227515451580416,
+    "in_reply_to_status_id_str": "725227515451580416",
+    "in_reply_to_user_id": 133622918,
+    "in_reply_to_user_id_str": "133622918",
+    "in_reply_to_screen_name": "swpave",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "019a3137395a2973",
+      "url": "https://api.twitter.com/1.1/geo/id/019a3137395a2973.json",
+      "place_type": "city",
+      "name": "新北市",
+      "full_name": "新北市, 台灣",
+      "country_code": "TW",
+      "country": "台灣",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.282664,
+              24.673115
+            ],
+            [
+              122.007508,
+              24.673115
+            ],
+            [
+              122.007508,
+              25.2995704
+            ],
+            [
+              121.282664,
+              25.2995704
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 27 07:36:58 +0000 2016",
+    "id": 725227221275676672,
+    "id_str": "725227221275676672",
+    "text": "@swpave 就是翻譯成「田園城市」的那個？ https://t.co/H1XFxYziBj",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "swpave",
+          "name": "豬小草",
+          "id": 133622918,
+          "id_str": "133622918",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/H1XFxYziBj",
+          "expanded_url": "https://goo.gl/UHvNHT",
+          "display_url": "goo.gl/UHvNHT",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 725226681288413184,
+    "in_reply_to_status_id_str": "725226681288413184",
+    "in_reply_to_user_id": 133622918,
+    "in_reply_to_user_id_str": "133622918",
+    "in_reply_to_screen_name": "swpave",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "019a3137395a2973",
+      "url": "https://api.twitter.com/1.1/geo/id/019a3137395a2973.json",
+      "place_type": "city",
+      "name": "新北市",
+      "full_name": "新北市, 台灣",
+      "country_code": "TW",
+      "country": "台灣",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.282664,
+              24.673115
+            ],
+            [
+              122.007508,
+              24.673115
+            ],
+            [
+              122.007508,
+              25.2995704
+            ],
+            [
+              121.282664,
+              25.2995704
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 27 07:33:51 +0000 2016",
+    "id": 725226436613664768,
+    "id_str": "725226436613664768",
+    "text": "@swpave 了解。後來新城是不是有衍化成一種最佳城市架構（烏托邦）的路徑？ like this book: https://t.co/UTtOZUw6f0",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "swpave",
+          "name": "豬小草",
+          "id": 133622918,
+          "id_str": "133622918",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UTtOZUw6f0",
+          "expanded_url": "http://press.uchicago.edu/ucp/books/book/chicago/P/bo22776746.html",
+          "display_url": "press.uchicago.edu/ucp/books/book…",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 725225551787483136,
+    "in_reply_to_status_id_str": "725225551787483136",
+    "in_reply_to_user_id": 133622918,
+    "in_reply_to_user_id_str": "133622918",
+    "in_reply_to_screen_name": "swpave",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "019a3137395a2973",
+      "url": "https://api.twitter.com/1.1/geo/id/019a3137395a2973.json",
+      "place_type": "city",
+      "name": "新北市",
+      "full_name": "新北市, 台灣",
+      "country_code": "TW",
+      "country": "台灣",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.282664,
+              24.673115
+            ],
+            [
+              122.007508,
+              24.673115
+            ],
+            [
+              122.007508,
+              25.2995704
+            ],
+            [
+              121.282664,
+              25.2995704
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 27 07:25:03 +0000 2016",
+    "id": 725224223271194625,
+    "id_str": "725224223271194625",
+    "text": "@swpave 問個笨蛋問題，地方創生 與二戰後英國的那個新城運動有類似嗎？",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "swpave",
+          "name": "豬小草",
+          "id": 133622918,
+          "id_str": "133622918",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 133622918,
+    "in_reply_to_user_id_str": "133622918",
+    "in_reply_to_screen_name": "swpave",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 27 07:21:39 +0000 2016",
+    "id": 725223368593543169,
+    "id_str": "725223368593543169",
+    "text": "RT @OOBE: 這是我收過最美的喜帖了！ T_T https://t.co/ESXo2EPKfR",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OOBE",
+          "name": "OOBE",
+          "id": 4496321,
+          "id_str": "4496321",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ESXo2EPKfR",
+          "expanded_url": "https://www.instagram.com/p/BEsb-zCoLXH/",
+          "display_url": "instagram.com/p/BEsb-zCoLXH/",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Apr 27 06:52:55 +0000 2016",
+      "id": 725216136401436672,
+      "id_str": "725216136401436672",
+      "text": "這是我收過最美的喜帖了！ T_T https://t.co/ESXo2EPKfR",
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ESXo2EPKfR",
+            "expanded_url": "https://www.instagram.com/p/BEsb-zCoLXH/",
+            "display_url": "instagram.com/p/BEsb-zCoLXH/",
+            "indices": [
+              17,
+              40
+            ]
+          }
+        ]
+      },
+      "truncated": false,
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4496321,
+        "id_str": "4496321",
+        "name": "OOBE",
+        "screen_name": "OOBE",
+        "location": "Taipei, Taiwan.",
+        "description": "我正孤獨通過自己行星上的曠野",
+        "url": "https://t.co/17jP92v4qL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/17jP92v4qL",
+                "expanded_url": "http://oobe.tw",
+                "display_url": "oobe.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9343,
+        "friends_count": 1837,
+        "listed_count": 177,
+        "created_at": "Fri Apr 13 13:16:07 +0000 2007",
+        "favourites_count": 7359,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 62522,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "798058",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506148343068643328/9w8OciLt.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506148343068643328/9w8OciLt.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/724660789919899648/np1-4ojM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/724660789919899648/np1-4ojM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4496321/1458782170",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "AA4D73",
+        "profile_text_color": "F87364",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 27 03:02:35 +0000 2016",
+    "id": 725158171208085505,
+    "id_str": "725158171208085505",
+    "text": "Amazon FreeTime Unlimited https://t.co/TZk4fYgwnb 覺得亞馬遜剛推出的兒童吃到飽服務超強，包含書、電影、應用...各種數位內容，未定性的孩子可以盡情探索，月費不貴，長大就停用。 https://t.co/n2ZbYfne5S",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TZk4fYgwnb",
+          "expanded_url": "https://www.amazon.com/gp/browse.html?node=12528011011",
+          "display_url": "amazon.com/gp/browse.html…",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 725158168615997440,
+          "id_str": "725158168615997440",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/ChBHgyZUUAADYbi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ChBHgyZUUAADYbi.jpg",
+          "url": "https://t.co/n2ZbYfne5S",
+          "display_url": "pic.twitter.com/n2ZbYfne5S",
+          "expanded_url": "http://twitter.com/wastemobile/status/725158171208085505/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 206,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 117,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 352,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 725158168615997440,
+          "id_str": "725158168615997440",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/ChBHgyZUUAADYbi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ChBHgyZUUAADYbi.jpg",
+          "url": "https://t.co/n2ZbYfne5S",
+          "display_url": "pic.twitter.com/n2ZbYfne5S",
+          "expanded_url": "http://twitter.com/wastemobile/status/725158171208085505/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 206,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 117,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 352,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "019a3137395a2973",
+      "url": "https://api.twitter.com/1.1/geo/id/019a3137395a2973.json",
+      "place_type": "city",
+      "name": "新北市",
+      "full_name": "新北市, 台灣",
+      "country_code": "TW",
+      "country": "台灣",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.282664,
+              24.673115
+            ],
+            [
+              122.007508,
+              24.673115
+            ],
+            [
+              122.007508,
+              25.2995704
+            ],
+            [
+              121.282664,
+              25.2995704
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 27 02:54:01 +0000 2016",
+    "id": 725156014081765376,
+    "id_str": "725156014081765376",
+    "text": "SeeNote 很漂亮且實用的電子墨水家居應用，但等明年真正出得來再說，現在對硬體新創預購非常沒信心。 https://t.co/ABAuUsUWV6 https://t.co/NpbXlKhbs9",
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ABAuUsUWV6",
+          "expanded_url": "https://www.getseenote.com",
+          "display_url": "getseenote.com",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 725156010944389120,
+          "id_str": "725156010944389120",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/ChBFjMcUYAACe-N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ChBFjMcUYAACe-N.jpg",
+          "url": "https://t.co/NpbXlKhbs9",
+          "display_url": "pic.twitter.com/NpbXlKhbs9",
+          "expanded_url": "http://twitter.com/wastemobile/status/725156014081765376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 957,
+              "h": 717,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 725156010944389120,
+          "id_str": "725156010944389120",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/ChBFjMcUYAACe-N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ChBFjMcUYAACe-N.jpg",
+          "url": "https://t.co/NpbXlKhbs9",
+          "display_url": "pic.twitter.com/NpbXlKhbs9",
+          "expanded_url": "http://twitter.com/wastemobile/status/725156014081765376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 957,
+              "h": 717,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "truncated": false,
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "019a3137395a2973",
+      "url": "https://api.twitter.com/1.1/geo/id/019a3137395a2973.json",
+      "place_type": "city",
+      "name": "新北市",
+      "full_name": "新北市, 台灣",
+      "country_code": "TW",
+      "country": "台灣",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.282664,
+              24.673115
+            ],
+            [
+              122.007508,
+              24.673115
+            ],
+            [
+              122.007508,
+              25.2995704
+            ],
+            [
+              121.282664,
+              25.2995704
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Apr 26 15:52:44 +0000 2016",
     "id": 724989599064285185,
     "id_str": "724989599064285185",
