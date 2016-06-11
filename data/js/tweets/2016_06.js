@@ -1,5 +1,560 @@
 Grailbird.data.tweets_2016_06 = [
   {
+    "created_at": "Sat Jun 11 09:22:21 +0000 2016",
+    "id": 741561195803484160,
+    "id_str": "741561195803484160",
+    "text": "RT @fivestone: 作为一个脱离了高级趣味的Kindle控，除了「藏书章」外，还要有「藏电子书章」。 https://t.co/muDtAwObdI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "fivestone",
+          "name": "fivestone",
+          "id": 9479132,
+          "id_str": "9479132",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 741548299669274624,
+          "id_str": "741548299669274624",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkqCP-mVAAA9tgv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkqCP-mVAAA9tgv.jpg",
+          "url": "https://t.co/muDtAwObdI",
+          "display_url": "pic.twitter.com/muDtAwObdI",
+          "expanded_url": "http://twitter.com/fivestone/status/741548303892905984/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 624,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1542,
+              "h": 802,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 354,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 741548303892905984,
+          "source_status_id_str": "741548303892905984",
+          "source_user_id": 9479132,
+          "source_user_id_str": "9479132"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 741548299669274624,
+          "id_str": "741548299669274624",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkqCP-mVAAA9tgv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkqCP-mVAAA9tgv.jpg",
+          "url": "https://t.co/muDtAwObdI",
+          "display_url": "pic.twitter.com/muDtAwObdI",
+          "expanded_url": "http://twitter.com/fivestone/status/741548303892905984/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 624,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1542,
+              "h": 802,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 354,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 741548303892905984,
+          "source_status_id_str": "741548303892905984",
+          "source_user_id": 9479132,
+          "source_user_id_str": "9479132"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jun 11 08:31:07 +0000 2016",
+      "id": 741548303892905984,
+      "id_str": "741548303892905984",
+      "text": "作为一个脱离了高级趣味的Kindle控，除了「藏书章」外，还要有「藏电子书章」。 https://t.co/muDtAwObdI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 741548299669274624,
+            "id_str": "741548299669274624",
+            "indices": [
+              41,
+              64
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkqCP-mVAAA9tgv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkqCP-mVAAA9tgv.jpg",
+            "url": "https://t.co/muDtAwObdI",
+            "display_url": "pic.twitter.com/muDtAwObdI",
+            "expanded_url": "http://twitter.com/fivestone/status/741548303892905984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 624,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1542,
+                "h": 802,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 354,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 741548299669274624,
+            "id_str": "741548299669274624",
+            "indices": [
+              41,
+              64
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkqCP-mVAAA9tgv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkqCP-mVAAA9tgv.jpg",
+            "url": "https://t.co/muDtAwObdI",
+            "display_url": "pic.twitter.com/muDtAwObdI",
+            "expanded_url": "http://twitter.com/fivestone/status/741548303892905984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 624,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1542,
+                "h": 802,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 354,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 9479132,
+        "id_str": "9479132",
+        "name": "fivestone",
+        "screen_name": "fivestone",
+        "location": "",
+        "description": "",
+        "url": "http://t.co/Sx09Y1PT4r",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Sx09Y1PT4r",
+                "expanded_url": "http://fivestone.info",
+                "display_url": "fivestone.info",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 564,
+        "friends_count": 145,
+        "listed_count": 32,
+        "created_at": "Tue Oct 16 15:12:29 +0000 2007",
+        "favourites_count": 79,
+        "utc_offset": 36000,
+        "time_zone": "Sydney",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6003,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/40767682/icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/40767682/icon_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9479132/1398327470",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 11 07:05:52 +0000 2016",
+    "id": 741526850220916736,
+    "id_str": "741526850220916736",
+    "text": "覺得自己比佛地魔還要厲害，網路上到處都是我的分靈體，而且還不一定合得起來，哈哈。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 11 06:27:07 +0000 2016",
+    "id": 741517095913947138,
+    "id_str": "741517095913947138",
+    "text": "在 @AppleMusic 聆聽Apple Music 日本流行樂的「卡莉怪妞代表作」。 https://t.co/17IV77nuPi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AppleMusic",
+          "name": "Apple Music",
+          "id": 74580436,
+          "id_str": "74580436",
+          "indices": [
+            2,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/17IV77nuPi",
+          "expanded_url": "https://itunes.apple.com/tw/playlist/ka-li-guai-niu-dai-biao-zuo/idpl.3569064ee43146f6840e0638f198b3d9?l=zh",
+          "display_url": "itunes.apple.com/tw/playlist/ka…",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 11 01:19:51 +0000 2016",
+    "id": 741439772577529856,
+    "id_str": "741439772577529856",
+    "text": "往事只能回味 https://t.co/QD6bVHmEzc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 741439770572644352,
+          "id_str": "741439770572644352",
+          "indices": [
+            7,
+            30
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkofiwNUYAA0r5c.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkofiwNUYAA0r5c.jpg",
+          "url": "https://t.co/QD6bVHmEzc",
+          "display_url": "pic.twitter.com/QD6bVHmEzc",
+          "expanded_url": "http://twitter.com/wastemobile/status/741439772577529856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 741439770572644352,
+          "id_str": "741439770572644352",
+          "indices": [
+            7,
+            30
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkofiwNUYAA0r5c.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkofiwNUYAA0r5c.jpg",
+          "url": "https://t.co/QD6bVHmEzc",
+          "display_url": "pic.twitter.com/QD6bVHmEzc",
+          "expanded_url": "http://twitter.com/wastemobile/status/741439772577529856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Fri Jun 10 15:52:23 +0000 2016",
     "id": 741296962041872384,
     "id_str": "741296962041872384",
