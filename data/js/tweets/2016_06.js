@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2016_06 = [
   {
+    "created_at": "Sun Jun 12 05:41:46 +0000 2016",
+    "id": 741868071980171264,
+    "id_str": "741868071980171264",
+    "text": "八種電子書行銷服務的比較。 https://t.co/5o3df4YSJ4 https://t.co/tsM6MiQDZm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5o3df4YSJ4",
+          "expanded_url": "http://selfpublishingadvice.org/ebook-discovery-book-promo-services-review/",
+          "display_url": "selfpublishingadvice.org/ebook-discover…",
+          "indices": [
+            14,
+            37
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 741868055030988804,
+          "id_str": "741868055030988804",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkulEMJVAAQZ2lg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkulEMJVAAQZ2lg.jpg",
+          "url": "https://t.co/tsM6MiQDZm",
+          "display_url": "pic.twitter.com/tsM6MiQDZm",
+          "expanded_url": "http://twitter.com/wastemobile/status/741868071980171264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 741868055030988804,
+          "id_str": "741868055030988804",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/CkulEMJVAAQZ2lg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CkulEMJVAAQZ2lg.jpg",
+          "url": "https://t.co/tsM6MiQDZm",
+          "display_url": "pic.twitter.com/tsM6MiQDZm",
+          "expanded_url": "http://twitter.com/wastemobile/status/741868071980171264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jun 11 09:22:21 +0000 2016",
     "id": 741561195803484160,
     "id_str": "741561195803484160",
