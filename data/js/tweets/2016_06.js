@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2016_06 = [
   {
+    "created_at": "Tue Jun 14 16:03:24 +0000 2016",
+    "id": 742749288363483137,
+    "id_str": "742749288363483137",
+    "text": "@Brecht 理論上是，但 Promotion 有實效，Discovery 卻是需要長期、無法立竿見影的投入，至少目前是頗糟。博客來的搜尋就爛成一種典範了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Brecht",
+          "name": "布大叔",
+          "id": 724233,
+          "id_str": "724233",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 742728361265373184,
+    "in_reply_to_status_id_str": "742728361265373184",
+    "in_reply_to_user_id": 724233,
+    "in_reply_to_user_id_str": "724233",
+    "in_reply_to_screen_name": "Brecht",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jun 14 13:57:22 +0000 2016",
     "id": 742717572282359811,
     "id_str": "742717572282359811",
