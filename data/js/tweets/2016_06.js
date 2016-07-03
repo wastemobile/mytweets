@@ -1,5 +1,372 @@
 Grailbird.data.tweets_2016_06 = [
   {
+    "created_at": "Thu Jun 30 16:20:10 +0000 2016",
+    "id": 748551714593116161,
+    "id_str": "748551714593116161",
+    "text": "迎接春風野火的下半年啦！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Jun 30 15:26:41 +0000 2016",
+    "id": 748538252626255872,
+    "id_str": "748538252626255872",
+    "text": "據說電子墨水板 SeeNote 也在研究整合 Amazon Echo，擺在 2017 春季開賣之後的計劃，希望不只是抬高預售的噱頭。 https://t.co/sksdkmErh5 https://t.co/8ZfFo9BtF6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sksdkmErh5",
+          "expanded_url": "http://bit.ly/295nBg4",
+          "display_url": "bit.ly/295nBg4",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 748538246536146944,
+          "id_str": "748538246536146944",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/CmNXkb2UsAAeKv2.png",
+          "media_url_https": "https://pbs.twimg.com/media/CmNXkb2UsAAeKv2.png",
+          "url": "https://t.co/8ZfFo9BtF6",
+          "display_url": "pic.twitter.com/8ZfFo9BtF6",
+          "expanded_url": "http://twitter.com/wastemobile/status/748538252626255872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 521,
+              "h": 709,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 521,
+              "h": 709,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 748538246536146944,
+          "id_str": "748538246536146944",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/CmNXkb2UsAAeKv2.png",
+          "media_url_https": "https://pbs.twimg.com/media/CmNXkb2UsAAeKv2.png",
+          "url": "https://t.co/8ZfFo9BtF6",
+          "display_url": "pic.twitter.com/8ZfFo9BtF6",
+          "expanded_url": "http://twitter.com/wastemobile/status/748538252626255872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 521,
+              "h": 709,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 521,
+              "h": 709,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 30 15:16:12 +0000 2016",
+    "id": 748535614102921218,
+    "id_str": "748535614102921218",
+    "text": "〈消失中的個人網站〉  https://t.co/SmvBvVgbsw 這是那種不跟風、有洞察力的文章，思考一下。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SmvBvVgbsw",
+          "expanded_url": "http://bit.ly/295mblV",
+          "display_url": "bit.ly/295mblV",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 30 14:49:05 +0000 2016",
+    "id": 748528792830763008,
+    "id_str": "748528792830763008",
+    "text": "〈深思熟慮之後，覺得 Facebook 並沒有那麼在乎新聞出版者〉 https://t.co/dfLaiBNX7l //其實我覺得所有人一開始就知道啦，但總是要嘗試一下... https://t.co/JNiBGWlA5Q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dfLaiBNX7l",
+          "expanded_url": "http://bit.ly/295j5OH",
+          "display_url": "bit.ly/295j5OH",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 748528786312880128,
+          "id_str": "748528786312880128",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/CmNO9xxVYAAI3At.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CmNO9xxVYAAI3At.jpg",
+          "url": "https://t.co/JNiBGWlA5Q",
+          "display_url": "pic.twitter.com/JNiBGWlA5Q",
+          "expanded_url": "http://twitter.com/wastemobile/status/748528792830763008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 748528786312880128,
+          "id_str": "748528786312880128",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/CmNO9xxVYAAI3At.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CmNO9xxVYAAI3At.jpg",
+          "url": "https://t.co/JNiBGWlA5Q",
+          "display_url": "pic.twitter.com/JNiBGWlA5Q",
+          "expanded_url": "http://twitter.com/wastemobile/status/748528792830763008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jun 30 13:37:22 +0000 2016",
     "id": 748510744723877888,
     "id_str": "748510744723877888",
