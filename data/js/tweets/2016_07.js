@@ -1,5 +1,182 @@
 Grailbird.data.tweets_2016_07 = [
   {
+    "created_at": "Fri Jul 22 16:32:38 +0000 2016",
+    "id": 756527384753496064,
+    "id_str": "756527384753496064",
+    "text": "米凱樂 赤般若 拉麵啤酒（咦？）、產地比利時，5% 酒精濃度。為啥比利時啤酒都喜歡搞怪味道啊？很苦，不好喝。 #我自己的啤酒節 https://t.co/OFZRafPlvp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "我自己的啤酒節",
+          "indices": [
+            55,
+            63
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 756527339010347008,
+          "id_str": "756527339010347008",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cn-5m0iVUAAC5jH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cn-5m0iVUAAC5jH.jpg",
+          "url": "https://t.co/OFZRafPlvp",
+          "display_url": "pic.twitter.com/OFZRafPlvp",
+          "expanded_url": "http://twitter.com/wastemobile/status/756527384753496064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 756527339010347008,
+          "id_str": "756527339010347008",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cn-5m0iVUAAC5jH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cn-5m0iVUAAC5jH.jpg",
+          "url": "https://t.co/OFZRafPlvp",
+          "display_url": "pic.twitter.com/OFZRafPlvp",
+          "expanded_url": "http://twitter.com/wastemobile/status/756527384753496064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 22 16:20:21 +0000 2016",
+    "id": 756524291177406465,
+    "id_str": "756524291177406465",
+    "text": "《離線》最近有點混，給付費會員塞些書摘就當完事了嗎？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jul 22 16:10:48 +0000 2016",
     "id": 756521890798182400,
     "id_str": "756521890798182400",
