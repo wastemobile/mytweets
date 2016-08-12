@@ -1,5 +1,315 @@
 Grailbird.data.tweets_2016_08 = [
   {
+    "created_at": "Fri Aug 12 17:05:49 +0000 2016",
+    "id": 764145878017777664,
+    "id_str": "764145878017777664",
+    "text": "週五晚上啊！黑牛 純米杯酒，15度以上、16度未滿，真是一點其他味道都沒有的純粹，好喝！ #我自己的一口清酒 https://t.co/5lpLcZIySy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "我自己的一口清酒",
+          "indices": [
+            45,
+            54
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 764145852373794816,
+          "id_str": "764145852373794816",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/CprKmqdUAAAg03I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CprKmqdUAAAg03I.jpg",
+          "url": "https://t.co/5lpLcZIySy",
+          "display_url": "pic.twitter.com/5lpLcZIySy",
+          "expanded_url": "http://twitter.com/wastemobile/status/764145878017777664/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 764145852373794816,
+          "id_str": "764145852373794816",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/CprKmqdUAAAg03I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CprKmqdUAAAg03I.jpg",
+          "url": "https://t.co/5lpLcZIySy",
+          "display_url": "pic.twitter.com/5lpLcZIySy",
+          "expanded_url": "http://twitter.com/wastemobile/status/764145878017777664/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 12 16:55:59 +0000 2016",
+    "id": 764143406578753537,
+    "id_str": "764143406578753537",
+    "text": "洪荒之力是要去哪兒收集啊…快告訴我...",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 12 16:39:45 +0000 2016",
+    "id": 764139320630349824,
+    "id_str": "764139320630349824",
+    "text": "康拉德的《間諜》，我一直想看這本啊！但是... 先買起來再說... https://t.co/Y0lyJaQnaz https://t.co/uVHv9fYzTH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y0lyJaQnaz",
+          "expanded_url": "http://bit.ly/2bd6rPi",
+          "display_url": "bit.ly/2bd6rPi",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 764139317425950720,
+          "id_str": "764139317425950720",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/CprEqR4VUAA0C9B.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CprEqR4VUAA0C9B.jpg",
+          "url": "https://t.co/uVHv9fYzTH",
+          "display_url": "pic.twitter.com/uVHv9fYzTH",
+          "expanded_url": "http://twitter.com/wastemobile/status/764139320630349824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 764139317425950720,
+          "id_str": "764139317425950720",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/CprEqR4VUAA0C9B.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CprEqR4VUAA0C9B.jpg",
+          "url": "https://t.co/uVHv9fYzTH",
+          "display_url": "pic.twitter.com/uVHv9fYzTH",
+          "expanded_url": "http://twitter.com/wastemobile/status/764139320630349824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Aug 12 15:16:52 +0000 2016",
     "id": 764118462272638978,
     "id_str": "764118462272638978",
