@@ -1,5 +1,713 @@
 Grailbird.data.tweets_2016_10 = [
   {
+    "created_at": "Sun Oct 23 03:59:49 +0000 2016",
+    "id": 790040002814017536,
+    "id_str": "790040002814017536",
+    "text": "這過幾年一定會分手的啦... 〈驚世併購　AT&amp;T收購時代華納公司〉 https://t.co/2Qwy2xX9z9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2Qwy2xX9z9",
+          "expanded_url": "http://www.cw.com.tw/article/article.action?id=5078947",
+          "display_url": "cw.com.tw/article/articl…",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 23 03:55:57 +0000 2016",
+    "id": 790039031413219328,
+    "id_str": "790039031413219328",
+    "text": "MODI: Create Anything You Want with Robotics of Things https://t.co/pn2g4PQfRz 大人的樂高，影片很不錯，但還是等實際東西出來再評斷。 https://t.co/mAWweFZLyb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pn2g4PQfRz",
+          "expanded_url": "https://www.kickstarter.com/projects/luxrobo/modi-create-anything-you-want-with-robotics-of-thi",
+          "display_url": "kickstarter.com/projects/luxro…",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 790039018654212096,
+          "id_str": "790039018654212096",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/CvbITTmVIAAXZEu.png",
+          "media_url_https": "https://pbs.twimg.com/media/CvbITTmVIAAXZEu.png",
+          "url": "https://t.co/mAWweFZLyb",
+          "display_url": "pic.twitter.com/mAWweFZLyb",
+          "expanded_url": "https://twitter.com/wastemobile/status/790039031413219328/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 790039018654212096,
+          "id_str": "790039018654212096",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/CvbITTmVIAAXZEu.png",
+          "media_url_https": "https://pbs.twimg.com/media/CvbITTmVIAAXZEu.png",
+          "url": "https://t.co/mAWweFZLyb",
+          "display_url": "pic.twitter.com/mAWweFZLyb",
+          "expanded_url": "https://twitter.com/wastemobile/status/790039031413219328/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 23 03:08:25 +0000 2016",
+    "id": 790027067374960641,
+    "id_str": "790027067374960641",
+    "text": "逛了逛 ProductHunt，感覺近來真沒什麼有趣的新網站服務或是應用程式。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 22 16:42:23 +0000 2016",
+    "id": 789869521389531136,
+    "id_str": "789869521389531136",
+    "text": "呵呵，Peter Thiel...... https://t.co/q3WdBeS1oh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q3WdBeS1oh",
+          "expanded_url": "https://twitter.com/counternotions/status/788752817766801408",
+          "display_url": "twitter.com/counternotions…",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 788752817766801408,
+    "quoted_status_id_str": "788752817766801408",
+    "quoted_status": {
+      "created_at": "Wed Oct 19 14:45:00 +0000 2016",
+      "id": 788752817766801408,
+      "id_str": "788752817766801408",
+      "text": "Bid for Twitter by a new coalition backed by Peter Thiel won't come before Q3'16 earnings results on Oct 27, sources say.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19225408,
+        "id_str": "19225408",
+        "name": "Kontra",
+        "screen_name": "counternotions",
+        "location": "NYC",
+        "description": "Trying is the first step to failure. Veteran design and management surgeon, perennially in search of complex problems to operate on.",
+        "url": "http://t.co/RFBqYhXjEr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/RFBqYhXjEr",
+                "expanded_url": "http://counternotions.com",
+                "display_url": "counternotions.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 64570,
+        "friends_count": 105,
+        "listed_count": 1533,
+        "created_at": "Tue Jan 20 08:47:08 +0000 2009",
+        "favourites_count": 190,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 75711,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "383838",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/7091668/darkwood-bkg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/7091668/darkwood-bkg.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/472995716663488512/0MErVHN__normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/472995716663488512/0MErVHN__normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19225408/1401605752",
+        "profile_link_color": "B55930",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FCEBD5",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 57,
+      "favorite_count": 44,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Oct 22 08:11:04 +0000 2016",
+    "id": 789740843653402624,
+    "id_str": "789740843653402624",
+    "text": "下大雨，逼我進虛擬世界舒壓就對了？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 22 07:54:32 +0000 2016",
+    "id": 789736681104478208,
+    "id_str": "789736681104478208",
+    "text": "RT @ilya: 野島剛先生與交通警察的爭執（「自由工作者」難道都是「無業」嗎？），讓我想到最近讀到數位經濟就業情況中，自我雇用者（self-employed）的數據。\n\n英國... https://t.co/5VcEX3Ek6L",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ilya",
+          "name": "Shih-Chieh Ilya Li",
+          "id": 77063,
+          "id_str": "77063",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5VcEX3Ek6L",
+          "expanded_url": "http://fb.me/7lgdl1ung",
+          "display_url": "fb.me/7lgdl1ung",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 22 07:43:18 +0000 2016",
+      "id": 789733857981505536,
+      "id_str": "789733857981505536",
+      "text": "野島剛先生與交通警察的爭執（「自由工作者」難道都是「無業」嗎？），讓我想到最近讀到數位經濟就業情況中，自我雇用者（self-employed）的數據。\n\n英國... https://t.co/5VcEX3Ek6L",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5VcEX3Ek6L",
+            "expanded_url": "http://fb.me/7lgdl1ung",
+            "display_url": "fb.me/7lgdl1ung",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 77063,
+        "id_str": "77063",
+        "name": "Shih-Chieh Ilya Li",
+        "screen_name": "ilya",
+        "location": "24.988622,121.552373",
+        "description": "Nocturnal wanderer in-between realities. \n無邊無岸難泊系....重劍不鋒，大巧不工",
+        "url": "https://t.co/a2jyqfjLP8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/a2jyqfjLP8",
+                "expanded_url": "http://about.me/ilyalee",
+                "display_url": "about.me/ilyalee",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4778,
+        "friends_count": 2749,
+        "listed_count": 216,
+        "created_at": "Mon Dec 18 09:20:44 +0000 2006",
+        "favourites_count": 10605,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23939,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/694898197483814913/B44y-JJf_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/694898197483814913/B44y-JJf_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77063/1367295339",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 22 06:45:17 +0000 2016",
+    "id": 789719256241991680,
+    "id_str": "789719256241991680",
+    "text": "讓人火爆的天氣。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 22 06:23:35 +0000 2016",
+    "id": 789713793844555777,
+    "id_str": "789713793844555777",
+    "text": "逛大賣場時接了其實不關我的事的公事電話，一講就是四十分鐘，混亂下該買的什麼都沒買。然後覺得好像又有坑的樣子⋯⋯，我想想今晚該出去喝酒，還是繼續衝等到三十級好了。 #人生",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "人生",
+          "indices": [
+            81,
+            84
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Oct 21 13:40:23 +0000 2016",
     "id": 789461329618702337,
     "id_str": "789461329618702337",
