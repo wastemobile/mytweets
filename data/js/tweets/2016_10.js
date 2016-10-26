@@ -1,5 +1,887 @@
 Grailbird.data.tweets_2016_10 = [
   {
+    "created_at": "Wed Oct 26 13:38:28 +0000 2016",
+    "id": 791272788245880832,
+    "id_str": "791272788245880832",
+    "text": "最近買硬體的運很差，買 Mac 不滿月、鍵盤壞掉，昨天買台桌上計算機，刻意避掉一堆雜牌、買了個貴的 CASIO，今天發現大位數的液晶也是壞的！究竟是我衰、還是現在東西愈做愈差？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 26 04:41:56 +0000 2016",
+    "id": 791137765110980608,
+    "id_str": "791137765110980608",
+    "text": "用 Timehop 回顧真的會發現網路世界的「轉瞬即逝」，一堆連結或網站消失無蹤⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 26 04:39:03 +0000 2016",
+    "id": 791137037818683392,
+    "id_str": "791137037818683392",
+    "text": "那時研究這做啥啊⋯⋯ 🤔 https://t.co/0M3CgQ3ild",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 791137034941370368,
+          "id_str": "791137034941370368",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cvqu8RBWEAA9D5k.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cvqu8RBWEAA9D5k.jpg",
+          "url": "https://t.co/0M3CgQ3ild",
+          "display_url": "pic.twitter.com/0M3CgQ3ild",
+          "expanded_url": "https://twitter.com/wastemobile/status/791137037818683392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 791137034941370368,
+          "id_str": "791137034941370368",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cvqu8RBWEAA9D5k.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cvqu8RBWEAA9D5k.jpg",
+          "url": "https://t.co/0M3CgQ3ild",
+          "display_url": "pic.twitter.com/0M3CgQ3ild",
+          "expanded_url": "https://twitter.com/wastemobile/status/791137037818683392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 670,
+              "h": 670,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Oct 25 14:09:38 +0000 2016",
+    "id": 790918245293273088,
+    "id_str": "790918245293273088",
+    "text": "RT @buzzjiang: 經過這麼多年，創作能量依然不墜，Meredith Monk真是厲害！::: Meredith Monk &amp; Vocal Ensemble: On Behalf of Nature (excerpts) - YouTube - https://t.c…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "buzzjiang",
+          "name": "buzzjiang",
+          "id": 9787972,
+          "id_str": "9787972",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Oct 25 13:50:11 +0000 2016",
+      "id": 790913347969359872,
+      "id_str": "790913347969359872",
+      "text": "經過這麼多年，創作能量依然不墜，Meredith Monk真是厲害！::: Meredith Monk &amp; Vocal Ensemble: On Behalf of Nature (excerpts) - YouTube - https://t.co/JFNLnz8oa8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JFNLnz8oa8",
+            "expanded_url": "https://goo.gl/dfrMYj",
+            "display_url": "goo.gl/dfrMYj",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic\" rel=\"nofollow\">Silver Bird</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 9787972,
+        "id_str": "9787972",
+        "name": "buzzjiang",
+        "screen_name": "buzzjiang",
+        "location": "Taipei, Taiwan",
+        "description": "台南出身，任性大叔，遲到的哈日族，懶散的神奇寶貝訓練師。XDD",
+        "url": "http://t.co/RHGogI0aIM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/RHGogI0aIM",
+                "expanded_url": "http://herecomesbuzz.blogspot.tw/",
+                "display_url": "herecomesbuzz.blogspot.tw",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 338,
+        "friends_count": 204,
+        "listed_count": 10,
+        "created_at": "Tue Oct 30 02:50:19 +0000 2007",
+        "favourites_count": 17772,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11870,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "6DEB45",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/1300372/P1000056.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/1300372/P1000056.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685776487136415744/Jd15SRZs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685776487136415744/Jd15SRZs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9787972/1398245886",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF91",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 25 11:35:57 +0000 2016",
+    "id": 790879566168334337,
+    "id_str": "790879566168334337",
+    "text": "RT @iyouport_news: ＃Twitter 最快将在本周宣布大规模裁员，裁员规模估计为300人——员工总数的8%。Twitter的股价过去12个月下跌了40%，使得该公司很难以股权的方式向工程师支付薪水：https://t.co/Vb8kK537NH https:/…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Twitter",
+          "indices": [
+            19,
+            27
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "iyouport_news",
+          "name": "iyouport",
+          "id": 731790773675417601,
+          "id_str": "731790773675417601",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Vb8kK537NH",
+          "expanded_url": "https://www.facebook.com/iyouport/posts/1306032479427893",
+          "display_url": "facebook.com/iyouport/posts…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Oct 25 11:26:22 +0000 2016",
+      "id": 790877158038118400,
+      "id_str": "790877158038118400",
+      "text": "＃Twitter 最快将在本周宣布大规模裁员，裁员规模估计为300人——员工总数的8%。Twitter的股价过去12个月下跌了40%，使得该公司很难以股权的方式向工程师支付薪水：https://t.co/Vb8kK537NH https://t.co/kzp7upv2y5",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Twitter",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Vb8kK537NH",
+            "expanded_url": "https://www.facebook.com/iyouport/posts/1306032479427893",
+            "display_url": "facebook.com/iyouport/posts…",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 790877146977701889,
+            "id_str": "790877146977701889",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/CvnCky6UkAEoQjB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CvnCky6UkAEoQjB.jpg",
+            "url": "https://t.co/kzp7upv2y5",
+            "display_url": "pic.twitter.com/kzp7upv2y5",
+            "expanded_url": "https://twitter.com/iyouport_news/status/790877158038118400/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1390,
+                "h": 782,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 790877146977701889,
+            "id_str": "790877146977701889",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/CvnCky6UkAEoQjB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CvnCky6UkAEoQjB.jpg",
+            "url": "https://t.co/kzp7upv2y5",
+            "display_url": "pic.twitter.com/kzp7upv2y5",
+            "expanded_url": "https://twitter.com/iyouport_news/status/790877158038118400/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1390,
+                "h": 782,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 731790773675417601,
+        "id_str": "731790773675417601",
+        "name": "iyouport",
+        "screen_name": "iyouport_news",
+        "location": "",
+        "description": "Here is the real China. We are concerned about the latest international news. ＃Internet, ＃humanrights & ＃democratic institutions 网站：https://t.co/c0rqrPVgGY",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/c0rqrPVgGY",
+                "expanded_url": "https://iyouport.com/",
+                "display_url": "iyouport.com",
+                "indices": [
+                  132,
+                  155
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6559,
+        "friends_count": 9,
+        "listed_count": 75,
+        "created_at": "Sun May 15 10:18:11 +0000 2016",
+        "favourites_count": 33,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5794,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/731792189932503040/bsi38CwS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/731792189932503040/bsi38CwS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/731790773675417601/1463310610",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 25 06:19:37 +0000 2016",
+    "id": 790799958647541760,
+    "id_str": "790799958647541760",
+    "text": "看言情小說的讀者群真是電子書世代的先驅者...XD https://t.co/cXcF4nnGRH 因為新月，我買了一台ONYX BOOX M96C Plus（手指觸控）, 9.7吋的電子書閱讀器 https://t.co/FklLRWLpO1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cXcF4nnGRH",
+          "expanded_url": "http://alison1584.pixnet.net/blog/post/61920628",
+          "display_url": "alison1584.pixnet.net/blog/post/6192…",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 790799948254056448,
+          "id_str": "790799948254056448",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cvl8XPQUkAAf5mS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cvl8XPQUkAAf5mS.jpg",
+          "url": "https://t.co/FklLRWLpO1",
+          "display_url": "pic.twitter.com/FklLRWLpO1",
+          "expanded_url": "https://twitter.com/wastemobile/status/790799958647541760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 594,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 594,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 594,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 790799948254056448,
+          "id_str": "790799948254056448",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cvl8XPQUkAAf5mS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cvl8XPQUkAAf5mS.jpg",
+          "url": "https://t.co/FklLRWLpO1",
+          "display_url": "pic.twitter.com/FklLRWLpO1",
+          "expanded_url": "https://twitter.com/wastemobile/status/790799958647541760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 594,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 594,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 594,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 24 17:29:09 +0000 2016",
+    "id": 790606067143016448,
+    "id_str": "790606067143016448",
+    "text": "“Hardware is sexy, but it’s software that matters” by Seth Godin https://t.co/OnuWHcmpWS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OnuWHcmpWS",
+          "expanded_url": "http://sethgodin.typepad.com/seths_blog/2016/10/hardware-is-sexy-but-its-software-that-matters.html",
+          "display_url": "sethgodin.typepad.com/seths_blog/201…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 24 16:48:29 +0000 2016",
+    "id": 790595830314995714,
+    "id_str": "790595830314995714",
+    "text": "Mobipocket 將在十月底關閉網站，單純紀念一下。Amazon 在 2005 年買下它，也正是 2007 推出 Kindle 電子書使用 .mobi 格式的由來，終將被埋入深淵的一段歷史。… https://t.co/Bwf6QkB6TS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Bwf6QkB6TS",
+          "expanded_url": "https://twitter.com/i/web/status/790595830314995714",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Oct 23 03:59:49 +0000 2016",
     "id": 790040002814017536,
     "id_str": "790040002814017536",
