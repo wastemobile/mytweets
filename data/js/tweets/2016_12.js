@@ -1,5 +1,183 @@
 Grailbird.data.tweets_2016_12 = [
   {
+    "created_at": "Sun Dec 04 03:47:25 +0000 2016",
+    "id": 805257173747920896,
+    "id_str": "805257173747920896",
+    "text": "RT @minifin1124: 最近讀《何式性望愛》，香港作家何式凝的親密關係自傳，她人生最精華的20年和男同志在一起、接下來的十年和已婚男人交往，非常有趣的人，但在台灣八成被當巫婆燒死。她因為自己的感情路走得坎坷，所以對於聆聽各種俗氣愛情故事也不覺厭煩，很能包容，我覺得這是…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "minifin1124",
+          "name": "銀河通信社",
+          "id": 1593842928,
+          "id_str": "1593842928",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Dec 03 07:21:03 +0000 2016",
+      "id": 804948546436808704,
+      "id_str": "804948546436808704",
+      "text": "最近讀《何式性望愛》，香港作家何式凝的親密關係自傳，她人生最精華的20年和男同志在一起、接下來的十年和已婚男人交往，非常有趣的人，但在台灣八成被當巫婆燒死。她因為自己的感情路走得坎坷，所以對於聆聽各種俗氣愛情故事也不覺厭煩，很能包容，我覺得這是很溫柔的人啊。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1593842928,
+        "id_str": "1593842928",
+        "name": "銀河通信社",
+        "screen_name": "minifin1124",
+        "location": "",
+        "description": "用書和電影麻痺自己。 curios about：生活/失落/時間/階梯/睡眠/聲音/湯麵/短髮/啤酒/art deco的一切。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 542,
+        "friends_count": 213,
+        "listed_count": 11,
+        "created_at": "Sun Jul 14 17:24:04 +0000 2013",
+        "favourites_count": 664,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1371,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/476425570712952832/doOEEoc8.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/476425570712952832/doOEEoc8.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/705043375536214016/phHj0qBR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/705043375536214016/phHj0qBR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593842928/1456930415",
+        "profile_link_color": "F0A3BD",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00180402799fed03",
+        "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+        "place_type": "city",
+        "name": "台北市",
+        "full_name": "台北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.457132,
+                24.960508
+              ],
+              [
+                121.66582,
+                24.960508
+              ],
+              [
+                121.66582,
+                25.211004
+              ],
+              [
+                121.457132,
+                25.211004
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 25,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Dec 02 14:40:26 +0000 2016",
     "id": 804696734278369280,
     "id_str": "804696734278369280",
