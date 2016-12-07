@@ -1,5 +1,291 @@
 Grailbird.data.tweets_2016_12 = [
   {
+    "created_at": "Wed Dec 07 04:19:31 +0000 2016",
+    "id": 806352415393878017,
+    "id_str": "806352415393878017",
+    "text": "身體裡有什麼東西壞掉或死掉了，麻煩的是我並不知道那是什麼，也無法精準定位它在哪兒。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 06 17:36:10 +0000 2016",
+    "id": 806190511782379520,
+    "id_str": "806190511782379520",
+    "text": "RT @BillGates: Anybody can learn to code. And everyone should give it a try: https://t.co/F0q0BRt8aR #HourOfCode",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "HourOfCode",
+          "indices": [
+            101,
+            112
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "BillGates",
+          "name": "Bill Gates",
+          "id": 50393960,
+          "id_str": "50393960",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/F0q0BRt8aR",
+          "expanded_url": "http://b-gat.es/2h3cAzd",
+          "display_url": "b-gat.es/2h3cAzd",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 06 17:34:35 +0000 2016",
+      "id": 806190112841334784,
+      "id_str": "806190112841334784",
+      "text": "Anybody can learn to code. And everyone should give it a try: https://t.co/F0q0BRt8aR #HourOfCode",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "HourOfCode",
+            "indices": [
+              86,
+              97
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/F0q0BRt8aR",
+            "expanded_url": "http://b-gat.es/2h3cAzd",
+            "display_url": "b-gat.es/2h3cAzd",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 50393960,
+        "id_str": "50393960",
+        "name": "Bill Gates",
+        "screen_name": "BillGates",
+        "location": "Seattle, WA",
+        "description": "Sharing things I'm learning through my foundation work and other interests...",
+        "url": "https://t.co/dtudepUWZI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/dtudepUWZI",
+                "expanded_url": "http://www.gatesnotes.com",
+                "display_url": "gatesnotes.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 32252922,
+        "friends_count": 171,
+        "listed_count": 120344,
+        "created_at": "Wed Jun 24 18:44:10 +0000 2009",
+        "favourites_count": 11,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 2207,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/542018712627187712/0AenG_nz.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/542018712627187712/0AenG_nz.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/558109954561679360/j1f9DiJi_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/558109954561679360/j1f9DiJi_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50393960/1480961321",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1534,
+      "favorite_count": 3279,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1534,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Dec 06 07:00:18 +0000 2016",
+    "id": 806030489458851840,
+    "id_str": "806030489458851840",
+    "text": "這機器真不錯，USD $475 也不算太貴......XD “AxiDraw V3”  https://t.co/s5hOMXbGg7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/s5hOMXbGg7",
+          "expanded_url": "https://vimeo.com/193294744",
+          "display_url": "vimeo.com/193294744",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Dec 04 03:47:25 +0000 2016",
     "id": 805257173747920896,
     "id_str": "805257173747920896",
