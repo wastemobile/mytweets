@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2016_12 = [
   {
+    "created_at": "Wed Dec 14 13:07:27 +0000 2016",
+    "id": 809021987813138432,
+    "id_str": "809021987813138432",
+    "text": "\"台灣需要領導人才，但最不需要的就是那些活在雲端的假菁英 - The News Lens 關鍵評論網\" https://t.co/xyzjZvLoND //沒有列出假菁英清單是本文敗筆。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xyzjZvLoND",
+          "expanded_url": "https://www.thenewslens.com/article/19122",
+          "display_url": "thenewslens.com/article/19122",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Dec 12 15:58:02 +0000 2016",
     "id": 808340139638296576,
     "id_str": "808340139638296576",
