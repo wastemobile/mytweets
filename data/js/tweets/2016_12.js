@@ -1,5 +1,262 @@
 Grailbird.data.tweets_2016_12 = [
   {
+    "created_at": "Thu Dec 15 12:28:41 +0000 2016",
+    "id": 809374618699976705,
+    "id_str": "809374618699976705",
+    "text": "今晚網路又是哪裡出問題了？各種不順。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 14 15:58:39 +0000 2016",
+    "id": 809065073226301440,
+    "id_str": "809065073226301440",
+    "text": "Echo、Siri 完敗⋯⋯ https://t.co/eDRcMJuAUa",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eDRcMJuAUa",
+          "expanded_url": "https://twitter.com/aoi/status/809064282495315968",
+          "display_url": "twitter.com/aoi/status/809…",
+          "indices": [
+            15,
+            38
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 809064282495315968,
+    "quoted_status_id_str": "809064282495315968",
+    "quoted_status": {
+      "created_at": "Wed Dec 14 15:55:31 +0000 2016",
+      "id": 809064282495315968,
+      "id_str": "809064282495315968",
+      "text": "人類滅絕計畫啟動！\n\"Gatebox - Virtual Home Robot [PV] - YouTube\"\n\n ( https://t.co/LoJZcUlygV )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LoJZcUlygV",
+            "expanded_url": "http://twitthat.com/qR4yr",
+            "display_url": "twitthat.com/qR4yr",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitthat.com/\" rel=\"nofollow\">twitthat</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 665073,
+        "id_str": "665073",
+        "name": "Aoi",
+        "screen_name": "aoi",
+        "location": "24.808691,120.958463",
+        "description": "這沒有其他的方法，這不能算一個問題，你應該考慮的是對或不對，當你學得這正確的事情，就算你不能全部完成，只能完成一部份，但那也算是成就，你應該繼續努力，而不應該總是去思考到底能不能夠在你有限的生命裡把這些實現，這不該是一個問題，我們本該努力付出，想辦法去做出一些貢獻，就從現在開始。",
+        "url": "http://t.co/aK93xgci7X",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/aK93xgci7X",
+                "expanded_url": "http://fotologue.jp/aoiclover",
+                "display_url": "fotologue.jp/aoiclover",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1097,
+        "friends_count": 2885,
+        "listed_count": 40,
+        "created_at": "Fri Jan 19 14:30:01 +0000 2007",
+        "favourites_count": 818,
+        "utc_offset": 32400,
+        "time_zone": "Tokyo",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13778,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/36412/aoi123.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/36412/aoi123.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2524787446/ly85913aoaxpfw9uci82_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2524787446/ly85913aoaxpfw9uci82_normal.jpeg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "737373",
+        "profile_sidebar_fill_color": "8C0000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Dec 14 15:51:34 +0000 2016",
+    "id": 809063289946705920,
+    "id_str": "809063289946705920",
+    "text": "每次不得已用一下臉書，都還是覺得這種爛東西怎麼會有人想用？我偏離主流太遠了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Dec 14 13:07:27 +0000 2016",
     "id": 809021987813138432,
     "id_str": "809021987813138432",
