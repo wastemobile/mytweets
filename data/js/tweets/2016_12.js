@@ -1,5 +1,736 @@
 Grailbird.data.tweets_2016_12 = [
   {
+    "created_at": "Fri Dec 16 14:40:09 +0000 2016",
+    "id": 809770094020526081,
+    "id_str": "809770094020526081",
+    "text": "歐巴馬簽署了一項新法律 The Consumer Review Fairness Act (HR 5111)，禁止企業懲罰那些在網上給予負面評價的顧客，消費者應該有自由發表「誠實而準確」的反饋，而不必擔心被報復。… https://t.co/J8UfiCvlhK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/J8UfiCvlhK",
+          "expanded_url": "https://twitter.com/i/web/status/809770094020526081",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 16 14:20:56 +0000 2016",
+    "id": 809765258483023874,
+    "id_str": "809765258483023874",
+    "text": "@hungys319 Mac 版本，介面糟、同步糟、反應慢，幾乎是不可用狀態；不如直接開瀏覽器用網頁版。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hungys319",
+          "name": "hungys",
+          "id": 1592451241,
+          "id_str": "1592451241",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 809764898389360640,
+    "in_reply_to_status_id_str": "809764898389360640",
+    "in_reply_to_user_id": 1592451241,
+    "in_reply_to_user_id_str": "1592451241",
+    "in_reply_to_screen_name": "hungys319",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 16 14:17:58 +0000 2016",
+    "id": 809764511808794624,
+    "id_str": "809764511808794624",
+    "text": "網路內容擷取 OneNote 可以取代 Evernote Web Clipper，但大概也只能做這件事；寫文的介面或軟體操作比 Evernote 更糟。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 16 14:07:30 +0000 2016",
+    "id": 809761875109912576,
+    "id_str": "809761875109912576",
+    "text": "這篇列出 Amazon Kindle 看到飽閱讀服務，自二〇一四年至今每月的版稅支付基金，從美金一百二十萬成長到一千六百三十萬，非常高的成長曲線。 https://t.co/J7VhY6TKuw https://t.co/OOYGLxl4SP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/J7VhY6TKuw",
+          "expanded_url": "http://the-digital-reader.com/2016/12/15/kindle-unlimited-funding-pool-per-page-royalty-rose-november-2016",
+          "display_url": "the-digital-reader.com/2016/12/15/kin…",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 809761858701791232,
+          "id_str": "809761858701791232",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/CzzaHsSUkAA4RQd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CzzaHsSUkAA4RQd.jpg",
+          "url": "https://t.co/OOYGLxl4SP",
+          "display_url": "pic.twitter.com/OOYGLxl4SP",
+          "expanded_url": "https://twitter.com/wastemobile/status/809761875109912576/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 809761858701791232,
+          "id_str": "809761858701791232",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/CzzaHsSUkAA4RQd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CzzaHsSUkAA4RQd.jpg",
+          "url": "https://t.co/OOYGLxl4SP",
+          "display_url": "pic.twitter.com/OOYGLxl4SP",
+          "expanded_url": "https://twitter.com/wastemobile/status/809761875109912576/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 16 07:12:56 +0000 2016",
+    "id": 809657544620658688,
+    "id_str": "809657544620658688",
+    "text": "OneNote 桌面程式比 Evernote 難用。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Dec 15 17:50:18 +0000 2016",
+    "id": 809455558986080256,
+    "id_str": "809455558986080256",
+    "text": "@losiu 作用不同。閱讀或蒐集文章我也都用 instapaper，擷取到 Evernote 的都是打算翻譯、較大量摘文，或跟著原文邊想邊寫的東西，稍後再讀服務都無法滿足這類需求。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "losiu",
+          "name": "Siu",
+          "id": 24483947,
+          "id_str": "24483947",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 809454832796844032,
+    "in_reply_to_status_id_str": "809454832796844032",
+    "in_reply_to_user_id": 24483947,
+    "in_reply_to_user_id_str": "24483947",
+    "in_reply_to_screen_name": "losiu",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 15 17:42:12 +0000 2016",
+    "id": 809453519585439745,
+    "id_str": "809453519585439745",
+    "text": "#note 移除 Evernote App Store 版本，改用直接下載安裝版，就可以下載執行 OneNote 匯入移轉工具。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 15 17:37:18 +0000 2016",
+    "id": 809452287521234944,
+    "id_str": "809452287521234944",
+    "text": "@losiu 感謝！剛才研究一下，OneNote 似乎有機會，安裝了它的 App, Clipper 以及匯入工具測試中。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "losiu",
+          "name": "Siu",
+          "id": 24483947,
+          "id_str": "24483947",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 809448648442400768,
+    "in_reply_to_status_id_str": "809448648442400768",
+    "in_reply_to_user_id": 24483947,
+    "in_reply_to_user_id_str": "24483947",
+    "in_reply_to_screen_name": "losiu",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 15 17:03:42 +0000 2016",
+    "id": 809443831154294786,
+    "id_str": "809443831154294786",
+    "text": "@losiu 其實比較苦惱的是 Web Clipper 耶！文件書寫本來就不太用它。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "losiu",
+          "name": "Siu",
+          "id": 24483947,
+          "id_str": "24483947",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 809441462102343680,
+    "in_reply_to_status_id_str": "809441462102343680",
+    "in_reply_to_user_id": 24483947,
+    "in_reply_to_user_id_str": "24483947",
+    "in_reply_to_screen_name": "losiu",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 15 16:08:57 +0000 2016",
+    "id": 809430049896087552,
+    "id_str": "809430049896087552",
+    "text": "有可能在 2017/1/23 之前，找到 Evernote 的完全替代方案嗎？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Dec 15 16:03:21 +0000 2016",
+    "id": 809428644443471872,
+    "id_str": "809428644443471872",
+    "text": "居然有一種趾間有半蹼、善於長距離游泳的「漁貓」！ https://t.co/jCOlW5gRFd https://t.co/NhNdSNBNoq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jCOlW5gRFd",
+          "expanded_url": "http://www.tanews.org.tw/info/11913",
+          "display_url": "tanews.org.tw/info/11913",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 809428634737881088,
+          "id_str": "809428634737881088",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/CzurDgSUsAAFc_4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CzurDgSUsAAFc_4.jpg",
+          "url": "https://t.co/NhNdSNBNoq",
+          "display_url": "pic.twitter.com/NhNdSNBNoq",
+          "expanded_url": "https://twitter.com/wastemobile/status/809428644443471872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 411,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 411,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 411,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 809428634737881088,
+          "id_str": "809428634737881088",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/CzurDgSUsAAFc_4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CzurDgSUsAAFc_4.jpg",
+          "url": "https://t.co/NhNdSNBNoq",
+          "display_url": "pic.twitter.com/NhNdSNBNoq",
+          "expanded_url": "https://twitter.com/wastemobile/status/809428644443471872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 411,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 411,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 411,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Dec 15 12:28:41 +0000 2016",
     "id": 809374618699976705,
     "id_str": "809374618699976705",
