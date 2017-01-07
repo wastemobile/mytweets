@@ -1,5 +1,318 @@
 Grailbird.data.tweets_2017_01 = [
   {
+    "created_at": "Sat Jan 07 06:39:21 +0000 2017",
+    "id": 817621626632056832,
+    "id_str": "817621626632056832",
+    "text": "誠品與月桂冠合作的董陽孜「五福清酒」，頭頂的蓋子旋下來可當酒杯。據說在日本是白與粉紅色的搭配，金色包裝算特殊。 https://t.co/7s7FnUDhU3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 817621585418797057,
+          "id_str": "817621585418797057",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1jGf_-UQAEX6gu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1jGf_-UQAEX6gu.jpg",
+          "url": "https://t.co/7s7FnUDhU3",
+          "display_url": "pic.twitter.com/7s7FnUDhU3",
+          "expanded_url": "https://twitter.com/wastemobile/status/817621626632056832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 817621585418797057,
+          "id_str": "817621585418797057",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1jGf_-UQAEX6gu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1jGf_-UQAEX6gu.jpg",
+          "url": "https://t.co/7s7FnUDhU3",
+          "display_url": "pic.twitter.com/7s7FnUDhU3",
+          "expanded_url": "https://twitter.com/wastemobile/status/817621626632056832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 07 03:09:57 +0000 2017",
+    "id": 817568929467875328,
+    "id_str": "817568929467875328",
+    "text": "这位“尚在世的最伟大戏剧导演”，谈了谈作品和他自己 《彼得・布魯克訪談錄：1970-2000》 https://t.co/aggj1eP9h1 https://t.co/hNgc5BsIzg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aggj1eP9h1",
+          "expanded_url": "http://www.qdaily.com/articles/36545.html",
+          "display_url": "qdaily.com/articles/36545…",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 817568920269832192,
+          "id_str": "817568920269832192",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1iWmfAVQAAVjQD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1iWmfAVQAAVjQD.jpg",
+          "url": "https://t.co/hNgc5BsIzg",
+          "display_url": "pic.twitter.com/hNgc5BsIzg",
+          "expanded_url": "https://twitter.com/wastemobile/status/817568929467875328/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 300,
+              "h": 438,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 300,
+              "h": 438,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 300,
+              "h": 438,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 817568920269832192,
+          "id_str": "817568920269832192",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1iWmfAVQAAVjQD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1iWmfAVQAAVjQD.jpg",
+          "url": "https://t.co/hNgc5BsIzg",
+          "display_url": "pic.twitter.com/hNgc5BsIzg",
+          "expanded_url": "https://twitter.com/wastemobile/status/817568929467875328/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 300,
+              "h": 438,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 300,
+              "h": 438,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 300,
+              "h": 438,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 06 15:09:10 +0000 2017",
+    "id": 817387540114087936,
+    "id_str": "817387540114087936",
+    "text": "今天測試安裝了 October CMS https://t.co/J0nUg02mbh 非常強大，但想要摸熟還有得學⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/J0nUg02mbh",
+          "expanded_url": "http://octobercms.com",
+          "display_url": "octobercms.com",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jan 06 10:52:53 +0000 2017",
     "id": 817323043676532736,
     "id_str": "817323043676532736",
