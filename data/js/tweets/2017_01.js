@@ -1,5 +1,936 @@
 Grailbird.data.tweets_2017_01 = [
   {
+    "created_at": "Mon Jan 09 15:27:13 +0000 2017",
+    "id": 818479247807254528,
+    "id_str": "818479247807254528",
+    "text": "經過一整年暫停「迷戀」電子書之後， 今年第一週火速掃過各種資訊、趨勢，個人判斷這玩意兒已經不再需要全面性的關注了。\n\n電子書不會消失，在台上有個小角色，但它既無法搶下主配角的地位，也挽救不了整齣戲的頹勢。\n\n本推號順應時勢，今後就讓電子書訊息跑跑龍套就好。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 09 15:04:51 +0000 2017",
+    "id": 818473616677355521,
+    "id_str": "818473616677355521",
+    "text": "危險的閱讀，可能改變人生的一本書。 https://t.co/n3ewiBVM6t https://t.co/ysDAmfoJ7C",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/n3ewiBVM6t",
+          "expanded_url": "http://magazineworld.jp/brutus/brutus-838/",
+          "display_url": "magazineworld.jp/brutus/brutus-…",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 818473576244183041,
+          "id_str": "818473576244183041",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1vNYZIUAAEutPp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1vNYZIUAAEutPp.jpg",
+          "url": "https://t.co/ysDAmfoJ7C",
+          "display_url": "pic.twitter.com/ysDAmfoJ7C",
+          "expanded_url": "https://twitter.com/wastemobile/status/818473616677355521/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 818473576244183041,
+          "id_str": "818473576244183041",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1vNYZIUAAEutPp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1vNYZIUAAEutPp.jpg",
+          "url": "https://t.co/ysDAmfoJ7C",
+          "display_url": "pic.twitter.com/ysDAmfoJ7C",
+          "expanded_url": "https://twitter.com/wastemobile/status/818473616677355521/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 09 14:57:16 +0000 2017",
+    "id": 818471709074305025,
+    "id_str": "818471709074305025",
+    "text": "之前美國 All Romance 言情小說電子書網站極速關站，網路上有不少控訴他們的經營惡劣事蹟，多數只瞄了一下未細讀；這篇新的連載因為擴及談論電子書的未來，或許可以看看。 https://t.co/41HMx9s5Uz https://t.co/A58riLiWY7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/41HMx9s5Uz",
+          "expanded_url": "http://kriswrites.com/2017/01/04/business-musings-all-romance-ebooks-visions-of-the-future-part-one/",
+          "display_url": "kriswrites.com/2017/01/04/bus…",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 818471698680811521,
+          "id_str": "818471698680811521",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1vLrGqUkAEOwFe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1vLrGqUkAEOwFe.jpg",
+          "url": "https://t.co/A58riLiWY7",
+          "display_url": "pic.twitter.com/A58riLiWY7",
+          "expanded_url": "https://twitter.com/wastemobile/status/818471709074305025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 512,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 768,
+              "h": 512,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 818471698680811521,
+          "id_str": "818471698680811521",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1vLrGqUkAEOwFe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1vLrGqUkAEOwFe.jpg",
+          "url": "https://t.co/A58riLiWY7",
+          "display_url": "pic.twitter.com/A58riLiWY7",
+          "expanded_url": "https://twitter.com/wastemobile/status/818471709074305025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 512,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 768,
+              "h": 512,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 09 13:21:24 +0000 2017",
+    "id": 818447582783361025,
+    "id_str": "818447582783361025",
+    "text": "不只蘇公這麼說，Joe Wikert 也舉了個例子，說明電子書該怎麼先做好「補充（complement）」的角色。 https://t.co/F24mCbJyTW https://t.co/E8LhqrGYTc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/F24mCbJyTW",
+          "expanded_url": "http://jwikert.typepad.com/the_average_joe/2017/01/heres-another-way-digital-could-complement-print.html",
+          "display_url": "jwikert.typepad.com/the_average_jo…",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 818447575476899840,
+          "id_str": "818447575476899840",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1u1u8uUkAADPui.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1u1u8uUkAADPui.jpg",
+          "url": "https://t.co/E8LhqrGYTc",
+          "display_url": "pic.twitter.com/E8LhqrGYTc",
+          "expanded_url": "https://twitter.com/wastemobile/status/818447582783361025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 141,
+              "h": 141,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 250,
+              "h": 141,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 250,
+              "h": 141,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 250,
+              "h": 141,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 818447575476899840,
+          "id_str": "818447575476899840",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1u1u8uUkAADPui.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1u1u8uUkAADPui.jpg",
+          "url": "https://t.co/E8LhqrGYTc",
+          "display_url": "pic.twitter.com/E8LhqrGYTc",
+          "expanded_url": "https://twitter.com/wastemobile/status/818447582783361025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 141,
+              "h": 141,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 250,
+              "h": 141,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 250,
+              "h": 141,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 250,
+              "h": 141,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 09 12:29:25 +0000 2017",
+    "id": 818434499172151296,
+    "id_str": "818434499172151296",
+    "text": "RT @BlueGriffonApp: forthcoming BlueGriffon 2.2 dealing with the EPUB 3.1 version of Moby Dick #eprdctn https://t.co/01OUZSuB7q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "eprdctn",
+          "indices": [
+            95,
+            103
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "BlueGriffonApp",
+          "name": "BlueGriffon",
+          "id": 243209834,
+          "id_str": "243209834",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 818400830693015552,
+          "id_str": "818400830693015552",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1uLOC1XgAAZd47.png",
+          "media_url_https": "https://pbs.twimg.com/media/C1uLOC1XgAAZd47.png",
+          "url": "https://t.co/01OUZSuB7q",
+          "display_url": "pic.twitter.com/01OUZSuB7q",
+          "expanded_url": "https://twitter.com/BlueGriffonApp/status/818400834396581889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2032,
+              "h": 1225,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 410,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 723,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 818400834396581889,
+          "source_status_id_str": "818400834396581889",
+          "source_user_id": 243209834,
+          "source_user_id_str": "243209834"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 818400830693015552,
+          "id_str": "818400830693015552",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1uLOC1XgAAZd47.png",
+          "media_url_https": "https://pbs.twimg.com/media/C1uLOC1XgAAZd47.png",
+          "url": "https://t.co/01OUZSuB7q",
+          "display_url": "pic.twitter.com/01OUZSuB7q",
+          "expanded_url": "https://twitter.com/BlueGriffonApp/status/818400834396581889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2032,
+              "h": 1225,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 410,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 723,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 818400834396581889,
+          "source_status_id_str": "818400834396581889",
+          "source_user_id": 243209834,
+          "source_user_id_str": "243209834"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 09 10:15:38 +0000 2017",
+      "id": 818400834396581889,
+      "id_str": "818400834396581889",
+      "text": "forthcoming BlueGriffon 2.2 dealing with the EPUB 3.1 version of Moby Dick #eprdctn https://t.co/01OUZSuB7q",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "eprdctn",
+            "indices": [
+              75,
+              83
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 818400830693015552,
+            "id_str": "818400830693015552",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/C1uLOC1XgAAZd47.png",
+            "media_url_https": "https://pbs.twimg.com/media/C1uLOC1XgAAZd47.png",
+            "url": "https://t.co/01OUZSuB7q",
+            "display_url": "pic.twitter.com/01OUZSuB7q",
+            "expanded_url": "https://twitter.com/BlueGriffonApp/status/818400834396581889/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2032,
+                "h": 1225,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 410,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 723,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 818400830693015552,
+            "id_str": "818400830693015552",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/C1uLOC1XgAAZd47.png",
+            "media_url_https": "https://pbs.twimg.com/media/C1uLOC1XgAAZd47.png",
+            "url": "https://t.co/01OUZSuB7q",
+            "display_url": "pic.twitter.com/01OUZSuB7q",
+            "expanded_url": "https://twitter.com/BlueGriffonApp/status/818400834396581889/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2032,
+                "h": 1225,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 410,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 723,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 243209834,
+        "id_str": "243209834",
+        "name": "BlueGriffon",
+        "screen_name": "BlueGriffonApp",
+        "location": "",
+        "description": "BlueGriffon, The next-generation Web Editor based on the rendering engine of Firefox",
+        "url": "http://t.co/33pGewvFfz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/33pGewvFfz",
+                "expanded_url": "http://bluegriffon.org",
+                "display_url": "bluegriffon.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1468,
+        "friends_count": 1,
+        "listed_count": 107,
+        "created_at": "Wed Jan 26 15:10:16 +0000 2011",
+        "favourites_count": 1,
+        "utc_offset": 3600,
+        "time_zone": "Paris",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 522,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226370832/bluegriffon128_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226370832/bluegriffon128_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jan 08 16:12:18 +0000 2017",
+    "id": 818128203189321729,
+    "id_str": "818128203189321729",
+    "text": "RT @BlueGriffonApp: BlueGriffon 2.2 will allow to create/edit EPUB ebooks with vertical writing for Asia !",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "BlueGriffonApp",
+          "name": "BlueGriffon",
+          "id": 243209834,
+          "id_str": "243209834",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jan 08 11:54:15 +0000 2017",
+      "id": 818063262877175808,
+      "id_str": "818063262877175808",
+      "text": "BlueGriffon 2.2 will allow to create/edit EPUB ebooks with vertical writing for Asia !",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 243209834,
+        "id_str": "243209834",
+        "name": "BlueGriffon",
+        "screen_name": "BlueGriffonApp",
+        "location": "",
+        "description": "BlueGriffon, The next-generation Web Editor based on the rendering engine of Firefox",
+        "url": "http://t.co/33pGewvFfz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/33pGewvFfz",
+                "expanded_url": "http://bluegriffon.org",
+                "display_url": "bluegriffon.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1468,
+        "friends_count": 1,
+        "listed_count": 107,
+        "created_at": "Wed Jan 26 15:10:16 +0000 2011",
+        "favourites_count": 1,
+        "utc_offset": 3600,
+        "time_zone": "Paris",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 522,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226370832/bluegriffon128_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226370832/bluegriffon128_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Jan 08 05:21:13 +0000 2017",
     "id": 817964352846184449,
     "id_str": "817964352846184449",
