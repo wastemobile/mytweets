@@ -1,5 +1,331 @@
 Grailbird.data.tweets_2017_01 = [
   {
+    "created_at": "Tue Jan 10 07:50:17 +0000 2017",
+    "id": 818726641752903680,
+    "id_str": "818726641752903680",
+    "text": "決定去喝杯好咖啡緩緩心。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jan 10 07:16:48 +0000 2017",
+    "id": 818718216767737856,
+    "id_str": "818718216767737856",
+    "text": "Buzzfeed 的烹飪書 Tasty，讓讀者先自行上網挑選食譜、勾選不同價格的平裝或精裝，然後在 7-10 天後收到。就是資料庫出版、隨選印刷（這案例很可能只是隨選裝訂），不到兩個月賣出超過十萬冊！… https://t.co/ZzDj4SM2Gs",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZzDj4SM2Gs",
+          "expanded_url": "https://twitter.com/i/web/status/818718216767737856",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jan 10 06:18:09 +0000 2017",
+    "id": 818703457666224128,
+    "id_str": "818703457666224128",
+    "text": "In a bad mood.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 10 04:48:57 +0000 2017",
+    "id": 818681009457668100,
+    "id_str": "818681009457668100",
+    "text": "到創世基金會看臥床的多年好友，不停轉動的眼珠，就是一個躍動的靈魂被囚禁在無法動彈的肉體裡，不爭氣的在床邊一直掉淚。\n\n意識清楚好手好腳的人自怨自艾個屁，我大概會維持這種憤怒好幾天，內有惡犬，閒人勿近。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 09 16:41:05 +0000 2017",
+    "id": 818497834869669889,
+    "id_str": "818497834869669889",
+    "text": "感覺很有意思，「知識服務的爆發之年」來臨？ https://t.co/4PX3q549SZ https://t.co/YAO0wQcs3t",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4PX3q549SZ",
+          "expanded_url": "http://www.jianshu.com/p/9a16201810ea",
+          "display_url": "jianshu.com/p/9a16201810ea",
+          "indices": [
+            22,
+            45
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 818497821208739840,
+          "id_str": "818497821208739840",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1vjboqUAAAnZ_V.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1vjboqUAAAnZ_V.jpg",
+          "url": "https://t.co/YAO0wQcs3t",
+          "display_url": "pic.twitter.com/YAO0wQcs3t",
+          "expanded_url": "https://twitter.com/wastemobile/status/818497834869669889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 668,
+              "h": 518,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 668,
+              "h": 518,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 668,
+              "h": 518,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 818497821208739840,
+          "id_str": "818497821208739840",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/C1vjboqUAAAnZ_V.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C1vjboqUAAAnZ_V.jpg",
+          "url": "https://t.co/YAO0wQcs3t",
+          "display_url": "pic.twitter.com/YAO0wQcs3t",
+          "expanded_url": "https://twitter.com/wastemobile/status/818497834869669889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 668,
+              "h": 518,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 668,
+              "h": 518,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 668,
+              "h": 518,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jan 09 15:27:13 +0000 2017",
     "id": 818479247807254528,
     "id_str": "818479247807254528",
