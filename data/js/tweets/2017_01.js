@@ -1,5 +1,516 @@
 Grailbird.data.tweets_2017_01 = [
   {
+    "created_at": "Thu Jan 12 13:55:33 +0000 2017",
+    "id": 819543340198731777,
+    "id_str": "819543340198731777",
+    "text": "把這整本（站）做完一遍 FullStack JavaScript: Starter Guide https://t.co/FLfyu344x3 當然很多東西都只講了最初階，但確實是鳥瞰、將框架解釋得非常清楚，屬於傳統路子，未涉及 React 這類前端框架。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FLfyu344x3",
+          "expanded_url": "http://www.fullstackjs.com/book/index.html",
+          "display_url": "fullstackjs.com/book/index.html",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 12 08:15:57 +0000 2017",
+    "id": 819457878742315008,
+    "id_str": "819457878742315008",
+    "text": "熟讀一千本食譜卻很少下廚，不可能會是個好廚師，因為實作過程中有太多細瑣卻重要的地方需要臨場反應、彈性調整，更別說用真實味覺做出的創意改良。\n\n不管哪個領域，只靠讀書瞎子摸象的人，應該都不必太過相信。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 12 05:46:34 +0000 2017",
+    "id": 819420283291348992,
+    "id_str": "819420283291348992",
+    "text": "Scribd 悄悄將萬本數位漫畫移出吃到飽訂閱服務書單 https://t.co/oYrNHGH8Tp 文內順便整理了一下這類服務的概況；Kindle Unlimited 去年支付給出版商與作者 1.8億美金，Nook 的硬體與內容總營收不過 1.9億美金。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oYrNHGH8Tp",
+          "expanded_url": "http://the-digital-reader.com/2017/01/02/scribd-pulls-digital-comics-subscription-reading-service/",
+          "display_url": "the-digital-reader.com/2017/01/02/scr…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 12 05:28:23 +0000 2017",
+    "id": 819415709004414976,
+    "id_str": "819415709004414976",
+    "text": "〈十本反烏托邦小說，省思女性生殖自由〉 https://t.co/6ELLRS8cjh &lt;del&gt;抄襲&lt;/del&gt;參考報導來源： https://t.co/bU9Fi8mMJk https://t.co/Q3yKNRVHi0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6ELLRS8cjh",
+          "expanded_url": "http://www.mplus.com.tw/article/1507",
+          "display_url": "mplus.com.tw/article/1507",
+          "indices": [
+            20,
+            43
+          ]
+        },
+        {
+          "url": "https://t.co/bU9Fi8mMJk",
+          "expanded_url": "http://lithub.com/10-dystopian-novels-to-inspire-you-to-fight-for-your-reproductive-freedoms/#",
+          "display_url": "lithub.com/10-dystopian-n…",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 819415697189015552,
+          "id_str": "819415697189015552",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/C18mPDJUkAAQFYo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C18mPDJUkAAQFYo.jpg",
+          "url": "https://t.co/Q3yKNRVHi0",
+          "display_url": "pic.twitter.com/Q3yKNRVHi0",
+          "expanded_url": "https://twitter.com/wastemobile/status/819415709004414976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 778,
+              "h": 438,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 778,
+              "h": 438,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 819415697189015552,
+          "id_str": "819415697189015552",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/C18mPDJUkAAQFYo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C18mPDJUkAAQFYo.jpg",
+          "url": "https://t.co/Q3yKNRVHi0",
+          "display_url": "pic.twitter.com/Q3yKNRVHi0",
+          "expanded_url": "https://twitter.com/wastemobile/status/819415709004414976/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 778,
+              "h": 438,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 778,
+              "h": 438,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 12 03:02:30 +0000 2017",
+    "id": 819378994172698624,
+    "id_str": "819378994172698624",
+    "text": "RT @Horus9527: 没有爱的性就好像是没有牛奶的奥利奥.....依然很赞 #译自英语推 #",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "译自英语推",
+          "indices": [
+            42,
+            48
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Horus9527",
+          "name": "寸息霾地",
+          "id": 108018525,
+          "id_str": "108018525",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jan 10 10:36:45 +0000 2017",
+      "id": 818768537280020480,
+      "id_str": "818768537280020480",
+      "text": "没有爱的性就好像是没有牛奶的奥利奥.....依然很赞 #译自英语推 #",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "译自英语推",
+            "indices": [
+              27,
+              33
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://chrome.google.com/extensions/detail/aicelmgbddfgmpieedjiggifabdpcnln\" rel=\"nofollow\">FaWave</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 108018525,
+        "id_str": "108018525",
+        "name": "寸息霾地",
+        "screen_name": "Horus9527",
+        "location": "34.289474,108.942801",
+        "description": "微博段子号  @译自英语推   #9GAG人肉翻译  #生活推 #促销打折败家 #无责任转发 麻烦营销号 @英式没品笑话百科 同志有些廉耻联系我结清稿费再转载 谢谢  搬砖包养婷婷[猪]^(*￣(oo)￣)^ @timy_127",
+        "url": "https://t.co/eyoZwVg5ni",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/eyoZwVg5ni",
+                "expanded_url": "http://wefollow.com/Horus9527",
+                "display_url": "wefollow.com/Horus9527",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7568,
+        "friends_count": 617,
+        "listed_count": 116,
+        "created_at": "Sun Jan 24 14:53:44 +0000 2010",
+        "favourites_count": 800,
+        "utc_offset": 28800,
+        "time_zone": "Hong Kong",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 82293,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/790103392878067712/e1GKusBk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/790103392878067712/e1GKusBk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108018525/1359638902",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 31,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 11 21:14:23 +0000 2017",
+    "id": 819291389032660993,
+    "id_str": "819291389032660993",
+    "text": "近日睡眠品質真是差到極致了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jan 11 14:04:34 +0000 2017",
     "id": 819183220650455040,
     "id_str": "819183220650455040",
