@@ -1,5 +1,807 @@
 Grailbird.data.tweets_2017_01 = [
   {
+    "created_at": "Thu Jan 19 15:36:41 +0000 2017",
+    "id": 822105505069875200,
+    "id_str": "822105505069875200",
+    "text": "哎呀呀！Eco 的最後一部小說《试刊号》，故事居然是透過一場虛構的辦報實驗，剖析與批判現代新聞媒體產業啊！必讀。 https://t.co/gU05pMEfUz https://t.co/ShImR4ASOb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gU05pMEfUz",
+          "expanded_url": "http://www.qdaily.com/articles/36979.html",
+          "display_url": "qdaily.com/articles/36979…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 822105495687180288,
+          "id_str": "822105495687180288",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2i0l7ZUsAAJpPZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C2i0l7ZUsAAJpPZ.jpg",
+          "url": "https://t.co/ShImR4ASOb",
+          "display_url": "pic.twitter.com/ShImR4ASOb",
+          "expanded_url": "https://twitter.com/wastemobile/status/822105505069875200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 300,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 300,
+              "h": 375,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 300,
+              "h": 375,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 822105495687180288,
+          "id_str": "822105495687180288",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2i0l7ZUsAAJpPZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C2i0l7ZUsAAJpPZ.jpg",
+          "url": "https://t.co/ShImR4ASOb",
+          "display_url": "pic.twitter.com/ShImR4ASOb",
+          "expanded_url": "https://twitter.com/wastemobile/status/822105505069875200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 300,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 300,
+              "h": 375,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 300,
+              "h": 375,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 19 15:26:32 +0000 2017",
+    "id": 822102952621981696,
+    "id_str": "822102952621981696",
+    "text": "人工智慧文案編輯器 https://t.co/5BjJtJmC0v 據說背後是人工神經網路，不止檢查拼字、文法，還有超過三百萬篇文章做內容參考後盾。\n\n這種編輯器未來一定會出現，但應該要加入每個人讀過的書為內容基準，否則不就是拼貼… https://t.co/6w9LsvdlVj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5BjJtJmC0v",
+          "expanded_url": "https://www.atomicreach.com/products/",
+          "display_url": "atomicreach.com/products/",
+          "indices": [
+            10,
+            33
+          ]
+        },
+        {
+          "url": "https://t.co/6w9LsvdlVj",
+          "expanded_url": "https://twitter.com/i/web/status/822102952621981696",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 19 15:11:44 +0000 2017",
+    "id": 822099228914630656,
+    "id_str": "822099228914630656",
+    "text": "Kobo 在 2015/3 買下 OverDrive 近兩年後，開始測試從 Kobo Writing Life（作家自助上架）派送到圖書館服務的程序，或許能讓獨立作家獲得更多的流通機會與一點點收益。… https://t.co/VuZD10tZV7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VuZD10tZV7",
+          "expanded_url": "https://twitter.com/i/web/status/822099228914630656",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 19 08:04:56 +0000 2017",
+    "id": 821991820225675265,
+    "id_str": "821991820225675265",
+    "text": "@nicktivity 是 NAS 沒錯，目前服役中的是舊款四槽 DAS。Drobo 與一般磁碟陣列不同，不同品牌、不同大小可任意不關機替換，是其特色。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nicktivity",
+          "name": "nicktivity",
+          "id": 50352755,
+          "id_str": "50352755",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 821990011264323584,
+    "in_reply_to_status_id_str": "821990011264323584",
+    "in_reply_to_user_id": 50352755,
+    "in_reply_to_user_id_str": "50352755",
+    "in_reply_to_screen_name": "nicktivity",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 19 03:56:35 +0000 2017",
+    "id": 821929320968953857,
+    "id_str": "821929320968953857",
+    "text": "剛到古騰堡找本公版電子書，每本都有送到 Dropbox、Google Drive 或 OneDrive 的按鈕，之前已經設定好 IFTTT 監看特定目錄的條件，因此按個鍵、稍等一下，書就出現在 Kindle 上了，這流程真不錯。 https://t.co/rc2LJ7DbJz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 821929310978068480,
+          "id_str": "821929310978068480",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2gUWoNUUAABYgh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C2gUWoNUUAABYgh.jpg",
+          "url": "https://t.co/rc2LJ7DbJz",
+          "display_url": "pic.twitter.com/rc2LJ7DbJz",
+          "expanded_url": "https://twitter.com/wastemobile/status/821929320968953857/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 655,
+              "h": 410,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 655,
+              "h": 410,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 655,
+              "h": 410,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 821929310978068480,
+          "id_str": "821929310978068480",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2gUWoNUUAABYgh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C2gUWoNUUAABYgh.jpg",
+          "url": "https://t.co/rc2LJ7DbJz",
+          "display_url": "pic.twitter.com/rc2LJ7DbJz",
+          "expanded_url": "https://twitter.com/wastemobile/status/821929320968953857/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 655,
+              "h": 410,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 655,
+              "h": 410,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 655,
+              "h": 410,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 28,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 19 01:15:35 +0000 2017",
+    "id": 821888805288280064,
+    "id_str": "821888805288280064",
+    "text": "接下來該換台 Drobo 5N，不用直連電腦的版本了。 https://t.co/15Ya54HY2q #note https://t.co/Dkjf9Pt57C",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            52,
+            57
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/15Ya54HY2q",
+          "expanded_url": "http://www.drobo.com/storage-products/5n/",
+          "display_url": "drobo.com/storage-produc…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 821888795133870081,
+          "id_str": "821888795133870081",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2fvgS7UAAEE3u_.png",
+          "media_url_https": "https://pbs.twimg.com/media/C2fvgS7UAAEE3u_.png",
+          "url": "https://t.co/Dkjf9Pt57C",
+          "display_url": "pic.twitter.com/Dkjf9Pt57C",
+          "expanded_url": "https://twitter.com/wastemobile/status/821888805288280064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 308,
+              "h": 322,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 308,
+              "h": 322,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 308,
+              "h": 322,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 821888795133870081,
+          "id_str": "821888795133870081",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2fvgS7UAAEE3u_.png",
+          "media_url_https": "https://pbs.twimg.com/media/C2fvgS7UAAEE3u_.png",
+          "url": "https://t.co/Dkjf9Pt57C",
+          "display_url": "pic.twitter.com/Dkjf9Pt57C",
+          "expanded_url": "https://twitter.com/wastemobile/status/821888805288280064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 308,
+              "h": 322,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 308,
+              "h": 322,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 308,
+              "h": 322,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 19 00:49:41 +0000 2017",
+    "id": 821882286845005824,
+    "id_str": "821882286845005824",
+    "text": "最愛閱讀的總統歐巴馬今日交接，他說「閱讀能讓他偶爾『慢下來，獲得新的角度』，並且能讓他『獲得設身處地為他人著想的能力』」，這話說得真好。 https://t.co/HS3N0oKu58 https://t.co/Zb8KroGBxb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HS3N0oKu58",
+          "expanded_url": "http://cn.nytstyle.com/international/20170117/obamas-secret-to-surviving-the-white-house-years-books/zh-hant/",
+          "display_url": "cn.nytstyle.com/international/…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 821882275176452096,
+          "id_str": "821882275176452096",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2fpkyMVEAAH5Xo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C2fpkyMVEAAH5Xo.jpg",
+          "url": "https://t.co/Zb8KroGBxb",
+          "display_url": "pic.twitter.com/Zb8KroGBxb",
+          "expanded_url": "https://twitter.com/wastemobile/status/821882286845005824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 415,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 415,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 415,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 821882275176452096,
+          "id_str": "821882275176452096",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/C2fpkyMVEAAH5Xo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C2fpkyMVEAAH5Xo.jpg",
+          "url": "https://t.co/Zb8KroGBxb",
+          "display_url": "pic.twitter.com/Zb8KroGBxb",
+          "expanded_url": "https://twitter.com/wastemobile/status/821882286845005824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 415,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 415,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 415,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 19 00:32:11 +0000 2017",
+    "id": 821877883840757760,
+    "id_str": "821877883840757760",
+    "text": "最近覺得相較許多每月收十美金的服務（like cloudapp or droplr…），Evernote 確實價格合理功能又多。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 18 17:45:35 +0000 2017",
+    "id": 821775559407480832,
+    "id_str": "821775559407480832",
+    "text": "菸、酒、書、性，人生四大支柱，這輩子大概改不了了。 #也沒有改的意思",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "也沒有改的意思",
+          "indices": [
+            26,
+            34
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jan 18 17:17:53 +0000 2017",
     "id": 821768586515521536,
     "id_str": "821768586515521536",
