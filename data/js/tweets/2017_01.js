@@ -1,5 +1,711 @@
 Grailbird.data.tweets_2017_01 = [
   {
+    "created_at": "Wed Jan 25 14:43:19 +0000 2017",
+    "id": 824266403607814144,
+    "id_str": "824266403607814144",
+    "text": "又好久沒用 GitBook Editor，目前版本 6.6.1，中文輸入已經沒有之前那種怪異的間距跳動，相當順暢。同時也發現 GitBook 免費帳號取消了一本私有書籍倉儲的優惠，唉，不景氣啊～… https://t.co/m2VMEpz7xb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/m2VMEpz7xb",
+          "expanded_url": "https://twitter.com/i/web/status/824266403607814144",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 25 13:24:43 +0000 2017",
+    "id": 824246623786020864,
+    "id_str": "824246623786020864",
+    "text": "想買這台 Minecraft 遊戲機⋯⋯XD Piper Computer Kit with PiperUniverse https://t.co/BstGdTNv5q https://t.co/pz7W56isyr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BstGdTNv5q",
+          "expanded_url": "https://www.buildpiper.com/pages/piper-computer-kit",
+          "display_url": "buildpiper.com/pages/piper-co…",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 824246610225811456,
+          "id_str": "824246610225811456",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/C3BP7MnUUAAcvgI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C3BP7MnUUAAcvgI.jpg",
+          "url": "https://t.co/pz7W56isyr",
+          "display_url": "pic.twitter.com/pz7W56isyr",
+          "expanded_url": "https://twitter.com/wastemobile/status/824246623786020864/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 824246610225811456,
+          "id_str": "824246610225811456",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/C3BP7MnUUAAcvgI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C3BP7MnUUAAcvgI.jpg",
+          "url": "https://t.co/pz7W56isyr",
+          "display_url": "pic.twitter.com/pz7W56isyr",
+          "expanded_url": "https://twitter.com/wastemobile/status/824246623786020864/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 25 13:09:20 +0000 2017",
+    "id": 824242751801692160,
+    "id_str": "824242751801692160",
+    "text": "每個月美金9.99，號稱「Netflix for Mac apps」的 https://t.co/axQaeCWvv1 究竟是不是好主意呢？目前的61種軟體我倒是買過不少了⋯⋯ https://t.co/v6AXhmmQP1 https://t.co/zyZfkyucHW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/axQaeCWvv1",
+          "expanded_url": "https://setapp.com",
+          "display_url": "setapp.com",
+          "indices": [
+            36,
+            59
+          ]
+        },
+        {
+          "url": "https://t.co/v6AXhmmQP1",
+          "expanded_url": "https://www.macstories.net/news/mac-app-subscription-service-setapp-goes-live/",
+          "display_url": "macstories.net/news/mac-app-s…",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 824242740426743810,
+          "id_str": "824242740426743810",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/C3BMZ8fUoAIb4nS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C3BMZ8fUoAIb4nS.jpg",
+          "url": "https://t.co/zyZfkyucHW",
+          "display_url": "pic.twitter.com/zyZfkyucHW",
+          "expanded_url": "https://twitter.com/wastemobile/status/824242751801692160/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 478,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1368,
+              "h": 545,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 271,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 824242740426743810,
+          "id_str": "824242740426743810",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/C3BMZ8fUoAIb4nS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C3BMZ8fUoAIb4nS.jpg",
+          "url": "https://t.co/zyZfkyucHW",
+          "display_url": "pic.twitter.com/zyZfkyucHW",
+          "expanded_url": "https://twitter.com/wastemobile/status/824242751801692160/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 478,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1368,
+              "h": 545,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 271,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 25 11:04:55 +0000 2017",
+    "id": 824211440269545472,
+    "id_str": "824211440269545472",
+    "text": "放假。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Jan 25 09:54:59 +0000 2017",
+    "id": 824193843897700353,
+    "id_str": "824193843897700353",
+    "text": "沒想到賣票還有可自架的開源程式⋯⋯ https://t.co/UwufCLkb7e",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UwufCLkb7e",
+          "expanded_url": "https://twitter.com/Tutorialzine/status/824191582479978499",
+          "display_url": "twitter.com/Tutorialzine/s…",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 824191582479978499,
+    "quoted_status_id_str": "824191582479978499",
+    "quoted_status": {
+      "created_at": "Wed Jan 25 09:46:00 +0000 2017",
+      "id": 824191582479978499,
+      "id_str": "824191582479978499",
+      "text": "Attendize - Open-source, self-hosted platform for ticket selling and event management https://t.co/OWNsbDH5zo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OWNsbDH5zo",
+            "expanded_url": "https://www.attendize.com/",
+            "display_url": "attendize.com",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 67315866,
+        "id_str": "67315866",
+        "name": "Tutorialzine",
+        "screen_name": "Tutorialzine",
+        "location": "",
+        "description": "We tweet about awesome HTML5, CSS3 and JavaScript tutorials and resources for developers. Follow us!",
+        "url": "http://t.co/Sl3oYj9tqV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Sl3oYj9tqV",
+                "expanded_url": "http://tutorialzine.com/",
+                "display_url": "tutorialzine.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 33736,
+        "friends_count": 278,
+        "listed_count": 1977,
+        "created_at": "Thu Aug 20 13:37:28 +0000 2009",
+        "favourites_count": 1334,
+        "utc_offset": 7200,
+        "time_zone": "Sofia",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2900,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EEEEEE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/74456216/twitter_background_new.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/74456216/twitter_background_new.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/479559513473703936/2nsFA8Xi_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/479559513473703936/2nsFA8Xi_normal.jpeg",
+        "profile_link_color": "4A575C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F8F8F8",
+        "profile_text_color": "4A4A4A",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 25 09:32:12 +0000 2017",
+    "id": 824188106949689345,
+    "id_str": "824188106949689345",
+    "text": "@ulyssesapp You have been a lifesaver!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ulyssesapp",
+          "name": "Ulysses",
+          "id": 360094380,
+          "id_str": "360094380",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 824186584891326464,
+    "in_reply_to_status_id_str": "824186584891326464",
+    "in_reply_to_user_id": 360094380,
+    "in_reply_to_user_id_str": "360094380",
+    "in_reply_to_screen_name": "ulyssesapp",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 25 08:27:33 +0000 2017",
+    "id": 824171837705846786,
+    "id_str": "824171837705846786",
+    "text": "@ulyssesapp How can I get or copy x-callback-url from Ulysses Mac?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ulyssesapp",
+          "name": "Ulysses",
+          "id": 360094380,
+          "id_str": "360094380",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 360094380,
+    "in_reply_to_user_id_str": "360094380",
+    "in_reply_to_screen_name": "ulyssesapp",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 25 07:02:02 +0000 2017",
+    "id": 824150318606909440,
+    "id_str": "824150318606909440",
+    "text": "川普是奸巧的生意人，這堵墨西哥大牆最後一定會如他所說由墨西哥人出錢，因為墨西哥出口到美國的商品佔整體出口 80％，從美國進口的又佔所有輸入的 60％，如此高的經濟依賴程度才是川普對墨西哥這般囂張的主因吧。… https://t.co/3fqUg92ryK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3fqUg92ryK",
+          "expanded_url": "https://twitter.com/i/web/status/824150318606909440",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jan 24 17:16:43 +0000 2017",
     "id": 823942621336727552,
     "id_str": "823942621336727552",
