@@ -1,5 +1,338 @@
 Grailbird.data.tweets_2017_01 = [
   {
+    "created_at": "Fri Jan 27 09:13:42 +0000 2017",
+    "id": 824908229918351360,
+    "id_str": "824908229918351360",
+    "text": "看 Nadal 準決賽過除夕，新年快樂啊！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 27 04:40:18 +0000 2017",
+    "id": 824839426568179712,
+    "id_str": "824839426568179712",
+    "text": "歐～Disqus 評論回應平台要開始生存奮戰了，付費或看廣告。網路世界也慢慢沒有白吃的午餐嘍。 https://t.co/B6LmyFcMpQ https://t.co/Am61LcPa9x",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/B6LmyFcMpQ",
+          "expanded_url": "http://the-digital-reader.com/2017/01/26/disqus-now-requires-either-ads-paid-subscription-commenting-platform/",
+          "display_url": "the-digital-reader.com/2017/01/26/dis…",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 824839416212398080,
+          "id_str": "824839416212398080",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/C3JrFDAUoAAvf_r.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C3JrFDAUoAAvf_r.jpg",
+          "url": "https://t.co/Am61LcPa9x",
+          "display_url": "pic.twitter.com/Am61LcPa9x",
+          "expanded_url": "https://twitter.com/wastemobile/status/824839426568179712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 824839416212398080,
+          "id_str": "824839416212398080",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/C3JrFDAUoAAvf_r.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C3JrFDAUoAAvf_r.jpg",
+          "url": "https://t.co/Am61LcPa9x",
+          "display_url": "pic.twitter.com/Am61LcPa9x",
+          "expanded_url": "https://twitter.com/wastemobile/status/824839426568179712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 27 01:54:07 +0000 2017",
+    "id": 824797604475047936,
+    "id_str": "824797604475047936",
+    "text": "RT @octw: 蔦屋書店創辦人說，書是最好的生活提案中介物。這話說得實際。書有總體的形象（讀書是好事），也有各別的價值，每本書處理不同的題目，書確實是人類在表達複雜概念上一個奇蹟式的存在。你找不到其他媒體具有同樣的能力，能夠既容納多元，又保留深度。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "octw",
+          "name": "老貓",
+          "id": 18081539,
+          "id_str": "18081539",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 27 00:42:17 +0000 2017",
+      "id": 824779528845156352,
+      "id_str": "824779528845156352",
+      "text": "蔦屋書店創辦人說，書是最好的生活提案中介物。這話說得實際。書有總體的形象（讀書是好事），也有各別的價值，每本書處理不同的題目，書確實是人類在表達複雜概念上一個奇蹟式的存在。你找不到其他媒體具有同樣的能力，能夠既容納多元，又保留深度。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18081539,
+        "id_str": "18081539",
+        "name": "老貓",
+        "screen_name": "octw",
+        "location": "Taipei, Taiwan",
+        "description": "我是「老貓學出版」站長，現在主力在「內容推進實驗室」。圖書編輯、網站開發兼愛貓人士。長期歡迎為大眾讀者而寫的文史、科普，及科幻創作投稿。我的G+：+octw chen",
+        "url": "http://t.co/AaL9U7AckY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/AaL9U7AckY",
+                "expanded_url": "http://www.contnt.net/2009/10/twitter-tips.html",
+                "display_url": "contnt.net/2009/10/twitte…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13805,
+        "friends_count": 255,
+        "listed_count": 294,
+        "created_at": "Fri Dec 12 18:02:21 +0000 2008",
+        "favourites_count": 792,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26930,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/401261665/DSCN0431_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/401261665/DSCN0431_normal.JPG",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jan 26 06:14:44 +0000 2017",
     "id": 824500801821237248,
     "id_str": "824500801821237248",
