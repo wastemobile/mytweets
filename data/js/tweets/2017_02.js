@@ -1,5 +1,300 @@
 Grailbird.data.tweets_2017_02 = [
   {
+    "created_at": "Wed Feb 01 15:32:37 +0000 2017",
+    "id": 826815527427321856,
+    "id_str": "826815527427321856",
+    "text": "@b4283 對，還真是奇特的電影⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "b4283",
+          "name": "拉格朗日如來",
+          "id": 14313577,
+          "id_str": "14313577",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 826807842367680512,
+    "in_reply_to_status_id_str": "826807842367680512",
+    "in_reply_to_user_id": 14313577,
+    "in_reply_to_user_id_str": "14313577",
+    "in_reply_to_screen_name": "b4283",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 01 13:20:15 +0000 2017",
+    "id": 826782213404454912,
+    "id_str": "826782213404454912",
+    "text": "嗚～阿巴斯的電影中不但沒有解答，還在完全不像結局的地方任性的結束了，全然留給觀者自己處理。 cc @b4283",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "b4283",
+          "name": "拉格朗日如來",
+          "id": 14313577,
+          "id_str": "14313577",
+          "indices": [
+            49,
+            55
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 826766772099375107,
+    "in_reply_to_status_id_str": "826766772099375107",
+    "in_reply_to_user_id": 14313577,
+    "in_reply_to_user_id_str": "14313577",
+    "in_reply_to_screen_name": "b4283",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 01 12:09:57 +0000 2017",
+    "id": 826764523671474176,
+    "id_str": "826764523671474176",
+    "text": "「書與女人的共通點是什麼？」電影演完了都沒解答。是班雅明說的那句嗎？真糾結⋯⋯ #與戀人一樣",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "與戀人一樣",
+          "indices": [
+            40,
+            46
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 01 10:41:42 +0000 2017",
+    "id": 826742315670609921,
+    "id_str": "826742315670609921",
+    "text": "Element 是不是學習 Vue 2.0 的好入口？ https://t.co/sQhvj4EJdB https://t.co/mkVrQNPQx0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sQhvj4EJdB",
+          "expanded_url": "http://bit.ly/2kpHdQM",
+          "display_url": "bit.ly/2kpHdQM",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 826742299182850048,
+          "id_str": "826742299182850048",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/C3ktvaeVYAAI6Fl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C3ktvaeVYAAI6Fl.jpg",
+          "url": "https://t.co/mkVrQNPQx0",
+          "display_url": "pic.twitter.com/mkVrQNPQx0",
+          "expanded_url": "https://twitter.com/wastemobile/status/826742315670609921/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 1130,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 662,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 826742299182850048,
+          "id_str": "826742299182850048",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/C3ktvaeVYAAI6Fl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C3ktvaeVYAAI6Fl.jpg",
+          "url": "https://t.co/mkVrQNPQx0",
+          "display_url": "pic.twitter.com/mkVrQNPQx0",
+          "expanded_url": "https://twitter.com/wastemobile/status/826742315670609921/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 1130,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 662,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Feb 01 10:26:13 +0000 2017",
     "id": 826738418365276160,
     "id_str": "826738418365276160",
