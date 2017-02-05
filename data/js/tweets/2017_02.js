@@ -1,5 +1,739 @@
 Grailbird.data.tweets_2017_02 = [
   {
+    "created_at": "Sun Feb 05 13:29:20 +0000 2017",
+    "id": 828234051509116929,
+    "id_str": "828234051509116929",
+    "text": "RT @appleDaxia: https://t.co/tmedVx0E84",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "appleDaxia",
+          "name": "苹果大侠",
+          "id": 140052844,
+          "id_str": "140052844",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 827836641234415616,
+          "id_str": "827836641234415616",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/C30RCgTUcAACM7C.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C30RCgTUcAACM7C.jpg",
+          "url": "https://t.co/tmedVx0E84",
+          "display_url": "pic.twitter.com/tmedVx0E84",
+          "expanded_url": "https://twitter.com/appleDaxia/status/827836643159662592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 516,
+              "h": 583,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 516,
+              "h": 583,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 516,
+              "h": 583,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 827836643159662592,
+          "source_status_id_str": "827836643159662592",
+          "source_user_id": 140052844,
+          "source_user_id_str": "140052844"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 827836641234415616,
+          "id_str": "827836641234415616",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/C30RCgTUcAACM7C.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C30RCgTUcAACM7C.jpg",
+          "url": "https://t.co/tmedVx0E84",
+          "display_url": "pic.twitter.com/tmedVx0E84",
+          "expanded_url": "https://twitter.com/appleDaxia/status/827836643159662592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 516,
+              "h": 583,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 516,
+              "h": 583,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 516,
+              "h": 583,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 827836643159662592,
+          "source_status_id_str": "827836643159662592",
+          "source_user_id": 140052844,
+          "source_user_id_str": "140052844"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Feb 04 11:10:10 +0000 2017",
+      "id": 827836643159662592,
+      "id_str": "827836643159662592",
+      "text": "https://t.co/tmedVx0E84",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 827836641234415616,
+            "id_str": "827836641234415616",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/C30RCgTUcAACM7C.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C30RCgTUcAACM7C.jpg",
+            "url": "https://t.co/tmedVx0E84",
+            "display_url": "pic.twitter.com/tmedVx0E84",
+            "expanded_url": "https://twitter.com/appleDaxia/status/827836643159662592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 516,
+                "h": 583,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 516,
+                "h": 583,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 516,
+                "h": 583,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 827836641234415616,
+            "id_str": "827836641234415616",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/C30RCgTUcAACM7C.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C30RCgTUcAACM7C.jpg",
+            "url": "https://t.co/tmedVx0E84",
+            "display_url": "pic.twitter.com/tmedVx0E84",
+            "expanded_url": "https://twitter.com/appleDaxia/status/827836643159662592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 516,
+                "h": 583,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 516,
+                "h": 583,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 516,
+                "h": 583,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://getfalcon.pro\" rel=\"nofollow\">Falcon Pro Material</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 140052844,
+        "id_str": "140052844",
+        "name": "苹果大侠",
+        "screen_name": "appleDaxia",
+        "location": "摸都",
+        "description": "食草食草，食草食草，还是食草好，食草保平安。\n俄罗斯皇室成员！阿拉伯世界头目！东北某山寨一把手！大批量批发冰激凌！偶尔贩卖军火，大部分时间在处理古巴种植园。\nin a relationship with ♡\n如果不小心调戏了你我一定及时改正。\n已从贫乳爱好者变为无党派是乳就爱人士。",
+        "url": "http://t.co/cHZdP4uOdu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/cHZdP4uOdu",
+                "expanded_url": "http://google.com",
+                "display_url": "google.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2936,
+        "friends_count": 399,
+        "listed_count": 51,
+        "created_at": "Tue May 04 12:39:49 +0000 2010",
+        "favourites_count": 395,
+        "utc_offset": -32400,
+        "time_zone": "Alaska",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 98798,
+        "lang": "zh-CN",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ABA2AF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/834142888/1e1b89c540fc17af1eb255c482a7da64.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/834142888/1e1b89c540fc17af1eb255c482a7da64.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/743628603246579713/RMBV8jba_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/743628603246579713/RMBV8jba_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/140052844/1349017028",
+        "profile_link_color": "63506D",
+        "profile_sidebar_border_color": "9CCC3B",
+        "profile_sidebar_fill_color": "52A972",
+        "profile_text_color": "647E7D",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 42,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sun Feb 05 08:24:20 +0000 2017",
+    "id": 828157296857329665,
+    "id_str": "828157296857329665",
+    "text": "加拿大 2016 書業統計數字，整體看來微幅衰退（-3.6%）；電子書從 19% 掉到 16.9%，依舊是各種格式中跌幅最深的。 https://t.co/wA62Nvzf4Y https://t.co/lXlqAe09DA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wA62Nvzf4Y",
+          "expanded_url": "http://www.booknetcanada.ca/blog/2017/1/30/canadian-publishing-in-2016-a-review",
+          "display_url": "booknetcanada.ca/blog/2017/1/30…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 828157283574046720,
+          "id_str": "828157283574046720",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/C340qWGVYAACWkR.png",
+          "media_url_https": "https://pbs.twimg.com/media/C340qWGVYAACWkR.png",
+          "url": "https://t.co/lXlqAe09DA",
+          "display_url": "pic.twitter.com/lXlqAe09DA",
+          "expanded_url": "https://twitter.com/wastemobile/status/828157296857329665/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 817,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 463,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 1021,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 828157283574046720,
+          "id_str": "828157283574046720",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/C340qWGVYAACWkR.png",
+          "media_url_https": "https://pbs.twimg.com/media/C340qWGVYAACWkR.png",
+          "url": "https://t.co/lXlqAe09DA",
+          "display_url": "pic.twitter.com/lXlqAe09DA",
+          "expanded_url": "https://twitter.com/wastemobile/status/828157296857329665/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 817,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 463,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 1021,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Feb 05 04:03:15 +0000 2017",
+    "id": 828091592539926528,
+    "id_str": "828091592539926528",
+    "text": "Still true. https://t.co/1Fqj1WTw5V",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 828091590799347712,
+          "id_str": "828091590799347712",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/C3346hcVUAA5JHL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C3346hcVUAA5JHL.jpg",
+          "url": "https://t.co/1Fqj1WTw5V",
+          "display_url": "pic.twitter.com/1Fqj1WTw5V",
+          "expanded_url": "https://twitter.com/wastemobile/status/828091592539926528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 828091590799347712,
+          "id_str": "828091590799347712",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/C3346hcVUAA5JHL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C3346hcVUAA5JHL.jpg",
+          "url": "https://t.co/1Fqj1WTw5V",
+          "display_url": "pic.twitter.com/1Fqj1WTw5V",
+          "expanded_url": "https://twitter.com/wastemobile/status/828091592539926528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 04 14:26:56 +0000 2017",
+    "id": 827886161624395778,
+    "id_str": "827886161624395778",
+    "text": "RT @courselee: 正在讀《你一定愛讀的極簡歐洲史：為什麼歐洲對現代文明的影響這麼深？》。初讀就嘆服不已。這書大好，層次分明，邏輯清楚，難得一見的歷史好書。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "courselee",
+          "name": "果子離",
+          "id": 400495070,
+          "id_str": "400495070",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Feb 04 14:17:35 +0000 2017",
+      "id": 827883805247565824,
+      "id_str": "827883805247565824",
+      "text": "正在讀《你一定愛讀的極簡歐洲史：為什麼歐洲對現代文明的影響這麼深？》。初讀就嘆服不已。這書大好，層次分明，邏輯清楚，難得一見的歷史好書。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 400495070,
+        "id_str": "400495070",
+        "name": "果子離",
+        "screen_name": "courselee",
+        "location": "台灣，台北",
+        "description": "果子離的流水書影誌。日知錄。沈思錄。",
+        "url": "http://t.co/dHsgPRbtYz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/dHsgPRbtYz",
+                "expanded_url": "http://blog.roodo.com/giff",
+                "display_url": "blog.roodo.com/giff",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 73,
+        "friends_count": 8,
+        "listed_count": 8,
+        "created_at": "Sat Oct 29 03:56:25 +0000 2011",
+        "favourites_count": 50,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1109,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1611703709/yyyyyy_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611703709/yyyyyy_normal.JPG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/400495070/1397609388",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 04 09:12:53 +0000 2017",
     "id": 827807127481618432,
     "id_str": "827807127481618432",
