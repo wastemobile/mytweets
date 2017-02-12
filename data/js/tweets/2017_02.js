@@ -1,5 +1,318 @@
 Grailbird.data.tweets_2017_02 = [
   {
+    "created_at": "Sat Feb 11 15:44:29 +0000 2017",
+    "id": 830442389009362945,
+    "id_str": "830442389009362945",
+    "text": "@Ralphsun73221 真的！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Ralphsun73221",
+          "name": "雷戴夫",
+          "id": 74089098,
+          "id_str": "74089098",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 830418435456720896,
+    "in_reply_to_status_id_str": "830418435456720896",
+    "in_reply_to_user_id": 74089098,
+    "in_reply_to_user_id_str": "74089098",
+    "in_reply_to_screen_name": "Ralphsun73221",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Feb 11 13:29:14 +0000 2017",
+    "id": 830408352605708289,
+    "id_str": "830408352605708289",
+    "text": "在 Netflix 看了評價只有一顆星的《魯邦三世》真人電影版 https://t.co/IHUWT5ZIYW 其實覺得沒那麼糟，不二子是弱了點；有疑問的請務必看動畫魯邦三世《名為峰不二子的女人》TV動畫13集全。 https://t.co/S3hPwAN0q6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IHUWT5ZIYW",
+          "expanded_url": "https://movie.douban.com/subject/10543692/",
+          "display_url": "movie.douban.com/subject/105436…",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 830408340370923520,
+          "id_str": "830408340370923520",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/C4Yz_GJUoAAdQKf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C4Yz_GJUoAAdQKf.jpg",
+          "url": "https://t.co/S3hPwAN0q6",
+          "display_url": "pic.twitter.com/S3hPwAN0q6",
+          "expanded_url": "https://twitter.com/wastemobile/status/830408352605708289/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 423,
+              "h": 600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 423,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 423,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 830408340370923520,
+          "id_str": "830408340370923520",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/C4Yz_GJUoAAdQKf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C4Yz_GJUoAAdQKf.jpg",
+          "url": "https://t.co/S3hPwAN0q6",
+          "display_url": "pic.twitter.com/S3hPwAN0q6",
+          "expanded_url": "https://twitter.com/wastemobile/status/830408352605708289/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 423,
+              "h": 600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 423,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 423,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 11 09:19:52 +0000 2017",
+    "id": 830345600440758273,
+    "id_str": "830345600440758273",
+    "text": "還在繼續用 Day One 1 https://t.co/X9HnMLITrJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 830345598033240065,
+          "id_str": "830345598033240065",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/C4X67AuUoAEC1PZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C4X67AuUoAEC1PZ.jpg",
+          "url": "https://t.co/X9HnMLITrJ",
+          "display_url": "pic.twitter.com/X9HnMLITrJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/830345600440758273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 830345598033240065,
+          "id_str": "830345598033240065",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/media/C4X67AuUoAEC1PZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C4X67AuUoAEC1PZ.jpg",
+          "url": "https://t.co/X9HnMLITrJ",
+          "display_url": "pic.twitter.com/X9HnMLITrJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/830345600440758273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 11 07:12:32 +0000 2017",
     "id": 830313553089343490,
     "id_str": "830313553089343490",
