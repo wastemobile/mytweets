@@ -1,5 +1,669 @@
 Grailbird.data.tweets_2017_03 = [
   {
+    "created_at": "Fri Mar 31 17:06:39 +0000 2017",
+    "id": 847857688138489856,
+    "id_str": "847857688138489856",
+    "text": "Drobo's Spring Photo Contest #GrowWithDrobo 運行了十年的 Drobo 4 bay USB &amp; FireWire，自己換過靜音風扇，依舊頭好壯壯隨時替我保全著資料，超級划算的投資。 https://t.co/I8MoP2GgBQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GrowWithDrobo",
+          "indices": [
+            29,
+            43
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 847857676314791936,
+          "id_str": "847857676314791936",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/C8QyEIDU0AAkP0z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C8QyEIDU0AAkP0z.jpg",
+          "url": "https://t.co/I8MoP2GgBQ",
+          "display_url": "pic.twitter.com/I8MoP2GgBQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/847857688138489856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1350,
+              "h": 1800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 847857676314791936,
+          "id_str": "847857676314791936",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/C8QyEIDU0AAkP0z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C8QyEIDU0AAkP0z.jpg",
+          "url": "https://t.co/I8MoP2GgBQ",
+          "display_url": "pic.twitter.com/I8MoP2GgBQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/847857688138489856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1350,
+              "h": 1800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 31 16:44:41 +0000 2017",
+    "id": 847852158795915264,
+    "id_str": "847852158795915264",
+    "text": "突然想起這個《台灣漫畫月刊》，若推友有此神書願意割愛，請不吝告知⋯⋯。\n\n1. 維基 https://t.co/RzmBCAQYnt\n2. 後來在幹嘛？ https://t.co/A9mpvmqCaT\n3. 《台灣漫畫GO!!》… https://t.co/Ip8MzWA0aT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RzmBCAQYnt",
+          "expanded_url": "http://bit.ly/2nSQcvt",
+          "display_url": "bit.ly/2nSQcvt",
+          "indices": [
+            43,
+            66
+          ]
+        },
+        {
+          "url": "https://t.co/A9mpvmqCaT",
+          "expanded_url": "https://disp.cc/b/21-8uKF",
+          "display_url": "disp.cc/b/21-8uKF",
+          "indices": [
+            77,
+            100
+          ]
+        },
+        {
+          "url": "https://t.co/Ip8MzWA0aT",
+          "expanded_url": "https://twitter.com/i/web/status/847852158795915264",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 31 14:59:49 +0000 2017",
+    "id": 847825768201601024,
+    "id_str": "847825768201601024",
+    "text": "Onyx Boox Max Carta 13.3”、Android 4.0、1 GHz CPU，2200 x 1650、207 ppi，差不多要兩萬五台幣⋯⋯。 https://t.co/bU35s7mzjp https://t.co/nTnk9Eym7D",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bU35s7mzjp",
+          "expanded_url": "http://the-digital-reader.com/2017/03/30/new-onyx-boox-max-carta-pre-order-sports-higher-resolution-screen/",
+          "display_url": "the-digital-reader.com/2017/03/30/new…",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 847825759385174017,
+          "id_str": "847825759385174017",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/C8QVCUOUQAEeeyh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C8QVCUOUQAEeeyh.jpg",
+          "url": "https://t.co/nTnk9Eym7D",
+          "display_url": "pic.twitter.com/nTnk9Eym7D",
+          "expanded_url": "https://twitter.com/wastemobile/status/847825768201601024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 847825759385174017,
+          "id_str": "847825759385174017",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/C8QVCUOUQAEeeyh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C8QVCUOUQAEeeyh.jpg",
+          "url": "https://t.co/nTnk9Eym7D",
+          "display_url": "pic.twitter.com/nTnk9Eym7D",
+          "expanded_url": "https://twitter.com/wastemobile/status/847825768201601024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 31 14:55:22 +0000 2017",
+    "id": 847824647202586629,
+    "id_str": "847824647202586629",
+    "text": "微軟已經確認，下一個版本的 Windows 10 Edge 瀏覽器將會內建電子書店與閱讀軟體，4/11 見真章。（抱歉我不知道 Creator Update 是什麼⋯⋯） https://t.co/69roTBIVPG https://t.co/BPZyd48kF9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/69roTBIVPG",
+          "expanded_url": "http://the-digital-reader.com/2017/03/30/windows-10-creators-update-feature-ebookstore-edge-web-browser/",
+          "display_url": "the-digital-reader.com/2017/03/30/win…",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 847824635202682880,
+          "id_str": "847824635202682880",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/C8QUA4UUwAA6Ylf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C8QUA4UUwAA6Ylf.jpg",
+          "url": "https://t.co/BPZyd48kF9",
+          "display_url": "pic.twitter.com/BPZyd48kF9",
+          "expanded_url": "https://twitter.com/wastemobile/status/847824647202586629/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 768,
+              "h": 380,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 380,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 336,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 847824635202682880,
+          "id_str": "847824635202682880",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/C8QUA4UUwAA6Ylf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C8QUA4UUwAA6Ylf.jpg",
+          "url": "https://t.co/BPZyd48kF9",
+          "display_url": "pic.twitter.com/BPZyd48kF9",
+          "expanded_url": "https://twitter.com/wastemobile/status/847824647202586629/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 768,
+              "h": 380,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 380,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 336,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 31 14:43:33 +0000 2017",
+    "id": 847821672069570560,
+    "id_str": "847821672069570560",
+    "text": "介紹了好多 iOS 上的有聲書軟體，特別適合想聽聽古典、免費小說的讀者。 https://t.co/mxsbcoNJ7W https://t.co/3kG4f5PmGu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mxsbcoNJ7W",
+          "expanded_url": "https://appadvice.com/collection/best-universal-audiobook-apps",
+          "display_url": "appadvice.com/collection/bes…",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 847821662338695168,
+          "id_str": "847821662338695168",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/C8QRT1iUQAAIxio.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C8QRT1iUQAAIxio.jpg",
+          "url": "https://t.co/3kG4f5PmGu",
+          "display_url": "pic.twitter.com/3kG4f5PmGu",
+          "expanded_url": "https://twitter.com/wastemobile/status/847821672069570560/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 422,
+              "h": 750,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 422,
+              "h": 750,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 847821662338695168,
+          "id_str": "847821662338695168",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/C8QRT1iUQAAIxio.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C8QRT1iUQAAIxio.jpg",
+          "url": "https://t.co/3kG4f5PmGu",
+          "display_url": "pic.twitter.com/3kG4f5PmGu",
+          "expanded_url": "https://twitter.com/wastemobile/status/847821672069570560/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 422,
+              "h": 750,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 422,
+              "h": 750,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 31 14:33:57 +0000 2017",
+    "id": 847819259946221570,
+    "id_str": "847819259946221570",
+    "text": "據說是全棧開發者（Full Stack developer）這名詞的創始文章。 #note https://t.co/zjJlFtuCaf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            40,
+            45
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zjJlFtuCaf",
+          "expanded_url": "http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/",
+          "display_url": "laurencegellert.com/2012/08/what-i…",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Mar 31 07:50:47 +0000 2017",
     "id": 847717796377108480,
     "id_str": "847717796377108480",
