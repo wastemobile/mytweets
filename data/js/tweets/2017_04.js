@@ -1,5 +1,294 @@
 Grailbird.data.tweets_2017_04 = [
   {
+    "created_at": "Wed Apr 12 22:09:01 +0000 2017",
+    "id": 852282434901098496,
+    "id_str": "852282434901098496",
+    "text": "Read it Later 通通變成 Read it Never ⋯⋯。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Apr 12 15:08:10 +0000 2017",
+    "id": 852176521867296768,
+    "id_str": "852176521867296768",
+    "text": "村上春樹 翻訳（ほとんど）全仕事 https://t.co/bSh3z0iQ39 本人登壇！ https://t.co/nPtrGJqWcc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bSh3z0iQ39",
+          "expanded_url": "https://hametuha.com/news/article/21314/",
+          "display_url": "hametuha.com/news/article/2…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 852176508793757696,
+          "id_str": "852176508793757696",
+          "indices": [
+            47,
+            70
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9OKBQyVoAAEaOl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9OKBQyVoAAEaOl.jpg",
+          "url": "https://t.co/nPtrGJqWcc",
+          "display_url": "pic.twitter.com/nPtrGJqWcc",
+          "expanded_url": "https://twitter.com/wastemobile/status/852176521867296768/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1000,
+              "h": 1467,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 818,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 464,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 852176508793757696,
+          "id_str": "852176508793757696",
+          "indices": [
+            47,
+            70
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9OKBQyVoAAEaOl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9OKBQyVoAAEaOl.jpg",
+          "url": "https://t.co/nPtrGJqWcc",
+          "display_url": "pic.twitter.com/nPtrGJqWcc",
+          "expanded_url": "https://twitter.com/wastemobile/status/852176521867296768/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1000,
+              "h": 1467,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 818,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 464,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Apr 12 15:03:57 +0000 2017",
+    "id": 852175461769551872,
+    "id_str": "852175461769551872",
+    "text": "donejs vs. meteor https://t.co/Jtu8bGkgC8 讓人很好奇的是那個 Lumnify 的 Code Quality Rankings⋯⋯。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Jtu8bGkgC8",
+          "expanded_url": "https://js.libhunt.com/project/donejs/vs/meteor",
+          "display_url": "js.libhunt.com/project/donejs…",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Apr 12 14:07:50 +0000 2017",
+    "id": 852161338973372416,
+    "id_str": "852161338973372416",
+    "text": "我很推薦聽《一天世界》這一集〈何謂 hardcore〉：Hardcore 不是艱深、不是冷門、不是專業。Hardcore 是一種努力伸向地平線外的姿態。延伸資料也都超有趣，個人覺得頗具代表性的一集。 https://t.co/v6qFwKo7TJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/v6qFwKo7TJ",
+          "expanded_url": "https://ipn.li/yitianshijie/14/",
+          "display_url": "ipn.li/yitianshijie/1…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 12 12:09:20 +0000 2017",
     "id": 852131517492940802,
     "id_str": "852131517492940802",
