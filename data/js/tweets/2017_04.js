@@ -1,5 +1,349 @@
 Grailbird.data.tweets_2017_04 = [
   {
+    "created_at": "Sun Apr 16 06:57:47 +0000 2017",
+    "id": 853502666709680128,
+    "id_str": "853502666709680128",
+    "text": "RT @r123u456b789: ［論如何把閱讀這件事說得很迷幻］ https://t.co/MH13Gxp81s",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "r123u456b789",
+          "name": "雛萊",
+          "id": 431569288,
+          "id_str": "431569288",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 853148435892981761,
+          "id_str": "853148435892981761",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9b9-3YU0AEq4O9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9b9-3YU0AEq4O9.jpg",
+          "url": "https://t.co/MH13Gxp81s",
+          "display_url": "pic.twitter.com/MH13Gxp81s",
+          "expanded_url": "https://twitter.com/r123u456b789/status/853148624615743488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 853148624615743488,
+          "source_status_id_str": "853148624615743488",
+          "source_user_id": 431569288,
+          "source_user_id_str": "431569288"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 853148435892981761,
+          "id_str": "853148435892981761",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9b9-3YU0AEq4O9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9b9-3YU0AEq4O9.jpg",
+          "url": "https://t.co/MH13Gxp81s",
+          "display_url": "pic.twitter.com/MH13Gxp81s",
+          "expanded_url": "https://twitter.com/r123u456b789/status/853148624615743488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 853148624615743488,
+          "source_status_id_str": "853148624615743488",
+          "source_user_id": 431569288,
+          "source_user_id_str": "431569288"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Apr 15 07:30:57 +0000 2017",
+      "id": 853148624615743488,
+      "id_str": "853148624615743488",
+      "text": "［論如何把閱讀這件事說得很迷幻］ https://t.co/MH13Gxp81s",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 853148435892981761,
+            "id_str": "853148435892981761",
+            "indices": [
+              17,
+              40
+            ],
+            "media_url": "http://pbs.twimg.com/media/C9b9-3YU0AEq4O9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C9b9-3YU0AEq4O9.jpg",
+            "url": "https://t.co/MH13Gxp81s",
+            "display_url": "pic.twitter.com/MH13Gxp81s",
+            "expanded_url": "https://twitter.com/r123u456b789/status/853148624615743488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 853148435892981761,
+            "id_str": "853148435892981761",
+            "indices": [
+              17,
+              40
+            ],
+            "media_url": "http://pbs.twimg.com/media/C9b9-3YU0AEq4O9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C9b9-3YU0AEq4O9.jpg",
+            "url": "https://t.co/MH13Gxp81s",
+            "display_url": "pic.twitter.com/MH13Gxp81s",
+            "expanded_url": "https://twitter.com/r123u456b789/status/853148624615743488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 431569288,
+        "id_str": "431569288",
+        "name": "雛萊",
+        "screen_name": "r123u456b789",
+        "location": "",
+        "description": "賞我一段蝴蝶骨。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 514,
+        "friends_count": 97,
+        "listed_count": 4,
+        "created_at": "Thu Dec 08 12:41:21 +0000 2011",
+        "favourites_count": 3360,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6440,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/847870308748992513/sPLf7dvU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/847870308748992513/sPLf7dvU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/431569288/1491033023",
+        "profile_link_color": "BD6758",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "204a435ce97d5de4",
+        "url": "https://api.twitter.com/1.1/geo/id/204a435ce97d5de4.json",
+        "place_type": "country",
+        "name": "台灣",
+        "full_name": "台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                118.1261605,
+                21.754958
+              ],
+              [
+                124.579142,
+                21.754958
+              ],
+              [
+                124.579142,
+                26.460533
+              ],
+              [
+                118.1261605,
+                26.460533
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 78,
+      "favorite_count": 136,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 78,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Apr 16 05:00:05 +0000 2017",
     "id": 853473046291558400,
     "id_str": "853473046291558400",
