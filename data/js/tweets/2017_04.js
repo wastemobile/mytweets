@@ -1,5 +1,370 @@
 Grailbird.data.tweets_2017_04 = [
   {
+    "created_at": "Wed Apr 19 13:27:27 +0000 2017",
+    "id": 854687892634951681,
+    "id_str": "854687892634951681",
+    "text": "各種用來管理 Kindle Notes 的工具。 #note https://t.co/65eU5jtZ9g https://t.co/PULk4XI0LH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            25,
+            30
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/65eU5jtZ9g",
+          "expanded_url": "http://the-digital-reader.com/2017/04/18/dozen-tools-managing-kindle-notes-highlights/",
+          "display_url": "the-digital-reader.com/2017/04/18/doz…",
+          "indices": [
+            31,
+            54
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 854687883327754241,
+          "id_str": "854687883327754241",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9x2Gf-U0AExVWK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9x2Gf-U0AExVWK.jpg",
+          "url": "https://t.co/PULk4XI0LH",
+          "display_url": "pic.twitter.com/PULk4XI0LH",
+          "expanded_url": "https://twitter.com/wastemobile/status/854687892634951681/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 289,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 940,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 940,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 854687883327754241,
+          "id_str": "854687883327754241",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9x2Gf-U0AExVWK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9x2Gf-U0AExVWK.jpg",
+          "url": "https://t.co/PULk4XI0LH",
+          "display_url": "pic.twitter.com/PULk4XI0LH",
+          "expanded_url": "https://twitter.com/wastemobile/status/854687892634951681/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 289,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 940,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 940,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 19 12:13:07 +0000 2017",
+    "id": 854669184029958145,
+    "id_str": "854669184029958145",
+    "text": "貼心的黏一下。 https://t.co/isIo6W0A94",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 854669161061953537,
+          "id_str": "854669161061953537",
+          "indices": [
+            8,
+            31
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9xlEuGUMAEyFQ0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9xlEuGUMAEyFQ0.jpg",
+          "url": "https://t.co/isIo6W0A94",
+          "display_url": "pic.twitter.com/isIo6W0A94",
+          "expanded_url": "https://twitter.com/wastemobile/status/854669184029958145/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 854669161061953537,
+          "id_str": "854669161061953537",
+          "indices": [
+            8,
+            31
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9xlEuGUMAEyFQ0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9xlEuGUMAEyFQ0.jpg",
+          "url": "https://t.co/isIo6W0A94",
+          "display_url": "pic.twitter.com/isIo6W0A94",
+          "expanded_url": "https://twitter.com/wastemobile/status/854669184029958145/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 18 14:42:23 +0000 2017",
+    "id": 854344360669831168,
+    "id_str": "854344360669831168",
+    "text": "突然有點明白，用催眠帶出潛意識、逼人面對真我這種影視常見梗，究竟殺傷力有多大了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 18 14:14:42 +0000 2017",
+    "id": 854337394245459973,
+    "id_str": "854337394245459973",
+    "text": "@pochu0083 差遠啦差遠啦～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "pochu0083",
+          "name": "Pochu Chang",
+          "id": 11721492,
+          "id_str": "11721492",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 854337147603623936,
+    "in_reply_to_status_id_str": "854337147603623936",
+    "in_reply_to_user_id": 11721492,
+    "in_reply_to_user_id_str": "11721492",
+    "in_reply_to_screen_name": "pochu0083",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Apr 18 12:15:53 +0000 2017",
     "id": 854307494125944832,
     "id_str": "854307494125944832",
