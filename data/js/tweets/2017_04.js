@@ -1,5 +1,653 @@
 Grailbird.data.tweets_2017_04 = [
   {
+    "created_at": "Thu Apr 20 05:32:57 +0000 2017",
+    "id": 854930867206017024,
+    "id_str": "854930867206017024",
+    "text": "最受歡迎也被誤解最嚴重的詩：〈The Road Not Taken〉 https://t.co/kbkHnPaEKr https://t.co/VVf5wIGSJO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kbkHnPaEKr",
+          "expanded_url": "http://www.mplus.com.tw/article/1637",
+          "display_url": "mplus.com.tw/article/1637",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 854930860264443904,
+          "id_str": "854930860264443904",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/C91TFnmU0AA6cdY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C91TFnmU0AA6cdY.jpg",
+          "url": "https://t.co/VVf5wIGSJO",
+          "display_url": "pic.twitter.com/VVf5wIGSJO",
+          "expanded_url": "https://twitter.com/wastemobile/status/854930867206017024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 343,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 403,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 403,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 854930860264443904,
+          "id_str": "854930860264443904",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/C91TFnmU0AA6cdY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C91TFnmU0AA6cdY.jpg",
+          "url": "https://t.co/VVf5wIGSJO",
+          "display_url": "pic.twitter.com/VVf5wIGSJO",
+          "expanded_url": "https://twitter.com/wastemobile/status/854930867206017024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 343,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 403,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 403,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 20 05:30:31 +0000 2017",
+    "id": 854930257387716608,
+    "id_str": "854930257387716608",
+    "text": "我不太懂為了要展示可彎式螢幕，就把閱讀器做成微彎是一種怎樣的心態。 https://t.co/Iftm4JHhCJ https://t.co/6ZQc2zrVrC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Iftm4JHhCJ",
+          "expanded_url": "http://the-digital-reader.com/2017/04/19/heres-chance-buy-piece-ereader-history/",
+          "display_url": "the-digital-reader.com/2017/04/19/her…",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 854930251922644992,
+          "id_str": "854930251922644992",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/C91SiNWVoAAugGG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C91SiNWVoAAugGG.jpg",
+          "url": "https://t.co/6ZQc2zrVrC",
+          "display_url": "pic.twitter.com/6ZQc2zrVrC",
+          "expanded_url": "https://twitter.com/wastemobile/status/854930257387716608/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 358,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 358,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 358,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 854930251922644992,
+          "id_str": "854930251922644992",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/C91SiNWVoAAugGG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C91SiNWVoAAugGG.jpg",
+          "url": "https://t.co/6ZQc2zrVrC",
+          "display_url": "pic.twitter.com/6ZQc2zrVrC",
+          "expanded_url": "https://twitter.com/wastemobile/status/854930257387716608/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 358,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 358,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 358,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 20 02:19:54 +0000 2017",
+    "id": 854882286373806080,
+    "id_str": "854882286373806080",
+    "text": "捷運上一台智慧型手機都沒有，只看到一堆功能機：臉書專用機、Line 專用機，還有遊戲機；沒有閱讀機。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 19 17:45:50 +0000 2017",
+    "id": 854752916162334720,
+    "id_str": "854752916162334720",
+    "text": "Onyx Boox 在香港電子展看來是秀出不少新東西，e-Note 10.3。 https://t.co/YnByOsx4cv https://t.co/Ox7Ol7ZMMs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YnByOsx4cv",
+          "expanded_url": "http://the-digital-reader.com/?p=112738",
+          "display_url": "the-digital-reader.com/?p=112738",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 854752908616671232,
+          "id_str": "854752908616671232",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9yxPeDUIAA4v1_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9yxPeDUIAA4v1_.jpg",
+          "url": "https://t.co/Ox7Ol7ZMMs",
+          "display_url": "pic.twitter.com/Ox7Ol7ZMMs",
+          "expanded_url": "https://twitter.com/wastemobile/status/854752916162334720/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 854752908616671232,
+          "id_str": "854752908616671232",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9yxPeDUIAA4v1_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9yxPeDUIAA4v1_.jpg",
+          "url": "https://t.co/Ox7Ol7ZMMs",
+          "display_url": "pic.twitter.com/Ox7Ol7ZMMs",
+          "expanded_url": "https://twitter.com/wastemobile/status/854752916162334720/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 19 15:53:28 +0000 2017",
+    "id": 854724638328344576,
+    "id_str": "854724638328344576",
+    "text": "reMarkable The paper tablet - Behold The Future https://t.co/U2wWlQ6oI4 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            75,
+            83
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/U2wWlQ6oI4",
+          "expanded_url": "https://youtu.be/s9gOZOwqIlU",
+          "display_url": "youtu.be/s9gOZOwqIlU",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Apr 19 14:28:51 +0000 2017",
+    "id": 854703342668271617,
+    "id_str": "854703342668271617",
+    "text": "中國在「世界讀書日」（4/23）之前例行公布的閱讀調查數據，還包含手機閱讀的一些數據。 #note https://t.co/zytQnfijam https://t.co/ea4sz2QDQ3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            44,
+            49
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zytQnfijam",
+          "expanded_url": "http://www.qdaily.com/articles/39956.html",
+          "display_url": "qdaily.com/articles/39956…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 854703333734350848,
+          "id_str": "854703333734350848",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9yEJ1OUAAAMQPg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9yEJ1OUAAAMQPg.jpg",
+          "url": "https://t.co/ea4sz2QDQ3",
+          "display_url": "pic.twitter.com/ea4sz2QDQ3",
+          "expanded_url": "https://twitter.com/wastemobile/status/854703342668271617/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 622,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 820,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 820,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 854703333734350848,
+          "id_str": "854703333734350848",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/C9yEJ1OUAAAMQPg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C9yEJ1OUAAAMQPg.jpg",
+          "url": "https://t.co/ea4sz2QDQ3",
+          "display_url": "pic.twitter.com/ea4sz2QDQ3",
+          "expanded_url": "https://twitter.com/wastemobile/status/854703342668271617/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 622,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 820,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 820,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 19 13:27:27 +0000 2017",
     "id": 854687892634951681,
     "id_str": "854687892634951681",
