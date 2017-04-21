@@ -1,5 +1,479 @@
 Grailbird.data.tweets_2017_04 = [
   {
+    "created_at": "Fri Apr 21 13:21:50 +0000 2017",
+    "id": 855411256395571201,
+    "id_str": "855411256395571201",
+    "text": "一名11歲開始受史蒂芬・金啟發開始寫作的自助作家，39歲時終於在亞馬遜驚悚小說榜上擊敗偶像的勵志故事。 https://t.co/ysfxRZ1IGj https://t.co/lNvcDybK46",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ysfxRZ1IGj",
+          "expanded_url": "http://cnb.cx/2plIE62",
+          "display_url": "cnb.cx/2plIE62",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 855411245096161281,
+          "id_str": "855411245096161281",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/C98H_sjU0AEC9M8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C98H_sjU0AEC9M8.jpg",
+          "url": "https://t.co/lNvcDybK46",
+          "display_url": "pic.twitter.com/lNvcDybK46",
+          "expanded_url": "https://twitter.com/wastemobile/status/855411256395571201/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 730,
+              "h": 627,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 584,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 730,
+              "h": 627,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 855411245096161281,
+          "id_str": "855411245096161281",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/C98H_sjU0AEC9M8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C98H_sjU0AEC9M8.jpg",
+          "url": "https://t.co/lNvcDybK46",
+          "display_url": "pic.twitter.com/lNvcDybK46",
+          "expanded_url": "https://twitter.com/wastemobile/status/855411256395571201/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 730,
+              "h": 627,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 584,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 730,
+              "h": 627,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 21 07:24:14 +0000 2017",
+    "id": 855321263190851585,
+    "id_str": "855321263190851585",
+    "text": "我又想吃美觀園了⋯⋯。 #VIP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VIP",
+          "indices": [
+            12,
+            16
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 21 07:12:43 +0000 2017",
+    "id": 855318363509149697,
+    "id_str": "855318363509149697",
+    "text": "作為一個《新世紀福音戰士》的鐵粉，我真的被冒犯了。 #連名字與連結都不想貼",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "連名字與連結都不想貼",
+          "indices": [
+            26,
+            37
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 20 18:30:21 +0000 2017",
+    "id": 855126509383700481,
+    "id_str": "855126509383700481",
+    "text": "書是逃離現世的虛擬實境，但它最近一直把我踢出來。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 20 17:48:08 +0000 2017",
+    "id": 855115881830989824,
+    "id_str": "855115881830989824",
+    "text": "瘋掉⋯⋯。 #ssl #node #nginx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ssl",
+          "indices": [
+            6,
+            10
+          ]
+        },
+        {
+          "text": "node",
+          "indices": [
+            11,
+            16
+          ]
+        },
+        {
+          "text": "nginx",
+          "indices": [
+            17,
+            23
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 20 16:21:48 +0000 2017",
+    "id": 855094157206986752,
+    "id_str": "855094157206986752",
+    "text": "在 Ubuntu 16.04 LTS 使用 Let’s Encrypt 與 Nginx https://t.co/WTvIaf4HfY #note",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            68,
+            73
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WTvIaf4HfY",
+          "expanded_url": "https://blog.technologyofkevin.com/?p=591",
+          "display_url": "blog.technologyofkevin.com/?p=591",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 20 15:26:43 +0000 2017",
+    "id": 855080293228609537,
+    "id_str": "855080293228609537",
+    "text": "“Deleting Uber is the least you can do” by @dhh https://t.co/yIZxNjnctx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dhh",
+          "name": "DHH",
+          "id": 14561327,
+          "id_str": "14561327",
+          "indices": [
+            43,
+            47
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yIZxNjnctx",
+          "expanded_url": "https://medium.com/@dhh/deleting-uber-is-the-least-you-can-do-30c0601103ea",
+          "display_url": "medium.com/@dhh/deleting-…",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Thu Apr 20 05:32:57 +0000 2017",
     "id": 854930867206017024,
     "id_str": "854930867206017024",
