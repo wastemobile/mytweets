@@ -1,5 +1,404 @@
 Grailbird.data.tweets_2017_04 = [
   {
+    "created_at": "Fri Apr 28 17:23:29 +0000 2017",
+    "id": 858008783141785604,
+    "id_str": "858008783141785604",
+    "text": "如果有一件事是重要的：專訪演員 蔡佾玲（小俏） https://t.co/Bu64YpccYl https://t.co/cEKK5PXWty",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Bu64YpccYl",
+          "expanded_url": "http://artmagazine.com.tw/ArtCritic/article1695.html",
+          "display_url": "artmagazine.com.tw/ArtCritic/arti…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 858008777550737408,
+          "id_str": "858008777550737408",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-hCb_AUMAA2v7W.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-hCb_AUMAA2v7W.jpg",
+          "url": "https://t.co/cEKK5PXWty",
+          "display_url": "pic.twitter.com/cEKK5PXWty",
+          "expanded_url": "https://twitter.com/wastemobile/status/858008783141785604/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 427,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 427,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 427,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 858008777550737408,
+          "id_str": "858008777550737408",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-hCb_AUMAA2v7W.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-hCb_AUMAA2v7W.jpg",
+          "url": "https://t.co/cEKK5PXWty",
+          "display_url": "pic.twitter.com/cEKK5PXWty",
+          "expanded_url": "https://twitter.com/wastemobile/status/858008783141785604/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 427,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 427,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 427,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 28 17:22:51 +0000 2017",
+    "id": 858008622227312640,
+    "id_str": "858008622227312640",
+    "text": "自然而然劇團《艾玲》，全人類的集體春夢 https://t.co/BrbM0S7q8G https://t.co/cZks4femLg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BrbM0S7q8G",
+          "expanded_url": "http://www.biosmonthly.com/columnist_topic/8758",
+          "display_url": "biosmonthly.com/columnist_topi…",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 858008614790873088,
+          "id_str": "858008614790873088",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-hCSgrVwAAkkOD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-hCSgrVwAAkkOD.jpg",
+          "url": "https://t.co/cZks4femLg",
+          "display_url": "pic.twitter.com/cZks4femLg",
+          "expanded_url": "https://twitter.com/wastemobile/status/858008622227312640/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 858008614790873088,
+          "id_str": "858008614790873088",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-hCSgrVwAAkkOD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-hCSgrVwAAkkOD.jpg",
+          "url": "https://t.co/cZks4femLg",
+          "display_url": "pic.twitter.com/cZks4femLg",
+          "expanded_url": "https://twitter.com/wastemobile/status/858008622227312640/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 28 17:21:51 +0000 2017",
+    "id": 858008370854232064,
+    "id_str": "858008370854232064",
+    "text": "落地生根花自長，一往而深是台灣：專訪表導演者　卡霞 https://t.co/S9rEBkDnHy https://t.co/JxghIgCe8G",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/S9rEBkDnHy",
+          "expanded_url": "http://artmagazine.com.tw/ArtCritic/article1690.html",
+          "display_url": "artmagazine.com.tw/ArtCritic/arti…",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 858008363250073601,
+          "id_str": "858008363250073601",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-hCD3nVwAE1XhH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-hCD3nVwAE1XhH.jpg",
+          "url": "https://t.co/JxghIgCe8G",
+          "display_url": "pic.twitter.com/JxghIgCe8G",
+          "expanded_url": "https://twitter.com/wastemobile/status/858008370854232064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 799,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1568,
+              "h": 1044,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 858008363250073601,
+          "id_str": "858008363250073601",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-hCD3nVwAE1XhH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-hCD3nVwAE1XhH.jpg",
+          "url": "https://t.co/JxghIgCe8G",
+          "display_url": "pic.twitter.com/JxghIgCe8G",
+          "expanded_url": "https://twitter.com/wastemobile/status/858008370854232064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 799,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1568,
+              "h": 1044,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 28 09:36:56 +0000 2017",
     "id": 857891372057059328,
     "id_str": "857891372057059328",
