@@ -1,5 +1,723 @@
 Grailbird.data.tweets_2017_04 = [
   {
+    "created_at": "Sun Apr 30 09:16:01 +0000 2017",
+    "id": 858610883638870017,
+    "id_str": "858610883638870017",
+    "text": "永遠聽不膩的歌⋯⋯ https://t.co/Dmv61G7c9K https://t.co/d6J2MHsfRe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Dmv61G7c9K",
+          "expanded_url": "https://itun.es/tw/B6LF1?i=897474337",
+          "display_url": "itun.es/tw/B6LF1?i=897…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 858610881642455041,
+          "id_str": "858610881642455041",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-pmDDiVYAEDl2j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-pmDDiVYAEDl2j.jpg",
+          "url": "https://t.co/d6J2MHsfRe",
+          "display_url": "pic.twitter.com/d6J2MHsfRe",
+          "expanded_url": "https://twitter.com/wastemobile/status/858610883638870017/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 858610881642455041,
+          "id_str": "858610881642455041",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-pmDDiVYAEDl2j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-pmDDiVYAEDl2j.jpg",
+          "url": "https://t.co/d6J2MHsfRe",
+          "display_url": "pic.twitter.com/d6J2MHsfRe",
+          "expanded_url": "https://twitter.com/wastemobile/status/858610883638870017/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Apr 30 08:46:55 +0000 2017",
+    "id": 858603561600532480,
+    "id_str": "858603561600532480",
+    "text": "RT @jsincity: 我跟寶藏巖這地方還真的是一拍即合啊～ https://t.co/Q5XBuL9SKE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jsincity",
+          "name": "不德綈。苟斯特",
+          "id": 14694315,
+          "id_str": "14694315",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 858597293800341506,
+          "id_str": "858597293800341506",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-pZsI4UwAIDLr0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-pZsI4UwAIDLr0.jpg",
+          "url": "https://t.co/Q5XBuL9SKE",
+          "display_url": "pic.twitter.com/Q5XBuL9SKE",
+          "expanded_url": "https://twitter.com/jsincity/status/858597324573990912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 858597324573990912,
+          "source_status_id_str": "858597324573990912",
+          "source_user_id": 14694315,
+          "source_user_id_str": "14694315"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 858597293800341506,
+          "id_str": "858597293800341506",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-pZsI4UwAIDLr0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-pZsI4UwAIDLr0.jpg",
+          "url": "https://t.co/Q5XBuL9SKE",
+          "display_url": "pic.twitter.com/Q5XBuL9SKE",
+          "expanded_url": "https://twitter.com/jsincity/status/858597324573990912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 858597324573990912,
+          "source_status_id_str": "858597324573990912",
+          "source_user_id": 14694315,
+          "source_user_id_str": "14694315"
+        },
+        {
+          "id": 858597293808680961,
+          "id_str": "858597293808680961",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-pZsI6UAAEAUwk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-pZsI6UAAEAUwk.jpg",
+          "url": "https://t.co/Q5XBuL9SKE",
+          "display_url": "pic.twitter.com/Q5XBuL9SKE",
+          "expanded_url": "https://twitter.com/jsincity/status/858597324573990912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 858597324573990912,
+          "source_status_id_str": "858597324573990912",
+          "source_user_id": 14694315,
+          "source_user_id_str": "14694315"
+        },
+        {
+          "id": 858597293812887552,
+          "id_str": "858597293812887552",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-pZsI7UMAAZC5_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-pZsI7UMAAZC5_.jpg",
+          "url": "https://t.co/Q5XBuL9SKE",
+          "display_url": "pic.twitter.com/Q5XBuL9SKE",
+          "expanded_url": "https://twitter.com/jsincity/status/858597324573990912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 858597324573990912,
+          "source_status_id_str": "858597324573990912",
+          "source_user_id": 14694315,
+          "source_user_id_str": "14694315"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Apr 30 08:22:08 +0000 2017",
+      "id": 858597324573990912,
+      "id_str": "858597324573990912",
+      "text": "我跟寶藏巖這地方還真的是一拍即合啊～ https://t.co/Q5XBuL9SKE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 858597293800341506,
+            "id_str": "858597293800341506",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/media/C-pZsI4UwAIDLr0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C-pZsI4UwAIDLr0.jpg",
+            "url": "https://t.co/Q5XBuL9SKE",
+            "display_url": "pic.twitter.com/Q5XBuL9SKE",
+            "expanded_url": "https://twitter.com/jsincity/status/858597324573990912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 858597293800341506,
+            "id_str": "858597293800341506",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/media/C-pZsI4UwAIDLr0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C-pZsI4UwAIDLr0.jpg",
+            "url": "https://t.co/Q5XBuL9SKE",
+            "display_url": "pic.twitter.com/Q5XBuL9SKE",
+            "expanded_url": "https://twitter.com/jsincity/status/858597324573990912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 858597293808680961,
+            "id_str": "858597293808680961",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/media/C-pZsI6UAAEAUwk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C-pZsI6UAAEAUwk.jpg",
+            "url": "https://t.co/Q5XBuL9SKE",
+            "display_url": "pic.twitter.com/Q5XBuL9SKE",
+            "expanded_url": "https://twitter.com/jsincity/status/858597324573990912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 858597293812887552,
+            "id_str": "858597293812887552",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/media/C-pZsI7UMAAZC5_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C-pZsI7UMAAZC5_.jpg",
+            "url": "https://t.co/Q5XBuL9SKE",
+            "display_url": "pic.twitter.com/Q5XBuL9SKE",
+            "expanded_url": "https://twitter.com/jsincity/status/858597324573990912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14694315,
+        "id_str": "14694315",
+        "name": "不德綈。苟斯特",
+        "screen_name": "jsincity",
+        "location": "",
+        "description": "啊哈哈哈哈～啊哈哈哈哈～啊哈哈哈哈～啊哈哈（哈你去死啦！）",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4450,
+        "friends_count": 1270,
+        "listed_count": 90,
+        "created_at": "Thu May 08 01:08:58 +0000 2008",
+        "favourites_count": 1428,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22078,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3248321606/ffc316f87fedd922b57903e573d5c478_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3248321606/ffc316f87fedd922b57903e573d5c478_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14694315/1493476835",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Apr 30 08:46:47 +0000 2017",
+    "id": 858603527530192896,
+    "id_str": "858603527530192896",
+    "text": "看過很久但第一次喝這隻。 https://t.co/zoolGUxgWt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 858603495431168000,
+          "id_str": "858603495431168000",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-pfVHwVYAAuN95.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-pfVHwVYAAuN95.jpg",
+          "url": "https://t.co/zoolGUxgWt",
+          "display_url": "pic.twitter.com/zoolGUxgWt",
+          "expanded_url": "https://twitter.com/wastemobile/status/858603527530192896/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 858603495431168000,
+          "id_str": "858603495431168000",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/C-pfVHwVYAAuN95.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C-pfVHwVYAAuN95.jpg",
+          "url": "https://t.co/zoolGUxgWt",
+          "display_url": "pic.twitter.com/zoolGUxgWt",
+          "expanded_url": "https://twitter.com/wastemobile/status/858603527530192896/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Apr 30 06:27:58 +0000 2017",
     "id": 858568590915653633,
     "id_str": "858568590915653633",
