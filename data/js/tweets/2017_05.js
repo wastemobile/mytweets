@@ -1,5 +1,776 @@
 Grailbird.data.tweets_2017_05 = [
   {
+    "created_at": "Sat May 06 15:13:53 +0000 2017",
+    "id": 860875270537924608,
+    "id_str": "860875270537924608",
+    "text": "咦？「國際版刪去了一些比較露骨的內容、1.5 好像也比日版薄了許多⋯⋯」 https://t.co/M2flnufuzj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/M2flnufuzj",
+          "expanded_url": "https://twitter.com/wenli/status/860867762679304192",
+          "display_url": "twitter.com/wenli/status/8…",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 860867762679304192,
+    "quoted_status_id_str": "860867762679304192",
+    "quoted_status": {
+      "created_at": "Sat May 06 14:44:03 +0000 2017",
+      "id": 860867762679304192,
+      "id_str": "860867762679304192",
+      "text": "《攻殼機動隊》簡易入門指南 https://t.co/kD8wR5tqgS @fugu_retroさんから",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "fugu_retro",
+            "name": "Fugu Café 未來復古",
+            "id": 4744010292,
+            "id_str": "4744010292",
+            "indices": [
+              38,
+              49
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kD8wR5tqgS",
+            "expanded_url": "https://fugu.cafe/talks/14406",
+            "display_url": "fugu.cafe/talks/14406",
+            "indices": [
+              14,
+              37
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 691123,
+        "id_str": "691123",
+        "name": "神楽坂雯麗@ｳﾂﾂﾉﾕﾒ",
+        "screen_name": "wenli",
+        "location": "Taiwan｜台湾",
+        "description": "37歳中年少女｜偽娘｜台湾人｜いわゆる男の娘｜東方｜コスプレ｜レトロゲームコレクター｜マルシンやWEやMGCやハドソンやエルエスが造られたモーゼルトイガン達をこなよく愛する台湾在住のオトコの娘（37）です。｜七階高等魔法師，已二轉魔法少女",
+        "url": "https://t.co/iCvl8IC5el",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/iCvl8IC5el",
+                "expanded_url": "http://wenli.moe",
+                "display_url": "wenli.moe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 15590,
+        "friends_count": 5416,
+        "listed_count": 328,
+        "created_at": "Wed Jan 24 03:32:49 +0000 2007",
+        "favourites_count": 8248,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26706,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FCEBB6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/712912274/65f252152773a127d1d77880885adb3d.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/712912274/65f252152773a127d1d77880885adb3d.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/857910871762231296/BdnLmA8v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/857910871762231296/BdnLmA8v_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/691123/1482935361",
+        "profile_link_color": "9266CC",
+        "profile_sidebar_border_color": "F0A830",
+        "profile_sidebar_fill_color": "78C0A8",
+        "profile_text_color": "5E412F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 06 10:22:46 +0000 2017",
+    "id": 860802008445403137,
+    "id_str": "860802008445403137",
+    "text": "1. 去推特後台下載推文匯總。\n2. 用這小程序將所有推文以每日匯總模式匯入 Day One Classic https://t.co/MQ18g55fmT\n3. 設定 IFTTT 將未來推文自動匯入 https://t.co/KTjwcU5Iez\n\n數位日記更完整了些。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MQ18g55fmT",
+          "expanded_url": "http://bit.ly/2pgbSid",
+          "display_url": "bit.ly/2pgbSid",
+          "indices": [
+            55,
+            78
+          ]
+        },
+        {
+          "url": "https://t.co/KTjwcU5Iez",
+          "expanded_url": "http://ift.tt/2pgnktQ",
+          "display_url": "ift.tt/2pgnktQ",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 06 09:51:20 +0000 2017",
+    "id": 860794098969591808,
+    "id_str": "860794098969591808",
+    "text": "買一本 MagPi 57 期雜誌，就可以搭配 Raspberry Pi 3，自製一個廉價版 Google Home https://t.co/2twwzlvkxU https://t.co/yn8BZTIYcL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2twwzlvkxU",
+          "expanded_url": "https://www.raspberrypi.org/magpi/find-the-magpi-57/",
+          "display_url": "raspberrypi.org/magpi/find-the…",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 860794083291168768,
+          "id_str": "860794083291168768",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_InqHdUAAABv1R.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_InqHdUAAABv1R.jpg",
+          "url": "https://t.co/yn8BZTIYcL",
+          "display_url": "pic.twitter.com/yn8BZTIYcL",
+          "expanded_url": "https://twitter.com/wastemobile/status/860794098969591808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1006,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1257,
+              "h": 1500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 570,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 860794083291168768,
+          "id_str": "860794083291168768",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_InqHdUAAABv1R.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_InqHdUAAABv1R.jpg",
+          "url": "https://t.co/yn8BZTIYcL",
+          "display_url": "pic.twitter.com/yn8BZTIYcL",
+          "expanded_url": "https://twitter.com/wastemobile/status/860794098969591808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1006,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1257,
+              "h": 1500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 570,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat May 06 09:46:18 +0000 2017",
+    "id": 860792830192566273,
+    "id_str": "860792830192566273",
+    "text": "The 15 Best Tom Waits Songs https://t.co/rjh3QwUM3B https://t.co/2Z8lkHSnv6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rjh3QwUM3B",
+          "expanded_url": "http://www.popmatters.com/post/166918-the-15-best-tom-waits-songs/P0/",
+          "display_url": "popmatters.com/post/166918-th…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 860792771254276096,
+          "id_str": "860792771254276096",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_ImdvvV0AA3XgL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_ImdvvV0AA3XgL.jpg",
+          "url": "https://t.co/2Z8lkHSnv6",
+          "display_url": "pic.twitter.com/2Z8lkHSnv6",
+          "expanded_url": "https://twitter.com/wastemobile/status/860792830192566273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 250,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 250,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 860792771254276096,
+          "id_str": "860792771254276096",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_ImdvvV0AA3XgL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_ImdvvV0AA3XgL.jpg",
+          "url": "https://t.co/2Z8lkHSnv6",
+          "display_url": "pic.twitter.com/2Z8lkHSnv6",
+          "expanded_url": "https://twitter.com/wastemobile/status/860792830192566273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 250,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 250,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat May 06 09:35:37 +0000 2017",
+    "id": 860790142163836928,
+    "id_str": "860790142163836928",
+    "text": "Oh, Amy Winehouse, You Know I’m No Good. https://t.co/VXofKDz5d6 https://t.co/l2V3tmFwH8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VXofKDz5d6",
+          "expanded_url": "https://itun.es/tw/zrJ_7?i=1006515291",
+          "display_url": "itun.es/tw/zrJ_7?i=100…",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 860790140116975616,
+          "id_str": "860790140116975616",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_IkEl_UwAABTpY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_IkEl_UwAABTpY.jpg",
+          "url": "https://t.co/l2V3tmFwH8",
+          "display_url": "pic.twitter.com/l2V3tmFwH8",
+          "expanded_url": "https://twitter.com/wastemobile/status/860790142163836928/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 860790140116975616,
+          "id_str": "860790140116975616",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_IkEl_UwAABTpY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_IkEl_UwAABTpY.jpg",
+          "url": "https://t.co/l2V3tmFwH8",
+          "display_url": "pic.twitter.com/l2V3tmFwH8",
+          "expanded_url": "https://twitter.com/wastemobile/status/860790142163836928/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat May 06 09:33:09 +0000 2017",
+    "id": 860789524305137665,
+    "id_str": "860789524305137665",
+    "text": "原來法蘭黛的歌是這樣⋯⋯ https://t.co/UIReibaHPy https://t.co/JbSuID53SM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UIReibaHPy",
+          "expanded_url": "https://itun.es/tw/mNuzjb?i=1231375082",
+          "display_url": "itun.es/tw/mNuzjb?i=12…",
+          "indices": [
+            13,
+            36
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 860789521939537921,
+          "id_str": "860789521939537921",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_IjgnGVoAEp5ls.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_IjgnGVoAEp5ls.jpg",
+          "url": "https://t.co/JbSuID53SM",
+          "display_url": "pic.twitter.com/JbSuID53SM",
+          "expanded_url": "https://twitter.com/wastemobile/status/860789524305137665/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 860789521939537921,
+          "id_str": "860789521939537921",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_IjgnGVoAEp5ls.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_IjgnGVoAEp5ls.jpg",
+          "url": "https://t.co/JbSuID53SM",
+          "display_url": "pic.twitter.com/JbSuID53SM",
+          "expanded_url": "https://twitter.com/wastemobile/status/860789524305137665/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 250,
+              "h": 250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat May 06 08:48:06 +0000 2017",
     "id": 860778183141896192,
     "id_str": "860778183141896192",
