@@ -1,5 +1,2488 @@
 Grailbird.data.tweets_2017_05 = [
   {
+    "created_at": "Fri May 12 11:23:25 +0000 2017",
+    "id": 862991599436914688,
+    "id_str": "862991599436914688",
+    "text": "明天認真測一下擺進 Kobo 的中文字體。 #失心瘋後的收心操",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "失心瘋後的收心操",
+          "indices": [
+            22,
+            31
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 10:40:08 +0000 2017",
+    "id": 862980706569396224,
+    "id_str": "862980706569396224",
+    "text": "@ryo6 @bobtung 精闢、受用！大感謝！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ryo6",
+          "name": "冥王星早餐店員工(假)",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "screen_name": "bobtung",
+          "name": "Bobby",
+          "id": 122619084,
+          "id_str": "122619084",
+          "indices": [
+            6,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 862979962277511168,
+    "in_reply_to_status_id_str": "862979962277511168",
+    "in_reply_to_user_id": 19586444,
+    "in_reply_to_user_id_str": "19586444",
+    "in_reply_to_screen_name": "ryo6",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 10:31:41 +0000 2017",
+    "id": 862978579218309120,
+    "id_str": "862978579218309120",
+    "text": "@bobtung @ryo6 哈哈，XB70BT 那個頸掛看來真怪～ 沒關係，我去三創看看好了，感謝。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bobtung",
+          "name": "Bobby",
+          "id": 122619084,
+          "id_str": "122619084",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "ryo6",
+          "name": "冥王星早餐店員工(假)",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            9,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 862977945777786880,
+    "in_reply_to_status_id_str": "862977945777786880",
+    "in_reply_to_user_id": 122619084,
+    "in_reply_to_user_id_str": "122619084",
+    "in_reply_to_screen_name": "bobtung",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 10:21:33 +0000 2017",
+    "id": 862976031858188288,
+    "id_str": "862976031858188288",
+    "text": "@bobtung @ryo6 上下一點點皆可。從沒用過藍牙耳機，而且就通勤過程中聽音樂、podcast，想先挑個簡單的嘗試看看，非耳罩式。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bobtung",
+          "name": "Bobby",
+          "id": 122619084,
+          "id_str": "122619084",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "ryo6",
+          "name": "冥王星早餐店員工(假)",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            9,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 862975358349459456,
+    "in_reply_to_status_id_str": "862975358349459456",
+    "in_reply_to_user_id": 122619084,
+    "in_reply_to_user_id_str": "122619084",
+    "in_reply_to_screen_name": "bobtung",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 10:13:04 +0000 2017",
+    "id": 862973896915533824,
+    "id_str": "862973896915533824",
+    "text": "@bobtung @ryo6 這也太高檔了⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bobtung",
+          "name": "Bobby",
+          "id": 122619084,
+          "id_str": "122619084",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "ryo6",
+          "name": "冥王星早餐店員工(假)",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            9,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 862972992497659904,
+    "in_reply_to_status_id_str": "862972992497659904",
+    "in_reply_to_user_id": 122619084,
+    "in_reply_to_user_id_str": "122619084",
+    "in_reply_to_screen_name": "bobtung",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 10:03:27 +0000 2017",
+    "id": 862971476089032704,
+    "id_str": "862971476089032704",
+    "text": "@bobtung @ryo6 感謝，那還是優先挑載明藍牙 4 以上的嘍～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bobtung",
+          "name": "Bobby",
+          "id": 122619084,
+          "id_str": "122619084",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "ryo6",
+          "name": "冥王星早餐店員工(假)",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            9,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 122619084,
+    "in_reply_to_user_id_str": "122619084",
+    "in_reply_to_screen_name": "bobtung",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 09:57:23 +0000 2017",
+    "id": 862969947466604544,
+    "id_str": "862969947466604544",
+    "text": "無線耳機的藍牙版本 3 或 4，是會讓手機耗電差異很大嗎？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 09:25:37 +0000 2017",
+    "id": 862961954503090176,
+    "id_str": "862961954503090176",
+    "text": "2017 藍牙耳機評測 Top 10 https://t.co/NUjifALYbt https://t.co/9UDkpr6ytC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NUjifALYbt",
+          "expanded_url": "http://ironpig.pixnet.net/blog/post/458301470-2017-top-10",
+          "display_url": "ironpig.pixnet.net/blog/post/4583…",
+          "indices": [
+            19,
+            42
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 862961947569868801,
+          "id_str": "862961947569868801",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_nbUbOU0AEKja5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_nbUbOU0AEKja5.jpg",
+          "url": "https://t.co/9UDkpr6ytC",
+          "display_url": "pic.twitter.com/9UDkpr6ytC",
+          "expanded_url": "https://twitter.com/wastemobile/status/862961954503090176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 471,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 900,
+              "h": 471,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 862961947569868801,
+          "id_str": "862961947569868801",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_nbUbOU0AEKja5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_nbUbOU0AEKja5.jpg",
+          "url": "https://t.co/9UDkpr6ytC",
+          "display_url": "pic.twitter.com/9UDkpr6ytC",
+          "expanded_url": "https://twitter.com/wastemobile/status/862961954503090176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 471,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 900,
+              "h": 471,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri May 12 08:11:27 +0000 2017",
+    "id": 862943290085134337,
+    "id_str": "862943290085134337",
+    "text": "本想提早落跑，但下雨了⋯⋯。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri May 12 06:13:01 +0000 2017",
+    "id": 862913484719128576,
+    "id_str": "862913484719128576",
+    "text": "我真沒注意到有人半途穿上過鞋⋯⋯ #但最後沒有啊",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "但最後沒有啊",
+          "indices": [
+            17,
+            24
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 06:09:46 +0000 2017",
+    "id": 862912667429748736,
+    "id_str": "862912667429748736",
+    "text": "@0FX 但我一直以為它是用定價去算，剛剛才在購物車內被嚇到⋯⋯ #然後就失心瘋了",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "然後就失心瘋了",
+          "indices": [
+            33,
+            41
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "0FX",
+          "name": "ಠ_ಠ",
+          "id": 7986602,
+          "id_str": "7986602",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 862911757223739392,
+    "in_reply_to_status_id_str": "862911757223739392",
+    "in_reply_to_user_id": 7986602,
+    "in_reply_to_user_id_str": "7986602",
+    "in_reply_to_screen_name": "0FX",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 06:00:48 +0000 2017",
+    "id": 862910410533380097,
+    "id_str": "862910410533380097",
+    "text": "RT @lunkertw: #KOBO 又下殺48折，在上面已經用低於紙書的半價買了好幾萬的電子書了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KOBO",
+          "indices": [
+            14,
+            19
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lunkertw",
+          "name": "即物哀觀",
+          "id": 12536122,
+          "id_str": "12536122",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri May 12 05:50:11 +0000 2017",
+      "id": 862907736547131392,
+      "id_str": "862907736547131392",
+      "text": "#KOBO 又下殺48折，在上面已經用低於紙書的半價買了好幾萬的電子書了。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "KOBO",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12536122,
+        "id_str": "12536122",
+        "name": "即物哀觀",
+        "screen_name": "lunkertw",
+        "location": "Taiwan,Taipe City",
+        "description": "轉職iOS Developer中...",
+        "url": "https://t.co/YPzNNRHboQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/YPzNNRHboQ",
+                "expanded_url": "https://telegram.me/joinchat/BWihXj4FrHd3n2YfwXdQiA",
+                "display_url": "telegram.me/joinchat/BWihX…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 556,
+        "friends_count": 363,
+        "listed_count": 20,
+        "created_at": "Tue Jan 22 13:23:46 +0000 2008",
+        "favourites_count": 652,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14824,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/828663773430902786/3ZirZnvu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/828663773430902786/3ZirZnvu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12536122/1491753100",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 05:42:19 +0000 2017",
+    "id": 862905757309616128,
+    "id_str": "862905757309616128",
+    "text": "Kobo 的母親節折扣非常誇張，是實際用售價去算，紙本七折定價的電子書再打四八折，等於三三折，不知是設錯、還是真不惜血本促銷集客，總之讀者賺到，很像早期在多看撈書的快感。 https://t.co/Zv2TgkGSGv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Zv2TgkGSGv",
+          "expanded_url": "https://twitter.com/0FX/status/862903144790990848",
+          "display_url": "twitter.com/0FX/status/862…",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 862903144790990848,
+    "quoted_status_id_str": "862903144790990848",
+    "quoted_status": {
+      "created_at": "Fri May 12 05:31:56 +0000 2017",
+      "id": 862903144790990848,
+      "id_str": "862903144790990848",
+      "text": "Kobo的週末特價太容易讓人手滑了",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://d.hatena.ne.jp/ABS104a/\" rel=\"nofollow\">Biyon Lite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7986602,
+        "id_str": "7986602",
+        "name": "ಠ_ಠ",
+        "screen_name": "0FX",
+        "location": "Earth",
+        "description": "ARPG fan. Booklover. Interesting in science, archaeology, mythology, legends, folktales & mysteries. Keep Calm and Tweet On.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 791,
+        "friends_count": 711,
+        "listed_count": 41,
+        "created_at": "Mon Aug 06 06:58:18 +0000 2007",
+        "favourites_count": 10255,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13799,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000121484926/8cfd673140683c4829fcd6f2b5603cc6.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000121484926/8cfd673140683c4829fcd6f2b5603cc6.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/713747461907615744/Ok8sy1ts_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/713747461907615744/Ok8sy1ts_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7986602/1404787667",
+        "profile_link_color": "3BBFB0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "949494",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 04:21:07 +0000 2017",
+    "id": 862885323050700800,
+    "id_str": "862885323050700800",
+    "text": "也許 Boox Max Carta 擺 PDF 做校對也可以，就是 1GB 記憶體的 Android 不知會有多慢⋯⋯ https://t.co/YwPuGm2cZK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YwPuGm2cZK",
+          "expanded_url": "https://twitter.com/wastemobile/status/847825768201601024",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 847825768201601024,
+    "quoted_status_id_str": "847825768201601024",
+    "quoted_status": {
+      "created_at": "Fri Mar 31 14:59:49 +0000 2017",
+      "id": 847825768201601024,
+      "id_str": "847825768201601024",
+      "text": "Onyx Boox Max Carta 13.3”、Android 4.0、1 GHz CPU，2200 x 1650、207 ppi，差不多要兩萬五台幣⋯⋯。 https://t.co/bU35s7mzjp https://t.co/nTnk9Eym7D",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bU35s7mzjp",
+            "expanded_url": "http://the-digital-reader.com/2017/03/30/new-onyx-boox-max-carta-pre-order-sports-higher-resolution-screen/",
+            "display_url": "the-digital-reader.com/2017/03/30/new…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 847825759385174017,
+            "id_str": "847825759385174017",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/C8QVCUOUQAEeeyh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C8QVCUOUQAEeeyh.jpg",
+            "url": "https://t.co/nTnk9Eym7D",
+            "display_url": "pic.twitter.com/nTnk9Eym7D",
+            "expanded_url": "https://twitter.com/wastemobile/status/847825768201601024/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 847825759385174017,
+            "id_str": "847825759385174017",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/C8QVCUOUQAEeeyh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C8QVCUOUQAEeeyh.jpg",
+            "url": "https://t.co/nTnk9Eym7D",
+            "display_url": "pic.twitter.com/nTnk9Eym7D",
+            "expanded_url": "https://twitter.com/wastemobile/status/847825768201601024/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 500,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "Taipei",
+        "description": "時時刻刻全力以赴。你的最佳表現不是絕對的，健康和生病時狀態都不同。但任何情況下，只要全力以赴，就會免於自我批評、自我折磨與後悔。",
+        "url": "https://t.co/5LQVtqARrN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LQVtqARrN",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3127,
+        "friends_count": 1096,
+        "listed_count": 120,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 2549,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17476,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1444152077",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 03:13:57 +0000 2017",
+    "id": 862868422140375040,
+    "id_str": "862868422140375040",
+    "text": "前一代據說讀中文 PDF 也會遇到字型的問題，要確認。 #note https://t.co/FIpEWON7nb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            28,
+            33
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FIpEWON7nb",
+          "expanded_url": "https://twitter.com/wastemobile/status/859908368378580994",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 859908368378580994,
+    "in_reply_to_status_id_str": "859908368378580994",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 859908368378580994,
+    "quoted_status_id_str": "859908368378580994",
+    "quoted_status": {
+      "created_at": "Wed May 03 23:11:46 +0000 2017",
+      "id": 859908368378580994,
+      "id_str": "859908368378580994",
+      "text": "再一個月 Sony DPT-RP1 上市，審慎評估是否能拿來當成校對工具。 https://t.co/RGD2MgVbxw https://t.co/k294MUUNLH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RGD2MgVbxw",
+            "expanded_url": "http://www.sony.jp/digital-paper/products/DPT-RP1/",
+            "display_url": "sony.jp/digital-paper/…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 859908345834156033,
+            "id_str": "859908345834156033",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/C-8CFaTWsAECJFk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C-8CFaTWsAECJFk.jpg",
+            "url": "https://t.co/k294MUUNLH",
+            "display_url": "pic.twitter.com/k294MUUNLH",
+            "expanded_url": "https://twitter.com/wastemobile/status/859908368378580994/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 520,
+                "h": 674,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 520,
+                "h": 674,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 520,
+                "h": 674,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 859908345834156033,
+            "id_str": "859908345834156033",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/C-8CFaTWsAECJFk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C-8CFaTWsAECJFk.jpg",
+            "url": "https://t.co/k294MUUNLH",
+            "display_url": "pic.twitter.com/k294MUUNLH",
+            "expanded_url": "https://twitter.com/wastemobile/status/859908368378580994/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 520,
+                "h": 674,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 520,
+                "h": 674,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 520,
+                "h": 674,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 859908346790457344,
+            "id_str": "859908346790457344",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/C-8CFd3WsAAZMRM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C-8CFd3WsAAZMRM.jpg",
+            "url": "https://t.co/k294MUUNLH",
+            "display_url": "pic.twitter.com/k294MUUNLH",
+            "expanded_url": "https://twitter.com/wastemobile/status/859908368378580994/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1774,
+                "h": 1102,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 422,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 745,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "Taipei",
+        "description": "時時刻刻全力以赴。你的最佳表現不是絕對的，健康和生病時狀態都不同。但任何情況下，只要全力以赴，就會免於自我批評、自我折磨與後悔。",
+        "url": "https://t.co/5LQVtqARrN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LQVtqARrN",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3127,
+        "friends_count": 1096,
+        "listed_count": 120,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 2549,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17476,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1444152077",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 16:51:21 +0000 2017",
+    "id": 862711736851243008,
+    "id_str": "862711736851243008",
+    "text": "Trivia 這個英文單字要背起來⋯⋯XD https://t.co/MFTA5qKy59",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MFTA5qKy59",
+          "expanded_url": "https://twitter.com/faa_gui/status/862708475964477441",
+          "display_url": "twitter.com/faa_gui/status…",
+          "indices": [
+            22,
+            45
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 862708475964477441,
+    "quoted_status_id_str": "862708475964477441",
+    "quoted_status": {
+      "created_at": "Thu May 11 16:38:23 +0000 2017",
+      "id": 862708475964477441,
+      "id_str": "862708475964477441",
+      "text": "以冷知識作為一種冷知識。「冷知識，指的是無價值、瑣碎、龐雜的事情或者知識等，或許饒富趣味、並且隨時充斥在我們的生活周遭，卻鮮為人注意。」https://t.co/ul5xTkbJ99",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ul5xTkbJ99",
+            "expanded_url": "https://zh.wikipedia.org/wiki/%E5%86%B7%E7%9F%A5%E8%AD%98",
+            "display_url": "zh.wikipedia.org/wiki/%E5%86%B7…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1259849810,
+        "id_str": "1259849810",
+        "name": "fagui",
+        "screen_name": "faa_gui",
+        "location": "",
+        "description": "視而不見，充耳不聞；保持幽默，將錯就錯。",
+        "url": "https://t.co/CgD7GejwKX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CgD7GejwKX",
+                "expanded_url": "https://www.instagram.com/kittiesthetwins/",
+                "display_url": "instagram.com/kittiesthetwin…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 474,
+        "friends_count": 595,
+        "listed_count": 7,
+        "created_at": "Mon Mar 11 16:23:52 +0000 2013",
+        "favourites_count": 1191,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2775,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 16:41:11 +0000 2017",
+    "id": 862709179500199937,
+    "id_str": "862709179500199937",
+    "text": "其實這捐書換電子書活動不錯，就是寄書流程有點繁瑣，只剩三天，有興趣的還是可以去捐。 https://t.co/sGjEKmzXXG https://t.co/XYqUq0W9hD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sGjEKmzXXG",
+          "expanded_url": "http://reading.udn.com/act/bookshare2017/document.html",
+          "display_url": "reading.udn.com/act/bookshare2…",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 862709172231524352,
+          "id_str": "862709172231524352",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_j1a9tU0AAluNU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_j1a9tU0AAluNU.jpg",
+          "url": "https://t.co/XYqUq0W9hD",
+          "display_url": "pic.twitter.com/XYqUq0W9hD",
+          "expanded_url": "https://twitter.com/wastemobile/status/862709179500199937/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 862709172231524352,
+          "id_str": "862709172231524352",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_j1a9tU0AAluNU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_j1a9tU0AAluNU.jpg",
+          "url": "https://t.co/XYqUq0W9hD",
+          "display_url": "pic.twitter.com/XYqUq0W9hD",
+          "expanded_url": "https://twitter.com/wastemobile/status/862709179500199937/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 16:35:29 +0000 2017",
+    "id": 862707744398131201,
+    "id_str": "862707744398131201",
+    "text": "所以搭配一個不錯的辨識引擎，掃紙本書劃線註記且分享並沒有那麼難⋯⋯ https://t.co/YiBArTYEdD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YiBArTYEdD",
+          "expanded_url": "https://twitter.com/wastemobile/status/862706940782100480",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 862706940782100480,
+    "in_reply_to_status_id_str": "862706940782100480",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 862706940782100480,
+    "quoted_status_id_str": "862706940782100480",
+    "quoted_status": {
+      "created_at": "Thu May 11 16:32:17 +0000 2017",
+      "id": 862706940782100480,
+      "id_str": "862706940782100480",
+      "text": "Postepic 的中文辨識能力很強。 https://t.co/AXdlc7Wzuk https://t.co/7MbNpJzsa7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AXdlc7Wzuk",
+            "expanded_url": "http://postepic.com/post/5689219510960128/",
+            "display_url": "postepic.com/post/568921951…",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 862706938701766656,
+            "id_str": "862706938701766656",
+            "indices": [
+              44,
+              67
+            ],
+            "media_url": "http://pbs.twimg.com/media/C_jzY9KVYAAOwGx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_jzY9KVYAAOwGx.jpg",
+            "url": "https://t.co/7MbNpJzsa7",
+            "display_url": "pic.twitter.com/7MbNpJzsa7",
+            "expanded_url": "https://twitter.com/wastemobile/status/862706940782100480/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 940,
+                "h": 940,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 940,
+                "h": 940,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 862706938701766656,
+            "id_str": "862706938701766656",
+            "indices": [
+              44,
+              67
+            ],
+            "media_url": "http://pbs.twimg.com/media/C_jzY9KVYAAOwGx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_jzY9KVYAAOwGx.jpg",
+            "url": "https://t.co/7MbNpJzsa7",
+            "display_url": "pic.twitter.com/7MbNpJzsa7",
+            "expanded_url": "https://twitter.com/wastemobile/status/862706940782100480/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 940,
+                "h": 940,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 940,
+                "h": 940,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "Taipei",
+        "description": "時時刻刻全力以赴。你的最佳表現不是絕對的，健康和生病時狀態都不同。但任何情況下，只要全力以赴，就會免於自我批評、自我折磨與後悔。",
+        "url": "https://t.co/5LQVtqARrN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LQVtqARrN",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3127,
+        "friends_count": 1096,
+        "listed_count": 120,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 2549,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17476,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1444152077",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 16:32:17 +0000 2017",
+    "id": 862706940782100480,
+    "id_str": "862706940782100480",
+    "text": "Postepic 的中文辨識能力很強。 https://t.co/AXdlc7Wzuk https://t.co/7MbNpJzsa7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AXdlc7Wzuk",
+          "expanded_url": "http://postepic.com/post/5689219510960128/",
+          "display_url": "postepic.com/post/568921951…",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 862706938701766656,
+          "id_str": "862706938701766656",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_jzY9KVYAAOwGx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_jzY9KVYAAOwGx.jpg",
+          "url": "https://t.co/7MbNpJzsa7",
+          "display_url": "pic.twitter.com/7MbNpJzsa7",
+          "expanded_url": "https://twitter.com/wastemobile/status/862706940782100480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 940,
+              "h": 940,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 940,
+              "h": 940,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 862706938701766656,
+          "id_str": "862706938701766656",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_jzY9KVYAAOwGx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_jzY9KVYAAOwGx.jpg",
+          "url": "https://t.co/7MbNpJzsa7",
+          "display_url": "pic.twitter.com/7MbNpJzsa7",
+          "expanded_url": "https://twitter.com/wastemobile/status/862706940782100480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 940,
+              "h": 940,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 940,
+              "h": 940,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 16:28:41 +0000 2017",
+    "id": 862706033482801152,
+    "id_str": "862706033482801152",
+    "text": "@denkeni 其實還不錯，中文辨識都很精準呢～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "denkeni",
+          "name": "Denken",
+          "id": 945124819,
+          "id_str": "945124819",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 862703171436658688,
+    "in_reply_to_status_id_str": "862703171436658688",
+    "in_reply_to_user_id": 945124819,
+    "in_reply_to_user_id_str": "945124819",
+    "in_reply_to_screen_name": "denkeni",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 16:13:21 +0000 2017",
+    "id": 862702174156890112,
+    "id_str": "862702174156890112",
+    "text": "iPad 2017 還買不到呢，六月還來個 10.5 吋 iPad Pro 是怎樣啦～ https://t.co/9EbS632W5o https://t.co/NvdIB2fFhj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9EbS632W5o",
+          "expanded_url": "https://qooah.com/2017/05/11/apple-10-5-ipad-pro/",
+          "display_url": "qooah.com/2017/05/11/app…",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 862702168838557696,
+          "id_str": "862702168838557696",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_jvDUCU0AAJoe-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_jvDUCU0AAJoe-.jpg",
+          "url": "https://t.co/NvdIB2fFhj",
+          "display_url": "pic.twitter.com/NvdIB2fFhj",
+          "expanded_url": "https://twitter.com/wastemobile/status/862702174156890112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 700,
+              "h": 350,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 700,
+              "h": 350,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 862702168838557696,
+          "id_str": "862702168838557696",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_jvDUCU0AAJoe-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_jvDUCU0AAJoe-.jpg",
+          "url": "https://t.co/NvdIB2fFhj",
+          "display_url": "pic.twitter.com/NvdIB2fFhj",
+          "expanded_url": "https://twitter.com/wastemobile/status/862702174156890112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 700,
+              "h": 350,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 700,
+              "h": 350,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 16:05:18 +0000 2017",
+    "id": 862700148266119168,
+    "id_str": "862700148266119168",
+    "text": "真心覺得 Apple 就直接拿這影片用了吧，反正都是要買⋯⋯ iPhone 8 Concept - Unofficial https://t.co/6nuLLDcVVX 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            88,
+            96
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6nuLLDcVVX",
+          "expanded_url": "https://youtu.be/onB0C7up2pQ",
+          "display_url": "youtu.be/onB0C7up2pQ",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu May 11 15:35:59 +0000 2017",
     "id": 862692772607696896,
     "id_str": "862692772607696896",
