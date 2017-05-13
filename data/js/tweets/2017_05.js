@@ -1,5 +1,763 @@
 Grailbird.data.tweets_2017_05 = [
   {
+    "created_at": "Sat May 13 06:25:40 +0000 2017",
+    "id": 863279053867892737,
+    "id_str": "863279053867892737",
+    "text": "歐！看來可以買 Boox Max Carta 的下一代：Boox Monitor，13.3”、Android 6 且有 2GB 記憶體。 https://t.co/JLLWRDUdWu https://t.co/FSbwXDnTxV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JLLWRDUdWu",
+          "expanded_url": "https://the-digital-reader.com/2017/05/12/leaked-spec-sheet-reveals-onyx-boox-monitor-13-3-screen-android-6-0-marshmallow-1-8ghz-cpu/",
+          "display_url": "the-digital-reader.com/2017/05/12/lea…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 863279045177298944,
+          "id_str": "863279045177298944",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_r7t73U0AAF5eN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_r7t73U0AAF5eN.jpg",
+          "url": "https://t.co/FSbwXDnTxV",
+          "display_url": "pic.twitter.com/FSbwXDnTxV",
+          "expanded_url": "https://twitter.com/wastemobile/status/863279053867892737/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 776,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1349,
+              "h": 872,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 440,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 863279045177298944,
+          "id_str": "863279045177298944",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_r7t73U0AAF5eN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_r7t73U0AAF5eN.jpg",
+          "url": "https://t.co/FSbwXDnTxV",
+          "display_url": "pic.twitter.com/FSbwXDnTxV",
+          "expanded_url": "https://twitter.com/wastemobile/status/863279053867892737/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 776,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1349,
+              "h": 872,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 440,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 16:48:12 +0000 2017",
+    "id": 863073334346432512,
+    "id_str": "863073334346432512",
+    "text": "近鄉情怯，若有所失。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri May 12 15:59:34 +0000 2017",
+    "id": 863061095308709889,
+    "id_str": "863061095308709889",
+    "text": "發現這個 enduro.js 不錯，入手超快、彈性很大，但我還搞不清楚該如何部署它⋯⋯ https://t.co/6Z1xR0Gb6V https://t.co/W7GeigowBn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6Z1xR0Gb6V",
+          "expanded_url": "http://www.endurojs.com",
+          "display_url": "endurojs.com",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 863061088790659078,
+          "id_str": "863061088790659078",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_o1fNDUQAYKaM4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_o1fNDUQAYKaM4.jpg",
+          "url": "https://t.co/W7GeigowBn",
+          "display_url": "pic.twitter.com/W7GeigowBn",
+          "expanded_url": "https://twitter.com/wastemobile/status/863061095308709889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 361,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 361,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 500,
+              "h": 361,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 863061088790659078,
+          "id_str": "863061088790659078",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/C_o1fNDUQAYKaM4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C_o1fNDUQAYKaM4.jpg",
+          "url": "https://t.co/W7GeigowBn",
+          "display_url": "pic.twitter.com/W7GeigowBn",
+          "expanded_url": "https://twitter.com/wastemobile/status/863061095308709889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 361,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 361,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 500,
+              "h": 361,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 15:38:58 +0000 2017",
+    "id": 863055912239480832,
+    "id_str": "863055912239480832",
+    "text": "賀！！！ https://t.co/0nbNmMJhYY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0nbNmMJhYY",
+          "expanded_url": "https://twitter.com/faa_gui/status/863055156585185280",
+          "display_url": "twitter.com/faa_gui/status…",
+          "indices": [
+            5,
+            28
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 863055156585185280,
+    "quoted_status_id_str": "863055156585185280",
+    "quoted_status": {
+      "created_at": "Fri May 12 15:35:58 +0000 2017",
+      "id": 863055156585185280,
+      "id_str": "863055156585185280",
+      "text": "宇宙本日放榜，是考上政大阿語系的心情。22號爸爸的生日演第一集。只好舉杯。 https://t.co/enwpKKGs2a",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 863055140013490177,
+            "id_str": "863055140013490177",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/C_owE8IUQAEB5Yp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_owE8IUQAEB5Yp.jpg",
+            "url": "https://t.co/enwpKKGs2a",
+            "display_url": "pic.twitter.com/enwpKKGs2a",
+            "expanded_url": "https://twitter.com/faa_gui/status/863055156585185280/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1152,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 863055140013490177,
+            "id_str": "863055140013490177",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/C_owE8IUQAEB5Yp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C_owE8IUQAEB5Yp.jpg",
+            "url": "https://t.co/enwpKKGs2a",
+            "display_url": "pic.twitter.com/enwpKKGs2a",
+            "expanded_url": "https://twitter.com/faa_gui/status/863055156585185280/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1152,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1259849810,
+        "id_str": "1259849810",
+        "name": "fagui",
+        "screen_name": "faa_gui",
+        "location": "",
+        "description": "視而不見，充耳不聞；保持幽默，將錯就錯。",
+        "url": "https://t.co/CgD7GejwKX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CgD7GejwKX",
+                "expanded_url": "https://www.instagram.com/kittiesthetwins/",
+                "display_url": "instagram.com/kittiesthetwin…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 476,
+        "friends_count": 595,
+        "listed_count": 7,
+        "created_at": "Mon Mar 11 16:23:52 +0000 2013",
+        "favourites_count": 1192,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2781,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri May 12 15:37:50 +0000 2017",
+    "id": 863055624656924672,
+    "id_str": "863055624656924672",
+    "text": "@ryo6 天啊！眉角真是太多了，直接下訂 SBH70，就路上聽聽音樂罷了，實在不必再浪費時間糾結。感謝啦！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ryo6",
+          "name": "冥王星早餐店員工(假)",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 863054693299179520,
+    "in_reply_to_status_id_str": "863054693299179520",
+    "in_reply_to_user_id": 19586444,
+    "in_reply_to_user_id_str": "19586444",
+    "in_reply_to_screen_name": "ryo6",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 15:16:43 +0000 2017",
+    "id": 863050310457016320,
+    "id_str": "863050310457016320",
+    "text": "@idd0060 就全站特價。擺進購物車、結帳前輸入 LUVMOM 促銷代碼，就會打折啦～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "idd0060",
+          "name": "Donut Zoo",
+          "id": 9563412,
+          "id_str": "9563412",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 863049834479050752,
+    "in_reply_to_status_id_str": "863049834479050752",
+    "in_reply_to_user_id": 9563412,
+    "in_reply_to_user_id_str": "9563412",
+    "in_reply_to_screen_name": "idd0060",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 15:08:06 +0000 2017",
+    "id": 863048142811418624,
+    "id_str": "863048142811418624",
+    "text": "New (Old) iPad 可以購買了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 15:01:53 +0000 2017",
+    "id": 863046578776416256,
+    "id_str": "863046578776416256",
+    "text": "@ryo6 目前就打算在三千價位的 Sony SBH80 或很通俗的 Jabra ROX 二選一，今天都還沒看到現貨；途中差點被 Beats X 的顏值擊倒，想起大大的洞見，有忍住～XD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ryo6",
+          "name": "冥王星早餐店員工(假)",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 863029624581758976,
+    "in_reply_to_status_id_str": "863029624581758976",
+    "in_reply_to_user_id": 19586444,
+    "in_reply_to_user_id_str": "19586444",
+    "in_reply_to_screen_name": "ryo6",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri May 12 11:23:25 +0000 2017",
     "id": 862991599436914688,
     "id_str": "862991599436914688",
