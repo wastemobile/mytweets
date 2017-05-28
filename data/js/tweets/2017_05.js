@@ -1,5 +1,298 @@
 Grailbird.data.tweets_2017_05 = [
   {
+    "created_at": "Sun May 28 04:00:29 +0000 2017",
+    "id": 868678337123590144,
+    "id_str": "868678337123590144",
+    "text": "RT @zmx: AlphaGo 超 GY，故意下爛棋認輸，馬上送分回來不讓你認輸 XDD\nhttps://t.co/xwgC8VHVXH https://t.co/xkbq7lO6Vz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "zmx",
+          "name": "zmx",
+          "id": 14112898,
+          "id_str": "14112898",
+          "indices": [
+            3,
+            7
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xwgC8VHVXH",
+          "expanded_url": "http://pingyeh.blogspot.tw/2017/05/alphago.html",
+          "display_url": "pingyeh.blogspot.tw/2017/05/alphag…",
+          "indices": [
+            46,
+            69
+          ]
+        },
+        {
+          "url": "https://t.co/xkbq7lO6Vz",
+          "expanded_url": "https://twitter.com/zmx/status/866917856989990912",
+          "display_url": "twitter.com/zmx/status/866…",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 28 03:50:37 +0000 2017",
+      "id": 868675856209649665,
+      "id_str": "868675856209649665",
+      "text": "AlphaGo 超 GY，故意下爛棋認輸，馬上送分回來不讓你認輸 XDD\nhttps://t.co/xwgC8VHVXH https://t.co/xkbq7lO6Vz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xwgC8VHVXH",
+            "expanded_url": "http://pingyeh.blogspot.tw/2017/05/alphago.html",
+            "display_url": "pingyeh.blogspot.tw/2017/05/alphag…",
+            "indices": [
+              37,
+              60
+            ]
+          },
+          {
+            "url": "https://t.co/xkbq7lO6Vz",
+            "expanded_url": "https://twitter.com/zmx/status/866917856989990912",
+            "display_url": "twitter.com/zmx/status/866…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14112898,
+        "id_str": "14112898",
+        "name": "zmx",
+        "screen_name": "zmx",
+        "location": "Taipei, Taiwan",
+        "description": "政治不正確",
+        "url": "http://t.co/qoPtZFHD4m",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/qoPtZFHD4m",
+                "expanded_url": "http://frogbsd.wordpress.com",
+                "display_url": "frogbsd.wordpress.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 396,
+        "friends_count": 82,
+        "listed_count": 34,
+        "created_at": "Mon Mar 10 11:44:33 +0000 2008",
+        "favourites_count": 316,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5372,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/51656914/wawa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/51656914/wawa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 866917856989990912,
+      "quoted_status_id_str": "866917856989990912",
+      "quoted_status": {
+        "created_at": "Tue May 23 07:24:58 +0000 2017",
+        "id": 866917856989990912,
+        "id_str": "866917856989990912",
+        "text": "我現在就好奇 AlphaGo 會不會每一場都只贏半目",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 14112898,
+          "id_str": "14112898",
+          "name": "zmx",
+          "screen_name": "zmx",
+          "location": "Taipei, Taiwan",
+          "description": "政治不正確",
+          "url": "http://t.co/qoPtZFHD4m",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/qoPtZFHD4m",
+                  "expanded_url": "http://frogbsd.wordpress.com",
+                  "display_url": "frogbsd.wordpress.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 396,
+          "friends_count": 82,
+          "listed_count": 34,
+          "created_at": "Mon Mar 10 11:44:33 +0000 2008",
+          "favourites_count": 316,
+          "utc_offset": 28800,
+          "time_zone": "Taipei",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 5372,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/51656914/wawa_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/51656914/wawa_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "zh"
+      },
+      "retweet_count": 6,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 866917856989990912,
+    "quoted_status_id_str": "866917856989990912",
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun May 28 01:35:30 +0000 2017",
     "id": 868641852836069376,
     "id_str": "868641852836069376",
