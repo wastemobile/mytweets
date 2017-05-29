@@ -1,5 +1,51 @@
 Grailbird.data.tweets_2017_05 = [
   {
+    "created_at": "Sun May 28 14:37:08 +0000 2017",
+    "id": 868838553454694401,
+    "id_str": "868838553454694401",
+    "text": "「一個人能在清晨醒來與晚上睡覺之間，做著自己想做的事，就是成功者。」\n\n蔦屋書店增田宗昭引用 Bob Dylan 的話這麼說。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun May 28 04:00:29 +0000 2017",
     "id": 868678337123590144,
     "id_str": "868678337123590144",
