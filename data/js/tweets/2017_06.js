@@ -1,5 +1,827 @@
 Grailbird.data.tweets_2017_06 = [
   {
+    "created_at": "Sat Jun 03 14:27:31 +0000 2017",
+    "id": 871010464083329025,
+    "id_str": "871010464083329025",
+    "text": "多看了兩部伍迪艾倫的電影，但還是看不懂他寫的書，哇哈哈，見鬼了⋯⋯。 https://t.co/GkZ9s4hO27 https://t.co/nPMJG28NZp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GkZ9s4hO27",
+          "expanded_url": "https://book.douban.com/subject/25904929/",
+          "display_url": "book.douban.com/subject/259049…",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 871010458479730688,
+          "id_str": "871010458479730688",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/DBZzZa1VoAAXIot.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DBZzZa1VoAAXIot.jpg",
+          "url": "https://t.co/nPMJG28NZp",
+          "display_url": "pic.twitter.com/nPMJG28NZp",
+          "expanded_url": "https://twitter.com/wastemobile/status/871010464083329025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 871010458479730688,
+          "id_str": "871010458479730688",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/DBZzZa1VoAAXIot.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DBZzZa1VoAAXIot.jpg",
+          "url": "https://t.co/nPMJG28NZp",
+          "display_url": "pic.twitter.com/nPMJG28NZp",
+          "expanded_url": "https://twitter.com/wastemobile/status/871010464083329025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 294,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 03 14:16:07 +0000 2017",
+    "id": 871007594780835844,
+    "id_str": "871007594780835844",
+    "text": "Sublime Text Build 3132 之後的新界面真的看起來好簡潔舒服。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 03 14:05:49 +0000 2017",
+    "id": 871005003049164800,
+    "id_str": "871005003049164800",
+    "text": "昨天在推上看到 VHEMT（人類自願滅絕運動），覺得這真是太糟糕的事了，有救地球自覺的人逐漸減少，就反倒讓給其他不關心的人了，積極的教育、閱讀、思考、影響下一代或許更好。 https://t.co/N9zdCqA053\n\n當然有人說這樣能實質加速地球滅絕，或許也是。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N9zdCqA053",
+          "expanded_url": "http://bit.ly/2qKSHOR",
+          "display_url": "bit.ly/2qKSHOR",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 03 13:09:56 +0000 2017",
+    "id": 870990939644280834,
+    "id_str": "870990939644280834",
+    "text": "看了伍迪艾倫的《藍色茉莉》，完全沒預期到是這麼悲哀的片子。 #netflix",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "netflix",
+          "indices": [
+            30,
+            38
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 03 09:15:41 +0000 2017",
+    "id": 870931988672167937,
+    "id_str": "870931988672167937",
+    "text": "居然已經28年了⋯⋯。 https://t.co/mZEVexjivX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mZEVexjivX",
+          "expanded_url": "https://twitter.com/RFI_TradCn/status/870929954636091393",
+          "display_url": "twitter.com/RFI_TradCn/sta…",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 870929954636091393,
+    "quoted_status_id_str": "870929954636091393",
+    "quoted_status": {
+      "created_at": "Sat Jun 03 09:07:36 +0000 2017",
+      "id": 870929954636091393,
+      "id_str": "870929954636091393",
+      "text": "紀念六四28周年，全球尋找“坦克人” https://t.co/03wlc93hh0 https://t.co/QAoejhxHce",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/03wlc93hh0",
+            "expanded_url": "http://rfi.my/1GcZ.t",
+            "display_url": "rfi.my/1GcZ.t",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 870929952404774912,
+            "id_str": "870929952404774912",
+            "indices": [
+              43,
+              66
+            ],
+            "media_url": "http://pbs.twimg.com/media/DBYqLWVVoAAuF9B.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DBYqLWVVoAAuF9B.jpg",
+            "url": "https://t.co/QAoejhxHce",
+            "display_url": "pic.twitter.com/QAoejhxHce",
+            "expanded_url": "https://twitter.com/RFI_TradCn/status/870929954636091393/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1024,
+                "h": 578,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 384,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 578,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 870929952404774912,
+            "id_str": "870929952404774912",
+            "indices": [
+              43,
+              66
+            ],
+            "media_url": "http://pbs.twimg.com/media/DBYqLWVVoAAuF9B.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DBYqLWVVoAAuF9B.jpg",
+            "url": "https://t.co/QAoejhxHce",
+            "display_url": "pic.twitter.com/QAoejhxHce",
+            "expanded_url": "https://twitter.com/RFI_TradCn/status/870929954636091393/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1024,
+                "h": 578,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 384,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 578,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 29492916,
+        "id_str": "29492916",
+        "name": "RFI 華語 - 法國國際廣播電台",
+        "screen_name": "RFI_TradCn",
+        "location": "法國 巴黎",
+        "description": "法國國際廣播電台 @RFI (Radio France Internationale) 中文部每天推出兩小時節目：全方位報導國際時事、中國動態以及法國與歐洲大事件，兼顧法國及世界輿論對全球時事的分析與評論。  法廣簡體中文推特 @RFI_Cn。",
+        "url": "http://t.co/eBJFFhAPFB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/eBJFFhAPFB",
+                "expanded_url": "http://trad.cn.rfi.fr",
+                "display_url": "trad.cn.rfi.fr",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 147176,
+        "friends_count": 2426,
+        "listed_count": 1014,
+        "created_at": "Tue Apr 07 17:15:35 +0000 2009",
+        "favourites_count": 8,
+        "utc_offset": 7200,
+        "time_zone": "Paris",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 59756,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/887130735/23a75ac65006c0afee4fe3400495da10.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/887130735/23a75ac65006c0afee4fe3400495da10.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/668726252698644480/TmErrDvZ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/668726252698644480/TmErrDvZ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29492916/1441905997",
+        "profile_link_color": "E20000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EAECED",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 37,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 03 09:14:37 +0000 2017",
+    "id": 870931718357647360,
+    "id_str": "870931718357647360",
+    "text": "RT @iyouport_news: 【Opinion: WeChat is eating the Chinese internet, and that’s not a good thing】https://t.co/mPuvICxB3E https://t.co/mHnBfs…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "iyouport_news",
+          "name": "iyouport",
+          "id": 731790773675417601,
+          "id_str": "731790773675417601",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mPuvICxB3E",
+          "expanded_url": "https://www.facebook.com/iyouport/posts/1549643451733460",
+          "display_url": "facebook.com/iyouport/posts…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jun 03 07:57:56 +0000 2017",
+      "id": 870912420998397953,
+      "id_str": "870912420998397953",
+      "text": "【Opinion: WeChat is eating the Chinese internet, and that’s not a good thing】https://t.co/mPuvICxB3E https://t.co/mHnBfs9CMR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mPuvICxB3E",
+            "expanded_url": "https://www.facebook.com/iyouport/posts/1549643451733460",
+            "display_url": "facebook.com/iyouport/posts…",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 870912412903292928,
+            "id_str": "870912412903292928",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/DBYaOamUQAAVqQX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DBYaOamUQAAVqQX.jpg",
+            "url": "https://t.co/mHnBfs9CMR",
+            "display_url": "pic.twitter.com/mHnBfs9CMR",
+            "expanded_url": "https://twitter.com/iyouport_news/status/870912420998397953/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 750,
+                "h": 489,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 750,
+                "h": 489,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 443,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 870912412903292928,
+            "id_str": "870912412903292928",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/DBYaOamUQAAVqQX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DBYaOamUQAAVqQX.jpg",
+            "url": "https://t.co/mHnBfs9CMR",
+            "display_url": "pic.twitter.com/mHnBfs9CMR",
+            "expanded_url": "https://twitter.com/iyouport_news/status/870912420998397953/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 750,
+                "h": 489,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 750,
+                "h": 489,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 443,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 731790773675417601,
+        "id_str": "731790773675417601",
+        "name": "iyouport",
+        "screen_name": "iyouport_news",
+        "location": "",
+        "description": "Here is the real China. We are concerned about the latest international news. ＃Internet, ＃humanrights & ＃democratic institutions 网站：https://t.co/c0rqrPVgGY",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/c0rqrPVgGY",
+                "expanded_url": "https://iyouport.com/",
+                "display_url": "iyouport.com",
+                "indices": [
+                  132,
+                  155
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10191,
+        "friends_count": 20,
+        "listed_count": 144,
+        "created_at": "Sun May 15 10:18:11 +0000 2016",
+        "favourites_count": 60,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12938,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/731792189932503040/bsi38CwS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/731792189932503040/bsi38CwS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/731790773675417601/1463310610",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jun 03 07:34:12 +0000 2017",
+    "id": 870906445981556736,
+    "id_str": "870906445981556736",
+    "text": "這雨真讓人心煩。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jun 03 03:07:48 +0000 2017",
     "id": 870839404079726592,
     "id_str": "870839404079726592",
