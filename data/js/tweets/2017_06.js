@@ -1,5 +1,128 @@
 Grailbird.data.tweets_2017_06 = [
   {
+    "created_at": "Tue Jun 06 12:55:32 +0000 2017",
+    "id": 872074477374283776,
+    "id_str": "872074477374283776",
+    "text": "得不到的永遠在騷動，\n被偏愛的都有恃無恐。\n\nhttps://t.co/m5UBLK4dEU 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            50,
+            58
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/m5UBLK4dEU",
+          "expanded_url": "https://youtu.be/8ZCsvtaXtO4",
+          "display_url": "youtu.be/8ZCsvtaXtO4",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 06 11:40:42 +0000 2017",
+    "id": 872055645641465857,
+    "id_str": "872055645641465857",
+    "text": "夏天來了⋯⋯ #summeriscoming #悲報",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "summeriscoming",
+          "indices": [
+            7,
+            22
+          ]
+        },
+        {
+          "text": "悲報",
+          "indices": [
+            23,
+            26
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jun 06 04:05:06 +0000 2017",
     "id": 871940991678169088,
     "id_str": "871940991678169088",
