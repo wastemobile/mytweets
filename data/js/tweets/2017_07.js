@@ -1,5 +1,170 @@
 Grailbird.data.tweets_2017_07 = [
   {
+    "created_at": "Sat Jul 01 08:37:22 +0000 2017",
+    "id": 881069204295696384,
+    "id_str": "881069204295696384",
+    "text": "@khootiatling 感謝！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "khootiatling",
+          "name": "Khóo Tiat-lîng",
+          "id": 1601325775,
+          "id_str": "1601325775",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 881067401218899970,
+    "in_reply_to_status_id_str": "881067401218899970",
+    "in_reply_to_user_id": 1601325775,
+    "in_reply_to_user_id_str": "1601325775",
+    "in_reply_to_screen_name": "khootiatling",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Jul 01 08:22:37 +0000 2017",
+    "id": 881065493834063872,
+    "id_str": "881065493834063872",
+    "text": "@khootiatling 這本是⋯⋯？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "khootiatling",
+          "name": "Khóo Tiat-lîng",
+          "id": 1601325775,
+          "id_str": "1601325775",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 881056449782202369,
+    "in_reply_to_status_id_str": "881056449782202369",
+    "in_reply_to_user_id": 1601325775,
+    "in_reply_to_user_id_str": "1601325775",
+    "in_reply_to_screen_name": "khootiatling",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jul 01 01:51:31 +0000 2017",
+    "id": 880967068861911041,
+    "id_str": "880967068861911041",
+    "text": "“媒體創業不是新聞外包” by 陳順孝 https://t.co/SMIVFE9xGu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SMIVFE9xGu",
+          "expanded_url": "https://axiao.tw/media-2c30f36d7a12",
+          "display_url": "axiao.tw/media-2c30f36d…",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jul 01 01:18:43 +0000 2017",
     "id": 880958816342253568,
     "id_str": "880958816342253568",
