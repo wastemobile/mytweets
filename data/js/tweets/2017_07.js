@@ -1,5 +1,184 @@
 Grailbird.data.tweets_2017_07 = [
   {
+    "created_at": "Mon Jul 03 01:48:03 +0000 2017",
+    "id": 881690974430167040,
+    "id_str": "881690974430167040",
+    "text": "捷運滿滿的年輕人，暑假。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 02 15:51:34 +0000 2017",
+    "id": 881540861384773636,
+    "id_str": "881540861384773636",
+    "text": "1961年7月2號，六十一歲的海明威終結了自己的生命。 https://t.co/jcPiMStCDO https://t.co/3IXiTLfDt0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jcPiMStCDO",
+          "expanded_url": "http://www.noshelfrequired.com/this-week-in-literature-and-arts-20/",
+          "display_url": "noshelfrequired.com/this-week-in-l…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 881540851201056769,
+          "id_str": "881540851201056769",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/DDvcu8rVoAExWTb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DDvcu8rVoAExWTb.jpg",
+          "url": "https://t.co/3IXiTLfDt0",
+          "display_url": "pic.twitter.com/3IXiTLfDt0",
+          "expanded_url": "https://twitter.com/wastemobile/status/881540861384773636/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 555,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 788,
+              "h": 965,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 788,
+              "h": 965,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 881540851201056769,
+          "id_str": "881540851201056769",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/DDvcu8rVoAExWTb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DDvcu8rVoAExWTb.jpg",
+          "url": "https://t.co/3IXiTLfDt0",
+          "display_url": "pic.twitter.com/3IXiTLfDt0",
+          "expanded_url": "https://twitter.com/wastemobile/status/881540861384773636/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 555,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 788,
+              "h": 965,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 788,
+              "h": 965,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jul 02 14:35:46 +0000 2017",
     "id": 881521788382871552,
     "id_str": "881521788382871552",
