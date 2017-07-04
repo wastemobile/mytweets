@@ -1,5 +1,661 @@
 Grailbird.data.tweets_2017_07 = [
   {
+    "created_at": "Tue Jul 04 08:33:11 +0000 2017",
+    "id": 882155314103017474,
+    "id_str": "882155314103017474",
+    "text": "BiB/i 的縱書真漂亮～ https://t.co/TWGnGkMSDk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TWGnGkMSDk",
+          "expanded_url": "https://twitter.com/hf_Pi/status/882120873318113281",
+          "display_url": "twitter.com/hf_Pi/status/8…",
+          "indices": [
+            14,
+            37
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 882120873318113281,
+    "quoted_status_id_str": "882120873318113281",
+    "quoted_status": {
+      "created_at": "Tue Jul 04 06:16:19 +0000 2017",
+      "id": 882120873318113281,
+      "id_str": "882120873318113281",
+      "text": "マーガリンとライ麦パン宣言　サンプル - 片倉青一 - 青聿書房 | BiB/i https://t.co/Yg290mGMdu #bibipub\n\n今回も表紙やりました。よろしくお願いします。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "bibipub",
+            "indices": [
+              65,
+              73
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Yg290mGMdu",
+            "expanded_url": "http://planets-journal.info/bibi/i/?book=pj02sample",
+            "display_url": "planets-journal.info/bibi/i/?book=p…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 157266173,
+        "id_str": "157266173",
+        "name": "Pi-",
+        "screen_name": "hf_Pi",
+        "location": "",
+        "description": "ものすごく犬派です。アイコンは @tawachiko 先生のかわいいヒツヂさんです。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 92,
+        "friends_count": 76,
+        "listed_count": 7,
+        "created_at": "Sat Jun 19 09:25:15 +0000 2010",
+        "favourites_count": 2379,
+        "utc_offset": 32400,
+        "time_zone": "Tokyo",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40073,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C2C9CC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2638345355/82a138f62b0852431b626ad9cd4b3fec_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2638345355/82a138f62b0852431b626ad9cd4b3fec_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/157266173/1462346756",
+        "profile_link_color": "70707A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FEFAFC",
+        "profile_text_color": "343D39",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Jul 04 08:13:27 +0000 2017",
+    "id": 882150350429368320,
+    "id_str": "882150350429368320",
+    "text": "其實我還是緊張得有點慌亂吧⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 04 03:16:29 +0000 2017",
+    "id": 882075617226702848,
+    "id_str": "882075617226702848",
+    "text": "這也降得太多了，建議先回頭重新談談工資，否則每一則回覆都讓人看到心酸，於心何忍。 https://t.co/LA8HW8uMcz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LA8HW8uMcz",
+          "expanded_url": "https://twitter.com/bgzh1605115/status/881440709215100928",
+          "display_url": "twitter.com/bgzh1605115/st…",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 881440709215100928,
+    "quoted_status_id_str": "881440709215100928",
+    "quoted_status": {
+      "created_at": "Sun Jul 02 09:13:36 +0000 2017",
+      "id": 881440709215100928,
+      "id_str": "881440709215100928",
+      "text": "现在通货膨胀这么厉害，五毛工资不仅没涨反而降到三毛了。好惨，同情广大五毛一秒钟 https://t.co/EomfCdyTyq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 881440705280851968,
+            "id_str": "881440705280851968",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/DDuBpsDVwAAOdIo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DDuBpsDVwAAOdIo.jpg",
+            "url": "https://t.co/EomfCdyTyq",
+            "display_url": "pic.twitter.com/EomfCdyTyq",
+            "expanded_url": "https://twitter.com/bgzh1605115/status/881440709215100928/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 881440705280851968,
+            "id_str": "881440705280851968",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/DDuBpsDVwAAOdIo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DDuBpsDVwAAOdIo.jpg",
+            "url": "https://t.co/EomfCdyTyq",
+            "display_url": "pic.twitter.com/EomfCdyTyq",
+            "expanded_url": "https://twitter.com/bgzh1605115/status/881440709215100928/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3148062650,
+        "id_str": "3148062650",
+        "name": "伯光中鶴",
+        "screen_name": "bgzh1605115",
+        "location": "日本 埼玉",
+        "description": "北支那で生まれた呉越人·留学生·右翼·反共·反中·反ムスリム·皇協軍·アジア主義者·中国に侵略された各民族の独立運動を支持し 大東亜共栄圏の再建に憧れている 日本万歳！天皇陛下万歳！呉越民族独立万歳！アジア自由解放万歳！支那鬼畜を倒せ！",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 469,
+        "friends_count": 118,
+        "listed_count": 5,
+        "created_at": "Fri Apr 10 13:28:22 +0000 2015",
+        "favourites_count": 23,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1657,
+        "lang": "zh-CN",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641439781591760896/G4fLZk5I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/641439781591760896/G4fLZk5I_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3148062650/1441730673",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 04 02:41:25 +0000 2017",
+    "id": 882066791622516736,
+    "id_str": "882066791622516736",
+    "text": "RT @ruanyf: 《ES6 标准入门（第三版）》的书稿交给出版社了，预计下半年问世。\n\n内容覆盖所有ES2017新增语法和所有Stage 3的提案，包括非常抽象的SharedArrayBuffer和 Atomics对象。全书开源，现在就可以免费阅读。https://t.c…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ruanyf",
+          "name": "ruanyf",
+          "id": 1580781,
+          "id_str": "1580781",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jul 04 02:38:32 +0000 2017",
+      "id": 882066065173364740,
+      "id_str": "882066065173364740",
+      "text": "《ES6 标准入门（第三版）》的书稿交给出版社了，预计下半年问世。\n\n内容覆盖所有ES2017新增语法和所有Stage 3的提案，包括非常抽象的SharedArrayBuffer和 Atomics对象。全书开源，现在就可以免费阅读… https://t.co/1tcVDrHqDM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1tcVDrHqDM",
+            "expanded_url": "https://twitter.com/i/web/status/882066065173364740",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1580781,
+        "id_str": "1580781",
+        "name": "ruanyf",
+        "screen_name": "ruanyf",
+        "location": "Shanghai, China",
+        "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+        "url": "http://t.co/fw8pEsBuak",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/fw8pEsBuak",
+                "expanded_url": "http://www.ruanyifeng.com",
+                "display_url": "ruanyifeng.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 42099,
+        "friends_count": 367,
+        "listed_count": 652,
+        "created_at": "Tue Mar 20 02:53:02 +0000 2007",
+        "favourites_count": 8879,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2574,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10120417/3151620623068.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10120417/3151620623068.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580781/1355537048",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 31,
+      "favorite_count": 95,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 04 01:33:10 +0000 2017",
+    "id": 882049614790119424,
+    "id_str": "882049614790119424",
+    "text": "reMarkable 放出三段新的實機操作畫面。可惡，好想要！ https://t.co/RWaqm6webr 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            59,
+            67
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RWaqm6webr",
+          "expanded_url": "https://youtu.be/ctYT69EZeHw",
+          "display_url": "youtu.be/ctYT69EZeHw",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jul 03 01:48:03 +0000 2017",
     "id": 881690974430167040,
     "id_str": "881690974430167040",
