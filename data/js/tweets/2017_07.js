@@ -1,5 +1,464 @@
 Grailbird.data.tweets_2017_07 = [
   {
+    "created_at": "Wed Jul 12 03:09:27 +0000 2017",
+    "id": 884972946933948416,
+    "id_str": "884972946933948416",
+    "text": "〈網交破日星紀錄 E奶影后目標百人斬〉\n\n根據這種下標法，推特真是個淫亂的地方無誤，大家還是別來了。 https://t.co/MkZmJmf9g9 https://t.co/TF4L0Zr2bX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MkZmJmf9g9",
+          "expanded_url": "http://ent.ltn.com.tw/news/breakingnews/2129026",
+          "display_url": "ent.ltn.com.tw/news/breakingn…",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 884972936959991808,
+          "id_str": "884972936959991808",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/DEgOModVoAAS_c-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DEgOModVoAAS_c-.jpg",
+          "url": "https://t.co/TF4L0Zr2bX",
+          "display_url": "pic.twitter.com/TF4L0Zr2bX",
+          "expanded_url": "https://twitter.com/wastemobile/status/884972946933948416/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 544,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 884972936959991808,
+          "id_str": "884972936959991808",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/DEgOModVoAAS_c-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DEgOModVoAAS_c-.jpg",
+          "url": "https://t.co/TF4L0Zr2bX",
+          "display_url": "pic.twitter.com/TF4L0Zr2bX",
+          "expanded_url": "https://twitter.com/wastemobile/status/884972946933948416/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 544,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 12 02:14:50 +0000 2017",
+    "id": 884959204968062976,
+    "id_str": "884959204968062976",
+    "text": "RT @hao520: 台灣人最自豪的一直都是佔公共資源的便宜啊。看看那些夜市、小吃店、機車行，諸如此類。甚至廢水就直接倒水溝。還有那些佔據公園涼亭泡一整天茶的。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hao520",
+          "name": "Chih-Hao Tsai",
+          "id": 13925232,
+          "id_str": "13925232",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 12 02:14:00 +0000 2017",
+      "id": 884958995550580736,
+      "id_str": "884958995550580736",
+      "text": "台灣人最自豪的一直都是佔公共資源的便宜啊。看看那些夜市、小吃店、機車行，諸如此類。甚至廢水就直接倒水溝。還有那些佔據公園涼亭泡一整天茶的。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 13925232,
+        "id_str": "13925232",
+        "name": "Chih-Hao Tsai",
+        "screen_name": "hao520",
+        "location": "Limbo",
+        "description": "A cognitive psychologist in limbo",
+        "url": "http://t.co/xbtBQp3L1e",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/xbtBQp3L1e",
+                "expanded_url": "http://taiwan.chtsai.org/",
+                "display_url": "taiwan.chtsai.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5996,
+        "friends_count": 187,
+        "listed_count": 171,
+        "created_at": "Mon Feb 25 02:59:38 +0000 2008",
+        "favourites_count": 29,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16284,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/37846301/iss007e14883a.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/37846301/iss007e14883a.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/871612707677417473/YaoS2vGT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/871612707677417473/YaoS2vGT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13925232/1353650553",
+        "profile_link_color": "254B99",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 12 00:14:14 +0000 2017",
+    "id": 884928855068299264,
+    "id_str": "884928855068299264",
+    "text": "肥美依舊。 https://t.co/mozoZc4GOG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 884928834398601216,
+          "id_str": "884928834398601216",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DEfmFhnUQAAHjii.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DEfmFhnUQAAHjii.jpg",
+          "url": "https://t.co/mozoZc4GOG",
+          "display_url": "pic.twitter.com/mozoZc4GOG",
+          "expanded_url": "https://twitter.com/wastemobile/status/884928855068299264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2001,
+              "h": 2001,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 884928834398601216,
+          "id_str": "884928834398601216",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/DEfmFhnUQAAHjii.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DEfmFhnUQAAHjii.jpg",
+          "url": "https://t.co/mozoZc4GOG",
+          "display_url": "pic.twitter.com/mozoZc4GOG",
+          "expanded_url": "https://twitter.com/wastemobile/status/884928855068299264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2001,
+              "h": 2001,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 11 21:50:39 +0000 2017",
+    "id": 884892718110883840,
+    "id_str": "884892718110883840",
+    "text": "被惡夢驚醒。\n\n一場好大好大的喪禮，所有我認識、認識我、卻不知道認不認識她的人好像都出席了，整個會場沒有一絲哀傷，滿滿只有憤怒。不停地講著話，在夢裡都覺得口乾舌燥。騎著年輕時擁有的那台 YAMAHA 越野機車逃離，加速之後才發現沒有煞車⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jul 11 14:31:49 +0000 2017",
     "id": 884782282099220481,
     "id_str": "884782282099220481",
