@@ -1,5 +1,655 @@
 Grailbird.data.tweets_2017_07 = [
   {
+    "created_at": "Fri Jul 14 17:06:58 +0000 2017",
+    "id": 885908492187578370,
+    "id_str": "885908492187578370",
+    "text": "Federer 這場球真辛苦啊⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 14 14:52:39 +0000 2017",
+    "id": 885874691419774976,
+    "id_str": "885874691419774976",
+    "text": "RT @badiucao: #badiucao cartoon 【Final Freedom】#RIPLiuXiaobo #LIiuXiaobo\n#巴丢草 漫画 【一个自由的人】送给 #刘晓波 最后的漫画 https://t.co/W7FoxV6KYf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "badiucao",
+          "indices": [
+            14,
+            23
+          ]
+        },
+        {
+          "text": "RIPLiuXiaobo",
+          "indices": [
+            47,
+            60
+          ]
+        },
+        {
+          "text": "LIiuXiaobo",
+          "indices": [
+            61,
+            72
+          ]
+        },
+        {
+          "text": "巴丢草",
+          "indices": [
+            73,
+            77
+          ]
+        },
+        {
+          "text": "刘晓波",
+          "indices": [
+            92,
+            96
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "badiucao",
+          "name": "巴丢草  Badiucao",
+          "id": 267695291,
+          "id_str": "267695291",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 885493716907040768,
+          "id_str": "885493716907040768",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/DEnn2A8VoAA-Ws6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DEnn2A8VoAA-Ws6.jpg",
+          "url": "https://t.co/W7FoxV6KYf",
+          "display_url": "pic.twitter.com/W7FoxV6KYf",
+          "expanded_url": "https://twitter.com/badiucao/status/885494883653255168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1124,
+              "h": 1500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 899,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 885494883653255168,
+          "source_status_id_str": "885494883653255168",
+          "source_user_id": 267695291,
+          "source_user_id_str": "267695291"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 885493716907040768,
+          "id_str": "885493716907040768",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/DEnn2A8VoAA-Ws6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DEnn2A8VoAA-Ws6.jpg",
+          "url": "https://t.co/W7FoxV6KYf",
+          "display_url": "pic.twitter.com/W7FoxV6KYf",
+          "expanded_url": "https://twitter.com/badiucao/status/885494883653255168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1124,
+              "h": 1500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 899,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 885494883653255168,
+          "source_status_id_str": "885494883653255168",
+          "source_user_id": 267695291,
+          "source_user_id_str": "267695291"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 13 13:43:26 +0000 2017",
+      "id": 885494883653255168,
+      "id_str": "885494883653255168",
+      "text": "#badiucao cartoon 【Final Freedom】#RIPLiuXiaobo #LIiuXiaobo\n#巴丢草 漫画 【一个自由的人】送给 #刘晓波 最后的漫画 https://t.co/W7FoxV6KYf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "badiucao",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "RIPLiuXiaobo",
+            "indices": [
+              33,
+              46
+            ]
+          },
+          {
+            "text": "LIiuXiaobo",
+            "indices": [
+              47,
+              58
+            ]
+          },
+          {
+            "text": "巴丢草",
+            "indices": [
+              59,
+              63
+            ]
+          },
+          {
+            "text": "刘晓波",
+            "indices": [
+              78,
+              82
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 885493716907040768,
+            "id_str": "885493716907040768",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/DEnn2A8VoAA-Ws6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DEnn2A8VoAA-Ws6.jpg",
+            "url": "https://t.co/W7FoxV6KYf",
+            "display_url": "pic.twitter.com/W7FoxV6KYf",
+            "expanded_url": "https://twitter.com/badiucao/status/885494883653255168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1124,
+                "h": 1500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 899,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 885493716907040768,
+            "id_str": "885493716907040768",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/DEnn2A8VoAA-Ws6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DEnn2A8VoAA-Ws6.jpg",
+            "url": "https://t.co/W7FoxV6KYf",
+            "display_url": "pic.twitter.com/W7FoxV6KYf",
+            "expanded_url": "https://twitter.com/badiucao/status/885494883653255168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1124,
+                "h": 1500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 899,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 267695291,
+        "id_str": "267695291",
+        "name": "巴丢草  Badiucao",
+        "screen_name": "badiucao",
+        "location": "",
+        "description": "Chinese Artist based in Melbourne / Political Cartoonist for @CDT/ FreeSpeech & Humanrights / Commission&Interview welcome 视觉艺术 /CDT漫画师 /插画 /欢迎采访 约稿",
+        "url": "https://t.co/ElEMRSKhOr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ElEMRSKhOr",
+                "expanded_url": "http://badiucao.com/",
+                "display_url": "badiucao.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 26276,
+        "friends_count": 5445,
+        "listed_count": 281,
+        "created_at": "Thu Mar 17 11:22:49 +0000 2011",
+        "favourites_count": 7802,
+        "utc_offset": 34200,
+        "time_zone": "Adelaide",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 79639,
+        "lang": "zh-CN",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439264796/____.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439264796/____.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3473285548/b198f85d10f8cefe75604978594a065f_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267695291/1415600158",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 389,
+      "favorite_count": 391,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 389,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 14 13:49:04 +0000 2017",
+    "id": 885858687700443136,
+    "id_str": "885858687700443136",
+    "text": "Kindle 就算沒書讀，還可以當英文學習工具，怎麼樣也不至於沒用，因此字典、單字工具等都很重要，真不是隨便搞個閱讀器就行的。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 14 13:29:24 +0000 2017",
+    "id": 885853740682457088,
+    "id_str": "885853740682457088",
+    "text": "Craid Mod 網站上這 Podcast Transcript 真不錯，怎麼做到的呀？ https://t.co/9xKNGZEKVI https://t.co/UwAzV1GTqv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9xKNGZEKVI",
+          "expanded_url": "https://craigmod.com/onmargins/001/",
+          "display_url": "craigmod.com/onmargins/001/",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 885853714505842688,
+          "id_str": "885853714505842688",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/DEsvQogUwAADCzz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DEsvQogUwAADCzz.jpg",
+          "url": "https://t.co/UwAzV1GTqv",
+          "display_url": "pic.twitter.com/UwAzV1GTqv",
+          "expanded_url": "https://twitter.com/wastemobile/status/885853740682457088/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1500,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 885853714505842688,
+          "id_str": "885853714505842688",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/DEsvQogUwAADCzz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DEsvQogUwAADCzz.jpg",
+          "url": "https://t.co/UwAzV1GTqv",
+          "display_url": "pic.twitter.com/UwAzV1GTqv",
+          "expanded_url": "https://twitter.com/wastemobile/status/885853740682457088/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1500,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 885853715713802241,
+          "id_str": "885853715713802241",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/DEsvQtAUwAECDAM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DEsvQtAUwAECDAM.jpg",
+          "url": "https://t.co/UwAzV1GTqv",
+          "display_url": "pic.twitter.com/UwAzV1GTqv",
+          "expanded_url": "https://twitter.com/wastemobile/status/885853740682457088/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 674,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1189,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1490,
+              "h": 1504,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Fri Jul 14 12:48:23 +0000 2017",
     "id": 885843417317621764,
     "id_str": "885843417317621764",
