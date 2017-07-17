@@ -1,5 +1,904 @@
 Grailbird.data.tweets_2017_07 = [
   {
+    "created_at": "Mon Jul 17 14:35:08 +0000 2017",
+    "id": 886957443988594688,
+    "id_str": "886957443988594688",
+    "text": "「即使劇本文字量龐大，觀眾還是可以從角色直白的情緒表現上找到切入點，進而跟戲劇產生連結，不同階級的角色之間無法理解彼此的生活樣態，一轉而成當代人無法同理、瞭解彼此的困境。」國藝會線上誌在採訪中如此評析《艾玲》… https://t.co/pD757kyzqu",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pD757kyzqu",
+          "expanded_url": "https://twitter.com/i/web/status/886957443988594688",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jul 17 12:06:38 +0000 2017",
+    "id": 886920075457961984,
+    "id_str": "886920075457961984",
+    "text": "電影《百老匯風流記》的女主角是名應召女郎，她稱呼自己的職業是⋯⋯繆思。🤔",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jul 17 07:21:02 +0000 2017",
+    "id": 886848199918407681,
+    "id_str": "886848199918407681",
+    "text": "目前只找到這個備份 Twitter DM 的工具，下載解壓後用終端機執行、輸入帳號密碼，連線載完就是分對象別的許多純文字檔。 https://t.co/pC7zduQxbr #note",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            87,
+            92
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pC7zduQxbr",
+          "expanded_url": "https://github.com/Mincka/DMArchiver",
+          "display_url": "github.com/Mincka/DMArchi…",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jul 17 04:17:53 +0000 2017",
+    "id": 886802109395423234,
+    "id_str": "886802109395423234",
+    "text": "Apple Music 沒有，有辦法的快去幫忙喬一下。 https://t.co/xpzU4TvMVI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xpzU4TvMVI",
+          "expanded_url": "https://twitter.com/OOBE/status/886801336636891137",
+          "display_url": "twitter.com/OOBE/status/88…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 886801336636891137,
+    "quoted_status_id_str": "886801336636891137",
+    "quoted_status": {
+      "created_at": "Mon Jul 17 04:14:49 +0000 2017",
+      "id": 886801336636891137,
+      "id_str": "886801336636891137",
+      "text": "陳明章《生活會微笑》專輯太棒，沒聽過的快去找來聽。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4496321,
+        "id_str": "4496321",
+        "name": "OOBE",
+        "screen_name": "OOBE",
+        "location": "Taiwan",
+        "description": "「懂得太多的人，被心眼絆倒，在計較間迷走打轉」",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 11476,
+        "friends_count": 1940,
+        "listed_count": 183,
+        "created_at": "Fri Apr 13 13:16:07 +0000 2007",
+        "favourites_count": 9821,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 67947,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "798058",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/506148343068643328/9w8OciLt.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/506148343068643328/9w8OciLt.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/880797097867464705/xySuqgRQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/880797097867464705/xySuqgRQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4496321/1498834571",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "AA4D73",
+        "profile_text_color": "F87364",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jul 17 03:29:38 +0000 2017",
+    "id": 886789965463527424,
+    "id_str": "886789965463527424",
+    "text": "RT @artbookps1: This week’s @NYMag broadcasts scientists’ ever-growing fears. Enjoy the planet while you can w. \"Whole Earth Field Guide\" f…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "artbookps1",
+          "name": "artbook @ MoMA PS1",
+          "id": 74740964,
+          "id_str": "74740964",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "NYMag",
+          "name": "New York Magazine",
+          "id": 45564482,
+          "id_str": "45564482",
+          "indices": [
+            28,
+            34
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jul 16 18:41:56 +0000 2017",
+      "id": 886657167801057281,
+      "id_str": "886657167801057281",
+      "text": "This week’s @NYMag broadcasts scientists’ ever-growing fears. Enjoy the planet while you can w. \"Whole Earth Field… https://t.co/qjmOV1EaHK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "NYMag",
+            "name": "New York Magazine",
+            "id": 45564482,
+            "id_str": "45564482",
+            "indices": [
+              12,
+              18
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qjmOV1EaHK",
+            "expanded_url": "https://twitter.com/i/web/status/886657167801057281",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 74740964,
+        "id_str": "74740964",
+        "name": "artbook @ MoMA PS1",
+        "screen_name": "artbookps1",
+        "location": "Long Island City, NY",
+        "description": "The artbook @ MoMA PS1 Bookstore and Magazine Store are the most vibrant source for cutting-edge contemporary art books and magazines. Located inside MoMA PS1.",
+        "url": "https://t.co/IrHB2C1EaI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/IrHB2C1EaI",
+                "expanded_url": "http://www.artbook.com/artbookps1.html",
+                "display_url": "artbook.com/artbookps1.html",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8523,
+        "friends_count": 561,
+        "listed_count": 209,
+        "created_at": "Wed Sep 16 14:18:01 +0000 2009",
+        "favourites_count": 2765,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4931,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F5F5",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000030396754/719aefefb4a7f10936785347955039cc.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000030396754/719aefefb4a7f10936785347955039cc.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000064917414/5fd0cd82b2912ad09f4755a8ed148f1b_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000064917414/5fd0cd82b2912ad09f4755a8ed148f1b_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74740964/1436477196",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 6,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 16:51:47 +0000 2017",
+    "id": 886629448295923712,
+    "id_str": "886629448295923712",
+    "text": "真沒想到「一条」居然規模這麼大了⋯⋯ https://t.co/aOerhjGkvz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aOerhjGkvz",
+          "expanded_url": "https://twitter.com/bestguy/status/886615856574287876",
+          "display_url": "twitter.com/bestguy/status…",
+          "indices": [
+            19,
+            42
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 886615856574287876,
+    "quoted_status_id_str": "886615856574287876",
+    "quoted_status": {
+      "created_at": "Sun Jul 16 15:57:47 +0000 2017",
+      "id": 886615856574287876,
+      "id_str": "886615856574287876",
+      "text": "【商周】8個中年大叔　靠老雜誌靈魂網路暴紅│TVBS新聞網 https://t.co/Jglz0POnAx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Jglz0POnAx",
+            "expanded_url": "http://ift.tt/2tXI13j",
+            "display_url": "ift.tt/2tXI13j",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6853042,
+        "id_str": "6853042",
+        "name": "Charles, 老查",
+        "screen_name": "bestguy",
+        "location": "Taipei",
+        "description": "在網路公司上班﹐沒事讀讀書、拍拍照、做做模型、收集玩具與老相機﹐愛讀村上春樹與卜洛克",
+        "url": "https://t.co/Xr5rnCZAzy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Xr5rnCZAzy",
+                "expanded_url": "http://about.me/bestguy",
+                "display_url": "about.me/bestguy",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 15019,
+        "friends_count": 1897,
+        "listed_count": 223,
+        "created_at": "Sat Jun 16 13:59:11 +0000 2007",
+        "favourites_count": 2232,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 52166,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/431378942251909121/aL0Y1wH9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/431378942251909121/aL0Y1wH9_normal.jpeg",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 16 16:30:24 +0000 2017",
+    "id": 886624065187794944,
+    "id_str": "886624065187794944",
+    "text": "小店｜一边看裸女，一边品美食，全世界独一无二的写真食堂 https://t.co/HGjKeFW4FP 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            55,
+            63
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HGjKeFW4FP",
+          "expanded_url": "https://youtu.be/N_21rjjaykM",
+          "display_url": "youtu.be/N_21rjjaykM",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 16 13:48:25 +0000 2017",
+    "id": 886583299505668096,
+    "id_str": "886583299505668096",
+    "text": "RT @bbcchinese: [精选回顾]  一位来自挪威的学家出书形容中国体制为＂完美的独裁＂。“习核心”显示中国正迈向毛泽东式的一人治国，称其意识形态令人民自觉控制自己的所思、所想、所为，在全球来说是独一无二。 \nhttps://t.co/3o5PamuzMw https…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bbcchinese",
+          "name": "BBC Chinese",
+          "id": 791197,
+          "id_str": "791197",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3o5PamuzMw",
+          "expanded_url": "http://bbc.in/2vqpgn9",
+          "display_url": "bbc.in/2vqpgn9",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jul 16 11:59:05 +0000 2017",
+      "id": 886555787413393408,
+      "id_str": "886555787413393408",
+      "text": "[精选回顾]  一位来自挪威的学家出书形容中国体制为＂完美的独裁＂。“习核心”显示中国正迈向毛泽东式的一人治国，称其意识形态令人民自觉控制自己的所思、所想、所为，在全球来说是独一无二。… https://t.co/1wde46kp6W",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1wde46kp6W",
+            "expanded_url": "https://twitter.com/i/web/status/886555787413393408",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 791197,
+        "id_str": "791197",
+        "name": "BBC Chinese",
+        "screen_name": "bbcchinese",
+        "location": "W1A 1AA, U.K.",
+        "description": "This is the official Twitter account for http://t.co/WIuH5wauhH, the BBC's Chinese language service. 这是BBC中文网的正式推特帐户。",
+        "url": "http://t.co/Gkq7tmfV5I",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Gkq7tmfV5I",
+                "expanded_url": "http://bbcchinese.com",
+                "display_url": "bbcchinese.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/WIuH5wauhH",
+                "expanded_url": "http://BBCChinese.com",
+                "display_url": "BBCChinese.com",
+                "indices": [
+                  41,
+                  63
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1005117,
+        "friends_count": 232,
+        "listed_count": 4272,
+        "created_at": "Fri Feb 23 17:46:38 +0000 2007",
+        "favourites_count": 73,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 114792,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/80121485/twitter_final_bg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/80121485/twitter_final_bg.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/577401658147115008/CoEHtODy_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/577401658147115008/CoEHtODy_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/791197/1442187004",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "003399",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 133,
+      "favorite_count": 156,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 133,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jul 16 07:39:24 +0000 2017",
     "id": 886490433240547329,
     "id_str": "886490433240547329",
