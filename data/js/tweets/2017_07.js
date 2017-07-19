@@ -1,5 +1,448 @@
 Grailbird.data.tweets_2017_07 = [
   {
+    "created_at": "Wed Jul 19 04:48:58 +0000 2017",
+    "id": 887534706207608833,
+    "id_str": "887534706207608833",
+    "text": "“Three Ways to Generate Ideas for Programming Side Projects” by @samjarman https://t.co/Vy4BOlyaNf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "samjarman",
+          "name": "Sam Jarman 👨🏼‍💻",
+          "id": 15242137,
+          "id_str": "15242137",
+          "indices": [
+            64,
+            74
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Vy4BOlyaNf",
+          "expanded_url": "https://hackernoon.com/three-ways-to-generate-ideas-for-programming-side-projects-34e640607ec3",
+          "display_url": "hackernoon.com/three-ways-to-…",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jul 19 02:52:10 +0000 2017",
+    "id": 887505311778471936,
+    "id_str": "887505311778471936",
+    "text": "RT @ETBlue: 「Mom~~ 布萊恩不讓我玩他的東西啦」 XD - B.C. &amp; Lowy: 超諷刺！3分鐘讓你了解國家金融體系是如何運作的 (中文字幕) https://t.co/0sVd1pZQt6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ETBlue",
+          "name": "ETBlue @ 台灣還沒建共和國",
+          "id": 23936214,
+          "id_str": "23936214",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0sVd1pZQt6",
+          "expanded_url": "http://forgetfulbc.blogspot.com/2017/07/financial.html",
+          "display_url": "forgetfulbc.blogspot.com/2017/07/financ…",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 19 02:44:37 +0000 2017",
+      "id": 887503415781113857,
+      "id_str": "887503415781113857",
+      "text": "「Mom~~ 布萊恩不讓我玩他的東西啦」 XD - B.C. &amp; Lowy: 超諷刺！3分鐘讓你了解國家金融體系是如何運作的 (中文字幕) https://t.co/0sVd1pZQt6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0sVd1pZQt6",
+            "expanded_url": "http://forgetfulbc.blogspot.com/2017/07/financial.html",
+            "display_url": "forgetfulbc.blogspot.com/2017/07/financ…",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23936214,
+        "id_str": "23936214",
+        "name": "ETBlue @ 台灣還沒建共和國",
+        "screen_name": "ETBlue",
+        "location": "Taiwan",
+        "description": "Facebook 是應酬，Google+ 是工作，Twitter 是生活",
+        "url": "http://t.co/oHHpm8NgyL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/oHHpm8NgyL",
+                "expanded_url": "http://etblue.blogspot.com/p/about.html",
+                "display_url": "etblue.blogspot.com/p/about.html",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2198,
+        "friends_count": 581,
+        "listed_count": 50,
+        "created_at": "Thu Mar 12 12:05:51 +0000 2009",
+        "favourites_count": 5149,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43442,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742031533364510729/UHc6GBpl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742031533364510729/UHc6GBpl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23936214/1463681843",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 18 14:34:15 +0000 2017",
+    "id": 887319611422588929,
+    "id_str": "887319611422588929",
+    "text": "RT @leapfaith1: 誠品時光 https://t.co/APvuqefUgP 這本書出版的時間點真是太巧了",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "leapfaith1",
+          "name": "leapfaith1",
+          "id": 241566755,
+          "id_str": "241566755",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/APvuqefUgP",
+          "expanded_url": "https://bookzone.cwgv.com.tw/books/details/BCC023",
+          "display_url": "bookzone.cwgv.com.tw/books/details/…",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jul 18 14:31:48 +0000 2017",
+      "id": 887318995354791936,
+      "id_str": "887318995354791936",
+      "text": "誠品時光 https://t.co/APvuqefUgP 這本書出版的時間點真是太巧了",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/APvuqefUgP",
+            "expanded_url": "https://bookzone.cwgv.com.tw/books/details/BCC023",
+            "display_url": "bookzone.cwgv.com.tw/books/details/…",
+            "indices": [
+              5,
+              28
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 241566755,
+        "id_str": "241566755",
+        "name": "leapfaith1",
+        "screen_name": "leapfaith1",
+        "location": "懶得回覆留言",
+        "description": "孤僻，這裡是我的樹洞，我來Twitter不是來聽你指教或交朋友的。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1632,
+        "friends_count": 1698,
+        "listed_count": 50,
+        "created_at": "Sat Jan 22 15:46:22 +0000 2011",
+        "favourites_count": 336,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24083,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1612682801/butter_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1612682801/butter_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/241566755/1401227848",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 18 14:07:52 +0000 2017",
+    "id": 887312971805769728,
+    "id_str": "887312971805769728",
+    "text": "世事無常。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Tue Jul 18 12:22:24 +0000 2017",
     "id": 887286431672029185,
     "id_str": "887286431672029185",
