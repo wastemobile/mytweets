@@ -1,5 +1,245 @@
 Grailbird.data.tweets_2017_07 = [
   {
+    "created_at": "Fri Jul 21 23:27:48 +0000 2017",
+    "id": 888541048464580608,
+    "id_str": "888541048464580608",
+    "text": "《秘密森林》真的蠻好看的呢。 #netflix",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "netflix",
+          "indices": [
+            15,
+            23
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 21 15:34:20 +0000 2017",
+    "id": 888421894117969920,
+    "id_str": "888421894117969920",
+    "text": "@Brecht 多看在 iOS 裡用 Apple 帳號充值書幣也能買書喔～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Brecht",
+          "name": "布大叔 😈",
+          "id": 724233,
+          "id_str": "724233",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 888420481140903937,
+    "in_reply_to_status_id_str": "888420481140903937",
+    "in_reply_to_user_id": 724233,
+    "in_reply_to_user_id_str": "724233",
+    "in_reply_to_screen_name": "Brecht",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 21 15:17:35 +0000 2017",
+    "id": 888417680759308288,
+    "id_str": "888417680759308288",
+    "text": "約翰・厄普代克的《兔子四部曲》，這種價格加上簡繁轉換實在讓人很難不下手。 https://t.co/YL66kBrT3h https://t.co/Yze3MMMxEb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YL66kBrT3h",
+          "expanded_url": "https://www.duokan.com/book/147389",
+          "display_url": "duokan.com/book/147389",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 888417670885801985,
+          "id_str": "888417670885801985",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/DFRLKiVUAAEnJA6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DFRLKiVUAAEnJA6.jpg",
+          "url": "https://t.co/Yze3MMMxEb",
+          "display_url": "pic.twitter.com/Yze3MMMxEb",
+          "expanded_url": "https://twitter.com/wastemobile/status/888417680759308288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 888417670885801985,
+          "id_str": "888417670885801985",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/DFRLKiVUAAEnJA6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DFRLKiVUAAEnJA6.jpg",
+          "url": "https://t.co/Yze3MMMxEb",
+          "display_url": "pic.twitter.com/Yze3MMMxEb",
+          "expanded_url": "https://twitter.com/wastemobile/status/888417680759308288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 256,
+              "h": 341,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jul 21 14:18:09 +0000 2017",
     "id": 888402722432495616,
     "id_str": "888402722432495616",
