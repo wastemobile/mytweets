@@ -1,5 +1,235 @@
 Grailbird.data.tweets_2017_07 = [
   {
+    "created_at": "Fri Jul 28 08:20:21 +0000 2017",
+    "id": 890849394781597697,
+    "id_str": "890849394781597697",
+    "text": "RT @PTTHOT: 劉曉波那一頁，在送到訂戶手上之前，被撕掉了...\n\n[爆卦] 中共開始撕時代雜誌了XD  https://t.co/yentPGzOtV https://t.co/doGVXQB67l",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "PTTHOT",
+          "name": "PTTHOT",
+          "id": 3067920715,
+          "id_str": "3067920715",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yentPGzOtV",
+          "expanded_url": "http://disp.cc/b/163-aa65",
+          "display_url": "disp.cc/b/163-aa65",
+          "indices": [
+            57,
+            80
+          ]
+        },
+        {
+          "url": "https://t.co/doGVXQB67l",
+          "expanded_url": "http://fb.me/74UqdFvG5",
+          "display_url": "fb.me/74UqdFvG5",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 28 06:04:37 +0000 2017",
+      "id": 890815234813771776,
+      "id_str": "890815234813771776",
+      "text": "劉曉波那一頁，在送到訂戶手上之前，被撕掉了...\n\n[爆卦] 中共開始撕時代雜誌了XD  https://t.co/yentPGzOtV https://t.co/doGVXQB67l",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yentPGzOtV",
+            "expanded_url": "http://disp.cc/b/163-aa65",
+            "display_url": "disp.cc/b/163-aa65",
+            "indices": [
+              45,
+              68
+            ]
+          },
+          {
+            "url": "https://t.co/doGVXQB67l",
+            "expanded_url": "http://fb.me/74UqdFvG5",
+            "display_url": "fb.me/74UqdFvG5",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3067920715,
+        "id_str": "3067920715",
+        "name": "PTTHOT",
+        "screen_name": "PTTHOT",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 370,
+        "friends_count": 172,
+        "listed_count": 6,
+        "created_at": "Sun Mar 08 08:51:55 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2496,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/574506187875446785/eaSTIt3M_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/574506187875446785/eaSTIt3M_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3067920715/1425862645",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 29,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 27 15:46:40 +0000 2017",
+    "id": 890599327667699712,
+    "id_str": "890599327667699712",
+    "text": "今天走了三家小七，都沒找到那款加了伏特加的維京海盜啤酒⋯⋯ #skoll",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "skoll",
+          "indices": [
+            30,
+            36
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jul 27 15:31:06 +0000 2017",
     "id": 890595409910874113,
     "id_str": "890595409910874113",
