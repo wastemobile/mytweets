@@ -1,5 +1,424 @@
 Grailbird.data.tweets_2017_08 = [
   {
+    "created_at": "Sun Aug 06 00:36:55 +0000 2017",
+    "id": 893994257152790528,
+    "id_str": "893994257152790528",
+    "text": "天氣真好。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 06 00:16:29 +0000 2017",
+    "id": 893989115468824578,
+    "id_str": "893989115468824578",
+    "text": "RT @remonwangxt: 未來的天安門 The future of Tiananmen Square https://t.co/In11Ne4xjH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "remonwangxt",
+          "name": "变态辣椒",
+          "id": 245354027,
+          "id_str": "245354027",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 893575811835580416,
+          "id_str": "893575811835580416",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/DGaed2xXUAA3mN1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DGaed2xXUAA3mN1.jpg",
+          "url": "https://t.co/In11Ne4xjH",
+          "display_url": "pic.twitter.com/In11Ne4xjH",
+          "expanded_url": "https://twitter.com/remonwangxt/status/893576024943886336/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 684,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 401,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 227,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 893576024943886336,
+          "source_status_id_str": "893576024943886336",
+          "source_user_id": 245354027,
+          "source_user_id_str": "245354027"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 893575811835580416,
+          "id_str": "893575811835580416",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/DGaed2xXUAA3mN1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DGaed2xXUAA3mN1.jpg",
+          "url": "https://t.co/In11Ne4xjH",
+          "display_url": "pic.twitter.com/In11Ne4xjH",
+          "expanded_url": "https://twitter.com/remonwangxt/status/893576024943886336/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 684,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 401,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 227,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 893576024943886336,
+          "source_status_id_str": "893576024943886336",
+          "source_user_id": 245354027,
+          "source_user_id_str": "245354027"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Aug 04 20:55:00 +0000 2017",
+      "id": 893576024943886336,
+      "id_str": "893576024943886336",
+      "text": "未來的天安門 The future of Tiananmen Square https://t.co/In11Ne4xjH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 893575811835580416,
+            "id_str": "893575811835580416",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/DGaed2xXUAA3mN1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DGaed2xXUAA3mN1.jpg",
+            "url": "https://t.co/In11Ne4xjH",
+            "display_url": "pic.twitter.com/In11Ne4xjH",
+            "expanded_url": "https://twitter.com/remonwangxt/status/893576024943886336/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 684,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 401,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 227,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 893575811835580416,
+            "id_str": "893575811835580416",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/DGaed2xXUAA3mN1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DGaed2xXUAA3mN1.jpg",
+            "url": "https://t.co/In11Ne4xjH",
+            "display_url": "pic.twitter.com/In11Ne4xjH",
+            "expanded_url": "https://twitter.com/remonwangxt/status/893576024943886336/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 684,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 401,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 227,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 245354027,
+        "id_str": "245354027",
+        "name": "变态辣椒",
+        "screen_name": "remonwangxt",
+        "location": "Arlington, VA",
+        "description": "变态辣椒 Freedom of Expression Awards 2017 winner 政治漫畫家 Graphic & Digital Artist😆 事務聯係remonwangxt@gmail.com",
+        "url": "https://t.co/OUfFTNHCiC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OUfFTNHCiC",
+                "expanded_url": "http://paypal.me/LimingWang1973",
+                "display_url": "paypal.me/LimingWang1973",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 289404,
+        "friends_count": 425,
+        "listed_count": 969,
+        "created_at": "Mon Jan 31 14:05:50 +0000 2011",
+        "favourites_count": 465,
+        "utc_offset": -28800,
+        "time_zone": "Alaska",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8460,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1630123218/03_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1630123218/03_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/245354027/1500570959",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 294,
+      "favorite_count": 554,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 294,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Aug 05 07:18:00 +0000 2017",
+    "id": 893732805259046912,
+    "id_str": "893732805259046912",
+    "text": "Kobo 的系統真不知是哪裡有問題，說獨家特賣 199 的書，輸入本日折扣碼後居然是用 194 元去打五折，很像傳統市場老闆價格隨便算、最後還抓把蔥送你。 #有富爸爸真好",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "有富爸爸真好",
+          "indices": [
+            78,
+            85
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Aug 04 14:00:38 +0000 2017",
     "id": 893471742676484096,
     "id_str": "893471742676484096",
