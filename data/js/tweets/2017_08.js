@@ -1,5 +1,328 @@
 Grailbird.data.tweets_2017_08 = [
   {
+    "created_at": "Tue Aug 08 11:34:26 +0000 2017",
+    "id": 894884502601818112,
+    "id_str": "894884502601818112",
+    "text": "RT @DonEvansWm: 心理忧郁和童年遭受的性侵害，跟“#性交后焦躁症”有轻微的正相关，与伴侣亲密程度不相关……\nnotes【关注你啪啪啪之后的情绪变化——#贤者时间 是怎么回事】https://t.co/t5FMCs7CR1 https://t.co/SoXABg0g…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "性交后焦躁症",
+          "indices": [
+            32,
+            39
+          ]
+        },
+        {
+          "text": "贤者时间",
+          "indices": [
+            82,
+            87
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DonEvansWm",
+          "name": "Don Evans",
+          "id": 435954378,
+          "id_str": "435954378",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t5FMCs7CR1",
+          "expanded_url": "https://www.facebook.com/notes/%E8%87%AA%E7%94%B1%E6%B8%AF-iyouport/%E5%85%B3%E6%B3%A8%E4%BD%A0%E5%95%AA%E5%95%AA%E5%95%AA%E4%B9%8B%E5%90%8E%E7%9A%84%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E8%B4%A4%E8%80%85%E6%97%B6%E9%97%B4%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B/1621945154503289/",
+          "display_url": "facebook.com/notes/%E8%87%A…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Aug 08 10:45:04 +0000 2017",
+      "id": 894872081426292736,
+      "id_str": "894872081426292736",
+      "text": "心理忧郁和童年遭受的性侵害，跟“#性交后焦躁症”有轻微的正相关，与伴侣亲密程度不相关……\nnotes【关注你啪啪啪之后的情绪变化——#贤者时间 是怎么回事】https://t.co/t5FMCs7CR1 https://t.co/SoXABg0gEk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "性交后焦躁症",
+            "indices": [
+              16,
+              23
+            ]
+          },
+          {
+            "text": "贤者时间",
+            "indices": [
+              66,
+              71
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/t5FMCs7CR1",
+            "expanded_url": "https://www.facebook.com/notes/%E8%87%AA%E7%94%B1%E6%B8%AF-iyouport/%E5%85%B3%E6%B3%A8%E4%BD%A0%E5%95%AA%E5%95%AA%E5%95%AA%E4%B9%8B%E5%90%8E%E7%9A%84%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E8%B4%A4%E8%80%85%E6%97%B6%E9%97%B4%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B/1621945154503289/",
+            "display_url": "facebook.com/notes/%E8%87%A…",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 894872069317443586,
+            "id_str": "894872069317443586",
+            "indices": [
+              102,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/DGs5Z-MVwAI7NJi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DGs5Z-MVwAI7NJi.jpg",
+            "url": "https://t.co/SoXABg0gEk",
+            "display_url": "pic.twitter.com/SoXABg0gEk",
+            "expanded_url": "https://twitter.com/DonEvansWm/status/894872081426292736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 640,
+                "h": 846,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 846,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 514,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 894872069317443586,
+            "id_str": "894872069317443586",
+            "indices": [
+              102,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/DGs5Z-MVwAI7NJi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DGs5Z-MVwAI7NJi.jpg",
+            "url": "https://t.co/SoXABg0gEk",
+            "display_url": "pic.twitter.com/SoXABg0gEk",
+            "expanded_url": "https://twitter.com/DonEvansWm/status/894872081426292736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 640,
+                "h": 846,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 846,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 514,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 435954378,
+        "id_str": "435954378",
+        "name": "Don Evans",
+        "screen_name": "DonEvansWm",
+        "location": "CA.",
+        "description": "＃filmmaker＃media ＃psychology ＃Depression  ＃author  #LGBTQ  Pirate Party.（贝带劲2.0）接受在线心理咨询，擅长ptsd、抑郁症、焦虑症、Sexual obsessions",
+        "url": "https://t.co/sE32bSV7KO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/sE32bSV7KO",
+                "expanded_url": "https://pao-pao.net/",
+                "display_url": "pao-pao.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 40309,
+        "friends_count": 721,
+        "listed_count": 355,
+        "created_at": "Tue Dec 13 16:37:12 +0000 2011",
+        "favourites_count": 1231,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 44670,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BD4FB6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623392086176325632/fqaFhyDk.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623392086176325632/fqaFhyDk.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/759048817626841094/W34oO705_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/759048817626841094/W34oO705_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/435954378/1501541386",
+        "profile_link_color": "352A32",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A8572C",
+        "profile_text_color": "6B5255",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 07 03:39:03 +0000 2017",
+    "id": 894402483799244800,
+    "id_str": "894402483799244800",
+    "text": "說個笑話，今天立秋。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Aug 06 00:36:55 +0000 2017",
     "id": 893994257152790528,
     "id_str": "893994257152790528",
