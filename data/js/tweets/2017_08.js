@@ -1,5 +1,496 @@
 Grailbird.data.tweets_2017_08 = [
   {
+    "created_at": "Wed Aug 09 12:00:42 +0000 2017",
+    "id": 895253500803792896,
+    "id_str": "895253500803792896",
+    "text": "把推友閒置的樹莓派集中一下，應該是台超級電腦了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 09 10:17:22 +0000 2017",
+    "id": 895227495984750593,
+    "id_str": "895227495984750593",
+    "text": "怎麼還沒有人發明一顆就飽藥丸啊⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 09 09:27:06 +0000 2017",
+    "id": 895214847029239808,
+    "id_str": "895214847029239808",
+    "text": "別再說 Raspberry Pi 沒用了！這篇〈給你滿滿的樹莓派教學、實作與應用大平台〉還真是無所不包。 https://t.co/K8yV7a3Wle https://t.co/uG9fcT3zIB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/K8yV7a3Wle",
+          "expanded_url": "http://blog.itist.tw/p/how-to-study-raspberry-pi.html",
+          "display_url": "blog.itist.tw/p/how-to-study…",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 895214834412789761,
+          "id_str": "895214834412789761",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/DGxxJhrVoAEPlhh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DGxxJhrVoAEPlhh.jpg",
+          "url": "https://t.co/uG9fcT3zIB",
+          "display_url": "pic.twitter.com/uG9fcT3zIB",
+          "expanded_url": "https://twitter.com/wastemobile/status/895214847029239808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 404,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 404,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 404,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 895214834412789761,
+          "id_str": "895214834412789761",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/DGxxJhrVoAEPlhh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DGxxJhrVoAEPlhh.jpg",
+          "url": "https://t.co/uG9fcT3zIB",
+          "display_url": "pic.twitter.com/uG9fcT3zIB",
+          "expanded_url": "https://twitter.com/wastemobile/status/895214847029239808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 404,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 404,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 404,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 09 06:14:59 +0000 2017",
+    "id": 895166497395544066,
+    "id_str": "895166497395544066",
+    "text": "大家都來聽黑膠呦～ https://t.co/YOd1DkZFLS https://t.co/plHCg5u5Qj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YOd1DkZFLS",
+          "expanded_url": "http://www.cup.com.hk/2017/08/09/millennials-vinyl-industry/",
+          "display_url": "cup.com.hk/2017/08/09/mil…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 895166481931149314,
+          "id_str": "895166481931149314",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DGxFLCpXoAI4LFJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DGxFLCpXoAI4LFJ.jpg",
+          "url": "https://t.co/plHCg5u5Qj",
+          "display_url": "pic.twitter.com/plHCg5u5Qj",
+          "expanded_url": "https://twitter.com/wastemobile/status/895166497395544066/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 801,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 801,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 895166481931149314,
+          "id_str": "895166481931149314",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/DGxFLCpXoAI4LFJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DGxFLCpXoAI4LFJ.jpg",
+          "url": "https://t.co/plHCg5u5Qj",
+          "display_url": "pic.twitter.com/plHCg5u5Qj",
+          "expanded_url": "https://twitter.com/wastemobile/status/895166497395544066/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 801,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 801,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 08 14:33:53 +0000 2017",
+    "id": 894929664803651584,
+    "id_str": "894929664803651584",
+    "text": "讀了《深度工作》（Deep Work，深度工作力）。 https://t.co/7u9vc3ncY9 https://t.co/Wj8bYXz4gu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7u9vc3ncY9",
+          "expanded_url": "https://book.douban.com/subject/27056409/",
+          "display_url": "book.douban.com/subject/270564…",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 894929652900175872,
+          "id_str": "894929652900175872",
+          "indices": [
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/DGttxxwUIAAqU8j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DGttxxwUIAAqU8j.jpg",
+          "url": "https://t.co/Wj8bYXz4gu",
+          "display_url": "pic.twitter.com/Wj8bYXz4gu",
+          "expanded_url": "https://twitter.com/wastemobile/status/894929664803651584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 303,
+              "h": 438,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 303,
+              "h": 438,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 303,
+              "h": 438,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 894929652900175872,
+          "id_str": "894929652900175872",
+          "indices": [
+            51,
+            74
+          ],
+          "media_url": "http://pbs.twimg.com/media/DGttxxwUIAAqU8j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DGttxxwUIAAqU8j.jpg",
+          "url": "https://t.co/Wj8bYXz4gu",
+          "display_url": "pic.twitter.com/Wj8bYXz4gu",
+          "expanded_url": "https://twitter.com/wastemobile/status/894929664803651584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 303,
+              "h": 438,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 303,
+              "h": 438,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 303,
+              "h": 438,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Aug 08 11:34:26 +0000 2017",
     "id": 894884502601818112,
     "id_str": "894884502601818112",
