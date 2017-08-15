@@ -1,5 +1,384 @@
 Grailbird.data.tweets_2017_08 = [
   {
+    "created_at": "Tue Aug 15 11:13:34 +0000 2017",
+    "id": 897415967294095360,
+    "id_str": "897415967294095360",
+    "text": "所以這樣估算一下，只要三個開關就能把整個台灣關掉，這實在太嗨了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 15 05:00:33 +0000 2017",
+    "id": 897322094630809601,
+    "id_str": "897322094630809601",
+    "text": "RT @xie107: #跪在真实 电梯： https://t.co/68oxVCXAxE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "跪在真实",
+          "indices": [
+            12,
+            17
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "xie107",
+          "name": "leica sennheiser",
+          "id": 28553943,
+          "id_str": "28553943",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 885854193277218817,
+          "id_str": "885854193277218817",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/DEsvsgEUMAEBS_X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DEsvsgEUMAEBS_X.jpg",
+          "url": "https://t.co/68oxVCXAxE",
+          "display_url": "pic.twitter.com/68oxVCXAxE",
+          "expanded_url": "https://twitter.com/xie107/status/885854232850571264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 1066,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1066,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 885854232850571264,
+          "source_status_id_str": "885854232850571264",
+          "source_user_id": 28553943,
+          "source_user_id_str": "28553943"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 885854193277218817,
+          "id_str": "885854193277218817",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/DEsvsgEUMAEBS_X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DEsvsgEUMAEBS_X.jpg",
+          "url": "https://t.co/68oxVCXAxE",
+          "display_url": "pic.twitter.com/68oxVCXAxE",
+          "expanded_url": "https://twitter.com/xie107/status/885854232850571264/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 1066,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1066,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 885854232850571264,
+          "source_status_id_str": "885854232850571264",
+          "source_user_id": 28553943,
+          "source_user_id_str": "28553943"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 14 13:31:22 +0000 2017",
+      "id": 885854232850571264,
+      "id_str": "885854232850571264",
+      "text": "#跪在真实 电梯： https://t.co/68oxVCXAxE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "跪在真实",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 885854193277218817,
+            "id_str": "885854193277218817",
+            "indices": [
+              10,
+              33
+            ],
+            "media_url": "http://pbs.twimg.com/media/DEsvsgEUMAEBS_X.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DEsvsgEUMAEBS_X.jpg",
+            "url": "https://t.co/68oxVCXAxE",
+            "display_url": "pic.twitter.com/68oxVCXAxE",
+            "expanded_url": "https://twitter.com/xie107/status/885854232850571264/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 800,
+                "h": 1066,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1066,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 885854193277218817,
+            "id_str": "885854193277218817",
+            "indices": [
+              10,
+              33
+            ],
+            "media_url": "http://pbs.twimg.com/media/DEsvsgEUMAEBS_X.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DEsvsgEUMAEBS_X.jpg",
+            "url": "https://t.co/68oxVCXAxE",
+            "display_url": "pic.twitter.com/68oxVCXAxE",
+            "expanded_url": "https://twitter.com/xie107/status/885854232850571264/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 800,
+                "h": 1066,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 1066,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 28553943,
+        "id_str": "28553943",
+        "name": "leica sennheiser",
+        "screen_name": "xie107",
+        "location": "CHINA",
+        "description": "雄性|大魔法师|focus on Photograph AKB48 TEKKEN 少女时代 柏木由纪命 steam喜+1党",
+        "url": "https://t.co/X4ak0HjUu7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/X4ak0HjUu7",
+                "expanded_url": "http://sennheiser.lofter.com/",
+                "display_url": "sennheiser.lofter.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 60438,
+        "friends_count": 114,
+        "listed_count": 501,
+        "created_at": "Fri Apr 03 12:42:38 +0000 2009",
+        "favourites_count": 29,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25300,
+        "lang": "zh-CN",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "098514",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/357163051/234.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/357163051/234.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/891465843736846336/vDkiVCsC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/891465843736846336/vDkiVCsC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28553943/1476957955",
+        "profile_link_color": "0F0E03",
+        "profile_sidebar_border_color": "0E0F0E",
+        "profile_sidebar_fill_color": "0B420F",
+        "profile_text_color": "B8EB11",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 33,
+      "favorite_count": 70,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Aug 13 07:26:32 +0000 2017",
     "id": 896634057940811776,
     "id_str": "896634057940811776",
