@@ -1,5 +1,753 @@
 Grailbird.data.tweets_2017_08 = [
   {
+    "created_at": "Fri Aug 18 15:45:01 +0000 2017",
+    "id": 898571442488356865,
+    "id_str": "898571442488356865",
+    "text": "國民甜心再突破尺度！上戶彩的不倫戀續章《晝顏》 https://t.co/55oix31WmK //全台「只」有六間戲院播放，怎麼那麼少？我也好想看。 https://t.co/tUpc2xRis3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/55oix31WmK",
+          "expanded_url": "https://www.gq.com.tw/entertainment/celebrities/content-33161.html",
+          "display_url": "gq.com.tw/entertainment/…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 898571424167731201,
+          "id_str": "898571424167731201",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/DHhd8w7VoAEp4au.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DHhd8w7VoAEp4au.jpg",
+          "url": "https://t.co/tUpc2xRis3",
+          "display_url": "pic.twitter.com/tUpc2xRis3",
+          "expanded_url": "https://twitter.com/wastemobile/status/898571442488356865/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 640,
+              "h": 896,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 486,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 896,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 898571424167731201,
+          "id_str": "898571424167731201",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/DHhd8w7VoAEp4au.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DHhd8w7VoAEp4au.jpg",
+          "url": "https://t.co/tUpc2xRis3",
+          "display_url": "pic.twitter.com/tUpc2xRis3",
+          "expanded_url": "https://twitter.com/wastemobile/status/898571442488356865/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 640,
+              "h": 896,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 486,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 896,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 18 10:46:21 +0000 2017",
+    "id": 898496281395331072,
+    "id_str": "898496281395331072",
+    "text": "《她們的百萬日圓》原來是個講如何能不擇手段讓作家的書賣出一百萬冊的奇妙故事啊!? #大誤 #netflix",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "大誤",
+          "indices": [
+            41,
+            44
+          ]
+        },
+        {
+          "text": "netflix",
+          "indices": [
+            45,
+            53
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 18 09:56:59 +0000 2017",
+    "id": 898483858017894401,
+    "id_str": "898483858017894401",
+    "text": "RT @iambitchbro: A片網站贊助《超感8人組》復拍　「多少錢隨便你用！」\nhttps://t.co/OUFfmXgqTq\n\nSense8有機會復活啦！！！！！！！！！！！！！！！！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "iambitchbro",
+          "name": "婊哥👄",
+          "id": 1580575956,
+          "id_str": "1580575956",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OUFfmXgqTq",
+          "expanded_url": "http://star.ettoday.net/news/991988?from=fb_et_star",
+          "display_url": "star.ettoday.net/news/991988?fr…",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Aug 18 09:06:42 +0000 2017",
+      "id": 898471205656776704,
+      "id_str": "898471205656776704",
+      "text": "A片網站贊助《超感8人組》復拍　「多少錢隨便你用！」\nhttps://t.co/OUFfmXgqTq\n\nSense8有機會復活啦！！！！！！！！！！！！！！！！",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OUFfmXgqTq",
+            "expanded_url": "http://star.ettoday.net/news/991988?from=fb_et_star",
+            "display_url": "star.ettoday.net/news/991988?fr…",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1580575956,
+        "id_str": "1580575956",
+        "name": "婊哥👄",
+        "screen_name": "iambitchbro",
+        "location": "",
+        "description": "想我嗎",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1262,
+        "friends_count": 329,
+        "listed_count": 7,
+        "created_at": "Tue Jul 09 15:07:59 +0000 2013",
+        "favourites_count": 3951,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9884,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/806109954213965824/-L-XWPiZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/806109954213965824/-L-XWPiZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580575956/1435286547",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 36,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 17 04:01:05 +0000 2017",
+    "id": 898031905664151552,
+    "id_str": "898031905664151552",
+    "text": "8/18-8/20，Code School 再度全站課程免費，瘋狂學習吧！ https://t.co/Hx27Ewmy5o",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Hx27Ewmy5o",
+          "expanded_url": "https://twitter.com/codeschool/status/898030720836395009",
+          "display_url": "twitter.com/codeschool/sta…",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 898030720836395009,
+    "quoted_status_id_str": "898030720836395009",
+    "retweet_count": 7,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 16 16:39:34 +0000 2017",
+    "id": 897860395456528384,
+    "id_str": "897860395456528384",
+    "text": "這⋯⋯ #誤觸正夯 https://t.co/EYqpo2guQN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "誤觸正夯",
+          "indices": [
+            4,
+            9
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EYqpo2guQN",
+          "expanded_url": "https://twitter.com/Muser/status/897816225941684225",
+          "display_url": "twitter.com/Muser/status/8…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 897816225941684225,
+    "quoted_status_id_str": "897816225941684225",
+    "quoted_status": {
+      "created_at": "Wed Aug 16 13:44:03 +0000 2017",
+      "id": 897816225941684225,
+      "id_str": "897816225941684225",
+      "text": "HBO accidentally broadcasts the next episode of Game of Thrones https://t.co/JpKccHYcE7 網路瘋傳冰與火第六集搶先看，因為西班牙員工誤觸播放按鈕、讓冰與火第六集提前四天播出，要收回也沒辦法了。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JpKccHYcE7",
+            "expanded_url": "https://buff.ly/2vIk9jw",
+            "display_url": "buff.ly/2vIk9jw",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 723353,
+        "id_str": "723353",
+        "name": "Muser",
+        "screen_name": "Muser",
+        "location": "PLUTO",
+        "description": "Self-talking one./無可跟隨、自言自語。",
+        "url": "http://t.co/wZw2dxfFlH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/wZw2dxfFlH",
+                "expanded_url": "http://metamuse.net",
+                "display_url": "metamuse.net",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1279,
+        "friends_count": 0,
+        "listed_count": 56,
+        "created_at": "Mon Jan 29 02:59:04 +0000 2007",
+        "favourites_count": 0,
+        "utc_offset": 32400,
+        "time_zone": "Tokyo",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8257,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/21679102/Copy_of_07a_copy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/21679102/Copy_of_07a_copy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/723353/1372216122",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 16,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 16 16:02:51 +0000 2017",
+    "id": 897851156629569537,
+    "id_str": "897851156629569537",
+    "text": "RT @ilya: 文化機構工作者迫切地需要新的「工具箱」（toolkit），包含著從政策、組織、治理、社會參與、網路連結到媒體、國際合作的各種研發工具。\n\n#白日思想勞動",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "白日思想勞動",
+          "indices": [
+            79,
+            86
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ilya",
+          "name": "Shih-Chieh Ilya Li",
+          "id": 77063,
+          "id_str": "77063",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Aug 16 16:01:00 +0000 2017",
+      "id": 897850688457146368,
+      "id_str": "897850688457146368",
+      "text": "文化機構工作者迫切地需要新的「工具箱」（toolkit），包含著從政策、組織、治理、社會參與、網路連結到媒體、國際合作的各種研發工具。\n\n#白日思想勞動",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "白日思想勞動",
+            "indices": [
+              69,
+              76
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 77063,
+        "id_str": "77063",
+        "name": "Shih-Chieh Ilya Li",
+        "screen_name": "ilya",
+        "location": "24.988622,121.552373",
+        "description": "Nocturnal wanderer in-between realities. \n無邊無岸難泊系....重劍不鋒，大巧不工",
+        "url": "https://t.co/a2jyqfjLP8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/a2jyqfjLP8",
+                "expanded_url": "http://about.me/ilyalee",
+                "display_url": "about.me/ilyalee",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4857,
+        "friends_count": 2839,
+        "listed_count": 207,
+        "created_at": "Mon Dec 18 09:20:44 +0000 2006",
+        "favourites_count": 11041,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26570,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/694898197483814913/B44y-JJf_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/694898197483814913/B44y-JJf_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/77063/1498033930",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Aug 16 14:16:10 +0000 2017",
     "id": 897824308998709249,
     "id_str": "897824308998709249",
