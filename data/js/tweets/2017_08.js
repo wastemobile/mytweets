@@ -1,5 +1,579 @@
 Grailbird.data.tweets_2017_08 = [
   {
+    "created_at": "Wed Aug 23 07:40:35 +0000 2017",
+    "id": 900261472982388736,
+    "id_str": "900261472982388736",
+    "text": "對社會上的虛偽行刑：再拒劇團迎來《春醒》 https://t.co/UEpUHl1wLA https://t.co/DvSW0QJl1v",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UEpUHl1wLA",
+          "expanded_url": "https://www.mplus.com.tw/article/1801",
+          "display_url": "mplus.com.tw/article/1801",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 900261459925454848,
+          "id_str": "900261459925454848",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/DH5fByvU0AA-FwW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DH5fByvU0AA-FwW.jpg",
+          "url": "https://t.co/DvSW0QJl1v",
+          "display_url": "pic.twitter.com/DvSW0QJl1v",
+          "expanded_url": "https://twitter.com/wastemobile/status/900261472982388736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 851,
+              "h": 315,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 851,
+              "h": 315,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 252,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 900261459925454848,
+          "id_str": "900261459925454848",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/DH5fByvU0AA-FwW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DH5fByvU0AA-FwW.jpg",
+          "url": "https://t.co/DvSW0QJl1v",
+          "display_url": "pic.twitter.com/DvSW0QJl1v",
+          "expanded_url": "https://twitter.com/wastemobile/status/900261472982388736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 851,
+              "h": 315,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 851,
+              "h": 315,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 252,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 23 07:36:38 +0000 2017",
+    "id": 900260477455945728,
+    "id_str": "900260477455945728",
+    "text": "〈如果你情願〉_再拒劇團年度音樂劇場《春醒》 https://t.co/jJjhaaINtx 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            50,
+            58
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jJjhaaINtx",
+          "expanded_url": "https://youtu.be/Ix7IyM_O4sU",
+          "display_url": "youtu.be/Ix7IyM_O4sU",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 22 15:24:55 +0000 2017",
+    "id": 900015935825694720,
+    "id_str": "900015935825694720",
+    "text": "与 PayPal 达成合作，WordPress 为工具类产品变现提供了全新思路 https://t.co/eZD43fvXPe https://t.co/wxk6XY8cSj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eZD43fvXPe",
+          "expanded_url": "http://36kr.com/p/5089285.html",
+          "display_url": "36kr.com/p/5089285.html",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 900015925692203009,
+          "id_str": "900015925692203009",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DH1_t0cUAAE9gnV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DH1_t0cUAAE9gnV.jpg",
+          "url": "https://t.co/wxk6XY8cSj",
+          "display_url": "pic.twitter.com/wxk6XY8cSj",
+          "expanded_url": "https://twitter.com/wastemobile/status/900015935825694720/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 602,
+              "h": 273,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 602,
+              "h": 273,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 602,
+              "h": 273,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 900015925692203009,
+          "id_str": "900015925692203009",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/DH1_t0cUAAE9gnV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DH1_t0cUAAE9gnV.jpg",
+          "url": "https://t.co/wxk6XY8cSj",
+          "display_url": "pic.twitter.com/wxk6XY8cSj",
+          "expanded_url": "https://twitter.com/wastemobile/status/900015935825694720/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 602,
+              "h": 273,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 602,
+              "h": 273,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 602,
+              "h": 273,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 22 14:21:55 +0000 2017",
+    "id": 900000083856343040,
+    "id_str": "900000083856343040",
+    "text": "這集 Checked podcast 也談了 Ulysess 轉訂閱制的題目。 https://t.co/cQDajoa5JM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cQDajoa5JM",
+          "expanded_url": "https://twitter.com/CheckedFM/status/899995416065736704",
+          "display_url": "twitter.com/CheckedFM/stat…",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 899995416065736704,
+    "quoted_status_id_str": "899995416065736704",
+    "quoted_status": {
+      "created_at": "Tue Aug 22 14:03:22 +0000 2017",
+      "id": 899995416065736704,
+      "id_str": "899995416065736704",
+      "text": "【Checked #42: 失控】\n\nhttps://t.co/CiDfwx5IyG https://t.co/8YNghIoAxx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CiDfwx5IyG",
+            "expanded_url": "http://checked.fm/42",
+            "display_url": "checked.fm/42",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 899995402472050689,
+            "id_str": "899995402472050689",
+            "indices": [
+              43,
+              66
+            ],
+            "media_url": "http://pbs.twimg.com/media/DH1tDNfU0AErTHP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DH1tDNfU0AErTHP.jpg",
+            "url": "https://t.co/8YNghIoAxx",
+            "display_url": "pic.twitter.com/8YNghIoAxx",
+            "expanded_url": "https://twitter.com/CheckedFM/status/899995416065736704/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 861,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1242,
+                "h": 1731,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 488,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 899995402472050689,
+            "id_str": "899995402472050689",
+            "indices": [
+              43,
+              66
+            ],
+            "media_url": "http://pbs.twimg.com/media/DH1tDNfU0AErTHP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DH1tDNfU0AErTHP.jpg",
+            "url": "https://t.co/8YNghIoAxx",
+            "display_url": "pic.twitter.com/8YNghIoAxx",
+            "expanded_url": "https://twitter.com/CheckedFM/status/899995416065736704/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 861,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1242,
+                "h": 1731,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 488,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4247682912,
+        "id_str": "4247682912",
+        "name": "Checked",
+        "screen_name": "CheckedFM",
+        "location": "",
+        "description": "一档准时在隔周二更新的科技播客。",
+        "url": "https://t.co/zsHUQX6Z5O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/zsHUQX6Z5O",
+                "expanded_url": "http://checked.fm",
+                "display_url": "checked.fm",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1446,
+        "friends_count": 3,
+        "listed_count": 32,
+        "created_at": "Sun Nov 15 17:20:33 +0000 2015",
+        "favourites_count": 3,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 164,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/681700703509692416/Tdn3Q7mF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/681700703509692416/Tdn3Q7mF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4247682912/1451763369",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Aug 21 15:35:23 +0000 2017",
     "id": 899656181878104064,
     "id_str": "899656181878104064",
