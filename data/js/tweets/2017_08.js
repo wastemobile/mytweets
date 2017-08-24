@@ -1,5 +1,1549 @@
 Grailbird.data.tweets_2017_08 = [
   {
+    "created_at": "Thu Aug 24 15:34:01 +0000 2017",
+    "id": 900743000917028864,
+    "id_str": "900743000917028864",
+    "text": "RT @Kasumi_lovebot: ストリートジャック発売中です！\nカワイイ😳😳\n#有村架純 https://t.co/j81NTEAFGj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "有村架純",
+          "indices": [
+            43,
+            48
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Kasumi_lovebot",
+          "name": "有村架純bot",
+          "id": 1642722648,
+          "id_str": "1642722648",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 900629240021790721,
+          "id_str": "900629240021790721",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/DH-thaXUMAEaMdb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DH-thaXUMAEaMdb.jpg",
+          "url": "https://t.co/j81NTEAFGj",
+          "display_url": "pic.twitter.com/j81NTEAFGj",
+          "expanded_url": "https://twitter.com/Kasumi_lovebot/status/900629248896925696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 848,
+              "h": 1199,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1199,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 900629248896925696,
+          "source_status_id_str": "900629248896925696",
+          "source_user_id": 1642722648,
+          "source_user_id_str": "1642722648"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 900629240021790721,
+          "id_str": "900629240021790721",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/DH-thaXUMAEaMdb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DH-thaXUMAEaMdb.jpg",
+          "url": "https://t.co/j81NTEAFGj",
+          "display_url": "pic.twitter.com/j81NTEAFGj",
+          "expanded_url": "https://twitter.com/Kasumi_lovebot/status/900629248896925696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 848,
+              "h": 1199,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1199,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 900629248896925696,
+          "source_status_id_str": "900629248896925696",
+          "source_user_id": 1642722648,
+          "source_user_id_str": "1642722648"
+        },
+        {
+          "id": 900629240030183424,
+          "id_str": "900629240030183424",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/DH-thaZUQAASZh5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DH-thaZUQAASZh5.jpg",
+          "url": "https://t.co/j81NTEAFGj",
+          "display_url": "pic.twitter.com/j81NTEAFGj",
+          "expanded_url": "https://twitter.com/Kasumi_lovebot/status/900629248896925696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 900629248896925696,
+          "source_status_id_str": "900629248896925696",
+          "source_user_id": 1642722648,
+          "source_user_id_str": "1642722648"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 24 08:02:00 +0000 2017",
+      "id": 900629248896925696,
+      "id_str": "900629248896925696",
+      "text": "ストリートジャック発売中です！\nカワイイ😳😳\n#有村架純 https://t.co/j81NTEAFGj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "有村架純",
+            "indices": [
+              23,
+              28
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 900629240021790721,
+            "id_str": "900629240021790721",
+            "indices": [
+              29,
+              52
+            ],
+            "media_url": "http://pbs.twimg.com/media/DH-thaXUMAEaMdb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DH-thaXUMAEaMdb.jpg",
+            "url": "https://t.co/j81NTEAFGj",
+            "display_url": "pic.twitter.com/j81NTEAFGj",
+            "expanded_url": "https://twitter.com/Kasumi_lovebot/status/900629248896925696/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 848,
+                "h": 1199,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 848,
+                "h": 1199,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 900629240021790721,
+            "id_str": "900629240021790721",
+            "indices": [
+              29,
+              52
+            ],
+            "media_url": "http://pbs.twimg.com/media/DH-thaXUMAEaMdb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DH-thaXUMAEaMdb.jpg",
+            "url": "https://t.co/j81NTEAFGj",
+            "display_url": "pic.twitter.com/j81NTEAFGj",
+            "expanded_url": "https://twitter.com/Kasumi_lovebot/status/900629248896925696/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 848,
+                "h": 1199,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 848,
+                "h": 1199,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 900629240030183424,
+            "id_str": "900629240030183424",
+            "indices": [
+              29,
+              52
+            ],
+            "media_url": "http://pbs.twimg.com/media/DH-thaZUQAASZh5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DH-thaZUQAASZh5.jpg",
+            "url": "https://t.co/j81NTEAFGj",
+            "display_url": "pic.twitter.com/j81NTEAFGj",
+            "expanded_url": "https://twitter.com/Kasumi_lovebot/status/900629248896925696/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1642722648,
+        "id_str": "1642722648",
+        "name": "有村架純bot",
+        "screen_name": "Kasumi_lovebot",
+        "location": "",
+        "description": "有村架純ちゃんについてツイートしていきます。よろしくお願いします。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 62553,
+        "friends_count": 52,
+        "listed_count": 132,
+        "created_at": "Sat Aug 03 12:37:08 +0000 2013",
+        "favourites_count": 104,
+        "utc_offset": 32400,
+        "time_zone": "Tokyo",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1314,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/900723274274840576/FIrLMrX4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/900723274274840576/FIrLMrX4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642722648/1500476270",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 234,
+      "favorite_count": 1725,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 234,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Aug 24 07:57:25 +0000 2017",
+    "id": 900628097346621441,
+    "id_str": "900628097346621441",
+    "text": "Scrivener 3 看起來真不錯👍！ https://t.co/lpWP2bhh2P",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lpWP2bhh2P",
+          "expanded_url": "https://twitter.com/ohnuttyme/status/900586468111929344",
+          "display_url": "twitter.com/ohnuttyme/stat…",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 900586468111929344,
+    "quoted_status_id_str": "900586468111929344",
+    "quoted_status": {
+      "created_at": "Thu Aug 24 05:12:00 +0000 2017",
+      "id": 900586468111929344,
+      "id_str": "900586468111929344",
+      "text": "Structuring with Label View – Yes, please! @scrivenerapp #cantwait #scrivener #amwriting #writing #writetip… https://t.co/WuYbN5MBO0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "cantwait",
+            "indices": [
+              57,
+              66
+            ]
+          },
+          {
+            "text": "scrivener",
+            "indices": [
+              67,
+              77
+            ]
+          },
+          {
+            "text": "amwriting",
+            "indices": [
+              78,
+              88
+            ]
+          },
+          {
+            "text": "writing",
+            "indices": [
+              89,
+              97
+            ]
+          },
+          {
+            "text": "writetip",
+            "indices": [
+              98,
+              107
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "ScrivenerApp",
+            "name": "Scrivener",
+            "id": 40837504,
+            "id_str": "40837504",
+            "indices": [
+              43,
+              56
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WuYbN5MBO0",
+            "expanded_url": "https://twitter.com/i/web/status/900586468111929344",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20828084,
+        "id_str": "20828084",
+        "name": "Sherry Nelson, PhD",
+        "screen_name": "ohnuttyme",
+        "location": "Colorado",
+        "description": "Psychologist | Mystery/Suspense Author | Fan of all things Nutty | Moved by Kindness",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3506,
+        "friends_count": 3254,
+        "listed_count": 74,
+        "created_at": "Sat Feb 14 03:09:16 +0000 2009",
+        "favourites_count": 1144,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 223,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/652161296331223040/bRMGMVXJ.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/652161296331223040/bRMGMVXJ.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652168905864015873/kzRU1Lrt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652168905864015873/kzRU1Lrt_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20828084/1444324338",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 24 05:15:37 +0000 2017",
+    "id": 900587378707791873,
+    "id_str": "900587378707791873",
+    "text": "推「心思放在哪裡，成就就在哪裡」。 https://t.co/xpzABJQW6n",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xpzABJQW6n",
+          "expanded_url": "https://twitter.com/leapfaith1/status/900586895779942401",
+          "display_url": "twitter.com/leapfaith1/sta…",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 900586895779942401,
+    "quoted_status_id_str": "900586895779942401",
+    "quoted_status": {
+      "created_at": "Thu Aug 24 05:13:42 +0000 2017",
+      "id": 900586895779942401,
+      "id_str": "900586895779942401",
+      "text": "其實重點就一個：你的心思放在哪裡，成就就在哪裡。\n\n你每天只想改變身材，就會做各種改變身材的事。\n你每天只在想三餐要吃什麼好料，身材很爛很意外嗎？ https://t.co/EyRtz6CUKi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EyRtz6CUKi",
+            "expanded_url": "https://twitter.com/nimachaopang/status/900576937004761088",
+            "display_url": "twitter.com/nimachaopang/s…",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 241566755,
+        "id_str": "241566755",
+        "name": "leapfaith1",
+        "screen_name": "leapfaith1",
+        "location": "懶得回覆留言",
+        "description": "孤僻，這裡是我的樹洞，我來Twitter不是來聽你指教或交朋友的。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1675,
+        "friends_count": 1724,
+        "listed_count": 49,
+        "created_at": "Sat Jan 22 15:46:22 +0000 2011",
+        "favourites_count": 364,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24745,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1612682801/butter_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1612682801/butter_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/241566755/1401227848",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 900576937004761088,
+      "quoted_status_id_str": "900576937004761088",
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 24 02:48:39 +0000 2017",
+    "id": 900550393460965376,
+    "id_str": "900550393460965376",
+    "text": "RT @vinta: 前陣子在弄的推薦系統終於上線啦！不過老實說，雖然是自己做的，但是它這禮拜推薦給我的歌我自己都沒有很喜歡啊幹 https://t.co/F7trpsf3oV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "vinta",
+          "name": "陳上進",
+          "id": 764182,
+          "id_str": "764182",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/F7trpsf3oV",
+          "expanded_url": "https://streetvoice.com/recommend/for_you/",
+          "display_url": "streetvoice.com/recommend/for_…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 24 02:30:00 +0000 2017",
+      "id": 900545699766562816,
+      "id_str": "900545699766562816",
+      "text": "前陣子在弄的推薦系統終於上線啦！不過老實說，雖然是自己做的，但是它這禮拜推薦給我的歌我自己都沒有很喜歡啊幹 https://t.co/F7trpsf3oV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/F7trpsf3oV",
+            "expanded_url": "https://streetvoice.com/recommend/for_you/",
+            "display_url": "streetvoice.com/recommend/for_…",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 764182,
+        "id_str": "764182",
+        "name": "陳上進",
+        "screen_name": "vinta",
+        "location": "Taipei, Taiwan",
+        "description": "I failed the Turing Test #科幻迷 #戀物癖",
+        "url": "https://t.co/IQ8dg9hor1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/IQ8dg9hor1",
+                "expanded_url": "http://vinta.ws/",
+                "display_url": "vinta.ws",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7227,
+        "friends_count": 1343,
+        "listed_count": 165,
+        "created_at": "Sun Feb 11 07:16:14 +0000 2007",
+        "favourites_count": 12545,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16690,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/841362873158844416/GfViu2_a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/841362873158844416/GfViu2_a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/764182/1491497171",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 36,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 24 02:11:26 +0000 2017",
+    "id": 900541028024832000,
+    "id_str": "900541028024832000",
+    "text": "RT @faa_gui: 王菲配伍佰。王菲 單行道 https://t.co/RBbQhQ08ec 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "faa_gui",
+          "name": "fagui",
+          "id": 1259849810,
+          "id_str": "1259849810",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            53,
+            61
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RBbQhQ08ec",
+          "expanded_url": "https://youtu.be/no-3X70spuk",
+          "display_url": "youtu.be/no-3X70spuk",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 24 01:58:31 +0000 2017",
+      "id": 900537775346208768,
+      "id_str": "900537775346208768",
+      "text": "王菲配伍佰。王菲 單行道 https://t.co/RBbQhQ08ec 來自 @YouTube",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "YouTube",
+            "name": "YouTube",
+            "id": 10228272,
+            "id_str": "10228272",
+            "indices": [
+              40,
+              48
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RBbQhQ08ec",
+            "expanded_url": "https://youtu.be/no-3X70spuk",
+            "display_url": "youtu.be/no-3X70spuk",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1259849810,
+        "id_str": "1259849810",
+        "name": "fagui",
+        "screen_name": "faa_gui",
+        "location": "",
+        "description": "視而不見，充耳不聞；保持幽默，將錯就錯。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 534,
+        "friends_count": 614,
+        "listed_count": 5,
+        "created_at": "Mon Mar 11 16:23:52 +0000 2013",
+        "favourites_count": 1201,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3081,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 23 15:17:27 +0000 2017",
+    "id": 900376445700104192,
+    "id_str": "900376445700104192",
+    "text": "RT @Sabrina0527: 有了 Vue 之后，做视频真的好简单。早起睡前都拉伸一把。侧腰、大腿前后、髋部、肩膀手臂、脊椎都不能放过，每个动作30-60秒，记得做两边啊！ https://t.co/Vpg8XNga7T",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Sabrina0527",
+          "name": "Sabrina",
+          "id": 82125626,
+          "id_str": "82125626",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 895430518291824640,
+          "id_str": "895430518291824640",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895430518291824640/pu/img/hiRo4mbWJGpmWJYY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895430518291824640/pu/img/hiRo4mbWJGpmWJYY.jpg",
+          "url": "https://t.co/Vpg8XNga7T",
+          "display_url": "pic.twitter.com/Vpg8XNga7T",
+          "expanded_url": "https://twitter.com/Sabrina0527/status/895431181201625090/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 895431181201625090,
+          "source_status_id_str": "895431181201625090",
+          "source_user_id": 82125626,
+          "source_user_id_str": "82125626"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 895430518291824640,
+          "id_str": "895430518291824640",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895430518291824640/pu/img/hiRo4mbWJGpmWJYY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895430518291824640/pu/img/hiRo4mbWJGpmWJYY.jpg",
+          "url": "https://t.co/Vpg8XNga7T",
+          "display_url": "pic.twitter.com/Vpg8XNga7T",
+          "expanded_url": "https://twitter.com/Sabrina0527/status/895431181201625090/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 895431181201625090,
+          "source_status_id_str": "895431181201625090",
+          "source_user_id": 82125626,
+          "source_user_id_str": "82125626",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 44900,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/895430518291824640/pu/vid/1280x720/tRkW4-xPsDelImri.mp4"
+              },
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/895430518291824640/pu/vid/320x180/-5t2IeyqPuN3038R.mp4"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/895430518291824640/pu/vid/640x360/V_KFLxX7xdnsDYSg.mp4"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/895430518291824640/pu/pl/JqaaFjNqzBKiKokg.m3u8"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 82125626,
+              "id_str": "82125626",
+              "name": "Sabrina",
+              "screen_name": "Sabrina0527",
+              "location": "",
+              "description": "Stay real on your timeline.",
+              "url": "https://t.co/ZGNXvwkeQf",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/ZGNXvwkeQf",
+                      "expanded_url": "http://instagram.com/sabrina0527",
+                      "display_url": "instagram.com/sabrina0527",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 25757,
+              "friends_count": 296,
+              "listed_count": 242,
+              "created_at": "Tue Oct 13 15:55:59 +0000 2009",
+              "favourites_count": 658,
+              "utc_offset": 28800,
+              "time_zone": "Beijing",
+              "geo_enabled": true,
+              "verified": false,
+              "statuses_count": 10553,
+              "lang": "en",
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "9AE4E8",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/657196979190009856/MKeN4bvN_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/657196979190009856/MKeN4bvN_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/82125626/1468859284",
+              "profile_link_color": "0084B4",
+              "profile_sidebar_border_color": "BDDCAD",
+              "profile_sidebar_fill_color": "DDFFCC",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": true,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "regular"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Aug 09 23:46:44 +0000 2017",
+      "id": 895431181201625090,
+      "id_str": "895431181201625090",
+      "text": "有了 Vue 之后，做视频真的好简单。早起睡前都拉伸一把。侧腰、大腿前后、髋部、肩膀手臂、脊椎都不能放过，每个动作30-60秒，记得做两边啊！ https://t.co/Vpg8XNga7T",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 895430518291824640,
+            "id_str": "895430518291824640",
+            "indices": [
+              72,
+              95
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895430518291824640/pu/img/hiRo4mbWJGpmWJYY.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895430518291824640/pu/img/hiRo4mbWJGpmWJYY.jpg",
+            "url": "https://t.co/Vpg8XNga7T",
+            "display_url": "pic.twitter.com/Vpg8XNga7T",
+            "expanded_url": "https://twitter.com/Sabrina0527/status/895431181201625090/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 895430518291824640,
+            "id_str": "895430518291824640",
+            "indices": [
+              72,
+              95
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/895430518291824640/pu/img/hiRo4mbWJGpmWJYY.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/895430518291824640/pu/img/hiRo4mbWJGpmWJYY.jpg",
+            "url": "https://t.co/Vpg8XNga7T",
+            "display_url": "pic.twitter.com/Vpg8XNga7T",
+            "expanded_url": "https://twitter.com/Sabrina0527/status/895431181201625090/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 44900,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/895430518291824640/pu/vid/1280x720/tRkW4-xPsDelImri.mp4"
+                },
+                {
+                  "bitrate": 320000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/895430518291824640/pu/vid/320x180/-5t2IeyqPuN3038R.mp4"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/895430518291824640/pu/vid/640x360/V_KFLxX7xdnsDYSg.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/895430518291824640/pu/pl/JqaaFjNqzBKiKokg.m3u8"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 82125626,
+        "id_str": "82125626",
+        "name": "Sabrina",
+        "screen_name": "Sabrina0527",
+        "location": "",
+        "description": "Stay real on your timeline.",
+        "url": "https://t.co/ZGNXvwkeQf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZGNXvwkeQf",
+                "expanded_url": "http://instagram.com/sabrina0527",
+                "display_url": "instagram.com/sabrina0527",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 25757,
+        "friends_count": 296,
+        "listed_count": 242,
+        "created_at": "Tue Oct 13 15:55:59 +0000 2009",
+        "favourites_count": 658,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10553,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/657196979190009856/MKeN4bvN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/657196979190009856/MKeN4bvN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/82125626/1468859284",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 103,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Aug 23 07:40:35 +0000 2017",
     "id": 900261472982388736,
     "id_str": "900261472982388736",
