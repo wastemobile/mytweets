@@ -1,5 +1,271 @@
 Grailbird.data.tweets_2017_08 = [
   {
+    "created_at": "Sun Aug 27 08:38:50 +0000 2017",
+    "id": 901725680005636097,
+    "id_str": "901725680005636097",
+    "text": "迄今為止，21世紀最棒的20大科幻片 https://t.co/65VQBYS7n3 https://t.co/WZY0kcUAQI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/65VQBYS7n3",
+          "expanded_url": "http://list.zhiying.me/show/?id=235&catid=44",
+          "display_url": "list.zhiying.me/show/?id=235&c…",
+          "indices": [
+            19,
+            42
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 901725669234696192,
+          "id_str": "901725669234696192",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/DIOSt_eV4AAhzFF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DIOSt_eV4AAhzFF.jpg",
+          "url": "https://t.co/WZY0kcUAQI",
+          "display_url": "pic.twitter.com/WZY0kcUAQI",
+          "expanded_url": "https://twitter.com/wastemobile/status/901725680005636097/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 700,
+              "h": 982,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 485,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 982,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 901725669234696192,
+          "id_str": "901725669234696192",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/DIOSt_eV4AAhzFF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DIOSt_eV4AAhzFF.jpg",
+          "url": "https://t.co/WZY0kcUAQI",
+          "display_url": "pic.twitter.com/WZY0kcUAQI",
+          "expanded_url": "https://twitter.com/wastemobile/status/901725680005636097/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 700,
+              "h": 982,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 485,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 982,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 27 08:36:18 +0000 2017",
+    "id": 901725045348696064,
+    "id_str": "901725045348696064",
+    "text": "25部最近15年最好看的「科幻片」（超級英雄片不計入） https://t.co/MSGshs6FgH https://t.co/8tx8q3c6tc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MSGshs6FgH",
+          "expanded_url": "https://www.wezeit.com/wap/297312.html",
+          "display_url": "wezeit.com/wap/297312.html",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 901725035559215104,
+          "id_str": "901725035559215104",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/DIOSJG2VYAAs9cL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DIOSJG2VYAAs9cL.jpg",
+          "url": "https://t.co/8tx8q3c6tc",
+          "display_url": "pic.twitter.com/8tx8q3c6tc",
+          "expanded_url": "https://twitter.com/wastemobile/status/901725045348696064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 640,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 901725035559215104,
+          "id_str": "901725035559215104",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/DIOSJG2VYAAs9cL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DIOSJG2VYAAs9cL.jpg",
+          "url": "https://t.co/8tx8q3c6tc",
+          "display_url": "pic.twitter.com/8tx8q3c6tc",
+          "expanded_url": "https://twitter.com/wastemobile/status/901725045348696064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 640,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Aug 25 07:17:58 +0000 2017",
     "id": 900980554522279936,
     "id_str": "900980554522279936",
