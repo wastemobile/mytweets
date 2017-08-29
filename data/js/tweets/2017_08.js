@@ -1,5 +1,1040 @@
 Grailbird.data.tweets_2017_08 = [
   {
+    "created_at": "Tue Aug 29 03:21:55 +0000 2017",
+    "id": 902370704384966656,
+    "id_str": "902370704384966656",
+    "text": "把握時間閱讀的方法 https://t.co/9ubC3KbZtZ\n\n在短暫通勤中閱讀，意味著學習忽視外界刺激，專注手頭工作。「要做得更好，將之變成習慣。」\n\nBBC capital 原文在此… https://t.co/0dofi6OPni",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9ubC3KbZtZ",
+          "expanded_url": "http://www.cup.com.hk/2017/08/29/read-during-commuting/",
+          "display_url": "cup.com.hk/2017/08/29/rea…",
+          "indices": [
+            10,
+            33
+          ]
+        },
+        {
+          "url": "https://t.co/0dofi6OPni",
+          "expanded_url": "https://twitter.com/i/web/status/902370704384966656",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 29 03:17:45 +0000 2017",
+    "id": 902369653866897408,
+    "id_str": "902369653866897408",
+    "text": "好像真的該看看《模犯生》（出貓特攻隊）。 #轉右邊像轉左邊不像是為什麼 https://t.co/DI6zKxZ6jr https://t.co/Lo4UWSfTH0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "轉右邊像轉左邊不像是為什麼",
+          "indices": [
+            21,
+            35
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DI6zKxZ6jr",
+          "expanded_url": "http://www.cup.com.hk/2017/08/29/bad-genius/",
+          "display_url": "cup.com.hk/2017/08/29/bad…",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 902369640998879232,
+          "id_str": "902369640998879232",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DIXcaFPVwAAumD-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DIXcaFPVwAAumD-.jpg",
+          "url": "https://t.co/Lo4UWSfTH0",
+          "display_url": "pic.twitter.com/Lo4UWSfTH0",
+          "expanded_url": "https://twitter.com/wastemobile/status/902369653866897408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 902369640998879232,
+          "id_str": "902369640998879232",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DIXcaFPVwAAumD-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DIXcaFPVwAAumD-.jpg",
+          "url": "https://t.co/Lo4UWSfTH0",
+          "display_url": "pic.twitter.com/Lo4UWSfTH0",
+          "expanded_url": "https://twitter.com/wastemobile/status/902369653866897408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 29 03:00:12 +0000 2017",
+    "id": 902365238577659909,
+    "id_str": "902365238577659909",
+    "text": "RT @angelachatte: 「當你愛一個人的時候你就應該說出來。生命只是時間中的一個停頓，一切的意義都只在它發生的那一時刻。不要等。不要在以後講這個故事。」",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "angelachatte",
+          "name": "悪いアンジェラ",
+          "id": 2271405120,
+          "id_str": "2271405120",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Aug 29 00:41:31 +0000 2017",
+      "id": 902330336725450753,
+      "id_str": "902330336725450753",
+      "text": "「當你愛一個人的時候你就應該說出來。生命只是時間中的一個停頓，一切的意義都只在它發生的那一時刻。不要等。不要在以後講這個故事。」",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2271405120,
+        "id_str": "2271405120",
+        "name": "悪いアンジェラ",
+        "screen_name": "angelachatte",
+        "location": "",
+        "description": "浪漫又猥瑣",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 984,
+        "friends_count": 74,
+        "listed_count": 6,
+        "created_at": "Wed Jan 01 09:18:24 +0000 2014",
+        "favourites_count": 9349,
+        "utc_offset": 21600,
+        "time_zone": "Urumqi",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7957,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/828946127063879680/Va1RZrWB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/828946127063879680/Va1RZrWB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2271405120/1498983684",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 32,
+      "favorite_count": 78,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 29 02:16:25 +0000 2017",
+    "id": 902354218882818048,
+    "id_str": "902354218882818048",
+    "text": "RT @faa_gui: 20170829「#推特吃 #早餐店」\n半夜肚子餓的時候有兩個選擇：想想隔天早餐要吃什麼，接著滿懷期待地睡覺，就算起床晚了，早餐店也還會在那裡；如果時間夠晚，那就立刻去早餐店吃宵夜。有人說白天不懂夜的黑，早餐店說，他就是晝夜的界線。早餐店說，關於不合時…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "推特吃",
+          "indices": [
+            22,
+            26
+          ]
+        },
+        {
+          "text": "早餐店",
+          "indices": [
+            27,
+            31
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "faa_gui",
+          "name": "fagui",
+          "id": 1259849810,
+          "id_str": "1259849810",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Aug 29 01:18:25 +0000 2017",
+      "id": 902339624608993281,
+      "id_str": "902339624608993281",
+      "text": "20170829「#推特吃 #早餐店」\n半夜肚子餓的時候有兩個選擇：想想隔天早餐要吃什麼，接著滿懷期待地睡覺，就算起床晚了，早餐店也還會在那裡；如果時間夠晚，那就立刻去早餐店吃宵夜。有人說白天不懂夜的黑，早餐店說，他就是晝夜的界線… https://t.co/h9EJjPoMwR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "推特吃",
+            "indices": [
+              9,
+              13
+            ]
+          },
+          {
+            "text": "早餐店",
+            "indices": [
+              14,
+              18
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/h9EJjPoMwR",
+            "expanded_url": "https://twitter.com/i/web/status/902339624608993281",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1259849810,
+        "id_str": "1259849810",
+        "name": "fagui",
+        "screen_name": "faa_gui",
+        "location": "",
+        "description": "視而不見，充耳不聞；保持幽默，將錯就錯。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 540,
+        "friends_count": 612,
+        "listed_count": 6,
+        "created_at": "Mon Mar 11 16:23:52 +0000 2013",
+        "favourites_count": 1206,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3097,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 41,
+      "favorite_count": 56,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 41,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 29 02:16:16 +0000 2017",
+    "id": 902354180492460033,
+    "id_str": "902354180492460033",
+    "text": "RT @faa_gui: 附圖是台南豆奶宗、打拋豬蛋餅、台北北師附小對面的早餐店、還有高雄某個古早味蛋餅。寫完自己有點感動。可惜我正在吃便利商店。 https://t.co/AG6Q9Gd1D6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "faa_gui",
+          "name": "fagui",
+          "id": 1259849810,
+          "id_str": "1259849810",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AG6Q9Gd1D6",
+          "expanded_url": "https://twitter.com/faa_gui/status/902339624608993281",
+          "display_url": "twitter.com/faa_gui/status…",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Aug 29 01:23:56 +0000 2017",
+      "id": 902341009987706880,
+      "id_str": "902341009987706880",
+      "text": "附圖是台南豆奶宗、打拋豬蛋餅、台北北師附小對面的早餐店、還有高雄某個古早味蛋餅。寫完自己有點感動。可惜我正在吃便利商店。 https://t.co/AG6Q9Gd1D6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AG6Q9Gd1D6",
+            "expanded_url": "https://twitter.com/faa_gui/status/902339624608993281",
+            "display_url": "twitter.com/faa_gui/status…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1259849810,
+        "id_str": "1259849810",
+        "name": "fagui",
+        "screen_name": "faa_gui",
+        "location": "",
+        "description": "視而不見，充耳不聞；保持幽默，將錯就錯。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 540,
+        "friends_count": 612,
+        "listed_count": 6,
+        "created_at": "Mon Mar 11 16:23:52 +0000 2013",
+        "favourites_count": 1206,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3097,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 902339624608993281,
+      "quoted_status_id_str": "902339624608993281",
+      "quoted_status": {
+        "created_at": "Tue Aug 29 01:18:25 +0000 2017",
+        "id": 902339624608993281,
+        "id_str": "902339624608993281",
+        "text": "20170829「#推特吃 #早餐店」\n半夜肚子餓的時候有兩個選擇：想想隔天早餐要吃什麼，接著滿懷期待地睡覺，就算起床晚了，早餐店也還會在那裡；如果時間夠晚，那就立刻去早餐店吃宵夜。有人說白天不懂夜的黑，早餐店說，他就是晝夜的界線… https://t.co/h9EJjPoMwR",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "推特吃",
+              "indices": [
+                9,
+                13
+              ]
+            },
+            {
+              "text": "早餐店",
+              "indices": [
+                14,
+                18
+              ]
+            }
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/h9EJjPoMwR",
+              "expanded_url": "https://twitter.com/i/web/status/902339624608993281",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1259849810,
+          "id_str": "1259849810",
+          "name": "fagui",
+          "screen_name": "faa_gui",
+          "location": "",
+          "description": "視而不見，充耳不聞；保持幽默，將錯就錯。",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 540,
+          "friends_count": 612,
+          "listed_count": 6,
+          "created_at": "Mon Mar 11 16:23:52 +0000 2013",
+          "favourites_count": 1206,
+          "utc_offset": 28800,
+          "time_zone": "Taipei",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 3097,
+          "lang": "zh-tw",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 41,
+        "favorite_count": 56,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 902339624608993281,
+    "quoted_status_id_str": "902339624608993281",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 28 16:40:42 +0000 2017",
+    "id": 902209335266230277,
+    "id_str": "902209335266230277",
+    "text": "@eustacia 我對 Charge 2 也很滿意，應該是可以撐到年底眾家新品出爐、換個新世代後再來考慮了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "eustacia",
+          "name": "Stacy 萌萌",
+          "id": 8780962,
+          "id_str": "8780962",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 902207998210129920,
+    "in_reply_to_status_id_str": "902207998210129920",
+    "in_reply_to_user_id": 8780962,
+    "in_reply_to_user_id_str": "8780962",
+    "in_reply_to_screen_name": "eustacia",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 28 16:30:05 +0000 2017",
+    "id": 902206664064983040,
+    "id_str": "902206664064983040",
+    "text": "@eustacia 妳可以換漂亮點的手環帶啊？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "eustacia",
+          "name": "Stacy 萌萌",
+          "id": 8780962,
+          "id_str": "8780962",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 902206290327248896,
+    "in_reply_to_status_id_str": "902206290327248896",
+    "in_reply_to_user_id": 8780962,
+    "in_reply_to_user_id_str": "8780962",
+    "in_reply_to_screen_name": "eustacia",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 28 16:13:52 +0000 2017",
+    "id": 902202581933367297,
+    "id_str": "902202581933367297",
+    "text": "看來 Fitbit 又要有新玩意了，但怎麼都走這麼方塊的造型啊？ https://t.co/bghCi7sWWo https://t.co/tdl4vveD8M",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bghCi7sWWo",
+          "expanded_url": "https://www.theverge.com/circuitbreaker/2017/8/28/16206914/fitbit-new-fitness-tracking-smartwatch-ionic",
+          "display_url": "theverge.com/circuitbreaker…",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 902202564254490624,
+          "id_str": "902202564254490624",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DIVEc73V4AAFRrl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DIVEc73V4AAFRrl.jpg",
+          "url": "https://t.co/tdl4vveD8M",
+          "display_url": "pic.twitter.com/tdl4vveD8M",
+          "expanded_url": "https://twitter.com/wastemobile/status/902202581933367297/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 902202564254490624,
+          "id_str": "902202564254490624",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DIVEc73V4AAFRrl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DIVEc73V4AAFRrl.jpg",
+          "url": "https://t.co/tdl4vveD8M",
+          "display_url": "pic.twitter.com/tdl4vveD8M",
+          "expanded_url": "https://twitter.com/wastemobile/status/902202581933367297/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Aug 27 08:38:50 +0000 2017",
     "id": 901725680005636097,
     "id_str": "901725680005636097",
