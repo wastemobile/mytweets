@@ -1,5 +1,422 @@
 Grailbird.data.tweets_2017_08 = [
   {
+    "created_at": "Thu Aug 31 18:46:48 +0000 2017",
+    "id": 903328233839517696,
+    "id_str": "903328233839517696",
+    "text": "RT @hsnuhow: 這篇文章處處有玄機。值得反覆讀，並拿自己的案例來做演練思考 https://t.co/2TASNWKZ7o",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hsnuhow",
+          "name": "HOW",
+          "id": 679803,
+          "id_str": "679803",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2TASNWKZ7o",
+          "expanded_url": "http://ift.tt/2xPX8ei",
+          "display_url": "ift.tt/2xPX8ei",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 31 18:06:34 +0000 2017",
+      "id": 903318110236811264,
+      "id_str": "903318110236811264",
+      "text": "這篇文章處處有玄機。值得反覆讀，並拿自己的案例來做演練思考 https://t.co/2TASNWKZ7o",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2TASNWKZ7o",
+            "expanded_url": "http://ift.tt/2xPX8ei",
+            "display_url": "ift.tt/2xPX8ei",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 679803,
+        "id_str": "679803",
+        "name": "HOW",
+        "screen_name": "hsnuhow",
+        "location": "Taipei, Taiwan",
+        "description": "少寫字的過氣少年，在都市探險，血統不純正的背包客，有個身分是新手國際領隊，以及社群從業者。歐對，有閒還是會想寫東西。",
+        "url": "https://t.co/b0fOX2r3Ix",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/b0fOX2r3Ix",
+                "expanded_url": "https://www.facebook.com/howsfans",
+                "display_url": "facebook.com/howsfans",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2660,
+        "friends_count": 402,
+        "listed_count": 68,
+        "created_at": "Mon Jan 22 09:54:14 +0000 2007",
+        "favourites_count": 14370,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24133,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/942522/5771.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/942522/5771.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/732246896270446593/0Xpjaue1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/732246896270446593/0Xpjaue1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/679803/1414171713",
+        "profile_link_color": "454545",
+        "profile_sidebar_border_color": "96DEE9",
+        "profile_sidebar_fill_color": "E9F1F3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 31 16:19:15 +0000 2017",
+    "id": 903291099665506304,
+    "id_str": "903291099665506304",
+    "text": "是時候重新擁抱 iPad 了！ https://t.co/K22OCbbiYp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/K22OCbbiYp",
+          "expanded_url": "https://twitter.com/RocketCafe01/status/903287645698220032",
+          "display_url": "twitter.com/RocketCafe01/s…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 903287645698220032,
+    "quoted_status_id_str": "903287645698220032",
+    "quoted_status": {
+      "created_at": "Thu Aug 31 16:05:31 +0000 2017",
+      "id": 903287645698220032,
+      "id_str": "903287645698220032",
+      "text": "有了新的iOS… https://t.co/9oCOq1cufg https://t.co/yxrj3KfB7X",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9oCOq1cufg",
+            "expanded_url": "https://rocket.cafe/talks/85541",
+            "display_url": "rocket.cafe/talks/85541",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 903287643403726848,
+            "id_str": "903287643403726848",
+            "indices": [
+              33,
+              56
+            ],
+            "media_url": "http://pbs.twimg.com/media/DIkfU2sUMAApav2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DIkfU2sUMAApav2.jpg",
+            "url": "https://t.co/yxrj3KfB7X",
+            "display_url": "pic.twitter.com/yxrj3KfB7X",
+            "expanded_url": "https://twitter.com/RocketCafe01/status/903287645698220032/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 903287643403726848,
+            "id_str": "903287643403726848",
+            "indices": [
+              33,
+              56
+            ],
+            "media_url": "http://pbs.twimg.com/media/DIkfU2sUMAApav2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DIkfU2sUMAApav2.jpg",
+            "url": "https://t.co/yxrj3KfB7X",
+            "display_url": "pic.twitter.com/yxrj3KfB7X",
+            "expanded_url": "https://twitter.com/RocketCafe01/status/903287645698220032/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3811671072,
+        "id_str": "3811671072",
+        "name": "Rocket Café",
+        "screen_name": "RocketCafe01",
+        "location": "",
+        "description": "一個有觀點、有態度、以原創內容為主、不浮濫轉載或盜譯海外文章的科技評論平台。",
+        "url": "https://t.co/qBHSZnDSSn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/qBHSZnDSSn",
+                "expanded_url": "http://rocket.cafe",
+                "display_url": "rocket.cafe",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 921,
+        "friends_count": 7,
+        "listed_count": 30,
+        "created_at": "Wed Oct 07 07:10:48 +0000 2015",
+        "favourites_count": 1,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1216,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/652374522755059713/-mO-jhzr_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/652374522755059713/-mO-jhzr_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3811671072/1448782274",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Aug 31 14:43:48 +0000 2017",
     "id": 903267081440813057,
     "id_str": "903267081440813057",
