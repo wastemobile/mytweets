@@ -1,5 +1,375 @@
 Grailbird.data.tweets_2017_09 = [
   {
+    "created_at": "Sat Sep 02 19:51:52 +0000 2017",
+    "id": 904069385152741377,
+    "id_str": "904069385152741377",
+    "text": "午夜二讀《真名實姓》（True Names），依舊震懾人心。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 02 17:18:58 +0000 2017",
+    "id": 904030904863006721,
+    "id_str": "904030904863006721",
+    "text": "今天用了一天 Typora，好感順位持續上升中，Mac 版還在 beta 免費期喔～ https://t.co/jnjrJ6GHPH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jnjrJ6GHPH",
+          "expanded_url": "https://twitter.com/Typora/status/895619111643893762",
+          "display_url": "twitter.com/Typora/status/…",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 895619111643893762,
+    "quoted_status_id_str": "895619111643893762",
+    "quoted_status": {
+      "created_at": "Thu Aug 10 12:13:30 +0000 2017",
+      "id": 895619111643893762,
+      "id_str": "895619111643893762",
+      "text": "The new version of #typora brings a file list/tree side panel. https://t.co/TPzDbIM6wT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "typora",
+            "indices": [
+              19,
+              26
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 895618177501089792,
+            "id_str": "895618177501089792",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/DG3f_LxV0AAvF-o.png",
+            "media_url_https": "https://pbs.twimg.com/media/DG3f_LxV0AAvF-o.png",
+            "url": "https://t.co/TPzDbIM6wT",
+            "display_url": "pic.twitter.com/TPzDbIM6wT",
+            "expanded_url": "https://twitter.com/Typora/status/895619111643893762/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 810,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 459,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1382,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 895618177501089792,
+            "id_str": "895618177501089792",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/DG3f_LxV0AAvF-o.png",
+            "media_url_https": "https://pbs.twimg.com/media/DG3f_LxV0AAvF-o.png",
+            "url": "https://t.co/TPzDbIM6wT",
+            "display_url": "pic.twitter.com/TPzDbIM6wT",
+            "expanded_url": "https://twitter.com/Typora/status/895619111643893762/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 810,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 459,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1382,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 895618200955637761,
+            "id_str": "895618200955637761",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/DG3gAjJV0AE9AB7.png",
+            "media_url_https": "https://pbs.twimg.com/media/DG3gAjJV0AE9AB7.png",
+            "url": "https://t.co/TPzDbIM6wT",
+            "display_url": "pic.twitter.com/TPzDbIM6wT",
+            "expanded_url": "https://twitter.com/Typora/status/895619111643893762/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1382,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 459,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 810,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2890926991,
+        "id_str": "2890926991",
+        "name": "Typora",
+        "screen_name": "Typora",
+        "location": "",
+        "description": "a new way to write in Markdown.",
+        "url": "http://t.co/1mvfRkbtIS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/1mvfRkbtIS",
+                "expanded_url": "http://typora.io",
+                "display_url": "typora.io",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2172,
+        "friends_count": 178,
+        "listed_count": 58,
+        "created_at": "Wed Nov 05 14:42:41 +0000 2014",
+        "favourites_count": 346,
+        "utc_offset": 21600,
+        "time_zone": "Urumqi",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 257,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/530007658397315072/wde9RRJU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/530007658397315072/wde9RRJU_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2890926991/1415198699",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 28,
+      "favorite_count": 103,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 02 16:08:49 +0000 2017",
+    "id": 904013250383118336,
+    "id_str": "904013250383118336",
+    "text": "為什麼 Ansible Galaxy Role 還是沒有更新的指令啊！！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 02 11:38:50 +0000 2017",
     "id": 903945308178071552,
     "id_str": "903945308178071552",
