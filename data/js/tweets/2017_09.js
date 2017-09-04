@@ -1,5 +1,176 @@
 Grailbird.data.tweets_2017_09 = [
   {
+    "created_at": "Mon Sep 04 11:11:24 +0000 2017",
+    "id": 904663181519314945,
+    "id_str": "904663181519314945",
+    "text": "18天的有效期限算起來真的是18天，扣掉出廠、運輸，能在店面賣幾天啊？ https://t.co/ifnqdR2jMY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 904663127849033728,
+          "id_str": "904663127849033728",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/DI4CUljV4AAR18t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DI4CUljV4AAR18t.jpg",
+          "url": "https://t.co/ifnqdR2jMY",
+          "display_url": "pic.twitter.com/ifnqdR2jMY",
+          "expanded_url": "https://twitter.com/wastemobile/status/904663181519314945/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 904663127849033728,
+          "id_str": "904663127849033728",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/DI4CUljV4AAR18t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DI4CUljV4AAR18t.jpg",
+          "url": "https://t.co/ifnqdR2jMY",
+          "display_url": "pic.twitter.com/ifnqdR2jMY",
+          "expanded_url": "https://twitter.com/wastemobile/status/904663181519314945/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 04 09:16:52 +0000 2017",
+    "id": 904634356060135425,
+    "id_str": "904634356060135425",
+    "text": "爭鮮的壽司再這樣縮小下去，就愈來愈像微型模型了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Sep 04 03:18:05 +0000 2017",
     "id": 904544064237821952,
     "id_str": "904544064237821952",
