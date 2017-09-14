@@ -1,5 +1,860 @@
 Grailbird.data.tweets_2017_09 = [
   {
+    "created_at": "Thu Sep 14 06:53:41 +0000 2017",
+    "id": 908222199936442368,
+    "id_str": "908222199936442368",
+    "text": "RT @txyyss: 没关系，我们还有那个一对男女在床上交媾最后变成一条鳄鱼的《塞拉菲尼抄本》Codex Seraphinianus…… https://t.co/YxkbE0DyF0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "txyyss",
+          "name": "Shengyi Wang",
+          "id": 107653535,
+          "id_str": "107653535",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YxkbE0DyF0",
+          "expanded_url": "https://twitter.com/wastemobile/status/908217418811457536",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Sep 14 06:52:36 +0000 2017",
+      "id": 908221927415619584,
+      "id_str": "908221927415619584",
+      "text": "没关系，我们还有那个一对男女在床上交媾最后变成一条鳄鱼的《塞拉菲尼抄本》Codex Seraphinianus…… https://t.co/YxkbE0DyF0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YxkbE0DyF0",
+            "expanded_url": "https://twitter.com/wastemobile/status/908217418811457536",
+            "display_url": "twitter.com/wastemobile/st…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 107653535,
+        "id_str": "107653535",
+        "name": "Shengyi Wang",
+        "screen_name": "txyyss",
+        "location": "Singapore",
+        "description": "Enthusiast of recreational mathematics",
+        "url": "http://t.co/PvhuHvCKXH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/PvhuHvCKXH",
+                "expanded_url": "http://sites.google.com/site/txyyss/",
+                "display_url": "sites.google.com/site/txyyss/",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5768,
+        "friends_count": 777,
+        "listed_count": 120,
+        "created_at": "Sat Jan 23 07:58:03 +0000 2010",
+        "favourites_count": 1080,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33600,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/366177407/LogoYi512.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/366177407/LogoYi512.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1645417012/LogoYi512_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1645417012/LogoYi512_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107653535/1465980431",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 908217418811457536,
+      "quoted_status_id_str": "908217418811457536",
+      "quoted_status": {
+        "created_at": "Thu Sep 14 06:34:41 +0000 2017",
+        "id": 908217418811457536,
+        "id_str": "908217418811457536",
+        "text": "喔？原來《伏尼契手稿》破解後是本專治女性婦科的醫書，神秘文字只不過是偷懶「縮寫抄書法」的結果⋯⋯XD https://t.co/S9gk4S2JFg https://t.co/LjMzfOHDVm",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/S9gk4S2JFg",
+              "expanded_url": "http://www.qdaily.com/articles/45164.html",
+              "display_url": "qdaily.com/articles/45164…",
+              "indices": [
+                51,
+                74
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 908217407851728898,
+              "id_str": "908217407851728898",
+              "indices": [
+                75,
+                98
+              ],
+              "media_url": "http://pbs.twimg.com/media/DJqi66XUEAIoxmg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DJqi66XUEAIoxmg.jpg",
+              "url": "https://t.co/LjMzfOHDVm",
+              "display_url": "pic.twitter.com/LjMzfOHDVm",
+              "expanded_url": "https://twitter.com/wastemobile/status/908217418811457536/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 405,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 755,
+                  "h": 450,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 755,
+                  "h": 450,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 908217407851728898,
+              "id_str": "908217407851728898",
+              "indices": [
+                75,
+                98
+              ],
+              "media_url": "http://pbs.twimg.com/media/DJqi66XUEAIoxmg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DJqi66XUEAIoxmg.jpg",
+              "url": "https://t.co/LjMzfOHDVm",
+              "display_url": "pic.twitter.com/LjMzfOHDVm",
+              "expanded_url": "https://twitter.com/wastemobile/status/908217418811457536/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 405,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 755,
+                  "h": 450,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 755,
+                  "h": 450,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 20709129,
+          "id_str": "20709129",
+          "name": "wastemobile",
+          "screen_name": "wastemobile",
+          "location": "Taipei",
+          "description": "人生觀究竟是怎麼一回事？",
+          "url": "https://t.co/5LQVtqARrN",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/5LQVtqARrN",
+                  "expanded_url": "https://wastemobile.github.io/mytweets/",
+                  "display_url": "wastemobile.github.io/mytweets/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 3349,
+          "friends_count": 1066,
+          "listed_count": 127,
+          "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+          "favourites_count": 2682,
+          "utc_offset": 28800,
+          "time_zone": "Taipei",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 18290,
+          "lang": "zh-tw",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFF04D",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1444152077",
+          "profile_link_color": "0099CC",
+          "profile_sidebar_border_color": "FFF8AD",
+          "profile_sidebar_fill_color": "F6FFD1",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "favorite_count": 14,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 908217418811457536,
+    "quoted_status_id_str": "908217418811457536",
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 14 06:34:41 +0000 2017",
+    "id": 908217418811457536,
+    "id_str": "908217418811457536",
+    "text": "喔？原來《伏尼契手稿》破解後是本專治女性婦科的醫書，神秘文字只不過是偷懶「縮寫抄書法」的結果⋯⋯XD https://t.co/S9gk4S2JFg https://t.co/LjMzfOHDVm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/S9gk4S2JFg",
+          "expanded_url": "http://www.qdaily.com/articles/45164.html",
+          "display_url": "qdaily.com/articles/45164…",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 908217407851728898,
+          "id_str": "908217407851728898",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJqi66XUEAIoxmg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DJqi66XUEAIoxmg.jpg",
+          "url": "https://t.co/LjMzfOHDVm",
+          "display_url": "pic.twitter.com/LjMzfOHDVm",
+          "expanded_url": "https://twitter.com/wastemobile/status/908217418811457536/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 405,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 908217407851728898,
+          "id_str": "908217407851728898",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJqi66XUEAIoxmg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DJqi66XUEAIoxmg.jpg",
+          "url": "https://t.co/LjMzfOHDVm",
+          "display_url": "pic.twitter.com/LjMzfOHDVm",
+          "expanded_url": "https://twitter.com/wastemobile/status/908217418811457536/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 405,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 14 05:21:55 +0000 2017",
+    "id": 908199108237602816,
+    "id_str": "908199108237602816",
+    "text": "布克獎決選清單出爐。 https://t.co/0aoo53NHP3 https://t.co/z7Yo5m8DFy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0aoo53NHP3",
+          "expanded_url": "http://themanbookerprize.com/news/man-booker-prize-announces-2017-shortlist",
+          "display_url": "themanbookerprize.com/news/man-booke…",
+          "indices": [
+            11,
+            34
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 908199098188103680,
+          "id_str": "908199098188103680",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJqSRJjVAAA8wlg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DJqSRJjVAAA8wlg.jpg",
+          "url": "https://t.co/z7Yo5m8DFy",
+          "display_url": "pic.twitter.com/z7Yo5m8DFy",
+          "expanded_url": "https://twitter.com/wastemobile/status/908199108237602816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1600,
+              "h": 900,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 908199098188103680,
+          "id_str": "908199098188103680",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJqSRJjVAAA8wlg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DJqSRJjVAAA8wlg.jpg",
+          "url": "https://t.co/z7Yo5m8DFy",
+          "display_url": "pic.twitter.com/z7Yo5m8DFy",
+          "expanded_url": "https://twitter.com/wastemobile/status/908199108237602816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1600,
+              "h": 900,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 14 04:12:49 +0000 2017",
+    "id": 908181718980468736,
+    "id_str": "908181718980468736",
+    "text": "「如果你能證明你瘋了，那就說明你沒瘋。」\n\n～《第二十二條軍規》",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 14 03:49:01 +0000 2017",
+    "id": 908175730034466816,
+    "id_str": "908175730034466816",
+    "text": "〈誤導智能鏡頭的簡單方法〉，小說與電影中的神奇化妝術⋯⋯？ https://t.co/UvhKEXu8tL https://t.co/0pxnL0Pvqn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UvhKEXu8tL",
+          "expanded_url": "http://www.cup.com.hk/2017/09/14/to-defeat-facial-recognition-cameras/",
+          "display_url": "cup.com.hk/2017/09/14/to-…",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 908175712711974912,
+          "id_str": "908175712711974912",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJp8_73VoAAB5vl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DJp8_73VoAAB5vl.jpg",
+          "url": "https://t.co/0pxnL0Pvqn",
+          "display_url": "pic.twitter.com/0pxnL0Pvqn",
+          "expanded_url": "https://twitter.com/wastemobile/status/908175730034466816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 908175712711974912,
+          "id_str": "908175712711974912",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJp8_73VoAAB5vl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DJp8_73VoAAB5vl.jpg",
+          "url": "https://t.co/0pxnL0Pvqn",
+          "display_url": "pic.twitter.com/0pxnL0Pvqn",
+          "expanded_url": "https://twitter.com/wastemobile/status/908175730034466816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Sep 13 14:40:36 +0000 2017",
+    "id": 907977318957686785,
+    "id_str": "907977318957686785",
+    "text": "廚師說「iPhone X 將為下一個十年鋪路開道。」\n\n那我就再撐一下，等你路開好了再說，一併感謝那些願意付錢一起開路的人嘍。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Sep 12 07:45:10 +0000 2017",
     "id": 907510383933505536,
     "id_str": "907510383933505536",
