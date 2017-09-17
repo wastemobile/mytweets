@@ -1,5 +1,147 @@
 Grailbird.data.tweets_2017_09 = [
   {
+    "created_at": "Sun Sep 17 02:55:04 +0000 2017",
+    "id": 909249315746365440,
+    "id_str": "909249315746365440",
+    "text": "RT @ihateebb: 你知道嗎，我媽媽曾經說過永遠不要覺得害怕。\n\n她說：業餘的人造了諾亞方舟，專家造了鐵達尼。對吧？\n\n🤣",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ihateebb",
+          "name": "Ebb",
+          "id": 376860541,
+          "id_str": "376860541",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 16 12:14:42 +0000 2017",
+      "id": 909027762844741633,
+      "id_str": "909027762844741633",
+      "text": "你知道嗎，我媽媽曾經說過永遠不要覺得害怕。\n\n她說：業餘的人造了諾亞方舟，專家造了鐵達尼。對吧？\n\n🤣",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 376860541,
+        "id_str": "376860541",
+        "name": "Ebb",
+        "screen_name": "ihateebb",
+        "location": "Taoyuan",
+        "description": "我一出門就想回家",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 901,
+        "friends_count": 302,
+        "listed_count": 16,
+        "created_at": "Tue Sep 20 16:28:27 +0000 2011",
+        "favourites_count": 3869,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6196,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/896434373519564800/JWUVYYaq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/896434373519564800/JWUVYYaq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/376860541/1477325591",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 42,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 16 05:22:47 +0000 2017",
     "id": 908924100894113792,
     "id_str": "908924100894113792",
