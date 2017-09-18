@@ -1,5 +1,728 @@
 Grailbird.data.tweets_2017_09 = [
   {
+    "created_at": "Sun Sep 17 09:17:18 +0000 2017",
+    "id": 909345509285883904,
+    "id_str": "909345509285883904",
+    "text": "實測此 Applet 可用，偶會產生重複的摘文；比較大的問題是，不會同步「註記」，只同步單純的劃線。 https://t.co/bfj5TVpKby",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bfj5TVpKby",
+          "expanded_url": "https://twitter.com/EXphinx/status/909332417843834885",
+          "display_url": "twitter.com/EXphinx/status…",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 909332417843834885,
+    "quoted_status_id_str": "909332417843834885",
+    "quoted_status": {
+      "created_at": "Sun Sep 17 08:25:17 +0000 2017",
+      "id": 909332417843834885,
+      "id_str": "909332417843834885",
+      "text": "@wastemobile Highlights 可以试试这个 IFTTT 的 Applet，同一篇文章会 Append 到同一个 Evernote note 里。\nhttps://t.co/s1yqTh4slz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/s1yqTh4slz",
+            "expanded_url": "https://ifttt.com/applets/61562962d-append-instapaper-highlights-to-evernote",
+            "display_url": "ifttt.com/applets/615629…",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 909327845922504704,
+      "in_reply_to_status_id_str": "909327845922504704",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 20916718,
+        "id_str": "20916718",
+        "name": "eXphinx",
+        "screen_name": "EXphinx",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 509,
+        "friends_count": 857,
+        "listed_count": 26,
+        "created_at": "Sun Feb 15 15:51:18 +0000 2009",
+        "favourites_count": 996,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7595,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/140896789/200903_007_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/140896789/200903_007_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 17 08:39:30 +0000 2017",
+    "id": 909335996528943104,
+    "id_str": "909335996528943104",
+    "text": "這篇在網路上的閱讀與搜集流程與我的日常非常接近。 How to set up a robust web reading environment https://t.co/LT4YjyGD47 來自 @instapaper",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "instapaper",
+          "name": "Instapaper",
+          "id": 16240267,
+          "id_str": "16240267",
+          "indices": [
+            99,
+            110
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LT4YjyGD47",
+          "expanded_url": "https://thesweetsetup.com/set-robust-web-reading-environment/",
+          "display_url": "thesweetsetup.com/set-robust-web…",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 17 08:26:07 +0000 2017",
+    "id": 909332628976705536,
+    "id_str": "909332628976705536",
+    "text": "@EXphinx 感謝！趕緊來試試。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "EXphinx",
+          "name": "eXphinx",
+          "id": 20916718,
+          "id_str": "20916718",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 909332417843834885,
+    "in_reply_to_status_id_str": "909332417843834885",
+    "in_reply_to_user_id": 20916718,
+    "in_reply_to_user_id_str": "20916718",
+    "in_reply_to_screen_name": "EXphinx",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 17 08:07:07 +0000 2017",
+    "id": 909327845922504704,
+    "id_str": "909327845922504704",
+    "text": "Instapaper 的劃線註記可以設定同步到 Evernote，卻是每一則丟進一文，即使 Evernote 可以方便多選文章、一鍵合併，若不是一次作業就很麻煩，常常遺漏。雙邊若能以單一文章對應更新就好了，找看看有沒有解法。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 17 05:33:12 +0000 2017",
+    "id": 909289111906770944,
+    "id_str": "909289111906770944",
+    "text": "MMD Composer 曾經是我日常使用最多的 Markdown 編輯器，終於有了新版，看起來引擎雖有升級，使用介面依舊傳統（也可說是落伍了），猶豫是否要繼續購買⋯⋯。 https://t.co/VbPFR3Jj1J",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VbPFR3Jj1J",
+          "expanded_url": "https://twitter.com/MMDSoftware/status/909287170858504192",
+          "display_url": "twitter.com/MMDSoftware/st…",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 909287170858504192,
+    "quoted_status_id_str": "909287170858504192",
+    "quoted_status": {
+      "created_at": "Sun Sep 17 05:25:29 +0000 2017",
+      "id": 909287170858504192,
+      "id_str": "909287170858504192",
+      "text": "Composer v4 is now available. Try it for free and upgrade if it suits your needs!  Learn more here: https://t.co/SN7s14y48o",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SN7s14y48o",
+            "expanded_url": "http://multimarkdown.com/composer4/",
+            "display_url": "multimarkdown.com/composer4/",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 381705712,
+        "id_str": "381705712",
+        "name": "MMD Software",
+        "screen_name": "MMDSoftware",
+        "location": "",
+        "description": "MultiMarkdown Software, LLC provides software built around the open-source lightweight markup language, MultiMarkdown.",
+        "url": "http://t.co/5xJwYnRUFw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/5xJwYnRUFw",
+                "expanded_url": "http://multimarkdown.com/",
+                "display_url": "multimarkdown.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 776,
+        "friends_count": 2,
+        "listed_count": 67,
+        "created_at": "Wed Sep 28 19:58:36 +0000 2011",
+        "favourites_count": 1,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 754,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1591828568/Composer_App_Icon_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1591828568/Composer_App_Icon_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": true,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 17 04:50:23 +0000 2017",
+    "id": 909278336383254530,
+    "id_str": "909278336383254530",
+    "text": "在 iOS App Store 裡一堆標題、內容都莫名奇妙的五星評論，明顯是灌榜用的垃圾，單看星等沒有參考價值了。 #中國應用特別多",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "中國應用特別多",
+          "indices": [
+            58,
+            66
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 17 04:33:49 +0000 2017",
+    "id": 909274168205570048,
+    "id_str": "909274168205570048",
+    "text": "“What’s coming in Meteor 1.6” by @benjamn https://t.co/bMSWBHphAT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "benjamn",
+          "name": "Ben Newman",
+          "id": 8630562,
+          "id_str": "8630562",
+          "indices": [
+            33,
+            41
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bMSWBHphAT",
+          "expanded_url": "https://blog.meteor.com/whats-coming-in-meteor-1-6-2f892cee18",
+          "display_url": "blog.meteor.com/whats-coming-i…",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 17 04:21:02 +0000 2017",
+    "id": 909270949433712640,
+    "id_str": "909270949433712640",
+    "text": "“How I Use My Journal To Create My Future and Achieve My Goals” by @BenjaminPHardy https://t.co/T8iEDQI2O1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "BenjaminPHardy",
+          "name": "Benjamin P. Hardy",
+          "id": 1955188266,
+          "id_str": "1955188266",
+          "indices": [
+            67,
+            82
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T8iEDQI2O1",
+          "expanded_url": "https://medium.com/@benjaminhardy/how-i-use-my-journal-to-create-my-future-and-achieve-my-goals-7f34746cae7d",
+          "display_url": "medium.com/@benjaminhardy…",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 17 03:15:32 +0000 2017",
+    "id": 909254464690839553,
+    "id_str": "909254464690839553",
+    "text": "沒想到 iTunes 有《野風濕身的女人》⋯⋯ #日活羅曼情慾",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "日活羅曼情慾",
+          "indices": [
+            24,
+            31
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Sep 17 02:55:04 +0000 2017",
     "id": 909249315746365440,
     "id_str": "909249315746365440",
