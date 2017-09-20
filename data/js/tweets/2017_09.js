@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2017_09 = [
   {
+    "created_at": "Wed Sep 20 12:14:59 +0000 2017",
+    "id": 910477385434202113,
+    "id_str": "910477385434202113",
+    "text": "「迷文化」一詞最早出現於1926年雨果‧根斯巴克（Hugo Gernsback）所創辦的第一本英語科幻小說雜誌，雨果在每期刊物的專欄討論讀者對雜誌故事的反應，而這些寫給雜誌的人則被稱作「粉絲」⋯⋯… https://t.co/WosLBzyjcL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WosLBzyjcL",
+          "expanded_url": "https://twitter.com/i/web/status/910477385434202113",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Sep 20 04:40:01 +0000 2017",
     "id": 910362889801920514,
     "id_str": "910362889801920514",
