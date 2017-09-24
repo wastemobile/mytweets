@@ -1,5 +1,293 @@
 Grailbird.data.tweets_2017_09 = [
   {
+    "created_at": "Sun Sep 24 10:20:48 +0000 2017",
+    "id": 911898203326341122,
+    "id_str": "911898203326341122",
+    "text": "大直美麗華地下的那家「丼丼亭」，號稱是什麼關西大阪第一天丼，其實非常雷。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 24 09:41:21 +0000 2017",
+    "id": 911888277120065536,
+    "id_str": "911888277120065536",
+    "text": "終於開始認真看⋯⋯ “神经漫游者”系列大结局， 揭开全部未解之谜！ https://t.co/RGBu55t7Ll https://t.co/y55JdLLxVX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RGBu55t7Ll",
+          "expanded_url": "https://www.duokan.com/book/132343",
+          "display_url": "duokan.com/book/132343",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 911888275496828928,
+          "id_str": "911888275496828928",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKetjh_VAAAn8Lo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKetjh_VAAAn8Lo.jpg",
+          "url": "https://t.co/y55JdLLxVX",
+          "display_url": "pic.twitter.com/y55JdLLxVX",
+          "expanded_url": "https://twitter.com/wastemobile/status/911888277120065536/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 311,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 469,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 469,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 911888275496828928,
+          "id_str": "911888275496828928",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKetjh_VAAAn8Lo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKetjh_VAAAn8Lo.jpg",
+          "url": "https://t.co/y55JdLLxVX",
+          "display_url": "pic.twitter.com/y55JdLLxVX",
+          "expanded_url": "https://twitter.com/wastemobile/status/911888277120065536/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 311,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 469,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 469,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 24 09:27:30 +0000 2017",
+    "id": 911884789547917312,
+    "id_str": "911884789547917312",
+    "text": "@sukinull PCIe SSD 貴到無法下手；記憶體已經自己加到24G。\n\n金士頓 SATA SSD 480G 差不多6000，買 iFixit 那組黏回去的膠帶含運 1500 元，9900 免自己動手好像可接受。雖不及PC… https://t.co/GODFcC7SWT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sukinull",
+          "name": "sukinull",
+          "id": 14853367,
+          "id_str": "14853367",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GODFcC7SWT",
+          "expanded_url": "https://twitter.com/i/web/status/911884789547917312",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 911877181738848256,
+    "in_reply_to_status_id_str": "911877181738848256",
+    "in_reply_to_user_id": 14853367,
+    "in_reply_to_user_id_str": "14853367",
+    "in_reply_to_screen_name": "sukinull",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 24 07:22:52 +0000 2017",
+    "id": 911853423628132354,
+    "id_str": "911853423628132354",
+    "text": "邪教，優先考慮的是「教主的幸福」。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Sun Sep 24 06:25:57 +0000 2017",
     "id": 911839102919569408,
     "id_str": "911839102919569408",
