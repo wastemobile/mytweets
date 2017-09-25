@@ -1,5 +1,823 @@
 Grailbird.data.tweets_2017_09 = [
   {
+    "created_at": "Mon Sep 25 15:18:06 +0000 2017",
+    "id": 912335408180084737,
+    "id_str": "912335408180084737",
+    "text": "RT @gagachi: 想知道+1 https://t.co/Hn467HfqCG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "gagachi",
+          "name": "一人小劇場🐽ヽ(提∀供)ﾉ寶寶狂熱👶",
+          "id": 15260932,
+          "id_str": "15260932",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 912304870333464576,
+          "id_str": "912304870333464576",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKkocisVwAAiDIQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKkocisVwAAiDIQ.jpg",
+          "url": "https://t.co/Hn467HfqCG",
+          "display_url": "pic.twitter.com/Hn467HfqCG",
+          "expanded_url": "https://twitter.com/gagachi/status/912304880190087168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 354,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 749,
+              "h": 390,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 749,
+              "h": 390,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 912304880190087168,
+          "source_status_id_str": "912304880190087168",
+          "source_user_id": 15260932,
+          "source_user_id_str": "15260932"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 912304870333464576,
+          "id_str": "912304870333464576",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKkocisVwAAiDIQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKkocisVwAAiDIQ.jpg",
+          "url": "https://t.co/Hn467HfqCG",
+          "display_url": "pic.twitter.com/Hn467HfqCG",
+          "expanded_url": "https://twitter.com/gagachi/status/912304880190087168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 354,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 749,
+              "h": 390,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 749,
+              "h": 390,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 912304880190087168,
+          "source_status_id_str": "912304880190087168",
+          "source_user_id": 15260932,
+          "source_user_id_str": "15260932"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Sep 25 13:16:47 +0000 2017",
+      "id": 912304880190087168,
+      "id_str": "912304880190087168",
+      "text": "想知道+1 https://t.co/Hn467HfqCG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 912304870333464576,
+            "id_str": "912304870333464576",
+            "indices": [
+              6,
+              29
+            ],
+            "media_url": "http://pbs.twimg.com/media/DKkocisVwAAiDIQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DKkocisVwAAiDIQ.jpg",
+            "url": "https://t.co/Hn467HfqCG",
+            "display_url": "pic.twitter.com/Hn467HfqCG",
+            "expanded_url": "https://twitter.com/gagachi/status/912304880190087168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 354,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 749,
+                "h": 390,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 749,
+                "h": 390,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 912304870333464576,
+            "id_str": "912304870333464576",
+            "indices": [
+              6,
+              29
+            ],
+            "media_url": "http://pbs.twimg.com/media/DKkocisVwAAiDIQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DKkocisVwAAiDIQ.jpg",
+            "url": "https://t.co/Hn467HfqCG",
+            "display_url": "pic.twitter.com/Hn467HfqCG",
+            "expanded_url": "https://twitter.com/gagachi/status/912304880190087168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 354,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 749,
+                "h": 390,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 749,
+                "h": 390,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15260932,
+        "id_str": "15260932",
+        "name": "一人小劇場🐽ヽ(提∀供)ﾉ寶寶狂熱👶",
+        "screen_name": "gagachi",
+        "location": "太陽系第三惑星",
+        "description": "傳說中的B霸94我(*´-`) 看心情隨時封鎖別人https://t.co/1SQTq4ev3T",
+        "url": "https://t.co/6AX8lDmJgG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/6AX8lDmJgG",
+                "expanded_url": "http://dailypuke.tumblr.com/",
+                "display_url": "dailypuke.tumblr.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/1SQTq4ev3T",
+                "expanded_url": "https://youtu.be/VzyPoosr9pI",
+                "display_url": "youtu.be/VzyPoosr9pI",
+                "indices": [
+                  25,
+                  48
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3015,
+        "friends_count": 738,
+        "listed_count": 46,
+        "created_at": "Sat Jun 28 05:17:09 +0000 2008",
+        "favourites_count": 18883,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 77689,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "666666",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000157621774/3ponSjsi.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000157621774/3ponSjsi.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/541121433158418432/rApyBBms_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/541121433158418432/rApyBBms_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15260932/1506187057",
+        "profile_link_color": "9E9E9E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "6B0C3A",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 27,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Sep 25 14:54:08 +0000 2017",
+    "id": 912329376137584640,
+    "id_str": "912329376137584640",
+    "text": "1922：現代文學的起源？ https://t.co/l3LNuhxQzP 「美國文史學家 Bill Goldstein 新作以 4 位現代作家的文學歷程為佐證，主張 1922 年是現代文學的起點。」很有意思的觀點。 https://t.co/bE5ic2pCOv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/l3LNuhxQzP",
+          "expanded_url": "http://www.cup.com.hk/2017/09/25/1922-origin-of-modern-literature/",
+          "display_url": "cup.com.hk/2017/09/25/192…",
+          "indices": [
+            14,
+            37
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 912329361369448448,
+          "id_str": "912329361369448448",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKk-uG6VwAAZwaX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKk-uG6VwAAZwaX.jpg",
+          "url": "https://t.co/bE5ic2pCOv",
+          "display_url": "pic.twitter.com/bE5ic2pCOv",
+          "expanded_url": "https://twitter.com/wastemobile/status/912329376137584640/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 658,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 658,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 447,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 912329361369448448,
+          "id_str": "912329361369448448",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKk-uG6VwAAZwaX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKk-uG6VwAAZwaX.jpg",
+          "url": "https://t.co/bE5ic2pCOv",
+          "display_url": "pic.twitter.com/bE5ic2pCOv",
+          "expanded_url": "https://twitter.com/wastemobile/status/912329376137584640/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 658,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 658,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 447,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 25 14:49:22 +0000 2017",
+    "id": 912328179318009856,
+    "id_str": "912328179318009856",
+    "text": "好吧，那場戲確實有點過分⋯⋯ https://t.co/BWqGFhJIc4 每週影評｜\n《金牌特務：機密對決》：那一場踩到紅線的戲 https://t.co/g9Q1ev5jkv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BWqGFhJIc4",
+          "expanded_url": "http://www.biosmonthly.com/columnist_topic/9214",
+          "display_url": "biosmonthly.com/columnist_topi…",
+          "indices": [
+            15,
+            38
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 912328166143692801,
+          "id_str": "912328166143692801",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKk9oiWUEAEc_h6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKk9oiWUEAEc_h6.jpg",
+          "url": "https://t.co/g9Q1ev5jkv",
+          "display_url": "pic.twitter.com/g9Q1ev5jkv",
+          "expanded_url": "https://twitter.com/wastemobile/status/912328179318009856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 912328166143692801,
+          "id_str": "912328166143692801",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKk9oiWUEAEc_h6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKk9oiWUEAEc_h6.jpg",
+          "url": "https://t.co/g9Q1ev5jkv",
+          "display_url": "pic.twitter.com/g9Q1ev5jkv",
+          "expanded_url": "https://twitter.com/wastemobile/status/912328179318009856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 25 07:41:05 +0000 2017",
+    "id": 912220396551684101,
+    "id_str": "912220396551684101",
+    "text": "本週提防星座：雙魚座⋯⋯🤣 https://t.co/oeyray4GhK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oeyray4GhK",
+          "expanded_url": "https://twitter.com/angiesaid/status/912213180528566272",
+          "display_url": "twitter.com/angiesaid/stat…",
+          "indices": [
+            14,
+            37
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 912213180528566272,
+    "quoted_status_id_str": "912213180528566272",
+    "quoted_status": {
+      "created_at": "Mon Sep 25 07:12:24 +0000 2017",
+      "id": 912213180528566272,
+      "id_str": "912213180528566272",
+      "text": "沈住氣 https://t.co/9uILXJ2Z2u",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 912213178653667329,
+            "id_str": "912213178653667329",
+            "indices": [
+              4,
+              27
+            ],
+            "media_url": "http://pbs.twimg.com/media/DKjVDYkU8AEi58G.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DKjVDYkU8AEi58G.jpg",
+            "url": "https://t.co/9uILXJ2Z2u",
+            "display_url": "pic.twitter.com/9uILXJ2Z2u",
+            "expanded_url": "https://twitter.com/angiesaid/status/912213180528566272/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 712,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 712,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 473,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 912213178653667329,
+            "id_str": "912213178653667329",
+            "indices": [
+              4,
+              27
+            ],
+            "media_url": "http://pbs.twimg.com/media/DKjVDYkU8AEi58G.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DKjVDYkU8AEi58G.jpg",
+            "url": "https://t.co/9uILXJ2Z2u",
+            "display_url": "pic.twitter.com/9uILXJ2Z2u",
+            "expanded_url": "https://twitter.com/angiesaid/status/912213180528566272/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 712,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 712,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 473,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 242133,
+        "id_str": "242133",
+        "name": "安吉",
+        "screen_name": "angiesaid",
+        "location": "",
+        "description": "This too, shall pass.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3479,
+        "friends_count": 870,
+        "listed_count": 101,
+        "created_at": "Mon Dec 25 13:03:07 +0000 2006",
+        "favourites_count": 58864,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 89900,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/857502088099540992/_fpkLerh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/857502088099540992/_fpkLerh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242133/1460813191",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Sep 24 10:20:48 +0000 2017",
     "id": 911898203326341122,
     "id_str": "911898203326341122",
