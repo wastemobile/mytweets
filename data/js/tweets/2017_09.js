@@ -1,5 +1,767 @@
 Grailbird.data.tweets_2017_09 = [
   {
+    "created_at": "Thu Sep 28 01:53:49 +0000 2017",
+    "id": 913220169564020736,
+    "id_str": "913220169564020736",
+    "text": "RT @technews_tw: Readmoo 電子書閱讀時間創新高！執行長龐文真：現在是閱讀最美好的年代 https://t.co/NQ7KgbdLwr https://t.co/TtPWRGPc7W",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "technews_tw",
+          "name": "Technews 科技新報",
+          "id": 2799026833,
+          "id_str": "2799026833",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NQ7KgbdLwr",
+          "expanded_url": "http://dlvr.it/PqpFlF",
+          "display_url": "dlvr.it/PqpFlF",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 913036803472367616,
+          "id_str": "913036803472367616",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKvCIqHUIAATbAU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKvCIqHUIAATbAU.jpg",
+          "url": "https://t.co/TtPWRGPc7W",
+          "display_url": "pic.twitter.com/TtPWRGPc7W",
+          "expanded_url": "https://twitter.com/technews_tw/status/913036808409067525/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 554,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 471,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 554,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 913036808409067525,
+          "source_status_id_str": "913036808409067525",
+          "source_user_id": 2799026833,
+          "source_user_id_str": "2799026833"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 913036803472367616,
+          "id_str": "913036803472367616",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKvCIqHUIAATbAU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKvCIqHUIAATbAU.jpg",
+          "url": "https://t.co/TtPWRGPc7W",
+          "display_url": "pic.twitter.com/TtPWRGPc7W",
+          "expanded_url": "https://twitter.com/technews_tw/status/913036808409067525/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 554,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 471,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 554,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 913036808409067525,
+          "source_status_id_str": "913036808409067525",
+          "source_user_id": 2799026833,
+          "source_user_id_str": "2799026833"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 27 13:45:13 +0000 2017",
+      "id": 913036808409067525,
+      "id_str": "913036808409067525",
+      "text": "Readmoo 電子書閱讀時間創新高！執行長龐文真：現在是閱讀最美好的年代 https://t.co/NQ7KgbdLwr https://t.co/TtPWRGPc7W",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NQ7KgbdLwr",
+            "expanded_url": "http://dlvr.it/PqpFlF",
+            "display_url": "dlvr.it/PqpFlF",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 913036803472367616,
+            "id_str": "913036803472367616",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/DKvCIqHUIAATbAU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DKvCIqHUIAATbAU.jpg",
+            "url": "https://t.co/TtPWRGPc7W",
+            "display_url": "pic.twitter.com/TtPWRGPc7W",
+            "expanded_url": "https://twitter.com/technews_tw/status/913036808409067525/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 800,
+                "h": 554,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 471,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 554,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 913036803472367616,
+            "id_str": "913036803472367616",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/DKvCIqHUIAATbAU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DKvCIqHUIAATbAU.jpg",
+            "url": "https://t.co/TtPWRGPc7W",
+            "display_url": "pic.twitter.com/TtPWRGPc7W",
+            "expanded_url": "https://twitter.com/technews_tw/status/913036808409067525/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 800,
+                "h": 554,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 471,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 554,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2799026833,
+        "id_str": "2799026833",
+        "name": "Technews 科技新報",
+        "screen_name": "technews_tw",
+        "location": "台灣, 台北市",
+        "description": "科技新報 （TechNews）於 2013 年下半年成立，是一群對資訊科技、能源、半導體、行動運算、網際網路、醫療、生物科技具有高度熱忱與興趣的產業與新媒體人士所共同組成的時代新媒體，以產出有觀點與特色的原創文章為主要任務。",
+        "url": "http://t.co/386e9RC7Ca",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/386e9RC7Ca",
+                "expanded_url": "http://technews.tw",
+                "display_url": "technews.tw",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 469,
+        "friends_count": 32,
+        "listed_count": 28,
+        "created_at": "Tue Sep 09 01:49:20 +0000 2014",
+        "favourites_count": 0,
+        "utc_offset": 21600,
+        "time_zone": "Urumqi",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30389,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2799026833/1410228878",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 28 01:51:51 +0000 2017",
+    "id": 913219672190869504,
+    "id_str": "913219672190869504",
+    "text": "RT @_cxa: 友情提示，如果你之前用 configuration profile 来刷 iOS beta 版，一定要删掉重起机器才能刷出 10.0.1。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "_cxa",
+          "name": "陈贤安 CHEN Xian-an",
+          "id": 7653792,
+          "id_str": "7653792",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Sep 28 01:27:14 +0000 2017",
+      "id": 913213479649026048,
+      "id_str": "913213479649026048",
+      "text": "友情提示，如果你之前用 configuration profile 来刷 iOS beta 版，一定要删掉重起机器才能刷出 10.0.1。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7653792,
+        "id_str": "7653792",
+        "name": "陈贤安 CHEN Xian-an",
+        "screen_name": "_cxa",
+        "location": "Nanning, Guangxi, China",
+        "description": "志小，才疏，学浅。",
+        "url": "https://t.co/ETXBKpLbed",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ETXBKpLbed",
+                "expanded_url": "http://realazy.com",
+                "display_url": "realazy.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5956,
+        "friends_count": 768,
+        "listed_count": 162,
+        "created_at": "Mon Jul 23 06:54:46 +0000 2007",
+        "favourites_count": 38,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6099,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/604897695703011328/ZHrHb5gR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/604897695703011328/ZHrHb5gR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7653792/1500696872",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 26 16:54:51 +0000 2017",
+    "id": 912722145007910912,
+    "id_str": "912722145007910912",
+    "text": "剛發現 Google Play 租電影都比蘋果便宜二十塊。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 26 16:29:58 +0000 2017",
+    "id": 912715881402187776,
+    "id_str": "912715881402187776",
+    "text": "改編 AV 女優紗倉まな的小說《最低。》的電影，11/25 上映。 https://t.co/bIx0vLOl20 https://t.co/E2UAp4zjPn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bIx0vLOl20",
+          "expanded_url": "https://www.instapaper.com/read/960044940",
+          "display_url": "instapaper.com/read/960044940",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 912715857838579712,
+          "id_str": "912715857838579712",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKqePKdVoAA4-cb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKqePKdVoAA4-cb.jpg",
+          "url": "https://t.co/E2UAp4zjPn",
+          "display_url": "pic.twitter.com/E2UAp4zjPn",
+          "expanded_url": "https://twitter.com/wastemobile/status/912715881402187776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 846,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1703,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 479,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 912715857838579712,
+          "id_str": "912715857838579712",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKqePKdVoAA4-cb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKqePKdVoAA4-cb.jpg",
+          "url": "https://t.co/E2UAp4zjPn",
+          "display_url": "pic.twitter.com/E2UAp4zjPn",
+          "expanded_url": "https://twitter.com/wastemobile/status/912715881402187776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 846,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1703,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 479,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 912715856219594752,
+          "id_str": "912715856219594752",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DKqePEbV4AApts1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DKqePEbV4AApts1.jpg",
+          "url": "https://t.co/E2UAp4zjPn",
+          "display_url": "pic.twitter.com/E2UAp4zjPn",
+          "expanded_url": "https://twitter.com/wastemobile/status/912715881402187776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Sep 26 15:08:12 +0000 2017",
+    "id": 912695304343896064,
+    "id_str": "912695304343896064",
+    "text": "好奇心日報這篇文，替用戶仔細看了看三十個中國互聯網服務對內容版權的規定，用一句話就說完了：「責任都是用戶承擔，權利則由平台獨家享受」。 https://t.co/3W0x2iUHZY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3W0x2iUHZY",
+          "expanded_url": "http://www.qdaily.com/articles/45393.html",
+          "display_url": "qdaily.com/articles/45393…",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Sep 26 10:18:46 +0000 2017",
     "id": 912622466702352385,
     "id_str": "912622466702352385",
