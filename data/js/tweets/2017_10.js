@@ -1,5 +1,164 @@
 Grailbird.data.tweets_2017_10 = [
   {
+    "created_at": "Sun Oct 01 05:26:49 +0000 2017",
+    "id": 914360935912955904,
+    "id_str": "914360935912955904",
+    "text": "RT @brahmantw: 鄭運鵬要撤案了\nhttps://t.co/Tvoj4WUUqH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "brahmantw",
+          "name": "brahman",
+          "id": 11453962,
+          "id_str": "11453962",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Tvoj4WUUqH",
+          "expanded_url": "https://m.facebook.com/story.php?story_fbid=1745741895719588&id=1497340690559711",
+          "display_url": "m.facebook.com/story.php?stor…",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Oct 01 05:00:19 +0000 2017",
+      "id": 914354267053363201,
+      "id_str": "914354267053363201",
+      "text": "鄭運鵬要撤案了\nhttps://t.co/Tvoj4WUUqH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Tvoj4WUUqH",
+            "expanded_url": "https://m.facebook.com/story.php?story_fbid=1745741895719588&id=1497340690559711",
+            "display_url": "m.facebook.com/story.php?stor…",
+            "indices": [
+              8,
+              31
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 11453962,
+        "id_str": "11453962",
+        "name": "brahman",
+        "screen_name": "brahmantw",
+        "location": "Taichung, Taiwan",
+        "description": "拔斷筋",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1817,
+        "friends_count": 429,
+        "listed_count": 62,
+        "created_at": "Sun Dec 23 14:21:41 +0000 2007",
+        "favourites_count": 1313,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23940,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3186870/Barcelona_Port.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3186870/Barcelona_Port.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1607603920/7533_101435579876781_100000310176891_36804_1445705_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1607603920/7533_101435579876781_100000310176891_36804_1445705_n_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Oct 01 04:10:16 +0000 2017",
     "id": 914341668266094592,
     "id_str": "914341668266094592",
