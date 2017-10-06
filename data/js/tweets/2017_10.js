@@ -1,5 +1,979 @@
 Grailbird.data.tweets_2017_10 = [
   {
+    "created_at": "Fri Oct 06 03:43:35 +0000 2017",
+    "id": 916146895612870656,
+    "id_str": "916146895612870656",
+    "text": "確認了問題所在：原來是在 Clipper 連結到 Evernote 重新登入認證時，要記得關閉該網站 Safari 11 預設啟用的內容阻擋器，就能正常運作。 https://t.co/V5J8MPULpq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/V5J8MPULpq",
+          "expanded_url": "https://twitter.com/wastemobile/status/915855923494526978",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 915855923494526978,
+    "in_reply_to_status_id_str": "915855923494526978",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 915855923494526978,
+    "quoted_status_id_str": "915855923494526978",
+    "quoted_status": {
+      "created_at": "Thu Oct 05 08:27:22 +0000 2017",
+      "id": 915855923494526978,
+      "id_str": "915855923494526978",
+      "text": "Evernote Web Clipper 在 Safari 11 上沒有作用，重裝也不行，這可傷腦筋了⋯⋯。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "Taipei",
+        "description": "人生觀究竟是怎麼一回事？",
+        "url": "https://t.co/5LQVtqARrN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LQVtqARrN",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3358,
+        "friends_count": 1064,
+        "listed_count": 126,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 2711,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18391,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1444152077",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 05 16:27:58 +0000 2017",
+    "id": 915976869597478913,
+    "id_str": "915976869597478913",
+    "text": "原來 Apple Watch 真的可以量血壓（或說是推算出血壓）⋯⋯ https://t.co/z57QYQ54On",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/z57QYQ54On",
+          "expanded_url": "https://twitter.com/applewatch_apps/status/915975027215839233",
+          "display_url": "twitter.com/applewatch_app…",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 915975027215839233,
+    "quoted_status_id_str": "915975027215839233",
+    "quoted_status": {
+      "created_at": "Thu Oct 05 16:20:39 +0000 2017",
+      "id": 915975027215839233,
+      "id_str": "915975027215839233",
+      "text": "Patent describes clever method allowing an Apple Watch to measure blood pressure https://t.co/RiRfWerLft https://t.co/gUV5PmxuBU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RiRfWerLft",
+            "expanded_url": "https://9to5mac.com/2017/10/05/blood-pressure-monitor-apple-watch",
+            "display_url": "9to5mac.com/2017/10/05/blo…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 915975023235563521,
+            "id_str": "915975023235563521",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/DLYybjsWAAERrUc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DLYybjsWAAERrUc.jpg",
+            "url": "https://t.co/gUV5PmxuBU",
+            "display_url": "pic.twitter.com/gUV5PmxuBU",
+            "expanded_url": "https://twitter.com/applewatch_apps/status/915975027215839233/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2000,
+                "h": 1333,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 915975023235563521,
+            "id_str": "915975023235563521",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/DLYybjsWAAERrUc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DLYybjsWAAERrUc.jpg",
+            "url": "https://t.co/gUV5PmxuBU",
+            "display_url": "pic.twitter.com/gUV5PmxuBU",
+            "expanded_url": "https://twitter.com/applewatch_apps/status/915975027215839233/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2000,
+                "h": 1333,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2881883374,
+        "id_str": "2881883374",
+        "name": "Watch Apps",
+        "screen_name": "applewatch_apps",
+        "location": "SF",
+        "description": "Apple Watch apps, news, and accessories on https://t.co/d8AbVn7Fw8\nWatchAppList is run by https://t.co/QlioJSob9G",
+        "url": "https://t.co/ezjcuCW89c",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ezjcuCW89c",
+                "expanded_url": "https://www.facebook.com/topwatchapps",
+                "display_url": "facebook.com/topwatchapps",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/d8AbVn7Fw8",
+                "expanded_url": "http://watchapplist.com",
+                "display_url": "watchapplist.com",
+                "indices": [
+                  43,
+                  66
+                ]
+              },
+              {
+                "url": "https://t.co/QlioJSob9G",
+                "expanded_url": "http://applistmedia.com",
+                "display_url": "applistmedia.com",
+                "indices": [
+                  90,
+                  113
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6755,
+        "friends_count": 293,
+        "listed_count": 105,
+        "created_at": "Mon Nov 17 23:03:20 +0000 2014",
+        "favourites_count": 1384,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 815,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/534485956036808704/C8lvLhqb_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/534485956036808704/C8lvLhqb_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2881883374/1418840159",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 05 13:03:51 +0000 2017",
+    "id": 915925501482377216,
+    "id_str": "915925501482377216",
+    "text": "RT @scheeinfo: 我把茶餘飯後的21篇文章，利用半小時的午後彙整成大約三萬多字的電子書。有興趣的朋友參考參考 https://t.co/BCajlyM2Yp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "scheeinfo",
+          "name": "T.H. Schee",
+          "id": 13500732,
+          "id_str": "13500732",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BCajlyM2Yp",
+          "expanded_url": "https://digination.schee.info/",
+          "display_url": "digination.schee.info",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 05 12:23:25 +0000 2017",
+      "id": 915915329078927360,
+      "id_str": "915915329078927360",
+      "text": "我把茶餘飯後的21篇文章，利用半小時的午後彙整成大約三萬多字的電子書。有興趣的朋友參考參考 https://t.co/BCajlyM2Yp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BCajlyM2Yp",
+            "expanded_url": "https://digination.schee.info/",
+            "display_url": "digination.schee.info",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 13500732,
+        "id_str": "13500732",
+        "name": "T.H. Schee",
+        "screen_name": "scheeinfo",
+        "location": "Asia Pacific",
+        "description": "Solo moto ride across .au at 15 | Mayoral Advisor (Taipei) on Smart City & Economic Development | Views mine",
+        "url": "https://t.co/KiITaWYQQM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/KiITaWYQQM",
+                "expanded_url": "http://schee.info",
+                "display_url": "schee.info",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4133,
+        "friends_count": 1783,
+        "listed_count": 234,
+        "created_at": "Fri Feb 15 02:34:56 +0000 2008",
+        "favourites_count": 8827,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10707,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/704977265269067777/PiiGPVyA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/704977265269067777/PiiGPVyA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13500732/1464241014",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 05 09:07:18 +0000 2017",
+    "id": 915865972002525184,
+    "id_str": "915865972002525184",
+    "text": "@purebox 感謝提點喔。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "purebox",
+          "name": "盒泰辛酸",
+          "id": 10144682,
+          "id_str": "10144682",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 915865030830186496,
+    "in_reply_to_status_id_str": "915865030830186496",
+    "in_reply_to_user_id": 10144682,
+    "in_reply_to_user_id_str": "10144682",
+    "in_reply_to_screen_name": "purebox",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 05 08:27:22 +0000 2017",
+    "id": 915855923494526978,
+    "id_str": "915855923494526978",
+    "text": "Evernote Web Clipper 在 Safari 11 上沒有作用，重裝也不行，這可傷腦筋了⋯⋯。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 05 08:23:24 +0000 2017",
+    "id": 915854923656339456,
+    "id_str": "915854923656339456",
+    "text": "@purebox 意思是以現況來說，網路廣告收益根本不可能支撐原創內容網站嗎？（即使某原創網站拿得到與內容農場相當的廣告收益）",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "purebox",
+          "name": "盒泰辛酸",
+          "id": 10144682,
+          "id_str": "10144682",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 915853893585690625,
+    "in_reply_to_status_id_str": "915853893585690625",
+    "in_reply_to_user_id": 10144682,
+    "in_reply_to_user_id_str": "10144682",
+    "in_reply_to_screen_name": "purebox",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 05 08:09:43 +0000 2017",
+    "id": 915851481454018560,
+    "id_str": "915851481454018560",
+    "text": "網路廣告能支撐內容農場與盜版影音網站的生存，卻無法讓原創內容網站活下去，這其中一定有什麼我沒理解的東西吧。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 05 07:58:23 +0000 2017",
+    "id": 915848629264330752,
+    "id_str": "915848629264330752",
+    "text": "RT @afei_taipei: \"「廢柴」的快樂生活 日本青年人：不為國家而活｜深度｜端傳媒 Initium Media\" ( https://t.co/CTWXJ34lRo )\n\n現在台灣也有不少年輕人抱持這樣的價值觀，我覺得挺好的，所謂的成功，應該是由自己來定義的，不是嗎？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "afei_taipei",
+          "name": "阿飛大叔",
+          "id": 820544,
+          "id_str": "820544",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CTWXJ34lRo",
+          "expanded_url": "http://twitthat.com/LaMxQ",
+          "display_url": "twitthat.com/LaMxQ",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 05 07:51:28 +0000 2017",
+      "id": 915846886694715392,
+      "id_str": "915846886694715392",
+      "text": "\"「廢柴」的快樂生活 日本青年人：不為國家而活｜深度｜端傳媒 Initium Media\" ( https://t.co/CTWXJ34lRo )\n\n現在台灣也有不少年輕人抱持這樣的價值觀，我覺得挺好的，所謂的成功，應該是由自己來定義的，不是嗎？",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CTWXJ34lRo",
+            "expanded_url": "http://twitthat.com/LaMxQ",
+            "display_url": "twitthat.com/LaMxQ",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitthat.com/\" rel=\"nofollow\">twitthat</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 820544,
+        "id_str": "820544",
+        "name": "阿飛大叔",
+        "screen_name": "afei_taipei",
+        "location": "ÜT: 25.032582,121.570971",
+        "description": "台灣台北，自由作者 / 行銷人。年過四十的臭酸熟男，身高不會再高，倒是髮線不斷變高，偽文青是人生最大樂事。https://t.co/NdXMBYuoNo",
+        "url": "http://t.co/IOUG5XgjrE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/IOUG5XgjrE",
+                "expanded_url": "http://www.a-fei.idv.tw",
+                "display_url": "a-fei.idv.tw",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/NdXMBYuoNo",
+                "expanded_url": "http://about.me/afei_taipei",
+                "display_url": "about.me/afei_taipei",
+                "indices": [
+                  53,
+                  76
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3762,
+        "friends_count": 296,
+        "listed_count": 74,
+        "created_at": "Thu Mar 08 01:55:32 +0000 2007",
+        "favourites_count": 368,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12645,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "05050D",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/699207751/8c0d0102814100a1b755bba8e7647ba7.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/699207751/8c0d0102814100a1b755bba8e7647ba7.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000801306772/ace5f142cf651ec3e9a336c02507e19e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000801306772/ace5f142cf651ec3e9a336c02507e19e_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/820544/1503570815",
+        "profile_link_color": "AD0A30",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "BA6D53",
+        "profile_text_color": "833741",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Oct 04 14:48:44 +0000 2017",
     "id": 915589511156981760,
     "id_str": "915589511156981760",
