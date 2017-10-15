@@ -1,5 +1,507 @@
 Grailbird.data.tweets_2017_10 = [
   {
+    "created_at": "Sun Oct 15 09:20:47 +0000 2017",
+    "id": 919493243275841536,
+    "id_str": "919493243275841536",
+    "text": "@JoviiWang 那辦案技巧在所有影集都已是預設，這影集重演其源起，復古細節也都做得不錯。我覺得若能耐著性子看到第二集後半，應該就可以看下去了，所以第一次要看兩集。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JoviiWang",
+          "name": "Jovii Baby",
+          "id": 913879472696262656,
+          "id_str": "913879472696262656",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 919491610412331009,
+    "in_reply_to_status_id_str": "919491610412331009",
+    "in_reply_to_user_id": 913879472696262656,
+    "in_reply_to_user_id_str": "913879472696262656",
+    "in_reply_to_screen_name": "JoviiWang",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 15 09:12:36 +0000 2017",
+    "id": 919491184988319744,
+    "id_str": "919491184988319744",
+    "text": "破案神探：FBI首位犯罪剖繪專家緝兇檔案（首部曲） #netflix 同名改編影集原著（還有二部曲） https://t.co/bBzFfBuL8N https://t.co/9LFZtfes4j",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "netflix",
+          "indices": [
+            26,
+            34
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bBzFfBuL8N",
+          "expanded_url": "http://www.books.com.tw/products/0010760666",
+          "display_url": "books.com.tw/products/00107…",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 919491175509254146,
+          "id_str": "919491175509254146",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMKwWjpV4AICjFs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DMKwWjpV4AICjFs.jpg",
+          "url": "https://t.co/9LFZtfes4j",
+          "display_url": "pic.twitter.com/9LFZtfes4j",
+          "expanded_url": "https://twitter.com/wastemobile/status/919491184988319744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 919491175509254146,
+          "id_str": "919491175509254146",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMKwWjpV4AICjFs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DMKwWjpV4AICjFs.jpg",
+          "url": "https://t.co/9LFZtfes4j",
+          "display_url": "pic.twitter.com/9LFZtfes4j",
+          "expanded_url": "https://twitter.com/wastemobile/status/919491184988319744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 15 06:57:17 +0000 2017",
+    "id": 919457132021346304,
+    "id_str": "919457132021346304",
+    "text": "剛上檔的 #netflix 《破案神探》取材自 FBI 第一位犯罪剖繪（criminal profiling）專家的故事，可以買到同名的中文譯本。 https://t.co/2K3Zlx72mv\n\n沒有過度好萊塢灑狗血的劇情，寫實且晦暗，需要耐點性子，但值得一看。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "netflix",
+          "indices": [
+            5,
+            13
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2K3Zlx72mv",
+          "expanded_url": "https://www.netflix.com/title/80114855",
+          "display_url": "netflix.com/title/80114855",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 15 06:42:17 +0000 2017",
+    "id": 919453358297030662,
+    "id_str": "919453358297030662",
+    "text": "區塊鏈 #blockchain 對書籍出版可能會有哪些影響？ #study https://t.co/HShxxwjr3D https://t.co/hMpJk62hFz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "blockchain",
+          "indices": [
+            4,
+            15
+          ]
+        },
+        {
+          "text": "study",
+          "indices": [
+            31,
+            37
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HShxxwjr3D",
+          "expanded_url": "https://publishingperspectives.com/?p=107664",
+          "display_url": "publishingperspectives.com/?p=107664",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 919453350759882752,
+          "id_str": "919453350759882752",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMKN83eV4AACQl_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DMKN83eV4AACQl_.jpg",
+          "url": "https://t.co/hMpJk62hFz",
+          "display_url": "pic.twitter.com/hMpJk62hFz",
+          "expanded_url": "https://twitter.com/wastemobile/status/919453358297030662/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 710,
+              "h": 473,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 710,
+              "h": 473,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 919453350759882752,
+          "id_str": "919453350759882752",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMKN83eV4AACQl_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DMKN83eV4AACQl_.jpg",
+          "url": "https://t.co/hMpJk62hFz",
+          "display_url": "pic.twitter.com/hMpJk62hFz",
+          "expanded_url": "https://twitter.com/wastemobile/status/919453358297030662/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 710,
+              "h": 473,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 710,
+              "h": 473,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 15 06:34:34 +0000 2017",
+    "id": 919451414551674880,
+    "id_str": "919451414551674880",
+    "text": "《銀翼殺手》（Blade Runner - The Final Cut） iTunes 的字幕已經修好了～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Oct 14 17:20:02 +0000 2017",
+    "id": 919251463552999424,
+    "id_str": "919251463552999424",
+    "text": "@purebox 耶！被關與被放都莫名其妙，但還是好開心啊！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "purebox",
+          "name": "盒泰然處之",
+          "id": 10144682,
+          "id_str": "10144682",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 919251225933070336,
+    "in_reply_to_status_id_str": "919251225933070336",
+    "in_reply_to_user_id": 10144682,
+    "in_reply_to_user_id_str": "10144682",
+    "in_reply_to_screen_name": "purebox",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Oct 14 16:55:04 +0000 2017",
     "id": 919245182704295936,
     "id_str": "919245182704295936",
