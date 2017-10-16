@@ -1,5 +1,373 @@
 Grailbird.data.tweets_2017_10 = [
   {
+    "created_at": "Sun Oct 15 17:04:58 +0000 2017",
+    "id": 919610060786905088,
+    "id_str": "919610060786905088",
+    "text": "@Jotarun 看了他們的隱晦討論說明，總之就是雙方都知道這玩意兒投資很大，比賽也分很多天與階段（損害控制？）、邊修復邊進行。最終有點像是剪個漂亮的表演賽過程給大家看，對雙方都有益處。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Jotarun",
+          "name": "Jotarun",
+          "id": 21580164,
+          "id_str": "21580164",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 919601316036460544,
+    "in_reply_to_status_id_str": "919601316036460544",
+    "in_reply_to_user_id": 21580164,
+    "in_reply_to_user_id_str": "21580164",
+    "in_reply_to_screen_name": "Jotarun",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 15 16:09:46 +0000 2017",
+    "id": 919596166555172865,
+    "id_str": "919596166555172865",
+    "text": "@Jotarun 懂了，感謝。 #覺得水道橋重工會贏",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "覺得水道橋重工會贏",
+          "indices": [
+            16,
+            26
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Jotarun",
+          "name": "Jotarun",
+          "id": 21580164,
+          "id_str": "21580164",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 919594569557090304,
+    "in_reply_to_status_id_str": "919594569557090304",
+    "in_reply_to_user_id": 21580164,
+    "in_reply_to_user_id_str": "21580164",
+    "in_reply_to_screen_name": "Jotarun",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 15 16:01:26 +0000 2017",
+    "id": 919594069919068161,
+    "id_str": "919594069919068161",
+    "text": "@Jotarun 什麼什麼！沒有吧？10/17 啊？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Jotarun",
+          "name": "Jotarun",
+          "id": 21580164,
+          "id_str": "21580164",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 919593725004693504,
+    "in_reply_to_status_id_str": "919593725004693504",
+    "in_reply_to_user_id": 21580164,
+    "in_reply_to_user_id_str": "21580164",
+    "in_reply_to_screen_name": "Jotarun",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 15 15:58:31 +0000 2017",
+    "id": 919593339095212033,
+    "id_str": "919593339095212033",
+    "text": "@vincicat 感謝，找到了！ https://t.co/8pfXOMUgUX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "vincicat",
+          "name": "Vinci the Cat ☂",
+          "id": 16105647,
+          "id_str": "16105647",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8pfXOMUgUX",
+          "expanded_url": "https://www.twitch.tv/megabotsinc",
+          "display_url": "twitch.tv/megabotsinc",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 919592890770243584,
+    "in_reply_to_status_id_str": "919592890770243584",
+    "in_reply_to_user_id": 16105647,
+    "in_reply_to_user_id_str": "16105647",
+    "in_reply_to_screen_name": "vincicat",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 15 15:46:17 +0000 2017",
+    "id": 919590259481985024,
+    "id_str": "919590259481985024",
+    "text": "沒注意日美巨型機器人本週二（10/17）就開打了，哪裡有直播？ https://t.co/W0PSKAwXrG https://t.co/Z0ifAQDegy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W0PSKAwXrG",
+          "expanded_url": "http://www.qdaily.com/articles/46090.html",
+          "display_url": "qdaily.com/articles/46090…",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 919590250191532034,
+          "id_str": "919590250191532034",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMMKddmUMAI2InD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DMMKddmUMAI2InD.jpg",
+          "url": "https://t.co/Z0ifAQDegy",
+          "display_url": "pic.twitter.com/Z0ifAQDegy",
+          "expanded_url": "https://twitter.com/wastemobile/status/919590259481985024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 406,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 448,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 448,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 919590250191532034,
+          "id_str": "919590250191532034",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMMKddmUMAI2InD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DMMKddmUMAI2InD.jpg",
+          "url": "https://t.co/Z0ifAQDegy",
+          "display_url": "pic.twitter.com/Z0ifAQDegy",
+          "expanded_url": "https://twitter.com/wastemobile/status/919590259481985024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 406,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 448,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 448,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Oct 15 09:20:47 +0000 2017",
     "id": 919493243275841536,
     "id_str": "919493243275841536",
