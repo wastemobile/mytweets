@@ -1,5 +1,599 @@
 Grailbird.data.tweets_2017_10 = [
   {
+    "created_at": "Tue Oct 17 13:54:48 +0000 2017",
+    "id": 920286979320770560,
+    "id_str": "920286979320770560",
+    "text": "RT @ruanyf: Fastify 号称是目前最快的 Node 应用框架之一。API 看上去非常简洁，简直就是支持async/await的 Express升级版，并且兼容Express中间件。https://t.co/OzSYBcvM2l https://t.co/g3y9…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ruanyf",
+          "name": "ruanyf",
+          "id": 1580781,
+          "id_str": "1580781",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OzSYBcvM2l",
+          "expanded_url": "https://github.com/fastify/fastify",
+          "display_url": "github.com/fastify/fastify",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Oct 17 12:53:48 +0000 2017",
+      "id": 920271626322657280,
+      "id_str": "920271626322657280",
+      "text": "Fastify 号称是目前最快的 Node 应用框架之一。API 看上去非常简洁，简直就是支持async/await的 Express升级版，并且兼容Express中间件。https://t.co/OzSYBcvM2l https://t.co/g3y90WTCbV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OzSYBcvM2l",
+            "expanded_url": "https://github.com/fastify/fastify",
+            "display_url": "github.com/fastify/fastify",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 920271610505916417,
+            "id_str": "920271610505916417",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/DMV2J2kU8AE3o-2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DMV2J2kU8AE3o-2.jpg",
+            "url": "https://t.co/g3y90WTCbV",
+            "display_url": "pic.twitter.com/g3y90WTCbV",
+            "expanded_url": "https://twitter.com/ruanyf/status/920271626322657280/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1484,
+                "h": 1138,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 521,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 920,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 920271610505916417,
+            "id_str": "920271610505916417",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/DMV2J2kU8AE3o-2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DMV2J2kU8AE3o-2.jpg",
+            "url": "https://t.co/g3y90WTCbV",
+            "display_url": "pic.twitter.com/g3y90WTCbV",
+            "expanded_url": "https://twitter.com/ruanyf/status/920271626322657280/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1484,
+                "h": 1138,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 521,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 920,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1580781,
+        "id_str": "1580781",
+        "name": "ruanyf",
+        "screen_name": "ruanyf",
+        "location": "Shanghai, China",
+        "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+        "url": "http://t.co/fw8pEsBuak",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/fw8pEsBuak",
+                "expanded_url": "http://www.ruanyifeng.com",
+                "display_url": "ruanyifeng.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 56677,
+        "friends_count": 352,
+        "listed_count": 680,
+        "created_at": "Tue Mar 20 02:53:02 +0000 2007",
+        "favourites_count": 10698,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2765,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/10120417/3151620623068.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/10120417/3151620623068.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580781/1355537048",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 17 08:04:27 +0000 2017",
+    "id": 920198811112284160,
+    "id_str": "920198811112284160",
+    "text": "RT @dgdunix: 我認為左右派的最簡易的判斷法是你願不願意為了更強大的共同體而加自己的稅。\n\n所以會說「去加有錢人的稅，我這麼苦該減稅」的人其實都是右派。所以台灣都是右派。所以你是右派。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dgdunix",
+          "name": "DING Jian-Jhong",
+          "id": 14329757,
+          "id_str": "14329757",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Oct 17 07:58:12 +0000 2017",
+      "id": 920197237317156864,
+      "id_str": "920197237317156864",
+      "text": "我認為左右派的最簡易的判斷法是你願不願意為了更強大的共同體而加自己的稅。\n\n所以會說「去加有錢人的稅，我這麼苦該減稅」的人其實都是右派。所以台灣都是右派。所以你是右派。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14329757,
+        "id_str": "14329757",
+        "name": "DING Jian-Jhong",
+        "screen_name": "dgdunix",
+        "location": "New Taipei, Taiwan",
+        "description": "一個平凡的偏執狂",
+        "url": "http://t.co/mkDJthrn4I",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/mkDJthrn4I",
+                "expanded_url": "http://dgdunix.blogspot.com/",
+                "display_url": "dgdunix.blogspot.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 442,
+        "friends_count": 178,
+        "listed_count": 20,
+        "created_at": "Tue Apr 08 05:06:36 +0000 2008",
+        "favourites_count": 875,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9102,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/504880398963204096/4UQ5zl8v_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/504880398963204096/4UQ5zl8v_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14329757/1443612838",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 17 03:26:42 +0000 2017",
+    "id": 920128912822112256,
+    "id_str": "920128912822112256",
+    "text": "Alex Katz 這一系列地鐵速寫有一種特殊的韻味。 https://t.co/o9eed7hvWM https://t.co/p0J4VVzo3E",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/o9eed7hvWM",
+          "expanded_url": "https://www.itsnicethat.com/news/new-york-magazine-alex-katz-50th-anniverary-issue-161017",
+          "display_url": "itsnicethat.com/news/new-york-…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 920128902374105089,
+          "id_str": "920128902374105089",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMT0XJWUIAEdM-b.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DMT0XJWUIAEdM-b.jpg",
+          "url": "https://t.co/p0J4VVzo3E",
+          "display_url": "pic.twitter.com/p0J4VVzo3E",
+          "expanded_url": "https://twitter.com/wastemobile/status/920128912822112256/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 724,
+              "h": 322,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 724,
+              "h": 322,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 302,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 920128902374105089,
+          "id_str": "920128902374105089",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMT0XJWUIAEdM-b.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DMT0XJWUIAEdM-b.jpg",
+          "url": "https://t.co/p0J4VVzo3E",
+          "display_url": "pic.twitter.com/p0J4VVzo3E",
+          "expanded_url": "https://twitter.com/wastemobile/status/920128912822112256/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 724,
+              "h": 322,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 724,
+              "h": 322,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 302,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 17 02:14:44 +0000 2017",
+    "id": 920110802174033920,
+    "id_str": "920110802174033920",
+    "text": "居然有出新歌加精選⋯⋯ https://t.co/xVEMfCKom0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xVEMfCKom0",
+          "expanded_url": "https://itunes.apple.com/tw/album/20%E6%96%B0%E6%AD%8Cduet%E7%B2%BE%E9%81%B8/id1184258450",
+          "display_url": "itunes.apple.com/tw/album/20%E6…",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Sun Oct 15 17:04:58 +0000 2017",
     "id": 919610060786905088,
     "id_str": "919610060786905088",
