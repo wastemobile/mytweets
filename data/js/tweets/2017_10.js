@@ -1,5 +1,545 @@
 Grailbird.data.tweets_2017_10 = [
   {
+    "created_at": "Sun Oct 22 15:17:10 +0000 2017",
+    "id": 922119646387384320,
+    "id_str": "922119646387384320",
+    "text": "第一次知道有這種東西：樂譜打字機！ https://t.co/oZJi0WY1he",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oZJi0WY1he",
+          "expanded_url": "https://twitter.com/qikipedia/status/922054937604972546",
+          "display_url": "twitter.com/qikipedia/stat…",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 922054937604972546,
+    "quoted_status_id_str": "922054937604972546",
+    "quoted_status": {
+      "created_at": "Sun Oct 22 11:00:02 +0000 2017",
+      "id": 922054937604972546,
+      "id_str": "922054937604972546",
+      "text": "Have you ever wondered how music was typed before computers? Musicians used music typewriters. (Photo: Marcin Wicha… https://t.co/aGuJAe6MQK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/aGuJAe6MQK",
+            "expanded_url": "https://twitter.com/i/web/status/922054937604972546",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 22151193,
+        "id_str": "22151193",
+        "name": "Quite Interesting",
+        "screen_name": "qikipedia",
+        "location": "QI HQ",
+        "description": "Quite Interesting facts from the team behind the BBC TV show QI. https://t.co/V8Dhkk2Xdn https://t.co/S1KtNFfgRS",
+        "url": "http://t.co/DGnFYmJSSv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/DGnFYmJSSv",
+                "expanded_url": "http://www.qi.com",
+                "display_url": "qi.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/V8Dhkk2Xdn",
+                "expanded_url": "http://www.instagram.com/theqielves",
+                "display_url": "instagram.com/theqielves",
+                "indices": [
+                  65,
+                  88
+                ]
+              },
+              {
+                "url": "https://t.co/S1KtNFfgRS",
+                "expanded_url": "https://www.facebook.com/OfficialQI/",
+                "display_url": "facebook.com/OfficialQI/",
+                "indices": [
+                  89,
+                  112
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 767420,
+        "friends_count": 911,
+        "listed_count": 7357,
+        "created_at": "Fri Feb 27 15:36:24 +0000 2009",
+        "favourites_count": 1002,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 19611,
+        "lang": "en-gb",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/719283694/6b598181e34a5ab4af41ae734f4bd37b.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/719283694/6b598181e34a5ab4af41ae734f4bd37b.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/549435855962513408/RAEeXuVF_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/549435855962513408/RAEeXuVF_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22151193/1507191098",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1105,
+      "favorite_count": 2336,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 22 10:18:12 +0000 2017",
+    "id": 922044409658535936,
+    "id_str": "922044409658535936",
+    "text": "RT @svampire: 真·程序员鼓励师 https://t.co/lK8uNnyQja",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "svampire",
+          "name": "Bryan",
+          "id": 16863729,
+          "id_str": "16863729",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 921775079750483968,
+          "id_str": "921775079750483968",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMrNjR9VwAAT8ml.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DMrNjR9VwAAT8ml.jpg",
+          "url": "https://t.co/lK8uNnyQja",
+          "display_url": "pic.twitter.com/lK8uNnyQja",
+          "expanded_url": "https://twitter.com/svampire/status/921775085496750080/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1440,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 921775085496750080,
+          "source_status_id_str": "921775085496750080",
+          "source_user_id": 16863729,
+          "source_user_id_str": "16863729"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 921775079750483968,
+          "id_str": "921775079750483968",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMrNjR9VwAAT8ml.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DMrNjR9VwAAT8ml.jpg",
+          "url": "https://t.co/lK8uNnyQja",
+          "display_url": "pic.twitter.com/lK8uNnyQja",
+          "expanded_url": "https://twitter.com/svampire/status/921775085496750080/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1440,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 921775085496750080,
+          "source_status_id_str": "921775085496750080",
+          "source_user_id": 16863729,
+          "source_user_id_str": "16863729"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 21 16:28:00 +0000 2017",
+      "id": 921775085496750080,
+      "id_str": "921775085496750080",
+      "text": "真·程序员鼓励师 https://t.co/lK8uNnyQja",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 921775079750483968,
+            "id_str": "921775079750483968",
+            "indices": [
+              9,
+              32
+            ],
+            "media_url": "http://pbs.twimg.com/media/DMrNjR9VwAAT8ml.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DMrNjR9VwAAT8ml.jpg",
+            "url": "https://t.co/lK8uNnyQja",
+            "display_url": "pic.twitter.com/lK8uNnyQja",
+            "expanded_url": "https://twitter.com/svampire/status/921775085496750080/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1440,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 921775079750483968,
+            "id_str": "921775079750483968",
+            "indices": [
+              9,
+              32
+            ],
+            "media_url": "http://pbs.twimg.com/media/DMrNjR9VwAAT8ml.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DMrNjR9VwAAT8ml.jpg",
+            "url": "https://t.co/lK8uNnyQja",
+            "display_url": "pic.twitter.com/lK8uNnyQja",
+            "expanded_url": "https://twitter.com/svampire/status/921775085496750080/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1440,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16863729,
+        "id_str": "16863729",
+        "name": "Bryan",
+        "screen_name": "svampire",
+        "location": "有小松鼠的地方",
+        "description": "Game Designer FOREVER!! My Miss AlwaysRight: @johnnyemily 3DSLL:1306-5549-0414 PSV/PS3 HK：cnhx62 Battle ID: Bryan#3111",
+        "url": "http://t.co/kqxTW9TIDY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/kqxTW9TIDY",
+                "expanded_url": "http://www.cnhx.im",
+                "display_url": "cnhx.im",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1033,
+        "friends_count": 1083,
+        "listed_count": 59,
+        "created_at": "Mon Oct 20 07:24:51 +0000 2008",
+        "favourites_count": 618,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26258,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/56438915/twilk_background.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/56438915/twilk_background.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742164041766866944/IHSCQwet_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742164041766866944/IHSCQwet_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16863729/1459429379",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "488da0de4c92ac8e",
+        "url": "https://api.twitter.com/1.1/geo/id/488da0de4c92ac8e.json",
+        "place_type": "city",
+        "name": "Plano",
+        "full_name": "Plano, TX",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -96.85743,
+                32.9971507
+              ],
+              [
+                -96.612371,
+                32.9971507
+              ],
+              [
+                -96.612371,
+                33.1253341
+              ],
+              [
+                -96.85743,
+                33.1253341
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 161,
+      "favorite_count": 270,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 161,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Oct 22 06:19:57 +0000 2017",
     "id": 921984449922732033,
     "id_str": "921984449922732033",
