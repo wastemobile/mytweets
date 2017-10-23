@@ -1,5 +1,440 @@
 Grailbird.data.tweets_2017_10 = [
   {
+    "created_at": "Mon Oct 23 09:45:49 +0000 2017",
+    "id": 922398646649339904,
+    "id_str": "922398646649339904",
+    "text": "RT @CatPornx: The truth about cats !! ?? https://t.co/5FNjXacpbs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "CatPornx",
+          "name": "Cat Porn™",
+          "id": 873111349,
+          "id_str": "873111349",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 892331829776306176,
+          "id_str": "892331829776306176",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/DGIzEkeXUAAq0Cx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DGIzEkeXUAAq0Cx.jpg",
+          "url": "https://t.co/5FNjXacpbs",
+          "display_url": "pic.twitter.com/5FNjXacpbs",
+          "expanded_url": "https://twitter.com/catsnkittys/status/892331835878932481/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 481,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 708,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 708,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 892331835878932481,
+          "source_status_id_str": "892331835878932481",
+          "source_user_id": 2210710508,
+          "source_user_id_str": "2210710508"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 892331829776306176,
+          "id_str": "892331829776306176",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/DGIzEkeXUAAq0Cx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DGIzEkeXUAAq0Cx.jpg",
+          "url": "https://t.co/5FNjXacpbs",
+          "display_url": "pic.twitter.com/5FNjXacpbs",
+          "expanded_url": "https://twitter.com/catsnkittys/status/892331835878932481/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 481,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 708,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 708,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 892331835878932481,
+          "source_status_id_str": "892331835878932481",
+          "source_user_id": 2210710508,
+          "source_user_id_str": "2210710508"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 23 08:01:11 +0000 2017",
+      "id": 922372315735842816,
+      "id_str": "922372315735842816",
+      "text": "The truth about cats !! ?? https://t.co/5FNjXacpbs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 892331829776306176,
+            "id_str": "892331829776306176",
+            "indices": [
+              27,
+              50
+            ],
+            "media_url": "http://pbs.twimg.com/media/DGIzEkeXUAAq0Cx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DGIzEkeXUAAq0Cx.jpg",
+            "url": "https://t.co/5FNjXacpbs",
+            "display_url": "pic.twitter.com/5FNjXacpbs",
+            "expanded_url": "https://twitter.com/catsnkittys/status/892331835878932481/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1000,
+                "h": 708,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 708,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 892331835878932481,
+            "source_status_id_str": "892331835878932481",
+            "source_user_id": 2210710508,
+            "source_user_id_str": "2210710508"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 892331829776306176,
+            "id_str": "892331829776306176",
+            "indices": [
+              27,
+              50
+            ],
+            "media_url": "http://pbs.twimg.com/media/DGIzEkeXUAAq0Cx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DGIzEkeXUAAq0Cx.jpg",
+            "url": "https://t.co/5FNjXacpbs",
+            "display_url": "pic.twitter.com/5FNjXacpbs",
+            "expanded_url": "https://twitter.com/catsnkittys/status/892331835878932481/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1000,
+                "h": 708,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 708,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 892331835878932481,
+            "source_status_id_str": "892331835878932481",
+            "source_user_id": 2210710508,
+            "source_user_id_str": "2210710508"
+          }
+        ]
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 873111349,
+        "id_str": "873111349",
+        "name": "Cat Porn™",
+        "screen_name": "CatPornx",
+        "location": "",
+        "description": "The cutest pictures of cats",
+        "url": "https://t.co/0bv0OEADYD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/0bv0OEADYD",
+                "expanded_url": "https://www.facebook.com/catporns",
+                "display_url": "facebook.com/catporns",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 295707,
+        "friends_count": 12,
+        "listed_count": 1409,
+        "created_at": "Thu Oct 11 06:21:42 +0000 2012",
+        "favourites_count": 1,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 81814,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163999838/bQfNyjZz.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000163999838/bQfNyjZz.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/420454746256728065/jOtIjXLx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/420454746256728065/jOtIjXLx_normal.jpeg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 787,
+      "favorite_count": 982,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 787,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Oct 23 08:45:39 +0000 2017",
+    "id": 922383505476132864,
+    "id_str": "922383505476132864",
+    "text": "捷運上出現多雙黑絲，秋天真的來了。 #無圖報導",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "無圖報導",
+          "indices": [
+            18,
+            23
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 23 08:40:26 +0000 2017",
+    "id": 922382192088461312,
+    "id_str": "922382192088461312",
+    "text": "@vincicat 就是這樣才想練練啊，看來還是直接睡倒比較實在⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "vincicat",
+          "name": "Vinci the Cat ☂",
+          "id": 16105647,
+          "id_str": "16105647",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 922368007682195456,
+    "in_reply_to_status_id_str": "922368007682195456",
+    "in_reply_to_user_id": 16105647,
+    "in_reply_to_user_id_str": "16105647",
+    "in_reply_to_screen_name": "vincicat",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Oct 23 06:36:45 +0000 2017",
     "id": 922351069027475456,
     "id_str": "922351069027475456",
