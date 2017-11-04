@@ -1,5 +1,51 @@
 Grailbird.data.tweets_2017_11 = [
   {
+    "created_at": "Sat Nov 04 06:04:28 +0000 2017",
+    "id": 926691597676191746,
+    "id_str": "926691597676191746",
+    "text": "以前在 Evernote 主程式未開啟時、使用工具列上的 Helper 輸入文字，開主程式後偶爾會有延遲出現的狀況，不以為意。\n\n但今天早上輸入的臨時記事，再也沒有出現過，我也忘了輸入過什麼⋯⋯。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 04 00:35:11 +0000 2017",
     "id": 926608728270311425,
     "id_str": "926608728270311425",
