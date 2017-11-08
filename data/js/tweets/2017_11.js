@@ -1,5 +1,350 @@
 Grailbird.data.tweets_2017_11 = [
   {
+    "created_at": "Wed Nov 08 14:46:29 +0000 2017",
+    "id": 928272518921592832,
+    "id_str": "928272518921592832",
+    "text": "RT @yoyo0329: https://t.co/djLVRMYSXz https://t.co/2VIfKeowOD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yoyo0329",
+          "name": "Ivy Lee（陽子）",
+          "id": 107691683,
+          "id_str": "107691683",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/djLVRMYSXz",
+          "expanded_url": "https://m.facebook.com/story.php?story_fbid=10154847225602312&id=353390642311",
+          "display_url": "m.facebook.com/story.php?stor…",
+          "indices": [
+            14,
+            37
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 928268609197039617,
+          "id_str": "928268609197039617",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/DOHfYcNV4AE13jG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DOHfYcNV4AE13jG.jpg",
+          "url": "https://t.co/2VIfKeowOD",
+          "display_url": "pic.twitter.com/2VIfKeowOD",
+          "expanded_url": "https://twitter.com/yoyo0329/status/928268628109037568/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1448,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 928268628109037568,
+          "source_status_id_str": "928268628109037568",
+          "source_user_id": 107691683,
+          "source_user_id_str": "107691683"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 928268609197039617,
+          "id_str": "928268609197039617",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/DOHfYcNV4AE13jG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DOHfYcNV4AE13jG.jpg",
+          "url": "https://t.co/2VIfKeowOD",
+          "display_url": "pic.twitter.com/2VIfKeowOD",
+          "expanded_url": "https://twitter.com/yoyo0329/status/928268628109037568/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1448,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 928268628109037568,
+          "source_status_id_str": "928268628109037568",
+          "source_user_id": 107691683,
+          "source_user_id_str": "107691683"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 08 14:31:01 +0000 2017",
+      "id": 928268628109037568,
+      "id_str": "928268628109037568",
+      "text": "https://t.co/djLVRMYSXz https://t.co/2VIfKeowOD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/djLVRMYSXz",
+            "expanded_url": "https://m.facebook.com/story.php?story_fbid=10154847225602312&id=353390642311",
+            "display_url": "m.facebook.com/story.php?stor…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 928268609197039617,
+            "id_str": "928268609197039617",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOHfYcNV4AE13jG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOHfYcNV4AE13jG.jpg",
+            "url": "https://t.co/2VIfKeowOD",
+            "display_url": "pic.twitter.com/2VIfKeowOD",
+            "expanded_url": "https://twitter.com/yoyo0329/status/928268628109037568/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 848,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1448,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 928268609197039617,
+            "id_str": "928268609197039617",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOHfYcNV4AE13jG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOHfYcNV4AE13jG.jpg",
+            "url": "https://t.co/2VIfKeowOD",
+            "display_url": "pic.twitter.com/2VIfKeowOD",
+            "expanded_url": "https://twitter.com/yoyo0329/status/928268628109037568/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 481,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 848,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1448,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 107691683,
+        "id_str": "107691683",
+        "name": "Ivy Lee（陽子）",
+        "screen_name": "yoyo0329",
+        "location": "Taiwan",
+        "description": "My Country State：Taiwan\r\n  \nabout TAIWAN：Let the People of Taiwan and Penghu Decide the Sovereignty of Their Land    https://t.co/dhfzdqjpgt…",
+        "url": "https://t.co/CRUnIkRwiA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CRUnIkRwiA",
+                "expanded_url": "http://yoyo0329.tian.yam.com",
+                "display_url": "yoyo0329.tian.yam.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/dhfzdqjpgt",
+                "expanded_url": "http://rotpnetwork.tw/TPSovDBYTP.php",
+                "display_url": "rotpnetwork.tw/TPSovDBYTP.php",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 979,
+        "friends_count": 251,
+        "listed_count": 22,
+        "created_at": "Sat Jan 23 11:44:32 +0000 2010",
+        "favourites_count": 58087,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25984,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/926688196095643648/IgVsd-aG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/926688196095643648/IgVsd-aG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/107691683/1507047068",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
     "created_at": "Wed Nov 08 08:49:04 +0000 2017",
     "id": 928182573393522689,
     "id_str": "928182573393522689",
