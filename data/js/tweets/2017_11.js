@@ -1,5 +1,399 @@
 Grailbird.data.tweets_2017_11 = [
   {
+    "created_at": "Fri Nov 10 08:14:12 +0000 2017",
+    "id": 928898571595685889,
+    "id_str": "928898571595685889",
+    "text": "看起來 Google play 的電子書又有了點動靜，現在也接受作家自助上架了（在某些不明、不特定的情況下⋯⋯）。 https://t.co/WNqPGhHtXy\n\nGoogle 從來都不適合朝一般的電子書城方向走，應該全面性的以… https://t.co/4tpE4HXc7B",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WNqPGhHtXy",
+          "expanded_url": "https://the-digital-reader.com/?p=121446",
+          "display_url": "the-digital-reader.com/?p=121446",
+          "indices": [
+            58,
+            81
+          ]
+        },
+        {
+          "url": "https://t.co/4tpE4HXc7B",
+          "expanded_url": "https://twitter.com/i/web/status/928898571595685889",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 10 07:41:25 +0000 2017",
+    "id": 928890321609486336,
+    "id_str": "928890321609486336",
+    "text": "不管是哪一種東西的販售或訂閱，把「支持」視為一種爭取付費的理由，總讓人覺得有些啼笑皆非。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 10 04:07:11 +0000 2017",
+    "id": 928836408097116160,
+    "id_str": "928836408097116160",
+    "text": "在臉書上覺得生活多彩多姿，多半是虛擬的幻象；在推特上還覺得自己踩在邊緣，大概就是真的邊緣了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://agiletortoise.com/drafts\" rel=\"nofollow\">Drafts 4</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 09 11:35:11 +0000 2017",
+    "id": 928586765425713152,
+    "id_str": "928586765425713152",
+    "text": "GAI 唱愛如潮水還真是嚇到我了⋯⋯⋯ https://t.co/6ZFGoegpwz 來自 @youtube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            47,
+            55
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6ZFGoegpwz",
+          "expanded_url": "https://www.youtube.com/watch?v=gsaHi2CLAqA&sns=tw",
+          "display_url": "youtube.com/watch?v=gsaHi2…",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 09 03:50:30 +0000 2017",
+    "id": 928469821196341249,
+    "id_str": "928469821196341249",
+    "text": "看起來好厲害！ https://t.co/tukUkpMvBh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tukUkpMvBh",
+          "expanded_url": "https://twitter.com/akahoshitakuya/status/928460235236302849",
+          "display_url": "twitter.com/akahoshitakuya…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 928460235236302849,
+    "quoted_status_id_str": "928460235236302849",
+    "quoted_status": {
+      "created_at": "Thu Nov 09 03:12:24 +0000 2017",
+      "id": 928460235236302849,
+      "id_str": "928460235236302849",
+      "text": "すごい。&gt;... https://t.co/kkVjWjMznQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kkVjWjMznQ",
+            "expanded_url": "http://fb.me/81k9ua2dp",
+            "display_url": "fb.me/81k9ua2dp",
+            "indices": [
+              12,
+              35
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15002471,
+        "id_str": "15002471",
+        "name": "赤星琢哉",
+        "screen_name": "akahoshitakuya",
+        "location": "東京都 港区",
+        "description": "読書メーターなどを作っていました。2014年に会社売却後フリー。お問い合わせ・ご相談・お仕事のご依頼などはこちらからお願いいたします→https://t.co/rAcS65AxVk 元㈱トリスタ代表・元空飛ぶ㈱代表",
+        "url": "https://t.co/d4dmUlX6lE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/d4dmUlX6lE",
+                "expanded_url": "http://facebook.com/akahoshitakuya",
+                "display_url": "facebook.com/akahoshitakuya",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/rAcS65AxVk",
+                "expanded_url": "https://akahoshitakuya.com/contact",
+                "display_url": "akahoshitakuya.com/contact",
+                "indices": [
+                  67,
+                  90
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5616,
+        "friends_count": 95,
+        "listed_count": 439,
+        "created_at": "Wed Jun 04 07:35:30 +0000 2008",
+        "favourites_count": 0,
+        "utc_offset": 32400,
+        "time_zone": "Tokyo",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15191,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/499489918985310208/dpd8dPN2_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/499489918985310208/dpd8dPN2_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15002471/1402661344",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Nov 08 14:46:29 +0000 2017",
     "id": 928272518921592832,
     "id_str": "928272518921592832",
