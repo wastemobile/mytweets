@@ -1,5 +1,430 @@
 Grailbird.data.tweets_2017_11 = [
   {
+    "created_at": "Sat Nov 11 01:31:38 +0000 2017",
+    "id": 929159649865089024,
+    "id_str": "929159649865089024",
+    "text": "第二人生居然還活著啊～（遠目） https://t.co/ArNy2Tj0S4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ArNy2Tj0S4",
+          "expanded_url": "https://twitter.com/jafurtado/status/929159320545218560",
+          "display_url": "twitter.com/jafurtado/stat…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 929159320545218560,
+    "quoted_status_id_str": "929159320545218560",
+    "quoted_status": {
+      "created_at": "Sat Nov 11 01:30:19 +0000 2017",
+      "id": 929159320545218560,
+      "id_str": "929159320545218560",
+      "text": "Second Life Still Has 600,000 Regular Users, by Leslie Jamison @lsjamison The Atlantic https://t.co/uIwKtCbb7K",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "lsjamison",
+            "name": "Leslie Jamison",
+            "id": 1104681487,
+            "id_str": "1104681487",
+            "indices": [
+              63,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uIwKtCbb7K",
+            "expanded_url": "https://www.theatlantic.com/magazine/archive/2017/12/second-life-leslie-jamison/544149/",
+            "display_url": "theatlantic.com/magazine/archi…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14330959,
+        "id_str": "14330959",
+        "name": "Jose Afonso Furtado",
+        "screen_name": "jafurtado",
+        "location": "Lisboa, Portugal",
+        "description": "Former art library director at Gulbenkian Foundation.",
+        "url": "http://t.co/bF3Fcj9LGG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/bF3Fcj9LGG",
+                "expanded_url": "http://www.linkedin.com/in/jatsf",
+                "display_url": "linkedin.com/in/jatsf",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14333,
+        "friends_count": 3463,
+        "listed_count": 1118,
+        "created_at": "Tue Apr 08 09:46:56 +0000 2008",
+        "favourites_count": 102,
+        "utc_offset": 0,
+        "time_zone": "Lisbon",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 132054,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/358763917/alcobaa003.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/358763917/alcobaa003.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/461666462722060288/Tnm-dlUf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/461666462722060288/Tnm-dlUf_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14330959/1353635023",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 10 09:33:21 +0000 2017",
+    "id": 928918492127965184,
+    "id_str": "928918492127965184",
+    "text": "發動連署要求推特公布實驗結果！ https://t.co/EgP71WsaAd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EgP71WsaAd",
+          "expanded_url": "https://twitter.com/Santou_Hong/status/928905700452868096",
+          "display_url": "twitter.com/Santou_Hong/st…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 928905700452868096,
+    "quoted_status_id_str": "928905700452868096",
+    "quoted_status": {
+      "created_at": "Fri Nov 10 08:42:31 +0000 2017",
+      "id": 928905700452868096,
+      "id_str": "928905700452868096",
+      "text": "「我們做了很多種語言的推文情緒分析，但是就是沒有中文。為什麼呢？因為台灣人沒有在玩 Twitter。」\n「我們還是嘗試抓了一整年的中文推文，但實驗結果完全沒辦法使用」\n\n#在座的各位",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "在座的各位",
+            "indices": [
+              85,
+              91
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 581656866,
+        "id_str": "581656866",
+        "name": "Luke Hong",
+        "screen_name": "Santou_Hong",
+        "location": "",
+        "description": "高中時期因對異性人際關係感到絕望而目標要做出能當老婆的人工智慧，結果在大學意外的交到了女友w \n#DataEngineer\n#Python #PHP #Golang #MachineLearning",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 257,
+        "friends_count": 281,
+        "listed_count": 5,
+        "created_at": "Wed May 16 06:21:28 +0000 2012",
+        "favourites_count": 16923,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3406,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723905255860117504/pp8ILksC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723905255860117504/pp8ILksC_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 57,
+      "favorite_count": 97,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 10 08:53:54 +0000 2017",
+    "id": 928908565024083968,
+    "id_str": "928908565024083968",
+    "text": "我實在是受不了新聞只要拍到什麼男女牽手就用「指交」當標題的陋習了！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 10 08:28:18 +0000 2017",
+    "id": 928902121952395264,
+    "id_str": "928902121952395264",
+    "text": "@purebox 對顧客未來可獲得的東西，應該要有比較清晰明確的計畫或列表，讓人確實知道付費可（能）獲得什麼，至少我這個邊緣顧客想看到這些。\n\n當然，真打算以感性為主訴求的情懷詐騙不在此限，就直接用「供養」好了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "purebox",
+          "name": "盒心情動泰",
+          "id": 10144682,
+          "id_str": "10144682",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 928899653575229441,
+    "in_reply_to_status_id_str": "928899653575229441",
+    "in_reply_to_user_id": 10144682,
+    "in_reply_to_user_id_str": "10144682",
+    "in_reply_to_screen_name": "purebox",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Nov 10 08:14:12 +0000 2017",
     "id": 928898571595685889,
     "id_str": "928898571595685889",
