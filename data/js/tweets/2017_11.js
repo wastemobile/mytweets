@@ -1,5 +1,328 @@
 Grailbird.data.tweets_2017_11 = [
   {
+    "created_at": "Tue Nov 14 06:46:37 +0000 2017",
+    "id": 930326081550159872,
+    "id_str": "930326081550159872",
+    "text": "RT @wanquribao: 【没有比 RSS 好的订阅手段了】拿 Facebook、Twitter、邮件订阅这几个订阅文章的手段与 RSS 对比，得出结论：还是 RSS 好，开放的协议、简单、噪音小、不会因某家公司对产品进行改动而影响了自己的阅读体验 https://t.c…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "wanquribao",
+          "name": "Wanqu 湾区日报",
+          "id": 2718126708,
+          "id_str": "2718126708",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 12 08:05:42 +0000 2017",
+      "id": 929621207657226240,
+      "id_str": "929621207657226240",
+      "text": "【没有比 RSS 好的订阅手段了】拿 Facebook、Twitter、邮件订阅这几个订阅文章的手段与 RSS 对比，得出结论：还是 RSS 好，开放的协议、简单、噪音小、不会因某家公司对产品进行改动而影响了自己的阅读体验 https://t.co/uh1Whw0qbm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uh1Whw0qbm",
+            "expanded_url": "https://wanqu.co/p/5901",
+            "display_url": "wanqu.co/p/5901",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://wanqu.co\" rel=\"nofollow\">Wanqu Daily</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2718126708,
+        "id_str": "2718126708",
+        "name": "Wanqu 湾区日报",
+        "screen_name": "wanquribao",
+        "location": "San Francisco, CA",
+        "description": "关注创业，互联网，技术。每天推送5篇优质英文文章，坚持每天阅读，每天进步一点点。何为湾区日报：https://t.co/oMz1qtQOkb 下载 App：https://t.co/iFjftt95OU 赞助湾区日报的运营： https://t.co/P7M7jC4Sg4",
+        "url": "https://t.co/fFX19fvRHc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/fFX19fvRHc",
+                "expanded_url": "http://wanqu.co",
+                "display_url": "wanqu.co",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/oMz1qtQOkb",
+                "expanded_url": "https://wanqu.co/about",
+                "display_url": "wanqu.co/about",
+                "indices": [
+                  47,
+                  70
+                ]
+              },
+              {
+                "url": "https://t.co/iFjftt95OU",
+                "expanded_url": "https://wanqu.co/app",
+                "display_url": "wanqu.co/app",
+                "indices": [
+                  78,
+                  101
+                ]
+              },
+              {
+                "url": "https://t.co/P7M7jC4Sg4",
+                "expanded_url": "https://wanqu.co/donate",
+                "display_url": "wanqu.co/donate",
+                "indices": [
+                  113,
+                  136
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9723,
+        "friends_count": 266,
+        "listed_count": 253,
+        "created_at": "Fri Aug 08 22:53:31 +0000 2014",
+        "favourites_count": 183,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23011,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/687365552059199488/TZGFWS49_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/687365552059199488/TZGFWS49_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2718126708/1493600621",
+        "profile_link_color": "DD4814",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Nov 14 04:45:10 +0000 2017",
+    "id": 930295519569575936,
+    "id_str": "930295519569575936",
+    "text": "這真是我看過最有創意的煙盒設計，比寫什麼廢話警語好太多了。 https://t.co/yDCmBD4KcE https://t.co/rbrHiI08Ar",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yDCmBD4KcE",
+          "expanded_url": "https://creapills.com/?p=30495",
+          "display_url": "creapills.com/?p=30495",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 930295508601520129,
+          "id_str": "930295508601520129",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DOkS1g5VwAEUk0R.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DOkS1g5VwAEUk0R.jpg",
+          "url": "https://t.co/rbrHiI08Ar",
+          "display_url": "pic.twitter.com/rbrHiI08Ar",
+          "expanded_url": "https://twitter.com/wastemobile/status/930295519569575936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 700,
+              "h": 333,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 333,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 323,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930295508601520129,
+          "id_str": "930295508601520129",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/DOkS1g5VwAEUk0R.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DOkS1g5VwAEUk0R.jpg",
+          "url": "https://t.co/rbrHiI08Ar",
+          "display_url": "pic.twitter.com/rbrHiI08Ar",
+          "expanded_url": "https://twitter.com/wastemobile/status/930295519569575936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 700,
+              "h": 333,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 333,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 323,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Nov 14 01:14:27 +0000 2017",
     "id": 930242489939668992,
     "id_str": "930242489939668992",
