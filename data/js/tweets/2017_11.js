@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2017_11 = [
   {
+    "created_at": "Tue Nov 14 01:14:27 +0000 2017",
+    "id": 930242489939668992,
+    "id_str": "930242489939668992",
+    "text": "所以《破案神探》（Mindhunter）預計有五季呢！ https://t.co/w0RzPgnjOm https://t.co/HCY2Rqfzug",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/w0RzPgnjOm",
+          "expanded_url": "http://www.cup.com.hk/?p=83893",
+          "display_url": "cup.com.hk/?p=83893",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 930242478032039936,
+          "id_str": "930242478032039936",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/DOjimuoUMAAwcP_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DOjimuoUMAAwcP_.jpg",
+          "url": "https://t.co/HCY2Rqfzug",
+          "display_url": "pic.twitter.com/HCY2Rqfzug",
+          "expanded_url": "https://twitter.com/wastemobile/status/930242489939668992/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930242478032039936,
+          "id_str": "930242478032039936",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/DOjimuoUMAAwcP_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DOjimuoUMAAwcP_.jpg",
+          "url": "https://t.co/HCY2Rqfzug",
+          "display_url": "pic.twitter.com/HCY2Rqfzug",
+          "expanded_url": "https://twitter.com/wastemobile/status/930242489939668992/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Nov 13 12:32:52 +0000 2017",
     "id": 930050831193214977,
     "id_str": "930050831193214977",
