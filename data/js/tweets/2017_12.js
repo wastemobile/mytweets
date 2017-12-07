@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2017_12 = [
   {
+    "created_at": "Thu Dec 07 14:32:10 +0000 2017",
+    "id": 938778164926365696,
+    "id_str": "938778164926365696",
+    "text": "所以在台灣要怎麼買到 Google AIY Vision Kit 呢？ https://t.co/A0GaY1aPC0 https://t.co/HyhA9hX7aa",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/A0GaY1aPC0",
+          "expanded_url": "http://bit.ly/2iBfcTT",
+          "display_url": "bit.ly/2iBfcTT",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 938778156781076480,
+          "id_str": "938778156781076480",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DQc1wn3VAAAi4fk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DQc1wn3VAAAi4fk.jpg",
+          "url": "https://t.co/HyhA9hX7aa",
+          "display_url": "pic.twitter.com/HyhA9hX7aa",
+          "expanded_url": "https://twitter.com/wastemobile/status/938778164926365696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 650,
+              "h": 270,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 650,
+              "h": 270,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 650,
+              "h": 270,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 938778156781076480,
+          "id_str": "938778156781076480",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DQc1wn3VAAAi4fk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DQc1wn3VAAAi4fk.jpg",
+          "url": "https://t.co/HyhA9hX7aa",
+          "display_url": "pic.twitter.com/HyhA9hX7aa",
+          "expanded_url": "https://twitter.com/wastemobile/status/938778164926365696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 650,
+              "h": 270,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 650,
+              "h": 270,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 650,
+              "h": 270,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Dec 07 13:16:31 +0000 2017",
     "id": 938759125864914949,
     "id_str": "938759125864914949",
