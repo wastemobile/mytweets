@@ -1,5 +1,239 @@
 Grailbird.data.tweets_2017_12 = [
   {
+    "created_at": "Sat Dec 23 07:01:52 +0000 2017",
+    "id": 944463047065612290,
+    "id_str": "944463047065612290",
+    "text": "跟風用 Geekbench 測一下效能，果然低於平均值不少，然後意外發現原來我的 iPhone 6s 符合免費換電池的資格，看來得去換一下。\n\nhttps://t.co/3CtRzSSdqi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3CtRzSSdqi",
+          "expanded_url": "http://apple.co/2D14FcN",
+          "display_url": "apple.co/2D14FcN",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 23 06:53:44 +0000 2017",
+    "id": 944461001788813313,
+    "id_str": "944461001788813313",
+    "text": "德國不來梅（Bremen）也因小學老師男女比例失衡問題，開始實行租借男老師計劃，並非要為女老師的眼睛謀福利，而是令更多男性參與小學生活，讓小學生有接觸成年男子的機會⋯⋯ https://t.co/ouLMjFWqFs https://t.co/1e2ay1afw4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ouLMjFWqFs",
+          "expanded_url": "http://www.cup.com.hk/?p=88337",
+          "display_url": "cup.com.hk/?p=88337",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 944460989088407552,
+          "id_str": "944460989088407552",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/DRtmQ_7UIAAY1Dt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DRtmQ_7UIAAY1Dt.jpg",
+          "url": "https://t.co/1e2ay1afw4",
+          "display_url": "pic.twitter.com/1e2ay1afw4",
+          "expanded_url": "https://twitter.com/wastemobile/status/944461001788813313/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1254,
+              "h": 837,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 801,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 944460989088407552,
+          "id_str": "944460989088407552",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/DRtmQ_7UIAAY1Dt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DRtmQ_7UIAAY1Dt.jpg",
+          "url": "https://t.co/1e2ay1afw4",
+          "display_url": "pic.twitter.com/1e2ay1afw4",
+          "expanded_url": "https://twitter.com/wastemobile/status/944461001788813313/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1254,
+              "h": 837,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 801,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 23 06:36:41 +0000 2017",
+    "id": 944456711733002240,
+    "id_str": "944456711733002240",
+    "text": "天氣好好。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Dec 21 14:10:22 +0000 2017",
     "id": 943846109239058434,
     "id_str": "943846109239058434",
