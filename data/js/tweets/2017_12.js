@@ -1,5 +1,645 @@
 Grailbird.data.tweets_2017_12 = [
   {
+    "created_at": "Sun Dec 24 04:53:26 +0000 2017",
+    "id": 944793114597715969,
+    "id_str": "944793114597715969",
+    "text": "@thecat 正在想是否該把什麼難題丟進夢裡，半夜繼續運算好了⋯⋯😭",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 944792372348469248,
+    "in_reply_to_status_id_str": "944792372348469248",
+    "in_reply_to_user_id": 807633,
+    "in_reply_to_user_id_str": "807633",
+    "in_reply_to_screen_name": "thecat",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 24 04:41:27 +0000 2017",
+    "id": 944790097257308160,
+    "id_str": "944790097257308160",
+    "text": "過去在睡前胡思亂想，一旦劇情抽象離奇到類夢境的程度，很快就睡著了，醒來什麼也記不得。\n\n但近來這招失效了，會一直處於幻想與現實交錯的灰色世界，醒來後就連半夢半醒中發展的對話都清晰可憶，根本不能確定到底睡過了沒。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 23 14:43:34 +0000 2017",
+    "id": 944579237129814016,
+    "id_str": "944579237129814016",
+    "text": "學到了台灣石虎的英文是 Leopard cat，「豹貓」？\n\n但霹靂貓裡面的豹貓是長這樣的喔～ https://t.co/L0lDwYiEhL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 944579151779921920,
+          "id_str": "944579151779921920",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/DRvRu-QVAAAmY-6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DRvRu-QVAAAmY-6.jpg",
+          "url": "https://t.co/L0lDwYiEhL",
+          "display_url": "pic.twitter.com/L0lDwYiEhL",
+          "expanded_url": "https://twitter.com/wastemobile/status/944579237129814016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 944579151779921920,
+          "id_str": "944579151779921920",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/DRvRu-QVAAAmY-6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DRvRu-QVAAAmY-6.jpg",
+          "url": "https://t.co/L0lDwYiEhL",
+          "display_url": "pic.twitter.com/L0lDwYiEhL",
+          "expanded_url": "https://twitter.com/wastemobile/status/944579237129814016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 944544951299227648,
+    "in_reply_to_status_id_str": "944544951299227648",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 23 12:27:19 +0000 2017",
+    "id": 944544951299227648,
+    "id_str": "944544951299227648",
+    "text": "寶島上的奇珍異獸們，都在紙鈔上活起來了！－「設計新新台幣」徵件作品 https://t.co/zaqsuR7wrw\n\n石虎太可愛了～ https://t.co/X6xJeGxAuh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zaqsuR7wrw",
+          "expanded_url": "http://bit.ly/2D28w9P",
+          "display_url": "bit.ly/2D28w9P",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 944544939945242626,
+          "id_str": "944544939945242626",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/DRuynlPUMAIwieD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DRuynlPUMAIwieD.jpg",
+          "url": "https://t.co/X6xJeGxAuh",
+          "display_url": "pic.twitter.com/X6xJeGxAuh",
+          "expanded_url": "https://twitter.com/wastemobile/status/944544951299227648/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 650,
+              "h": 390,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 650,
+              "h": 390,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 650,
+              "h": 390,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 944544939945242626,
+          "id_str": "944544939945242626",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/DRuynlPUMAIwieD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DRuynlPUMAIwieD.jpg",
+          "url": "https://t.co/X6xJeGxAuh",
+          "display_url": "pic.twitter.com/X6xJeGxAuh",
+          "expanded_url": "https://twitter.com/wastemobile/status/944544951299227648/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 650,
+              "h": 390,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 650,
+              "h": 390,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 650,
+              "h": 390,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 43,
+    "favorite_count": 60,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 23 09:14:46 +0000 2017",
+    "id": 944496492475121664,
+    "id_str": "944496492475121664",
+    "text": "RT @jkgtw: 使用全新 #Swift 完成的 #TelegramX 上架 iOS App Store 啦！ @ https://t.co/eJlbMQe6yK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Swift",
+          "indices": [
+            16,
+            22
+          ]
+        },
+        {
+          "text": "TelegramX",
+          "indices": [
+            27,
+            37
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jkgtw",
+          "name": "Stephen ",
+          "id": 792526,
+          "id_str": "792526",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eJlbMQe6yK",
+          "expanded_url": "https://itunes.apple.com/app/id898228810",
+          "display_url": "itunes.apple.com/app/id898228810",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Dec 23 08:51:11 +0000 2017",
+      "id": 944490557186834432,
+      "id_str": "944490557186834432",
+      "text": "使用全新 #Swift 完成的 #TelegramX 上架 iOS App Store 啦！ @ https://t.co/eJlbMQe6yK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Swift",
+            "indices": [
+              5,
+              11
+            ]
+          },
+          {
+            "text": "TelegramX",
+            "indices": [
+              16,
+              26
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eJlbMQe6yK",
+            "expanded_url": "https://itunes.apple.com/app/id898228810",
+            "display_url": "itunes.apple.com/app/id898228810",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 792526,
+        "id_str": "792526",
+        "name": "Stephen ",
+        "screen_name": "jkgtw",
+        "location": "Taipei, Taiwan",
+        "description": "台灣阿宅，果粉且喜歡各種TV Shows以及TV Games，因為工作關係2003-2016年在中國，目前常駐台北。\nPSN ID：jkgtw\nBattleNet：jkgtw#1447",
+        "url": "https://t.co/ZewaBiqaXi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZewaBiqaXi",
+                "expanded_url": "https://www.jkg.tw/",
+                "display_url": "jkg.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3617,
+        "friends_count": 456,
+        "listed_count": 104,
+        "created_at": "Sat Feb 24 16:20:12 +0000 2007",
+        "favourites_count": 315,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 29798,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1360669835/ab43ee0bf9effb8ef32704bf4296cad2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1360669835/ab43ee0bf9effb8ef32704bf4296cad2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/792526/1355194040",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00180402799fed03",
+        "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+        "place_type": "city",
+        "name": "台北市",
+        "full_name": "台北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.457132,
+                24.960508
+              ],
+              [
+                121.66582,
+                24.960508
+              ],
+              [
+                121.66582,
+                25.211004
+              ],
+              [
+                121.457132,
+                25.211004
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 25,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Dec 23 07:43:32 +0000 2017",
+    "id": 944473534050418688,
+    "id_str": "944473534050418688",
+    "text": "其實我從沒遇過「意外關機」的問題，自己用軟體檢測電池似乎也還算好，但確實覺得運行較慢。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 944463047065612290,
+    "in_reply_to_status_id_str": "944463047065612290",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Dec 23 07:01:52 +0000 2017",
     "id": 944463047065612290,
     "id_str": "944463047065612290",
