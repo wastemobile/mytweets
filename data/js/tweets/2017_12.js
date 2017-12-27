@@ -1,5 +1,1025 @@
 Grailbird.data.tweets_2017_12 = [
   {
+    "created_at": "Tue Dec 26 04:42:18 +0000 2017",
+    "id": 945515087552376832,
+    "id_str": "945515087552376832",
+    "text": "RT @dohui77choi: 杜蕾斯貼文真的很強！ https://t.co/YjwNyeYACB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dohui77choi",
+          "name": "多惠這麼可愛一定沒問題的🙋🏻",
+          "id": 3256978429,
+          "id_str": "3256978429",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 945020366371426305,
+          "id_str": "945020366371426305",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/DR1jBCsUEAEEuVY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DR1jBCsUEAEEuVY.jpg",
+          "url": "https://t.co/YjwNyeYACB",
+          "display_url": "pic.twitter.com/YjwNyeYACB",
+          "expanded_url": "https://twitter.com/dohui77choi/status/945020374743334912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 539,
+              "h": 960,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 539,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 945020374743334912,
+          "source_status_id_str": "945020374743334912",
+          "source_user_id": 3256978429,
+          "source_user_id_str": "3256978429"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 945020366371426305,
+          "id_str": "945020366371426305",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/DR1jBCsUEAEEuVY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DR1jBCsUEAEEuVY.jpg",
+          "url": "https://t.co/YjwNyeYACB",
+          "display_url": "pic.twitter.com/YjwNyeYACB",
+          "expanded_url": "https://twitter.com/dohui77choi/status/945020374743334912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 539,
+              "h": 960,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 539,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 945020374743334912,
+          "source_status_id_str": "945020374743334912",
+          "source_user_id": 3256978429,
+          "source_user_id_str": "3256978429"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Dec 24 19:56:29 +0000 2017",
+      "id": 945020374743334912,
+      "id_str": "945020374743334912",
+      "text": "杜蕾斯貼文真的很強！ https://t.co/YjwNyeYACB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 945020366371426305,
+            "id_str": "945020366371426305",
+            "indices": [
+              11,
+              34
+            ],
+            "media_url": "http://pbs.twimg.com/media/DR1jBCsUEAEEuVY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DR1jBCsUEAEEuVY.jpg",
+            "url": "https://t.co/YjwNyeYACB",
+            "display_url": "pic.twitter.com/YjwNyeYACB",
+            "expanded_url": "https://twitter.com/dohui77choi/status/945020374743334912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 539,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 539,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 945020366371426305,
+            "id_str": "945020366371426305",
+            "indices": [
+              11,
+              34
+            ],
+            "media_url": "http://pbs.twimg.com/media/DR1jBCsUEAEEuVY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DR1jBCsUEAEEuVY.jpg",
+            "url": "https://t.co/YjwNyeYACB",
+            "display_url": "pic.twitter.com/YjwNyeYACB",
+            "expanded_url": "https://twitter.com/dohui77choi/status/945020374743334912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 539,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 539,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3256978429,
+        "id_str": "3256978429",
+        "name": "多惠很多問題🙋🏻",
+        "screen_name": "dohui77choi",
+        "location": "Taiwan",
+        "description": "這裏是我的樹洞，用來記錄我那內心一天能崩潰八百萬次，又自己糊上一道道裂縫的日子。✍https://t.co/GtbEuzFRZw",
+        "url": "https://t.co/60KKysRLpy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/60KKysRLpy",
+                "expanded_url": "http://addzero77.com",
+                "display_url": "addzero77.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/GtbEuzFRZw",
+                "expanded_url": "https://addzero77.com/",
+                "display_url": "addzero77.com",
+                "indices": [
+                  41,
+                  64
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3047,
+        "friends_count": 2833,
+        "listed_count": 31,
+        "created_at": "Fri Jun 26 18:33:23 +0000 2015",
+        "favourites_count": 10354,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9176,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/901878298526879744/lC95EB4d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/901878298526879744/lC95EB4d_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3256978429/1513523853",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 51,
+      "favorite_count": 126,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 51,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 26 02:18:55 +0000 2017",
+    "id": 945479005225893889,
+    "id_str": "945479005225893889",
+    "text": "「使用熨斗前，請記得將衣服脫下。」 https://t.co/i6TiqJZluu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 945479003304902656,
+          "id_str": "945479003304902656",
+          "indices": [
+            18,
+            41
+          ],
+          "media_url": "http://pbs.twimg.com/media/DR8EJOaUQAAZz_N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DR8EJOaUQAAZz_N.jpg",
+          "url": "https://t.co/i6TiqJZluu",
+          "display_url": "pic.twitter.com/i6TiqJZluu",
+          "expanded_url": "https://twitter.com/wastemobile/status/945479005225893889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 679,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 901,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 901,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 945479003304902656,
+          "id_str": "945479003304902656",
+          "indices": [
+            18,
+            41
+          ],
+          "media_url": "http://pbs.twimg.com/media/DR8EJOaUQAAZz_N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DR8EJOaUQAAZz_N.jpg",
+          "url": "https://t.co/i6TiqJZluu",
+          "display_url": "pic.twitter.com/i6TiqJZluu",
+          "expanded_url": "https://twitter.com/wastemobile/status/945479005225893889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 679,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 901,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 901,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 25 10:34:00 +0000 2017",
+    "id": 945241210540584960,
+    "id_str": "945241210540584960",
+    "text": "在爭鮮，右邊的年輕媽媽取盤時一定要將蓋子翻留在軌道上，或重疊到軌道上的另一盤。\n\n左邊的年輕男大生則拼命想把蓋子塞到三角形的廣告盤上，當然失敗，又多了一盤雙帽壽司。\n\n我現在明白，「熨平時衣服不要穿在人身上」的熨斗警語並不是笑話。 #WTF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "WTF",
+          "indices": [
+            116,
+            120
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 24 14:39:55 +0000 2017",
+    "id": 944940709546573824,
+    "id_str": "944940709546573824",
+    "text": "看來是我看太快、誤讀了，原文應該是說「已經看過那產品的人，都很喜歡」。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 944918357362356224,
+    "in_reply_to_status_id_str": "944918357362356224",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 24 14:38:10 +0000 2017",
+    "id": 944940267102126082,
+    "id_str": "944940267102126082",
+    "text": "@dlackty 喔，也可能是我看太快，誤讀了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dlackty",
+          "name": "Richard Lee",
+          "id": 6967662,
+          "id_str": "6967662",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 944940041964478464,
+    "in_reply_to_status_id_str": "944940041964478464",
+    "in_reply_to_user_id": 6967662,
+    "in_reply_to_user_id_str": "6967662",
+    "in_reply_to_screen_name": "dlackty",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 24 14:19:20 +0000 2017",
+    "id": 944935528922615808,
+    "id_str": "944935528922615808",
+    "text": "平安夜，願愛我、愛過我，我愛著、與曾經愛過的人，都平平安安。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 24 13:51:32 +0000 2017",
+    "id": 944928532286734336,
+    "id_str": "944928532286734336",
+    "text": "RT @sirokumakoyuka: 整個倫敦都在聖誕節，24日捷運和商店只開到下午5點，25日一整天都沒有任何交通工具行駛，所有超商和商店都不開，台灣應該也要這樣才對，我不相信什麼造成別人困擾這種邏輯啦，如果一直說醬子造成別人困擾你台灣永遠都過勞不要怪別人真的。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sirokumakoyuka",
+          "name": "北極熊ふふ",
+          "id": 2312840790,
+          "id_str": "2312840790",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Dec 24 13:23:48 +0000 2017",
+      "id": 944921553891971072,
+      "id_str": "944921553891971072",
+      "text": "整個倫敦都在聖誕節，24日捷運和商店只開到下午5點，25日一整天都沒有任何交通工具行駛，所有超商和商店都不開，台灣應該也要這樣才對，我不相信什麼造成別人困擾這種邏輯啦，如果一直說醬子造成別人困擾你台灣永遠都過勞不要怪別人真的。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2312840790,
+        "id_str": "2312840790",
+        "name": "北極熊ふふ",
+        "screen_name": "sirokumakoyuka",
+        "location": "London",
+        "description": "I live in Wonderland.",
+        "url": "https://t.co/zC81bShImm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/zC81bShImm",
+                "expanded_url": "http://fufutheatre.blogspot.co.uk/",
+                "display_url": "fufutheatre.blogspot.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 153,
+        "friends_count": 153,
+        "listed_count": 4,
+        "created_at": "Mon Jan 27 02:12:30 +0000 2014",
+        "favourites_count": 2020,
+        "utc_offset": 28800,
+        "time_zone": "Beijing",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4445,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/810507390378536960/a1Aakdkg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/810507390378536960/a1Aakdkg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2312840790/1483208370",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 43,
+      "favorite_count": 61,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 43,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 24 13:11:06 +0000 2017",
+    "id": 944918357362356224,
+    "id_str": "944918357362356224",
+    "text": "iA Writer 居然說明年會發表一個「實體產品（A Physical Product）」，不是筆，但與寫作有關，而且人們已經看過它了。\n\n究竟是什麼啊？ https://t.co/iCCSja2gkr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iCCSja2gkr",
+          "expanded_url": "https://twitter.com/iAWriter/status/944916251947798528",
+          "display_url": "twitter.com/iAWriter/statu…",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 944916251947798528,
+    "quoted_status_id_str": "944916251947798528",
+    "quoted_status": {
+      "created_at": "Sun Dec 24 13:02:44 +0000 2017",
+      "id": 944916251947798528,
+      "id_str": "944916251947798528",
+      "text": "Boom! Boom! Boom! iA Writer for a Windows, web collaboration and… a physical product. Happy Christmas!… https://t.co/bM6AAofXjb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bM6AAofXjb",
+            "expanded_url": "https://twitter.com/i/web/status/944916251947798528",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 203008363,
+        "id_str": "203008363",
+        "name": "iA Writer",
+        "screen_name": "iAWriter",
+        "location": "On iOS, Mac and Android.",
+        "description": "Get focused. Get started. Get iA Writer. (We’re all on a holiday break, so don’t expect miracles from us right now).",
+        "url": "https://t.co/z6Z2SR8cOg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/z6Z2SR8cOg",
+                "expanded_url": "http://ia.net/writer",
+                "display_url": "ia.net/writer",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 16021,
+        "friends_count": 1,
+        "listed_count": 929,
+        "created_at": "Fri Oct 15 09:47:10 +0000 2010",
+        "favourites_count": 3655,
+        "utc_offset": 32400,
+        "time_zone": "Tokyo",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 11276,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F0F1F4",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/608828002/hmloyz0cxz80guoxwyzh.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/608828002/hmloyz0cxz80guoxwyzh.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/612990293747625984/hkpbsGz6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/612990293747625984/hkpbsGz6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/203008363/1446059304",
+        "profile_link_color": "0099FF",
+        "profile_sidebar_border_color": "FAFAFA",
+        "profile_sidebar_fill_color": "FAFAFA",
+        "profile_text_color": "1A1A1A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 57,
+      "favorite_count": 201,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 24 09:35:55 +0000 2017",
+    "id": 944864204124667905,
+    "id_str": "944864204124667905",
+    "text": "那些補助個兩萬五就覺得能鼓勵生育的政客腦袋裡到底裝了什麼。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Dec 24 04:53:26 +0000 2017",
     "id": 944793114597715969,
     "id_str": "944793114597715969",
