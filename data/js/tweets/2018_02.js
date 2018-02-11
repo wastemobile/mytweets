@@ -1,5 +1,475 @@
 Grailbird.data.tweets_2018_02 = [
   {
+    "created_at": "Sat Feb 10 16:25:51 +0000 2018",
+    "id": 962361985282142208,
+    "id_str": "962361985282142208",
+    "text": "RT @nnnnoooo007: 美麗的黃昏\n偶爾也會看到這樣的檔車(オートバイ)OL\n\n-----\nhttps://t.co/vmPFySwiSp https://t.co/lTbXpzM0fQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nnnnoooo007",
+          "name": "天之火",
+          "id": 3219946188,
+          "id_str": "3219946188",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vmPFySwiSp",
+          "expanded_url": "https://pixiv.me/nnnnoooo007",
+          "display_url": "pixiv.me/nnnnoooo007",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 961519680937578496,
+          "id_str": "961519680937578496",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/DVgBDjLU0AATa-q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DVgBDjLU0AATa-q.jpg",
+          "url": "https://t.co/lTbXpzM0fQ",
+          "display_url": "pic.twitter.com/lTbXpzM0fQ",
+          "expanded_url": "https://twitter.com/nnnnoooo007/status/961519993828421632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 889,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 504,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 889,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 961519993828421632,
+          "source_status_id_str": "961519993828421632",
+          "source_user_id": 3219946188,
+          "source_user_id_str": "3219946188"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 961519680937578496,
+          "id_str": "961519680937578496",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/DVgBDjLU0AATa-q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DVgBDjLU0AATa-q.jpg",
+          "url": "https://t.co/lTbXpzM0fQ",
+          "display_url": "pic.twitter.com/lTbXpzM0fQ",
+          "expanded_url": "https://twitter.com/nnnnoooo007/status/961519993828421632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 889,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 504,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 889,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 961519993828421632,
+          "source_status_id_str": "961519993828421632",
+          "source_user_id": 3219946188,
+          "source_user_id_str": "3219946188"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 08 08:40:05 +0000 2018",
+      "id": 961519993828421632,
+      "id_str": "961519993828421632",
+      "text": "美麗的黃昏\n偶爾也會看到這樣的檔車(オートバイ)OL\n\n-----\nhttps://t.co/vmPFySwiSp https://t.co/lTbXpzM0fQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vmPFySwiSp",
+            "expanded_url": "https://pixiv.me/nnnnoooo007",
+            "display_url": "pixiv.me/nnnnoooo007",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 961519680937578496,
+            "id_str": "961519680937578496",
+            "indices": [
+              58,
+              81
+            ],
+            "media_url": "http://pbs.twimg.com/media/DVgBDjLU0AATa-q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DVgBDjLU0AATa-q.jpg",
+            "url": "https://t.co/lTbXpzM0fQ",
+            "display_url": "pic.twitter.com/lTbXpzM0fQ",
+            "expanded_url": "https://twitter.com/nnnnoooo007/status/961519993828421632/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 889,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 504,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 889,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 961519680937578496,
+            "id_str": "961519680937578496",
+            "indices": [
+              58,
+              81
+            ],
+            "media_url": "http://pbs.twimg.com/media/DVgBDjLU0AATa-q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DVgBDjLU0AATa-q.jpg",
+            "url": "https://t.co/lTbXpzM0fQ",
+            "display_url": "pic.twitter.com/lTbXpzM0fQ",
+            "expanded_url": "https://twitter.com/nnnnoooo007/status/961519993828421632/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 889,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 504,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 889,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3219946188,
+        "id_str": "3219946188",
+        "name": "天之火",
+        "screen_name": "nnnnoooo007",
+        "location": "",
+        "description": "台湾人です。\n絵を描くこととスケッチすることが大好きです。\n少し日本語が読めますけど、あまり日本語が話せません。\n（この自我紹介も友達が協力して書いたんです（艸）\nとうぞよろしくお願いしますw",
+        "url": "https://t.co/UGwoT0Z194",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UGwoT0Z194",
+                "expanded_url": "http://nnnnoooo007.tumblr.com/",
+                "display_url": "nnnnoooo007.tumblr.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8850,
+        "friends_count": 30,
+        "listed_count": 167,
+        "created_at": "Tue May 19 04:58:42 +0000 2015",
+        "favourites_count": 23,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 459,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/600526721603870720/bqNutwqw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/600526721603870720/bqNutwqw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3219946188/1466725850",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 670,
+      "favorite_count": 2778,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 670,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Feb 10 15:50:04 +0000 2018",
+    "id": 962352979289391105,
+    "id_str": "962352979289391105",
+    "text": "覺得 Apple Watch 與 Technogym 運動器材的這種資訊連繫（透過 GymKit）真的不錯。 https://t.co/cQWAKG25JS https://t.co/aAYpzZYEO1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cQWAKG25JS",
+          "expanded_url": "http://bit.ly/2nYsE6D",
+          "display_url": "bit.ly/2nYsE6D",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 962352969533472768,
+          "id_str": "962352969533472768",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/DVr27VGVwAAxZSu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DVr27VGVwAAxZSu.jpg",
+          "url": "https://t.co/aAYpzZYEO1",
+          "display_url": "pic.twitter.com/aAYpzZYEO1",
+          "expanded_url": "https://twitter.com/wastemobile/status/962352979289391105/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 422,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 422,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 962352969533472768,
+          "id_str": "962352969533472768",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/DVr27VGVwAAxZSu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DVr27VGVwAAxZSu.jpg",
+          "url": "https://t.co/aAYpzZYEO1",
+          "display_url": "pic.twitter.com/aAYpzZYEO1",
+          "expanded_url": "https://twitter.com/wastemobile/status/962352979289391105/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 422,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 422,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 10 03:13:11 +0000 2018",
     "id": 962162502757859329,
     "id_str": "962162502757859329",
