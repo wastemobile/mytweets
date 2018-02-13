@@ -1,5 +1,420 @@
 Grailbird.data.tweets_2018_02 = [
   {
+    "created_at": "Tue Feb 13 07:23:31 +0000 2018",
+    "id": 963312666025500672,
+    "id_str": "963312666025500672",
+    "text": "「每年的書展總搞得像嘉年華一樣，不斷強調入場人數，政府似乎認為自己是創世紀中的上帝，用幾日時間就可以創造出閱讀文化⋯⋯」\n\nMoyashi：文庫本的誕生 https://t.co/TFGH3w63no https://t.co/MvS4Y5yonQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TFGH3w63no",
+          "expanded_url": "http://www.cup.com.hk/?p=94160",
+          "display_url": "cup.com.hk/?p=94160",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 963312652213657600,
+          "id_str": "963312652213657600",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/DV5fwNrVoAAQHeK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DV5fwNrVoAAQHeK.jpg",
+          "url": "https://t.co/MvS4Y5yonQ",
+          "display_url": "pic.twitter.com/MvS4Y5yonQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/963312666025500672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1600,
+              "h": 1071,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 455,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 803,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 963312652213657600,
+          "id_str": "963312652213657600",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/DV5fwNrVoAAQHeK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DV5fwNrVoAAQHeK.jpg",
+          "url": "https://t.co/MvS4Y5yonQ",
+          "display_url": "pic.twitter.com/MvS4Y5yonQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/963312666025500672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1600,
+              "h": 1071,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 455,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 803,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 13 07:20:16 +0000 2018",
+    "id": 963311847163101184,
+    "id_str": "963311847163101184",
+    "text": "陽光，轉瞬即逝。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Feb 13 06:55:02 +0000 2018",
+    "id": 963305495661441025,
+    "id_str": "963305495661441025",
+    "text": "「一本書的影響力」。（嗯？） https://t.co/eCKd5uYctz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eCKd5uYctz",
+          "expanded_url": "https://twitter.com/damuskus_/status/962560262019612678",
+          "display_url": "twitter.com/damuskus_/stat…",
+          "indices": [
+            15,
+            38
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 962560262019612678,
+    "quoted_status_id_str": "962560262019612678",
+    "quoted_status": {
+      "created_at": "Sun Feb 11 05:33:44 +0000 2018",
+      "id": 962560262019612678,
+      "id_str": "962560262019612678",
+      "text": "“impact of a book” by Jorge Mendez Blake https://t.co/lTnLF5VOCl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 962560251496206337,
+            "id_str": "962560251496206337",
+            "indices": [
+              41,
+              64
+            ],
+            "media_url": "http://pbs.twimg.com/media/DVuzculXkAEM9Gg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DVuzculXkAEM9Gg.jpg",
+            "url": "https://t.co/lTnLF5VOCl",
+            "display_url": "pic.twitter.com/lTnLF5VOCl",
+            "expanded_url": "https://twitter.com/damuskus_/status/962560262019612678/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 962560251496206337,
+            "id_str": "962560251496206337",
+            "indices": [
+              41,
+              64
+            ],
+            "media_url": "http://pbs.twimg.com/media/DVuzculXkAEM9Gg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DVuzculXkAEM9Gg.jpg",
+            "url": "https://t.co/lTnLF5VOCl",
+            "display_url": "pic.twitter.com/lTnLF5VOCl",
+            "expanded_url": "https://twitter.com/damuskus_/status/962560262019612678/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 154890760,
+        "id_str": "154890760",
+        "name": "sara",
+        "screen_name": "damuskus_",
+        "location": "Chicago",
+        "description": "I love Islam, Syria, and the righteous empowerment of women. The people are for the people. Photographer. #NoMuslimBanEver",
+        "url": "https://t.co/uYsBZooFW2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/uYsBZooFW2",
+                "expanded_url": "https://m.facebook.com/WomxnOfIslam/",
+                "display_url": "m.facebook.com/WomxnOfIslam/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2090,
+        "friends_count": 769,
+        "listed_count": 30,
+        "created_at": "Sat Jun 12 14:05:25 +0000 2010",
+        "favourites_count": 28210,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 26147,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FDF1E1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000079375200/6698728f0e89e28c8521265571783f8e.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000079375200/6698728f0e89e28c8521265571783f8e.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/954582807472496640/lUgifgSL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/954582807472496640/lUgifgSL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/154890760/1516425485",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "FDF1E1",
+        "profile_sidebar_fill_color": "FDF1E1",
+        "profile_text_color": "D00018",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 46762,
+      "favorite_count": 131627,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Feb 12 13:01:34 +0000 2018",
     "id": 963035350598742017,
     "id_str": "963035350598742017",
