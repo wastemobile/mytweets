@@ -1,5 +1,203 @@
 Grailbird.data.tweets_2018_02 = [
   {
+    "created_at": "Thu Feb 15 12:45:34 +0000 2018",
+    "id": 964118487588225024,
+    "id_str": "964118487588225024",
+    "text": "這個怪組合非常好喝。 https://t.co/qlRdgAedOe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 964118376304975877,
+          "id_str": "964118376304975877",
+          "indices": [
+            11,
+            34
+          ],
+          "media_url": "http://pbs.twimg.com/media/DWE8jh0VoAUobBe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DWE8jh0VoAUobBe.jpg",
+          "url": "https://t.co/qlRdgAedOe",
+          "display_url": "pic.twitter.com/qlRdgAedOe",
+          "expanded_url": "https://twitter.com/wastemobile/status/964118487588225024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 964118376304975877,
+          "id_str": "964118376304975877",
+          "indices": [
+            11,
+            34
+          ],
+          "media_url": "http://pbs.twimg.com/media/DWE8jh0VoAUobBe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DWE8jh0VoAUobBe.jpg",
+          "url": "https://t.co/qlRdgAedOe",
+          "display_url": "pic.twitter.com/qlRdgAedOe",
+          "expanded_url": "https://twitter.com/wastemobile/status/964118487588225024/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 15 09:24:59 +0000 2018",
+    "id": 964068007377960960,
+    "id_str": "964068007377960960",
+    "text": "有三個服務可以替不提供 RSS 的網站產生 feed：\n\n1. https://t.co/zGlzq0N2ci\n2. https://t.co/EiQE0dWTDM\n3. https://t.co/rgyQvki1un\n\n但通常不會給自己找麻煩，就少看那網站行了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zGlzq0N2ci",
+          "expanded_url": "http://www.feed43.com/",
+          "display_url": "feed43.com",
+          "indices": [
+            32,
+            55
+          ]
+        },
+        {
+          "url": "https://t.co/EiQE0dWTDM",
+          "expanded_url": "https://feedity.com/",
+          "display_url": "feedity.com",
+          "indices": [
+            59,
+            82
+          ]
+        },
+        {
+          "url": "https://t.co/rgyQvki1un",
+          "expanded_url": "http://createfeed.fivefilters.org/",
+          "display_url": "createfeed.fivefilters.org",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 963781055961489410,
+    "in_reply_to_status_id_str": "963781055961489410",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Feb 15 02:25:43 +0000 2018",
     "id": 963962494971625472,
     "id_str": "963962494971625472",
