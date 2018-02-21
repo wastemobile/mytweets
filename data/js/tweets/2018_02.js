@@ -1,5 +1,147 @@
 Grailbird.data.tweets_2018_02 = [
   {
+    "created_at": "Tue Feb 20 16:39:27 +0000 2018",
+    "id": 965989284070137856,
+    "id_str": "965989284070137856",
+    "text": "RT @POT11222449: [轉]\n大佛普拉斯有上 Google Play 電影\n2/22 前可以換到租片 5 元的優惠\n2/28 之前可以用掉\n租片之後必須在三十天內點開來看\n點開之後要在 48 小時內看完\n\n五塊錢 可以在線上看大佛普拉斯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "POT11222449",
+          "name": "清澄的死魚眼先生",
+          "id": 2465856127,
+          "id_str": "2465856127",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Feb 20 11:31:11 +0000 2018",
+      "id": 965911709402542083,
+      "id_str": "965911709402542083",
+      "text": "[轉]\n大佛普拉斯有上 Google Play 電影\n2/22 前可以換到租片 5 元的優惠\n2/28 之前可以用掉\n租片之後必須在三十天內點開來看\n點開之後要在 48 小時內看完\n\n五塊錢 可以在線上看大佛普拉斯",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2465856127,
+        "id_str": "2465856127",
+        "name": "清澄的死魚眼先生",
+        "screen_name": "POT11222449",
+        "location": "民主風味台灣國",
+        "description": "「我確確實實的再告訴你們一次，凡有耳的都應當聽。\n   支持中國國民黨的人，便與那些法利賽派一同，是祇在乎自已田園裡的莊稼。\n貧窮與困乏必向他們速速的到來」",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1410,
+        "friends_count": 58,
+        "listed_count": 50,
+        "created_at": "Sun Apr 27 08:55:28 +0000 2014",
+        "favourites_count": 4402,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 100275,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461797950205616128/WWmW1L2K.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461797950205616128/WWmW1L2K.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/648687469232152576/PZ7mMTrH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/648687469232152576/PZ7mMTrH_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2465856127/1398929944",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 33,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Feb 19 07:53:35 +0000 2018",
     "id": 965494558711693312,
     "id_str": "965494558711693312",
