@@ -1,5 +1,359 @@
 Grailbird.data.tweets_2018_03 = [
   {
+    "created_at": "Sat Mar 10 07:50:55 +0000 2018",
+    "id": 972379255756570624,
+    "id_str": "972379255756570624",
+    "text": "若拿商場比喻，Facebook 是一般吵雜的大賣場，Plurk 是萬年商業大樓，Twitter 大概就是這個隱密公寓。 \n\n福岡巷弄內的「隱密公寓」：每個房間都是一個世界 by BIOS Monthly… https://t.co/pLim5H2Wfw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pLim5H2Wfw",
+          "expanded_url": "https://twitter.com/i/web/status/972379255756570624",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 10 07:44:08 +0000 2018",
+    "id": 972377550272868352,
+    "id_str": "972377550272868352",
+    "text": "如何私釀電子書 - 樵志札記 by @eternallogger #note https://t.co/eWSwoJ6VRR https://t.co/hAFPYNEbFn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            33,
+            38
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "eternallogger",
+          "name": "George Huang",
+          "id": 737976592660455427,
+          "id_str": "737976592660455427",
+          "indices": [
+            18,
+            32
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eWSwoJ6VRR",
+          "expanded_url": "http://bit.ly/2FoVU1P",
+          "display_url": "bit.ly/2FoVU1P",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 972377540181483520,
+          "id_str": "972377540181483520",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/DX6UOI4V4AAADrL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DX6UOI4V4AAADrL.jpg",
+          "url": "https://t.co/hAFPYNEbFn",
+          "display_url": "pic.twitter.com/hAFPYNEbFn",
+          "expanded_url": "https://twitter.com/wastemobile/status/972377550272868352/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 450,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1800,
+              "h": 1192,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 795,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 972377540181483520,
+          "id_str": "972377540181483520",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/DX6UOI4V4AAADrL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DX6UOI4V4AAADrL.jpg",
+          "url": "https://t.co/hAFPYNEbFn",
+          "display_url": "pic.twitter.com/hAFPYNEbFn",
+          "expanded_url": "https://twitter.com/wastemobile/status/972377550272868352/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 450,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1800,
+              "h": 1192,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 795,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 10 05:34:39 +0000 2018",
+    "id": 972344963424907265,
+    "id_str": "972344963424907265",
+    "text": "RT @pinglesmile: 有好一陣子不買大誌了，自從一次又一次發現它們對街友的議題絲毫不沾，不曾因為街友被驅趕、或社會上惡意的輿論而發過任何一次的聲明。\n\n但我想我還是會繼續買大誌，算是純粹支持販售員選擇的生活，但想保持小清新的文青大誌本身還是吃屎吧\n\nhttps://…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "pinglesmile",
+          "name": "品客笑男子",
+          "id": 2605743306,
+          "id_str": "2605743306",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 20 14:52:40 +0000 2017",
+      "id": 943494365321748480,
+      "id_str": "943494365321748480",
+      "text": "有好一陣子不買大誌了，自從一次又一次發現它們對街友的議題絲毫不沾，不曾因為街友被驅趕、或社會上惡意的輿論而發過任何一次的聲明。\n\n但我想我還是會繼續買大誌，算是純粹支持販售員選擇的生活，但想保持小清新的文青大誌本身還是吃屎吧\n\nhttps://t.co/WEN1G5wZCa …",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WEN1G5wZCa",
+            "expanded_url": "https://www.facebook.com/permalink.php?story_fbid=10208322283295202&id=1847853798",
+            "display_url": "facebook.com/permalink.php?…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2605743306,
+        "id_str": "2605743306",
+        "name": "品客笑男子",
+        "screen_name": "pinglesmile",
+        "location": "Taiwan",
+        "description": "嚴重、非常嚴重的社交障礙。討厭上班。主張臺灣建國。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 273,
+        "friends_count": 424,
+        "listed_count": 4,
+        "created_at": "Sat Jul 05 16:36:36 +0000 2014",
+        "favourites_count": 2856,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3084,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/926645628419022848/zpJsC1Yd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/926645628419022848/zpJsC1Yd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2605743306/1510273134",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Mar 10 03:22:43 +0000 2018",
     "id": 972311762820190208,
     "id_str": "972311762820190208",
