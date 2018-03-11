@@ -1,5 +1,203 @@
 Grailbird.data.tweets_2018_03 = [
   {
+    "created_at": "Sat Mar 10 10:55:28 +0000 2018",
+    "id": 972425699901370368,
+    "id_str": "972425699901370368",
+    "text": "這演唱會真的太棒，用電視 YouTube 播了一下午都覺得不夠。 https://t.co/F6T1YRILD1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/F6T1YRILD1",
+          "expanded_url": "https://twitter.com/soundfury/status/972290481001345024",
+          "display_url": "twitter.com/soundfury/stat…",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 972290481001345024,
+    "quoted_status_id_str": "972290481001345024",
+    "quoted_status": {
+      "created_at": "Sat Mar 10 01:58:09 +0000 2018",
+      "id": 972290481001345024,
+      "id_str": "972290481001345024",
+      "text": "昨晚發現這場Leonard Cohen演場會的完整錄影，看了好幾遍，其中諸多翻唱都很精彩。一定要淚推給歌迷們。\nhttps://t.co/lW1PFAPkD3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lW1PFAPkD3",
+            "expanded_url": "https://www.youtube.com/watch?v=NZVO3C38Sso&index=14&list=PLu4HOX3dwndFPaIhvDagSsqSQzVZVktM8",
+            "display_url": "youtube.com/watch?v=NZVO3C…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 8185232,
+        "id_str": "8185232",
+        "name": "張鐵志 T.C. Chang",
+        "screen_name": "soundfury",
+        "location": "Taiwan",
+        "description": "張鐵志，台灣政治與文化評論家，Columbia U. 政治學博士候選人。關注政治、文化、搖滾樂，從台中港到國際。曾任《彭博商業周刊/中文版》創刊總主筆、香港《號外》雜誌總編輯，《報導者》共同創辦人、《政問》主持人與主編。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 64052,
+        "friends_count": 868,
+        "listed_count": 473,
+        "created_at": "Tue Aug 14 16:22:52 +0000 2007",
+        "favourites_count": 1324,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 15277,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/699608038919933952/UvJ1yI0K_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/699608038919933952/UvJ1yI0K_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 29,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 10 09:38:28 +0000 2018",
+    "id": 972406321264734208,
+    "id_str": "972406321264734208",
+    "text": "使用 Telegram 機器人對話界面，根本就是另一種終端機界面吧。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Mar 10 07:50:55 +0000 2018",
     "id": 972379255756570624,
     "id_str": "972379255756570624",
