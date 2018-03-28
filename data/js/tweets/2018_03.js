@@ -1,5 +1,464 @@
 Grailbird.data.tweets_2018_03 = [
   {
+    "created_at": "Tue Mar 27 15:15:22 +0000 2018",
+    "id": 978651699026907136,
+    "id_str": "978651699026907136",
+    "text": "一級玩家/頭號玩家/挑戰者1號│觀影前你必須要懂得知識│背景.人物.世界觀.彩蛋剖析(小說爆雷慎入) https://t.co/j9Qhj4grw3 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            78,
+            86
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/j9Qhj4grw3",
+          "expanded_url": "https://youtu.be/t7A2_KbeG98",
+          "display_url": "youtu.be/t7A2_KbeG98",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Mar 26 03:51:31 +0000 2018",
+    "id": 978117214283866112,
+    "id_str": "978117214283866112",
+    "text": "單人飛行器已經這麼穩定了啊⋯⋯？ https://t.co/3HNGAk8pxu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3HNGAk8pxu",
+          "expanded_url": "https://twitter.com/Fire_Sister_Bee/status/977517388567601155",
+          "display_url": "twitter.com/Fire_Sister_Be…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 977517388567601155,
+    "quoted_status_id_str": "977517388567601155",
+    "quoted_status": {
+      "created_at": "Sat Mar 24 12:08:01 +0000 2018",
+      "id": 977517388567601155,
+      "id_str": "977517388567601155",
+      "text": "\"Okay, so we invented viable and fully functional jetpacks, what do we do now?\"\n\nJapan : \"SAMOURAI FIGHTS!!!\" https://t.co/X8dy5XTN23",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 977517246313652224,
+            "id_str": "977517246313652224",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/977517246313652224/pu/img/zJ1w2EzMNbC-kOfM.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/977517246313652224/pu/img/zJ1w2EzMNbC-kOfM.jpg",
+            "url": "https://t.co/X8dy5XTN23",
+            "display_url": "pic.twitter.com/X8dy5XTN23",
+            "expanded_url": "https://twitter.com/Fire_Sister_Bee/status/977517388567601155/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 406,
+                "h": 720,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 406,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 977517246313652224,
+            "id_str": "977517246313652224",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/977517246313652224/pu/img/zJ1w2EzMNbC-kOfM.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/977517246313652224/pu/img/zJ1w2EzMNbC-kOfM.jpg",
+            "url": "https://t.co/X8dy5XTN23",
+            "display_url": "pic.twitter.com/X8dy5XTN23",
+            "expanded_url": "https://twitter.com/Fire_Sister_Bee/status/977517388567601155/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 406,
+                "h": 720,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 406,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                203,
+                360
+              ],
+              "duration_millis": 45113,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/977517246313652224/pu/pl/C3KpyRmw2lTIPdPW.m3u8"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/977517246313652224/pu/vid/180x320/h1FY1netPxmYqX3p.mp4"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/977517246313652224/pu/vid/360x640/bTPpb3izRXKEeYcv.mp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 719240224941989888,
+        "id_str": "719240224941989888",
+        "name": "Karen-chan 🍂",
+        "screen_name": "Fire_Sister_Bee",
+        "location": "Imoutoland",
+        "description": "Justice Egg | mostly seasonal animus and Monogatari (sometimes NSFW) | (Eng/Fr/Ger) | @NeIodyn is bae | @MomoVeIia💖 | Header : @seyreene",
+        "url": "https://t.co/ylu7KSaRkf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ylu7KSaRkf",
+                "expanded_url": "http://loli.dance",
+                "display_url": "loli.dance",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14747,
+        "friends_count": 362,
+        "listed_count": 143,
+        "created_at": "Sun Apr 10 19:06:47 +0000 2016",
+        "favourites_count": 107468,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 61697,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/971844782518652929/BHBniLdg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/971844782518652929/BHBniLdg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/719240224941989888/1515255987",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 243109,
+      "favorite_count": 488130,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Mar 26 03:35:22 +0000 2018",
+    "id": 978113150372298752,
+    "id_str": "978113150372298752",
+    "text": "Telegram 每月有兩億活躍用戶了。 https://t.co/pEtnlgewEQ\n\n還是很好奇這服務與公司怎麼持續發展下去。 https://t.co/YyBF669KQ7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pEtnlgewEQ",
+          "expanded_url": "http://bit.ly/2pEeb1f",
+          "display_url": "bit.ly/2pEeb1f",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 978113138984800257,
+          "id_str": "978113138984800257",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/DZL0t7dU0AE-gSO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DZL0t7dU0AE-gSO.jpg",
+          "url": "https://t.co/YyBF669KQ7",
+          "display_url": "pic.twitter.com/YyBF669KQ7",
+          "expanded_url": "https://twitter.com/wastemobile/status/978113150372298752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 481,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 849,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 849,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 978113138984800257,
+          "id_str": "978113138984800257",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/DZL0t7dU0AE-gSO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DZL0t7dU0AE-gSO.jpg",
+          "url": "https://t.co/YyBF669KQ7",
+          "display_url": "pic.twitter.com/YyBF669KQ7",
+          "expanded_url": "https://twitter.com/wastemobile/status/978113150372298752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 481,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 849,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 849,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Mar 26 02:46:07 +0000 2018",
     "id": 978100755553861632,
     "id_str": "978100755553861632",
