@@ -1,5 +1,533 @@
 Grailbird.data.tweets_2018_03 = [
   {
+    "created_at": "Sat Mar 31 23:57:53 +0000 2018",
+    "id": 980232748186050562,
+    "id_str": "980232748186050562",
+    "text": "根據日本《出版月報》2018年2月號，日本市場的漫畫單行本在 2017 年經歷了死亡交叉，電子漫畫第一次超過紙本的銷售金額；電子漫畫雜誌也持續成長，但仍不到紙本雜誌的 5%。\n\n同時根據前幾年的資料，日本電子書市場 80% 營業額… https://t.co/WjomALmn1v",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WjomALmn1v",
+          "expanded_url": "https://twitter.com/i/web/status/980232748186050562",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 31 17:57:32 +0000 2018",
+    "id": 980142064439410688,
+    "id_str": "980142064439410688",
+    "text": "RT @cfbcuk: Fury as Man Booker bows to pressure to list Taiwan as Chinese province https://t.co/zFc9nCdIE2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cfbcuk",
+          "name": "ChinaFictionBookClub",
+          "id": 873345817,
+          "id_str": "873345817",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zFc9nCdIE2",
+          "expanded_url": "https://www.telegraph.co.uk/news/2018/03/30/fury-man-booker-bows-pressure-list-taiwan-chinese-province/",
+          "display_url": "telegraph.co.uk/news/2018/03/3…",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Mar 31 08:58:12 +0000 2018",
+      "id": 980006334379778048,
+      "id_str": "980006334379778048",
+      "text": "Fury as Man Booker bows to pressure to list Taiwan as Chinese province https://t.co/zFc9nCdIE2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zFc9nCdIE2",
+            "expanded_url": "https://www.telegraph.co.uk/news/2018/03/30/fury-man-booker-bows-pressure-list-taiwan-chinese-province/",
+            "display_url": "telegraph.co.uk/news/2018/03/3…",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 873345817,
+        "id_str": "873345817",
+        "name": "ChinaFictionBookClub",
+        "screen_name": "cfbcuk",
+        "location": "",
+        "description": "Founded 2010, for everyone interested in Chinese fiction in English. Tweets by @NickyHarman_cn & @helenwanglondon. Also at https://t.co/RfUulHI0xB (listopia)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/RfUulHI0xB",
+                "expanded_url": "http://www.goodreads.com",
+                "display_url": "goodreads.com",
+                "indices": [
+                  123,
+                  146
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2602,
+        "friends_count": 381,
+        "listed_count": 113,
+        "created_at": "Thu Oct 11 09:57:08 +0000 2012",
+        "favourites_count": 387,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8756,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/672530691922501632/yiaNJoev_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/672530691922501632/yiaNJoev_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/873345817/1481005736",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 27,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Mar 31 17:48:26 +0000 2018",
+    "id": 980139773456084992,
+    "id_str": "980139773456084992",
+    "text": "看到一篇好長的 E-Ink 電紙書比較文⋯⋯ https://t.co/qQYzDLUbxQ #note",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            47,
+            52
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qQYzDLUbxQ",
+          "expanded_url": "http://bit.ly/2oapwGs",
+          "display_url": "bit.ly/2oapwGs",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 31 17:07:24 +0000 2018",
+    "id": 980129447889141760,
+    "id_str": "980129447889141760",
+    "text": "清晰易懂。 https://t.co/knb9orHgCF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/knb9orHgCF",
+          "expanded_url": "https://twitter.com/zoeyjsalsbury/status/979566206813376512",
+          "display_url": "twitter.com/zoeyjsalsbury/…",
+          "indices": [
+            6,
+            29
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 979566206813376512,
+    "quoted_status_id_str": "979566206813376512",
+    "quoted_status": {
+      "created_at": "Fri Mar 30 03:49:17 +0000 2018",
+      "id": 979566206813376512,
+      "id_str": "979566206813376512",
+      "text": "I NEED SOMEONE TO GEEK OUT WITH ME ABOUT THESE BUSINESS CARDS https://t.co/zV8SWe5yN3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 979565452694310912,
+            "id_str": "979565452694310912",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/DZgdltoW0AAf2Sm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DZgdltoW0AAf2Sm.jpg",
+            "url": "https://t.co/zV8SWe5yN3",
+            "display_url": "pic.twitter.com/zV8SWe5yN3",
+            "expanded_url": "https://twitter.com/zoeyjsalsbury/status/979566206813376512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 509,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 509,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 979565452694310912,
+            "id_str": "979565452694310912",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/DZgdltoW0AAf2Sm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DZgdltoW0AAf2Sm.jpg",
+            "url": "https://t.co/zV8SWe5yN3",
+            "display_url": "pic.twitter.com/zV8SWe5yN3",
+            "expanded_url": "https://twitter.com/zoeyjsalsbury/status/979566206813376512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 509,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 509,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1279053421,
+        "id_str": "1279053421",
+        "name": "Zoey Jordan Salsbury",
+        "screen_name": "zoeyjsalsbury",
+        "location": "Washington, DC",
+        "description": "Deputy Director @MEANSDatabase, Creator of https://t.co/NFYZ56IudW, graduating @AmericanU in May with BA in PR, please hire me thanks.",
+        "url": "https://t.co/MpRwo9jAnD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/MpRwo9jAnD",
+                "expanded_url": "http://zoeysalsbury.com",
+                "display_url": "zoeysalsbury.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/NFYZ56IudW",
+                "expanded_url": "http://MailMeToTheGOP.com",
+                "display_url": "MailMeToTheGOP.com",
+                "indices": [
+                  43,
+                  66
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1362,
+        "friends_count": 5001,
+        "listed_count": 53,
+        "created_at": "Mon Mar 18 23:47:59 +0000 2013",
+        "favourites_count": 72931,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 39737,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/939960633981890560/XUsFJBHy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/939960633981890560/XUsFJBHy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1279053421/1516482479",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 49747,
+      "favorite_count": 223627,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Sat Mar 31 10:04:42 +0000 2018",
     "id": 980023069572964354,
     "id_str": "980023069572964354",
