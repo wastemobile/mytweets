@@ -1,5 +1,387 @@
 Grailbird.data.tweets_2018_04 = [
   {
+    "created_at": "Wed Apr 04 14:41:24 +0000 2018",
+    "id": 981542256669687808,
+    "id_str": "981542256669687808",
+    "text": "RT @fivestone: 1944年 T.S.艾略特 写给 乔治奥威尔 的《动物庄园》退稿信，2009年被艾略特遗孀公布：「你的猪比其他动物聪明的多，所以他们才是最有资格统治农场的，事实上农场没有他们就无法存在，所以需要的不是更多的共产主义，而是更有公共精神的猪。」 htt…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "fivestone",
+          "name": "fivestone",
+          "id": 9479132,
+          "id_str": "9479132",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Apr 04 13:41:50 +0000 2018",
+      "id": 981527263714816001,
+      "id_str": "981527263714816001",
+      "text": "1944年 T.S.艾略特 写给 乔治奥威尔 的《动物庄园》退稿信，2009年被艾略特遗孀公布：「你的猪比其他动物聪明的多，所以他们才是最有资格统治农场的，事实上农场没有他们就无法存在，所以需要的不是更多的共产主义，而是更有公共精… https://t.co/50P1QMK2gP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/50P1QMK2gP",
+            "expanded_url": "https://twitter.com/i/web/status/981527263714816001",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 9479132,
+        "id_str": "9479132",
+        "name": "fivestone",
+        "screen_name": "fivestone",
+        "location": "",
+        "description": "",
+        "url": "http://t.co/Sx09Y1PT4r",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Sx09Y1PT4r",
+                "expanded_url": "http://fivestone.info",
+                "display_url": "fivestone.info",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 722,
+        "friends_count": 168,
+        "listed_count": 40,
+        "created_at": "Tue Oct 16 15:12:29 +0000 2007",
+        "favourites_count": 1675,
+        "utc_offset": 36000,
+        "time_zone": "Sydney",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7208,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/40767682/icon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/40767682/icon_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9479132/1398327470",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 04 14:35:49 +0000 2018",
+    "id": 981540851544305664,
+    "id_str": "981540851544305664",
+    "text": "RT @JMichaelCole1: 作家吳明益獲平反　曼布克國際獎正名「台灣」！ https://t.co/VzYSWi6LGN #吳明益 #臺灣是臺灣 @ManBookerPrize",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "吳明益",
+          "indices": [
+            66,
+            70
+          ]
+        },
+        {
+          "text": "臺灣是臺灣",
+          "indices": [
+            71,
+            77
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JMichaelCole1",
+          "name": "J Michael Cole (寇謐將)",
+          "id": 821330766,
+          "id_str": "821330766",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "ManBookerPrize",
+          "name": "Man Booker Prize",
+          "id": 59156862,
+          "id_str": "59156862",
+          "indices": [
+            78,
+            93
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VzYSWi6LGN",
+          "expanded_url": "https://news.tvbs.com.tw/life/895970",
+          "display_url": "news.tvbs.com.tw/life/895970",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Apr 04 14:15:04 +0000 2018",
+      "id": 981535626729172992,
+      "id_str": "981535626729172992",
+      "text": "作家吳明益獲平反　曼布克國際獎正名「台灣」！ https://t.co/VzYSWi6LGN #吳明益 #臺灣是臺灣 @ManBookerPrize",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "吳明益",
+            "indices": [
+              47,
+              51
+            ]
+          },
+          {
+            "text": "臺灣是臺灣",
+            "indices": [
+              52,
+              58
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "ManBookerPrize",
+            "name": "Man Booker Prize",
+            "id": 59156862,
+            "id_str": "59156862",
+            "indices": [
+              59,
+              74
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VzYSWi6LGN",
+            "expanded_url": "https://news.tvbs.com.tw/life/895970",
+            "display_url": "news.tvbs.com.tw/life/895970",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 821330766,
+        "id_str": "821330766",
+        "name": "J Michael Cole (寇謐將)",
+        "screen_name": "JMichaelCole1",
+        "location": "Taipei, Taiwan",
+        "description": "Senior Fellow, China Policy Institute (U Nott); Research Associate CEFC; The National Interest, Jane's, Interpreter; Taiwan Sentinel chief ed. #China #Taiwan",
+        "url": "http://t.co/EU3Ktl0ZJJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/EU3Ktl0ZJJ",
+                "expanded_url": "http://fareasternpotato.blogspot.tw/",
+                "display_url": "fareasternpotato.blogspot.tw",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5315,
+        "friends_count": 730,
+        "listed_count": 235,
+        "created_at": "Thu Sep 13 11:24:00 +0000 2012",
+        "favourites_count": 3073,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2296,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/659276769/4v7rtgd7g33hg6xb6udw.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/659276769/4v7rtgd7g33hg6xb6udw.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/471297737204301825/___o6393_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/471297737204301825/___o6393_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/821330766/1505731950",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 36,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 04 07:28:09 +0000 2018",
     "id": 981433223535382529,
     "id_str": "981433223535382529",
