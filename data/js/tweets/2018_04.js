@@ -1,5 +1,322 @@
 Grailbird.data.tweets_2018_04 = [
   {
+    "created_at": "Thu Apr 05 06:43:10 +0000 2018",
+    "id": 981784291645575168,
+    "id_str": "981784291645575168",
+    "text": "已經 16 年的「上海國際文學節」居然是一間西餐廳主辦的（創辦人來自澳洲），2002 年只有一位主講人，第二年 3 人、第三年 10 人，2018 年 44 人。 https://t.co/ncTqo8qkme\n\n一個餐廳老闆、一… https://t.co/BAvParvU5F",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ncTqo8qkme",
+          "expanded_url": "http://bit.ly/2Ji2Ig2",
+          "display_url": "bit.ly/2Ji2Ig2",
+          "indices": [
+            82,
+            105
+          ]
+        },
+        {
+          "url": "https://t.co/BAvParvU5F",
+          "expanded_url": "https://twitter.com/i/web/status/981784291645575168",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 05 06:34:06 +0000 2018",
+    "id": 981782011479076864,
+    "id_str": "981782011479076864",
+    "text": "New York Times 刊了篇歐洲拯救伊比利亞猞猁（lynx，大山貓）的報導，記得台灣石虎的估計剩餘數量也是 500 隻上下，相較台灣地方官的漠視與重商，我覺得石虎更危險一點。 https://t.co/5ph9hiWyIO… https://t.co/8OWzYThsaE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5ph9hiWyIO",
+          "expanded_url": "https://nyti.ms/2H9xC9S",
+          "display_url": "nyti.ms/2H9xC9S",
+          "indices": [
+            92,
+            115
+          ]
+        },
+        {
+          "url": "https://t.co/8OWzYThsaE",
+          "expanded_url": "https://twitter.com/i/web/status/981782011479076864",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 05 06:16:18 +0000 2018",
+    "id": 981777532373557248,
+    "id_str": "981777532373557248",
+    "text": "只用手腕在 27” 螢幕上操作滑鼠是可能的，只要有教練協助固定。 https://t.co/mIb5mZgJ2q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 981777519698309120,
+          "id_str": "981777519698309120",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/DZ_5c9YU8AAZlV7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DZ_5c9YU8AAZlV7.jpg",
+          "url": "https://t.co/mIb5mZgJ2q",
+          "display_url": "pic.twitter.com/mIb5mZgJ2q",
+          "expanded_url": "https://twitter.com/wastemobile/status/981777532373557248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 981777519698309120,
+          "id_str": "981777519698309120",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/DZ_5c9YU8AAZlV7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DZ_5c9YU8AAZlV7.jpg",
+          "url": "https://t.co/mIb5mZgJ2q",
+          "display_url": "pic.twitter.com/mIb5mZgJ2q",
+          "expanded_url": "https://twitter.com/wastemobile/status/981777532373557248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 05 06:08:52 +0000 2018",
+    "id": 981775658996006917,
+    "id_str": "981775658996006917",
+    "text": "使用零長度字元在網頁中插入肉眼不可辨識的使用者名稱，拷貝貼上後依舊可以被偵測（解析）出來 https://t.co/PpwBzMuy8v\n\n試試看 https://t.co/6frfhhWvuR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PpwBzMuy8v",
+          "expanded_url": "http://bit.ly/2HaFvM5",
+          "display_url": "bit.ly/2HaFvM5",
+          "indices": [
+            45,
+            68
+          ]
+        },
+        {
+          "url": "https://t.co/6frfhhWvuR",
+          "expanded_url": "http://bit.ly/2H9CvQ7",
+          "display_url": "bit.ly/2H9CvQ7",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 04 14:41:24 +0000 2018",
     "id": 981542256669687808,
     "id_str": "981542256669687808",
