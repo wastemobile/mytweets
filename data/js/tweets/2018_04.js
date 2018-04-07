@@ -1,5 +1,574 @@
 Grailbird.data.tweets_2018_04 = [
   {
+    "created_at": "Sat Apr 07 05:09:59 +0000 2018",
+    "id": 982485617475899392,
+    "id_str": "982485617475899392",
+    "text": "簡單理解一下日本動畫大師高畑勳 https://t.co/eaiyX1w6lg #note https://t.co/WCYHLAgm4o",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            40,
+            45
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eaiyX1w6lg",
+          "expanded_url": "http://bit.ly/2qdUDkL",
+          "display_url": "bit.ly/2qdUDkL",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 982485608667889664,
+          "id_str": "982485608667889664",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/DaJ9dKWVQAASNy0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DaJ9dKWVQAASNy0.jpg",
+          "url": "https://t.co/WCYHLAgm4o",
+          "display_url": "pic.twitter.com/WCYHLAgm4o",
+          "expanded_url": "https://twitter.com/wastemobile/status/982485617475899392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 512,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 464,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 512,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 982485608667889664,
+          "id_str": "982485608667889664",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/DaJ9dKWVQAASNy0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DaJ9dKWVQAASNy0.jpg",
+          "url": "https://t.co/WCYHLAgm4o",
+          "display_url": "pic.twitter.com/WCYHLAgm4o",
+          "expanded_url": "https://twitter.com/wastemobile/status/982485617475899392/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 512,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 464,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 512,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 06 16:34:04 +0000 2018",
+    "id": 982295386596425729,
+    "id_str": "982295386596425729",
+    "text": "RT @openculture: A Vending Machine Now Distributes Free Short Stories at Francis Ford Coppola’s Café Zoetrope https://t.co/F0QJKKZ7TM https…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "openculture",
+          "name": "Open Culture",
+          "id": 19826509,
+          "id_str": "19826509",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/F0QJKKZ7TM",
+          "expanded_url": "https://goo.gl/o9KbMn",
+          "display_url": "goo.gl/o9KbMn",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 06 16:09:04 +0000 2018",
+      "id": 982289092963479552,
+      "id_str": "982289092963479552",
+      "text": "A Vending Machine Now Distributes Free Short Stories at Francis Ford Coppola’s Café Zoetrope https://t.co/F0QJKKZ7TM https://t.co/udP6gVNwpq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/F0QJKKZ7TM",
+            "expanded_url": "https://goo.gl/o9KbMn",
+            "display_url": "goo.gl/o9KbMn",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 982289084679831552,
+            "id_str": "982289084679831552",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/DaHKt9cVwAAVSeo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DaHKt9cVwAAVSeo.jpg",
+            "url": "https://t.co/udP6gVNwpq",
+            "display_url": "pic.twitter.com/udP6gVNwpq",
+            "expanded_url": "https://twitter.com/openculture/status/982289092963479552/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 401,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 341,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 401,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 982289084679831552,
+            "id_str": "982289084679831552",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/DaHKt9cVwAAVSeo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DaHKt9cVwAAVSeo.jpg",
+            "url": "https://t.co/udP6gVNwpq",
+            "display_url": "pic.twitter.com/udP6gVNwpq",
+            "expanded_url": "https://twitter.com/openculture/status/982289092963479552/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 800,
+                "h": 401,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 341,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 401,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19826509,
+        "id_str": "19826509",
+        "name": "Open Culture",
+        "screen_name": "openculture",
+        "location": "Mountain View, CA",
+        "description": "We make the web a more intelligent place. A Thought-Provoking Blog. Free Courses. Free Audio Books & eBooks. And more.",
+        "url": "http://t.co/HVA1Vpy2Ba",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/HVA1Vpy2Ba",
+                "expanded_url": "http://www.openculture.com",
+                "display_url": "openculture.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 400600,
+        "friends_count": 924,
+        "listed_count": 13299,
+        "created_at": "Sat Jan 31 19:01:34 +0000 2009",
+        "favourites_count": 352,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 61521,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "86ACB7",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4564878/oc_twitter.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4564878/oc_twitter.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/851645340830715904/jrs1gcNM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19826509/1491930107",
+        "profile_link_color": "306885",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "F6F2E3",
+        "profile_text_color": "62625D",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 181,
+      "favorite_count": 389,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 181,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Apr 06 16:18:08 +0000 2018",
+    "id": 982291375851884544,
+    "id_str": "982291375851884544",
+    "text": "看了奈斯博小說改編的電影《雪人》，從頭囧到尾，上網一查才發現當初因為國外評價太差，台灣根本就取消上映，真是歷年來聽過看過最慘的小說改編電影。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 06 07:35:48 +0000 2018",
+    "id": 982159926762942465,
+    "id_str": "982159926762942465",
+    "text": "美國書商協會（ABA）剛公佈了 Prime Numbers 這份 Amazon 對美國零售產業的影響報告，可免費下載或觀看資訊示意圖。 https://t.co/1VwC3K4NtZ https://t.co/Pozg3wsxln",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1VwC3K4NtZ",
+          "expanded_url": "http://bit.ly/2q7Xxre",
+          "display_url": "bit.ly/2q7Xxre",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 982159917753630720,
+          "id_str": "982159917753630720",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/DaFVPdJVAAA6GkO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DaFVPdJVAAA6GkO.jpg",
+          "url": "https://t.co/Pozg3wsxln",
+          "display_url": "pic.twitter.com/Pozg3wsxln",
+          "expanded_url": "https://twitter.com/wastemobile/status/982159926762942465/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 718,
+              "h": 473,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 448,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 718,
+              "h": 473,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 982159917753630720,
+          "id_str": "982159917753630720",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/DaFVPdJVAAA6GkO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DaFVPdJVAAA6GkO.jpg",
+          "url": "https://t.co/Pozg3wsxln",
+          "display_url": "pic.twitter.com/Pozg3wsxln",
+          "expanded_url": "https://twitter.com/wastemobile/status/982159926762942465/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 718,
+              "h": 473,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 448,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 718,
+              "h": 473,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 06 04:32:09 +0000 2018",
     "id": 982113706552180737,
     "id_str": "982113706552180737",
