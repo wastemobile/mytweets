@@ -1,5 +1,202 @@
 Grailbird.data.tweets_2018_04 = [
   {
+    "created_at": "Wed Apr 11 03:23:16 +0000 2018",
+    "id": 983908311677394944,
+    "id_str": "983908311677394944",
+    "text": "這個蠻酷的。\n\n約翰藍儂、大衛鮑伊的筆跡再現！5 位傳奇音樂人的手寫字體免費開放下載 https://t.co/n1WNfMxtN4 https://t.co/6vdCO2r7z3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/n1WNfMxtN4",
+          "expanded_url": "http://bit.ly/2Hezqki",
+          "display_url": "bit.ly/2Hezqki",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 983908300709179392,
+          "id_str": "983908300709179392",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/DaeLYvNUMAApX_H.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DaeLYvNUMAApX_H.jpg",
+          "url": "https://t.co/6vdCO2r7z3",
+          "display_url": "pic.twitter.com/6vdCO2r7z3",
+          "expanded_url": "https://twitter.com/wastemobile/status/983908311677394944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 650,
+              "h": 392,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 650,
+              "h": 392,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 650,
+              "h": 392,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 983908300709179392,
+          "id_str": "983908300709179392",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/DaeLYvNUMAApX_H.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DaeLYvNUMAApX_H.jpg",
+          "url": "https://t.co/6vdCO2r7z3",
+          "display_url": "pic.twitter.com/6vdCO2r7z3",
+          "expanded_url": "https://twitter.com/wastemobile/status/983908311677394944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 650,
+              "h": 392,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 650,
+              "h": 392,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 650,
+              "h": 392,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 11 03:15:00 +0000 2018",
+    "id": 983906233848512512,
+    "id_str": "983906233848512512",
+    "text": "A Long-Awaited IoT Crisis Is Here, and Many Devices Aren't Ready https://t.co/IP5pY8Uw6M 來自 @WIRED",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WIRED",
+          "name": "WIRED",
+          "id": 1344951,
+          "id_str": "1344951",
+          "indices": [
+            92,
+            98
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IP5pY8Uw6M",
+          "expanded_url": "https://www.wired.com/story/upnp-router-game-console-vulnerabilities-exploited/?mbid=social_twitter_onsiteshare",
+          "display_url": "wired.com/story/upnp-rou…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Apr 08 03:53:24 +0000 2018",
     "id": 982828733802295296,
     "id_str": "982828733802295296",
