@@ -1,5 +1,516 @@
 Grailbird.data.tweets_2018_04 = [
   {
+    "created_at": "Thu Apr 12 07:37:45 +0000 2018",
+    "id": 984334742995677185,
+    "id_str": "984334742995677185",
+    "text": "Command + Option + R + P 重置 NVRAM，效果不彰。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 984334019708923904,
+    "in_reply_to_status_id_str": "984334019708923904",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Apr 12 07:34:52 +0000 2018",
+    "id": 984334019708923904,
+    "id_str": "984334019708923904",
+    "text": "今日的 Mac Safari 開網頁常會狂吃記憶體、轉彩球，空白網頁維持直到差不多 6G 上下，開啟後又驟降至正常（三、四百 MB），原因不明，很煩。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 12 05:00:29 +0000 2018",
+    "id": 984295165903843329,
+    "id_str": "984295165903843329",
+    "text": "補個小抄文字版。 https://t.co/y0X9jgP4KJ https://t.co/LKWFL6dVC7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/y0X9jgP4KJ",
+          "expanded_url": "http://bit.ly/2IMrynq",
+          "display_url": "bit.ly/2IMrynq",
+          "indices": [
+            9,
+            32
+          ]
+        },
+        {
+          "url": "https://t.co/LKWFL6dVC7",
+          "expanded_url": "https://twitter.com/thecat/status/984241302974836736",
+          "display_url": "twitter.com/thecat/status/…",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 984241302974836736,
+    "quoted_status_id_str": "984241302974836736",
+    "quoted_status": {
+      "created_at": "Thu Apr 12 01:26:27 +0000 2018",
+      "id": 984241302974836736,
+      "id_str": "984241302974836736",
+      "text": "你上次有機會目睹世界一流公司總裁在聽証會上使用的小抄是何時？\n\n// 短短兩頁滿是智慧話術與危機處理手段學到賺到唷~😏 https://t.co/1Avxg4KTZ8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 984241286252081152,
+            "id_str": "984241286252081152",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dai6PDBUMAArPNL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dai6PDBUMAArPNL.jpg",
+            "url": "https://t.co/1Avxg4KTZ8",
+            "display_url": "pic.twitter.com/1Avxg4KTZ8",
+            "expanded_url": "https://twitter.com/thecat/status/984241302974836736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 527,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 794,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 794,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 984241286252081152,
+            "id_str": "984241286252081152",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dai6PDBUMAArPNL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dai6PDBUMAArPNL.jpg",
+            "url": "https://t.co/1Avxg4KTZ8",
+            "display_url": "pic.twitter.com/1Avxg4KTZ8",
+            "expanded_url": "https://twitter.com/thecat/status/984241302974836736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 527,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 794,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 794,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 984241286260580352,
+            "id_str": "984241286260580352",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dai6PDDV4AA-pJI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dai6PDDV4AA-pJI.jpg",
+            "url": "https://t.co/1Avxg4KTZ8",
+            "display_url": "pic.twitter.com/1Avxg4KTZ8",
+            "expanded_url": "https://twitter.com/thecat/status/984241302974836736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 530,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 798,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 798,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807633,
+        "id_str": "807633",
+        "name": "Jeremy Lu",
+        "screen_name": "thecat",
+        "location": "right here, right now",
+        "description": "Well-rounded fullstack developer/trainer diving into Deep Learning space. Founder of lovelyreader, pubulous and visualmarks. Avid swimmer and cyclist. λ",
+        "url": "https://t.co/c4ldCMX0ry",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/c4ldCMX0ry",
+                "expanded_url": "http://www.fullstackrocks.com",
+                "display_url": "fullstackrocks.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2062,
+        "friends_count": 1310,
+        "listed_count": 75,
+        "created_at": "Sat Mar 03 01:42:09 +0000 2007",
+        "favourites_count": 1532,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 19684,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 38,
+      "favorite_count": 101,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 9,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 12 04:53:51 +0000 2018",
+    "id": 984293495543283712,
+    "id_str": "984293495543283712",
+    "text": "Tech Tools for Authors 系列文章 https://t.co/0ZnaJl6vLq #note https://t.co/NhcQJBKXix",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            52,
+            57
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0ZnaJl6vLq",
+          "expanded_url": "http://bit.ly/2EDLNkP",
+          "display_url": "bit.ly/2EDLNkP",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 984293485997015040,
+          "id_str": "984293485997015040",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DajpteOVQAABYv5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DajpteOVQAABYv5.jpg",
+          "url": "https://t.co/NhcQJBKXix",
+          "display_url": "pic.twitter.com/NhcQJBKXix",
+          "expanded_url": "https://twitter.com/wastemobile/status/984293495543283712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 620,
+              "h": 264,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 620,
+              "h": 264,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 620,
+              "h": 264,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 984293485997015040,
+          "id_str": "984293485997015040",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/DajpteOVQAABYv5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DajpteOVQAABYv5.jpg",
+          "url": "https://t.co/NhcQJBKXix",
+          "display_url": "pic.twitter.com/NhcQJBKXix",
+          "expanded_url": "https://twitter.com/wastemobile/status/984293495543283712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 620,
+              "h": 264,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 620,
+              "h": 264,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 620,
+              "h": 264,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Wed Apr 11 03:23:16 +0000 2018",
     "id": 983908311677394944,
     "id_str": "983908311677394944",
