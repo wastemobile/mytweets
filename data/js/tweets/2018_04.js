@@ -1,5 +1,395 @@
 Grailbird.data.tweets_2018_04 = [
   {
+    "created_at": "Fri Apr 13 11:44:25 +0000 2018",
+    "id": 984759205759352832,
+    "id_str": "984759205759352832",
+    "text": "湯匙不存在。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 13 04:28:30 +0000 2018",
+    "id": 984649502744195072,
+    "id_str": "984649502744195072",
+    "text": "RT @SAFS_KING: 哈哈哈哈哈哈哈哈幹 https://t.co/aoqPq9QkHn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SAFS_KING",
+          "name": "曠曠",
+          "id": 795847170,
+          "id_str": "795847170",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 984636770057838592,
+          "id_str": "984636770057838592",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/Daoh7PAV4AA5yur.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Daoh7PAV4AA5yur.jpg",
+          "url": "https://t.co/aoqPq9QkHn",
+          "display_url": "pic.twitter.com/aoqPq9QkHn",
+          "expanded_url": "https://twitter.com/SAFS_KING/status/984636779864047616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 630,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 948,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 948,
+              "h": 1024,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 984636779864047616,
+          "source_status_id_str": "984636779864047616",
+          "source_user_id": 795847170,
+          "source_user_id_str": "795847170"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 984636770057838592,
+          "id_str": "984636770057838592",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/Daoh7PAV4AA5yur.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Daoh7PAV4AA5yur.jpg",
+          "url": "https://t.co/aoqPq9QkHn",
+          "display_url": "pic.twitter.com/aoqPq9QkHn",
+          "expanded_url": "https://twitter.com/SAFS_KING/status/984636779864047616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 630,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 948,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 948,
+              "h": 1024,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 984636779864047616,
+          "source_status_id_str": "984636779864047616",
+          "source_user_id": 795847170,
+          "source_user_id_str": "795847170"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 13 03:37:56 +0000 2018",
+      "id": 984636779864047616,
+      "id_str": "984636779864047616",
+      "text": "哈哈哈哈哈哈哈哈幹 https://t.co/aoqPq9QkHn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 984636770057838592,
+            "id_str": "984636770057838592",
+            "indices": [
+              10,
+              33
+            ],
+            "media_url": "http://pbs.twimg.com/media/Daoh7PAV4AA5yur.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Daoh7PAV4AA5yur.jpg",
+            "url": "https://t.co/aoqPq9QkHn",
+            "display_url": "pic.twitter.com/aoqPq9QkHn",
+            "expanded_url": "https://twitter.com/SAFS_KING/status/984636779864047616/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 630,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 948,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 948,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 984636770057838592,
+            "id_str": "984636770057838592",
+            "indices": [
+              10,
+              33
+            ],
+            "media_url": "http://pbs.twimg.com/media/Daoh7PAV4AA5yur.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Daoh7PAV4AA5yur.jpg",
+            "url": "https://t.co/aoqPq9QkHn",
+            "display_url": "pic.twitter.com/aoqPq9QkHn",
+            "expanded_url": "https://twitter.com/SAFS_KING/status/984636779864047616/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 630,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 948,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 948,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 795847170,
+        "id_str": "795847170",
+        "name": "曠曠",
+        "screen_name": "SAFS_KING",
+        "location": "Taiwan",
+        "description": "生活鳥事幾乎都沒得曠。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2253,
+        "friends_count": 266,
+        "listed_count": 35,
+        "created_at": "Sat Sep 01 11:06:23 +0000 2012",
+        "favourites_count": 1784,
+        "utc_offset": 28800,
+        "time_zone": "Taipei",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6426,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/830229904486658048/-AUEThi0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/830229904486658048/-AUEThi0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/795847170/1421632514",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "019a3137395a2973",
+        "url": "https://api.twitter.com/1.1/geo/id/019a3137395a2973.json",
+        "place_type": "city",
+        "name": "新北市",
+        "full_name": "新北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.282664,
+                24.673115
+              ],
+              [
+                122.007508,
+                24.673115
+              ],
+              [
+                122.007508,
+                25.2995704
+              ],
+              [
+                121.282664,
+                25.2995704
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 17,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Apr 12 07:37:45 +0000 2018",
     "id": 984334742995677185,
     "id_str": "984334742995677185",
