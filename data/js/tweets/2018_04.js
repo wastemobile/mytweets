@@ -1,5 +1,531 @@
 Grailbird.data.tweets_2018_04 = [
   {
+    "created_at": "Mon Apr 16 11:35:36 +0000 2018",
+    "id": 985844150707748869,
+    "id_str": "985844150707748869",
+    "text": "RT @suitingtseng: 我想是這樣子啦\n\n「區塊鏈最大的問題就是，一個人若說的是謊話，經過區塊鏈只是變成大家認證的謊話啊」\n\n#絕對沒有影射誰",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "絕對沒有影射誰",
+          "indices": [
+            69,
+            77
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "suitingtseng",
+          "name": "Suiting Tseng",
+          "id": 268931524,
+          "id_str": "268931524",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Apr 15 17:19:58 +0000 2018",
+      "id": 985568425048190978,
+      "id_str": "985568425048190978",
+      "text": "我想是這樣子啦\n\n「區塊鏈最大的問題就是，一個人若說的是謊話，經過區塊鏈只是變成大家認證的謊話啊」\n\n#絕對沒有影射誰",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "絕對沒有影射誰",
+            "indices": [
+              51,
+              59
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 268931524,
+        "id_str": "268931524",
+        "name": "Suiting Tseng",
+        "screen_name": "suitingtseng",
+        "location": "London, England",
+        "description": "FC: SW-3835-6642-3018",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 293,
+        "friends_count": 536,
+        "listed_count": 15,
+        "created_at": "Sat Mar 19 19:26:26 +0000 2011",
+        "favourites_count": 1188,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3613,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/467552775337820160/Jf6gU0hZ_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/467552775337820160/Jf6gU0hZ_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 39,
+      "favorite_count": 93,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Apr 16 09:46:45 +0000 2018",
+    "id": 985816757540499456,
+    "id_str": "985816757540499456",
+    "text": "RT @nishuang: 设计师怎么开始成功的产品设计职业道路。来自 Facebook 产品设计 VP Julie zhuo。系列文章之一，长文慢慢读。中文翻译版本 https://t.co/vSKDmjU38K 谢谢译者 #设计进阶 // The Beginning of…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "设计进阶",
+          "indices": [
+            113,
+            118
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nishuang",
+          "name": "倪爽",
+          "id": 20588970,
+          "id_str": "20588970",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vSKDmjU38K",
+          "expanded_url": "https://buff.ly/2JNKun9",
+          "display_url": "buff.ly/2JNKun9",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Apr 16 00:05:06 +0000 2018",
+      "id": 985670380504387585,
+      "id_str": "985670380504387585",
+      "text": "设计师怎么开始成功的产品设计职业道路。来自 Facebook 产品设计 VP Julie zhuo。系列文章之一，长文慢慢读。中文翻译版本 https://t.co/vSKDmjU38K 谢谢译者 #设计进阶 // The Beg… https://t.co/9eXsWJ31RI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "设计进阶",
+            "indices": [
+              99,
+              104
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vSKDmjU38K",
+            "expanded_url": "https://buff.ly/2JNKun9",
+            "display_url": "buff.ly/2JNKun9",
+            "indices": [
+              70,
+              93
+            ]
+          },
+          {
+            "url": "https://t.co/9eXsWJ31RI",
+            "expanded_url": "https://twitter.com/i/web/status/985670380504387585",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20588970,
+        "id_str": "20588970",
+        "name": "倪爽",
+        "screen_name": "nishuang",
+        "location": "United States",
+        "description": "资深产品设计师，超过15年设计经验，为企业解决设计问题。每天分享5篇一流设计类文章，帮助设计师、PM 、工程师学习最新设计方法",
+        "url": "https://t.co/guqrYCRE6G",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/guqrYCRE6G",
+                "expanded_url": "http://nishuang.net",
+                "display_url": "nishuang.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3128,
+        "friends_count": 909,
+        "listed_count": 28,
+        "created_at": "Wed Feb 11 13:17:01 +0000 2009",
+        "favourites_count": 2648,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5689,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "F6F6F6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/8974622/colour.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/8974622/colour.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20588970/1492059842",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Apr 16 03:33:27 +0000 2018",
+    "id": 985722816250068993,
+    "id_str": "985722816250068993",
+    "text": "Google “Talk to Books” https://t.co/likUMMlMy9 https://t.co/HWs1Nf1Jqf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/likUMMlMy9",
+          "expanded_url": "https://the-digital-reader.com/?p=124568",
+          "display_url": "the-digital-reader.com/?p=124568",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 985722808146640896,
+          "id_str": "985722808146640896",
+          "indices": [
+            47,
+            70
+          ],
+          "media_url": "http://pbs.twimg.com/media/Da39q-KUwAAHVfc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Da39q-KUwAAHVfc.jpg",
+          "url": "https://t.co/HWs1Nf1Jqf",
+          "display_url": "pic.twitter.com/HWs1Nf1Jqf",
+          "expanded_url": "https://twitter.com/wastemobile/status/985722816250068993/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 500,
+              "h": 281,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 281,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 281,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 985722808146640896,
+          "id_str": "985722808146640896",
+          "indices": [
+            47,
+            70
+          ],
+          "media_url": "http://pbs.twimg.com/media/Da39q-KUwAAHVfc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Da39q-KUwAAHVfc.jpg",
+          "url": "https://t.co/HWs1Nf1Jqf",
+          "display_url": "pic.twitter.com/HWs1Nf1Jqf",
+          "expanded_url": "https://twitter.com/wastemobile/status/985722816250068993/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 500,
+              "h": 281,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 281,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 281,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Apr 15 14:00:33 +0000 2018",
+    "id": 985518243681992704,
+    "id_str": "985518243681992704",
+    "text": "今年第一次水逆已經結束了，大家開心點！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Apr 15 02:46:24 +0000 2018",
     "id": 985348584131325953,
     "id_str": "985348584131325953",
