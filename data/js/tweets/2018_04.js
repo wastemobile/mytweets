@@ -1,5 +1,546 @@
 Grailbird.data.tweets_2018_04 = [
   {
+    "created_at": "Wed Apr 18 03:38:51 +0000 2018",
+    "id": 986448950507880451,
+    "id_str": "986448950507880451",
+    "text": "@ryo6 同站上有賣感熱紙捲（NT$ 150），若真要買我大概會一起多買兩捲擺著。\n\n當然這世上沒有永遠這回事。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ryo6",
+          "name": "冥王星早餐店員工(假)",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 986448309609906181,
+    "in_reply_to_status_id_str": "986448309609906181",
+    "in_reply_to_user_id": 19586444,
+    "in_reply_to_user_id_str": "19586444",
+    "in_reply_to_screen_name": "ryo6",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 18 03:17:44 +0000 2018",
+    "id": 986443635360088064,
+    "id_str": "986443635360088064",
+    "text": "@Meracat_ 喔！這還蠻糟的，再來找找有沒有真實開箱使用心得。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Meracat_",
+          "name": "美拉 ",
+          "id": 128572982,
+          "id_str": "128572982",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 986442365555519488,
+    "in_reply_to_status_id_str": "986442365555519488",
+    "in_reply_to_user_id": 128572982,
+    "in_reply_to_user_id_str": "128572982",
+    "in_reply_to_screen_name": "Meracat_",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 18 03:12:09 +0000 2018",
+    "id": 986442231115481088,
+    "id_str": "986442231115481088",
+    "text": "@Meracat_ 喵喵機的問題是⋯⋯？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Meracat_",
+          "name": "美拉 ",
+          "id": 128572982,
+          "id_str": "128572982",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 986441950709481473,
+    "in_reply_to_status_id_str": "986441950709481473",
+    "in_reply_to_user_id": 128572982,
+    "in_reply_to_user_id_str": "128572982",
+    "in_reply_to_screen_name": "Meracat_",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 18 02:48:21 +0000 2018",
+    "id": 986436242077188097,
+    "id_str": "986436242077188097",
+    "text": "所以，為什麼美國 Kindle 暢銷前一百名、有三分之一是亞馬遜自家的出版品（Amazon imprint）？ https://t.co/Ft9w8kTQhH https://t.co/wmcxzAeaxq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ft9w8kTQhH",
+          "expanded_url": "http://www.thenewpublishingstandard.com/?p=1938",
+          "display_url": "thenewpublishingstandard.com/?p=1938",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 986436228995211264,
+          "id_str": "986436228995211264",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbCGhh7V4AAX_fE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DbCGhh7V4AAX_fE.jpg",
+          "url": "https://t.co/wmcxzAeaxq",
+          "display_url": "pic.twitter.com/wmcxzAeaxq",
+          "expanded_url": "https://twitter.com/wastemobile/status/986436242077188097/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 511,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 780,
+              "h": 586,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 780,
+              "h": 586,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 986436228995211264,
+          "id_str": "986436228995211264",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbCGhh7V4AAX_fE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DbCGhh7V4AAX_fE.jpg",
+          "url": "https://t.co/wmcxzAeaxq",
+          "display_url": "pic.twitter.com/wmcxzAeaxq",
+          "expanded_url": "https://twitter.com/wastemobile/status/986436242077188097/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 511,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 780,
+              "h": 586,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 780,
+              "h": 586,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 18 02:40:45 +0000 2018",
+    "id": 986434327608115200,
+    "id_str": "986434327608115200",
+    "text": "這個輕量級感熱標籤機完全命中～～～\n\n【生活玩物】激發你的分類魂！PAPERANG 口袋列印小精靈---條條機 https://t.co/4Rr0yeRaKv https://t.co/o1wwGS0Wmo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4Rr0yeRaKv",
+          "expanded_url": "http://bit.ly/2J5sgMC",
+          "display_url": "bit.ly/2J5sgMC",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 986434318116438017,
+          "id_str": "986434318116438017",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbCEyTWVwAEhFcu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DbCEyTWVwAEhFcu.jpg",
+          "url": "https://t.co/o1wwGS0Wmo",
+          "display_url": "pic.twitter.com/o1wwGS0Wmo",
+          "expanded_url": "https://twitter.com/wastemobile/status/986434327608115200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 650,
+              "h": 434,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 650,
+              "h": 434,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 650,
+              "h": 434,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 986434318116438017,
+          "id_str": "986434318116438017",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbCEyTWVwAEhFcu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DbCEyTWVwAEhFcu.jpg",
+          "url": "https://t.co/o1wwGS0Wmo",
+          "display_url": "pic.twitter.com/o1wwGS0Wmo",
+          "expanded_url": "https://twitter.com/wastemobile/status/986434327608115200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 650,
+              "h": 434,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 650,
+              "h": 434,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 650,
+              "h": 434,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 18 02:28:08 +0000 2018",
+    "id": 986431154298339329,
+    "id_str": "986431154298339329",
+    "text": "TED 2018: Thought-Reading Machines and the Death of Love https://t.co/jXHQgfRxyk 來自 @WIRED",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WIRED",
+          "name": "WIRED",
+          "id": 1344951,
+          "id_str": "1344951",
+          "indices": [
+            84,
+            90
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jXHQgfRxyk",
+          "expanded_url": "https://www.wired.com/story/ideas-jason-pontin-openwater/?mbid=social_twitter_onsiteshare",
+          "display_url": "wired.com/story/ideas-ja…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Apr 18 02:25:56 +0000 2018",
+    "id": 986430600214069248,
+    "id_str": "986430600214069248",
+    "text": "說什麼讓世界更自由公平、組織更扁平、去中心化，在網際網路（Internet）初起時大家也是這麼說的。\n\n然後現在是區塊鏈，一個救世主循環再生的概念。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Apr 16 11:35:36 +0000 2018",
     "id": 985844150707748869,
     "id_str": "985844150707748869",
