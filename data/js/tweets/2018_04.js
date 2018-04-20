@@ -1,5 +1,248 @@
 Grailbird.data.tweets_2018_04 = [
   {
+    "created_at": "Fri Apr 20 04:15:37 +0000 2018",
+    "id": 987182977300877312,
+    "id_str": "987182977300877312",
+    "text": "根據樂天發布的年度報告，Kobo 數位內容銷售去年第四季仍有相當大的成長，主要是來自併購德國電子書雙巨頭之一 Tolino 的貢獻。\n\nTolino 以多款閱讀器及相對開放的閱讀系統（支援多家電子書販售商）著稱。… https://t.co/o0IEH6ujwb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/o0IEH6ujwb",
+          "expanded_url": "https://twitter.com/i/web/status/987182977300877312",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 19 02:38:57 +0000 2018",
+    "id": 986796262618841090,
+    "id_str": "986796262618841090",
+    "text": "原來只賣 $2.99~$4.99 的 iOS 輸入小工具 Drafts，版本 5 也改成「訂閱付費」，月付 $1.99 或年付 $19.99。\n\n可以捨棄。 https://t.co/tkuy6UC09I https://t.co/oQOoQmYMbS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tkuy6UC09I",
+          "expanded_url": "http://getdrafts.com",
+          "display_url": "getdrafts.com",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 986796253236289537,
+          "id_str": "986796253236289537",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbHN9svV4AEvvnv.png",
+          "media_url_https": "https://pbs.twimg.com/media/DbHN9svV4AEvvnv.png",
+          "url": "https://t.co/oQOoQmYMbS",
+          "display_url": "pic.twitter.com/oQOoQmYMbS",
+          "expanded_url": "https://twitter.com/wastemobile/status/986796262618841090/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 461,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 542,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 542,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 986796253236289537,
+          "id_str": "986796253236289537",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbHN9svV4AEvvnv.png",
+          "media_url_https": "https://pbs.twimg.com/media/DbHN9svV4AEvvnv.png",
+          "url": "https://t.co/oQOoQmYMbS",
+          "display_url": "pic.twitter.com/oQOoQmYMbS",
+          "expanded_url": "https://twitter.com/wastemobile/status/986796262618841090/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 461,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 542,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 542,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 18 16:40:55 +0000 2018",
+    "id": 986645762195861504,
+    "id_str": "986645762195861504",
+    "text": "慶祝世界圖書日（World Book Day），使用美國亞馬遜帳號用戶可以在一週內免費下載 AmazonCrossing 出版的九本 Kindle 電子書，來自九個國家、翻譯成英文的作品。… https://t.co/GaJYGWpetT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GaJYGWpetT",
+          "expanded_url": "https://twitter.com/i/web/status/986645762195861504",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 18 03:38:51 +0000 2018",
     "id": 986448950507880451,
     "id_str": "986448950507880451",
