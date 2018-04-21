@@ -1,5 +1,351 @@
 Grailbird.data.tweets_2018_04 = [
   {
+    "created_at": "Sat Apr 21 03:55:06 +0000 2018",
+    "id": 987540202179608576,
+    "id_str": "987540202179608576",
+    "text": "情慾羅曼史漫畫改編｜\n莒哈絲《情人》：你的肌膚，有一種五色繽紛的溫馨 https://t.co/9UcPNLz1MN https://t.co/1cS0tnp47j",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9UcPNLz1MN",
+          "expanded_url": "http://bit.ly/2Hi9i53",
+          "display_url": "bit.ly/2Hi9i53",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 987540190590783489,
+          "id_str": "987540190590783489",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbRykjWV0AE4Axv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DbRykjWV0AE4Axv.jpg",
+          "url": "https://t.co/1cS0tnp47j",
+          "display_url": "pic.twitter.com/1cS0tnp47j",
+          "expanded_url": "https://twitter.com/wastemobile/status/987540202179608576/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 485,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 856,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1141,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 987540190590783489,
+          "id_str": "987540190590783489",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbRykjWV0AE4Axv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DbRykjWV0AE4Axv.jpg",
+          "url": "https://t.co/1cS0tnp47j",
+          "display_url": "pic.twitter.com/1cS0tnp47j",
+          "expanded_url": "https://twitter.com/wastemobile/status/987540202179608576/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 485,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 856,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1141,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Apr 21 03:52:02 +0000 2018",
+    "id": 987539428687073280,
+    "id_str": "987539428687073280",
+    "text": "Basics of Online Ebook Retailers #kobo #amazon #createspace #ibooks https://t.co/VvXqr92RFa #note https://t.co/SLwIPTGsJv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            33,
+            38
+          ]
+        },
+        {
+          "text": "amazon",
+          "indices": [
+            39,
+            46
+          ]
+        },
+        {
+          "text": "createspace",
+          "indices": [
+            47,
+            59
+          ]
+        },
+        {
+          "text": "ibooks",
+          "indices": [
+            60,
+            67
+          ]
+        },
+        {
+          "text": "note",
+          "indices": [
+            92,
+            97
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VvXqr92RFa",
+          "expanded_url": "http://bit.ly/2HjFC7u",
+          "display_url": "bit.ly/2HjFC7u",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 987539422160633856,
+          "id_str": "987539422160633856",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbRx30uUQAAGe_z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DbRx30uUQAAGe_z.jpg",
+          "url": "https://t.co/SLwIPTGsJv",
+          "display_url": "pic.twitter.com/SLwIPTGsJv",
+          "expanded_url": "https://twitter.com/wastemobile/status/987539428687073280/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 363,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 363,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 363,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 987539422160633856,
+          "id_str": "987539422160633856",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/DbRx30uUQAAGe_z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DbRx30uUQAAGe_z.jpg",
+          "url": "https://t.co/SLwIPTGsJv",
+          "display_url": "pic.twitter.com/SLwIPTGsJv",
+          "expanded_url": "https://twitter.com/wastemobile/status/987539428687073280/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 363,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 363,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 363,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Apr 20 13:37:37 +0000 2018",
+    "id": 987324408728502272,
+    "id_str": "987324408728502272",
+    "text": "終於看到 Magic 8 Ball 出現在 Friends 裡⋯⋯XD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 20 04:15:37 +0000 2018",
     "id": 987182977300877312,
     "id_str": "987182977300877312",
