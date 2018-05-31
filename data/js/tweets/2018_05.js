@@ -1,5 +1,462 @@
 Grailbird.data.tweets_2018_05 = [
   {
+    "created_at": "Thu May 31 14:03:07 +0000 2018",
+    "id": 1002188731128758272,
+    "id_str": "1002188731128758272",
+    "text": "微軟 Edge 瀏覽器的 iOS 新版，居然也能直接閱讀電子書了⋯⋯\n\nMicrosoft Edge Browser for iPhone, iPad Now Supports eBooks… https://t.co/4ulWBKfPHX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4ulWBKfPHX",
+          "expanded_url": "https://twitter.com/i/web/status/1002188731128758272",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 31 13:58:08 +0000 2018",
+    "id": 1002187475211632640,
+    "id_str": "1002187475211632640",
+    "text": "@denkeni @nuzzel 求釋疑，找不到啊？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "denkeni",
+          "name": "Denken",
+          "id": 945124819,
+          "id_str": "945124819",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "nuzzel",
+          "name": "Nuzzel",
+          "id": 106041193,
+          "id_str": "106041193",
+          "indices": [
+            9,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1002126205951201280,
+    "in_reply_to_status_id_str": "1002126205951201280",
+    "in_reply_to_user_id": 945124819,
+    "in_reply_to_user_id_str": "945124819",
+    "in_reply_to_screen_name": "denkeni",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu May 31 01:58:54 +0000 2018",
+    "id": 1002006473012953088,
+    "id_str": "1002006473012953088",
+    "text": "RT @technews_tw: 歐洲議會通過決議案，籲速展開歐台 BIA 談判 https://t.co/VGnoWey2RL https://t.co/LaKW3CSas8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "technews_tw",
+          "name": "Technews 科技新報",
+          "id": 2799026833,
+          "id_str": "2799026833",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VGnoWey2RL",
+          "expanded_url": "http://dlvr.it/QVgDRP",
+          "display_url": "dlvr.it/QVgDRP",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1002004555666616320,
+          "id_str": "1002004555666616320",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/DefV1aPU8AADeAy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DefV1aPU8AADeAy.jpg",
+          "url": "https://t.co/LaKW3CSas8",
+          "display_url": "pic.twitter.com/LaKW3CSas8",
+          "expanded_url": "https://twitter.com/technews_tw/status/1002004557667487744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1400,
+              "h": 933,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1002004557667487744,
+          "source_status_id_str": "1002004557667487744",
+          "source_user_id": 2799026833,
+          "source_user_id_str": "2799026833"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1002004555666616320,
+          "id_str": "1002004555666616320",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/DefV1aPU8AADeAy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DefV1aPU8AADeAy.jpg",
+          "url": "https://t.co/LaKW3CSas8",
+          "display_url": "pic.twitter.com/LaKW3CSas8",
+          "expanded_url": "https://twitter.com/technews_tw/status/1002004557667487744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1400,
+              "h": 933,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1002004557667487744,
+          "source_status_id_str": "1002004557667487744",
+          "source_user_id": 2799026833,
+          "source_user_id_str": "2799026833"
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu May 31 01:51:17 +0000 2018",
+      "id": 1002004557667487744,
+      "id_str": "1002004557667487744",
+      "text": "歐洲議會通過決議案，籲速展開歐台 BIA 談判 https://t.co/VGnoWey2RL https://t.co/LaKW3CSas8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VGnoWey2RL",
+            "expanded_url": "http://dlvr.it/QVgDRP",
+            "display_url": "dlvr.it/QVgDRP",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1002004555666616320,
+            "id_str": "1002004555666616320",
+            "indices": [
+              48,
+              71
+            ],
+            "media_url": "http://pbs.twimg.com/media/DefV1aPU8AADeAy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DefV1aPU8AADeAy.jpg",
+            "url": "https://t.co/LaKW3CSas8",
+            "display_url": "pic.twitter.com/LaKW3CSas8",
+            "expanded_url": "https://twitter.com/technews_tw/status/1002004557667487744/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1400,
+                "h": 933,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1002004555666616320,
+            "id_str": "1002004555666616320",
+            "indices": [
+              48,
+              71
+            ],
+            "media_url": "http://pbs.twimg.com/media/DefV1aPU8AADeAy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DefV1aPU8AADeAy.jpg",
+            "url": "https://t.co/LaKW3CSas8",
+            "display_url": "pic.twitter.com/LaKW3CSas8",
+            "expanded_url": "https://twitter.com/technews_tw/status/1002004557667487744/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1400,
+                "h": 933,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2799026833,
+        "id_str": "2799026833",
+        "name": "Technews 科技新報",
+        "screen_name": "technews_tw",
+        "location": "台灣, 台北市",
+        "description": "科技新報 （TechNews）於 2013 年下半年成立，是一群對資訊科技、能源、半導體、行動運算、網際網路、醫療、生物科技具有高度熱忱與興趣的產業與新媒體人士所共同組成的時代新媒體，以產出有觀點與特色的原創文章為主要任務。",
+        "url": "http://t.co/386e9RC7Ca",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/386e9RC7Ca",
+                "expanded_url": "http://technews.tw",
+                "display_url": "technews.tw",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 720,
+        "friends_count": 31,
+        "listed_count": 29,
+        "created_at": "Tue Sep 09 01:49:20 +0000 2014",
+        "favourites_count": 0,
+        "utc_offset": 21600,
+        "time_zone": "Urumqi",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39796,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2799026833/1410228878",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed May 30 15:43:51 +0000 2018",
     "id": 1001851693900824576,
     "id_str": "1001851693900824576",
