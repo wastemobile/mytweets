@@ -1,5 +1,857 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Sat Jun 09 02:55:30 +0000 2018",
+    "id": 1005282208762871808,
+    "id_str": "1005282208762871808",
+    "text": "悼。 https://t.co/LuMbsw7Fg5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LuMbsw7Fg5",
+          "expanded_url": "https://twitter.com/icablenews/status/1005280638260465664",
+          "display_url": "twitter.com/icablenews/sta…",
+          "indices": [
+            3,
+            26
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1005280638260465664,
+    "quoted_status_id_str": "1005280638260465664",
+    "quoted_status": {
+      "created_at": "Sat Jun 09 02:49:16 +0000 2018",
+      "id": 1005280638260465664,
+      "id_str": "1005280638260465664",
+      "text": "【作家劉以鬯逝世終年99歲】\n\n著名作家劉以鬯昨天逝世，終年99歲。\n\n劉以鬯的作品有小說、散文、評論等，著作包括被譽為中國第一部意識流小說《酒徒》、《對倒》、《打錯了》等。\n\n#有線新聞 #劉以鬯 #作家 #酒徒 #對倒 https://t.co/iZwiYxK1TO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "有線新聞",
+            "indices": [
+              89,
+              94
+            ]
+          },
+          {
+            "text": "劉以鬯",
+            "indices": [
+              95,
+              99
+            ]
+          },
+          {
+            "text": "作家",
+            "indices": [
+              100,
+              103
+            ]
+          },
+          {
+            "text": "酒徒",
+            "indices": [
+              104,
+              107
+            ]
+          },
+          {
+            "text": "對倒",
+            "indices": [
+              108,
+              111
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iZwiYxK1TO",
+            "expanded_url": "https://www.facebook.com/icablenews/videos/859981044193965/",
+            "display_url": "facebook.com/icablenews/vid…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2609395315,
+        "id_str": "2609395315",
+        "name": "icablenews",
+        "screen_name": "icablenews",
+        "location": "Hong Kong",
+        "description": "有線新聞 走在事實最前線\r\nhttps://t.co/6BZYFiK8wv",
+        "url": "http://t.co/NWUfvA8D1r",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/NWUfvA8D1r",
+                "expanded_url": "http://www.i-cable.com",
+                "display_url": "i-cable.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/6BZYFiK8wv",
+                "expanded_url": "https://facebook.com/icablenews",
+                "display_url": "facebook.com/icablenews",
+                "indices": [
+                  14,
+                  37
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9235,
+        "friends_count": 0,
+        "listed_count": 88,
+        "created_at": "Mon Jul 07 10:34:50 +0000 2014",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29539,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/486110819747233794/s-aBAvB-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/486110819747233794/s-aBAvB-_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2609395315/1512722678",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jun 08 23:50:11 +0000 2018",
+    "id": 1005235570954702850,
+    "id_str": "1005235570954702850",
+    "text": "RT @Muser: 其實很簡單：大家都知道農會養了很多菜蟲、經常依照國民黨的意思惡意哄抬菜價攻擊對手政黨、或是惡意貶抑收購菜價來控制產地的選情，農產公司只要能控制好北市銷售機制與承銷價格，就打死中南部菜蟲的利益，國民黨如果再不靠謠言拉下吳音寧，就控制不住中南部菜蟲樁腳了啊 h…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Muser",
+          "name": "Muser",
+          "id": 723353,
+          "id_str": "723353",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 08 13:32:18 +0000 2018",
+      "id": 1005080075639840768,
+      "id_str": "1005080075639840768",
+      "text": "其實很簡單：大家都知道農會養了很多菜蟲、經常依照國民黨的意思惡意哄抬菜價攻擊對手政黨、或是惡意貶抑收購菜價來控制產地的選情，農產公司只要能控制好北市銷售機制與承銷價格，就打死中南部菜蟲的利益，國民黨如果再不靠謠言拉下吳音寧，就控制… https://t.co/3LJFXJKc1A",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3LJFXJKc1A",
+            "expanded_url": "https://twitter.com/i/web/status/1005080075639840768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 723353,
+        "id_str": "723353",
+        "name": "Muser",
+        "screen_name": "Muser",
+        "location": "PLUTO",
+        "description": "Self-talking one./無可跟隨、自言自語。",
+        "url": "http://t.co/wZw2dxfFlH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/wZw2dxfFlH",
+                "expanded_url": "http://metamuse.net",
+                "display_url": "metamuse.net",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4731,
+        "friends_count": 0,
+        "listed_count": 54,
+        "created_at": "Mon Jan 29 02:59:04 +0000 2007",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8574,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/21679102/Copy_of_07a_copy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/21679102/Copy_of_07a_copy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/723353/1372216122",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 51,
+      "favorite_count": 72,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 51,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 08 16:01:57 +0000 2018",
+    "id": 1005117736446332928,
+    "id_str": "1005117736446332928",
+    "text": "今天在時間軸上看了不只一次轉推這篇，老實的說，就是篇屁話，愛信不信。 #BJ4 https://t.co/kBi8Q4FKlz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BJ4",
+          "indices": [
+            35,
+            39
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kBi8Q4FKlz",
+          "expanded_url": "https://twitter.com/SaloNyx/status/1004929343221452800",
+          "display_url": "twitter.com/SaloNyx/status…",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 08 15:48:20 +0000 2018",
+    "id": 1005114312925458432,
+    "id_str": "1005114312925458432",
+    "text": "悲報。\n\n日本新民宿法即將生效，Airbnb 下架八成民宿房源。 https://t.co/mdSwDRpr8U https://t.co/Sc7kPBs9po",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mdSwDRpr8U",
+          "expanded_url": "http://bit.ly/2JtANcI",
+          "display_url": "bit.ly/2JtANcI",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1005114303823818752,
+          "id_str": "1005114303823818752",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DfLiIk4VMAAsc_A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DfLiIk4VMAAsc_A.jpg",
+          "url": "https://t.co/Sc7kPBs9po",
+          "display_url": "pic.twitter.com/Sc7kPBs9po",
+          "expanded_url": "https://twitter.com/wastemobile/status/1005114312925458432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 405,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1005114303823818752,
+          "id_str": "1005114303823818752",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DfLiIk4VMAAsc_A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DfLiIk4VMAAsc_A.jpg",
+          "url": "https://t.co/Sc7kPBs9po",
+          "display_url": "pic.twitter.com/Sc7kPBs9po",
+          "expanded_url": "https://twitter.com/wastemobile/status/1005114312925458432/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 405,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jun 08 15:33:02 +0000 2018",
+    "id": 1005110459576406016,
+    "id_str": "1005110459576406016",
+    "text": "使用 DMArchiver 又被封鎖帳號！還好電話認證現在通了，不用被關禁閉。\n\n到底要如何備份 Twitter DMs ？？？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 08 15:23:49 +0000 2018",
+    "id": 1005108142454145025,
+    "id_str": "1005108142454145025",
+    "text": "安東尼波登的忠告之一：\n\n別跟王八蛋合作。\n\n#我也去死一死好\n\nhttps://t.co/UsD4JBW639 https://t.co/sdFjBgHVlr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "我也去死一死好",
+          "indices": [
+            23,
+            31
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UsD4JBW639",
+          "expanded_url": "http://bit.ly/2Jqh3a4",
+          "display_url": "bit.ly/2Jqh3a4",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1005108135927808000,
+          "id_str": "1005108135927808000",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DfLchjrVAAABhyT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DfLchjrVAAABhyT.jpg",
+          "url": "https://t.co/sdFjBgHVlr",
+          "display_url": "pic.twitter.com/sdFjBgHVlr",
+          "expanded_url": "https://twitter.com/wastemobile/status/1005108142454145025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1005108135927808000,
+          "id_str": "1005108135927808000",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DfLchjrVAAABhyT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DfLchjrVAAABhyT.jpg",
+          "url": "https://t.co/sdFjBgHVlr",
+          "display_url": "pic.twitter.com/sdFjBgHVlr",
+          "expanded_url": "https://twitter.com/wastemobile/status/1005108142454145025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jun 08 15:19:59 +0000 2018",
+    "id": 1005107175708954624,
+    "id_str": "1005107175708954624",
+    "text": "同時支持柯P與吳音寧的人現在不知該如何是好。\n\nhttps://t.co/s9rky7VHrf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/s9rky7VHrf",
+          "expanded_url": "http://bit.ly/2JteOCX",
+          "display_url": "bit.ly/2JteOCX",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 08 15:17:55 +0000 2018",
+    "id": 1005106656743600128,
+    "id_str": "1005106656743600128",
+    "text": "兩罐黑麥烈啤酒就醉了，以下數小時內發言均無法負責，觀者請自行忽略。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jun 08 15:03:23 +0000 2018",
     "id": 1005102998052167681,
     "id_str": "1005102998052167681",
