@@ -1,5 +1,486 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Wed Jun 13 08:21:17 +0000 2018",
+    "id": 1006813744394129408,
+    "id_str": "1006813744394129408",
+    "text": "路痴錯了嗎！！ https://t.co/440aWYpqEd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/440aWYpqEd",
+          "expanded_url": "https://twitter.com/lowpayman/status/1006805823547469824",
+          "display_url": "twitter.com/lowpayman/stat…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1006805823547469824,
+    "quoted_status_id_str": "1006805823547469824",
+    "quoted_status": {
+      "created_at": "Wed Jun 13 07:49:48 +0000 2018",
+      "id": 1006805823547469824,
+      "id_str": "1006805823547469824",
+      "text": "路癡錯了嗎？！ https://t.co/WxHyjB8nGh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1006805816631091200,
+            "id_str": "1006805816631091200",
+            "indices": [
+              8,
+              31
+            ],
+            "media_url": "http://pbs.twimg.com/media/DfjkjlIX4AA-neg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DfjkjlIX4AA-neg.jpg",
+            "url": "https://t.co/WxHyjB8nGh",
+            "display_url": "pic.twitter.com/WxHyjB8nGh",
+            "expanded_url": "https://twitter.com/lowpayman/status/1006805823547469824/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 644,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 749,
+                "h": 791,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 749,
+                "h": 791,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1006805816631091200,
+            "id_str": "1006805816631091200",
+            "indices": [
+              8,
+              31
+            ],
+            "media_url": "http://pbs.twimg.com/media/DfjkjlIX4AA-neg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DfjkjlIX4AA-neg.jpg",
+            "url": "https://t.co/WxHyjB8nGh",
+            "display_url": "pic.twitter.com/WxHyjB8nGh",
+            "expanded_url": "https://twitter.com/lowpayman/status/1006805823547469824/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 644,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 749,
+                "h": 791,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 749,
+                "h": 791,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 92441318,
+        "id_str": "92441318",
+        "name": "低給料青年™ a.k.a Lowpayman ™",
+        "screen_name": "lowpayman",
+        "location": "",
+        "description": "窮",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1583,
+        "friends_count": 98,
+        "listed_count": 12,
+        "created_at": "Wed Nov 25 03:53:43 +0000 2009",
+        "favourites_count": 4425,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16212,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1001511547896713216/2XcGma9Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001511547896713216/2XcGma9Y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/92441318/1512365056",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 35,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 12 22:29:13 +0000 2018",
+    "id": 1006664747998154754,
+    "id_str": "1006664747998154754",
+    "text": "Tor 這兩天在送薇多莉亞・舒瓦（Victora Schwab）的免費電子書，奇幻基地、尖端有翻譯出版過她的小說，可以領來練練英文。 （ https://t.co/GHOs1EwA2N https://t.co/gAeDMTelNv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GHOs1EwA2N",
+          "expanded_url": "http://bit.ly/2JJYqOE",
+          "display_url": "bit.ly/2JJYqOE",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1006664733754179585,
+          "id_str": "1006664733754179585",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/DfhkPedUwAEcSBW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DfhkPedUwAEcSBW.jpg",
+          "url": "https://t.co/gAeDMTelNv",
+          "display_url": "pic.twitter.com/gAeDMTelNv",
+          "expanded_url": "https://twitter.com/wastemobile/status/1006664747998154754/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 746,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 746,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 456,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1006664733754179585,
+          "id_str": "1006664733754179585",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/DfhkPedUwAEcSBW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DfhkPedUwAEcSBW.jpg",
+          "url": "https://t.co/gAeDMTelNv",
+          "display_url": "pic.twitter.com/gAeDMTelNv",
+          "expanded_url": "https://twitter.com/wastemobile/status/1006664747998154754/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 746,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 746,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 456,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 12 21:09:14 +0000 2018",
+    "id": 1006644621168898049,
+    "id_str": "1006644621168898049",
+    "text": "之前就是預訂了這個，但永遠出不了貨，讓我對 Eink 新創設備信心全失；然後就錯失了 reMarkable 的預購特價⋯⋯（眼神死 https://t.co/b5jv3MMeZV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1006644619981942784,
+          "id_str": "1006644619981942784",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/DfhR8s0U8AAUcw6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DfhR8s0U8AAUcw6.jpg",
+          "url": "https://t.co/b5jv3MMeZV",
+          "display_url": "pic.twitter.com/b5jv3MMeZV",
+          "expanded_url": "https://twitter.com/wastemobile/status/1006644621168898049/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 769,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 679,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 769,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1006644619981942784,
+          "id_str": "1006644619981942784",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/DfhR8s0U8AAUcw6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DfhR8s0U8AAUcw6.jpg",
+          "url": "https://t.co/b5jv3MMeZV",
+          "display_url": "pic.twitter.com/b5jv3MMeZV",
+          "expanded_url": "https://twitter.com/wastemobile/status/1006644621168898049/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 769,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 679,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 769,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jun 12 15:14:01 +0000 2018",
     "id": 1006555225988059137,
     "id_str": "1006555225988059137",
