@@ -425,7 +425,11 @@ Grailbird.data.tweets_2018_06 = [
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 53,
+<<<<<<< HEAD
       "favorite_count": 119,
+=======
+      "favorite_count": 120,
+>>>>>>> gh-pages
       "favorited": false,
       "retweeted": true,
       "possibly_sensitive": false,
