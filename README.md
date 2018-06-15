@@ -1,4 +1,4 @@
-# Twitter 封存檔
+# Twitter 自我備份
 
 每個人都能從 Twitter 管理頁申請自己的「歷史推文庫存檔」，申請後需要一點時間，你會得到一個壓縮檔案。這個壓縮檔案解開來非常有趣，不但有兩種格式的所有歷史推文，還包含一個極簡單、卻又很完整的靜態網站。
 
@@ -36,6 +36,77 @@ ps. 根目錄下有一個 `yourtwittername_keys.yaml` 檔案，要預先使用 `
 在 `data` 資料夾裡，你的 Twitter 庫存將呈現兩種格式：JSON 和 CSV 以月份和年份匯出。
 
 * CSV 是一種通用格式可以匯入到許多資料工具、試算表應用程式或簡單以程式語言來使用。
+
+## myTweetsUpdate
+
+我是用一個 shell 腳本寫了更新指令：
+
+```
+#!/bin/bash
+
+echo "切換到 ~/mytweets 目錄"
+cd /Users/wastemobile/mytweets
+
+echo "執行更新程序"
+grailbird_updater /Users/wastemobile/mytweets
+
+echo "將更新寫到預設的 gh-pages 分支"
+git add .
+
+echo "提交更新（以日期時間為區隔）"
+current_time=$(date "+%Y.%m.%d-%H.%M.%S")
+git commit -m $current_time
+
+echo "切換至 master 分支並合併 gh-pages 的更新"
+git checkout master
+git merge gh-pages
+
+echo "上傳兩個分支的異動到 GitHub"
+git push --all
+
+echo "切換回 gh-pages 分支，等候下次更新"
+git checkout gh-pages
+```
+
+想到時開終端機執行一次就好，也不用每天做；或是像我一樣，乾脆把常常需要更新的 homebrew, npm, gem... 寫一個 **dailyupdate** 腳本，果然夠懶。
+
+```
+#!/bin/bash
+
+echo "1. update Homebrew"
+echo "brew update && brew upgrade && brew cleanup"
+brew update && brew upgrade && brew cleanup
+
+echo "2. update Node global packages"
+echo "npm update -g && npm cache verify --force"
+npm update -g && npm cache verify
+
+echo "3. backup myTweets"
+myTweetsUpdate
+
+#echo "4. check VirtualBox version"
+#vboxmanage --version
+#brew cask info virtualbox
+
+#echo "5. check Vagrant version"
+#vagrant version
+vagrant global-status --prune
+
+#安裝 brewcask-upgrade 之後不需要再分別檢查
+
+echo "6. update Ruby Gems"
+gem update
+
+echo "7. ls -al /var/log/*.out"
+ls -al /var/log/*.out
+
+echo "8. brew cask upgrade - brew cu"
+brew cu
+
+echo "9. 確認目前哪些 Homebrew 服務正在運行 - brew services list"
+brew services list
+
+```
 
 ## 開發者用 JSON
 
