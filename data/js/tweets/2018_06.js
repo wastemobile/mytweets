@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Sat Jun 16 14:12:10 +0000 2018",
+    "id": 1007989211616591872,
+    "id_str": "1007989211616591872",
+    "text": "其實我有想過這個問題⋯⋯\n\n《被愛妄想症》：不擅長戀愛的生物會就此滅絕嗎？ https://t.co/Dbpo3iwVYP https://t.co/yE6uXqXM8C",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Dbpo3iwVYP",
+          "expanded_url": "http://bit.ly/2yh0PPl",
+          "display_url": "bit.ly/2yh0PPl",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1007989201411850241,
+          "id_str": "1007989201411850241",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/Df0Y1o-VQAEpmDb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Df0Y1o-VQAEpmDb.jpg",
+          "url": "https://t.co/yE6uXqXM8C",
+          "display_url": "pic.twitter.com/yE6uXqXM8C",
+          "expanded_url": "https://twitter.com/wastemobile/status/1007989211616591872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 601,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 601,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1007989201411850241,
+          "id_str": "1007989201411850241",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/Df0Y1o-VQAEpmDb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Df0Y1o-VQAEpmDb.jpg",
+          "url": "https://t.co/yE6uXqXM8C",
+          "display_url": "pic.twitter.com/yE6uXqXM8C",
+          "expanded_url": "https://twitter.com/wastemobile/status/1007989211616591872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 601,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 601,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jun 16 14:03:39 +0000 2018",
     "id": 1007987071443595264,
     "id_str": "1007987071443595264",
