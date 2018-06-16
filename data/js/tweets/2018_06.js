@@ -1,5 +1,172 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Sat Jun 16 13:01:40 +0000 2018",
+    "id": 1007971471170273286,
+    "id_str": "1007971471170273286",
+    "text": "RT @hhcwt: \"掰掰 – Telegraph\" ( https://t.co/C5jHoDxuFG )",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hhcwt",
+          "name": "Squirrel",
+          "id": 181851152,
+          "id_str": "181851152",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/C5jHoDxuFG",
+          "expanded_url": "http://telegra.ph/%E6%8E%B0%E6%8E%B0-06-16",
+          "display_url": "telegra.ph/%E6%8E%B0%E6%8…",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jun 16 06:44:35 +0000 2018",
+      "id": 1007876576380194816,
+      "id_str": "1007876576380194816",
+      "text": "\"掰掰 – Telegraph\" ( https://t.co/C5jHoDxuFG )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/C5jHoDxuFG",
+            "expanded_url": "http://telegra.ph/%E6%8E%B0%E6%8E%B0-06-16",
+            "display_url": "telegra.ph/%E6%8E%B0%E6%8…",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 181851152,
+        "id_str": "181851152",
+        "name": "Squirrel",
+        "screen_name": "hhcwt",
+        "location": "台灣",
+        "description": "請參閱：https://t.co/qr7ED6h7Aa",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/qr7ED6h7Aa",
+                "expanded_url": "http://telegra.ph/%E6%8E%B0%E6%8E%B0-06-16",
+                "display_url": "telegra.ph/%E6%8E%B0%E6%8…",
+                "indices": [
+                  4,
+                  27
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4435,
+        "friends_count": 1766,
+        "listed_count": 51,
+        "created_at": "Mon Aug 23 05:57:33 +0000 2010",
+        "favourites_count": 253473,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1241,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006577629112045570/J9z8Inat_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006577629112045570/J9z8Inat_normal.jpg",
+        "profile_link_color": "3B5998",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 29,
+      "favorite_count": 64,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Sat Jun 16 10:11:34 +0000 2018",
     "id": 1007928665332539392,
     "id_str": "1007928665332539392",
