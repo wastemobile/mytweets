@@ -1,5 +1,407 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Sat Jun 16 14:03:39 +0000 2018",
+    "id": 1007987071443595264,
+    "id_str": "1007987071443595264",
+    "text": "RT @poousama: 日本的Suika（俗稱：西瓜卡）在1994年就開始了，可以說是世界上最早的電子貨幣，這個，中國人不知道。中國人還不知道的是：支付寶的QR碼也是日本人發明的。 https://t.co/nJmL6sPEvY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "poousama",
+          "name": "小維尼熊",
+          "id": 920292003883114499,
+          "id_str": "920292003883114499",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nJmL6sPEvY",
+          "expanded_url": "https://twitter.com/realpoppet/status/1007779913212940288",
+          "display_url": "twitter.com/realpoppet/sta…",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jun 16 00:40:06 +0000 2018",
+      "id": 1007784850172989440,
+      "id_str": "1007784850172989440",
+      "text": "日本的Suika（俗稱：西瓜卡）在1994年就開始了，可以說是世界上最早的電子貨幣，這個，中國人不知道。中國人還不知道的是：支付寶的QR碼也是日本人發明的。 https://t.co/nJmL6sPEvY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nJmL6sPEvY",
+            "expanded_url": "https://twitter.com/realpoppet/status/1007779913212940288",
+            "display_url": "twitter.com/realpoppet/sta…",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 920292003883114499,
+        "id_str": "920292003883114499",
+        "name": "小維尼熊",
+        "screen_name": "poousama",
+        "location": "日本 埼玉県",
+        "description": "脫共不脫支，依然是白痴 。尖閣島是日本領土，台灣是一個國家，支持港澳獨立。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3780,
+        "friends_count": 4025,
+        "listed_count": 20,
+        "created_at": "Tue Oct 17 14:14:46 +0000 2017",
+        "favourites_count": 15190,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9757,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/920293202401181696/IjB8I7Ob_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/920293202401181696/IjB8I7Ob_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/920292003883114499/1518265288",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1007779913212940288,
+      "quoted_status_id_str": "1007779913212940288",
+      "quoted_status": {
+        "created_at": "Sat Jun 16 00:20:29 +0000 2018",
+        "id": 1007779913212940288,
+        "id_str": "1007779913212940288",
+        "text": "中國五毛總喜歡說：台灣、日本很少在用支付寶，出門還要帶現金，真落後■但是，在中國，人們用最先進的支付寶買世界最落後的化工假牛排；而日本，人們用最落後的支付方式買世界最先進的牛排，到底誰落後？ https://t.co/mykYaoTvfO",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ],
+          "media": [
+            {
+              "id": 1007779871328632832,
+              "id_str": "1007779871328632832",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/media/DfxadBpVAAA66t0.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DfxadBpVAAA66t0.jpg",
+              "url": "https://t.co/mykYaoTvfO",
+              "display_url": "pic.twitter.com/mykYaoTvfO",
+              "expanded_url": "https://twitter.com/realPoppet/status/1007779913212940288/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 777,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 440,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1325,
+                  "h": 2048,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1007779871328632832,
+              "id_str": "1007779871328632832",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/media/DfxadBpVAAA66t0.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DfxadBpVAAA66t0.jpg",
+              "url": "https://t.co/mykYaoTvfO",
+              "display_url": "pic.twitter.com/mykYaoTvfO",
+              "expanded_url": "https://twitter.com/realPoppet/status/1007779913212940288/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 777,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 440,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1325,
+                  "h": 2048,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1007779892119797760,
+              "id_str": "1007779892119797760",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/media/DfxaePGVAAAB-cQ.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DfxaePGVAAAB-cQ.jpg",
+              "url": "https://t.co/mykYaoTvfO",
+              "display_url": "pic.twitter.com/mykYaoTvfO",
+              "expanded_url": "https://twitter.com/realPoppet/status/1007779913212940288/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1600,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1007779904522366976,
+              "id_str": "1007779904522366976",
+              "indices": [
+                96,
+                119
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dfxae9TVMAARdHN.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dfxae9TVMAARdHN.jpg",
+              "url": "https://t.co/mykYaoTvfO",
+              "display_url": "pic.twitter.com/mykYaoTvfO",
+              "expanded_url": "https://twitter.com/realPoppet/status/1007779913212940288/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1205,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 1195,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 677,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 895364371823472640,
+          "id_str": "895364371823472640",
+          "name": "小乖~",
+          "screen_name": "realPoppet",
+          "location": "台灣共和國",
+          "description": "中國，下賤之國，充滿獨裁、山寨、城管、暴力、隨地大小便，對內踐踏人權，對外騷擾鄰國■和中國有關的東西全部反對■反對使用中國簡字■反對中國文化■反對統一，主張獨立■反對國民黨、共產黨、柯文哲■全部推文都在辱華，不能接受請離開，亂留言就封鎖",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 1657,
+          "friends_count": 112,
+          "listed_count": 11,
+          "created_at": "Wed Aug 09 19:21:16 +0000 2017",
+          "favourites_count": 15244,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 4202,
+          "lang": "zh-TW",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/916808688131751936/lT3gZFC__normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/916808688131751936/lT3gZFC__normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/895364371823472640/1514336190",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 76,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 41,
+      "favorite_count": 108,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1007779913212940288,
+    "quoted_status_id_str": "1007779913212940288",
+    "retweet_count": 41,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jun 16 13:10:28 +0000 2018",
     "id": 1007973685469143047,
     "id_str": "1007973685469143047",
