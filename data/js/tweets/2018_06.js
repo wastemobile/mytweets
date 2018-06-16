@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Sat Jun 16 13:10:28 +0000 2018",
+    "id": 1007973685469143047,
+    "id_str": "1007973685469143047",
+    "text": "對生命如此徬徨的我們而言，生存就已經是個天大的麻煩，如果幾瓶酒和魚水之歡就能暫時擱下這些問題的話，那麼何樂而不為呢？\n\n心靈毒雞湯：《鎮上最美麗的女人》 https://t.co/Hldi30t77N https://t.co/9Lng0gidKU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Hldi30t77N",
+          "expanded_url": "http://bit.ly/2JVg5mA",
+          "display_url": "bit.ly/2JVg5mA",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1007973675163717633,
+          "id_str": "1007973675163717633",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/Df0Kt5MUEAE2WNj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Df0Kt5MUEAE2WNj.jpg",
+          "url": "https://t.co/9Lng0gidKU",
+          "display_url": "pic.twitter.com/9Lng0gidKU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1007973685469143047/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 521,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 443,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 521,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1007973675163717633,
+          "id_str": "1007973675163717633",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/Df0Kt5MUEAE2WNj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Df0Kt5MUEAE2WNj.jpg",
+          "url": "https://t.co/9Lng0gidKU",
+          "display_url": "pic.twitter.com/9Lng0gidKU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1007973685469143047/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 521,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 443,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 521,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jun 16 13:01:40 +0000 2018",
     "id": 1007971471170273286,
     "id_str": "1007971471170273286",
