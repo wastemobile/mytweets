@@ -1,5 +1,347 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Sat Jun 16 14:33:12 +0000 2018",
+    "id": 1007994506963136512,
+    "id_str": "1007994506963136512",
+    "text": "玩壞了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 16 14:30:18 +0000 2018",
+    "id": 1007993774054625280,
+    "id_str": "1007993774054625280",
+    "text": "RT @Life954: 次回のイベントは久しぶりのバーベキュー！7月29日（日）【文化系トークラジオLife】大交流イベント「新宿BBQ！」 #life954 https://t.co/dVn7HhttkG @PeatixJPより #life954 https://t.co/…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "life954",
+          "indices": [
+            72,
+            80
+          ]
+        },
+        {
+          "text": "life954",
+          "indices": [
+            117,
+            125
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Life954",
+          "name": "文化系トークラジオ Life P",
+          "id": 85787431,
+          "id_str": "85787431",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "PeatixJP",
+          "name": "Peatix イベントソムリエ",
+          "id": 253385438,
+          "id_str": "253385438",
+          "indices": [
+            105,
+            114
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dVn7HhttkG",
+          "expanded_url": "http://ptix.at/Ujdn3B",
+          "display_url": "ptix.at/Ujdn3B",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 15 20:41:37 +0000 2018",
+      "id": 1007724831922483200,
+      "id_str": "1007724831922483200",
+      "text": "次回のイベントは久しぶりのバーベキュー！7月29日（日）【文化系トークラジオLife】大交流イベント「新宿BBQ！」 #life954 https://t.co/dVn7HhttkG @PeatixJPより #life954 https://t.co/5v8GxyzVVA",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "life954",
+            "indices": [
+              59,
+              67
+            ]
+          },
+          {
+            "text": "life954",
+            "indices": [
+              104,
+              112
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "PeatixJP",
+            "name": "Peatix イベントソムリエ",
+            "id": 253385438,
+            "id_str": "253385438",
+            "indices": [
+              92,
+              101
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dVn7HhttkG",
+            "expanded_url": "http://ptix.at/Ujdn3B",
+            "display_url": "ptix.at/Ujdn3B",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1007724828978077696,
+            "id_str": "1007724828978077696",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/DfwoZI6UYAAVKBr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DfwoZI6UYAAVKBr.jpg",
+            "url": "https://t.co/5v8GxyzVVA",
+            "display_url": "pic.twitter.com/5v8GxyzVVA",
+            "expanded_url": "https://twitter.com/Life954/status/1007724831922483200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 470,
+                "h": 264,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 470,
+                "h": 264,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 470,
+                "h": 264,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1007724828978077696,
+            "id_str": "1007724828978077696",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/DfwoZI6UYAAVKBr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DfwoZI6UYAAVKBr.jpg",
+            "url": "https://t.co/5v8GxyzVVA",
+            "display_url": "pic.twitter.com/5v8GxyzVVA",
+            "expanded_url": "https://twitter.com/Life954/status/1007724831922483200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 470,
+                "h": 264,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 470,
+                "h": 264,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 470,
+                "h": 264,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 85787431,
+        "id_str": "85787431",
+        "name": "文化系トークラジオ Life P",
+        "screen_name": "Life954",
+        "location": "赤坂　武蔵小金井　吉祥寺　立川",
+        "description": "ＴＢＳラジオ「文化系トークラジオ Life」の黒幕ことプロデューサー長谷川裕（'74年生）の個人アカウント。「荻上チキ・Session-22」「菊地成孔の粋な夜電波」のＰも担当。過去に「柳瀬博一ターミナル」「ニッポン政策研究所」「アクセス」「ストリーム」「たまむすび」など #NowPlaying は入浴中のランダム再生",
+        "url": "https://t.co/dHZD6EKVdi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/dHZD6EKVdi",
+                "expanded_url": "https://www.tbsradio.jp/life-news/",
+                "display_url": "tbsradio.jp/life-news/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 15446,
+        "friends_count": 1961,
+        "listed_count": 1485,
+        "created_at": "Wed Oct 28 10:27:48 +0000 2009",
+        "favourites_count": 493,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 56938,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/497117581/life_icon2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/497117581/life_icon2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85787431/1465508581",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Sat Jun 16 14:12:10 +0000 2018",
     "id": 1007989211616591872,
     "id_str": "1007989211616591872",
@@ -126,7 +468,7 @@ Grailbird.data.tweets_2018_06 = [
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -242,12 +584,12 @@ Grailbird.data.tweets_2018_06 = [
         "friends_count": 4025,
         "listed_count": 20,
         "created_at": "Tue Oct 17 14:14:46 +0000 2017",
-        "favourites_count": 15190,
+        "favourites_count": 15196,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 9757,
+        "statuses_count": 9758,
         "lang": "ja",
         "contributors_enabled": false,
         "is_translator": false,
@@ -510,15 +852,15 @@ Grailbird.data.tweets_2018_06 = [
         "place": null,
         "contributors": null,
         "is_quote_status": false,
-        "retweet_count": 23,
-        "favorite_count": 76,
+        "retweet_count": 25,
+        "favorite_count": 79,
         "favorited": false,
         "retweeted": false,
         "possibly_sensitive": false,
         "lang": "zh"
       },
-      "retweet_count": 41,
-      "favorite_count": 108,
+      "retweet_count": 43,
+      "favorite_count": 111,
       "favorited": false,
       "retweeted": true,
       "possibly_sensitive": false,
@@ -527,7 +869,7 @@ Grailbird.data.tweets_2018_06 = [
     "is_quote_status": true,
     "quoted_status_id": 1007779913212940288,
     "quoted_status_id_str": "1007779913212940288",
-    "retweet_count": 41,
+    "retweet_count": 43,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": true,
@@ -661,7 +1003,7 @@ Grailbird.data.tweets_2018_06 = [
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -781,11 +1123,11 @@ Grailbird.data.tweets_2018_06 = [
           }
         },
         "protected": false,
-        "followers_count": 4435,
-        "friends_count": 1766,
+        "followers_count": 4437,
+        "friends_count": 1765,
         "listed_count": 51,
         "created_at": "Mon Aug 23 05:57:33 +0000 2010",
-        "favourites_count": 253473,
+        "favourites_count": 253446,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
@@ -819,15 +1161,15 @@ Grailbird.data.tweets_2018_06 = [
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 29,
-      "favorite_count": 64,
+      "retweet_count": 35,
+      "favorite_count": 75,
       "favorited": false,
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "ja"
     },
     "is_quote_status": false,
-    "retweet_count": 29,
+    "retweet_count": 35,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": true,
@@ -1094,7 +1436,7 @@ Grailbird.data.tweets_2018_06 = [
         "name": "cryptoboy",
         "screen_name": "Cryptoboy404",
         "location": "China Lake Acres, CA",
-        "description": "网络匿名策略研究||密码学普及||政治观点||用刁钻的角度思考问题||正在申请博士||#MeToo",
+        "description": "网络匿名策略研究||密码学普及||政治观点||用刁钻的角度思考问题||正在申请博士||#MeToo||自我审查是什么，才不管什么敏感点",
         "url": "https://t.co/PUIZRMO08a",
         "entities": {
           "url": {
@@ -1117,16 +1459,16 @@ Grailbird.data.tweets_2018_06 = [
           }
         },
         "protected": false,
-        "followers_count": 694,
+        "followers_count": 697,
         "friends_count": 141,
         "listed_count": 10,
         "created_at": "Fri Feb 23 03:38:57 +0000 2018",
-        "favourites_count": 4753,
+        "favourites_count": 4760,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 1556,
+        "statuses_count": 1559,
         "lang": "en",
         "contributors_enabled": false,
         "is_translator": false,
@@ -1156,15 +1498,15 @@ Grailbird.data.tweets_2018_06 = [
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 80,
-      "favorite_count": 216,
+      "retweet_count": 89,
+      "favorite_count": 235,
       "favorited": false,
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "zh"
     },
     "is_quote_status": false,
-    "retweet_count": 80,
+    "retweet_count": 89,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": true,
@@ -1380,16 +1722,16 @@ Grailbird.data.tweets_2018_06 = [
           }
         },
         "protected": false,
-        "followers_count": 3861,
+        "followers_count": 3860,
         "friends_count": 1085,
         "listed_count": 124,
         "created_at": "Thu Feb 12 19:37:57 +0000 2009",
-        "favourites_count": 2835,
+        "favourites_count": 2836,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": false,
         "verified": false,
-        "statuses_count": 19370,
+        "statuses_count": 19379,
         "lang": "zh-tw",
         "contributors_enabled": false,
         "is_translator": false,
@@ -1557,7 +1899,7 @@ Grailbird.data.tweets_2018_06 = [
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "zh"
@@ -1652,7 +1994,7 @@ Grailbird.data.tweets_2018_06 = [
           }
         },
         "protected": false,
-        "followers_count": 20702,
+        "followers_count": 20703,
         "friends_count": 2484,
         "listed_count": 327,
         "created_at": "Sat May 09 06:45:50 +0000 2009",
@@ -1692,7 +2034,7 @@ Grailbird.data.tweets_2018_06 = [
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 3,
-      "favorite_count": 9,
+      "favorite_count": 10,
       "favorited": false,
       "retweeted": true,
       "lang": "zh"
@@ -1885,8 +2227,8 @@ Grailbird.data.tweets_2018_06 = [
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2012,15 +2354,15 @@ Grailbird.data.tweets_2018_06 = [
         },
         "protected": false,
         "followers_count": 4233,
-        "friends_count": 702,
+        "friends_count": 701,
         "listed_count": 80,
         "created_at": "Tue Jan 27 10:54:22 +0000 2009",
-        "favourites_count": 5383,
+        "favourites_count": 5380,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 44772,
+        "statuses_count": 44775,
         "lang": "zh-TW",
         "contributors_enabled": false,
         "is_translator": false,
@@ -2050,15 +2392,15 @@ Grailbird.data.tweets_2018_06 = [
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 2,
-      "favorite_count": 3,
+      "retweet_count": 7,
+      "favorite_count": 11,
       "favorited": false,
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "zh"
     },
     "is_quote_status": false,
-    "retweet_count": 2,
+    "retweet_count": 7,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": true,
@@ -2270,7 +2612,7 @@ Grailbird.data.tweets_2018_06 = [
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2389,7 +2731,7 @@ Grailbird.data.tweets_2018_06 = [
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2443,8 +2785,8 @@ Grailbird.data.tweets_2018_06 = [
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 1,
+    "retweet_count": 5,
+    "favorite_count": 8,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -2717,7 +3059,7 @@ Grailbird.data.tweets_2018_06 = [
           }
         },
         "protected": false,
-        "followers_count": 4864,
+        "followers_count": 4888,
         "friends_count": 0,
         "listed_count": 55,
         "created_at": "Mon Jan 29 02:59:04 +0000 2007",
@@ -2726,7 +3068,7 @@ Grailbird.data.tweets_2018_06 = [
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 8591,
+        "statuses_count": 8599,
         "lang": "en",
         "contributors_enabled": false,
         "is_translator": false,
@@ -2756,19 +3098,15 @@ Grailbird.data.tweets_2018_06 = [
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 53,
-<<<<<<< HEAD
-      "favorite_count": 119,
-=======
-      "favorite_count": 120,
->>>>>>> gh-pages
+      "retweet_count": 70,
+      "favorite_count": 178,
       "favorited": false,
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "zh"
     },
     "is_quote_status": false,
-    "retweet_count": 53,
+    "retweet_count": 70,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": true,
@@ -2903,7 +3241,7 @@ Grailbird.data.tweets_2018_06 = [
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 21317,
+        "statuses_count": 21318,
         "lang": "zh-tw",
         "contributors_enabled": false,
         "is_translator": false,
@@ -2982,7 +3320,7 @@ Grailbird.data.tweets_2018_06 = [
       "contributors": null,
       "is_quote_status": false,
       "retweet_count": 1,
-      "favorite_count": 1,
+      "favorite_count": 2,
       "favorited": false,
       "retweeted": true,
       "possibly_sensitive": false,
@@ -3408,16 +3746,16 @@ Grailbird.data.tweets_2018_06 = [
           }
         },
         "protected": false,
-        "followers_count": 1439,
+        "followers_count": 1442,
         "friends_count": 59,
         "listed_count": 12,
         "created_at": "Fri Mar 02 14:51:05 +0000 2018",
-        "favourites_count": 769,
+        "favourites_count": 767,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 792,
+        "statuses_count": 811,
         "lang": "zh-tw",
         "contributors_enabled": false,
         "is_translator": false,
@@ -3447,15 +3785,15 @@ Grailbird.data.tweets_2018_06 = [
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 123,
-      "favorite_count": 247,
+      "retweet_count": 149,
+      "favorite_count": 280,
       "favorited": false,
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "zh"
     },
     "is_quote_status": false,
-    "retweet_count": 123,
+    "retweet_count": 149,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": true,
@@ -3573,16 +3911,16 @@ Grailbird.data.tweets_2018_06 = [
           }
         },
         "protected": false,
-        "followers_count": 83446,
+        "followers_count": 83510,
         "friends_count": 354,
-        "listed_count": 749,
+        "listed_count": 750,
         "created_at": "Tue Mar 20 02:53:02 +0000 2007",
-        "favourites_count": 13563,
+        "favourites_count": 13580,
         "utc_offset": null,
         "time_zone": null,
         "geo_enabled": true,
         "verified": false,
-        "statuses_count": 3133,
+        "statuses_count": 3134,
         "lang": "en",
         "contributors_enabled": false,
         "is_translator": false,
@@ -3612,15 +3950,15 @@ Grailbird.data.tweets_2018_06 = [
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 135,
-      "favorite_count": 292,
+      "retweet_count": 166,
+      "favorite_count": 354,
       "favorited": true,
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "zh"
     },
     "is_quote_status": false,
-    "retweet_count": 135,
+    "retweet_count": 166,
     "favorite_count": 0,
     "favorited": true,
     "retweeted": true,
