@@ -1,5 +1,650 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Sun Jun 17 14:27:56 +0000 2018",
+    "id": 1008355567348224000,
+    "id_str": "1008355567348224000",
+    "text": "@yaoyp @old_leopard 是啦，Mac 內建是有 Twitter 分享功能，但加入圖片、標籤或是 @ 人都沒有 Tweetbot 方便，所以還是希望它能添加這功能。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yaoyp",
+          "name": "ern",
+          "id": 112131169,
+          "id_str": "112131169",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "screen_name": "old_leopard",
+          "name": "老土豹𓀀",
+          "id": 80530931,
+          "id_str": "80530931",
+          "indices": [
+            7,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1008354330888421376,
+    "in_reply_to_status_id_str": "1008354330888421376",
+    "in_reply_to_user_id": 112131169,
+    "in_reply_to_user_id_str": "112131169",
+    "in_reply_to_screen_name": "yaoyp",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 17 06:17:59 +0000 2018",
+    "id": 1008232268249231367,
+    "id_str": "1008232268249231367",
+    "text": "好啊好啊，都給你們說著玩就對了⋯⋯😡\n\n蘋果設計下不了決心，傳 iPhone SE 2 延至 9 月上市\n https://t.co/nGhyOwb9P1 https://t.co/3sLtRqx1ND",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nGhyOwb9P1",
+          "expanded_url": "http://bit.ly/2yfpp2Y",
+          "display_url": "bit.ly/2yfpp2Y",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1008232256257683457,
+          "id_str": "1008232256257683457",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/Df315S1UcAE4gY7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Df315S1UcAE4gY7.jpg",
+          "url": "https://t.co/3sLtRqx1ND",
+          "display_url": "pic.twitter.com/3sLtRqx1ND",
+          "expanded_url": "https://twitter.com/wastemobile/status/1008232268249231367/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 428,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 756,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 756,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1008232256257683457,
+          "id_str": "1008232256257683457",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/Df315S1UcAE4gY7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Df315S1UcAE4gY7.jpg",
+          "url": "https://t.co/3sLtRqx1ND",
+          "display_url": "pic.twitter.com/3sLtRqx1ND",
+          "expanded_url": "https://twitter.com/wastemobile/status/1008232268249231367/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 428,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 756,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 756,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 17 04:41:17 +0000 2018",
+    "id": 1008207933212016640,
+    "id_str": "1008207933212016640",
+    "text": "@angiesaid 錢都花了、妳跟我說這個幹嘛！（推開",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "angiesaid",
+          "name": "安吉",
+          "id": 242133,
+          "id_str": "242133",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 1008206653773135874,
+    "in_reply_to_status_id_str": "1008206653773135874",
+    "in_reply_to_user_id": 242133,
+    "in_reply_to_user_id_str": "242133",
+    "in_reply_to_screen_name": "angiesaid",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 17 04:37:14 +0000 2018",
+    "id": 1008206915136962560,
+    "id_str": "1008206915136962560",
+    "text": "@OOBE 這個我也想要！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OOBE",
+          "name": "OOBE",
+          "id": 4496321,
+          "id_str": "4496321",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 1008206655736066054,
+    "in_reply_to_status_id_str": "1008206655736066054",
+    "in_reply_to_user_id": 4496321,
+    "in_reply_to_user_id_str": "4496321",
+    "in_reply_to_screen_name": "OOBE",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 17 04:28:51 +0000 2018",
+    "id": 1008204804965847042,
+    "id_str": "1008204804965847042",
+    "text": "@OOBE 所以是真的沒有，不是我的壞了，稍微安心一點。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OOBE",
+          "name": "OOBE",
+          "id": 4496321,
+          "id_str": "4496321",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 1008204081964281856,
+    "in_reply_to_status_id_str": "1008204081964281856",
+    "in_reply_to_user_id": 4496321,
+    "in_reply_to_user_id_str": "4496321",
+    "in_reply_to_screen_name": "OOBE",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 17 04:16:35 +0000 2018",
+    "id": 1008201715806425089,
+    "id_str": "1008201715806425089",
+    "text": "為甚麼我的 Mac Safari 分享選單（Share Extension）中找不到 Tweetbot？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jun 17 04:08:01 +0000 2018",
+    "id": 1008199560944967680,
+    "id_str": "1008199560944967680",
+    "text": "Tweetbot for Mac 多欄可以直接擺不同帳號的時間軸真是利器。 https://t.co/sXRPVUDdUg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sXRPVUDdUg",
+          "expanded_url": "https://twitter.com/tweetbot/status/998664951819628550",
+          "display_url": "twitter.com/tweetbot/statu…",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 998664951819628550,
+    "quoted_status_id_str": "998664951819628550",
+    "quoted_status": {
+      "created_at": "Mon May 21 20:40:53 +0000 2018",
+      "id": 998664951819628550,
+      "id_str": "998664951819628550",
+      "text": "Returning soon to Tweetbot 3 for Mac…multi-account columns. https://t.co/eMHa0SsSII",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 998664944022315008,
+            "id_str": "998664944022315008",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ddv4ebYV4AAzAWG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ddv4ebYV4AAzAWG.jpg",
+            "url": "https://t.co/eMHa0SsSII",
+            "display_url": "pic.twitter.com/eMHa0SsSII",
+            "expanded_url": "https://twitter.com/tweetbot/status/998664951819628550/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 735,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 417,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1332,
+                "h": 816,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 998664944022315008,
+            "id_str": "998664944022315008",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ddv4ebYV4AAzAWG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ddv4ebYV4AAzAWG.jpg",
+            "url": "https://t.co/eMHa0SsSII",
+            "display_url": "pic.twitter.com/eMHa0SsSII",
+            "expanded_url": "https://twitter.com/tweetbot/status/998664951819628550/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 735,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 417,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1332,
+                "h": 816,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 274626857,
+        "id_str": "274626857",
+        "name": "Tweetbot by Tapbots",
+        "screen_name": "tweetbot",
+        "location": "In your pocket or on your lap",
+        "description": "I'm a Twitter client for iOS and Mac by @tapbots. Sorry I can't respond to everyone! Bird needs to eat, sleep, and work.",
+        "url": "http://t.co/r1pigdfB3V",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/r1pigdfB3V",
+                "expanded_url": "http://tapbots.com/tweetbot/",
+                "display_url": "tapbots.com/tweetbot/",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 268252,
+        "friends_count": 4,
+        "listed_count": 5670,
+        "created_at": "Wed Mar 30 17:23:44 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 72828,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996366842376568833/5SvfTE9F_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996366842376568833/5SvfTE9F_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/274626857/1526387355",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 63,
+      "favorite_count": 333,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 17 02:48:57 +0000 2018",
     "id": 1008179662302863360,
     "id_str": "1008179662302863360",
