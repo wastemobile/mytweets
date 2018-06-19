@@ -1,5 +1,311 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Tue Jun 19 04:44:38 +0000 2018",
+    "id": 1008933553571164160,
+    "id_str": "1008933553571164160",
+    "text": "這題目也太難⋯⋯\n\n法國 2018 高考哲學題目 https://t.co/Qtc1I9PQha https://t.co/LLlZ7pOQRj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Qtc1I9PQha",
+          "expanded_url": "http://www.cup.com.hk/?p=108540",
+          "display_url": "cup.com.hk/?p=108540",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1008933544708567041,
+          "id_str": "1008933544708567041",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgBztp5UcAEVGA8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgBztp5UcAEVGA8.jpg",
+          "url": "https://t.co/LLlZ7pOQRj",
+          "display_url": "pic.twitter.com/LLlZ7pOQRj",
+          "expanded_url": "https://twitter.com/wastemobile/status/1008933553571164160/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1008933544708567041,
+          "id_str": "1008933544708567041",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgBztp5UcAEVGA8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgBztp5UcAEVGA8.jpg",
+          "url": "https://t.co/LLlZ7pOQRj",
+          "display_url": "pic.twitter.com/LLlZ7pOQRj",
+          "expanded_url": "https://twitter.com/wastemobile/status/1008933553571164160/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 24,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 18 02:13:46 +0000 2018",
+    "id": 1008533195518722048,
+    "id_str": "1008533195518722048",
+    "text": "RT @appleseedTW: 關於 艾比索\n\n在青小鳥的噗浪看到 Ep 這個中文的寫作平台，好像還蠻不錯的哩！ https://t.co/mYOpgdAWmv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "appleseedTW",
+          "name": "appleseed",
+          "id": 6102712,
+          "id_str": "6102712",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mYOpgdAWmv",
+          "expanded_url": "https://episode.cc/home/feature",
+          "display_url": "episode.cc/home/feature",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 18 01:53:33 +0000 2018",
+      "id": 1008528108553527297,
+      "id_str": "1008528108553527297",
+      "text": "關於 艾比索\n\n在青小鳥的噗浪看到 Ep 這個中文的寫作平台，好像還蠻不錯的哩！ https://t.co/mYOpgdAWmv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mYOpgdAWmv",
+            "expanded_url": "https://episode.cc/home/feature",
+            "display_url": "episode.cc/home/feature",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6102712,
+        "id_str": "6102712",
+        "name": "appleseed",
+        "screen_name": "appleseedTW",
+        "location": "Taiwan",
+        "description": "Bio裡該要寫點體面的格言才是。",
+        "url": "http://t.co/63JAjzKpOy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/63JAjzKpOy",
+                "expanded_url": "http://blog.roodo.com/appleseed",
+                "display_url": "blog.roodo.com/appleseed",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2049,
+        "friends_count": 227,
+        "listed_count": 75,
+        "created_at": "Thu May 17 11:02:29 +0000 2007",
+        "favourites_count": 2156,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 31072,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6D4D5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1786421460/Qoo_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1786421460/Qoo_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6102712/1352462162",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 17 14:27:56 +0000 2018",
     "id": 1008355567348224000,
     "id_str": "1008355567348224000",
