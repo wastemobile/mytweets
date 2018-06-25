@@ -1,5 +1,184 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Mon Jun 25 13:39:48 +0000 2018",
+    "id": 1011242558641623041,
+    "id_str": "1011242558641623041",
+    "text": "今天網路怪怪的。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 25 13:21:37 +0000 2018",
+    "id": 1011237983142342656,
+    "id_str": "1011237983142342656",
+    "text": "這篇布克獎數據分析還蠻有意思的。\n\nTHE MAN BOOKER PRIZE: BY THE NUMBERS https://t.co/iBELGJuMce https://t.co/utQrtKg6B0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iBELGJuMce",
+          "expanded_url": "http://bit.ly/2Kh55jl",
+          "display_url": "bit.ly/2Kh55jl",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1011237967103385602,
+          "id_str": "1011237967103385602",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgijksSV4AINHfd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgijksSV4AINHfd.jpg",
+          "url": "https://t.co/utQrtKg6B0",
+          "display_url": "pic.twitter.com/utQrtKg6B0",
+          "expanded_url": "https://twitter.com/wastemobile/status/1011237983142342656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 283,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1011237967103385602,
+          "id_str": "1011237967103385602",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgijksSV4AINHfd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgijksSV4AINHfd.jpg",
+          "url": "https://t.co/utQrtKg6B0",
+          "display_url": "pic.twitter.com/utQrtKg6B0",
+          "expanded_url": "https://twitter.com/wastemobile/status/1011237983142342656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 283,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 24 00:53:11 +0000 2018",
     "id": 1010687246893117440,
     "id_str": "1010687246893117440",
