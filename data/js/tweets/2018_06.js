@@ -1,5 +1,664 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Tue Jun 26 01:29:36 +0000 2018",
+    "id": 1011421185828052993,
+    "id_str": "1011421185828052993",
+    "text": "Valet | Laravel 5.5 中文說明 https://t.co/xChhh6qPgs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xChhh6qPgs",
+          "expanded_url": "http://bit.ly/2MqD7Tc",
+          "display_url": "bit.ly/2MqD7Tc",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1011396887788679168,
+    "in_reply_to_status_id_str": "1011396887788679168",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 25 23:53:03 +0000 2018",
+    "id": 1011396887788679168,
+    "id_str": "1011396887788679168",
+    "text": "Valet https://t.co/RlCohq9Sjt 真是 mac 上開發網站的利器，尤其是一鍵設置本地的 TLS 網站，相見恨晚。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RlCohq9Sjt",
+          "expanded_url": "http://bit.ly/2pSFRj0",
+          "display_url": "bit.ly/2pSFRj0",
+          "indices": [
+            6,
+            29
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 25 23:22:58 +0000 2018",
+    "id": 1011389318508654592,
+    "id_str": "1011389318508654592",
+    "text": "真是汗顏，看看人家是怎麼在用推特的⋯⋯\n\n最近推特上流行 #notalion 的標籤，眾多中世紀歷史學家和愛好者分享中世紀歐洲藝術裡「最不像獅子的獅子」。\n\n那些「壞掉的」中世紀獅子 https://t.co/9SGUetRYJY https://t.co/opsgL1BvPu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "notalion",
+          "indices": [
+            29,
+            38
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9SGUetRYJY",
+          "expanded_url": "http://bit.ly/2IrEApX",
+          "display_url": "bit.ly/2IrEApX",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1011389305300836352,
+          "id_str": "1011389305300836352",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgktNvAV4AArCsp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgktNvAV4AArCsp.jpg",
+          "url": "https://t.co/opsgL1BvPu",
+          "display_url": "pic.twitter.com/opsgL1BvPu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1011389318508654592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 921,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 921,
+              "h": 480,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 354,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1011389305300836352,
+          "id_str": "1011389305300836352",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgktNvAV4AArCsp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgktNvAV4AArCsp.jpg",
+          "url": "https://t.co/opsgL1BvPu",
+          "display_url": "pic.twitter.com/opsgL1BvPu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1011389318508654592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 921,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 921,
+              "h": 480,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 354,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 60,
+    "favorite_count": 132,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 25 23:17:09 +0000 2018",
+    "id": 1011387855069798400,
+    "id_str": "1011387855069798400",
+    "text": "RT @Frfrancisliu: 习包子所有自我塑造的光辉形象就是一个笑料😂😂😂 https://t.co/sJrCPMIKfe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Frfrancisliu",
+          "name": "劉貽牧師",
+          "id": 2773732451,
+          "id_str": "2773732451",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1011120915021615104,
+          "id_str": "1011120915021615104",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1011120915021615104/pu/img/qa2DGUpJmwxLYMPO.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1011120915021615104/pu/img/qa2DGUpJmwxLYMPO.jpg",
+          "url": "https://t.co/sJrCPMIKfe",
+          "display_url": "pic.twitter.com/sJrCPMIKfe",
+          "expanded_url": "https://twitter.com/Frfrancisliu/status/1011121109003976704/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1011121109003976704,
+          "source_status_id_str": "1011121109003976704",
+          "source_user_id": 2773732451,
+          "source_user_id_str": "2773732451"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1011120915021615104,
+          "id_str": "1011120915021615104",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1011120915021615104/pu/img/qa2DGUpJmwxLYMPO.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1011120915021615104/pu/img/qa2DGUpJmwxLYMPO.jpg",
+          "url": "https://t.co/sJrCPMIKfe",
+          "display_url": "pic.twitter.com/sJrCPMIKfe",
+          "expanded_url": "https://twitter.com/Frfrancisliu/status/1011121109003976704/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1011121109003976704,
+          "source_status_id_str": "1011121109003976704",
+          "source_user_id": 2773732451,
+          "source_user_id_str": "2773732451",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 62276,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1011120915021615104/pu/pl/LALM3LiNdRLP0hGZ.m3u8?tag=3"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1011120915021615104/pu/vid/640x360/3bwiyvu81cfi4zLo.mp4?tag=3"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1011120915021615104/pu/vid/320x180/GF-mR-NERjZAweHK.mp4?tag=3"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 2773732451,
+              "id_str": "2773732451",
+              "name": "劉貽牧師",
+              "screen_name": "Frfrancisliu",
+              "location": "California, USA",
+              "description": "Priest",
+              "url": null,
+              "entities": {
+                "description": {
+                  "urls": [
+
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 6840,
+              "friends_count": 135,
+              "listed_count": 34,
+              "created_at": "Wed Sep 17 18:23:45 +0000 2014",
+              "favourites_count": 8180,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": true,
+              "verified": false,
+              "statuses_count": 6577,
+              "lang": "en",
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1008073643660738561/ioBkITEL_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008073643660738561/ioBkITEL_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2773732451/1502824105",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": true,
+              "default_profile": true,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "regular"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 25 05:37:12 +0000 2018",
+      "id": 1011121109003976704,
+      "id_str": "1011121109003976704",
+      "text": "习包子所有自我塑造的光辉形象就是一个笑料😂😂😂 https://t.co/sJrCPMIKfe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1011120915021615104,
+            "id_str": "1011120915021615104",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1011120915021615104/pu/img/qa2DGUpJmwxLYMPO.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1011120915021615104/pu/img/qa2DGUpJmwxLYMPO.jpg",
+            "url": "https://t.co/sJrCPMIKfe",
+            "display_url": "pic.twitter.com/sJrCPMIKfe",
+            "expanded_url": "https://twitter.com/Frfrancisliu/status/1011121109003976704/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1011120915021615104,
+            "id_str": "1011120915021615104",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1011120915021615104/pu/img/qa2DGUpJmwxLYMPO.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1011120915021615104/pu/img/qa2DGUpJmwxLYMPO.jpg",
+            "url": "https://t.co/sJrCPMIKfe",
+            "display_url": "pic.twitter.com/sJrCPMIKfe",
+            "expanded_url": "https://twitter.com/Frfrancisliu/status/1011121109003976704/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 62276,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1011120915021615104/pu/pl/LALM3LiNdRLP0hGZ.m3u8?tag=3"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1011120915021615104/pu/vid/640x360/3bwiyvu81cfi4zLo.mp4?tag=3"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1011120915021615104/pu/vid/320x180/GF-mR-NERjZAweHK.mp4?tag=3"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2773732451,
+        "id_str": "2773732451",
+        "name": "劉貽牧師",
+        "screen_name": "Frfrancisliu",
+        "location": "California, USA",
+        "description": "Priest",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6840,
+        "friends_count": 135,
+        "listed_count": 34,
+        "created_at": "Wed Sep 17 18:23:45 +0000 2014",
+        "favourites_count": 8180,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6577,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1008073643660738561/ioBkITEL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1008073643660738561/ioBkITEL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2773732451/1502824105",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 419,
+      "favorite_count": 736,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 419,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jun 25 13:39:48 +0000 2018",
     "id": 1011242558641623041,
     "id_str": "1011242558641623041",
