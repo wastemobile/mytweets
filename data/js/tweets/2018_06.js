@@ -1,5 +1,518 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Wed Jun 27 16:21:18 +0000 2018",
+    "id": 1012007975634984960,
+    "id_str": "1012007975634984960",
+    "text": "其實我不愛用 Calibre 唯一的理由，因為它醜，唉。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1011875288471384069,
+    "in_reply_to_status_id_str": "1011875288471384069",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 27 15:17:39 +0000 2018",
+    "id": 1011991957067796482,
+    "id_str": "1011991957067796482",
+    "text": "雖然非常不情願，但我會因為許順鏜前輩這兩本電子書，去註冊凌網的帳號。\n\n科幻黃金時代在臺的唯一代表──許順鏜作品集推薦序 https://t.co/mKnKUJ8Y43 https://t.co/taE7QJZ8IZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mKnKUJ8Y43",
+          "expanded_url": "http://bit.ly/2IxpmzA",
+          "display_url": "bit.ly/2IxpmzA",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1011991941955743745,
+          "id_str": "1011991941955743745",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgtRTzfUcAETNM3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgtRTzfUcAETNM3.jpg",
+          "url": "https://t.co/taE7QJZ8IZ",
+          "display_url": "pic.twitter.com/taE7QJZ8IZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1011991957067796482/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 383,
+              "h": 640,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 383,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1011991941955743745,
+          "id_str": "1011991941955743745",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgtRTzfUcAETNM3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgtRTzfUcAETNM3.jpg",
+          "url": "https://t.co/taE7QJZ8IZ",
+          "display_url": "pic.twitter.com/taE7QJZ8IZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1011991957067796482/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 383,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 383,
+              "h": 640,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 383,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1011991943260168192,
+          "id_str": "1011991943260168192",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgtRT4WUYAAYaYT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgtRT4WUYAAYaYT.jpg",
+          "url": "https://t.co/taE7QJZ8IZ",
+          "display_url": "pic.twitter.com/taE7QJZ8IZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1011991957067796482/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 251,
+              "h": 400,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 251,
+              "h": 400,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 251,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 27 15:00:50 +0000 2018",
+    "id": 1011987727179321346,
+    "id_str": "1011987727179321346",
+    "text": "這代表人類自大的程度已達新高而已。\n\n偵測不到外星人 人類可能是宇宙唯一智慧物種 https://t.co/FB5WJWfWj9 https://t.co/PMiXTfgPvy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FB5WJWfWj9",
+          "expanded_url": "http://bit.ly/2MsSAlt",
+          "display_url": "bit.ly/2MsSAlt",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1011987718543368192,
+          "id_str": "1011987718543368192",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgtNd-DV4AAjfah.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgtNd-DV4AAjfah.jpg",
+          "url": "https://t.co/PMiXTfgPvy",
+          "display_url": "pic.twitter.com/PMiXTfgPvy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1011987727179321346/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1011987718543368192,
+          "id_str": "1011987718543368192",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/DgtNd-DV4AAjfah.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DgtNd-DV4AAjfah.jpg",
+          "url": "https://t.co/PMiXTfgPvy",
+          "display_url": "pic.twitter.com/PMiXTfgPvy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1011987727179321346/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 27 07:36:17 +0000 2018",
+    "id": 1011875849950253056,
+    "id_str": "1011875849950253056",
+    "text": "@bobtung 查了一下 SR60e 新版不貴耶～ （完全劃錯重點）",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bobtung",
+          "name": "ВОВВУ",
+          "id": 122619084,
+          "id_str": "122619084",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1011873858792579072,
+    "in_reply_to_status_id_str": "1011873858792579072",
+    "in_reply_to_user_id": 122619084,
+    "in_reply_to_user_id_str": "122619084",
+    "in_reply_to_screen_name": "bobtung",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 27 07:34:03 +0000 2018",
+    "id": 1011875288471384069,
+    "id_str": "1011875288471384069",
+    "text": "介紹過 BookFusion 這個電子書平台服務，主要是無腦上傳 mobi/ePub 任一格式、自動轉換很棒，但也有朋友擔心上傳太多書、一旦服務停止怎麼辦。\n\n現在可以用 Calibre 外掛直接同步，書存在本地、上傳雲端，不怕了… https://t.co/rt4P4pSAc7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rt4P4pSAc7",
+          "expanded_url": "https://twitter.com/i/web/status/1011875288471384069",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 47,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 27 07:20:41 +0000 2018",
+    "id": 1011871924849262592,
+    "id_str": "1011871924849262592",
+    "text": "推估美國去年有聲書產值有 25 億美金這麼高啊⋯⋯\n\nNew Estimates Suggest $2.5 Billion Were Spent on Audiobooks in the US in 2017… https://t.co/F2fciyPp1Q",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/F2fciyPp1Q",
+          "expanded_url": "https://twitter.com/i/web/status/1011871924849262592",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jun 26 01:29:36 +0000 2018",
     "id": 1011421185828052993,
     "id_str": "1011421185828052993",
