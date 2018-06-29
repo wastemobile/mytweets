@@ -1,5 +1,326 @@
 Grailbird.data.tweets_2018_06 = [
   {
+    "created_at": "Fri Jun 29 01:55:16 +0000 2018",
+    "id": 1012514807361105920,
+    "id_str": "1012514807361105920",
+    "text": "哈哈哈，這問題沒去採訪一下水準書局和政大書城就太外行了⋯⋯\n\n書店經營》書店＋房地產，1加1真的大於2嗎？ https://t.co/XxcF4Eh1n9 https://t.co/5T52lEPo5V",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XxcF4Eh1n9",
+          "expanded_url": "http://bit.ly/2KzL4oA",
+          "display_url": "bit.ly/2KzL4oA",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1012514797441638400,
+          "id_str": "1012514797441638400",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dg0s1_9V4AAtQ4x.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dg0s1_9V4AAtQ4x.jpg",
+          "url": "https://t.co/5T52lEPo5V",
+          "display_url": "pic.twitter.com/5T52lEPo5V",
+          "expanded_url": "https://twitter.com/wastemobile/status/1012514807361105920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1012514797441638400,
+          "id_str": "1012514797441638400",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dg0s1_9V4AAtQ4x.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dg0s1_9V4AAtQ4x.jpg",
+          "url": "https://t.co/5T52lEPo5V",
+          "display_url": "pic.twitter.com/5T52lEPo5V",
+          "expanded_url": "https://twitter.com/wastemobile/status/1012514807361105920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 29 01:47:38 +0000 2018",
+    "id": 1012512887036710912,
+    "id_str": "1012512887036710912",
+    "text": "雖然不是對所有人都適用，但王文華分享了過去兩個月、在網路上連載新小說的心得，可以一讀。\n\n你這行的銷售量一直往下掉，你該怎麼往上爬？ https://t.co/jMrui7cB1H https://t.co/OFUR0uaY00",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jMrui7cB1H",
+          "expanded_url": "http://bit.ly/2MvlkKo",
+          "display_url": "bit.ly/2MvlkKo",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1012512878283317248,
+          "id_str": "1012512878283317248",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dg0rGSiV4AAIVLr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dg0rGSiV4AAIVLr.jpg",
+          "url": "https://t.co/OFUR0uaY00",
+          "display_url": "pic.twitter.com/OFUR0uaY00",
+          "expanded_url": "https://twitter.com/wastemobile/status/1012512887036710912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 477,
+              "h": 377,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 477,
+              "h": 377,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 477,
+              "h": 377,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1012512878283317248,
+          "id_str": "1012512878283317248",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dg0rGSiV4AAIVLr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dg0rGSiV4AAIVLr.jpg",
+          "url": "https://t.co/OFUR0uaY00",
+          "display_url": "pic.twitter.com/OFUR0uaY00",
+          "expanded_url": "https://twitter.com/wastemobile/status/1012512887036710912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 477,
+              "h": 377,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 477,
+              "h": 377,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 477,
+              "h": 377,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 28 05:01:09 +0000 2018",
+    "id": 1012199197641076737,
+    "id_str": "1012199197641076737",
+    "text": "用 Anchor for iPad 錄 Podcast 看起來好威～\n\nIntroducing Anchor for iPad: a bigger, better way to make your podcast… https://t.co/EqeGn6S9cZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EqeGn6S9cZ",
+          "expanded_url": "https://twitter.com/i/web/status/1012199197641076737",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Jun 27 16:21:18 +0000 2018",
     "id": 1012007975634984960,
     "id_str": "1012007975634984960",
