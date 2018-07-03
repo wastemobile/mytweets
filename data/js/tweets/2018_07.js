@@ -1,5 +1,249 @@
 Grailbird.data.tweets_2018_07 = [
   {
+    "created_at": "Tue Jul 03 13:55:29 +0000 2018",
+    "id": 1014145609236803584,
+    "id_str": "1014145609236803584",
+    "text": "「由顧客端開始的逆向工程法」，在《成長駭客行銷》一書中也提過，但書裡指向的不是 CTO 的說法，而是 Ian McAllister 在 Quora 的這篇，因為有教人們如何寫那份「內部新聞稿」。… https://t.co/q7QNo94HUc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q7QNo94HUc",
+          "expanded_url": "https://twitter.com/i/web/status/1014145609236803584",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1012868034392834048,
+    "quoted_status_id_str": "1012868034392834048",
+    "quoted_status": {
+      "created_at": "Sat Jun 30 01:18:52 +0000 2018",
+      "id": 1012868034392834048,
+      "id_str": "1012868034392834048",
+      "text": "亚马逊的 CTO 透露，他们采用“向后工作”的方法，即开发一项产品采用下面的步骤。\n\n1、写新闻稿\n2、写 FAQ\n3、写用户文档\n4、写代码\n\nhttps://t.co/WIlINlQ3ez https://t.co/7IhGvlcOky",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WIlINlQ3ez",
+            "expanded_url": "https://www.allthingsdistributed.com/2006/11/working_backwards.html",
+            "display_url": "allthingsdistributed.com/2006/11/workin…",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1012867656012087296,
+            "id_str": "1012867656012087296",
+            "indices": [
+              97,
+              120
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dg5txEkVQAA5Q9T.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dg5txEkVQAA5Q9T.jpg",
+            "url": "https://t.co/7IhGvlcOky",
+            "display_url": "pic.twitter.com/7IhGvlcOky",
+            "expanded_url": "https://twitter.com/ruanyf/status/1012868034392834048/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 872,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 494,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 1652,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1012867656012087296,
+            "id_str": "1012867656012087296",
+            "indices": [
+              97,
+              120
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dg5txEkVQAA5Q9T.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dg5txEkVQAA5Q9T.jpg",
+            "url": "https://t.co/7IhGvlcOky",
+            "display_url": "pic.twitter.com/7IhGvlcOky",
+            "expanded_url": "https://twitter.com/ruanyf/status/1012868034392834048/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 872,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 494,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 1652,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1580781,
+        "id_str": "1580781",
+        "name": "ruanyf",
+        "screen_name": "ruanyf",
+        "location": "Shanghai, China",
+        "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+        "url": "http://t.co/fw8pEsBuak",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/fw8pEsBuak",
+                "expanded_url": "http://www.ruanyifeng.com",
+                "display_url": "ruanyifeng.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 84381,
+        "friends_count": 357,
+        "listed_count": 760,
+        "created_at": "Tue Mar 20 02:53:02 +0000 2007",
+        "favourites_count": 13748,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3167,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580781/1355537048",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 86,
+      "favorite_count": 192,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jul 03 04:13:59 +0000 2018",
     "id": 1013999268451926016,
     "id_str": "1013999268451926016",
