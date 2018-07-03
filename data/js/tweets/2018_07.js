@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2018_07 = [
   {
+    "created_at": "Tue Jul 03 04:13:59 +0000 2018",
+    "id": 1013999268451926016,
+    "id_str": "1013999268451926016",
+    "text": "ION 黑膠唱盤（多款）目前在博客來特價後再 65 折促銷，真的比其他網站便宜很多⋯⋯\n\nhttps://t.co/mmwG8qxyOc https://t.co/YP1AJia2aD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mmwG8qxyOc",
+          "expanded_url": "https://www.books.com.tw/products/N011213311",
+          "display_url": "books.com.tw/products/N0112…",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1013999261879422976,
+          "id_str": "1013999261879422976",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DhJy9M7U0AA6juf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DhJy9M7U0AA6juf.jpg",
+          "url": "https://t.co/YP1AJia2aD",
+          "display_url": "pic.twitter.com/YP1AJia2aD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1013999268451926016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 805,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 507,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 805,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1013999261879422976,
+          "id_str": "1013999261879422976",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/DhJy9M7U0AA6juf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DhJy9M7U0AA6juf.jpg",
+          "url": "https://t.co/YP1AJia2aD",
+          "display_url": "pic.twitter.com/YP1AJia2aD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1013999268451926016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 805,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 507,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 805,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jul 02 12:53:14 +0000 2018",
     "id": 1013767554639118337,
     "id_str": "1013767554639118337",
