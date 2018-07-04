@@ -1,5 +1,252 @@
 Grailbird.data.tweets_2018_07 = [
   {
+    "created_at": "Wed Jul 04 01:42:44 +0000 2018",
+    "id": 1014323594212458497,
+    "id_str": "1014323594212458497",
+    "text": "串流、分享、盜版（Streaming, Sharing,  Stealing），我覺得抓到這三點來討論是有意思的切入點，但不知書寫得怎麼樣。 #note #待讀\n\n3S 風潮：串流、分享、盜版，看大數據如何改寫創意產業的未來… https://t.co/zrcaJuhTOg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            71,
+            76
+          ]
+        },
+        {
+          "text": "待讀",
+          "indices": [
+            77,
+            80
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zrcaJuhTOg",
+          "expanded_url": "https://twitter.com/i/web/status/1014323594212458497",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 04 01:06:42 +0000 2018",
+    "id": 1014314525347024896,
+    "id_str": "1014314525347024896",
+    "text": "這篇值得看（因為其實是翻譯 MIT Tech Review 的文章），裡面提到的專案與 Apps 都還不錯。\n\n它知道的太多了！如何「反調教」Facebook？ https://t.co/ZSYmzo9ocH https://t.co/TAY5wC0Brj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZSYmzo9ocH",
+          "expanded_url": "http://bit.ly/2MLB4Jr",
+          "display_url": "bit.ly/2MLB4Jr",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1014314517059141632,
+          "id_str": "1014314517059141632",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/DhORrd_VAAAqrrV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DhORrd_VAAAqrrV.jpg",
+          "url": "https://t.co/TAY5wC0Brj",
+          "display_url": "pic.twitter.com/TAY5wC0Brj",
+          "expanded_url": "https://twitter.com/wastemobile/status/1014314525347024896/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 940,
+              "h": 627,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 940,
+              "h": 627,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1014314517059141632,
+          "id_str": "1014314517059141632",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/DhORrd_VAAAqrrV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DhORrd_VAAAqrrV.jpg",
+          "url": "https://t.co/TAY5wC0Brj",
+          "display_url": "pic.twitter.com/TAY5wC0Brj",
+          "expanded_url": "https://twitter.com/wastemobile/status/1014314525347024896/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 940,
+              "h": 627,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 940,
+              "h": 627,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 03 23:42:13 +0000 2018",
+    "id": 1014293265707773952,
+    "id_str": "1014293265707773952",
+    "text": "最近做夢都超沒創意。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jul 03 13:55:29 +0000 2018",
     "id": 1014145609236803584,
     "id_str": "1014145609236803584",
