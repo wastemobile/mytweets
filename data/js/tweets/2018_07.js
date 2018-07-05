@@ -1,5 +1,498 @@
 Grailbird.data.tweets_2018_07 = [
   {
+    "created_at": "Thu Jul 05 01:36:04 +0000 2018",
+    "id": 1014684303064752128,
+    "id_str": "1014684303064752128",
+    "text": "哎呀～《雙層公寓：夏威夷》 #Netflix 同學會～～ https://t.co/A7OJCufUd0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            14,
+            22
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/A7OJCufUd0",
+          "expanded_url": "https://twitter.com/LaLaChuu/status/1014683182409510913",
+          "display_url": "twitter.com/LaLaChuu/statu…",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1014683182409510913,
+    "quoted_status_id_str": "1014683182409510913",
+    "quoted_status": {
+      "created_at": "Thu Jul 05 01:31:37 +0000 2018",
+      "id": 1014683182409510913,
+      "id_str": "1014683182409510913",
+      "text": "TH BBQ ナイト@ trunk hotel https://t.co/tac8oq78Nj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1014683155800866816,
+            "id_str": "1014683155800866816",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/DhTg9EUVQAAVCqh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DhTg9EUVQAAVCqh.jpg",
+            "url": "https://t.co/tac8oq78Nj",
+            "display_url": "pic.twitter.com/tac8oq78Nj",
+            "expanded_url": "https://twitter.com/LaLaChuu/status/1014683182409510913/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1014683155800866816,
+            "id_str": "1014683155800866816",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/DhTg9EUVQAAVCqh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DhTg9EUVQAAVCqh.jpg",
+            "url": "https://t.co/tac8oq78Nj",
+            "display_url": "pic.twitter.com/tac8oq78Nj",
+            "expanded_url": "https://twitter.com/LaLaChuu/status/1014683182409510913/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1014683155796619264,
+            "id_str": "1014683155796619264",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/DhTg9ETUcAA0560.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DhTg9ETUcAA0560.jpg",
+            "url": "https://t.co/tac8oq78Nj",
+            "display_url": "pic.twitter.com/tac8oq78Nj",
+            "expanded_url": "https://twitter.com/LaLaChuu/status/1014683182409510913/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1023,
+                "h": 740,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 492,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1023,
+                "h": 740,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1285286270,
+        "id_str": "1285286270",
+        "name": "Lauren Tsai ローレンサイ",
+        "screen_name": "LaLaChuu",
+        "location": "Honolulu, HI",
+        "description": "twitter",
+        "url": "https://t.co/zqpIn6Bi9e",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/zqpIn6Bi9e",
+                "expanded_url": "http://Instagram.com/laurentsai",
+                "display_url": "Instagram.com/laurentsai",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 74947,
+        "friends_count": 51,
+        "listed_count": 206,
+        "created_at": "Thu Mar 21 06:59:15 +0000 2013",
+        "favourites_count": 4678,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2600,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996421886111186944/4O_7rPU5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996421886111186944/4O_7rPU5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285286270/1526400368",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "451617631d24d98c",
+        "url": "https://api.twitter.com/1.1/geo/id/451617631d24d98c.json",
+        "place_type": "city",
+        "name": "目黒区",
+        "full_name": "東京 目黒区",
+        "country_code": "JP",
+        "country": "日本",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                139.661641,
+                35.600599
+              ],
+              [
+                139.717749,
+                35.600599
+              ],
+              [
+                139.717749,
+                35.664149
+              ],
+              [
+                139.661641,
+                35.664149
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 209,
+      "favorite_count": 3088,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 05 00:41:37 +0000 2018",
+    "id": 1014670599766007809,
+    "id_str": "1014670599766007809",
+    "text": "搭捷運時，在車廂之間站著，一腳踩在車廂、另一腳踩在連結踏板上，雙腿與腰部會因為捷運行駛而自然扭動、拉扯、關節上下震盪，是很好的運動機。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 04 12:52:06 +0000 2018",
+    "id": 1014492046533382144,
+    "id_str": "1014492046533382144",
+    "text": "Pinterest 這樣玩是對的嗎⋯⋯ https://t.co/tVvY8jIQkq https://t.co/zA7nmf3SxO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tVvY8jIQkq",
+          "expanded_url": "http://bit.ly/2ITOPTV",
+          "display_url": "bit.ly/2ITOPTV",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1014492038073483264,
+          "id_str": "1014492038073483264",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/DhQzIjTVAAAVh1Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DhQzIjTVAAAVh1Z.jpg",
+          "url": "https://t.co/zA7nmf3SxO",
+          "display_url": "pic.twitter.com/zA7nmf3SxO",
+          "expanded_url": "https://twitter.com/wastemobile/status/1014492046533382144/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 564,
+              "h": 846,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 564,
+              "h": 846,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1014492038073483264,
+          "id_str": "1014492038073483264",
+          "indices": [
+            44,
+            67
+          ],
+          "media_url": "http://pbs.twimg.com/media/DhQzIjTVAAAVh1Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DhQzIjTVAAAVh1Z.jpg",
+          "url": "https://t.co/zA7nmf3SxO",
+          "display_url": "pic.twitter.com/zA7nmf3SxO",
+          "expanded_url": "https://twitter.com/wastemobile/status/1014492046533382144/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 564,
+              "h": 846,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 564,
+              "h": 846,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jul 04 01:42:44 +0000 2018",
     "id": 1014323594212458497,
     "id_str": "1014323594212458497",
