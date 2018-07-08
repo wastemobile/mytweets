@@ -1,5 +1,712 @@
 Grailbird.data.tweets_2018_07 = [
   {
+    "created_at": "Sun Jul 08 06:43:16 +0000 2018",
+    "id": 1015848777544974336,
+    "id_str": "1015848777544974336",
+    "text": "@lwd2136 iA, Ulysses，實在分不了類的就用 Evernote。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lwd2136",
+          "name": "诸侯刘",
+          "id": 46890523,
+          "id_str": "46890523",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": 1015848425273741312,
+    "in_reply_to_status_id_str": "1015848425273741312",
+    "in_reply_to_user_id": 46890523,
+    "in_reply_to_user_id_str": "46890523",
+    "in_reply_to_screen_name": "lwd2136",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 08 06:11:33 +0000 2018",
+    "id": 1015840793582395392,
+    "id_str": "1015840793582395392",
+    "text": "想蒐藏一本。 https://t.co/A8LwTsNPFY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/A8LwTsNPFY",
+          "expanded_url": "https://twitter.com/StarKnight/status/1015830942458368000",
+          "display_url": "twitter.com/StarKnight/sta…",
+          "indices": [
+            7,
+            30
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1015830942458368000,
+    "quoted_status_id_str": "1015830942458368000",
+    "quoted_status": {
+      "created_at": "Sun Jul 08 05:32:24 +0000 2018",
+      "id": 1015830942458368000,
+      "id_str": "1015830942458368000",
+      "text": "传说中的《十万个为什么》文革版，定价4角6分。 https://t.co/y97755GlEb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1015830937634889729,
+            "id_str": "1015830937634889729",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dhj02w2UYAEF5H_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dhj02w2UYAEF5H_.jpg",
+            "url": "https://t.co/y97755GlEb",
+            "display_url": "pic.twitter.com/y97755GlEb",
+            "expanded_url": "https://twitter.com/StarKnight/status/1015830942458368000/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1015830937634889729,
+            "id_str": "1015830937634889729",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dhj02w2UYAEF5H_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dhj02w2UYAEF5H_.jpg",
+            "url": "https://t.co/y97755GlEb",
+            "display_url": "pic.twitter.com/y97755GlEb",
+            "expanded_url": "https://twitter.com/StarKnight/status/1015830942458368000/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1015830937630674944,
+            "id_str": "1015830937630674944",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dhj02w1UEAAD2bj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dhj02w1UEAAD2bj.jpg",
+            "url": "https://t.co/y97755GlEb",
+            "display_url": "pic.twitter.com/y97755GlEb",
+            "expanded_url": "https://twitter.com/StarKnight/status/1015830942458368000/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1015830937643257856,
+            "id_str": "1015830937643257856",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dhj02w4UEAA6SS_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dhj02w4UEAA6SS_.jpg",
+            "url": "https://t.co/y97755GlEb",
+            "display_url": "pic.twitter.com/y97755GlEb",
+            "expanded_url": "https://twitter.com/StarKnight/status/1015830942458368000/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1015830937634918403,
+            "id_str": "1015830937634918403",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dhj02w2U0AMM-MY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dhj02w2U0AMM-MY.jpg",
+            "url": "https://t.co/y97755GlEb",
+            "display_url": "pic.twitter.com/y97755GlEb",
+            "expanded_url": "https://twitter.com/StarKnight/status/1015830942458368000/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 8956502,
+        "id_str": "8956502",
+        "name": "StarKnight",
+        "screen_name": "StarKnight",
+        "location": "Tokyo",
+        "description": "人们对我说：你不过是尘与土。可是他们忘了告诉我，那其实是星星的尘埃。時々日本語。一个小女孩的爸爸。",
+        "url": "https://t.co/Unpd8NU6Lr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Unpd8NU6Lr",
+                "expanded_url": "http://sk2.me",
+                "display_url": "sk2.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 59679,
+        "friends_count": 1502,
+        "listed_count": 599,
+        "created_at": "Tue Sep 18 17:50:58 +0000 2007",
+        "favourites_count": 8959,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 57239,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/956360694449893376/mdxqezhS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/956360694449893376/mdxqezhS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8956502/1356250049",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 126,
+      "favorite_count": 220,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 08 02:49:13 +0000 2018",
+    "id": 1015789876166385665,
+    "id_str": "1015789876166385665",
+    "text": "很好奇這麼厚的讀書日記是誰寫的，才發現作者是在東京開「fuzkue」咖啡館的店主，以「一家可以讀書的店」聞名，嚴禁喧嘩，難怪可以讀那麼多書。 https://t.co/0A3vITpPGF https://t.co/7Zepy5qCvK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0A3vITpPGF",
+          "expanded_url": "http://bit.ly/2KXtURQ",
+          "display_url": "bit.ly/2KXtURQ",
+          "indices": [
+            71,
+            94
+          ]
+        },
+        {
+          "url": "https://t.co/7Zepy5qCvK",
+          "expanded_url": "https://twitter.com/tomodaton/status/1015736408990871552",
+          "display_url": "twitter.com/tomodaton/stat…",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1015736408990871552,
+    "quoted_status_id_str": "1015736408990871552",
+    "quoted_status": {
+      "created_at": "Sat Jul 07 23:16:46 +0000 2018",
+      "id": 1015736408990871552,
+      "id_str": "1015736408990871552",
+      "text": "出張のお供は阿久津隆『読書の日記』。この本の面白さはたぶん付箋だらけのこの写真で十分伝わると思います。気づけば作者が作り出す現実から少しずれた世界に引き込まれている。日記であることをこれほど巧みに逆手に取った作品があっただろうか！ https://t.co/v4Ggx7DtXC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1015736399704649729,
+            "id_str": "1015736399704649729",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dhie37nUcAEwjl4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dhie37nUcAEwjl4.jpg",
+            "url": "https://t.co/v4Ggx7DtXC",
+            "display_url": "pic.twitter.com/v4Ggx7DtXC",
+            "expanded_url": "https://twitter.com/tomodaton/status/1015736408990871552/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1015736399704649729,
+            "id_str": "1015736399704649729",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dhie37nUcAEwjl4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dhie37nUcAEwjl4.jpg",
+            "url": "https://t.co/v4Ggx7DtXC",
+            "display_url": "pic.twitter.com/v4Ggx7DtXC",
+            "expanded_url": "https://twitter.com/tomodaton/status/1015736408990871552/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 124736576,
+        "id_str": "124736576",
+        "name": "友田とん『百年の孤独』を代わりに読む 発売中",
+        "screen_name": "tomodaton",
+        "location": "日本 東京",
+        "description": "読む、呑む、書く。「『百年の孤独』を代わりに読む」を一部書店やBOOTHで発売中です。直取引いただける書店さんも募集中です。https://t.co/KmNTsOSbZ2 @kawariniyomu email: tomoda.ton@gmail.com",
+        "url": "https://t.co/o4RCVJLwFW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/o4RCVJLwFW",
+                "expanded_url": "http://buntaitaisou.hatenadiary.jp",
+                "display_url": "buntaitaisou.hatenadiary.jp",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/KmNTsOSbZ2",
+                "expanded_url": "https://kawariniyomu.booth.pm",
+                "display_url": "kawariniyomu.booth.pm",
+                "indices": [
+                  62,
+                  85
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 619,
+        "friends_count": 624,
+        "listed_count": 13,
+        "created_at": "Sat Mar 20 11:38:49 +0000 2010",
+        "favourites_count": 14485,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11787,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/948697933003735043/K1uk6PyH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/948697933003735043/K1uk6PyH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/124736576/1529965838",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 33,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 08 02:20:29 +0000 2018",
+    "id": 1015782644938764288,
+    "id_str": "1015782644938764288",
+    "text": "@lwd2136 不再用了，覺得沒必要多它一層，新的價格我也不能接受。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lwd2136",
+          "name": "诸侯刘",
+          "id": 46890523,
+          "id_str": "46890523",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1015781376363098112,
+    "in_reply_to_status_id_str": "1015781376363098112",
+    "in_reply_to_user_id": 46890523,
+    "in_reply_to_user_id_str": "46890523",
+    "in_reply_to_screen_name": "lwd2136",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jul 08 01:59:29 +0000 2018",
     "id": 1015777357947211776,
     "id_str": "1015777357947211776",
