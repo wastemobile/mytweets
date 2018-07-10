@@ -1,5 +1,247 @@
 Grailbird.data.tweets_2018_07 = [
   {
+    "created_at": "Tue Jul 10 13:10:21 +0000 2018",
+    "id": 1016670963885228033,
+    "id_str": "1016670963885228033",
+    "text": "剛才一直在跟朋友聊「現在就是侯友宜說要放，柯P說不要，在喬。」\n\n後來才熊熊想起，新北市長還是朱立倫⋯⋯XD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 10 12:23:31 +0000 2018",
+    "id": 1016659179023396864,
+    "id_str": "1016659179023396864",
+    "text": "RT @tuzzi: RSS 真的是個好東西。資訊都是按順序送出，沒有什麼算法會幫你篩檢或建議內容。有些還有RSS的訊息來源，還是改到 RSS Reader 去閱讀就好。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tuzzi",
+          "name": "tuzzi",
+          "id": 17267400,
+          "id_str": "17267400",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jul 10 12:02:25 +0000 2018",
+      "id": 1016653868229259265,
+      "id_str": "1016653868229259265",
+      "text": "RSS 真的是個好東西。資訊都是按順序送出，沒有什麼算法會幫你篩檢或建議內容。有些還有RSS的訊息來源，還是改到 RSS Reader 去閱讀就好。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17267400,
+        "id_str": "17267400",
+        "name": "tuzzi",
+        "screen_name": "tuzzi",
+        "location": "Taiwan",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1535,
+        "friends_count": 469,
+        "listed_count": 50,
+        "created_at": "Sun Nov 09 11:31:58 +0000 2008",
+        "favourites_count": 1932,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 34855,
+        "lang": "de",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/870619309290147842/vJiTOohV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/870619309290147842/vJiTOohV_normal.jpg",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 10 11:38:00 +0000 2018",
+    "id": 1016647725763342336,
+    "id_str": "1016647725763342336",
+    "text": "Amazon KDP 增加了「發行」到美國「其他通路」的擴增選項，包含線上、實體與經銷商，但資訊傳遞過去不保證一定會被訂購。印出紙書在亞馬遜上銷售收益是「定價六成再減印刷費」，發行則是四成。\n\nKDP Print Expands… https://t.co/TUprFQUDMp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TUprFQUDMp",
+          "expanded_url": "https://twitter.com/i/web/status/1016647725763342336",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jul 10 10:29:21 +0000 2018",
     "id": 1016630449785860096,
     "id_str": "1016630449785860096",
