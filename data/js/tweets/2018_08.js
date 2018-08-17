@@ -1,5 +1,51 @@
 Grailbird.data.tweets_2018_08 = [
   {
+    "created_at": "Fri Aug 17 16:46:41 +0000 2018",
+    "id": 1030496144860753920,
+    "id_str": "1030496144860753920",
+    "text": "在緊縮 API 之前，先頻繁、大幅更新官方 App 這事 Twitter 都不做，現在出來放什麼屁啊。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Aug 17 13:20:09 +0000 2018",
     "id": 1030444170547159040,
     "id_str": "1030444170547159040",
