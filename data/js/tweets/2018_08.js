@@ -1,5 +1,503 @@
 Grailbird.data.tweets_2018_08 = [
   {
+    "created_at": "Fri Aug 24 15:14:35 +0000 2018",
+    "id": 1033009685111046145,
+    "id_str": "1033009685111046145",
+    "text": "已經斷了一週有線電視，還沒去研究 MOD、打開電視只看 Netflix 和 YouTube，新聞就看 Google News，聽聽音樂、看看書、整理了 Kindle，還升級了魔獸世界到最新版，覺得很好。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 24 15:08:23 +0000 2018",
+    "id": 1033008123148038150,
+    "id_str": "1033008123148038150",
+    "text": "果然親不親故鄉人（雖然已經嫁出去了⋯⋯），加拿大電子書發行通路供應比率 Kobo 居然以 98％ 超過 Amazon 的 94％（不是營收）。\n\n加拿大五年份的電子書報告，免費下載。 https://t.co/4JBAmgSh0X https://t.co/z1vJbDpORz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4JBAmgSh0X",
+          "expanded_url": "http://bit.ly/2LoNVju",
+          "display_url": "bit.ly/2LoNVju",
+          "indices": [
+            92,
+            115
+          ]
+        },
+        {
+          "url": "https://t.co/z1vJbDpORz",
+          "expanded_url": "https://twitter.com/BookNet_Canada/status/1033005266399318016",
+          "display_url": "twitter.com/BookNet_Canada…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1033005266399318016,
+    "quoted_status_id_str": "1033005266399318016",
+    "quoted_status": {
+      "created_at": "Fri Aug 24 14:57:02 +0000 2018",
+      "id": 1033005266399318016,
+      "id_str": "1033005266399318016",
+      "text": "98% of publishers use @kobo as a platform to sell digital content. Find out more in our latest report on The State… https://t.co/a9PQ3qJltb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "kobo",
+            "name": "Kobo",
+            "id": 17348224,
+            "id_str": "17348224",
+            "indices": [
+              22,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/a9PQ3qJltb",
+            "expanded_url": "https://twitter.com/i/web/status/1033005266399318016",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14615687,
+        "id_str": "14615687",
+        "name": "BookNet Canada",
+        "screen_name": "BookNet_Canada",
+        "location": "Toronto",
+        "description": "BookNet Canada builds technology solutions that make it easier for Canadians to promote and sell books. Follow us for book industry news and BNC updates.",
+        "url": "https://t.co/CgQq5ee1xr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CgQq5ee1xr",
+                "expanded_url": "http://www.booknetcanada.ca",
+                "display_url": "booknetcanada.ca",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8087,
+        "friends_count": 793,
+        "listed_count": 502,
+        "created_at": "Thu May 01 15:52:55 +0000 2008",
+        "favourites_count": 3170,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 10272,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "789997",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/925714874193162240/bISgl906_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925714874193162240/bISgl906_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14615687/1405973410",
+        "profile_link_color": "4D8FAA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5F5F5",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 24 14:12:08 +0000 2018",
+    "id": 1032993967804018688,
+    "id_str": "1032993967804018688",
+    "text": "可惡，太想要一疊當便條紙！ https://t.co/FkEJOt6sXc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FkEJOt6sXc",
+          "expanded_url": "https://twitter.com/khootiatling/status/1032993403993116673",
+          "display_url": "twitter.com/khootiatling/s…",
+          "indices": [
+            14,
+            37
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1032993403993116673,
+    "quoted_status_id_str": "1032993403993116673",
+    "quoted_status": {
+      "created_at": "Fri Aug 24 14:09:54 +0000 2018",
+      "id": 1032993403993116673,
+      "id_str": "1032993403993116673",
+      "text": "收訊不良也能安心　「紙製 Twitter」開始配發 https://t.co/xufMKvmxK3 https://t.co/xlOQGPp7Kw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xufMKvmxK3",
+            "expanded_url": "http://kyoko-np.net/2017090801.html",
+            "display_url": "kyoko-np.net/2017090801.html",
+            "indices": [
+              26,
+              49
+            ]
+          },
+          {
+            "url": "https://t.co/xlOQGPp7Kw",
+            "expanded_url": "https://twitter.com/kyokoarchives/status/1032559646492377088",
+            "display_url": "twitter.com/kyokoarchives/…",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1601325775,
+        "id_str": "1601325775",
+        "name": "Khóo",
+        "screen_name": "khootiatling",
+        "location": "高雄市, 台灣",
+        "description": "出門小心不要踩到槍。",
+        "url": "https://t.co/bUyt6zANkg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/bUyt6zANkg",
+                "expanded_url": "http://khootiatling.com",
+                "display_url": "khootiatling.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1525,
+        "friends_count": 103,
+        "listed_count": 46,
+        "created_at": "Wed Jul 17 16:14:22 +0000 2013",
+        "favourites_count": 35327,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 60652,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/993073956457398273/EP58KRbU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/993073956457398273/EP58KRbU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601325775/1525602275",
+        "profile_link_color": "333333",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00dcc81a0ec32f15",
+        "url": "https://api.twitter.com/1.1/geo/id/00dcc81a0ec32f15.json",
+        "place_type": "city",
+        "name": "高雄市",
+        "full_name": "高雄市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                120.175705,
+                22.475809
+              ],
+              [
+                121.048993,
+                22.475809
+              ],
+              [
+                121.048993,
+                23.471773
+              ],
+              [
+                120.175705,
+                23.471773
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1032559646492377088,
+      "quoted_status_id_str": "1032559646492377088",
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 24 13:49:20 +0000 2018",
+    "id": 1032988228385566720,
+    "id_str": "1032988228385566720",
+    "text": "@thecat 明天是個好時機問問 Jobs ⋯⋯😎",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1032987532273704963,
+    "in_reply_to_status_id_str": "1032987532273704963",
+    "in_reply_to_user_id": 807633,
+    "in_reply_to_user_id_str": "807633",
+    "in_reply_to_screen_name": "thecat",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Aug 24 11:14:36 +0000 2018",
     "id": 1032949290467905538,
     "id_str": "1032949290467905538",
