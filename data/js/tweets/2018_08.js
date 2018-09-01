@@ -1,5 +1,241 @@
 Grailbird.data.tweets_2018_08 = [
   {
+    "created_at": "Fri Aug 31 23:52:17 +0000 2018",
+    "id": 1035676679845306368,
+    "id_str": "1035676679845306368",
+    "text": "傾所有資源認證誰是豬頭🐷 https://t.co/0awQIqPTYu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0awQIqPTYu",
+          "expanded_url": "https://twitter.com/pzo5xk2su74dibw/status/1035368777045536768",
+          "display_url": "twitter.com/pzo5xk2su74dib…",
+          "indices": [
+            13,
+            36
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1035368777045536768,
+    "quoted_status_id_str": "1035368777045536768",
+    "quoted_status": {
+      "created_at": "Fri Aug 31 03:28:47 +0000 2018",
+      "id": 1035368777045536768,
+      "id_str": "1035368777045536768",
+      "text": "最新消息。一句微信群中“习猪头最近怎么样啊？好长时间没看新闻联播了”。拘留，罚款。 https://t.co/r50LS6Rhbj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1035368762155757568,
+            "id_str": "1035368762155757568",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dl5eZ0_UcAAXKdv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dl5eZ0_UcAAXKdv.jpg",
+            "url": "https://t.co/r50LS6Rhbj",
+            "display_url": "pic.twitter.com/r50LS6Rhbj",
+            "expanded_url": "https://twitter.com/pZO5xK2Su74DiBW/status/1035368777045536768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1440,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1035368762155757568,
+            "id_str": "1035368762155757568",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dl5eZ0_UcAAXKdv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dl5eZ0_UcAAXKdv.jpg",
+            "url": "https://t.co/r50LS6Rhbj",
+            "display_url": "pic.twitter.com/r50LS6Rhbj",
+            "expanded_url": "https://twitter.com/pZO5xK2Su74DiBW/status/1035368777045536768/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1440,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1031867910015213568,
+        "id_str": "1031867910015213568",
+        "name": "曾宁",
+        "screen_name": "pZO5xK2Su74DiBW",
+        "location": "贵州贵阳",
+        "description": "曾宁，67年生，湖南新宁人。89入狱一个半月。91年因为撰写《中国民主改革纲领》判刑4年。95年因民主党入狱2年。民主党人。关注话题：时政，人权，民生，国际政治，文化，宗教等。",
+        "url": "https://t.co/E3yEFsDlV8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/E3yEFsDlV8",
+                "expanded_url": "http://blog.boxun.com/hero/zengning",
+                "display_url": "blog.boxun.com/hero/zengning",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1223,
+        "friends_count": 111,
+        "listed_count": 5,
+        "created_at": "Tue Aug 21 11:37:35 +0000 2018",
+        "favourites_count": 303,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 626,
+        "lang": "zh-CN",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1032610865915154433/Gzg7rCTh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032610865915154433/Gzg7rCTh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1031867910015213568/1535027538",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 627,
+      "favorite_count": 818,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Aug 31 04:31:36 +0000 2018",
     "id": 1035384584253263872,
     "id_str": "1035384584253263872",
