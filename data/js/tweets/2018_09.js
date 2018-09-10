@@ -1,5 +1,243 @@
 Grailbird.data.tweets_2018_09 = [
   {
+    "created_at": "Sun Sep 09 14:04:19 +0000 2018",
+    "id": 1038790206348918784,
+    "id_str": "1038790206348918784",
+    "text": "西班牙劇《紙房子》 #Netflix 非常好看，會看到停不下來的那種。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            10,
+            18
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 09 02:42:27 +0000 2018",
+    "id": 1038618608555909120,
+    "id_str": "1038618608555909120",
+    "text": "尋求靈魂的現代人⋯⋯XD https://t.co/MheLXbxyv6  https://t.co/VaOAXsR9rF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MheLXbxyv6",
+          "expanded_url": "https://www.instagram.com/miakerin/",
+          "display_url": "instagram.com/miakerin/",
+          "indices": [
+            13,
+            36
+          ]
+        },
+        {
+          "url": "https://t.co/VaOAXsR9rF",
+          "expanded_url": "https://www.instagram.com/p/BncATo4gHv0/?utm_source=ig_web_button_share_sheet",
+          "display_url": "instagram.com/p/BncATo4gHv0/…",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 09 01:13:05 +0000 2018",
+    "id": 1038596116780961792,
+    "id_str": "1038596116780961792",
+    "text": "剛用 45 折買了這本科幻加奇幻的怪書，還沒看，所以引麥可．謝朋的說法：「⋯⋯讓我聯想到《天堂的車床》、《雲圖》跟《最後的國度》這類的傑作，有這般膽識的小說為數並不多，剛剛又多了一本。」他說的我信。 #KOBO2HBD\n\n群鳥飛舞… https://t.co/xJ9aXOZawU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KOBO2HBD",
+          "indices": [
+            100,
+            109
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xJ9aXOZawU",
+          "expanded_url": "https://twitter.com/i/web/status/1038596116780961792",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 09 01:05:59 +0000 2018",
+    "id": 1038594333681770496,
+    "id_str": "1038594333681770496",
+    "text": "科幻短篇很適合電子書，考德懷納的尤其適合，因為許多篇章都會讓人重讀數次，不是因為知識密度高，而是他「想得極深」，當代許多科幻故事抽絲剝繭後都回溯到他的靈光乍現。與中國有關的隱喻異常有趣，玻璃心者不宜。 #KOBO2HBD\n\n人類補… https://t.co/OWHSOaCDZg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KOBO2HBD",
+          "indices": [
+            101,
+            110
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OWHSOaCDZg",
+          "expanded_url": "https://twitter.com/i/web/status/1038594333681770496",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 08 09:08:05 +0000 2018",
     "id": 1038353266390650880,
     "id_str": "1038353266390650880",
