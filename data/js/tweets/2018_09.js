@@ -1,5 +1,633 @@
 Grailbird.data.tweets_2018_09 = [
   {
+    "created_at": "Fri Sep 21 02:25:03 +0000 2018",
+    "id": 1042962882898550784,
+    "id_str": "1042962882898550784",
+    "text": "Kobo 與 Apple iBooks 電子書暢銷榜的計算，「預購」的權重比較高：Kobo 是預購當時直接計兩本，iBooks 是預購時計一次、正式出版時再計一次。Amazon Kindle 的預購則無任何加權。\n\n#冷知識",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "冷知識",
+          "indices": [
+            108,
+            112
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 21 02:00:17 +0000 2018",
+    "id": 1042956650015932416,
+    "id_str": "1042956650015932416",
+    "text": "紐約公共圖書館推出了三本 Insta Novels（以 Instagram 呈現的經典小說），其實除了開場的炫目動畫外，後面就是一張張文字圖，這樣有比較吸引年輕人嗎？\n\nInsta Novels: Bringing Classic… https://t.co/l1FRbWGuhm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/l1FRbWGuhm",
+          "expanded_url": "https://twitter.com/i/web/status/1042956650015932416",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 21 01:50:58 +0000 2018",
+    "id": 1042954307392364544,
+    "id_str": "1042954307392364544",
+    "text": "常言道：「人無癖不可與交，以其無深情也；人無疵不可與交，以其無真氣也。」（推這句話，但收藏藝術品？別鬧了⋯⋯）\n\n伍常：人無收藏癖不可與交 https://t.co/vSBRLFpvG7 https://t.co/ULcpeA4Sgg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vSBRLFpvG7",
+          "expanded_url": "http://bit.ly/2OELfRf",
+          "display_url": "bit.ly/2OELfRf",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1042954297204387844,
+          "id_str": "1042954297204387844",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlRaFHVsAQt3NM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlRaFHVsAQt3NM.jpg",
+          "url": "https://t.co/ULcpeA4Sgg",
+          "display_url": "pic.twitter.com/ULcpeA4Sgg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1042954307392364544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1158,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1243,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 656,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1042954297204387844,
+          "id_str": "1042954297204387844",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlRaFHVsAQt3NM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlRaFHVsAQt3NM.jpg",
+          "url": "https://t.co/ULcpeA4Sgg",
+          "display_url": "pic.twitter.com/ULcpeA4Sgg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1042954307392364544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1158,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1243,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 656,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 21 01:47:25 +0000 2018",
+    "id": 1042953412898254853,
+    "id_str": "1042953412898254853",
+    "text": "有點厲害的玩具。（注意：是玩具）\n\n一台主攻 90 後的黑膠音響— DUO，合體可放黑膠、分開可聽藍牙 https://t.co/BYb0vjIT42 https://t.co/aCS1GE2vO7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BYb0vjIT42",
+          "expanded_url": "http://bit.ly/2OGSpoe",
+          "display_url": "bit.ly/2OGSpoe",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1042953400118173696,
+          "id_str": "1042953400118173696",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlQl3NUYAAhJ-a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlQl3NUYAAhJ-a.jpg",
+          "url": "https://t.co/aCS1GE2vO7",
+          "display_url": "pic.twitter.com/aCS1GE2vO7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1042953412898254853/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1042953400118173696,
+          "id_str": "1042953400118173696",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlQl3NUYAAhJ-a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlQl3NUYAAhJ-a.jpg",
+          "url": "https://t.co/aCS1GE2vO7",
+          "display_url": "pic.twitter.com/aCS1GE2vO7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1042953412898254853/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1042953401292677120,
+          "id_str": "1042953401292677120",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/DnlQl7lV4AARISH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DnlQl7lV4AARISH.jpg",
+          "url": "https://t.co/aCS1GE2vO7",
+          "display_url": "pic.twitter.com/aCS1GE2vO7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1042953412898254853/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 21 01:43:30 +0000 2018",
+    "id": 1042952425789808640,
+    "id_str": "1042952425789808640",
+    "text": "Kindle 吃到飽服務基金連續 49 個月幾乎都是上升趨勢，很難說已經趨近該服務平衡，但 Amazon 最後會是贏家。\n\nKindle Unlimited Funding Pool Grew in August 2018 Whi… https://t.co/dPZwnJjmES",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dPZwnJjmES",
+          "expanded_url": "https://twitter.com/i/web/status/1042952425789808640",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 20 23:44:44 +0000 2018",
+    "id": 1042922539964456960,
+    "id_str": "1042922539964456960",
+    "text": "RT @BookNet_Canada: The most used ebook retailers by Canadian firms are:\n• Kobo (used by 98% of publishers)\n• Amazon (used by 94% of publis…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "BookNet_Canada",
+          "name": "BookNet Canada",
+          "id": 14615687,
+          "id_str": "14615687",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Sep 20 19:51:36 +0000 2018",
+      "id": 1042863869461520384,
+      "id_str": "1042863869461520384",
+      "text": "The most used ebook retailers by Canadian firms are:\n• Kobo (used by 98% of publishers)\n• Amazon (used by 94% of pu… https://t.co/MTygiLPpWd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/MTygiLPpWd",
+            "expanded_url": "https://twitter.com/i/web/status/1042863869461520384",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1042863868387713024,
+      "in_reply_to_status_id_str": "1042863868387713024",
+      "in_reply_to_user_id": 14615687,
+      "in_reply_to_user_id_str": "14615687",
+      "in_reply_to_screen_name": "BookNet_Canada",
+      "user": {
+        "id": 14615687,
+        "id_str": "14615687",
+        "name": "BookNet Canada",
+        "screen_name": "BookNet_Canada",
+        "location": "Toronto",
+        "description": "BookNet Canada builds technology solutions that make it easier for Canadians to promote and sell books. Follow us for book industry news and BNC updates.",
+        "url": "https://t.co/CgQq5ee1xr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CgQq5ee1xr",
+                "expanded_url": "http://www.booknetcanada.ca",
+                "display_url": "booknetcanada.ca",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8102,
+        "friends_count": 794,
+        "listed_count": 501,
+        "created_at": "Thu May 01 15:52:55 +0000 2008",
+        "favourites_count": 3164,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 10381,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "789997",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/925714874193162240/bISgl906_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925714874193162240/bISgl906_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14615687/1405973410",
+        "profile_link_color": "4D8FAA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5F5F5",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Thu Sep 20 13:46:45 +0000 2018",
     "id": 1042772049893052416,
     "id_str": "1042772049893052416",
