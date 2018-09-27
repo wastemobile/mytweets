@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2018_09 = [
   {
+    "created_at": "Wed Sep 26 16:20:22 +0000 2018",
+    "id": 1044985038989750272,
+    "id_str": "1044985038989750272",
+    "text": "iA Writer 5.1.2 just fixed my hashtags problem! Great Job! https://t.co/MBq4TEDnfv https://t.co/3tUBXRZjd1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MBq4TEDnfv",
+          "expanded_url": "http://bit.ly/2QaDMKa",
+          "display_url": "bit.ly/2QaDMKa",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1044985028726276096,
+          "id_str": "1044985028726276096",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoCIWNjUwAANnYN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoCIWNjUwAANnYN.jpg",
+          "url": "https://t.co/3tUBXRZjd1",
+          "display_url": "pic.twitter.com/3tUBXRZjd1",
+          "expanded_url": "https://twitter.com/wastemobile/status/1044985038989750272/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 286,
+              "h": 476,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 286,
+              "h": 476,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 286,
+              "h": 476,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1044985028726276096,
+          "id_str": "1044985028726276096",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/DoCIWNjUwAANnYN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DoCIWNjUwAANnYN.jpg",
+          "url": "https://t.co/3tUBXRZjd1",
+          "display_url": "pic.twitter.com/3tUBXRZjd1",
+          "expanded_url": "https://twitter.com/wastemobile/status/1044985038989750272/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 286,
+              "h": 476,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 286,
+              "h": 476,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 286,
+              "h": 476,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Sep 26 01:00:10 +0000 2018",
     "id": 1044753460816576512,
     "id_str": "1044753460816576512",
