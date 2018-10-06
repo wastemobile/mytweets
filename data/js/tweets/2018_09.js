@@ -1,5 +1,584 @@
 Grailbird.data.tweets_2018_09 = [
   {
+    "created_at": "Sun Sep 30 15:45:15 +0000 2018",
+    "id": 1046425751489118208,
+    "id_str": "1046425751489118208",
+    "text": "RT @loweruuu: 「性解放是讓我們拓展對於性的想像，理解接納別人可能有不一樣的性慾。妳不用實踐妳不喜歡的性，妳也可能對性很有自己的見解，但性解放要說的是當面對著不一樣的性，妳不用急著拿自己的性想像強加在別人身上。」－汪綺",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "loweruuu",
+          "name": "小寫日子",
+          "id": 1040825480608247809,
+          "id_str": "1040825480608247809",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Sep 28 09:23:01 +0000 2018",
+      "id": 1045604785666187264,
+      "id_str": "1045604785666187264",
+      "text": "「性解放是讓我們拓展對於性的想像，理解接納別人可能有不一樣的性慾。妳不用實踐妳不喜歡的性，妳也可能對性很有自己的見解，但性解放要說的是當面對著不一樣的性，妳不用急著拿自己的性想像強加在別人身上。」－汪綺",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1040825480608247809,
+        "id_str": "1040825480608247809",
+        "name": "小寫日子",
+        "screen_name": "loweruuu",
+        "location": "",
+        "description": "There is no place for fear. No place for panic. No place for mistakes. “With one breath, I'm part of it.”",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 405,
+        "friends_count": 182,
+        "listed_count": 3,
+        "created_at": "Sat Sep 15 04:51:46 +0000 2018",
+        "favourites_count": 297,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 198,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040826797930233856/Fb6m4k5o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040826797930233856/Fb6m4k5o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040825480608247809/1537024642",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 30 15:22:18 +0000 2018",
+    "id": 1046419975248867328,
+    "id_str": "1046419975248867328",
+    "text": "iPhone 的變態尾巴，誰要啊！ https://t.co/XE1gBXROno",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XE1gBXROno",
+          "expanded_url": "https://twitter.com/HCI_Research/status/1046365970317660162",
+          "display_url": "twitter.com/HCI_Research/s…",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1046365970317660162,
+    "quoted_status_id_str": "1046365970317660162",
+    "quoted_status": {
+      "created_at": "Sun Sep 30 11:47:42 +0000 2018",
+      "id": 1046365970317660162,
+      "id_str": "1046365970317660162",
+      "text": "MobiLimb: Augmenting Mobile Devices with a Robotic Limb #UIST2018 @ACMUIST https://t.co/vm0fqHe2ga",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "UIST2018",
+            "indices": [
+              56,
+              65
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "ACMUIST",
+            "name": "UIST 2018",
+            "id": 872344760,
+            "id_str": "872344760",
+            "indices": [
+              66,
+              74
+            ]
+          }
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1046364231472476160,
+            "id_str": "1046364231472476160",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DoVuuYKXcAAv4cp.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DoVuuYKXcAAv4cp.jpg",
+            "url": "https://t.co/vm0fqHe2ga",
+            "display_url": "pic.twitter.com/vm0fqHe2ga",
+            "expanded_url": "https://twitter.com/HCI_Research/status/1046365970317660162/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1046364231472476160,
+            "id_str": "1046364231472476160",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/DoVuuYKXcAAv4cp.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DoVuuYKXcAAv4cp.jpg",
+            "url": "https://t.co/vm0fqHe2ga",
+            "display_url": "pic.twitter.com/vm0fqHe2ga",
+            "expanded_url": "https://twitter.com/HCI_Research/status/1046365970317660162/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/DoVuuYKXcAAv4cp.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1889160704,
+        "id_str": "1889160704",
+        "name": "HCI Research",
+        "screen_name": "HCI_Research",
+        "location": "",
+        "description": "Best #HCI news, remember you see it here first, credits and retweets are much appreciated.",
+        "url": "https://t.co/0PKM9ajeAO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/0PKM9ajeAO",
+                "expanded_url": "https://www.facebook.com/HCI.Research",
+                "display_url": "facebook.com/HCI.Research",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1429,
+        "friends_count": 1252,
+        "listed_count": 80,
+        "created_at": "Sat Sep 21 06:38:50 +0000 2013",
+        "favourites_count": 1524,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6563,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/569094864411709440/LyxEP3f4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/569094864411709440/LyxEP3f4_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889160704/1424517716",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 431,
+      "favorite_count": 753,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 30 14:26:08 +0000 2018",
+    "id": 1046405840134004736,
+    "id_str": "1046405840134004736",
+    "text": "RT @lovecankill: 開始聽書吧！Audible 新手攻略 https://t.co/3dfF0UXEOF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lovecankill",
+          "name": "lovecankill",
+          "id": 9373552,
+          "id_str": "9373552",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3dfF0UXEOF",
+          "expanded_url": "https://medium.com/@tzungyujadefu/%E9%96%8B%E5%A7%8B%E8%81%BD%E6%9B%B8%E5%90%A7-audible-%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5-9c1da64f7138?source=userActivityShare-8864a3c5ab53-1538301843",
+          "display_url": "medium.com/@tzungyujadefu…",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Sep 30 10:04:09 +0000 2018",
+      "id": 1046339912767664128,
+      "id_str": "1046339912767664128",
+      "text": "開始聽書吧！Audible 新手攻略 https://t.co/3dfF0UXEOF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/3dfF0UXEOF",
+            "expanded_url": "https://medium.com/@tzungyujadefu/%E9%96%8B%E5%A7%8B%E8%81%BD%E6%9B%B8%E5%90%A7-audible-%E6%96%B0%E6%89%8B%E6%94%BB%E7%95%A5-9c1da64f7138?source=userActivityShare-8864a3c5ab53-1538301843",
+            "display_url": "medium.com/@tzungyujadefu…",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 9373552,
+        "id_str": "9373552",
+        "name": "lovecankill",
+        "screen_name": "lovecankill",
+        "location": "Taipei, Taiwan",
+        "description": "曾經是文青，現在是碼工。曾經是丈夫，現在是父親",
+        "url": "https://t.co/HuOFhLz9SV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/HuOFhLz9SV",
+                "expanded_url": "http://lovecankill.com",
+                "display_url": "lovecankill.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1469,
+        "friends_count": 2564,
+        "listed_count": 51,
+        "created_at": "Thu Oct 11 10:04:45 +0000 2007",
+        "favourites_count": 15247,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18396,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1011015971446800384/5M1mCH0u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011015971446800384/5M1mCH0u_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9373552/1492657262",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 29 07:51:58 +0000 2018",
     "id": 1045944259407302656,
     "id_str": "1045944259407302656",
