@@ -1,5 +1,377 @@
 Grailbird.data.tweets_2018_10 = [
   {
+    "created_at": "Wed Oct 10 07:47:26 +0000 2018",
+    "id": 1049929383861878789,
+    "id_str": "1049929383861878789",
+    "text": "我家胖胖應該是碩貓 Heftychonk 等級了（挺胸～）\n\n#Meme：你的猫有多胖？现在有一个专业判断标准了 https://t.co/2gGPcznDY5 https://t.co/8oiPJPs5vx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Meme",
+          "indices": [
+            31,
+            36
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2gGPcznDY5",
+          "expanded_url": "http://bit.ly/2IQaqOY",
+          "display_url": "bit.ly/2IQaqOY",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1049929375745957888,
+          "id_str": "1049929375745957888",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpIZNFiV4AAvxN2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpIZNFiV4AAvxN2.jpg",
+          "url": "https://t.co/8oiPJPs5vx",
+          "display_url": "pic.twitter.com/8oiPJPs5vx",
+          "expanded_url": "https://twitter.com/wastemobile/status/1049929383861878789/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 750,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1049929375745957888,
+          "id_str": "1049929375745957888",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpIZNFiV4AAvxN2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpIZNFiV4AAvxN2.jpg",
+          "url": "https://t.co/8oiPJPs5vx",
+          "display_url": "pic.twitter.com/8oiPJPs5vx",
+          "expanded_url": "https://twitter.com/wastemobile/status/1049929383861878789/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 750,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 10 07:39:04 +0000 2018",
+    "id": 1049927278669352965,
+    "id_str": "1049927278669352965",
+    "text": "這個我可以。話說明年上半影集就最終季了，小說還不知在哪裡啊⋯⋯\n\n行走中的紳士變身「White Walker」，《權力遊戲》X Johnnie Walker 推限定版威士忌！ https://t.co/d1FRM5rCTN https://t.co/mSu0vOOh4z",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d1FRM5rCTN",
+          "expanded_url": "http://bit.ly/2INuotx",
+          "display_url": "bit.ly/2INuotx",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1049927260281552897,
+          "id_str": "1049927260281552897",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpIXR80UwAE358a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpIXR80UwAE358a.jpg",
+          "url": "https://t.co/mSu0vOOh4z",
+          "display_url": "pic.twitter.com/mSu0vOOh4z",
+          "expanded_url": "https://twitter.com/wastemobile/status/1049927278669352965/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 650,
+              "h": 347,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 650,
+              "h": 347,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 650,
+              "h": 347,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1049927260281552897,
+          "id_str": "1049927260281552897",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpIXR80UwAE358a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpIXR80UwAE358a.jpg",
+          "url": "https://t.co/mSu0vOOh4z",
+          "display_url": "pic.twitter.com/mSu0vOOh4z",
+          "expanded_url": "https://twitter.com/wastemobile/status/1049927278669352965/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 650,
+              "h": 347,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 650,
+              "h": 347,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 650,
+              "h": 347,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1049927262135447552,
+          "id_str": "1049927262135447552",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpIXSDuU8AAxj-M.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpIXSDuU8AAxj-M.jpg",
+          "url": "https://t.co/mSu0vOOh4z",
+          "display_url": "pic.twitter.com/mSu0vOOh4z",
+          "expanded_url": "https://twitter.com/wastemobile/status/1049927278669352965/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 650,
+              "h": 433,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 10 06:42:46 +0000 2018",
+    "id": 1049913108255391744,
+    "id_str": "1049913108255391744",
+    "text": "@lis186 好像拿掉 Aura 的訊息了⋯⋯ https://t.co/fvQT9rXBMr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lis186",
+          "name": "Yi-Hsiu Lee",
+          "id": 4018391,
+          "id_str": "4018391",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fvQT9rXBMr",
+          "expanded_url": "https://www.czur.com",
+          "display_url": "czur.com",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1049890308530626560,
+    "in_reply_to_status_id_str": "1049890308530626560",
+    "in_reply_to_user_id": 4018391,
+    "in_reply_to_user_id_str": "4018391",
+    "in_reply_to_screen_name": "lis186",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Oct 10 01:45:11 +0000 2018",
     "id": 1049838219020226560,
     "id_str": "1049838219020226560",
