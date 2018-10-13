@@ -1,5 +1,694 @@
 Grailbird.data.tweets_2018_10 = [
   {
+    "created_at": "Sat Oct 13 03:09:06 +0000 2018",
+    "id": 1050946503265595392,
+    "id_str": "1050946503265595392",
+    "text": "RT @courselee: 早上花不少時間閱讀的文章\nhttps://t.co/EoKGurXvwn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "courselee",
+          "name": "courselee",
+          "id": 400495070,
+          "id_str": "400495070",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EoKGurXvwn",
+          "expanded_url": "https://www.twreporter.org/a/opinion-anti-nuclear-vote",
+          "display_url": "twreporter.org/a/opinion-anti…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Oct 13 02:41:37 +0000 2018",
+      "id": 1050939587701293057,
+      "id_str": "1050939587701293057",
+      "text": "早上花不少時間閱讀的文章\nhttps://t.co/EoKGurXvwn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EoKGurXvwn",
+            "expanded_url": "https://www.twreporter.org/a/opinion-anti-nuclear-vote",
+            "display_url": "twreporter.org/a/opinion-anti…",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 400495070,
+        "id_str": "400495070",
+        "name": "courselee",
+        "screen_name": "courselee",
+        "location": "台灣，台北",
+        "description": "我的流水書影誌。日知錄。沈思錄。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 163,
+        "friends_count": 16,
+        "listed_count": 11,
+        "created_at": "Sat Oct 29 03:56:25 +0000 2011",
+        "favourites_count": 295,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1455,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1611703709/yyyyyy_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611703709/yyyyyy_normal.JPG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/400495070/1397609388",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 13 01:45:54 +0000 2018",
+    "id": 1050925564574412800,
+    "id_str": "1050925564574412800",
+    "text": "與前兩天推過 Medium 獨立作者加速器的文章類似，總之就兩個問題：傳統書業組織統計營收無法納入新興的獨立自助數位出版，而過往以 ISBN 為唯一識別的機制也不足因應。但，都還沒有好的解法。\n\nA Million Indie T… https://t.co/9DE9cntblM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9DE9cntblM",
+          "expanded_url": "https://twitter.com/i/web/status/1050925564574412800",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 13 01:14:27 +0000 2018",
+    "id": 1050917650644197376,
+    "id_str": "1050917650644197376",
+    "text": "不管是否能接受閃靈的音樂，都不能忽視他們一貫的創作精神與主題。\n\n2028：闪灵新专辑《政治》 https://t.co/kgrloA1aHB https://t.co/Pe2qGEVH5c",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kgrloA1aHB",
+          "expanded_url": "http://bit.ly/2NFzWH9",
+          "display_url": "bit.ly/2NFzWH9",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1050917643065016321,
+          "id_str": "1050917643065016321",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpWcB0MUwAEq8v_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpWcB0MUwAEq8v_.jpg",
+          "url": "https://t.co/Pe2qGEVH5c",
+          "display_url": "pic.twitter.com/Pe2qGEVH5c",
+          "expanded_url": "https://twitter.com/wastemobile/status/1050917650644197376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 517,
+              "h": 517,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 517,
+              "h": 517,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 517,
+              "h": 517,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1050917643065016321,
+          "id_str": "1050917643065016321",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpWcB0MUwAEq8v_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpWcB0MUwAEq8v_.jpg",
+          "url": "https://t.co/Pe2qGEVH5c",
+          "display_url": "pic.twitter.com/Pe2qGEVH5c",
+          "expanded_url": "https://twitter.com/wastemobile/status/1050917650644197376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 517,
+              "h": 517,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 517,
+              "h": 517,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 517,
+              "h": 517,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Oct 13 00:21:07 +0000 2018",
+    "id": 1050904226203754496,
+    "id_str": "1050904226203754496",
+    "text": "RT @tonylu915: 我是用 typora 寫稿，用 gitbook-cli 輸出 ePub 檔，進 Calibre 調整目錄，然後輸出完成版的 ePub 及 PDF ，原稿都放 Dropbox 同步，其實還算方便。 https://t.co/CB9TAdFeqi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tonylu915",
+          "name": "t.O.n.Y 🐈",
+          "id": 85267144,
+          "id_str": "85267144",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CB9TAdFeqi",
+          "expanded_url": "https://twitter.com/wastemobile/status/1050684691580243968",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 12 16:27:34 +0000 2018",
+      "id": 1050785056187285504,
+      "id_str": "1050785056187285504",
+      "text": "我是用 typora 寫稿，用 gitbook-cli 輸出 ePub 檔，進 Calibre 調整目錄，然後輸出完成版的 ePub 及 PDF ，原稿都放 Dropbox 同步，其實還算方便。 https://t.co/CB9TAdFeqi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CB9TAdFeqi",
+            "expanded_url": "https://twitter.com/wastemobile/status/1050684691580243968",
+            "display_url": "twitter.com/wastemobile/st…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 85267144,
+        "id_str": "85267144",
+        "name": "t.O.n.Y 🐈",
+        "screen_name": "tonylu915",
+        "location": "Taichung, Taiwan 🇹🇼",
+        "description": "不管你認為自己可以，或認為自己不可以，你都會成為那樣的人。--亨利．福特",
+        "url": "https://t.co/hU3L1rmVD9",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/hU3L1rmVD9",
+                "expanded_url": "http://about.me/tony915",
+                "display_url": "about.me/tony915",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 238,
+        "friends_count": 234,
+        "listed_count": 35,
+        "created_at": "Mon Oct 26 08:14:48 +0000 2009",
+        "favourites_count": 9830,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8080,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/901745748835876864/aS-qDb_6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/901745748835876864/aS-qDb_6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85267144/1495099616",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1050684691580243968,
+      "quoted_status_id_str": "1050684691580243968",
+      "quoted_status": {
+        "created_at": "Fri Oct 12 09:48:45 +0000 2018",
+        "id": 1050684691580243968,
+        "id_str": "1050684691580243968",
+        "text": "這本書把使用 Leanpub 的優缺點與流程寫得蠻清楚的，截圖標示很認真，可參考。\n\n相較 GitBook 來說，在 Leanpub 選擇用 Dropbox 同步很方便，iA Writer 或 Ulysses 都支援外部資料夾，因… https://t.co/mSGahJiLlR",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/mSGahJiLlR",
+              "expanded_url": "https://twitter.com/i/web/status/1050684691580243968",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 20709129,
+          "id_str": "20709129",
+          "name": "wastemobile",
+          "screen_name": "wastemobile",
+          "location": "Taipei",
+          "description": "保持簡單和愚蠢，不過就是世界末日而已。",
+          "url": "https://t.co/5LQVtqARrN",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/5LQVtqARrN",
+                  "expanded_url": "https://wastemobile.github.io/mytweets/",
+                  "display_url": "wastemobile.github.io/mytweets/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 4079,
+          "friends_count": 1100,
+          "listed_count": 126,
+          "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+          "favourites_count": 2936,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 20107,
+          "lang": "zh-tw",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFF04D",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1534132780",
+          "profile_link_color": "0099CC",
+          "profile_sidebar_border_color": "FFF8AD",
+          "profile_sidebar_fill_color": "F6FFD1",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 13,
+        "favorite_count": 34,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 7,
+      "favorite_count": 30,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1050684691580243968,
+    "quoted_status_id_str": "1050684691580243968",
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 12 15:54:21 +0000 2018",
+    "id": 1050776697434398720,
+    "id_str": "1050776697434398720",
+    "text": "Leanpub 免費帳號限制每月只能預覽（＝轉製編譯） 20 次，也只能從三種預設樣式挑一個，好像還是要來改一下 Pandoc Droplets and Services，讓本地轉製電子書可以更方便⋯⋯ https://t.co/8vU8S1Prm5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8vU8S1Prm5",
+          "expanded_url": "http://bit.ly/2pNC46k",
+          "display_url": "bit.ly/2pNC46k",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Oct 12 09:48:45 +0000 2018",
     "id": 1050684691580243968,
     "id_str": "1050684691580243968",
