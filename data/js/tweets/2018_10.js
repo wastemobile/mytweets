@@ -1,5 +1,768 @@
 Grailbird.data.tweets_2018_10 = [
   {
+    "created_at": "Thu Oct 18 02:38:39 +0000 2018",
+    "id": 1052750777628782592,
+    "id_str": "1052750777628782592",
+    "text": "居然打錯，30秒。 https://t.co/WnQ7RC8W3G",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WnQ7RC8W3G",
+          "expanded_url": "https://twitter.com/wastemobile/status/1052733552872153093",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1052733552872153093,
+    "quoted_status_id_str": "1052733552872153093",
+    "quoted_status": {
+      "created_at": "Thu Oct 18 01:30:12 +0000 2018",
+      "id": 1052733552872153093,
+      "id_str": "1052733552872153093",
+      "text": "一本三百頁、印度教授寫的英文書，中國拿區塊鏈（分散運算？）做翻譯，在 30 分鐘內完成、達 95% 的準確率。\n\n說實話，難道不是這本書太差了嗎？既無深刻複雜的語意，也沒有字典找不到的寓意。\n\nHow a 300-page boo… https://t.co/EkYDRuvHIr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EkYDRuvHIr",
+            "expanded_url": "https://twitter.com/i/web/status/1052733552872153093",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "Taipei",
+        "description": "保持簡單和愚蠢，不過就是世界末日而已。",
+        "url": "https://t.co/5LQVtqARrN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LQVtqARrN",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4083,
+        "friends_count": 1099,
+        "listed_count": 126,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 2939,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20120,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1534132780",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 18 01:33:13 +0000 2018",
+    "id": 1052734312276062208,
+    "id_str": "1052734312276062208",
+    "text": "步行城市，一個遠大的夢想。\n\n鐵路失靈，路面癱瘓，何不建設步行城市？ https://t.co/NPwKAQFwlH https://t.co/XI9vTifeRe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NPwKAQFwlH",
+          "expanded_url": "http://bit.ly/2NNjHI8",
+          "display_url": "bit.ly/2NNjHI8",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1052734303954583552,
+          "id_str": "1052734303954583552",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpwQRZYUwAAZ5cN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpwQRZYUwAAZ5cN.jpg",
+          "url": "https://t.co/XI9vTifeRe",
+          "display_url": "pic.twitter.com/XI9vTifeRe",
+          "expanded_url": "https://twitter.com/wastemobile/status/1052734312276062208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1052734303954583552,
+          "id_str": "1052734303954583552",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpwQRZYUwAAZ5cN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpwQRZYUwAAZ5cN.jpg",
+          "url": "https://t.co/XI9vTifeRe",
+          "display_url": "pic.twitter.com/XI9vTifeRe",
+          "expanded_url": "https://twitter.com/wastemobile/status/1052734312276062208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 18 01:30:12 +0000 2018",
+    "id": 1052733552872153093,
+    "id_str": "1052733552872153093",
+    "text": "一本三百頁、印度教授寫的英文書，中國拿區塊鏈（分散運算？）做翻譯，在 30 分鐘內完成、達 95% 的準確率。\n\n說實話，難道不是這本書太差了嗎？既無深刻複雜的語意，也沒有字典找不到的寓意。\n\nHow a 300-page boo… https://t.co/EkYDRuvHIr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EkYDRuvHIr",
+          "expanded_url": "https://twitter.com/i/web/status/1052733552872153093",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 18 01:23:59 +0000 2018",
+    "id": 1052731989378228225,
+    "id_str": "1052731989378228225",
+    "text": "歷史總是不斷重複⋯⋯的理由是？\n\nWalmart Doesn’t Care About Selling eBooks https://t.co/S6bQO9qRgX https://t.co/fuPA1qluon",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/S6bQO9qRgX",
+          "expanded_url": "http://bit.ly/2NHgSZj",
+          "display_url": "bit.ly/2NHgSZj",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1052731985435611136,
+          "id_str": "1052731985435611136",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpwOKcOU0AATtfk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpwOKcOU0AATtfk.jpg",
+          "url": "https://t.co/fuPA1qluon",
+          "display_url": "pic.twitter.com/fuPA1qluon",
+          "expanded_url": "https://twitter.com/wastemobile/status/1052731989378228225/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1052731985435611136,
+          "id_str": "1052731985435611136",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpwOKcOU0AATtfk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpwOKcOU0AATtfk.jpg",
+          "url": "https://t.co/fuPA1qluon",
+          "display_url": "pic.twitter.com/fuPA1qluon",
+          "expanded_url": "https://twitter.com/wastemobile/status/1052731989378228225/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 18 01:22:27 +0000 2018",
+    "id": 1052731603221340161,
+    "id_str": "1052731603221340161",
+    "text": "哈哈哈，果然如此～\n\nYouTube Down, Pornhub Up https://t.co/qqLqY657dg https://t.co/6GAcknjWSn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qqLqY657dg",
+          "expanded_url": "http://bit.ly/2NMh9tL",
+          "display_url": "bit.ly/2NMh9tL",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1052731597252833281,
+          "id_str": "1052731597252833281",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpwNz2IVsAE-6C6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpwNz2IVsAE-6C6.jpg",
+          "url": "https://t.co/6GAcknjWSn",
+          "display_url": "pic.twitter.com/6GAcknjWSn",
+          "expanded_url": "https://twitter.com/wastemobile/status/1052731603221340161/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 613,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 620,
+              "h": 688,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 620,
+              "h": 688,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1052731597252833281,
+          "id_str": "1052731597252833281",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DpwNz2IVsAE-6C6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DpwNz2IVsAE-6C6.jpg",
+          "url": "https://t.co/6GAcknjWSn",
+          "display_url": "pic.twitter.com/6GAcknjWSn",
+          "expanded_url": "https://twitter.com/wastemobile/status/1052731603221340161/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 613,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 620,
+              "h": 688,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 620,
+              "h": 688,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Oct 17 15:08:53 +0000 2018",
+    "id": 1052577195162460161,
+    "id_str": "1052577195162460161",
+    "text": "完全正確。原來其他縣市都不是這樣啊？ https://t.co/DToE682ZbB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DToE682ZbB",
+          "expanded_url": "https://twitter.com/CHl1XIB8ymdrKbC/status/1052556449472118784",
+          "display_url": "twitter.com/CHl1XIB8ymdrKb…",
+          "indices": [
+            19,
+            42
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1052556449472118784,
+    "quoted_status_id_str": "1052556449472118784",
+    "quoted_status": {
+      "created_at": "Wed Oct 17 13:46:27 +0000 2018",
+      "id": 1052556449472118784,
+      "id_str": "1052556449472118784",
+      "text": "忽然想起一個高雄傳奇，以前唸中學的時候，學生最主要的交通工具就是搭公車，從前公車幾乎沒冷氣，前方座椅多是長排對坐的，僅後方有幾個兩人的座位，除了讓位基本禮儀外，學生間還有一個默契，就坐著的學生幫站前方的同學拿書包，不分男女校別都可以，其他縣市不知道有沒有，至少我天龍同學都不相信。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 763257957907701764,
+        "id_str": "763257957907701764",
+        "name": "未來誰知道",
+        "screen_name": "CHl1XIB8ymdrKbC",
+        "location": "",
+        "description": "沒有",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 306,
+        "friends_count": 241,
+        "listed_count": 3,
+        "created_at": "Wed Aug 10 06:17:32 +0000 2016",
+        "favourites_count": 3569,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1342,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/764734039576031232/y9HHpz1Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/764734039576031232/y9HHpz1Z_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 39,
+      "favorite_count": 171,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Oct 17 01:54:54 +0000 2018",
     "id": 1052377380616982528,
     "id_str": "1052377380616982528",
