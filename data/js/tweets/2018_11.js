@@ -1,5 +1,257 @@
 Grailbird.data.tweets_2018_11 = [
   {
+    "created_at": "Sat Nov 10 06:50:24 +0000 2018",
+    "id": 1061149052786495488,
+    "id_str": "1061149052786495488",
+    "text": "新莊土城走一圈，KMT候選人看板上滿是韓國瑜，氣勢根本現任、卸任元首等級，說他只是果菜批發公司卸任老總還真沒人相信。\n\n吳音寧後市可期。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 10 02:46:15 +0000 2018",
+    "id": 1061087613208035328,
+    "id_str": "1061087613208035328",
+    "text": "「播放出來的音樂，也不再如一般發燒友會在意的高音圓融、低音渾厚等標準，反而多了自己的特色。」\n\n播別人的音樂，產生自己的特色？很玄，不懂。\n\n改變你聆聽音樂的習慣，絕對扎實的重量級水泥喇叭「Tone and Tune」… https://t.co/6h6eTq6iPQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6h6eTq6iPQ",
+          "expanded_url": "https://twitter.com/i/web/status/1061087613208035328",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 10 01:37:38 +0000 2018",
+    "id": 1061070346097352704,
+    "id_str": "1061070346097352704",
+    "text": "RT @Dark_E08: 《醜女與野獸》作者芭芭拉‧沃克一針見血的點出了童話的通病：「以往童話故事傳達給女孩的信息：妳的外貌就是妳唯一的資產。不管妳有什麼作為，統統都不值得考慮。女人的醜陋外表就是一項活該遭到處罰的罪惡。而這本故事集中的童話顛覆了這些厭女的訊息。」\n\nhttp…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Dark_E08",
+          "name": "❜ ¾",
+          "id": 14344695,
+          "id_str": "14344695",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 09 16:18:23 +0000 2018",
+      "id": 1060929603487723520,
+      "id_str": "1060929603487723520",
+      "text": "《醜女與野獸》作者芭芭拉‧沃克一針見血的點出了童話的通病：「以往童話故事傳達給女孩的信息：妳的外貌就是妳唯一的資產。不管妳有什麼作為，統統都不值得考慮。女人的醜陋外表就是一項活該遭到處罰的罪惡。而這本故事集中的童話顛覆了這些厭女的… https://t.co/SvuxO8SHRV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SvuxO8SHRV",
+            "expanded_url": "https://twitter.com/i/web/status/1060929603487723520",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14344695,
+        "id_str": "14344695",
+        "name": "❜ ¾",
+        "screen_name": "Dark_E08",
+        "location": "",
+        "description": "經常沒有想要討論的意思 .  C2 - 3097  / 20141120。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1483,
+        "friends_count": 1303,
+        "listed_count": 13,
+        "created_at": "Wed Apr 09 19:27:24 +0000 2008",
+        "favourites_count": 26952,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8718,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1060433631951314944/B7kmhyBn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060433631951314944/B7kmhyBn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14344695/1506538127",
+        "profile_link_color": "7B8C46",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 25,
+      "favorite_count": 86,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Nov 09 17:30:59 +0000 2018",
     "id": 1060947876728066048,
     "id_str": "1060947876728066048",
