@@ -1,5 +1,426 @@
 Grailbird.data.tweets_2018_11 = [
   {
+    "created_at": "Sat Nov 17 12:14:34 +0000 2018",
+    "id": 1063767348534894597,
+    "id_str": "1063767348534894597",
+    "text": "陪酒胖貓咪非常盡責地賣萌中😘 https://t.co/kB6vEXFX9x",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1063767340880293888,
+          "id_str": "1063767340880293888",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/DsNCwqzU8AAPK3i.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DsNCwqzU8AAPK3i.jpg",
+          "url": "https://t.co/kB6vEXFX9x",
+          "display_url": "pic.twitter.com/kB6vEXFX9x",
+          "expanded_url": "https://twitter.com/wastemobile/status/1063767348534894597/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1063767340880293888,
+          "id_str": "1063767340880293888",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/DsNCwqzU8AAPK3i.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DsNCwqzU8AAPK3i.jpg",
+          "url": "https://t.co/kB6vEXFX9x",
+          "display_url": "pic.twitter.com/kB6vEXFX9x",
+          "expanded_url": "https://twitter.com/wastemobile/status/1063767348534894597/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 17 12:08:24 +0000 2018",
+    "id": 1063765798961872896,
+    "id_str": "1063765798961872896",
+    "text": "在 #Netflix 看《人狼》，雖然設定在近未來，卻完全沒有科幻味，劇情頗弱。唯一收穫是確定韓孝周蠻漂亮的。\n\n喔，故事中兩韓正要統一，但台灣在亞洲地圖上還是獨立的喔，呵呵🤭",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            2,
+            10
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 17 11:41:13 +0000 2018",
+    "id": 1063758957246738432,
+    "id_str": "1063758957246738432",
+    "text": "@halden2714 真的，跟自己亂混的完全一樣 XD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "halden2714",
+          "name": "halden = 耗子",
+          "id": 14282045,
+          "id_str": "14282045",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1063757781293907968,
+    "in_reply_to_status_id_str": "1063757781293907968",
+    "in_reply_to_user_id": 14282045,
+    "in_reply_to_user_id_str": "14282045",
+    "in_reply_to_screen_name": "halden2714",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 17 11:32:18 +0000 2018",
+    "id": 1063756712279138304,
+    "id_str": "1063756712279138304",
+    "text": "確認一下威士忌可樂究竟應該是什麼味道。 https://t.co/M5vISiwkP5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1063756704528064512,
+          "id_str": "1063756704528064512",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DsM5FjTV4AAkK-u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DsM5FjTV4AAkK-u.jpg",
+          "url": "https://t.co/M5vISiwkP5",
+          "display_url": "pic.twitter.com/M5vISiwkP5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1063756712279138304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1063756704528064512,
+          "id_str": "1063756704528064512",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/DsM5FjTV4AAkK-u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DsM5FjTV4AAkK-u.jpg",
+          "url": "https://t.co/M5vISiwkP5",
+          "display_url": "pic.twitter.com/M5vISiwkP5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1063756712279138304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 17 02:48:55 +0000 2018",
+    "id": 1063624997283934208,
+    "id_str": "1063624997283934208",
+    "text": "這個夠酸。\n\n【博恩夜夜秀】黃逸豪－護家盟起手式 https://t.co/FGiuJtDPMg 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            52,
+            60
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FGiuJtDPMg",
+          "expanded_url": "https://youtu.be/addk9kwxbq8",
+          "display_url": "youtu.be/addk9kwxbq8",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Nov 16 12:07:17 +0000 2018",
     "id": 1063403129503268864,
     "id_str": "1063403129503268864",
