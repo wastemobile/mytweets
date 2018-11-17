@@ -1,5 +1,529 @@
 Grailbird.data.tweets_2018_11 = [
   {
+    "created_at": "Fri Nov 16 12:07:17 +0000 2018",
+    "id": 1063403129503268864,
+    "id_str": "1063403129503268864",
+    "text": "威士忌加薑汁汽水是正確的，好喝。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 16 08:24:33 +0000 2018",
+    "id": 1063347076078006277,
+    "id_str": "1063347076078006277",
+    "text": "@cynicalo 所以還得有個手搖充電裝置。 #筆記",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "筆記",
+          "indices": [
+            24,
+            27
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cynicalo",
+          "name": "Cynicalo",
+          "id": 98532085,
+          "id_str": "98532085",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1063339851678793728,
+    "in_reply_to_status_id_str": "1063339851678793728",
+    "in_reply_to_user_id": 98532085,
+    "in_reply_to_user_id_str": "98532085",
+    "in_reply_to_screen_name": "cynicalo",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 16 06:34:09 +0000 2018",
+    "id": 1063319292148498432,
+    "id_str": "1063319292148498432",
+    "text": "「⋯⋯我為自己搞定了一組末日專用的 Kindle，裡面裝滿了重建文明所需的知識，有堅固的機殼保護，並內建太陽能充電板。」\n\n我也想來弄一個末日 Kindle 了。\n\n末日來臨前不讓文明瞬間歸零的數位備份指南… https://t.co/8qnt5e2U07",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8qnt5e2U07",
+          "expanded_url": "https://twitter.com/i/web/status/1063319292148498432",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 49,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 16 05:49:29 +0000 2018",
+    "id": 1063308053779365888,
+    "id_str": "1063308053779365888",
+    "text": "隸屬於藍燈書屋的普莉瑪遊戲（美國最大的遊戲攻略本出版商），宣告開始逐步關閉，直到 2019 年 3 月，完全結束營業。\n\n時代就是這樣默默變遷的。\n\nGOODBYE, PRIMA BOOKS—AND FAREWELL TO A C… https://t.co/cVcLpixry2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cVcLpixry2",
+          "expanded_url": "https://twitter.com/i/web/status/1063308053779365888",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 15 02:10:00 +0000 2018",
+    "id": 1062890429048188928,
+    "id_str": "1062890429048188928",
+    "text": "中國網信辦處置近萬自媒體帳號，你還在這場大噤聲風暴中堅持嗎？ https://t.co/C163oT56WN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/C163oT56WN",
+          "expanded_url": "http://bit.ly/2FldFzC",
+          "display_url": "bit.ly/2FldFzC",
+          "indices": [
+            31,
+            54
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1062523092587565057,
+    "in_reply_to_status_id_str": "1062523092587565057",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 15 01:31:40 +0000 2018",
+    "id": 1062880780697759744,
+    "id_str": "1062880780697759744",
+    "text": "台灣的推薦還是很糟。\n\nNetflix 致勝之道：做你心裡的蛔蟲 https://t.co/uR1Z0Xli6t https://t.co/PcgwcAEwOB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uR1Z0Xli6t",
+          "expanded_url": "http://bit.ly/2FqsCjV",
+          "display_url": "bit.ly/2FqsCjV",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1062880770790846464,
+          "id_str": "1062880770790846464",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DsAcbf2U8AAzdcx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DsAcbf2U8AAzdcx.jpg",
+          "url": "https://t.co/PcgwcAEwOB",
+          "display_url": "pic.twitter.com/PcgwcAEwOB",
+          "expanded_url": "https://twitter.com/wastemobile/status/1062880780697759744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1426,
+              "h": 951,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1062880770790846464,
+          "id_str": "1062880770790846464",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/DsAcbf2U8AAzdcx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DsAcbf2U8AAzdcx.jpg",
+          "url": "https://t.co/PcgwcAEwOB",
+          "display_url": "pic.twitter.com/PcgwcAEwOB",
+          "expanded_url": "https://twitter.com/wastemobile/status/1062880780697759744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1426,
+              "h": 951,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 15 01:27:11 +0000 2018",
+    "id": 1062879654254497792,
+    "id_str": "1062879654254497792",
+    "text": "亞馬遜新開了給電子書出版者的銷售報告後台。 \n\nAmazon Launches a New Reports Site for Authors – KDP Reports https://t.co/Z9JXbXBz5e\n\n以前，有各… https://t.co/wcZSWYSido",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z9JXbXBz5e",
+          "expanded_url": "http://bit.ly/2Fq061T",
+          "display_url": "bit.ly/2Fq061T",
+          "indices": [
+            85,
+            108
+          ]
+        },
+        {
+          "url": "https://t.co/wcZSWYSido",
+          "expanded_url": "https://twitter.com/i/web/status/1062879654254497792",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 14 16:41:41 +0000 2018",
+    "id": 1062747409380339713,
+    "id_str": "1062747409380339713",
+    "text": "@asum 讀冊、露天、雅虎拍賣，三家都得找找，碰運氣。\n\n讀冊個資疑慮仍在，但不妨註冊個新帳號、使用超商取貨付款，只需電郵、收貨人（編個名字）、手機末三碼即可。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "asum",
+          "name": "阿森",
+          "id": 4165511,
+          "id_str": "4165511",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1062646472997449728,
+    "in_reply_to_status_id_str": "1062646472997449728",
+    "in_reply_to_user_id": 4165511,
+    "in_reply_to_user_id_str": "4165511",
+    "in_reply_to_screen_name": "asum",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Nov 14 10:58:15 +0000 2018",
     "id": 1062660980122021888,
     "id_str": "1062660980122021888",
