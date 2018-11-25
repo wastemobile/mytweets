@@ -1,5 +1,500 @@
 Grailbird.data.tweets_2018_11 = [
   {
+    "created_at": "Sun Nov 25 04:12:02 +0000 2018",
+    "id": 1066545019899674624,
+    "id_str": "1066545019899674624",
+    "text": "RT @faa_gui: 接著幾年，可以成為台灣獨立音樂的大好時代吧。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "faa_gui",
+          "name": "fagui",
+          "id": 1259849810,
+          "id_str": "1259849810",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 25 04:11:18 +0000 2018",
+      "id": 1066544835887132672,
+      "id_str": "1066544835887132672",
+      "text": "接著幾年，可以成為台灣獨立音樂的大好時代吧。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1259849810,
+        "id_str": "1259849810",
+        "name": "fagui",
+        "screen_name": "faa_gui",
+        "location": "",
+        "description": "視而不見，充耳不聞；保持幽默，將錯就錯。溝通無用，放棄最大；小輸為贏，安全下莊。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 666,
+        "friends_count": 688,
+        "listed_count": 6,
+        "created_at": "Mon Mar 11 16:23:52 +0000 2013",
+        "favourites_count": 1354,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3779,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/794011547693551620/fGGffFp6_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": true,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 24 15:49:26 +0000 2018",
+    "id": 1066358136938749952,
+    "id_str": "1066358136938749952",
+    "text": "RT @Ken: 今日總結。 https://t.co/giOd7ZTfI2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Ken",
+          "name": "Ken ",
+          "id": 625023,
+          "id_str": "625023",
+          "indices": [
+            3,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1066355851911323648,
+          "id_str": "1066355851911323648",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dsx0_11VYAAqcBn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dsx0_11VYAAqcBn.jpg",
+          "url": "https://t.co/giOd7ZTfI2",
+          "display_url": "pic.twitter.com/giOd7ZTfI2",
+          "expanded_url": "https://twitter.com/Ken/status/1066355864880070656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 612,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 864,
+              "h": 960,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 864,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1066355864880070656,
+          "source_status_id_str": "1066355864880070656",
+          "source_user_id": 625023,
+          "source_user_id_str": "625023"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1066355851911323648,
+          "id_str": "1066355851911323648",
+          "indices": [
+            15,
+            38
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dsx0_11VYAAqcBn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dsx0_11VYAAqcBn.jpg",
+          "url": "https://t.co/giOd7ZTfI2",
+          "display_url": "pic.twitter.com/giOd7ZTfI2",
+          "expanded_url": "https://twitter.com/Ken/status/1066355864880070656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 612,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 864,
+              "h": 960,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 864,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1066355864880070656,
+          "source_status_id_str": "1066355864880070656",
+          "source_user_id": 625023,
+          "source_user_id_str": "625023"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 24 15:40:24 +0000 2018",
+      "id": 1066355864880070656,
+      "id_str": "1066355864880070656",
+      "text": "今日總結。 https://t.co/giOd7ZTfI2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1066355851911323648,
+            "id_str": "1066355851911323648",
+            "indices": [
+              6,
+              29
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dsx0_11VYAAqcBn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dsx0_11VYAAqcBn.jpg",
+            "url": "https://t.co/giOd7ZTfI2",
+            "display_url": "pic.twitter.com/giOd7ZTfI2",
+            "expanded_url": "https://twitter.com/Ken/status/1066355864880070656/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 612,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 864,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 864,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1066355851911323648,
+            "id_str": "1066355851911323648",
+            "indices": [
+              6,
+              29
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dsx0_11VYAAqcBn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dsx0_11VYAAqcBn.jpg",
+            "url": "https://t.co/giOd7ZTfI2",
+            "display_url": "pic.twitter.com/giOd7ZTfI2",
+            "expanded_url": "https://twitter.com/Ken/status/1066355864880070656/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 612,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 864,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 864,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 625023,
+        "id_str": "625023",
+        "name": "Ken ",
+        "screen_name": "Ken",
+        "location": "Taiwan",
+        "description": "#現在就想回家委員會\n#bmi48 一期生",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12029,
+        "friends_count": 429,
+        "listed_count": 311,
+        "created_at": "Thu Jan 11 10:04:08 +0000 2007",
+        "favourites_count": 11293,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 104531,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/769895657322622976/Zjqc5kPX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/769895657322622976/Zjqc5kPX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/625023/1466930856",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 795,
+      "favorite_count": 1120,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 795,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Nov 24 07:04:03 +0000 2018",
+    "id": 1066225922003492864,
+    "id_str": "1066225922003492864",
+    "text": "買了數位天線，我也可以看開票了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 24 00:24:56 +0000 2018",
     "id": 1066125479751507969,
     "id_str": "1066125479751507969",
