@@ -1,5 +1,648 @@
 Grailbird.data.tweets_2018_11 = [
   {
+    "created_at": "Thu Nov 29 03:05:48 +0000 2018",
+    "id": 1067977901457297408,
+    "id_str": "1067977901457297408",
+    "text": "似乎也得區分一下 Disinformation 與 Misinformation 的差別。 https://t.co/5gdRUP2E37",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5gdRUP2E37",
+          "expanded_url": "http://www.qdaily.com/articles/58744.html",
+          "display_url": "qdaily.com/articles/58744…",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+    "in_reply_to_status_id": 1067966966629974017,
+    "in_reply_to_status_id_str": "1067966966629974017",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 29 02:23:53 +0000 2018",
+    "id": 1067967354745700353,
+    "id_str": "1067967354745700353",
+    "text": "書架上的東京巷弄實在太美了～～ https://t.co/iF4cBO1FsY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iF4cBO1FsY",
+          "expanded_url": "https://twitter.com/monde55212068/status/1063647132047958018",
+          "display_url": "twitter.com/monde55212068/…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1063647132047958018,
+    "quoted_status_id_str": "1063647132047958018",
+    "quoted_status": {
+      "created_at": "Sat Nov 17 04:16:52 +0000 2018",
+      "id": 1063647132047958018,
+      "id_str": "1063647132047958018",
+      "text": "路地裏bookshelf 文庫本サイズ\nを作りました。\n両面を開くことはできませんが小さくて可愛らしいです。\n電源スイッチを表面につけました。\n\n制作2018年 材質 木\n\n#design #art #bookend #路地裏… https://t.co/gc1OAyI8bx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "design",
+            "indices": [
+              87,
+              94
+            ]
+          },
+          {
+            "text": "art",
+            "indices": [
+              95,
+              99
+            ]
+          },
+          {
+            "text": "bookend",
+            "indices": [
+              100,
+              108
+            ]
+          },
+          {
+            "text": "路地裏",
+            "indices": [
+              109,
+              113
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gc1OAyI8bx",
+            "expanded_url": "https://twitter.com/i/web/status/1063647132047958018",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 919388216913829888,
+        "id_str": "919388216913829888",
+        "name": "monde",
+        "screen_name": "monde55212068",
+        "location": "日本 東京",
+        "description": "大人になっても毎週ワクワクした図工の時間割がほしくて毎年2回新作を制作しております。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13194,
+        "friends_count": 5,
+        "listed_count": 127,
+        "created_at": "Sun Oct 15 02:23:27 +0000 2017",
+        "favourites_count": 12,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 48,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/919389266802700290/lWiN1xj9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/919389266802700290/lWiN1xj9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/919388216913829888/1538098899",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 69423,
+      "favorite_count": 168201,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 29 02:22:21 +0000 2018",
+    "id": 1067966966629974017,
+    "id_str": "1067966966629974017",
+    "text": "假消息（Misinformation）果然是全球風潮。\n\n'Misinformation' is https://t.co/meex99CM1F's word of the year https://t.co/S8R2Wwp3u0 https://t.co/zg4pzSnY0p",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/meex99CM1F",
+          "expanded_url": "http://Dictionary.com",
+          "display_url": "Dictionary.com",
+          "indices": [
+            49,
+            72
+          ]
+        },
+        {
+          "url": "https://t.co/S8R2Wwp3u0",
+          "expanded_url": "http://bit.ly/2FLrk3d",
+          "display_url": "bit.ly/2FLrk3d",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1067966956114927616,
+          "id_str": "1067966956114927616",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/DtIuScsV4AAAUXb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DtIuScsV4AAAUXb.jpg",
+          "url": "https://t.co/zg4pzSnY0p",
+          "display_url": "pic.twitter.com/zg4pzSnY0p",
+          "expanded_url": "https://twitter.com/wastemobile/status/1067966966629974017/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1440,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1067966956114927616,
+          "id_str": "1067966956114927616",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/DtIuScsV4AAAUXb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DtIuScsV4AAAUXb.jpg",
+          "url": "https://t.co/zg4pzSnY0p",
+          "display_url": "pic.twitter.com/zg4pzSnY0p",
+          "expanded_url": "https://twitter.com/wastemobile/status/1067966966629974017/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1440,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Nov 29 02:20:14 +0000 2018",
+    "id": 1067966435694075905,
+    "id_str": "1067966435694075905",
+    "text": "「另鑑於手機屏幕面積有限，令人看相和文字都較吃力，雜誌會把照片盡量放大，並使用方便閱讀的排版方式，充分發揮紙媒的優勢。」\n\n賣書艱難，日雜 mini 卻長賣長有 https://t.co/lVeniscW6w https://t.co/oxlEaIrGA4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lVeniscW6w",
+          "expanded_url": "http://bit.ly/2FJzqJt",
+          "display_url": "bit.ly/2FJzqJt",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1067966424906326017,
+          "id_str": "1067966424906326017",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/DtItzhyV4AEl1TD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DtItzhyV4AEl1TD.jpg",
+          "url": "https://t.co/oxlEaIrGA4",
+          "display_url": "pic.twitter.com/oxlEaIrGA4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1067966435694075905/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 938,
+              "h": 596,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 938,
+              "h": 596,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 432,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1067966424906326017,
+          "id_str": "1067966424906326017",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/DtItzhyV4AEl1TD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DtItzhyV4AEl1TD.jpg",
+          "url": "https://t.co/oxlEaIrGA4",
+          "display_url": "pic.twitter.com/oxlEaIrGA4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1067966435694075905/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 938,
+              "h": 596,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 938,
+              "h": 596,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 432,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 29 01:55:40 +0000 2018",
+    "id": 1067960252769853440,
+    "id_str": "1067960252769853440",
+    "text": "剪掉有線電視幾個月了，為了看開票才臨時買了數位天線、看看新聞，覺得非常好。\n\n有線電視一年來剪線 13 萬戶 產值少 8 億 https://t.co/D91APf2Yjd https://t.co/bcens6Y30g",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D91APf2Yjd",
+          "expanded_url": "http://bit.ly/2FMLBpa",
+          "display_url": "bit.ly/2FMLBpa",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1067960246188961792,
+          "id_str": "1067960246188961792",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/DtIoL4RU8AAlj7O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DtIoL4RU8AAlj7O.jpg",
+          "url": "https://t.co/bcens6Y30g",
+          "display_url": "pic.twitter.com/bcens6Y30g",
+          "expanded_url": "https://twitter.com/wastemobile/status/1067960252769853440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 620,
+              "h": 465,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 620,
+              "h": 465,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 620,
+              "h": 465,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1067960246188961792,
+          "id_str": "1067960246188961792",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/DtIoL4RU8AAlj7O.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DtIoL4RU8AAlj7O.jpg",
+          "url": "https://t.co/bcens6Y30g",
+          "display_url": "pic.twitter.com/bcens6Y30g",
+          "expanded_url": "https://twitter.com/wastemobile/status/1067960252769853440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 620,
+              "h": 465,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 620,
+              "h": 465,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 620,
+              "h": 465,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Nov 28 12:14:51 +0000 2018",
     "id": 1067753684837122049,
     "id_str": "1067753684837122049",
