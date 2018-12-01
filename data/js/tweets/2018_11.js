@@ -1,5 +1,532 @@
 Grailbird.data.tweets_2018_11 = [
   {
+    "created_at": "Fri Nov 30 15:44:31 +0000 2018",
+    "id": 1068531227898994688,
+    "id_str": "1068531227898994688",
+    "text": "所以小米（多看）真的會有自己的電子書閱讀器。\n\n直到現在，我覺得 iOS 上的閱讀軟體，最好的還是多看（沒有之一），即使幾年沒更新過的鳩版 Kindle 多看韌體，也海放許多閱讀器。\n\n小米也要做電子書閱讀器，但不光是想多賣幾本書… https://t.co/A3wydqBczW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/A3wydqBczW",
+          "expanded_url": "https://twitter.com/i/web/status/1068531227898994688",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 30 15:36:00 +0000 2018",
+    "id": 1068529082403418114,
+    "id_str": "1068529082403418114",
+    "text": "RT @KobySakamoto: 我是台中人、關於冬瓜這一家子、我可以用我一個警察朋友的話來介紹\n他說『你要投票給誰都好、我無所謂、就是千萬別投給冬瓜\n冬瓜本人還好、但是他的家人、尤其弟弟和兒子、無惡不作！』\n信不信由你！ https://t.co/PQ0zYwNxCE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "KobySakamoto",
+          "name": "Koby C 坂本晉作",
+          "id": 1056201177941962753,
+          "id_str": "1056201177941962753",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1068353165626531840,
+          "id_str": "1068353165626531840",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/DtONizPVYAAT9-a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DtONizPVYAAT9-a.jpg",
+          "url": "https://t.co/PQ0zYwNxCE",
+          "display_url": "pic.twitter.com/PQ0zYwNxCE",
+          "expanded_url": "https://twitter.com/KobySakamoto/status/1068353177664204800/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 598,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1056,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1538,
+              "h": 1748,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1068353177664204800,
+          "source_status_id_str": "1068353177664204800",
+          "source_user_id": 1056201177941962753,
+          "source_user_id_str": "1056201177941962753"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1068353165626531840,
+          "id_str": "1068353165626531840",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/DtONizPVYAAT9-a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DtONizPVYAAT9-a.jpg",
+          "url": "https://t.co/PQ0zYwNxCE",
+          "display_url": "pic.twitter.com/PQ0zYwNxCE",
+          "expanded_url": "https://twitter.com/KobySakamoto/status/1068353177664204800/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 598,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1056,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1538,
+              "h": 1748,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1068353177664204800,
+          "source_status_id_str": "1068353177664204800",
+          "source_user_id": 1056201177941962753,
+          "source_user_id_str": "1056201177941962753"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 30 03:57:01 +0000 2018",
+      "id": 1068353177664204800,
+      "id_str": "1068353177664204800",
+      "text": "我是台中人、關於冬瓜這一家子、我可以用我一個警察朋友的話來介紹\n他說『你要投票給誰都好、我無所謂、就是千萬別投給冬瓜\n冬瓜本人還好、但是他的家人、尤其弟弟和兒子、無惡不作！』\n信不信由你！ https://t.co/PQ0zYwNxCE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1068353165626531840,
+            "id_str": "1068353165626531840",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/DtONizPVYAAT9-a.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DtONizPVYAAT9-a.jpg",
+            "url": "https://t.co/PQ0zYwNxCE",
+            "display_url": "pic.twitter.com/PQ0zYwNxCE",
+            "expanded_url": "https://twitter.com/KobySakamoto/status/1068353177664204800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 598,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1056,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1538,
+                "h": 1748,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1068353165626531840,
+            "id_str": "1068353165626531840",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/DtONizPVYAAT9-a.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DtONizPVYAAT9-a.jpg",
+            "url": "https://t.co/PQ0zYwNxCE",
+            "display_url": "pic.twitter.com/PQ0zYwNxCE",
+            "expanded_url": "https://twitter.com/KobySakamoto/status/1068353177664204800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 598,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1056,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1538,
+                "h": 1748,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056201177941962753,
+        "id_str": "1056201177941962753",
+        "name": "Koby C 坂本晉作",
+        "screen_name": "KobySakamoto",
+        "location": "Taiwan 台中",
+        "description": "追求台灣獨立！我是坂本晉作、歡迎來大家在推特上相認",
+        "url": "https://t.co/o6cyk0ikGF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/o6cyk0ikGF",
+                "expanded_url": "https://toyforgorden.blogspot.com/",
+                "display_url": "toyforgorden.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 220,
+        "friends_count": 518,
+        "listed_count": 0,
+        "created_at": "Sat Oct 27 15:09:18 +0000 2018",
+        "favourites_count": 2236,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 989,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1066675745274003457/vzgw0a3S_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1066675745274003457/vzgw0a3S_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056201177941962753/1543150270",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "favorite_count": 62,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 30 15:20:39 +0000 2018",
+    "id": 1068525222309949446,
+    "id_str": "1068525222309949446",
+    "text": "RT @TianYeCyuan: 「智子被該名教師帶往賓館強暴時只有十六歲。正因為父母都是教師，智子習慣於服從權威，甚至對於老師約她出去玩感到有點高興，『也許我真的是特別的』，但她沒有料到的是，竟然會有看似值得信賴的成年人，職業還跟自己的父母一樣是教師，設下陷阱強姦十六歲的女孩…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TianYeCyuan",
+          "name": "泉四娘🏳️‍🌈",
+          "id": 2671527284,
+          "id_str": "2671527284",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 30 02:08:37 +0000 2018",
+      "id": 1068325898741473280,
+      "id_str": "1068325898741473280",
+      "text": "「智子被該名教師帶往賓館強暴時只有十六歲。正因為父母都是教師，智子習慣於服從權威，甚至對於老師約她出去玩感到有點高興，『也許我真的是特別的』，但她沒有料到的是，竟然會有看似值得信賴的成年人，職業還跟自己的父母一樣是教師，設下陷阱強… https://t.co/O0yqa49PtB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/O0yqa49PtB",
+            "expanded_url": "https://twitter.com/i/web/status/1068325898741473280",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2671527284,
+        "id_str": "2671527284",
+        "name": "泉四娘🏳️‍🌈",
+        "screen_name": "TianYeCyuan",
+        "location": "",
+        "description": "養了隻喜歡洗澡的野獸派香香傲嬌喵喵。 #Pocky推廣委員會 #請勿餵食 #洗腦爸媽從你我做起",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3158,
+        "friends_count": 98,
+        "listed_count": 23,
+        "created_at": "Wed Jul 23 03:10:05 +0000 2014",
+        "favourites_count": 15317,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 27886,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1060902337978322944/wmAIZ9Co_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060902337978322944/wmAIZ9Co_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2671527284/1535718752",
+        "profile_link_color": "1A1B1F",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 33,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Nov 30 12:48:50 +0000 2018",
     "id": 1068487015178489858,
     "id_str": "1068487015178489858",
