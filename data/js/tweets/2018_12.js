@@ -1,5 +1,296 @@
 Grailbird.data.tweets_2018_12 = [
   {
+    "created_at": "Sat Dec 29 15:30:34 +0000 2018",
+    "id": 1079036966023290880,
+    "id_str": "1079036966023290880",
+    "text": "進一步發現，Backblaze 還有另一個與 Amazon S3 存放靜態資源相同的服務 B2（但價格比 S3 便宜），租用備份服務後可以免費使用 10GB 的儲存分享空間、每天 1GB 的下載頻寬，等於備份到雲端的檔案有部分可以… https://t.co/0nvaz3vMEG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0nvaz3vMEG",
+          "expanded_url": "https://twitter.com/i/web/status/1079036966023290880",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 29 06:24:16 +0000 2018",
+    "id": 1078899482811453440,
+    "id_str": "1078899482811453440",
+    "text": "@ternyu @elleryq 不用。若需要它把檔案備份到隨身碟或硬碟寄給你，要付硬碟的錢（但好像30天內歸還就可以退費）。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ternyu",
+          "name": "ADOU",
+          "id": 9441962,
+          "id_str": "9441962",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "elleryq",
+          "name": "Yan-ren Tsai",
+          "id": 1696951,
+          "id_str": "1696951",
+          "indices": [
+            8,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1078897726283120640,
+    "in_reply_to_status_id_str": "1078897726283120640",
+    "in_reply_to_user_id": 9441962,
+    "in_reply_to_user_id_str": "9441962",
+    "in_reply_to_screen_name": "ternyu",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 29 03:14:28 +0000 2018",
+    "id": 1078851718098477056,
+    "id_str": "1078851718098477056",
+    "text": "國外真的很多人推薦 Backblaze，一個月 5 美金（一年約台幣 1800），無限備份（含外接硬碟），不用買 NAS、硬碟、耗電，用 ADSL 白天空閒頻寬上傳應該夠了吧。 #年終評估\n\nEssential Apps for… https://t.co/Wt0PHWSqEz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "年終評估",
+          "indices": [
+            89,
+            94
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Wt0PHWSqEz",
+          "expanded_url": "https://twitter.com/i/web/status/1078851718098477056",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 37,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 29 02:39:35 +0000 2018",
+    "id": 1078842939399331842,
+    "id_str": "1078842939399331842",
+    "text": "近來太多處理圖的需求，ImageOptim 不夠好，都開瀏覽器拖進 TinyJPG、同步到 Dropbox 使用，年終想調整一下流程，這才發現它根本就一堆 CMS 整合、桌面程式可以用！\n\nThird-Party Solution… https://t.co/JmXxTHtK51",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JmXxTHtK51",
+          "expanded_url": "https://twitter.com/i/web/status/1078842939399331842",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 29 02:21:54 +0000 2018",
+    "id": 1078838491969011712,
+    "id_str": "1078838491969011712",
+    "text": "在 Mac 上最常用 Cmd+Shift+4 圈選範圍擷圖（或在單一視窗上再按一次 space），3 的全螢幕擷圖偶爾用，現在才知道原來 Cmd+Shift+5 是最完整的工具組（含錄影）。\n\nHow to Use the Inc… https://t.co/oRMsTYiiEg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oRMsTYiiEg",
+          "expanded_url": "https://twitter.com/i/web/status/1078838491969011712",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 72,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Dec 28 16:13:04 +0000 2018",
     "id": 1078685271560925189,
     "id_str": "1078685271560925189",
