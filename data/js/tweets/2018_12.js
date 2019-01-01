@@ -1,5 +1,555 @@
 Grailbird.data.tweets_2018_12 = [
   {
+    "created_at": "Mon Dec 31 10:27:43 +0000 2018",
+    "id": 1079685526678982657,
+    "id_str": "1079685526678982657",
+    "text": "在 #Netflix 看泰勒絲 舉世盛名體育場巡迴演唱會（德州 105002人），中間一段小妮子一把吉他🎸就鎮住全場，其實是有兩把刷子呢！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            2,
+            10
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 31 05:04:05 +0000 2018",
+    "id": 1079604080362680320,
+    "id_str": "1079604080362680320",
+    "text": "中國電子書下折扣常常讓人瞠目結舌，這種促銷價、真的有在支付國外版稅嗎？ https://t.co/KusHCPkvCh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KusHCPkvCh",
+          "expanded_url": "https://twitter.com/kindlebookdeal/status/1079603087235375105",
+          "display_url": "twitter.com/kindlebookdeal…",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1079603087235375105,
+    "quoted_status_id_str": "1079603087235375105",
+    "quoted_status": {
+      "created_at": "Mon Dec 31 05:00:08 +0000 2018",
+      "id": 1079603087235375105,
+      "id_str": "1079603087235375105",
+      "text": "《黑暗的左手》三部曲（《黑暗的左手》《失去一切的人》《世界的词语是森林》）\n\n作者：厄休拉·勒古恩\n出版信息：北京联合出版公司\n原价：￥63.92\n现价：￥12.99\n链接：https://t.co/ET5B8gLvno https://t.co/qiPn1bemAu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ET5B8gLvno",
+            "expanded_url": "https://www.amazon.cn/B0785JGDJ6/dp/B0785JGDJ6?SubscriptionId=AKIAJA3S5ORBRDZ7VSVQ&tag=kbdtw-23&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0785JGDJ6",
+            "display_url": "amazon.cn/B0785JGDJ6/dp/…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1079603085729624064,
+            "id_str": "1079603085729624064",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/DvuFSVdUcAAtOKW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DvuFSVdUcAAtOKW.jpg",
+            "url": "https://t.co/qiPn1bemAu",
+            "display_url": "pic.twitter.com/qiPn1bemAu",
+            "expanded_url": "https://twitter.com/KindleBookDeal/status/1079603087235375105/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 404,
+                "h": 500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 404,
+                "h": 500,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 404,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1079603085729624064,
+            "id_str": "1079603085729624064",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/DvuFSVdUcAAtOKW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DvuFSVdUcAAtOKW.jpg",
+            "url": "https://t.co/qiPn1bemAu",
+            "display_url": "pic.twitter.com/qiPn1bemAu",
+            "expanded_url": "https://twitter.com/KindleBookDeal/status/1079603087235375105/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 404,
+                "h": 500,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 404,
+                "h": 500,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 404,
+                "h": 500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://imtx.me\" rel=\"nofollow\">Kindle 特价书</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1029172065536901120,
+        "id_str": "1029172065536901120",
+        "name": "Kindle 特价书",
+        "screen_name": "KindleBookDeal",
+        "location": "",
+        "description": "为您每天推送 Kindle 的特价书有关信息。正在不断完善中。如有问题，请私信。  您也可关注本帐户的 Telegram Channel。",
+        "url": "https://t.co/letMVPtrr1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/letMVPtrr1",
+                "expanded_url": "https://t.me/KindleBookDeals",
+                "display_url": "t.me/KindleBookDeals",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2235,
+        "friends_count": 0,
+        "listed_count": 17,
+        "created_at": "Tue Aug 14 01:05:16 +0000 2018",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 969,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1032988977781862402/DFLLVTRN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032988977781862402/DFLLVTRN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 31 03:13:00 +0000 2018",
+    "id": 1079576126794526720,
+    "id_str": "1079576126794526720",
+    "text": "每年年終整理，面臨的問題都是一樣的。\n\n買太多書沒地方放、最後只好亂堆；買太多怪筆記本、筆，但永遠只用那一兩樣、永遠只寫了一頁。\n\n非常困擾。\n\n但我只是困擾，沒有要改的意思。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 31 02:40:25 +0000 2018",
+    "id": 1079567925244190720,
+    "id_str": "1079567925244190720",
+    "text": "靠邊站的資訊考古，有趣。\n\n有說「靠邊站」這個習慣，起源於 1944 年倫敦地下鐵，逐步於歐洲普及。日本是進入高度經濟成長期後、約在 1967 年於阪急神戶線梅田站開始呼籲，八〇年代「空出一側給趕忙的人行走乃是禮儀」才普及起來。… https://t.co/VcgijgrG8a",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VcgijgrG8a",
+          "expanded_url": "https://twitter.com/i/web/status/1079567925244190720",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 31 01:56:44 +0000 2018",
+    "id": 1079556934024364034,
+    "id_str": "1079556934024364034",
+    "text": "RT @WANIMAL912: 台灣要想跟大陸統一\n須能接受女生拍裸照\n這是個重要衡量標準\n在人體攝影這一領域\n台灣落後大陸的程度\n不亞於線上支付系統\n一群無頭女屍來投稿\n又想發又怕被人看到\n真的蠻扭曲反人類的",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WANIMAL912",
+          "name": "wanimal912",
+          "id": 892428255143186433,
+          "id_str": "892428255143186433",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Dec 30 15:12:43 +0000 2018",
+      "id": 1079394861445304321,
+      "id_str": "1079394861445304321",
+      "text": "台灣要想跟大陸統一\n須能接受女生拍裸照\n這是個重要衡量標準\n在人體攝影這一領域\n台灣落後大陸的程度\n不亞於線上支付系統\n一群無頭女屍來投稿\n又想發又怕被人看到\n真的蠻扭曲反人類的",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 892428255143186433,
+        "id_str": "892428255143186433",
+        "name": "wanimal912",
+        "screen_name": "WANIMAL912",
+        "location": "Boston, MA",
+        "description": "寧可在地獄為王                                      也不在天堂為奴",
+        "url": "https://t.co/cDbZnrLcXh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/cDbZnrLcXh",
+                "expanded_url": "http://WANIMAL1983.ORG",
+                "display_url": "WANIMAL1983.ORG",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 77307,
+        "friends_count": 138,
+        "listed_count": 299,
+        "created_at": "Tue Aug 01 16:54:11 +0000 2017",
+        "favourites_count": 36,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 720,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/964409569655992320/Y5sYfcXR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/964409569655992320/Y5sYfcXR_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 137,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Dec 30 12:45:24 +0000 2018",
     "id": 1079357788118179840,
     "id_str": "1079357788118179840",
