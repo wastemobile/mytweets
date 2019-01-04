@@ -1,5 +1,57 @@
 Grailbird.data.tweets_2019_01 = [
   {
+    "created_at": "Fri Jan 04 09:44:55 +0000 2019",
+    "id": 1081124307424575488,
+    "id_str": "1081124307424575488",
+    "text": "最後證明真的與 Thunderbolt 2 轉 FireWire 800 的轉接頭有關，使用慢慢的 USB 2.0 連線就不會一睡不醒了，但真的無法傳大檔。 #記錄一下",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "記錄一下",
+          "indices": [
+            79,
+            84
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1079357788118179840,
+    "in_reply_to_status_id_str": "1079357788118179840",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jan 02 08:38:57 +0000 2019",
     "id": 1080382931154038786,
     "id_str": "1080382931154038786",
