@@ -1,5 +1,431 @@
 Grailbird.data.tweets_2019_01 = [
   {
+    "created_at": "Sat Jan 19 16:24:14 +0000 2019",
+    "id": 1086660613999185920,
+    "id_str": "1086660613999185920",
+    "text": "我現在好懷念 Delicious Library，但它對中文書是完全沒轍的，於是就更期待 Amazon 了。\n\nhttps://t.co/KSLRzLFxZP https://t.co/fTytmHZfgg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KSLRzLFxZP",
+          "expanded_url": "http://bit.ly/2FMOuV5",
+          "display_url": "bit.ly/2FMOuV5",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1086660601298833409,
+          "id_str": "1086660601298833409",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DxSYDzvUUAEXcLu.png",
+          "media_url_https": "https://pbs.twimg.com/media/DxSYDzvUUAEXcLu.png",
+          "url": "https://t.co/fTytmHZfgg",
+          "display_url": "pic.twitter.com/fTytmHZfgg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1086660613999185920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 960,
+              "h": 477,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 338,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 477,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1086660601298833409,
+          "id_str": "1086660601298833409",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/DxSYDzvUUAEXcLu.png",
+          "media_url_https": "https://pbs.twimg.com/media/DxSYDzvUUAEXcLu.png",
+          "url": "https://t.co/fTytmHZfgg",
+          "display_url": "pic.twitter.com/fTytmHZfgg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1086660613999185920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 960,
+              "h": 477,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 338,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 477,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 19 15:21:00 +0000 2019",
+    "id": 1086644700541382656,
+    "id_str": "1086644700541382656",
+    "text": "@lunkertw 已下單二手書，感謝認證推薦～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lunkertw",
+          "name": "即物哀觀",
+          "id": 12536122,
+          "id_str": "12536122",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1086642485042900994,
+    "in_reply_to_status_id_str": "1086642485042900994",
+    "in_reply_to_user_id": 12536122,
+    "in_reply_to_user_id_str": "12536122",
+    "in_reply_to_screen_name": "lunkertw",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 19 15:06:12 +0000 2019",
+    "id": 1086640976964141056,
+    "id_str": "1086640976964141056",
+    "text": "如果中國政府關了作者、在機場扣下出版者（台灣），費盡莫大的苦心去禁絕，覺得這本書鐵定值得一讀。\n\n《洗腦的歷史：禍害世界三千年的極端思想控制術解析》 #跟著推就找到了 https://t.co/R3bPBr5Hdy https://t.co/QLwECMnb6N",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "跟著推就找到了",
+          "indices": [
+            75,
+            83
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/R3bPBr5Hdy",
+          "expanded_url": "https://twitter.com/Eurasch/status/1084582412951011328",
+          "display_url": "twitter.com/Eurasch/status…",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1086640969762521088,
+          "id_str": "1086640969762521088",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/DxSGNGkUwAA59bc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DxSGNGkUwAA59bc.jpg",
+          "url": "https://t.co/QLwECMnb6N",
+          "display_url": "pic.twitter.com/QLwECMnb6N",
+          "expanded_url": "https://twitter.com/wastemobile/status/1086640976964141056/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 320,
+              "h": 438,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 320,
+              "h": 438,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 320,
+              "h": 438,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1086640969762521088,
+          "id_str": "1086640969762521088",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/DxSGNGkUwAA59bc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DxSGNGkUwAA59bc.jpg",
+          "url": "https://t.co/QLwECMnb6N",
+          "display_url": "pic.twitter.com/QLwECMnb6N",
+          "expanded_url": "https://twitter.com/wastemobile/status/1086640976964141056/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 320,
+              "h": 438,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 320,
+              "h": 438,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 320,
+              "h": 438,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1084582412951011328,
+    "quoted_status_id_str": "1084582412951011328",
+    "quoted_status": {
+      "created_at": "Sun Jan 13 22:46:12 +0000 2019",
+      "id": 1084582412951011328,
+      "id_str": "1084582412951011328",
+      "text": "是，中国政府找了我《洗脑的历史》台湾出版人，在机场扣了人家，让他不要再版我的书。所以他也不敢再出了。 https://t.co/vbpVknlhpJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vbpVknlhpJ",
+            "expanded_url": "https://twitter.com/zwrgeF0zkQYML8F/status/1084429484256718850",
+            "display_url": "twitter.com/zwrgeF0zkQYML8…",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 306009218,
+        "id_str": "306009218",
+        "name": "傅志彬Fu Zhibin",
+        "screen_name": "Eurasch",
+        "location": "Vanuatu",
+        "description": "作家，Writer,著有《洗脑的历史Histories of mental manipulation 》《人性兽性各走半边——智者们的幸福路》，纪录片导演，Regisseur of Documentary 作品公路纪录片《西边有海 The Sea is in the west》",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2216,
+        "friends_count": 99,
+        "listed_count": 13,
+        "created_at": "Fri May 27 03:48:49 +0000 2011",
+        "favourites_count": 90,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3327,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/960199174187761664/eXu1wkdY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/960199174187761664/eXu1wkdY_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1084429484256718850,
+      "quoted_status_id_str": "1084429484256718850",
+      "retweet_count": 14,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 12,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jan 19 01:49:45 +0000 2019",
     "id": 1086440543528267781,
     "id_str": "1086440543528267781",
