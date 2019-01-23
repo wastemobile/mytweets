@@ -1,5 +1,603 @@
 Grailbird.data.tweets_2019_01 = [
   {
+    "created_at": "Wed Jan 23 04:38:42 +0000 2019",
+    "id": 1087932611908042752,
+    "id_str": "1087932611908042752",
+    "text": "RT @khootiatling: 斥資8千萬的旗山圖書館，去年夏天開張！就在旗中門口，很華麗。整面牆的真臺灣歷史，小朋友們！看看葉石濤阿。 (@ 高雄市立圖書館 in 旗山區, 高雄市) https://t.co/mq7Wuul1Fa https://t.co/LM5PnxO…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "khootiatling",
+          "name": "Khóo",
+          "id": 1601325775,
+          "id_str": "1601325775",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mq7Wuul1Fa",
+          "expanded_url": "https://www.swarmapp.com/c/j3P909GIhXi",
+          "display_url": "swarmapp.com/c/j3P909GIhXi",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jan 23 03:56:45 +0000 2019",
+      "id": 1087922056904220674,
+      "id_str": "1087922056904220674",
+      "text": "斥資8千萬的旗山圖書館，去年夏天開張！就在旗中門口，很華麗。整面牆的真臺灣歷史，小朋友們！看看葉石濤阿。 (@ 高雄市立圖書館 in 旗山區, 高雄市) https://t.co/mq7Wuul1Fa https://t.co/LM5PnxOIMD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mq7Wuul1Fa",
+            "expanded_url": "https://www.swarmapp.com/c/j3P909GIhXi",
+            "display_url": "swarmapp.com/c/j3P909GIhXi",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1087922055281025027,
+            "id_str": "1087922055281025027",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/DxkTWGBWoAM30-K.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DxkTWGBWoAM30-K.jpg",
+            "url": "https://t.co/LM5PnxOIMD",
+            "display_url": "pic.twitter.com/LM5PnxOIMD",
+            "expanded_url": "https://twitter.com/khootiatling/status/1087922056904220674/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1440,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1087922055281025027,
+            "id_str": "1087922055281025027",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/DxkTWGBWoAM30-K.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DxkTWGBWoAM30-K.jpg",
+            "url": "https://t.co/LM5PnxOIMD",
+            "display_url": "pic.twitter.com/LM5PnxOIMD",
+            "expanded_url": "https://twitter.com/khootiatling/status/1087922056904220674/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1440,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1601325775,
+        "id_str": "1601325775",
+        "name": "Khóo",
+        "screen_name": "khootiatling",
+        "location": "高雄市, 台灣",
+        "description": "",
+        "url": "https://t.co/bUyt6zANkg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/bUyt6zANkg",
+                "expanded_url": "http://khootiatling.com",
+                "display_url": "khootiatling.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1640,
+        "friends_count": 104,
+        "listed_count": 44,
+        "created_at": "Wed Jul 17 16:14:22 +0000 2013",
+        "favourites_count": 44462,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 70692,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082622585014124545/K8luxC2f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082622585014124545/K8luxC2f_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601325775/1548148653",
+        "profile_link_color": "16519F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          22.881602,
+          120.480938
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          120.480938,
+          22.881602
+        ]
+      },
+      "place": {
+        "id": "00dcc81a0ec32f15",
+        "url": "https://api.twitter.com/1.1/geo/id/00dcc81a0ec32f15.json",
+        "place_type": "city",
+        "name": "高雄市",
+        "full_name": "高雄市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                120.175705,
+                22.475809
+              ],
+              [
+                121.048993,
+                22.475809
+              ],
+              [
+                121.048993,
+                23.471773
+              ],
+              [
+                120.175705,
+                23.471773
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 23 02:00:35 +0000 2019",
+    "id": 1087892823586725888,
+    "id_str": "1087892823586725888",
+    "text": "「TAAZE讀冊生活統計，2018年二手書賣家共上架135萬本舊書販售，其中有120萬本賣出⋯⋯」\n\n這數字很厲害。 #note\n\n大掃除清書櫃舊換金、2大絕招幫二手書快速賣出去 https://t.co/wnH0qgW2B2 https://t.co/TZxN7tUXtM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            59,
+            64
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wnH0qgW2B2",
+          "expanded_url": "http://bit.ly/2FHqa7Z",
+          "display_url": "bit.ly/2FHqa7Z",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1087892816720670720,
+          "id_str": "1087892816720670720",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dxj4wL5VsAADTKP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dxj4wL5VsAADTKP.jpg",
+          "url": "https://t.co/TZxN7tUXtM",
+          "display_url": "pic.twitter.com/TZxN7tUXtM",
+          "expanded_url": "https://twitter.com/wastemobile/status/1087892823586725888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 432,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 432,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 432,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1087892816720670720,
+          "id_str": "1087892816720670720",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dxj4wL5VsAADTKP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dxj4wL5VsAADTKP.jpg",
+          "url": "https://t.co/TZxN7tUXtM",
+          "display_url": "pic.twitter.com/TZxN7tUXtM",
+          "expanded_url": "https://twitter.com/wastemobile/status/1087892823586725888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 432,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 432,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 432,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 23 00:34:16 +0000 2019",
+    "id": 1087871098794868736,
+    "id_str": "1087871098794868736",
+    "text": "RT @ryo6: 台灣屢遭中國打壓　美眾院投票支持台重返WHO | 蘋果日報 https://t.co/uJNGIywKFi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ryo6",
+          "name": "冥王星人",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uJNGIywKFi",
+          "expanded_url": "https://tw.appledaily.com/new/realtime/20190123/1505590/",
+          "display_url": "tw.appledaily.com/new/realtime/2…",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jan 23 00:22:10 +0000 2019",
+      "id": 1087868053935685632,
+      "id_str": "1087868053935685632",
+      "text": "台灣屢遭中國打壓　美眾院投票支持台重返WHO | 蘋果日報 https://t.co/uJNGIywKFi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uJNGIywKFi",
+            "expanded_url": "https://tw.appledaily.com/new/realtime/20190123/1505590/",
+            "display_url": "tw.appledaily.com/new/realtime/2…",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19586444,
+        "id_str": "19586444",
+        "name": "冥王星人",
+        "screen_name": "ryo6",
+        "location": "三小南村(崩壞中)",
+        "description": "No Coffee, No Working. 在哪裡跌倒，就在那裏躺著休息。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4509,
+        "friends_count": 758,
+        "listed_count": 80,
+        "created_at": "Tue Jan 27 10:54:22 +0000 2009",
+        "favourites_count": 6391,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 48286,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793760187815370756/SirKPuuq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793760187815370756/SirKPuuq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19586444/1354244657",
+        "profile_link_color": "003473",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFADAD",
+        "profile_text_color": "EDC8AB",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jan 22 14:02:32 +0000 2019",
     "id": 1087712119334686722,
     "id_str": "1087712119334686722",
