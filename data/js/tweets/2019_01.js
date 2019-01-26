@@ -1,5 +1,520 @@
 Grailbird.data.tweets_2019_01 = [
   {
+    "created_at": "Sat Jan 26 07:59:35 +0000 2019",
+    "id": 1089070329459179520,
+    "id_str": "1089070329459179520",
+    "text": "替 Drobo 5N2 加了 240GB 的 mSATA SSD 做快取加速，順道也升級了無線路由器，接著要進行漫長的資料移轉。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 25 16:18:28 +0000 2019",
+    "id": 1088833492983529478,
+    "id_str": "1088833492983529478",
+    "text": "可以，哪裡下單？ https://t.co/BsIqItTLwo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BsIqItTLwo",
+          "expanded_url": "https://twitter.com/shannon_sense/status/1088813810645901317",
+          "display_url": "twitter.com/shannon_sense/…",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1088813810645901317,
+    "quoted_status_id_str": "1088813810645901317",
+    "quoted_status": {
+      "created_at": "Fri Jan 25 15:00:16 +0000 2019",
+      "id": 1088813810645901317,
+      "id_str": "1088813810645901317",
+      "text": "Sometimes you see something so tacky yet you are well aware that if you owned it you could never be happier 🤷🏽‍♂️… https://t.co/5YUZzt6nHT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5YUZzt6nHT",
+            "expanded_url": "https://twitter.com/i/web/status/1088813810645901317",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 112571132,
+        "id_str": "112571132",
+        "name": "Saint Shannon",
+        "screen_name": "shannon_sense",
+        "location": "new york ny",
+        "description": "Taste Is A Burden /// Shannon_sense on Instagram Stylist/Designer/Creative Director/Illustrator.",
+        "url": "https://t.co/rSiC8v91QN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/rSiC8v91QN",
+                "expanded_url": "http://www.papermag.com/rihanna-paper-2293524292.html",
+                "display_url": "papermag.com/rihanna-paper-…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2352,
+        "friends_count": 597,
+        "listed_count": 44,
+        "created_at": "Tue Feb 09 00:11:59 +0000 2010",
+        "favourites_count": 12963,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 42926,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/961269396663668737/eKqb4Kz1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/961269396663668737/eKqb4Kz1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/112571132/1400227189",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 867,
+      "favorite_count": 3358,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 25 16:11:43 +0000 2019",
+    "id": 1088831793619394560,
+    "id_str": "1088831793619394560",
+    "text": "RT @BookNet_Canada: \"Audiobooks continue to be the fastest growing segment in digital publishing and everyone is benefiting.\" https://t.co/…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "BookNet_Canada",
+          "name": "BookNet Canada",
+          "id": 14615687,
+          "id_str": "14615687",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 25 15:57:03 +0000 2019",
+      "id": 1088828102459961345,
+      "id_str": "1088828102459961345",
+      "text": "\"Audiobooks continue to be the fastest growing segment in digital publishing and everyone is benefiting.\"… https://t.co/BSVbr4MBtH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BSVbr4MBtH",
+            "expanded_url": "https://twitter.com/i/web/status/1088828102459961345",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14615687,
+        "id_str": "14615687",
+        "name": "BookNet Canada",
+        "screen_name": "BookNet_Canada",
+        "location": "Toronto",
+        "description": "BookNet Canada builds technology solutions that make it easier for Canadians to promote and sell books. Follow us for book industry news and BNC updates.",
+        "url": "https://t.co/CgQq5ee1xr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CgQq5ee1xr",
+                "expanded_url": "http://www.booknetcanada.ca",
+                "display_url": "booknetcanada.ca",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8190,
+        "friends_count": 824,
+        "listed_count": 498,
+        "created_at": "Thu May 01 15:52:55 +0000 2008",
+        "favourites_count": 3282,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 10835,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "789997",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/925714874193162240/bISgl906_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925714874193162240/bISgl906_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14615687/1405973410",
+        "profile_link_color": "4D8FAA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5F5F5",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 25 15:03:53 +0000 2019",
+    "id": 1088814721338404866,
+    "id_str": "1088814721338404866",
+    "text": "真的不理解。然後詩集銷售榜首是 Instapoet（Instagram 詩人） Rupi Kaur 的處女作。 #note\n\n英國詩歌類書籍銷售額創下新高，這或許和政治動蕩有關 https://t.co/g6iH9NawfD https://t.co/7hIrwpvRZ3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            56,
+            61
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g6iH9NawfD",
+          "expanded_url": "http://bit.ly/2FYR7Dr",
+          "display_url": "bit.ly/2FYR7Dr",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1088814710357704704,
+          "id_str": "1088814710357704704",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dxw_NdUXQAAw5Hs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dxw_NdUXQAAw5Hs.jpg",
+          "url": "https://t.co/7hIrwpvRZ3",
+          "display_url": "pic.twitter.com/7hIrwpvRZ3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1088814721338404866/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 405,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1088814710357704704,
+          "id_str": "1088814710357704704",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/Dxw_NdUXQAAw5Hs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Dxw_NdUXQAAw5Hs.jpg",
+          "url": "https://t.co/7hIrwpvRZ3",
+          "display_url": "pic.twitter.com/7hIrwpvRZ3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1088814721338404866/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 405,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 755,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jan 25 14:28:15 +0000 2019",
     "id": 1088805754285506561,
     "id_str": "1088805754285506561",
