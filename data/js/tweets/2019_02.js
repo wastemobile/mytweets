@@ -1,5 +1,396 @@
 Grailbird.data.tweets_2019_02 = [
   {
+    "created_at": "Tue Feb 12 04:43:39 +0000 2019",
+    "id": 1095181615469215744,
+    "id_str": "1095181615469215744",
+    "text": "「Shifter 將您在 WordPress 的內容完全轉換成靜態 HTML 檔案，提供免費的 HTTPS 通訊方式提供給讀者⋯⋯網站製作人想要編輯網站時，WordPress 只有在需要的時候從 Docker 容器迅速啟動。」… https://t.co/tc1Gn1shyS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tc1Gn1shyS",
+          "expanded_url": "https://twitter.com/i/web/status/1095181615469215744",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 12 02:11:09 +0000 2019",
+    "id": 1095143237835083777,
+    "id_str": "1095143237835083777",
+    "text": "「英國古典學教授 Fiona McHardy 指出，在古希臘時期，社會低下階層無權無勢，想要伸張正義或報仇雪恨，說三道四散播流言往往是可靠手段，在不健全的司法制度下，流言更可以殺人。」\n\n你看看司法改革有多麼重要。\n\n古希臘弱勢社… https://t.co/t8FaLMVf7u",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t8FaLMVf7u",
+          "expanded_url": "https://twitter.com/i/web/status/1095143237835083777",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 12 02:06:07 +0000 2019",
+    "id": 1095141973122441216,
+    "id_str": "1095141973122441216",
+    "text": "「爛番茄的評分可能奠基在有問題的統計方式上。」 #note\n\n而這統計方式其實是目前所有網站的主流。\n\n是爛番茄還是爛統計？ https://t.co/Uol15RV3se https://t.co/LeiOXVtBnV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            24,
+            29
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Uol15RV3se",
+          "expanded_url": "http://bit.ly/2N0YXOy",
+          "display_url": "bit.ly/2N0YXOy",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1095141964482207745,
+          "id_str": "1095141964482207745",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/DzK50HuV4AEy-9B.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DzK50HuV4AEy-9B.jpg",
+          "url": "https://t.co/LeiOXVtBnV",
+          "display_url": "pic.twitter.com/LeiOXVtBnV",
+          "expanded_url": "https://twitter.com/wastemobile/status/1095141973122441216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 620,
+              "h": 667,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 620,
+              "h": 667,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 620,
+              "h": 667,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1095141964482207745,
+          "id_str": "1095141964482207745",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/DzK50HuV4AEy-9B.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DzK50HuV4AEy-9B.jpg",
+          "url": "https://t.co/LeiOXVtBnV",
+          "display_url": "pic.twitter.com/LeiOXVtBnV",
+          "expanded_url": "https://twitter.com/wastemobile/status/1095141973122441216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 620,
+              "h": 667,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 620,
+              "h": 667,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 620,
+              "h": 667,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 12 00:15:28 +0000 2019",
+    "id": 1095114125892476928,
+    "id_str": "1095114125892476928",
+    "text": "RT @shangguanluan: 我曾经和大多数人一样有过天真的想法，认为技术会改变世界，带来民主，我们乐于见到年轻人翻墙和提出质疑，可是今天发现，年轻人们都在用ins，可是比以前更爱国了。留学的越来越多，小粉红却有增无减。谷歌卫星上天，可网络监控也可以全方位维稳。没有自由…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "shangguanluan",
+          "name": "上官乱",
+          "id": 95631742,
+          "id_str": "95631742",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 11 02:57:09 +0000 2018",
+      "id": 1050218718335197184,
+      "id_str": "1050218718335197184",
+      "text": "我曾经和大多数人一样有过天真的想法，认为技术会改变世界，带来民主，我们乐于见到年轻人翻墙和提出质疑，可是今天发现，年轻人们都在用ins，可是比以前更爱国了。留学的越来越多，小粉红却有增无减。谷歌卫星上天，可网络监控也可以全方位维稳。没有自由，技术只会为极权添砖加瓦。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 95631742,
+        "id_str": "95631742",
+        "name": "上官乱",
+        "screen_name": "shangguanluan",
+        "location": "Chengdu",
+        "description": "致广大而尽精微",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 53174,
+        "friends_count": 907,
+        "listed_count": 293,
+        "created_at": "Wed Dec 09 12:00:10 +0000 2009",
+        "favourites_count": 471,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6951,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061583749983297536/bkjC0wZT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061583749983297536/bkjC0wZT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/95631742/1499742187",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 193,
+      "favorite_count": 570,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 193,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Feb 11 14:42:25 +0000 2019",
     "id": 1094969914278895616,
     "id_str": "1094969914278895616",
