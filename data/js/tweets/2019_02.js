@@ -1,5 +1,986 @@
 Grailbird.data.tweets_2019_02 = [
   {
+    "created_at": "Thu Feb 14 11:41:28 +0000 2019",
+    "id": 1096011537959968769,
+    "id_str": "1096011537959968769",
+    "text": "印度的智慧手機革命如何創造出新世代的讀者和作家？ https://t.co/lfVGxuHsEP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lfVGxuHsEP",
+          "expanded_url": "https://www.ted.com/talks/chiki_sarkar_how_india_s_smartphone_revolution_is_creating_a_new_generation_of_readers_and_writers",
+          "display_url": "ted.com/talks/chiki_sa…",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 14 10:56:43 +0000 2019",
+    "id": 1096000278946410496,
+    "id_str": "1096000278946410496",
+    "text": "這時捷運上還能看到當眾化妝的，果然是情人節。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 14 02:21:35 +0000 2019",
+    "id": 1095870639758442497,
+    "id_str": "1095870639758442497",
+    "text": "「此新聞訂閱服務可能定價每月10美元左右，蘋果更打算和新聞出版者對半分這個訂閱費用，他們拿走50%訂閱費，其他新聞出版者則得依照文章點閱次數，分配另外的50%收益。」\n\n30％已經夠高了，50％？\n\n蘋果想當內容訂閱的最大玩家，但… https://t.co/8SnNV7lbFV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8SnNV7lbFV",
+          "expanded_url": "https://twitter.com/i/web/status/1095870639758442497",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 14 01:53:37 +0000 2019",
+    "id": 1095863602760699904,
+    "id_str": "1095863602760699904",
+    "text": "其實我是推 Eva Green。\n\n愛情無政府主義，能夠緩減我們情傷？ https://t.co/tnLifNW0xI https://t.co/i53gVeS2DL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tnLifNW0xI",
+          "expanded_url": "http://bit.ly/2SPDkWG",
+          "display_url": "bit.ly/2SPDkWG",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1095863589032710144,
+          "id_str": "1095863589032710144",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DzVKIMqUUAAsEN4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DzVKIMqUUAAsEN4.jpg",
+          "url": "https://t.co/i53gVeS2DL",
+          "display_url": "pic.twitter.com/i53gVeS2DL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1095863602760699904/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1800,
+              "h": 1220,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 813,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 461,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1095863589032710144,
+          "id_str": "1095863589032710144",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/DzVKIMqUUAAsEN4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DzVKIMqUUAAsEN4.jpg",
+          "url": "https://t.co/i53gVeS2DL",
+          "display_url": "pic.twitter.com/i53gVeS2DL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1095863602760699904/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1800,
+              "h": 1220,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 813,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 461,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 14 00:58:00 +0000 2019",
+    "id": 1095849603767754752,
+    "id_str": "1095849603767754752",
+    "text": "情人節快樂。 https://t.co/iQ1LP5F59R",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iQ1LP5F59R",
+          "expanded_url": "https://itunes.apple.com/tw/album/%E9%96%8B%E5%88%B0%E8%8D%BC%E8%98%BC/966481932?i=966481934",
+          "display_url": "itunes.apple.com/tw/album/%E9%9…",
+          "indices": [
+            7,
+            30
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 14 00:25:52 +0000 2019",
+    "id": 1095841518303105025,
+    "id_str": "1095841518303105025",
+    "text": "未滿，滿了，倒了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 13 16:19:08 +0000 2019",
+    "id": 1095719029304549376,
+    "id_str": "1095719029304549376",
+    "text": "設置 Let’s Encrypt Wildcard 果然還是用 dns plugin 順暢，但說明文件裡有列 linode，實際想安裝卻沒有，只好移往 Cloudflare DNS。 https://t.co/YH17LefQhS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1095719019988963329,
+          "id_str": "1095719019988963329",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/DzTGpLAU0AEs-1J.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DzTGpLAU0AEs-1J.jpg",
+          "url": "https://t.co/YH17LefQhS",
+          "display_url": "pic.twitter.com/YH17LefQhS",
+          "expanded_url": "https://twitter.com/wastemobile/status/1095719029304549376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1610,
+              "h": 898,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 379,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 669,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1095719019988963329,
+          "id_str": "1095719019988963329",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/DzTGpLAU0AEs-1J.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DzTGpLAU0AEs-1J.jpg",
+          "url": "https://t.co/YH17LefQhS",
+          "display_url": "pic.twitter.com/YH17LefQhS",
+          "expanded_url": "https://twitter.com/wastemobile/status/1095719029304549376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1610,
+              "h": 898,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 379,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 669,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 13 13:40:50 +0000 2019",
+    "id": 1095679191490584578,
+    "id_str": "1095679191490584578",
+    "text": "話說 Cloudflare 提供從他處移入域名的機制，應該是目前看過最簡易、貼心的，價格便宜又快速，CDN 不能直連台灣節點真是可惜。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1095677819831472133,
+    "in_reply_to_status_id_str": "1095677819831472133",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 13 13:35:23 +0000 2019",
+    "id": 1095677819831472133,
+    "id_str": "1095677819831472133",
+    "text": "把域名搬離 GoDaddy 移到 Cloudflare，但因為「中華電信直連頻寬費用過高」，開 CDN 反倒 ping 值高於 Linode 日本節點，因此只開 DNS only。\n\n讓 Cloudflare 成為免費 DNS 代… https://t.co/TwaLfWIg9i",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TwaLfWIg9i",
+          "expanded_url": "https://twitter.com/i/web/status/1095677819831472133",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 13 09:45:33 +0000 2019",
+    "id": 1095619980387745792,
+    "id_str": "1095619980387745792",
+    "text": "買買買很舒壓～ https://t.co/Bqd0BDMzf5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Bqd0BDMzf5",
+          "expanded_url": "https://twitter.com/jsincity/status/1095606610171355136",
+          "display_url": "twitter.com/jsincity/statu…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1095606610171355136,
+    "quoted_status_id_str": "1095606610171355136",
+    "quoted_status": {
+      "created_at": "Wed Feb 13 08:52:25 +0000 2019",
+      "id": 1095606610171355136,
+      "id_str": "1095606610171355136",
+      "text": "又到了一年一度買書買到像家裡挖到石油一樣的日子了 https://t.co/CUFrMHgvPj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1095606601434558466,
+            "id_str": "1095606601434558466",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/DzRgZjQUcAIeoHH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DzRgZjQUcAIeoHH.jpg",
+            "url": "https://t.co/CUFrMHgvPj",
+            "display_url": "pic.twitter.com/CUFrMHgvPj",
+            "expanded_url": "https://twitter.com/jsincity/status/1095606610171355136/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 919,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 521,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2006,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1095606601434558466,
+            "id_str": "1095606601434558466",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/DzRgZjQUcAIeoHH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DzRgZjQUcAIeoHH.jpg",
+            "url": "https://t.co/CUFrMHgvPj",
+            "display_url": "pic.twitter.com/CUFrMHgvPj",
+            "expanded_url": "https://twitter.com/jsincity/status/1095606610171355136/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 919,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 521,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2006,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14694315,
+        "id_str": "14694315",
+        "name": "愛的蛋頭突然來",
+        "screen_name": "jsincity",
+        "location": "",
+        "description": "啊哈哈哈哈～啊哈哈哈哈～啊哈哈哈哈～啊哈哈（哈你去死啦！）",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6098,
+        "friends_count": 1286,
+        "listed_count": 92,
+        "created_at": "Thu May 08 01:08:58 +0000 2008",
+        "favourites_count": 1952,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 27954,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3248321606/ffc316f87fedd922b57903e573d5c478_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3248321606/ffc316f87fedd922b57903e573d5c478_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14694315/1493476835",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 12 16:10:45 +0000 2019",
+    "id": 1095354529376161792,
+    "id_str": "1095354529376161792",
+    "text": "RT @ryo6: KOBO 用 LINE PAY 卡送 2.8% ，算起來購書是 52%-2.8%=49.2% ，這樣就比之前常態五折要便宜了。有 LINE PAY 卡的上吧！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ryo6",
+          "name": "冥王星人",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Feb 12 16:09:35 +0000 2019",
+      "id": 1095354237742006278,
+      "id_str": "1095354237742006278",
+      "text": "KOBO 用 LINE PAY 卡送 2.8% ，算起來購書是 52%-2.8%=49.2% ，這樣就比之前常態五折要便宜了。有 LINE PAY 卡的上吧！",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19586444,
+        "id_str": "19586444",
+        "name": "冥王星人",
+        "screen_name": "ryo6",
+        "location": "三小南村(崩壞中)",
+        "description": "No Coffee, No Working. 在哪裡跌倒，就在那裏躺著休息。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4492,
+        "friends_count": 773,
+        "listed_count": 79,
+        "created_at": "Tue Jan 27 10:54:22 +0000 2009",
+        "favourites_count": 6476,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 48701,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793760187815370756/SirKPuuq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793760187815370756/SirKPuuq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19586444/1354244657",
+        "profile_link_color": "003473",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFADAD",
+        "profile_text_color": "EDC8AB",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Feb 12 04:43:39 +0000 2019",
     "id": 1095181615469215744,
     "id_str": "1095181615469215744",
