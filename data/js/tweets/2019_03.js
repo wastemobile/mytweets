@@ -1,5 +1,1410 @@
 Grailbird.data.tweets_2019_03 = [
   {
+    "created_at": "Wed Mar 06 13:05:08 +0000 2019",
+    "id": 1103280352154419200,
+    "id_str": "1103280352154419200",
+    "text": "買二手書時看到，順手把「日本推理小說四大奇書」僅缺的一本也買齊了。\n\n另外三本分別是夢野久作的《腦髓地獄》、小栗虫太郎的《黑死館殺人事件》，以及竹本健治的《匣中失樂》。其實匣中失樂之外的三本，算是比較正統的三大奇書。\n\n中井英夫《… https://t.co/5RSAe4T14w",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5RSAe4T14w",
+          "expanded_url": "https://twitter.com/i/web/status/1103280352154419200",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 06 12:57:36 +0000 2019",
+    "id": 1103278456639447040,
+    "id_str": "1103278456639447040",
+    "text": "第三本入手，冷言的《上帝禁區》，列在待讀清單較高的位置，因為是唯一一本價格高於原定價三倍、數量稀少的品項；當然，與書的內容未必正相關。 #等候驗證 #台灣推理三大夢幻逸品\n\nhttps://t.co/4hjeJE5V58 https://t.co/HyaFz7FN0G",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "等候驗證",
+          "indices": [
+            68,
+            73
+          ]
+        },
+        {
+          "text": "台灣推理三大夢幻逸品",
+          "indices": [
+            74,
+            85
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4hjeJE5V58",
+          "expanded_url": "https://twitter.com/wastemobile/status/458263563576946689",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1103278444899532800,
+          "id_str": "1103278444899532800",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0-h5nSVAAA6KLZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0-h5nSVAAA6KLZ.jpg",
+          "url": "https://t.co/HyaFz7FN0G",
+          "display_url": "pic.twitter.com/HyaFz7FN0G",
+          "expanded_url": "https://twitter.com/wastemobile/status/1103278456639447040/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1350,
+              "h": 1800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1103278444899532800,
+          "id_str": "1103278444899532800",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/D0-h5nSVAAA6KLZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D0-h5nSVAAA6KLZ.jpg",
+          "url": "https://t.co/HyaFz7FN0G",
+          "display_url": "pic.twitter.com/HyaFz7FN0G",
+          "expanded_url": "https://twitter.com/wastemobile/status/1103278456639447040/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1350,
+              "h": 1800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 458263563576946689,
+    "quoted_status_id_str": "458263563576946689",
+    "quoted_status": {
+      "created_at": "Mon Apr 21 15:18:42 +0000 2014",
+      "id": 458263563576946689,
+      "id_str": "458263563576946689",
+      "text": "台灣推理作家協會前會長杜鵑窩人，認為台灣推理三大夢幻逸品分別是：既晴的《魔法妄想症》、藍霄的《天人菊殺人事件》，以及冷言的《上帝禁區》。所有的書都已絕版，僅二手書可得，一本電子書也都沒有。 #note",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "note",
+            "indices": [
+              95,
+              100
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "Taipei",
+        "description": "從抑鬱中走出來，需要一個開關，而我不知它在哪裡。",
+        "url": "https://t.co/5LQVtqARrN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LQVtqARrN",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4256,
+        "friends_count": 1113,
+        "listed_count": 132,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3062,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20924,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1534132780",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 06 11:39:57 +0000 2019",
+    "id": 1103258913686736896,
+    "id_str": "1103258913686736896",
+    "text": "RT @loweruuu: 想要瘋狂接吻接吻擁抱擁抱做愛做愛度過今晚，不要想太多後果，也不需在意任何重要的事，就當沒有明天了，我們快點瘋狂接吻接吻擁抱擁抱做愛做愛度過今晚。\n\n／借宿：無法曝光的底片\n／宿主：@coeur_debris",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "loweruuu",
+          "name": "無法曝光的底片",
+          "id": 1040825480608247809,
+          "id_str": "1040825480608247809",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "coeur_debris",
+          "name": "我的心中沒有愛",
+          "id": 79501691,
+          "id_str": "79501691",
+          "indices": [
+            104,
+            117
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Mar 06 11:35:05 +0000 2019",
+      "id": 1103257688065089536,
+      "id_str": "1103257688065089536",
+      "text": "想要瘋狂接吻接吻擁抱擁抱做愛做愛度過今晚，不要想太多後果，也不需在意任何重要的事，就當沒有明天了，我們快點瘋狂接吻接吻擁抱擁抱做愛做愛度過今晚。\n\n／借宿：無法曝光的底片\n／宿主：@coeur_debris",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "coeur_debris",
+            "name": "我的心中沒有愛",
+            "id": 79501691,
+            "id_str": "79501691",
+            "indices": [
+              90,
+              103
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1040825480608247809,
+        "id_str": "1040825480608247809",
+        "name": "無法曝光的底片",
+        "screen_name": "loweruuu",
+        "location": "",
+        "description": "There is no place for fear. No place for panic. No place for mistakes. “With one breath, I'm part of it.”",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2080,
+        "friends_count": 334,
+        "listed_count": 18,
+        "created_at": "Sat Sep 15 04:51:46 +0000 2018",
+        "favourites_count": 2045,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1181,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1099150588258934784/yZ01Prpf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099150588258934784/yZ01Prpf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040825480608247809/1537024642",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 06 04:32:40 +0000 2019",
+    "id": 1103151384210300928,
+    "id_str": "1103151384210300928",
+    "text": "唉，不准我買⋯⋯ https://t.co/DYoj7upbVB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DYoj7upbVB",
+          "expanded_url": "https://twitter.com/KindleBookDeal/status/1103143189630742533",
+          "display_url": "twitter.com/KindleBookDeal…",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1103143189630742533,
+    "quoted_status_id_str": "1103143189630742533",
+    "quoted_status": {
+      "created_at": "Wed Mar 06 04:00:06 +0000 2019",
+      "id": 1103143189630742533,
+      "id_str": "1103143189630742533",
+      "text": "帕佩撒旦阿莱佩【一部思想界顽童的哲思锦集，一份应对奇葩社会的自救清单】 (翁贝托·埃科作品系列)\n\n作者：翁贝托·埃科(Umberto Eco)\n出版信息：2018年12月1日\n原价：￥75.00\n现价：￥22.99\n链接：… https://t.co/kqsiEV8GJa",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kqsiEV8GJa",
+            "expanded_url": "https://twitter.com/i/web/status/1103143189630742533",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://imtx.me\" rel=\"nofollow\">Kindle 特价书</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1029172065536901120,
+        "id_str": "1029172065536901120",
+        "name": "Kindle 特价书",
+        "screen_name": "KindleBookDeal",
+        "location": "",
+        "description": "为您每天推送 Kindle 的特价书有关信息。正在不断完善中。如有问题，请私信。  您也可关注本帐户的 Telegram Channel。",
+        "url": "https://t.co/letMVPtrr1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/letMVPtrr1",
+                "expanded_url": "https://t.me/KindleBookDeals",
+                "display_url": "t.me/KindleBookDeals",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2586,
+        "friends_count": 0,
+        "listed_count": 21,
+        "created_at": "Tue Aug 14 01:05:16 +0000 2018",
+        "favourites_count": 4,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1504,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1032988977781862402/DFLLVTRN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032988977781862402/DFLLVTRN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 06 03:04:33 +0000 2019",
+    "id": 1103129208346165250,
+    "id_str": "1103129208346165250",
+    "text": "用 Drafts 好幾年，隨開隨寫、能設置各種發佈目標，改訂閱制後刪除了。只能在 iPhone 上使用、沒有 Mac 版，iPhone 捷徑似乎可以取代大多數發佈與搬移功能，相較它的訂閱費用明顯不值。\n\n但它似乎有了 Mac 測試… https://t.co/ryVNZy7yc6",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ryVNZy7yc6",
+          "expanded_url": "https://twitter.com/i/web/status/1103129208346165250",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 06 00:25:18 +0000 2019",
+    "id": 1103089131645620224,
+    "id_str": "1103089131645620224",
+    "text": "最近很愛吳卓源。\n https://t.co/ppsHaepD4Q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ppsHaepD4Q",
+          "expanded_url": "https://itunes.apple.com/tw/album//1446504295",
+          "display_url": "itunes.apple.com/tw/album//1446…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 06 00:23:20 +0000 2019",
+    "id": 1103088637934133249,
+    "id_str": "1103088637934133249",
+    "text": "RT @thecat: 這研究頗有趣，它証實媒介性質會成就不同內容，例如紙版印刷盛行的國家盛產科學家，廣播與電視發達的國家則多產知名藝人。\n\n// 依此類推，網路直播流行的國家自然多產 _____😌\n\n#麥克魯漢表示 https://t.co/ELDwC338bE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "麥克魯漢表示",
+          "indices": [
+            101,
+            108
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1103087054064312326,
+          "id_str": "1103087054064312326",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/D07z1M3V4AY267I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D07z1M3V4AY267I.jpg",
+          "url": "https://t.co/ELDwC338bE",
+          "display_url": "pic.twitter.com/ELDwC338bE",
+          "expanded_url": "https://twitter.com/thecat/status/1103087063832772613/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 657,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 372,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1608,
+              "h": 880,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1103087063832772613,
+          "source_status_id_str": "1103087063832772613",
+          "source_user_id": 807633,
+          "source_user_id_str": "807633"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1103087054064312326,
+          "id_str": "1103087054064312326",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/D07z1M3V4AY267I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D07z1M3V4AY267I.jpg",
+          "url": "https://t.co/ELDwC338bE",
+          "display_url": "pic.twitter.com/ELDwC338bE",
+          "expanded_url": "https://twitter.com/thecat/status/1103087063832772613/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 657,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 372,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1608,
+              "h": 880,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1103087063832772613,
+          "source_status_id_str": "1103087063832772613",
+          "source_user_id": 807633,
+          "source_user_id_str": "807633"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Mar 06 00:17:05 +0000 2019",
+      "id": 1103087063832772613,
+      "id_str": "1103087063832772613",
+      "text": "這研究頗有趣，它証實媒介性質會成就不同內容，例如紙版印刷盛行的國家盛產科學家，廣播與電視發達的國家則多產知名藝人。\n\n// 依此類推，網路直播流行的國家自然多產 _____😌\n\n#麥克魯漢表示 https://t.co/ELDwC338bE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "麥克魯漢表示",
+            "indices": [
+              89,
+              96
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1103087054064312326,
+            "id_str": "1103087054064312326",
+            "indices": [
+              97,
+              120
+            ],
+            "media_url": "http://pbs.twimg.com/media/D07z1M3V4AY267I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D07z1M3V4AY267I.jpg",
+            "url": "https://t.co/ELDwC338bE",
+            "display_url": "pic.twitter.com/ELDwC338bE",
+            "expanded_url": "https://twitter.com/thecat/status/1103087063832772613/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 657,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 372,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1608,
+                "h": 880,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1103087054064312326,
+            "id_str": "1103087054064312326",
+            "indices": [
+              97,
+              120
+            ],
+            "media_url": "http://pbs.twimg.com/media/D07z1M3V4AY267I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D07z1M3V4AY267I.jpg",
+            "url": "https://t.co/ELDwC338bE",
+            "display_url": "pic.twitter.com/ELDwC338bE",
+            "expanded_url": "https://twitter.com/thecat/status/1103087063832772613/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 657,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 372,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1608,
+                "h": 880,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807633,
+        "id_str": "807633",
+        "name": "Jeremy Lu",
+        "screen_name": "thecat",
+        "location": "right here, right now",
+        "description": "Fullstack web developer by day, amateur haskeller by night, avid cyclist and swimmer in between. Ask me anything about react and cycling. λ",
+        "url": "https://t.co/c4ldCMX0ry",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/c4ldCMX0ry",
+                "expanded_url": "http://www.fullstackrocks.com",
+                "display_url": "fullstackrocks.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4862,
+        "friends_count": 1369,
+        "listed_count": 80,
+        "created_at": "Sat Mar 03 01:42:09 +0000 2007",
+        "favourites_count": 2052,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23242,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Mar 05 14:25:30 +0000 2019",
+    "id": 1102938187947741184,
+    "id_str": "1102938187947741184",
+    "text": "但 Lite 不支援手寫，而 Note 10.3 其實與 Lite 相同重量、厚度，買 Note 可能比較好。 https://t.co/i67S72w0oZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/i67S72w0oZ",
+          "expanded_url": "https://twitter.com/mranti/status/1102934336402345985",
+          "display_url": "twitter.com/mranti/status/…",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1102934336402345985,
+    "quoted_status_id_str": "1102934336402345985",
+    "quoted_status": {
+      "created_at": "Tue Mar 05 14:10:11 +0000 2019",
+      "id": 1102934336402345985,
+      "id_str": "1102934336402345985",
+      "text": "Boox 10.3 Lite评测——感觉太好了啊。以下是我的四本电子书显示效果（英文正式、英文扫描、中文正式、中文扫描），加上自动裁剪功能，相当不错。拿起来非常轻。Android市场能装其他，比如我常用的Pocket，这样平日的文… https://t.co/Bq8fwmrjNf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Bq8fwmrjNf",
+            "expanded_url": "https://twitter.com/i/web/status/1102934336402345985",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5709522,
+        "id_str": "5709522",
+        "name": "Michael Anti",
+        "screen_name": "mranti",
+        "location": "北京, 中华人民共和国",
+        "description": "安替, founder of Caixin Globus, veteran journalist on Int'l affairs, Harvard Nieman Fellow '08, TED speaker. Freedom through Transparent Globalization.",
+        "url": "https://t.co/r3MKJVN7oB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/r3MKJVN7oB",
+                "expanded_url": "http://caixin.com",
+                "display_url": "caixin.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 233541,
+        "friends_count": 9209,
+        "listed_count": 2707,
+        "created_at": "Wed May 02 10:08:45 +0000 2007",
+        "favourites_count": 129,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 153895,
+        "lang": "zh-CN",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 37,
+      "favorite_count": 137,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Mar 05 14:12:27 +0000 2019",
+    "id": 1102934903790788608,
+    "id_str": "1102934903790788608",
+    "text": "RT @mranti: Boox 10.3 Lite评测——感觉太好了啊。以下是我的四本电子书显示效果（英文正式、英文扫描、中文正式、中文扫描），加上自动裁剪功能，相当不错。拿起来非常轻。Android市场能装其他，比如我常用的Pocket，这样平日的文章也可以用这种电子墨水屏…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mranti",
+          "name": "Michael Anti",
+          "id": 5709522,
+          "id_str": "5709522",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 05 14:10:11 +0000 2019",
+      "id": 1102934336402345985,
+      "id_str": "1102934336402345985",
+      "text": "Boox 10.3 Lite评测——感觉太好了啊。以下是我的四本电子书显示效果（英文正式、英文扫描、中文正式、中文扫描），加上自动裁剪功能，相当不错。拿起来非常轻。Android市场能装其他，比如我常用的Pocket，这样平日的文… https://t.co/Bq8fwmrjNf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Bq8fwmrjNf",
+            "expanded_url": "https://twitter.com/i/web/status/1102934336402345985",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5709522,
+        "id_str": "5709522",
+        "name": "Michael Anti",
+        "screen_name": "mranti",
+        "location": "北京, 中华人民共和国",
+        "description": "安替, founder of Caixin Globus, veteran journalist on Int'l affairs, Harvard Nieman Fellow '08, TED speaker. Freedom through Transparent Globalization.",
+        "url": "https://t.co/r3MKJVN7oB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/r3MKJVN7oB",
+                "expanded_url": "http://caixin.com",
+                "display_url": "caixin.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 233541,
+        "friends_count": 9209,
+        "listed_count": 2707,
+        "created_at": "Wed May 02 10:08:45 +0000 2007",
+        "favourites_count": 129,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 153895,
+        "lang": "zh-CN",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 37,
+      "favorite_count": 137,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 37,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Mar 05 12:53:48 +0000 2019",
     "id": 1102915113583964162,
     "id_str": "1102915113583964162",
