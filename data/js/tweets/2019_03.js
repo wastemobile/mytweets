@@ -1,5 +1,632 @@
 Grailbird.data.tweets_2019_03 = [
   {
+    "created_at": "Sat Mar 16 16:09:07 +0000 2019",
+    "id": 1106950532462051328,
+    "id_str": "1106950532462051328",
+    "text": "喔，莒哈絲的《情人》⋯⋯ https://t.co/dO5MvyG4oR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dO5MvyG4oR",
+          "expanded_url": "https://twitter.com/ooxx_520/status/1106582833336709120",
+          "display_url": "twitter.com/ooxx_520/statu…",
+          "indices": [
+            13,
+            36
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1106582833336709120,
+    "quoted_status_id_str": "1106582833336709120",
+    "quoted_status": {
+      "created_at": "Fri Mar 15 15:48:01 +0000 2019",
+      "id": 1106582833336709120,
+      "id_str": "1106582833336709120",
+      "text": "1929年的越南，一個15歲的法國少女，在西貢女子寄宿學校讀書。簡在寄宿學校裡知道有的女生在外賣淫，她也想找個有錢人試試，因此很主動與東尼（梁家輝）交談。簡和東尼（梁家輝）很快就墜入愛河。東尼把簡帶到他的公館，這是中國富人們常用來… https://t.co/bBUbKrZIWS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bBUbKrZIWS",
+            "expanded_url": "https://twitter.com/i/web/status/1106582833336709120",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1063788145781555205,
+        "id_str": "1063788145781555205",
+        "name": "Sakuragun_711",
+        "screen_name": "OOXX_520",
+        "location": "",
+        "description": "关注我，每天福利。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3092,
+        "friends_count": 79,
+        "listed_count": 17,
+        "created_at": "Sat Nov 17 13:37:12 +0000 2018",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 83,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1105440973398532096/lyHhAc13_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105440973398532096/lyHhAc13_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063788145781555205/1552391689",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 74,
+      "favorite_count": 411,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": true,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 16 05:03:58 +0000 2019",
+    "id": 1106783142294114305,
+    "id_str": "1106783142294114305",
+    "text": "RT @after8rain: https://t.co/Z0s4ff7QQr https://t.co/sJsqfBtTxN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "after8rain",
+          "name": "HANE",
+          "id": 238968989,
+          "id_str": "238968989",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z0s4ff7QQr",
+          "expanded_url": "https://m.facebook.com/story.php?story_fbid=2482746028421248&id=100000576264676",
+          "display_url": "m.facebook.com/story.php?stor…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1106769432720736256,
+          "id_str": "1106769432720736256",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1wI72WUgAAZN3X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1wI72WUgAAZN3X.jpg",
+          "url": "https://t.co/sJsqfBtTxN",
+          "display_url": "pic.twitter.com/sJsqfBtTxN",
+          "expanded_url": "https://twitter.com/after8rain/status/1106769440530546689/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 906,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 906,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 570,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1106769440530546689,
+          "source_status_id_str": "1106769440530546689",
+          "source_user_id": 238968989,
+          "source_user_id_str": "238968989"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1106769432720736256,
+          "id_str": "1106769432720736256",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/media/D1wI72WUgAAZN3X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D1wI72WUgAAZN3X.jpg",
+          "url": "https://t.co/sJsqfBtTxN",
+          "display_url": "pic.twitter.com/sJsqfBtTxN",
+          "expanded_url": "https://twitter.com/after8rain/status/1106769440530546689/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 906,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 906,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 570,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1106769440530546689,
+          "source_status_id_str": "1106769440530546689",
+          "source_user_id": 238968989,
+          "source_user_id_str": "238968989"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Mar 16 04:09:32 +0000 2019",
+      "id": 1106769440530546689,
+      "id_str": "1106769440530546689",
+      "text": "https://t.co/Z0s4ff7QQr https://t.co/sJsqfBtTxN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Z0s4ff7QQr",
+            "expanded_url": "https://m.facebook.com/story.php?story_fbid=2482746028421248&id=100000576264676",
+            "display_url": "m.facebook.com/story.php?stor…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1106769432720736256,
+            "id_str": "1106769432720736256",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/D1wI72WUgAAZN3X.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1wI72WUgAAZN3X.jpg",
+            "url": "https://t.co/sJsqfBtTxN",
+            "display_url": "pic.twitter.com/sJsqfBtTxN",
+            "expanded_url": "https://twitter.com/after8rain/status/1106769440530546689/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 906,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 906,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 570,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1106769432720736256,
+            "id_str": "1106769432720736256",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/D1wI72WUgAAZN3X.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D1wI72WUgAAZN3X.jpg",
+            "url": "https://t.co/sJsqfBtTxN",
+            "display_url": "pic.twitter.com/sJsqfBtTxN",
+            "expanded_url": "https://twitter.com/after8rain/status/1106769440530546689/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 906,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 906,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 570,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 238968989,
+        "id_str": "238968989",
+        "name": "HANE",
+        "screen_name": "after8rain",
+        "location": "Taiwan",
+        "description": "基本上都是迷妹碎碎念。\n\n2019無用小目標：多寫字／2019不可能還是說說看目標：把書看完、書買了要看、多存錢",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 341,
+        "friends_count": 749,
+        "listed_count": 7,
+        "created_at": "Sun Jan 16 13:34:27 +0000 2011",
+        "favourites_count": 6129,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11931,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1001413121217474561/Ki6JWBLg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001413121217474561/Ki6JWBLg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/238968989/1537721479",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 94,
+      "favorite_count": 133,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 94,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sat Mar 16 04:37:19 +0000 2019",
+    "id": 1106776432917639170,
+    "id_str": "1106776432917639170",
+    "text": "RT @wangdan1989: 今天在聯合國，兩次為台灣說話。\n\n上午會見幾個西方國家駐聯合國代表團官員的時候，談到遏止中共意識形態擴張的問題，我提出五點建議，其中一條就是支持台灣的民主，以對照中共的專制。\n\n下午與聯合國人權委員會下屬的兩個部門開會的時候，我特別提到李明哲案…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "wangdan1989",
+          "name": "王丹",
+          "id": 98864871,
+          "id_str": "98864871",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 15 06:40:30 +0000 2019",
+      "id": 1106445046365212673,
+      "id_str": "1106445046365212673",
+      "text": "今天在聯合國，兩次為台灣說話。\n\n上午會見幾個西方國家駐聯合國代表團官員的時候，談到遏止中共意識形態擴張的問題，我提出五點建議，其中一條就是支持台灣的民主，以對照中共的專制。\n\n下午與聯合國人權委員會下屬的兩個部門開會的時候，我特… https://t.co/GJJdAn3rRD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GJJdAn3rRD",
+            "expanded_url": "https://twitter.com/i/web/status/1106445046365212673",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 98864871,
+        "id_str": "98864871",
+        "name": "王丹",
+        "screen_name": "wangdan1989",
+        "location": "",
+        "description": "一个不可救药的理想主义者； 致力于做一个温和，坚定，建设性的政治反对派； 期待未来的中国，能够重建政治秩序和生活秩序。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 133335,
+        "friends_count": 13670,
+        "listed_count": 1198,
+        "created_at": "Wed Dec 23 12:05:30 +0000 2009",
+        "favourites_count": 2307,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6548,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/986803942205022208/v3mMEbZe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/986803942205022208/v3mMEbZe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/98864871/1524107831",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 64,
+      "favorite_count": 335,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 64,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Mar 16 01:34:44 +0000 2019",
     "id": 1106730485789548544,
     "id_str": "1106730485789548544",
