@@ -1,5 +1,482 @@
 Grailbird.data.tweets_2019_03 = [
   {
+    "created_at": "Wed Mar 20 07:38:14 +0000 2019",
+    "id": 1108271514812444679,
+    "id_str": "1108271514812444679",
+    "text": "@huar 不確定，數位錄音介面並非少見的產品，或許市場不大，但 markup 這麼多的蠻少見。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "huar",
+          "name": "huar",
+          "id": 7704342,
+          "id_str": "7704342",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1108270637238243328,
+    "in_reply_to_status_id_str": "1108270637238243328",
+    "in_reply_to_user_id": 7704342,
+    "in_reply_to_user_id_str": "7704342",
+    "in_reply_to_screen_name": "huar",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 20 07:22:15 +0000 2019",
+    "id": 1108267491728355331,
+    "id_str": "1108267491728355331",
+    "text": "這個給 Podcaster 的整合工作台／錄音介面看起來真的不錯，但美金 $599 在台灣賣 NT$28,000，把所有加成因素都疊上去還是覺得有點離譜呢⋯⋯\n\nRODE Caster Pro 廣播 / 直播用錄音介面… https://t.co/9ewAoudmWz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9ewAoudmWz",
+          "expanded_url": "https://twitter.com/i/web/status/1108267491728355331",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 20 01:49:13 +0000 2019",
+    "id": 1108183681594585088,
+    "id_str": "1108183681594585088",
+    "text": "由於 ReadKit for Mac 不支援 BazQux Reader 自訂的搜尋源（smart stream），只好連帶跳槽到 Reeder 3。 https://t.co/K5cGp3klpz https://t.co/QJXxPA40Ug",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/K5cGp3klpz",
+          "expanded_url": "http://bit.ly/2HKN3HR",
+          "display_url": "bit.ly/2HKN3HR",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1108183671897415681,
+          "id_str": "1108183671897415681",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/D2EPLZ1VYAEyyjf.png",
+          "media_url_https": "https://pbs.twimg.com/media/D2EPLZ1VYAEyyjf.png",
+          "url": "https://t.co/QJXxPA40Ug",
+          "display_url": "pic.twitter.com/QJXxPA40Ug",
+          "expanded_url": "https://twitter.com/wastemobile/status/1108183681594585088/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 580,
+              "h": 340,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 580,
+              "h": 340,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 580,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1108183671897415681,
+          "id_str": "1108183671897415681",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/D2EPLZ1VYAEyyjf.png",
+          "media_url_https": "https://pbs.twimg.com/media/D2EPLZ1VYAEyyjf.png",
+          "url": "https://t.co/QJXxPA40Ug",
+          "display_url": "pic.twitter.com/QJXxPA40Ug",
+          "expanded_url": "https://twitter.com/wastemobile/status/1108183681594585088/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 580,
+              "h": 340,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 580,
+              "h": 340,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 580,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Mar 19 15:50:18 +0000 2019",
+    "id": 1108032959204876288,
+    "id_str": "1108032959204876288",
+    "text": "RT @dododododohui: 漢堡早報頭版：\n\n\"基督城屠殺案的兇手，在發動其殘暴行動時攝影，好讓這些影像在全世界被傳播。\n\n在我們這裡，沒有版面讓他的影像刊出。”\n\n媒體的品格。 GJ👍🏻👍🏻👍🏻👍🏻\n\nFb@ankerherz https://t.co/m0Qrze…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dododododohui",
+          "name": "倒地多惠🐶",
+          "id": 3256978429,
+          "id_str": "3256978429",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Mar 17 12:34:08 +0000 2019",
+      "id": 1107258817010556929,
+      "id_str": "1107258817010556929",
+      "text": "漢堡早報頭版：\n\n\"基督城屠殺案的兇手，在發動其殘暴行動時攝影，好讓這些影像在全世界被傳播。\n\n在我們這裡，沒有版面讓他的影像刊出。”\n\n媒體的品格。 GJ👍🏻👍🏻👍🏻👍🏻\n\nFb@ankerherz https://t.co/m0QrzeKfwT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1107258810685513728,
+            "id_str": "1107258810685513728",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/D13GBZVU4AAx0te.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D13GBZVU4AAx0te.jpg",
+            "url": "https://t.co/m0QrzeKfwT",
+            "display_url": "pic.twitter.com/m0QrzeKfwT",
+            "expanded_url": "https://twitter.com/dododododohui/status/1107258817010556929/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1107258810685513728,
+            "id_str": "1107258810685513728",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/D13GBZVU4AAx0te.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D13GBZVU4AAx0te.jpg",
+            "url": "https://t.co/m0QrzeKfwT",
+            "display_url": "pic.twitter.com/m0QrzeKfwT",
+            "expanded_url": "https://twitter.com/dododododohui/status/1107258817010556929/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3256978429,
+        "id_str": "3256978429",
+        "name": "倒地多惠🐶",
+        "screen_name": "dododododohui",
+        "location": "Taiwan",
+        "description": "我是一個廢物",
+        "url": "https://t.co/60KKysRLpy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/60KKysRLpy",
+                "expanded_url": "http://addzero77.com",
+                "display_url": "addzero77.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6244,
+        "friends_count": 3617,
+        "listed_count": 45,
+        "created_at": "Fri Jun 26 18:33:23 +0000 2015",
+        "favourites_count": 18398,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14971,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/901878298526879744/lC95EB4d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/901878298526879744/lC95EB4d_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3256978429/1552950687",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 139,
+      "favorite_count": 435,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 139,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Mar 19 11:13:59 +0000 2019",
     "id": 1107963422388285440,
     "id_str": "1107963422388285440",
