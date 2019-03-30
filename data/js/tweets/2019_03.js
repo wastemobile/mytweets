@@ -1,5 +1,534 @@
 Grailbird.data.tweets_2019_03 = [
   {
+    "created_at": "Sat Mar 30 01:58:20 +0000 2019",
+    "id": 1111809856376209408,
+    "id_str": "1111809856376209408",
+    "text": "如果只想擷取部分文字送進 iA Writer，就安裝這個 Add Clipping to iA Writer 捷徑 https://t.co/mXdi2eR4g2\n\n修改成送進 Ulysses 的方法與前推一樣。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mXdi2eR4g2",
+          "expanded_url": "http://bit.ly/2uACSxL",
+          "display_url": "bit.ly/2uACSxL",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 30 01:51:35 +0000 2019",
+    "id": 1111808155707543552,
+    "id_str": "1111808155707543552",
+    "text": "將網頁整篇簡化文字送到 iA Writer，替代 Evernote Web Clipper，在 iOS 上只需要安裝這個捷徑 https://t.co/UHNLlWydqh\n\n複製捷徑、修改流程結束前的那個 URL（如圖），就自建… https://t.co/MqQGDClseR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UHNLlWydqh",
+          "expanded_url": "http://bit.ly/2uBzfb2",
+          "display_url": "bit.ly/2uBzfb2",
+          "indices": [
+            63,
+            86
+          ]
+        },
+        {
+          "url": "https://t.co/MqQGDClseR",
+          "expanded_url": "https://twitter.com/i/web/status/1111808155707543552",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 30 01:19:13 +0000 2019",
+    "id": 1111800011199660032,
+    "id_str": "1111800011199660032",
+    "text": "RT @angelachatte: 如果你認為年輕人的“喪”是一種出世的、消極的人生態度，那就錯了。魯迅說過，這也是一種生活，一種存在主義。 \n \n生活的切實意義並不在於那些宏大的目標，而在於一些無用的事：去讀書，去種花，去跑步，去戀愛吧，這些無用的事才是正經事。買房，升職，加…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "angelachatte",
+          "name": "悪いアンジェラ",
+          "id": 2271405120,
+          "id_str": "2271405120",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Mar 28 14:21:27 +0000 2019",
+      "id": 1111272091381174272,
+      "id_str": "1111272091381174272",
+      "text": "如果你認為年輕人的“喪”是一種出世的、消極的人生態度，那就錯了。魯迅說過，這也是一種生活，一種存在主義。 \n \n生活的切實意義並不在於那些宏大的目標，而在於一些無用的事：去讀書，去種花，去跑步，去戀愛吧，這些無用的事才是正經事。買… https://t.co/ADdX2K9B4n",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ADdX2K9B4n",
+            "expanded_url": "https://twitter.com/i/web/status/1111272091381174272",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2271405120,
+        "id_str": "2271405120",
+        "name": "悪いアンジェラ",
+        "screen_name": "angelachatte",
+        "location": "Planet Earth",
+        "description": "深度膚淺",
+        "url": "https://t.co/ynQrhFo5hK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ynQrhFo5hK",
+                "expanded_url": "https://peing.net/angelachatte",
+                "display_url": "peing.net/angelachatte",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3381,
+        "friends_count": 78,
+        "listed_count": 31,
+        "created_at": "Wed Jan 01 09:18:24 +0000 2014",
+        "favourites_count": 20375,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13168,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/828946127063879680/Va1RZrWB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/828946127063879680/Va1RZrWB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2271405120/1553413400",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 19,
+      "favorite_count": 72,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 29 23:33:44 +0000 2019",
+    "id": 1111773465080553472,
+    "id_str": "1111773465080553472",
+    "text": "RT @TechCrunch: Apple cancels AirPower product, citing inability to meet its high standards for hardware https://t.co/x72U3kodOd by @panzer…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TechCrunch",
+          "name": "TechCrunch",
+          "id": 816653,
+          "id_str": "816653",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "panzer",
+          "name": "Matthew Panzarino",
+          "id": 19312115,
+          "id_str": "19312115",
+          "indices": [
+            132,
+            139
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/x72U3kodOd",
+          "expanded_url": "https://tcrn.ch/2YwIw1D",
+          "display_url": "tcrn.ch/2YwIw1D",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 29 19:16:07 +0000 2019",
+      "id": 1111708634810073089,
+      "id_str": "1111708634810073089",
+      "text": "Apple cancels AirPower product, citing inability to meet its high standards for hardware https://t.co/x72U3kodOd by… https://t.co/cflG1Ie9sa",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/x72U3kodOd",
+            "expanded_url": "https://tcrn.ch/2YwIw1D",
+            "display_url": "tcrn.ch/2YwIw1D",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "url": "https://t.co/cflG1Ie9sa",
+            "expanded_url": "https://twitter.com/i/web/status/1111708634810073089",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 816653,
+        "id_str": "816653",
+        "name": "TechCrunch",
+        "screen_name": "TechCrunch",
+        "location": "San Francisco, CA",
+        "description": "TechCrunch is excited to announce our new membership program, Extra Crunch. Start your free trial at https://t.co/UP0CP1zqK6",
+        "url": "https://t.co/b5Oyx1k1ye",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/b5Oyx1k1ye",
+                "expanded_url": "http://techcrunch.com",
+                "display_url": "techcrunch.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/UP0CP1zqK6",
+                "expanded_url": "http://techcrunch.com/subscribe",
+                "display_url": "techcrunch.com/subscribe",
+                "indices": [
+                  101,
+                  124
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10043093,
+        "friends_count": 1051,
+        "listed_count": 111591,
+        "created_at": "Wed Mar 07 01:27:09 +0000 2007",
+        "favourites_count": 5219,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 196889,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "149500",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816653/1549990985",
+        "profile_link_color": "00A562",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "222222",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 157,
+      "favorite_count": 197,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 157,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 29 12:42:09 +0000 2019",
+    "id": 1111609487473836033,
+    "id_str": "1111609487473836033",
+    "text": "接到讀冊的詐騙電話。已經近兩年買二手書都用超商取貨付款，只留手機末三碼，也沒再接到過這類電話，是舊資料庫又被洗出來了嗎？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Mar 29 11:13:48 +0000 2019",
     "id": 1111587253971648513,
     "id_str": "1111587253971648513",
