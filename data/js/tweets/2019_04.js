@@ -1,5 +1,263 @@
 Grailbird.data.tweets_2019_04 = [
   {
+    "created_at": "Thu Apr 04 00:52:59 +0000 2019",
+    "id": 1113605348244385794,
+    "id_str": "1113605348244385794",
+    "text": "Kobo forma 已更新繁中介面，但還沒有對應的字典。 https://t.co/cp5MA5Irm8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1113605334294192128,
+          "id_str": "1113605334294192128",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3RSJsKV4AANAcO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3RSJsKV4AANAcO.jpg",
+          "url": "https://t.co/cp5MA5Irm8",
+          "display_url": "pic.twitter.com/cp5MA5Irm8",
+          "expanded_url": "https://twitter.com/wastemobile/status/1113605348244385794/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1113605334294192128,
+          "id_str": "1113605334294192128",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3RSJsKV4AANAcO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3RSJsKV4AANAcO.jpg",
+          "url": "https://t.co/cp5MA5Irm8",
+          "display_url": "pic.twitter.com/cp5MA5Irm8",
+          "expanded_url": "https://twitter.com/wastemobile/status/1113605348244385794/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 03 15:29:47 +0000 2019",
+    "id": 1113463612813729793,
+    "id_str": "1113463612813729793",
+    "text": "替一本書挑選主題曲，會激出什麼火花呢？\n\nBook Ground Music https://t.co/2ft52eMlIQ https://t.co/K3gZkxWkIk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2ft52eMlIQ",
+          "expanded_url": "http://bit.ly/2WJOUkE",
+          "display_url": "bit.ly/2WJOUkE",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1113463596514549761,
+          "id_str": "1113463596514549761",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3PRPdyUIAEceyp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3PRPdyUIAEceyp.jpg",
+          "url": "https://t.co/K3gZkxWkIk",
+          "display_url": "pic.twitter.com/K3gZkxWkIk",
+          "expanded_url": "https://twitter.com/wastemobile/status/1113463612813729793/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 404,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 712,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1084,
+              "h": 1826,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1113463596514549761,
+          "id_str": "1113463596514549761",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3PRPdyUIAEceyp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3PRPdyUIAEceyp.jpg",
+          "url": "https://t.co/K3gZkxWkIk",
+          "display_url": "pic.twitter.com/K3gZkxWkIk",
+          "expanded_url": "https://twitter.com/wastemobile/status/1113463612813729793/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 404,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 712,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1084,
+              "h": 1826,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 03 15:03:29 +0000 2019",
     "id": 1113456994751381504,
     "id_str": "1113456994751381504",
