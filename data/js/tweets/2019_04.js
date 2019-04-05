@@ -1,5 +1,469 @@
 Grailbird.data.tweets_2019_04 = [
   {
+    "created_at": "Thu Apr 04 07:49:22 +0000 2019",
+    "id": 1113710132842524672,
+    "id_str": "1113710132842524672",
+    "text": "🤭 https://t.co/Woo26xQy02",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1113710122142846976,
+          "id_str": "1113710122142846976",
+          "indices": [
+            2,
+            25
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3SxdJUU0AADJRa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3SxdJUU0AADJRa.jpg",
+          "url": "https://t.co/Woo26xQy02",
+          "display_url": "pic.twitter.com/Woo26xQy02",
+          "expanded_url": "https://twitter.com/wastemobile/status/1113710132842524672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1532,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 509,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 898,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1113710122142846976,
+          "id_str": "1113710122142846976",
+          "indices": [
+            2,
+            25
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3SxdJUU0AADJRa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3SxdJUU0AADJRa.jpg",
+          "url": "https://t.co/Woo26xQy02",
+          "display_url": "pic.twitter.com/Woo26xQy02",
+          "expanded_url": "https://twitter.com/wastemobile/status/1113710132842524672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1532,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 509,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 898,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Thu Apr 04 04:39:27 +0000 2019",
+    "id": 1113662338513735680,
+    "id_str": "1113662338513735680",
+    "text": "@hpotato @neroli_love 攻殼車！！！\n\n（上次還有人問我那小怪蟲是什麼⋯⋯）",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hpotato",
+          "name": "雙虎牌人參補腦丸㊣特價中",
+          "id": 16183976,
+          "id_str": "16183976",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "neroli_love",
+          "name": "✴︎ 水逆美人代表の鳥喵喵  LV.2✴︎",
+          "id": 738963028801032192,
+          "id_str": "738963028801032192",
+          "indices": [
+            9,
+            21
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1113656011829592064,
+    "in_reply_to_status_id_str": "1113656011829592064",
+    "in_reply_to_user_id": 16183976,
+    "in_reply_to_user_id_str": "16183976",
+    "in_reply_to_screen_name": "hpotato",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 04 03:07:43 +0000 2019",
+    "id": 1113639256746942464,
+    "id_str": "1113639256746942464",
+    "text": "RT @yorkxin: Kobo 閱讀器上了繁體中文語言包，內附的字體是文鼎UD晶熙黑，只有一個字重，我是覺得太粗。直排效果也不錯。但是沒有明體字，內建的 Kobo 筑紫明朝看繁體書會缺字，而且標點符號是日文用的，不適合看繁體書；好處是缺字會改用晶熙黑，不像以前會直接少一個字…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yorkxin",
+          "name": "Yucheng Chuang 🌈",
+          "id": 17082341,
+          "id_str": "17082341",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Apr 04 01:20:32 +0000 2019",
+      "id": 1113612280648753153,
+      "id_str": "1113612280648753153",
+      "text": "Kobo 閱讀器上了繁體中文語言包，內附的字體是文鼎UD晶熙黑，只有一個字重，我是覺得太粗。直排效果也不錯。但是沒有明體字，內建的 Kobo 筑紫明朝看繁體書會缺字，而且標點符號是日文用的，不適合看繁體書；好處是缺字會改用晶熙黑，… https://t.co/0JlaVbGoeT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0JlaVbGoeT",
+            "expanded_url": "https://twitter.com/i/web/status/1113612280648753153",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17082341,
+        "id_str": "17082341",
+        "name": "Yucheng Chuang 🌈",
+        "screen_name": "yorkxin",
+        "location": "Tokyo, Japan",
+        "description": "Node.js / Ruby / Web Developer in Tokyo, from Taiwan. Love #cooking, #railway & #typography. Feel free to follow / unfollow.",
+        "url": "https://t.co/mVdJtnJIPO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/mVdJtnJIPO",
+                "expanded_url": "https://medium.com/@yorkxin",
+                "display_url": "medium.com/@yorkxin",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2388,
+        "friends_count": 623,
+        "listed_count": 94,
+        "created_at": "Fri Oct 31 08:41:23 +0000 2008",
+        "favourites_count": 27298,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 38529,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "002B36",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1054714028117741569/F6INKnVe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054714028117741569/F6INKnVe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17082341/1528815537",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 04 02:31:30 +0000 2019",
+    "id": 1113630140112592896,
+    "id_str": "1113630140112592896",
+    "text": "「現在全英國有接近 1,500 個不同的「密室逃脫」遊戲室，證明這個新興的混合娛樂行業，已變成當地商機蓬勃的主流消閒活動。」\n\n這數字有點驚人。\n\n「密室逃脫」成風：擺脫網絡，回歸離線社交體驗… https://t.co/EaeOczpKPW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EaeOczpKPW",
+          "expanded_url": "https://twitter.com/i/web/status/1113630140112592896",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 04 01:32:38 +0000 2019",
+    "id": 1113615326078332928,
+    "id_str": "1113615326078332928",
+    "text": "「瑞典是一個靠近北極的奇特小國，人數不到九百萬，擁有全世界最高的生活水準、最長的平均壽命、男女平權的程度也在各國之上。但自殺率之高、稅率之高，男人毆打女性伴侶致死的新聞仍然層出不窮。」\n\n瑞典犯罪小說。\n\n69工作室… https://t.co/e1qAXqvoom",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/e1qAXqvoom",
+          "expanded_url": "https://twitter.com/i/web/status/1113615326078332928",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Apr 04 00:52:59 +0000 2019",
     "id": 1113605348244385794,
     "id_str": "1113605348244385794",
