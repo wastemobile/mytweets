@@ -1,5 +1,501 @@
 Grailbird.data.tweets_2019_04 = [
   {
+    "created_at": "Thu Apr 11 12:00:51 +0000 2019",
+    "id": 1116310138556538880,
+    "id_str": "1116310138556538880",
+    "text": "RT @baiwagoffsa: 你們外國人怎麼那麼愛宗教地獄梗，但真的很好笑啦可惡 https://t.co/1h7PFlgWPN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "baiwagoffsa",
+          "name": "⚔️努力克服頭痛⚔️",
+          "id": 978845967209426945,
+          "id_str": "978845967209426945",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1116165520259031040,
+          "id_str": "1116165520259031040",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/D31qoIGUIAAYf6N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D31qoIGUIAAYf6N.jpg",
+          "url": "https://t.co/1h7PFlgWPN",
+          "display_url": "pic.twitter.com/1h7PFlgWPN",
+          "expanded_url": "https://twitter.com/baiwagoffsa/status/1116165524684017664/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 639,
+              "h": 342,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 639,
+              "h": 342,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 639,
+              "h": 342,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1116165524684017664,
+          "source_status_id_str": "1116165524684017664",
+          "source_user_id": 978845967209426945,
+          "source_user_id_str": "978845967209426945"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1116165520259031040,
+          "id_str": "1116165520259031040",
+          "indices": [
+            43,
+            66
+          ],
+          "media_url": "http://pbs.twimg.com/media/D31qoIGUIAAYf6N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D31qoIGUIAAYf6N.jpg",
+          "url": "https://t.co/1h7PFlgWPN",
+          "display_url": "pic.twitter.com/1h7PFlgWPN",
+          "expanded_url": "https://twitter.com/baiwagoffsa/status/1116165524684017664/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 639,
+              "h": 342,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 639,
+              "h": 342,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 639,
+              "h": 342,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1116165524684017664,
+          "source_status_id_str": "1116165524684017664",
+          "source_user_id": 978845967209426945,
+          "source_user_id_str": "978845967209426945"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Apr 11 02:26:13 +0000 2019",
+      "id": 1116165524684017664,
+      "id_str": "1116165524684017664",
+      "text": "你們外國人怎麼那麼愛宗教地獄梗，但真的很好笑啦可惡 https://t.co/1h7PFlgWPN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1116165520259031040,
+            "id_str": "1116165520259031040",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/D31qoIGUIAAYf6N.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D31qoIGUIAAYf6N.jpg",
+            "url": "https://t.co/1h7PFlgWPN",
+            "display_url": "pic.twitter.com/1h7PFlgWPN",
+            "expanded_url": "https://twitter.com/baiwagoffsa/status/1116165524684017664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 639,
+                "h": 342,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 639,
+                "h": 342,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 639,
+                "h": 342,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1116165520259031040,
+            "id_str": "1116165520259031040",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/D31qoIGUIAAYf6N.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D31qoIGUIAAYf6N.jpg",
+            "url": "https://t.co/1h7PFlgWPN",
+            "display_url": "pic.twitter.com/1h7PFlgWPN",
+            "expanded_url": "https://twitter.com/baiwagoffsa/status/1116165524684017664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 639,
+                "h": 342,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 639,
+                "h": 342,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 639,
+                "h": 342,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 978845967209426945,
+        "id_str": "978845967209426945",
+        "name": "⚔️努力克服頭痛⚔️",
+        "screen_name": "baiwagoffsa",
+        "location": "中壢",
+        "description": "傳統製造業，每天都在超大工廠來回奔跑，想辦法擺平機器跟課長的壞脾氣，\n心情不順就從側門出去，躲開攝影機對隔壁的鳳梨田大吼大叫再比出不雅姿勢",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1039,
+        "friends_count": 725,
+        "listed_count": 9,
+        "created_at": "Wed Mar 28 04:07:19 +0000 2018",
+        "favourites_count": 32711,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5606,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1113137013224484864/4FLpJ8u0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113137013224484864/4FLpJ8u0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/978845967209426945/1543509375",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 83,
+      "favorite_count": 308,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 83,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 11 01:44:32 +0000 2019",
+    "id": 1116155037070184450,
+    "id_str": "1116155037070184450",
+    "text": "沒想到 Barnes &amp; Noble 居然還有新 Nook 要上市⋯⋯\n\nNew Nook eReader Clears the FCC https://t.co/rWIYsVI5yA https://t.co/ngDDcA6454",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rWIYsVI5yA",
+          "expanded_url": "http://bit.ly/2G2biPk",
+          "display_url": "bit.ly/2G2biPk",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1116155029365202944,
+          "id_str": "1116155029365202944",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/D31hFeeUIAAyRIF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D31hFeeUIAAyRIF.jpg",
+          "url": "https://t.co/ngDDcA6454",
+          "display_url": "pic.twitter.com/ngDDcA6454",
+          "expanded_url": "https://twitter.com/wastemobile/status/1116155037070184450/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 939,
+              "h": 667,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 939,
+              "h": 667,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 483,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1116155029365202944,
+          "id_str": "1116155029365202944",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/D31hFeeUIAAyRIF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D31hFeeUIAAyRIF.jpg",
+          "url": "https://t.co/ngDDcA6454",
+          "display_url": "pic.twitter.com/ngDDcA6454",
+          "expanded_url": "https://twitter.com/wastemobile/status/1116155037070184450/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 939,
+              "h": 667,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 939,
+              "h": 667,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 483,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 11 00:35:56 +0000 2019",
+    "id": 1116137773994430464,
+    "id_str": "1116137773994430464",
+    "text": "@kinkinlin 每天都用 forma 讀書，還一台 Glo 擺著吃灰，讀 Kobo 買的書表現很好。其他若有用 Calibre 也不差。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kinkinlin",
+          "name": "迷失在虛幻的旅人",
+          "id": 28994418,
+          "id_str": "28994418",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1116134393070796800,
+    "in_reply_to_status_id_str": "1116134393070796800",
+    "in_reply_to_user_id": 28994418,
+    "in_reply_to_user_id_str": "28994418",
+    "in_reply_to_screen_name": "kinkinlin",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 10 10:26:22 +0000 2019",
     "id": 1115923973710082053,
     "id_str": "1115923973710082053",
