@@ -1,5 +1,441 @@
 Grailbird.data.tweets_2019_04 = [
   {
+    "created_at": "Sat Apr 13 00:26:04 +0000 2019",
+    "id": 1116860063358996480,
+    "id_str": "1116860063358996480",
+    "text": "豬肉滿福堡加蛋是麥當勞永續存在的意義。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 12 23:20:50 +0000 2019",
+    "id": 1116843649885560832,
+    "id_str": "1116843649885560832",
+    "text": "RT @ayaminski: 台湾の独立出版物のブックフェア「Not Big Issue」が今年は開催。6/8~9。行きたいな。 https://t.co/u72Mc8vGIx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ayaminski",
+          "name": "綾女欣伸",
+          "id": 73085685,
+          "id_str": "73085685",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/u72Mc8vGIx",
+          "expanded_url": "https://www.facebook.com/notbigissue/",
+          "display_url": "facebook.com/notbigissue/",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 12 05:42:11 +0000 2019",
+      "id": 1116577229482258432,
+      "id_str": "1116577229482258432",
+      "text": "台湾の独立出版物のブックフェア「Not Big Issue」が今年は開催。6/8~9。行きたいな。 https://t.co/u72Mc8vGIx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/u72Mc8vGIx",
+            "expanded_url": "https://www.facebook.com/notbigissue/",
+            "display_url": "facebook.com/notbigissue/",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 73085685,
+        "id_str": "73085685",
+        "name": "綾女欣伸",
+        "screen_name": "ayaminski",
+        "location": "東京都千代田区~文京区／ソウル／台北／渋谷／鳥取",
+        "description": "編集者／朝日出版社。無目的な思索の応答／神様の住所／本の未来を探す旅ソウル＆台北／予感の帝国／Tokyo Halloween／夢の本屋ガイド／ひそひそ星／TEDブックス／恋愛を数学する他）／紋切型社会／シルバーアート／アイデアインク（ヒップな生活革命／非道に生きる他）／エリイ写真集など。鳥取県倉吉市出身",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1515,
+        "friends_count": 663,
+        "listed_count": 45,
+        "created_at": "Thu Sep 10 10:06:10 +0000 2009",
+        "favourites_count": 2073,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10701,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1484150225/IMG_twitter_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1484150225/IMG_twitter_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Apr 12 15:10:05 +0000 2019",
+    "id": 1116720149493469190,
+    "id_str": "1116720149493469190",
+    "text": "嗯⋯⋯好像有點道理⋯⋯ https://t.co/BTdkl2l2Gs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BTdkl2l2Gs",
+          "expanded_url": "https://twitter.com/sunnie_liu/status/1116707344036061184",
+          "display_url": "twitter.com/sunnie_liu/sta…",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1116707344036061184,
+    "quoted_status_id_str": "1116707344036061184",
+    "quoted_status": {
+      "created_at": "Fri Apr 12 14:19:12 +0000 2019",
+      "id": 1116707344036061184,
+      "id_str": "1116707344036061184",
+      "text": "哈哈哈哈今天断断续续翻李清晨过去的微博，简直开心死了🤣有点爱上他了，咋能把人生看这么透彻这么明白，还那么会怼蠢货杠精啊！ https://t.co/nmZaF7WEiY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1116707336217858048,
+            "id_str": "1116707336217858048",
+            "indices": [
+              61,
+              84
+            ],
+            "media_url": "http://pbs.twimg.com/media/D39XZ91WkAAUpbh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D39XZ91WkAAUpbh.jpg",
+            "url": "https://t.co/nmZaF7WEiY",
+            "display_url": "pic.twitter.com/nmZaF7WEiY",
+            "expanded_url": "https://twitter.com/sunnie_liu/status/1116707344036061184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1076,
+                "h": 702,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1076,
+                "h": 702,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 444,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1116707336217858048,
+            "id_str": "1116707336217858048",
+            "indices": [
+              61,
+              84
+            ],
+            "media_url": "http://pbs.twimg.com/media/D39XZ91WkAAUpbh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D39XZ91WkAAUpbh.jpg",
+            "url": "https://t.co/nmZaF7WEiY",
+            "display_url": "pic.twitter.com/nmZaF7WEiY",
+            "expanded_url": "https://twitter.com/sunnie_liu/status/1116707344036061184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1076,
+                "h": 702,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1076,
+                "h": 702,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 444,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 382872189,
+        "id_str": "382872189",
+        "name": "珊妮",
+        "screen_name": "sunnie_liu",
+        "location": "Austria",
+        "description": "“来日大难，口燥唇干；今日相乐，皆当喜欢”-身居莫扎特国，烟火气和文艺气并存的70后。\nhttps://t.co/OqMa0H66qQ 发菜频率不高敬请体谅😂",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/OqMa0H66qQ",
+                "expanded_url": "http://www.xiachufang.com/cook/10013690/",
+                "display_url": "xiachufang.com/cook/10013690/",
+                "indices": [
+                  44,
+                  67
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4218,
+        "friends_count": 494,
+        "listed_count": 42,
+        "created_at": "Fri Sep 30 20:57:32 +0000 2011",
+        "favourites_count": 15168,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24036,
+        "lang": "zh-CN",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1089085750455529474/eIzafj1n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089085750455529474/eIzafj1n_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/382872189/1539383137",
+        "profile_link_color": "996677",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "favorite_count": 50,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 12 10:50:09 +0000 2019",
     "id": 1116654733568069633,
     "id_str": "1116654733568069633",
