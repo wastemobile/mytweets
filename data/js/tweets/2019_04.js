@@ -1,5 +1,1146 @@
 Grailbird.data.tweets_2019_04 = [
   {
+    "created_at": "Wed Apr 17 11:09:07 +0000 2019",
+    "id": 1118471447695855618,
+    "id_str": "1118471447695855618",
+    "text": "好書要買。 #wishlist https://t.co/yl6V0RfmlA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "wishlist",
+          "indices": [
+            6,
+            15
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yl6V0RfmlA",
+          "expanded_url": "https://twitter.com/luckwinbooks/status/1118470773960609792",
+          "display_url": "twitter.com/luckwinbooks/s…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1118470773960609792,
+    "quoted_status_id_str": "1118470773960609792",
+    "quoted_status": {
+      "created_at": "Wed Apr 17 11:06:27 +0000 2019",
+      "id": 1118470773960609792,
+      "id_str": "1118470773960609792",
+      "text": "#成人漫畫表現史 \n#エロマンガ表現史\n\n成人漫畫特有的表現方式是何時誕生、又是如何成為「共同語言」的呢？ https://t.co/50YDVJybrn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "成人漫畫表現史",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "text": "エロマンガ表現史",
+            "indices": [
+              10,
+              19
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1118470763546234886,
+            "id_str": "1118470763546234886",
+            "indices": [
+              54,
+              77
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4WbO8jVUAYTxP6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4WbO8jVUAYTxP6.jpg",
+            "url": "https://t.co/50YDVJybrn",
+            "display_url": "pic.twitter.com/50YDVJybrn",
+            "expanded_url": "https://twitter.com/luckwinbooks/status/1118470773960609792/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 845,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 479,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1443,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1118470763546234886,
+            "id_str": "1118470763546234886",
+            "indices": [
+              54,
+              77
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4WbO8jVUAYTxP6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4WbO8jVUAYTxP6.jpg",
+            "url": "https://t.co/50YDVJybrn",
+            "display_url": "pic.twitter.com/50YDVJybrn",
+            "expanded_url": "https://twitter.com/luckwinbooks/status/1118470773960609792/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 845,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 479,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1443,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1023468079,
+        "id_str": "1023468079",
+        "name": "樂文書店",
+        "screen_name": "luckwinbooks",
+        "location": "香港",
+        "description": "「樂文書店」於1984年成立, 是最早引入台版書的香港書店。我們多年來一直以推動社會閱讀風氣、傳承知識為己任，對學術書籍的廣泛引進,  使書店有著濃厚的人文氣息。一些在連鎖書店難以尋覓的書（如較小眾的文史哲、社會科學、教育、 心理輔導等書籍 )，在樂文也有機會找到。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 581,
+        "friends_count": 25,
+        "listed_count": 9,
+        "created_at": "Thu Dec 20 03:55:59 +0000 2012",
+        "favourites_count": 7,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1777,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3381914873/e6994c50e6921710257011d1383a07b6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3381914873/e6994c50e6921710257011d1383a07b6_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023468079/1467707452",
+        "profile_link_color": "6A4028",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Apr 17 05:31:10 +0000 2019",
+    "id": 1118386396237053954,
+    "id_str": "1118386396237053954",
+    "text": "文中引了《The Curious History of Dating》書中的一段話：「⋯⋯雖然整個荷里活影圈的價值估計約 110 億美元，但成人色情片工業就有 150 億美元了⋯⋯」\n\n怎麼覺得怪怪的？\n\n禁慾時代：18 禁電影為… https://t.co/8CcBcL7Xt8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8CcBcL7Xt8",
+          "expanded_url": "https://twitter.com/i/web/status/1118386396237053954",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 17 04:35:45 +0000 2019",
+    "id": 1118372449878454272,
+    "id_str": "1118372449878454272",
+    "text": "《數位時代》標「職場」「未來工作」報導郭台銘選總統的即時，實在蠻搞笑的。 https://t.co/RpgXVWAs9L",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RpgXVWAs9L",
+          "expanded_url": "http://bit.ly/2GvIJKz",
+          "display_url": "bit.ly/2GvIJKz",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 17 04:29:36 +0000 2019",
+    "id": 1118370902931120130,
+    "id_str": "1118370902931120130",
+    "text": "RT @kuo_mil: 他們還真的 沒 感覺到 https://t.co/tSRCkurjJ6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kuo_mil",
+          "name": "MilKuri ミルクリ٩( ᐛ )و 忘卻的米🌰",
+          "id": 973787449632677900,
+          "id_str": "973787449632677900",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1117754471772082179,
+          "id_str": "1117754471772082179",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4MPxRwUUAMAkzO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4MPxRwUUAMAkzO.jpg",
+          "url": "https://t.co/tSRCkurjJ6",
+          "display_url": "pic.twitter.com/tSRCkurjJ6",
+          "expanded_url": "https://twitter.com/kuo_mil/status/1117754481309995008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1125,
+              "h": 2001,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1117754481309995008,
+          "source_status_id_str": "1117754481309995008",
+          "source_user_id": 973787449632677900,
+          "source_user_id_str": "973787449632677900"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1117754471772082179,
+          "id_str": "1117754471772082179",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4MPxRwUUAMAkzO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4MPxRwUUAMAkzO.jpg",
+          "url": "https://t.co/tSRCkurjJ6",
+          "display_url": "pic.twitter.com/tSRCkurjJ6",
+          "expanded_url": "https://twitter.com/kuo_mil/status/1117754481309995008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1125,
+              "h": 2001,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1117754481309995008,
+          "source_status_id_str": "1117754481309995008",
+          "source_user_id": 973787449632677900,
+          "source_user_id_str": "973787449632677900"
+        },
+        {
+          "id": 1117754471776276480,
+          "id_str": "1117754471776276480",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4MPxRxUUAA6Dgl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4MPxRxUUAA6Dgl.jpg",
+          "url": "https://t.co/tSRCkurjJ6",
+          "display_url": "pic.twitter.com/tSRCkurjJ6",
+          "expanded_url": "https://twitter.com/kuo_mil/status/1117754481309995008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1125,
+              "h": 2001,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1117754481309995008,
+          "source_status_id_str": "1117754481309995008",
+          "source_user_id": 973787449632677900,
+          "source_user_id_str": "973787449632677900"
+        },
+        {
+          "id": 1117754471772082178,
+          "id_str": "1117754471772082178",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4MPxRwUUAIefA4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4MPxRwUUAIefA4.jpg",
+          "url": "https://t.co/tSRCkurjJ6",
+          "display_url": "pic.twitter.com/tSRCkurjJ6",
+          "expanded_url": "https://twitter.com/kuo_mil/status/1117754481309995008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1125,
+              "h": 2001,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1117754481309995008,
+          "source_status_id_str": "1117754481309995008",
+          "source_user_id": 973787449632677900,
+          "source_user_id_str": "973787449632677900"
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Apr 15 11:40:09 +0000 2019",
+      "id": 1117754481309995008,
+      "id_str": "1117754481309995008",
+      "text": "他們還真的 沒 感覺到 https://t.co/tSRCkurjJ6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1117754471772082179,
+            "id_str": "1117754471772082179",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4MPxRwUUAMAkzO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4MPxRwUUAMAkzO.jpg",
+            "url": "https://t.co/tSRCkurjJ6",
+            "display_url": "pic.twitter.com/tSRCkurjJ6",
+            "expanded_url": "https://twitter.com/kuo_mil/status/1117754481309995008/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1125,
+                "h": 2001,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1117754471772082179,
+            "id_str": "1117754471772082179",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4MPxRwUUAMAkzO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4MPxRwUUAMAkzO.jpg",
+            "url": "https://t.co/tSRCkurjJ6",
+            "display_url": "pic.twitter.com/tSRCkurjJ6",
+            "expanded_url": "https://twitter.com/kuo_mil/status/1117754481309995008/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1125,
+                "h": 2001,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1117754471776276480,
+            "id_str": "1117754471776276480",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4MPxRxUUAA6Dgl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4MPxRxUUAA6Dgl.jpg",
+            "url": "https://t.co/tSRCkurjJ6",
+            "display_url": "pic.twitter.com/tSRCkurjJ6",
+            "expanded_url": "https://twitter.com/kuo_mil/status/1117754481309995008/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1125,
+                "h": 2001,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1117754471772082178,
+            "id_str": "1117754471772082178",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4MPxRwUUAIefA4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4MPxRwUUAIefA4.jpg",
+            "url": "https://t.co/tSRCkurjJ6",
+            "display_url": "pic.twitter.com/tSRCkurjJ6",
+            "expanded_url": "https://twitter.com/kuo_mil/status/1117754481309995008/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1125,
+                "h": 2001,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 973787449632677900,
+        "id_str": "973787449632677900",
+        "name": "MilKuri ミルクリ٩( ᐛ )و 忘卻的米🌰",
+        "screen_name": "kuo_mil",
+        "location": "Taipei City, Taiwan",
+        "description": "Hey 所以妳到底什麼時候要回去？",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 104,
+        "friends_count": 448,
+        "listed_count": 0,
+        "created_at": "Wed Mar 14 05:06:34 +0000 2018",
+        "favourites_count": 2756,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3424,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/973789390316167168/QbHImmUf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/973789390316167168/QbHImmUf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/973787449632677900/1542820672",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 66,
+      "favorite_count": 110,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 66,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 17 02:38:15 +0000 2019",
+    "id": 1118342881121427457,
+    "id_str": "1118342881121427457",
+    "text": "@crabol 我覺得跟 iPad Pro 用途一樣呀，就是較輕量的快速筆記、畫畫線、圈點、簡單畫些圖。有些人評測說筆觸感覺不如 pro，但既然做不到太複雜、精準、專業的繪圖，一般應該是夠用了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "crabol",
+          "name": "坷垃宝",
+          "id": 5756122,
+          "id_str": "5756122",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1118339225773051904,
+    "in_reply_to_status_id_str": "1118339225773051904",
+    "in_reply_to_user_id": 5756122,
+    "in_reply_to_user_id_str": "5756122",
+    "in_reply_to_screen_name": "crabol",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 17 01:55:51 +0000 2019",
+    "id": 1118332211936129025,
+    "id_str": "1118332211936129025",
+    "text": "iPad mini 何時開賣呀？\n\niPad、iPad Air、iPad mini、iPad Pro 四款機型差異比較，2019該買哪款？ https://t.co/L0HAlcjC0r https://t.co/12zNYcRyde",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/L0HAlcjC0r",
+          "expanded_url": "http://bit.ly/2UDRT1j",
+          "display_url": "bit.ly/2UDRT1j",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1118332200292716544,
+          "id_str": "1118332200292716544",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4UdNgNUEAAV-NS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4UdNgNUEAAV-NS.jpg",
+          "url": "https://t.co/12zNYcRyde",
+          "display_url": "pic.twitter.com/12zNYcRyde",
+          "expanded_url": "https://twitter.com/wastemobile/status/1118332211936129025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 804,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 804,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 547,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1118332200292716544,
+          "id_str": "1118332200292716544",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/D4UdNgNUEAAV-NS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D4UdNgNUEAAV-NS.jpg",
+          "url": "https://t.co/12zNYcRyde",
+          "display_url": "pic.twitter.com/12zNYcRyde",
+          "expanded_url": "https://twitter.com/wastemobile/status/1118332211936129025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 804,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 804,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 547,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 16 13:58:29 +0000 2019",
+    "id": 1118151679835119617,
+    "id_str": "1118151679835119617",
+    "text": "RT @brahmantw: 川普和郭台銘皆是商人，也許有人會將郭的參選與川普並論。但我覺得兩者可能有根本性的差異——\n\n川普是將商業上的尋租運用於美國的對外關係上，而郭台銘是想藉由政治上的尋租來保全他的商業帝國。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "brahmantw",
+          "name": "ब्रह्मन्",
+          "id": 11453962,
+          "id_str": "11453962",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Apr 16 13:28:43 +0000 2019",
+      "id": 1118144187285766148,
+      "id_str": "1118144187285766148",
+      "text": "川普和郭台銘皆是商人，也許有人會將郭的參選與川普並論。但我覺得兩者可能有根本性的差異——\n\n川普是將商業上的尋租運用於美國的對外關係上，而郭台銘是想藉由政治上的尋租來保全他的商業帝國。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1118141341299560448,
+      "in_reply_to_status_id_str": "1118141341299560448",
+      "in_reply_to_user_id": 11453962,
+      "in_reply_to_user_id_str": "11453962",
+      "in_reply_to_screen_name": "brahmantw",
+      "user": {
+        "id": 11453962,
+        "id_str": "11453962",
+        "name": "ब्रह्मन्",
+        "screen_name": "brahmantw",
+        "location": "",
+        "description": "拔斷筋",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2182,
+        "friends_count": 433,
+        "listed_count": 66,
+        "created_at": "Sun Dec 23 14:21:41 +0000 2007",
+        "favourites_count": 1942,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28352,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1607603920/7533_101435579876781_100000310176891_36804_1445705_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1607603920/7533_101435579876781_100000310176891_36804_1445705_n_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 34,
+      "favorite_count": 49,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 34,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Apr 16 11:00:36 +0000 2019",
     "id": 1118106914045300736,
     "id_str": "1118106914045300736",
