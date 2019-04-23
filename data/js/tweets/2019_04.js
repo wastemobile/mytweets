@@ -1,5 +1,219 @@
 Grailbird.data.tweets_2019_04 = [
   {
+    "created_at": "Tue Apr 23 01:23:01 +0000 2019",
+    "id": 1120498274023161856,
+    "id_str": "1120498274023161856",
+    "text": "歐洲議會版權修訂案（Copyright Reform）第 13 條原意是回應創意產業中的收入分配差距（Value gap）現象，立意良善，但條款與執行細節依舊充滿各種困難、模糊，可能引起不良反應及結果。\n\n廖康宇：誰殺死了互聯網？… https://t.co/oa3fcGdoCO",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oa3fcGdoCO",
+          "expanded_url": "https://twitter.com/i/web/status/1120498274023161856",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 23 01:03:48 +0000 2019",
+    "id": 1120493441471979520,
+    "id_str": "1120493441471979520",
+    "text": "就算不能關台，也應該打成宗教台、調個什麼 287 的頻道號給它，有效降低閱聽人數。 #其實我切掉有線電視一陣子了 https://t.co/j6jufKxPS3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "其實我切掉有線電視一陣子了",
+          "indices": [
+            42,
+            56
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/j6jufKxPS3",
+          "expanded_url": "https://twitter.com/zhusee2/status/1120346971309428738",
+          "display_url": "twitter.com/zhusee2/status…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1120346971309428738,
+    "quoted_status_id_str": "1120346971309428738",
+    "quoted_status": {
+      "created_at": "Mon Apr 22 15:21:47 +0000 2019",
+      "id": 1120346971309428738,
+      "id_str": "1120346971309428738",
+      "text": "誰還覺得汪汪中時集團是「媒體」的就傻了\n早就是中國的宣傳機器\n\n11年財報揭露　旺旺集團收中國政府153億補助金\nhttps://t.co/ffvIdz35Yk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ffvIdz35Yk",
+            "expanded_url": "https://tw.finance.appledaily.com/realtime/20190422/1554774",
+            "display_url": "tw.finance.appledaily.com/realtime/20190…",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7748892,
+        "id_str": "7748892",
+        "name": "Zhusee🏳️‍🌈",
+        "screen_name": "zhusee2",
+        "location": "Taiwan",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1454,
+        "friends_count": 451,
+        "listed_count": 35,
+        "created_at": "Fri Jul 27 00:32:19 +0000 2007",
+        "favourites_count": 2676,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19679,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "020812",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/765122219340996609/-m9tPmrR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/765122219340996609/-m9tPmrR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7748892/1424961277",
+        "profile_link_color": "225699",
+        "profile_sidebar_border_color": "2280A9",
+        "profile_sidebar_fill_color": "020812",
+        "profile_text_color": "2280A9",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Apr 21 02:16:43 +0000 2019",
     "id": 1119787013316595713,
     "id_str": "1119787013316595713",
