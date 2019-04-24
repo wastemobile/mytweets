@@ -1,5 +1,486 @@
 Grailbird.data.tweets_2019_04 = [
   {
+    "created_at": "Wed Apr 24 15:13:53 +0000 2019",
+    "id": 1121069759309606912,
+    "id_str": "1121069759309606912",
+    "text": "這一定是反諷⋯⋯ https://t.co/ebsfc1dYgF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ebsfc1dYgF",
+          "expanded_url": "https://twitter.com/bee_hsu/status/1120888858147602432",
+          "display_url": "twitter.com/bee_hsu/status…",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1120888858147602432,
+    "quoted_status_id_str": "1120888858147602432",
+    "quoted_status": {
+      "created_at": "Wed Apr 24 03:15:03 +0000 2019",
+      "id": 1120888858147602432,
+      "id_str": "1120888858147602432",
+      "text": "我以為吳三桂最後引清兵入關是常識耶？！！\n\n這甚至不需要去讀書，看電視都知道。 https://t.co/t7xIkiUB0f",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1120888849381478400,
+            "id_str": "1120888849381478400",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/D44yeEQUUAA7awO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D44yeEQUUAA7awO.jpg",
+            "url": "https://t.co/t7xIkiUB0f",
+            "display_url": "pic.twitter.com/t7xIkiUB0f",
+            "expanded_url": "https://twitter.com/bee_hsu/status/1120888858147602432/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 500,
+                "h": 278,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 500,
+                "h": 278,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 500,
+                "h": 278,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1120888849381478400,
+            "id_str": "1120888849381478400",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/D44yeEQUUAA7awO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D44yeEQUUAA7awO.jpg",
+            "url": "https://t.co/t7xIkiUB0f",
+            "display_url": "pic.twitter.com/t7xIkiUB0f",
+            "expanded_url": "https://twitter.com/bee_hsu/status/1120888858147602432/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 500,
+                "h": 278,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 500,
+                "h": 278,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 500,
+                "h": 278,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 379712113,
+        "id_str": "379712113",
+        "name": "Bee-Bee",
+        "screen_name": "bee_hsu",
+        "location": "Taiwan",
+        "description": "Love makes me weird. Taiwanese   Taiwan is not China.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3020,
+        "friends_count": 46,
+        "listed_count": 0,
+        "created_at": "Sun Sep 25 12:40:24 +0000 2011",
+        "favourites_count": 2211,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 736,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E0618F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1044717281236930561/z68ed3QZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044717281236930561/z68ed3QZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/379712113/1520863480",
+        "profile_link_color": "C72079",
+        "profile_sidebar_border_color": "CCAAE0",
+        "profile_sidebar_fill_color": "D9DFF2",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 27,
+      "favorite_count": 158,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 24 05:14:09 +0000 2019",
+    "id": 1120918828974628864,
+    "id_str": "1120918828974628864",
+    "text": "常用這個網站生成 gitignore 檔案，輸入例如平台、程式等，很方便。\n\nhttps://t.co/w8VSXmRTfl\n\n但不知為何一直沒有 Sublime Text 的外掛？ https://t.co/PZU9EIVtzR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/w8VSXmRTfl",
+          "expanded_url": "http://bit.ly/2GuYtxm",
+          "display_url": "bit.ly/2GuYtxm",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1120918819734573058,
+          "id_str": "1120918819734573058",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/D45NukhUUAIZLDR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D45NukhUUAIZLDR.jpg",
+          "url": "https://t.co/PZU9EIVtzR",
+          "display_url": "pic.twitter.com/PZU9EIVtzR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1120918828974628864/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 513,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 906,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1229,
+              "h": 928,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1120918819734573058,
+          "id_str": "1120918819734573058",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/D45NukhUUAIZLDR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D45NukhUUAIZLDR.jpg",
+          "url": "https://t.co/PZU9EIVtzR",
+          "display_url": "pic.twitter.com/PZU9EIVtzR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1120918828974628864/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 513,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 906,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1229,
+              "h": 928,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 24 02:13:22 +0000 2019",
+    "id": 1120873333925376001,
+    "id_str": "1120873333925376001",
+    "text": "表定 #Netflix 今天上線的《親密束縛》是齣以 BDSM 為背景主題的劇集。\n\nWired 此篇文章 https://t.co/EqJllA7key ，我覺得有真正切中訂閱制影音串流的一個關鍵核心：掌握各種小眾利基，比追求少… https://t.co/KiJjuZHy3s",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EqJllA7key",
+          "expanded_url": "http://bit.ly/2Gyg1sc",
+          "display_url": "bit.ly/2Gyg1sc",
+          "indices": [
+            54,
+            77
+          ]
+        },
+        {
+          "url": "https://t.co/KiJjuZHy3s",
+          "expanded_url": "https://twitter.com/i/web/status/1120873333925376001",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 24 01:44:08 +0000 2019",
+    "id": 1120865979200786432,
+    "id_str": "1120865979200786432",
+    "text": "太陽系 CSSystem，酷。\n\nhttps://t.co/GNWv04ZQFf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GNWv04ZQFf",
+          "expanded_url": "https://codepen.io/robdimarzo/pen/LMOLer",
+          "display_url": "codepen.io/robdimarzo/pen…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Tue Apr 23 01:23:01 +0000 2019",
     "id": 1120498274023161856,
     "id_str": "1120498274023161856",
