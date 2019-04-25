@@ -1,5 +1,544 @@
 Grailbird.data.tweets_2019_04 = [
   {
+    "created_at": "Thu Apr 25 12:19:28 +0000 2019",
+    "id": 1121388253108506629,
+    "id_str": "1121388253108506629",
+    "text": "RT @myread02: 笑爛。這真是我聽過最誠懇的發言了。\nhttps://t.co/2Guam0QYKW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "myread02",
+          "name": "翎小二",
+          "id": 755797,
+          "id_str": "755797",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2Guam0QYKW",
+          "expanded_url": "https://www.storm.mg/article/1212405",
+          "display_url": "storm.mg/article/1212405",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Apr 25 12:09:58 +0000 2019",
+      "id": 1121385862242033665,
+      "id_str": "1121385862242033665",
+      "text": "笑爛。這真是我聽過最誠懇的發言了。\nhttps://t.co/2Guam0QYKW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2Guam0QYKW",
+            "expanded_url": "https://www.storm.mg/article/1212405",
+            "display_url": "storm.mg/article/1212405",
+            "indices": [
+              18,
+              41
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 755797,
+        "id_str": "755797",
+        "name": "翎小二",
+        "screen_name": "myread02",
+        "location": "Taipei",
+        "description": "上推的目的是講垃圾話、發摟機掰人並向他們看齊。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 292,
+        "friends_count": 1361,
+        "listed_count": 12,
+        "created_at": "Wed Feb 07 06:27:46 +0000 2007",
+        "favourites_count": 1272,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14282,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877362121477996545/vYkNZ1Ws_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877362121477996545/vYkNZ1Ws_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/755797/1354899095",
+        "profile_link_color": "222222",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 25 08:01:28 +0000 2019",
+    "id": 1121323323810406400,
+    "id_str": "1121323323810406400",
+    "text": "RT @TH6TV: 「TERRACE HOUSE TOKYO 2019-2020」　\n2019年5月14日(火)Netflixにて先行配信START！\nFOD : 6月11日(火)配信予定 /  地上波 :  7月放送予定\n#TERRACEHOUSE #テラスハウス http…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TERRACEHOUSE",
+          "indices": [
+            113,
+            126
+          ]
+        },
+        {
+          "text": "テラスハウス",
+          "indices": [
+            127,
+            134
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TH6TV",
+          "name": "TERRACE HOUSE",
+          "id": 1310228930,
+          "id_str": "1310228930",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Apr 25 07:00:12 +0000 2019",
+      "id": 1121307908535271424,
+      "id_str": "1121307908535271424",
+      "text": "「TERRACE HOUSE TOKYO 2019-2020」　\n2019年5月14日(火)Netflixにて先行配信START！\nFOD : 6月11日(火)配信予定 /  地上波 :  7月放送予定\n#TERRACEHOUSE… https://t.co/PZikJDjoXD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TERRACEHOUSE",
+            "indices": [
+              102,
+              115
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PZikJDjoXD",
+            "expanded_url": "https://twitter.com/i/web/status/1121307908535271424",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1310228930,
+        "id_str": "1310228930",
+        "name": "TERRACE HOUSE",
+        "screen_name": "TH6TV",
+        "location": "日本 東京",
+        "description": "新シーズン「TERRACE HOUSE TOKYO 2019-2020」5月14日よりNetflix にて配信START！地上波の情報⇨〈＠TH6TV_occhan〉 使用楽曲は⇨〈https://t.co/vW9ylPHOUn〉 #テラスハウス #TERRACEHOUSE",
+        "url": "https://t.co/gmIzFgmRpo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/gmIzFgmRpo",
+                "expanded_url": "http://www.terrace-house.jp/openingnewdoors/",
+                "display_url": "terrace-house.jp/openingnewdoor…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/vW9ylPHOUn",
+                "expanded_url": "http://spoti.fi/TH6TV",
+                "display_url": "spoti.fi/TH6TV",
+                "indices": [
+                  91,
+                  114
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 509897,
+        "friends_count": 71,
+        "listed_count": 1107,
+        "created_at": "Thu Mar 28 11:08:09 +0000 2013",
+        "favourites_count": 1541,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 4550,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "009944",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1099184491518521344/xsQlED1Z_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099184491518521344/xsQlED1Z_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310228930/1556176266",
+        "profile_link_color": "196719",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3695,
+      "favorite_count": 9584,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3695,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Apr 25 01:35:14 +0000 2019",
+    "id": 1121226124883714049,
+    "id_str": "1121226124883714049",
+    "text": "今天博客來一日限定的卡西歐 CASIO 復古經典電子錶特賣實在是太誘人啦～～～\n\n但怎麼沒有計算機那款？我還想加買錶帶上的金屬月曆呀！\n\nCASIO 腕錶百款特價 https://t.co/32v4oraN1E https://t.co/15e1839g9m",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/32v4oraN1E",
+          "expanded_url": "http://bit.ly/2UY72ur",
+          "display_url": "bit.ly/2UY72ur",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1121226117925314560,
+          "id_str": "1121226117925314560",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/D49lNrfUIAAbscG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D49lNrfUIAAbscG.jpg",
+          "url": "https://t.co/15e1839g9m",
+          "display_url": "pic.twitter.com/15e1839g9m",
+          "expanded_url": "https://twitter.com/wastemobile/status/1121226124883714049/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 950,
+              "h": 250,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 179,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 950,
+              "h": 250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1121226117925314560,
+          "id_str": "1121226117925314560",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/D49lNrfUIAAbscG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D49lNrfUIAAbscG.jpg",
+          "url": "https://t.co/15e1839g9m",
+          "display_url": "pic.twitter.com/15e1839g9m",
+          "expanded_url": "https://twitter.com/wastemobile/status/1121226124883714049/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 950,
+              "h": 250,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 179,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 950,
+              "h": 250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 24 15:44:14 +0000 2019",
+    "id": 1121077397346869248,
+    "id_str": "1121077397346869248",
+    "text": "「賴清德說，韓的強項是短短時間內贏得高雄市長選舉，即便到現在也可以得全台灣最高支持度，尤其在國民黨黨內，但韓的弱點是他還沒辦法證明有能力做好高雄市長、或是帶領台灣。」\n\n可是瑞凡，你也是啊⋯⋯\n\nhttps://t.co/oOS0MDiCQP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oOS0MDiCQP",
+          "expanded_url": "http://bit.ly/2J0LuX9",
+          "display_url": "bit.ly/2J0LuX9",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 24 15:13:53 +0000 2019",
     "id": 1121069759309606912,
     "id_str": "1121069759309606912",
