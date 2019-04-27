@@ -1,5 +1,648 @@
 Grailbird.data.tweets_2019_04 = [
   {
+    "created_at": "Fri Apr 26 16:44:17 +0000 2019",
+    "id": 1121817284794650625,
+    "id_str": "1121817284794650625",
+    "text": "RT @akid_: OMG！发条橙的续集小说手稿被发现了 Unseen Clockwork Orange 'follow-up' by Anthony Burgess unearthed https://t.co/HMs34FTQM2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "akid_",
+          "name": "akid",
+          "id": 18325616,
+          "id_str": "18325616",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HMs34FTQM2",
+          "expanded_url": "https://www.bbc.com/news/entertainment-arts-48036694",
+          "display_url": "bbc.com/news/entertain…",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 26 16:41:09 +0000 2019",
+      "id": 1121816493371445248,
+      "id_str": "1121816493371445248",
+      "text": "OMG！发条橙的续集小说手稿被发现了 Unseen Clockwork Orange 'follow-up' by Anthony Burgess unearthed https://t.co/HMs34FTQM2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HMs34FTQM2",
+            "expanded_url": "https://www.bbc.com/news/entertainment-arts-48036694",
+            "display_url": "bbc.com/news/entertain…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18325616,
+        "id_str": "18325616",
+        "name": "akid",
+        "screen_name": "akid_",
+        "location": "",
+        "description": "I am the genius of myself.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 11309,
+        "friends_count": 2212,
+        "listed_count": 193,
+        "created_at": "Tue Dec 23 03:46:48 +0000 2008",
+        "favourites_count": 10376,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 35092,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FAF2F2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/478077559867842560/4msQMTxy_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/478077559867842560/4msQMTxy_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18325616/1490035185",
+        "profile_link_color": "E061AB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "79E633",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 26 16:33:44 +0000 2019",
+    "id": 1121814629535981568,
+    "id_str": "1121814629535981568",
+    "text": "Best JavaScript Books (2019) https://t.co/NpiMvSyIEn #note\n\n附封面這四本都是可以免費線上閱讀的，初階、中級／進階，以及 ES6 都有。\n\nBTW，這網站完全是標準範本，簡… https://t.co/KypWg2lKGD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            53,
+            58
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NpiMvSyIEn",
+          "expanded_url": "http://bit.ly/2IGLRqc",
+          "display_url": "bit.ly/2IGLRqc",
+          "indices": [
+            29,
+            52
+          ]
+        },
+        {
+          "url": "https://t.co/KypWg2lKGD",
+          "expanded_url": "https://twitter.com/i/web/status/1121814629535981568",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 26 16:12:32 +0000 2019",
+    "id": 1121809291701178369,
+    "id_str": "1121809291701178369",
+    "text": "RT @manthe3rd1: 草民原创字幕上传：4集英剧《Chimerica》第一集全片EP01，已经赶制完成中文字幕，欢迎转发订阅：https://t.co/E3vB3k8Eaa https://t.co/rM9NdsbJNu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "manthe3rd1",
+          "name": "草民看世界",
+          "id": 1068251381482602496,
+          "id_str": "1068251381482602496",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/E3vB3k8Eaa",
+          "expanded_url": "https://youtu.be/kju2j2YC6RY",
+          "display_url": "youtu.be/kju2j2YC6RY",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1120782692579196928,
+          "id_str": "1120782692579196928",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/D43R67WWwAADcnx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D43R67WWwAADcnx.jpg",
+          "url": "https://t.co/rM9NdsbJNu",
+          "display_url": "pic.twitter.com/rM9NdsbJNu",
+          "expanded_url": "https://twitter.com/manthe3rd1/status/1120782783167782912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1257,
+              "h": 594,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 321,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 567,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1120782783167782912,
+          "source_status_id_str": "1120782783167782912",
+          "source_user_id": 1068251381482602496,
+          "source_user_id_str": "1068251381482602496"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1120782692579196928,
+          "id_str": "1120782692579196928",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/D43R67WWwAADcnx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D43R67WWwAADcnx.jpg",
+          "url": "https://t.co/rM9NdsbJNu",
+          "display_url": "pic.twitter.com/rM9NdsbJNu",
+          "expanded_url": "https://twitter.com/manthe3rd1/status/1120782783167782912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1257,
+              "h": 594,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 321,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 567,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1120782783167782912,
+          "source_status_id_str": "1120782783167782912",
+          "source_user_id": 1068251381482602496,
+          "source_user_id_str": "1068251381482602496"
+        },
+        {
+          "id": 1120782692591779842,
+          "id_str": "1120782692591779842",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/D43R67ZWwAIHYa5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D43R67ZWwAIHYa5.jpg",
+          "url": "https://t.co/rM9NdsbJNu",
+          "display_url": "pic.twitter.com/rM9NdsbJNu",
+          "expanded_url": "https://twitter.com/manthe3rd1/status/1120782783167782912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1246,
+              "h": 587,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 320,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 565,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1120782783167782912,
+          "source_status_id_str": "1120782783167782912",
+          "source_user_id": 1068251381482602496,
+          "source_user_id_str": "1068251381482602496"
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Apr 23 20:13:33 +0000 2019",
+      "id": 1120782783167782912,
+      "id_str": "1120782783167782912",
+      "text": "草民原创字幕上传：4集英剧《Chimerica》第一集全片EP01，已经赶制完成中文字幕，欢迎转发订阅：https://t.co/E3vB3k8Eaa https://t.co/rM9NdsbJNu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/E3vB3k8Eaa",
+            "expanded_url": "https://youtu.be/kju2j2YC6RY",
+            "display_url": "youtu.be/kju2j2YC6RY",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1120782692579196928,
+            "id_str": "1120782692579196928",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/D43R67WWwAADcnx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D43R67WWwAADcnx.jpg",
+            "url": "https://t.co/rM9NdsbJNu",
+            "display_url": "pic.twitter.com/rM9NdsbJNu",
+            "expanded_url": "https://twitter.com/manthe3rd1/status/1120782783167782912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1257,
+                "h": 594,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 321,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 567,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1120782692579196928,
+            "id_str": "1120782692579196928",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/D43R67WWwAADcnx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D43R67WWwAADcnx.jpg",
+            "url": "https://t.co/rM9NdsbJNu",
+            "display_url": "pic.twitter.com/rM9NdsbJNu",
+            "expanded_url": "https://twitter.com/manthe3rd1/status/1120782783167782912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1257,
+                "h": 594,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 321,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 567,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1120782692591779842,
+            "id_str": "1120782692591779842",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/D43R67ZWwAIHYa5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D43R67ZWwAIHYa5.jpg",
+            "url": "https://t.co/rM9NdsbJNu",
+            "display_url": "pic.twitter.com/rM9NdsbJNu",
+            "expanded_url": "https://twitter.com/manthe3rd1/status/1120782783167782912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1246,
+                "h": 587,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 320,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 565,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1068251381482602496,
+        "id_str": "1068251381482602496",
+        "name": "草民看世界",
+        "screen_name": "manthe3rd1",
+        "location": "",
+        "description": "如果天空是黑暗的，那就摸黑生存；  如果发出声音是危险的，那就保持沉默；  如果自觉无力发光的，那就蜷伏于墙角。  但不要习惯了黑暗就为黑暗辩护；  不要为自己的苟且而得意；  不要嘲讽那些比自己更勇敢热情的人们。  我们可以卑微如尘土，不可扭曲如蛆虫。",
+        "url": "https://t.co/3Wwg5EB4is",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3Wwg5EB4is",
+                "expanded_url": "https://www.youtube.com/channel/UClGKtuyLQxBCkvMmrFr0Q4Q",
+                "display_url": "youtube.com/channel/UClGKt…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 894,
+        "friends_count": 93,
+        "listed_count": 2,
+        "created_at": "Thu Nov 29 21:12:31 +0000 2018",
+        "favourites_count": 281,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 506,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120484747933814787/GUsbSrzV_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120484747933814787/GUsbSrzV_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1068251381482602496/1555695412",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 341,
+      "favorite_count": 585,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 341,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 26 11:39:43 +0000 2019",
     "id": 1121740638028832768,
     "id_str": "1121740638028832768",
