@@ -1,5 +1,314 @@
 Grailbird.data.tweets_2019_04 = [
   {
+    "created_at": "Sat Apr 27 01:05:37 +0000 2019",
+    "id": 1121943449257689088,
+    "id_str": "1121943449257689088",
+    "text": "RT @Brecht: 須要 ❌\n\n需要 ⭕️\n\n蔡的執政時間也有賴哦。\n\n然後蔡的民意有我哦（揮手 https://t.co/eUB8dGoXq7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Brecht",
+          "name": "晴雨兼用布大叔 😈",
+          "id": 724233,
+          "id_str": "724233",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eUB8dGoXq7",
+          "expanded_url": "https://twitter.com/loveformosa999/status/1121741150832824320",
+          "display_url": "twitter.com/loveformosa999…",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Apr 27 00:39:41 +0000 2019",
+      "id": 1121936923579170816,
+      "id_str": "1121936923579170816",
+      "text": "須要 ❌\n\n需要 ⭕️\n\n蔡的執政時間也有賴哦。\n\n然後蔡的民意有我哦（揮手 https://t.co/eUB8dGoXq7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eUB8dGoXq7",
+            "expanded_url": "https://twitter.com/loveformosa999/status/1121741150832824320",
+            "display_url": "twitter.com/loveformosa999…",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 724233,
+        "id_str": "724233",
+        "name": "晴雨兼用布大叔 😈",
+        "screen_name": "Brecht",
+        "location": "Taiwan",
+        "description": "Be a maker, a creator of a better world",
+        "url": "https://t.co/7d0uM5oPdz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7d0uM5oPdz",
+                "expanded_url": "https://medium.com/@brecht",
+                "display_url": "medium.com/@brecht",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4120,
+        "friends_count": 1803,
+        "listed_count": 100,
+        "created_at": "Mon Jan 29 06:47:34 +0000 2007",
+        "favourites_count": 20089,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33660,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1019417370773745664/mYAqlO1z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019417370773745664/mYAqlO1z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/724233/1531096188",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "019a3137395a2973",
+        "url": "https://api.twitter.com/1.1/geo/id/019a3137395a2973.json",
+        "place_type": "city",
+        "name": "新北市",
+        "full_name": "新北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.282664,
+                24.673115
+              ],
+              [
+                122.007508,
+                24.673115
+              ],
+              [
+                122.007508,
+                25.2995704
+              ],
+              [
+                121.282664,
+                25.2995704
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1121741150832824320,
+      "quoted_status_id_str": "1121741150832824320",
+      "quoted_status": {
+        "created_at": "Fri Apr 26 11:41:45 +0000 2019",
+        "id": 1121741150832824320,
+        "id_str": "1121741150832824320",
+        "text": "賴清德決心推動反併吞法、反滲透法。\n蔡3年完全執政，就是不願做，台灣到處被支共滲透，如同不設防，讓國安問題嚴重到無可救藥，卻還敢厚顏無恥的說，台灣須要她，非她不可？今之蔡已失去公平競爭的勇氣，但卻輸不起，一直搏歹餃，與民意對幹，蔡… https://t.co/bBCwKYtKXo",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/bBCwKYtKXo",
+              "expanded_url": "https://twitter.com/i/web/status/1121741150832824320",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1084857047525412864,
+          "id_str": "1084857047525412864",
+          "name": "大丈夫阿賢🇳🇫🇯🇵🇺🇸🇬🇧🇨🇦🇦🇺🇩🇪🇫🇷",
+          "screen_name": "LoveFormosa999",
+          "location": "Formosa Takao",
+          "description": "🇳🇫台灣的正名制憲，美國承認台灣，日本、歐盟與世界各國都會跟進，這是台灣成為新國家的最佳路徑\n🐳【滿清奏摺】及【台灣府志】清楚記載，【台灣戶籍】所記皆為【原住民】。日治戶口名簿將【台灣戶籍】的原住民，以所使用【語言】，將種族欄分類為福、廣、熟、生。福、廣是會說閩南語、客家語，但已經不會說父母族語的【熟番】原住民。",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 142,
+          "friends_count": 92,
+          "listed_count": 0,
+          "created_at": "Mon Jan 14 16:57:30 +0000 2019",
+          "favourites_count": 7187,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1186,
+          "lang": "zh-TW",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1116412303409172480/-14wJAqh_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116412303409172480/-14wJAqh_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084857047525412864/1555282871",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 24,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 4,
+      "favorite_count": 29,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1121741150832824320,
+    "quoted_status_id_str": "1121741150832824320",
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 26 16:44:17 +0000 2019",
     "id": 1121817284794650625,
     "id_str": "1121817284794650625",
