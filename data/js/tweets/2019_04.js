@@ -1,5 +1,162 @@
 Grailbird.data.tweets_2019_04 = [
   {
+    "created_at": "Tue Apr 30 19:06:18 +0000 2019",
+    "id": 1123302573945999360,
+    "id_str": "1123302573945999360",
+    "text": "RT @alex853300157: 在描述性慾的時候，我們常說性「飢渴」，性慾跟食慾關係密切，又延伸到人的性活動中，也許我們的身體也經常混淆這兩種慾望吧。\n\n本週的推特吃主題是「適合約炮前吃的東西」\n\n無論是實際經驗、或是你的想像，和大家分享能撩撥慾望的食物吧！\n\n#推特吃…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "推特吃",
+          "indices": [
+            134,
+            138
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "alex853300157",
+          "name": "🌈真賀田福氣豬🐷",
+          "id": 38193331,
+          "id_str": "38193331",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Apr 30 06:56:45 +0000 2019",
+      "id": 1123118976282664960,
+      "id_str": "1123118976282664960",
+      "text": "在描述性慾的時候，我們常說性「飢渴」，性慾跟食慾關係密切，又延伸到人的性活動中，也許我們的身體也經常混淆這兩種慾望吧。\n\n本週的推特吃主題是「適合約炮前吃的東西」\n\n無論是實際經驗、或是你的想像，和大家分享能撩撥慾望的食物吧！… https://t.co/TFPzvPZShH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TFPzvPZShH",
+            "expanded_url": "https://twitter.com/i/web/status/1123118976282664960",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 38193331,
+        "id_str": "38193331",
+        "name": "🌈真賀田福氣豬🐷",
+        "screen_name": "alex853300157",
+        "location": "Taiwan",
+        "description": "上進乖巧  活好話少∣三生三世大森靖子🧠∣#肉桂教 ∣ #推特漬物控協會∣ 「Life begins where fear ends」",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2939,
+        "friends_count": 2758,
+        "listed_count": 27,
+        "created_at": "Wed May 06 14:53:22 +0000 2009",
+        "favourites_count": 56016,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22734,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1089698707321180160/tDYdSH5a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089698707321180160/tDYdSH5a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38193331/1541471325",
+        "profile_link_color": "FF3300",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 69,
+      "favorite_count": 198,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 69,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Apr 30 10:57:01 +0000 2019",
     "id": 1123179444355489792,
     "id_str": "1123179444355489792",
