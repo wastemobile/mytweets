@@ -1,5 +1,645 @@
 Grailbird.data.tweets_2019_05 = [
   {
+    "created_at": "Mon May 06 13:29:21 +0000 2019",
+    "id": 1125392107651325952,
+    "id_str": "1125392107651325952",
+    "text": "雙層公寓 Tokyo 5/14！ https://t.co/CEvRbOYmjL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CEvRbOYmjL",
+          "expanded_url": "https://twitter.com/TH6TV/status/1124894048123179008",
+          "display_url": "twitter.com/TH6TV/status/1…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1124894048123179008,
+    "quoted_status_id_str": "1124894048123179008",
+    "quoted_status": {
+      "created_at": "Sun May 05 04:30:15 +0000 2019",
+      "id": 1124894048123179008,
+      "id_str": "1124894048123179008",
+      "text": "〈公開まであと10日〉新シーズン「TERRACE HOUSE TOKYO 2019-2020」最新予告！2019年5月14日(火) Netflixにて先行配信START！\nhttps://t.co/fBBLDSEh8i… https://t.co/MpAuHmQ1xI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fBBLDSEh8i",
+            "expanded_url": "http://www.netflix.com/title/81077065",
+            "display_url": "netflix.com/title/81077065",
+            "indices": [
+              86,
+              109
+            ]
+          },
+          {
+            "url": "https://t.co/MpAuHmQ1xI",
+            "expanded_url": "https://twitter.com/i/web/status/1124894048123179008",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1310228930,
+        "id_str": "1310228930",
+        "name": "TERRACE HOUSE",
+        "screen_name": "TH6TV",
+        "location": "日本 東京",
+        "description": "新シーズン「TERRACE HOUSE TOKYO 2019-2020」5月14日よりNetflix にて配信START！地上波の情報⇨〈＠TH6TV_occhan〉 使用楽曲は⇨〈https://t.co/vW9ylPHOUn〉 #テラスハウス #TERRACEHOUSE",
+        "url": "https://t.co/gmIzFgmRpo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/gmIzFgmRpo",
+                "expanded_url": "http://www.terrace-house.jp/openingnewdoors/",
+                "display_url": "terrace-house.jp/openingnewdoor…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/vW9ylPHOUn",
+                "expanded_url": "http://spoti.fi/TH6TV",
+                "display_url": "spoti.fi/TH6TV",
+                "indices": [
+                  91,
+                  114
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 511339,
+        "friends_count": 71,
+        "listed_count": 1107,
+        "created_at": "Thu Mar 28 11:08:09 +0000 2013",
+        "favourites_count": 1542,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 4551,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "009944",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1099184491518521344/xsQlED1Z_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099184491518521344/xsQlED1Z_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1310228930/1556176266",
+        "profile_link_color": "196719",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2395,
+      "favorite_count": 8368,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon May 06 11:45:17 +0000 2019",
+    "id": 1125365918006046720,
+    "id_str": "1125365918006046720",
+    "text": "RT @JamesHsiehTW: 全篇重點\n\n超強貿易戰原因與台灣未來懶人包 https://t.co/f3fOjw37VL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JamesHsiehTW",
+          "name": "James Hsieh",
+          "id": 969585890627473408,
+          "id_str": "969585890627473408",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/f3fOjw37VL",
+          "expanded_url": "https://taronews.tw/2019/05/06/331822/",
+          "display_url": "taronews.tw/2019/05/06/331…",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon May 06 11:37:26 +0000 2019",
+      "id": 1125363942950359040,
+      "id_str": "1125363942950359040",
+      "text": "全篇重點\n\n超強貿易戰原因與台灣未來懶人包 https://t.co/f3fOjw37VL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/f3fOjw37VL",
+            "expanded_url": "https://taronews.tw/2019/05/06/331822/",
+            "display_url": "taronews.tw/2019/05/06/331…",
+            "indices": [
+              22,
+              45
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 969585890627473408,
+        "id_str": "969585890627473408",
+        "name": "James Hsieh",
+        "screen_name": "JamesHsiehTW",
+        "location": "台灣",
+        "description": "Hi",
+        "url": "https://t.co/MKuCumr0OE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/MKuCumr0OE",
+                "expanded_url": "http://www.facebook.com/James-Hsieh-382472085554434/",
+                "display_url": "facebook.com/James-Hsieh-38…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3028,
+        "friends_count": 59,
+        "listed_count": 20,
+        "created_at": "Fri Mar 02 14:51:05 +0000 2018",
+        "favourites_count": 769,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6758,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969587369702649857/0H_nshhP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969587369702649857/0H_nshhP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969585890627473408/1520003189",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 06 03:48:57 +0000 2019",
+    "id": 1125246044583780352,
+    "id_str": "1125246044583780352",
+    "text": "RT @stonerose2010: 「男性的性慾與女性可大不相同。男性的性慾是機械性的；然而，女性的性慾則是無邊無際的。」\n****\n最近愛死Netflix 這部法國影集《找我經紀人》（Dix pour cent)，滿滿的法式情慾與幽默，一堆歇斯底里、內分泌失調的巴黎人。簡直…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "stonerose2010",
+          "name": "Camille",
+          "id": 233161574,
+          "id_str": "233161574",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 05 06:07:21 +0000 2019",
+      "id": 1124918484511551489,
+      "id_str": "1124918484511551489",
+      "text": "「男性的性慾與女性可大不相同。男性的性慾是機械性的；然而，女性的性慾則是無邊無際的。」\n****\n最近愛死Netflix 這部法國影集《找我經紀人》（Dix pour cent)，滿滿的法式情慾與幽默，一堆歇斯底里、內分泌失調的巴… https://t.co/56kSJMRff7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/56kSJMRff7",
+            "expanded_url": "https://twitter.com/i/web/status/1124918484511551489",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 233161574,
+        "id_str": "233161574",
+        "name": "Camille",
+        "screen_name": "stonerose2010",
+        "location": "台灣 Taiwan",
+        "description": "no surprises, please",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1121,
+        "friends_count": 567,
+        "listed_count": 17,
+        "created_at": "Sun Jan 02 13:27:37 +0000 2011",
+        "favourites_count": 5786,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6713,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1123999243067371528/-RZRAlc8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123999243067371528/-RZRAlc8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233161574/1556084230",
+        "profile_link_color": "C34242",
+        "profile_sidebar_border_color": "BFBFBF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 27,
+      "favorite_count": 106,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 06 01:46:18 +0000 2019",
+    "id": 1125215176020484096,
+    "id_str": "1125215176020484096",
+    "text": "希望以後 Kindle 在台灣也常常是這種促銷價⋯⋯XD\n\nKindle Paperwhite and the Kindle Are on Sale for $89, $69 https://t.co/CvdwIcBmKo https://t.co/Wa9vPYaxHh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CvdwIcBmKo",
+          "expanded_url": "http://bit.ly/2PQHolx",
+          "display_url": "bit.ly/2PQHolx",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1125215166931488769,
+          "id_str": "1125215166931488769",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/D52RO5DVUAEIH0d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D52RO5DVUAEIH0d.jpg",
+          "url": "https://t.co/Wa9vPYaxHh",
+          "display_url": "pic.twitter.com/Wa9vPYaxHh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1125215176020484096/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 774,
+              "h": 300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 264,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 774,
+              "h": 300,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1125215166931488769,
+          "id_str": "1125215166931488769",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/D52RO5DVUAEIH0d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D52RO5DVUAEIH0d.jpg",
+          "url": "https://t.co/Wa9vPYaxHh",
+          "display_url": "pic.twitter.com/Wa9vPYaxHh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1125215176020484096/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 774,
+              "h": 300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 264,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 774,
+              "h": 300,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat May 04 05:57:37 +0000 2019",
     "id": 1124553649563115521,
     "id_str": "1124553649563115521",
