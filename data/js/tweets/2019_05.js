@@ -1,5 +1,691 @@
 Grailbird.data.tweets_2019_05 = [
   {
+    "created_at": "Fri May 10 12:05:52 +0000 2019",
+    "id": 1126820648670490624,
+    "id_str": "1126820648670490624",
+    "text": "皮蛋蛋餅！！！？ https://t.co/5YC0mD12Os",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5YC0mD12Os",
+          "expanded_url": "https://twitter.com/cidal1111/status/1126819461153972224",
+          "display_url": "twitter.com/cidal1111/stat…",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1126819461153972224,
+    "quoted_status_id_str": "1126819461153972224",
+    "quoted_status": {
+      "created_at": "Fri May 10 12:01:09 +0000 2019",
+      "id": 1126819461153972224,
+      "id_str": "1126819461153972224",
+      "text": "皮蛋蛋餅！！！ https://t.co/IU0KtCA4lj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IU0KtCA4lj",
+            "expanded_url": "https://twitter.com/cw_wu/status/1126809378659549185",
+            "display_url": "twitter.com/cw_wu/status/1…",
+            "indices": [
+              8,
+              31
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 854212046488870913,
+        "id_str": "854212046488870913",
+        "name": "어머! 宰華 a.k.a 夫婿 🏳️‍🌈",
+        "screen_name": "Cidal1111",
+        "location": "Taiwan",
+        "description": "公婆很逗趣的阿美媳婦。每天生活就是忙於工作，以及維持夫婿生命跡象。對了，Cidal是太陽的意思。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1843,
+        "friends_count": 165,
+        "listed_count": 15,
+        "created_at": "Tue Apr 18 05:56:37 +0000 2017",
+        "favourites_count": 12991,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10094,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/996686339201363969/FIH_Yjv7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/996686339201363969/FIH_Yjv7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/854212046488870913/1498456227",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1126809378659549185,
+      "quoted_status_id_str": "1126809378659549185",
+      "retweet_count": 1,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 10 07:29:20 +0000 2019",
+    "id": 1126751054572351488,
+    "id_str": "1126751054572351488",
+    "text": "@titanypw 是呀，圈選字詞有很多動機，想搜尋、拷貝、查定義⋯⋯，一旦被 facebook 那個分享功能綁住，就很難操作。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "titanypw",
+          "name": "Yuan-Ping Wu (Titan)",
+          "id": 21295001,
+          "id_str": "21295001",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1126749985687523328,
+    "in_reply_to_status_id_str": "1126749985687523328",
+    "in_reply_to_user_id": 21295001,
+    "in_reply_to_user_id_str": "21295001",
+    "in_reply_to_screen_name": "titanypw",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 10 07:23:48 +0000 2019",
+    "id": 1126749664533860353,
+    "id_str": "1126749664533860353",
+    "text": "很討厭在網頁加了 facebook 分享引文的網站。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 10 06:45:37 +0000 2019",
+    "id": 1126740055635021824,
+    "id_str": "1126740055635021824",
+    "text": "RT @AllenKoni2015r: 同樣是台灣品牌，一間叫華碩，一間叫威盛，即使ASUS手機還有些缺點，就算HTC做的比較好一點，我還是選ASUS，因為良心，因為良知，沒有良心與良知的廠商，技術再好，都是人類的災難。 https://t.co/k68X3dXqok",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AllenKoni2015r",
+          "name": "艾倫踹共，滅統畜",
+          "id": 959417963139887104,
+          "id_str": "959417963139887104",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1126704835879772161,
+          "id_str": "1126704835879772161",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6LcFCVUIAEesbp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6LcFCVUIAEesbp.jpg",
+          "url": "https://t.co/k68X3dXqok",
+          "display_url": "pic.twitter.com/k68X3dXqok",
+          "expanded_url": "https://twitter.com/AllenKoni2015r/status/1126704879844462592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1126704879844462592,
+          "source_status_id_str": "1126704879844462592",
+          "source_user_id": 959417963139887104,
+          "source_user_id_str": "959417963139887104"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1126704835879772161,
+          "id_str": "1126704835879772161",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6LcFCVUIAEesbp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6LcFCVUIAEesbp.jpg",
+          "url": "https://t.co/k68X3dXqok",
+          "display_url": "pic.twitter.com/k68X3dXqok",
+          "expanded_url": "https://twitter.com/AllenKoni2015r/status/1126704879844462592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1920,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1126704879844462592,
+          "source_status_id_str": "1126704879844462592",
+          "source_user_id": 959417963139887104,
+          "source_user_id_str": "959417963139887104"
+        },
+        {
+          "id": 1126704854112411649,
+          "id_str": "1126704854112411649",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6LcGGQUIAE923L.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6LcGGQUIAE923L.jpg",
+          "url": "https://t.co/k68X3dXqok",
+          "display_url": "pic.twitter.com/k68X3dXqok",
+          "expanded_url": "https://twitter.com/AllenKoni2015r/status/1126704879844462592/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1920,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1126704879844462592,
+          "source_status_id_str": "1126704879844462592",
+          "source_user_id": 959417963139887104,
+          "source_user_id_str": "959417963139887104"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri May 10 04:25:51 +0000 2019",
+      "id": 1126704879844462592,
+      "id_str": "1126704879844462592",
+      "text": "同樣是台灣品牌，一間叫華碩，一間叫威盛，即使ASUS手機還有些缺點，就算HTC做的比較好一點，我還是選ASUS，因為良心，因為良知，沒有良心與良知的廠商，技術再好，都是人類的災難。 https://t.co/k68X3dXqok",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1126704835879772161,
+            "id_str": "1126704835879772161",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6LcFCVUIAEesbp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6LcFCVUIAEesbp.jpg",
+            "url": "https://t.co/k68X3dXqok",
+            "display_url": "pic.twitter.com/k68X3dXqok",
+            "expanded_url": "https://twitter.com/AllenKoni2015r/status/1126704879844462592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1126704835879772161,
+            "id_str": "1126704835879772161",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6LcFCVUIAEesbp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6LcFCVUIAEesbp.jpg",
+            "url": "https://t.co/k68X3dXqok",
+            "display_url": "pic.twitter.com/k68X3dXqok",
+            "expanded_url": "https://twitter.com/AllenKoni2015r/status/1126704879844462592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1126704854112411649,
+            "id_str": "1126704854112411649",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6LcGGQUIAE923L.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6LcGGQUIAE923L.jpg",
+            "url": "https://t.co/k68X3dXqok",
+            "display_url": "pic.twitter.com/k68X3dXqok",
+            "expanded_url": "https://twitter.com/AllenKoni2015r/status/1126704879844462592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1920,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 959417963139887104,
+        "id_str": "959417963139887104",
+        "name": "艾倫踹共，滅統畜",
+        "screen_name": "AllenKoni2015r",
+        "location": "福爾摩沙 台灣 府城",
+        "description": "如果九二共識是要我們卑躬屈膝，那我就讓你們看見民主自由的驕傲。\n我們台灣人不習慣跪著跟官員講話，所以台灣歸台灣，終共國歸終共國。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 690,
+        "friends_count": 223,
+        "listed_count": 0,
+        "created_at": "Fri Feb 02 13:27:22 +0000 2018",
+        "favourites_count": 57631,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10968,
+        "lang": "zh-TW",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1030188138658816000/JdewAyvi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030188138658816000/JdewAyvi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/959417963139887104/1544276614",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 140,
+      "favorite_count": 325,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 140,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 09 15:56:07 +0000 2019",
+    "id": 1126516204754034688,
+    "id_str": "1126516204754034688",
+    "text": "綁鞋帶那新聞（標題）真是看一次就想吐一次。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu May 09 02:00:06 +0000 2019",
     "id": 1126305815017558017,
     "id_str": "1126305815017558017",
