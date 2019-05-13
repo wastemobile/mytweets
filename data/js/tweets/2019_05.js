@@ -1,5 +1,941 @@
 Grailbird.data.tweets_2019_05 = [
   {
+    "created_at": "Mon May 13 13:32:12 +0000 2019",
+    "id": 1127929537541443584,
+    "id_str": "1127929537541443584",
+    "text": "@wunaichen 感謝回覆。紀錄片是否會「補償」、尤其對其主題人物，似乎有各種不同狀況（參考 https://t.co/CiTNLxYHD0 ），畢竟與商業劇情片不一樣。\n\n只是覺得「收入頗豐」這樣的描述，應該需要一點數據支持。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "wunaichen",
+          "name": "TommyChen",
+          "id": 2159047632,
+          "id_str": "2159047632",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CiTNLxYHD0",
+          "expanded_url": "http://bit.ly/2HgJQiz",
+          "display_url": "bit.ly/2HgJQiz",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1127903046963421186,
+    "in_reply_to_status_id_str": "1127903046963421186",
+    "in_reply_to_user_id": 2159047632,
+    "in_reply_to_user_id_str": "2159047632",
+    "in_reply_to_screen_name": "wunaichen",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 13 11:35:43 +0000 2019",
+    "id": 1127900222695149571,
+    "id_str": "1127900222695149571",
+    "text": "「而HBO 前陣子拍的紀錄片想必也是讓Holmes 收入頗豐。」\n\nWhy？ https://t.co/LgUUpRN1zR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LgUUpRN1zR",
+          "expanded_url": "https://twitter.com/matterslab/status/1127899151121825792",
+          "display_url": "twitter.com/matterslab/sta…",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1127899151121825792,
+    "quoted_status_id_str": "1127899151121825792",
+    "quoted_status": {
+      "created_at": "Mon May 13 11:31:27 +0000 2019",
+      "id": 1127899151121825792,
+      "id_str": "1127899151121825792",
+      "text": "▍《惡血》是一場騙局，還是一個太大的夢？\n\nTommy 讀完《惡血》，歸納出十點閱讀心得。醫療產業的特殊性是失敗的原因之一，它推出產品前的成本極高，因此邊上市爭取投資、邊研發改正的方式並不可行。\n\nTommy 大力推薦這本書，簡單… https://t.co/1znjTz0TYH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1znjTz0TYH",
+            "expanded_url": "https://twitter.com/i/web/status/1127899151121825792",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 919949688287084545,
+        "id_str": "919949688287084545",
+        "name": "Matters Lab",
+        "screen_name": "MattersLab",
+        "location": "",
+        "description": "Reconstruct the ecosystem for high-quality contents with blockchain technology",
+        "url": "https://t.co/TeTUyIt7Em",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/TeTUyIt7Em",
+                "expanded_url": "https://info.matters.news/",
+                "display_url": "info.matters.news",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1219,
+        "friends_count": 83,
+        "listed_count": 15,
+        "created_at": "Mon Oct 16 15:34:32 +0000 2017",
+        "favourites_count": 138,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 837,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/982893380148473856/nJH_cwP1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/982893380148473856/nJH_cwP1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/919949688287084545/1553183418",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 13 09:52:54 +0000 2019",
+    "id": 1127874348453249024,
+    "id_str": "1127874348453249024",
+    "text": "所以日本的音樂 CD 生產數量最高是在 2000 年，約2億7633萬張，之後就持續下滑，2018 終於跌破 1 億張；串流音樂也是在同一年超越傳統的數位下載，達到 54% 的佔比。 #note \n\n日本CD專輯年産量首次低於1億… https://t.co/ChxxwCAtAK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            92,
+            97
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ChxxwCAtAK",
+          "expanded_url": "https://twitter.com/i/web/status/1127874348453249024",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 13 04:42:09 +0000 2019",
+    "id": 1127796146502377472,
+    "id_str": "1127796146502377472",
+    "text": "這就是假新聞。 https://t.co/Mfi59OG4em",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Mfi59OG4em",
+          "expanded_url": "https://twitter.com/nintendogc/status/1127503191824687104",
+          "display_url": "twitter.com/nintendogc/sta…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1127503191824687104,
+    "quoted_status_id_str": "1127503191824687104",
+    "quoted_status": {
+      "created_at": "Sun May 12 09:18:03 +0000 2019",
+      "id": 1127503191824687104,
+      "id_str": "1127503191824687104",
+      "text": "專訪影片中郭台銘的確是說：如果年輕人還是領那麼多薪水，那台灣經濟是沒有望的。\n\n所以是 UDN 事後偷改新聞稿。 https://t.co/4RrUqJ9CZL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1127503180160389121,
+            "id_str": "1127503180160389121",
+            "indices": [
+              57,
+              80
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6WyKyiVUAEtzrS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6WyKyiVUAEtzrS.jpg",
+            "url": "https://t.co/4RrUqJ9CZL",
+            "display_url": "pic.twitter.com/4RrUqJ9CZL",
+            "expanded_url": "https://twitter.com/NintendoGC/status/1127503191824687104/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1127503180160389121,
+            "id_str": "1127503180160389121",
+            "indices": [
+              57,
+              80
+            ],
+            "media_url": "http://pbs.twimg.com/media/D6WyKyiVUAEtzrS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D6WyKyiVUAEtzrS.jpg",
+            "url": "https://t.co/4RrUqJ9CZL",
+            "display_url": "pic.twitter.com/4RrUqJ9CZL",
+            "expanded_url": "https://twitter.com/NintendoGC/status/1127503191824687104/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 111259686,
+        "id_str": "111259686",
+        "name": "Goston  蔥爺",
+        "screen_name": "NintendoGC",
+        "location": "Taipei. Taiwan",
+        "description": "此 Twitter 帳號 18 歲以下 Follow 不宜～",
+        "url": "https://t.co/hKNUg5kvfV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/hKNUg5kvfV",
+                "expanded_url": "https://www.goston.net/",
+                "display_url": "goston.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4602,
+        "friends_count": 462,
+        "listed_count": 133,
+        "created_at": "Thu Feb 04 09:19:31 +0000 2010",
+        "favourites_count": 157,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 76676,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717920156173803520/ssD4THQN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/717920156173803520/ssD4THQN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111259686/1549123529",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 67,
+      "favorite_count": 117,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 6,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 13 01:04:12 +0000 2019",
+    "id": 1127741296687190016,
+    "id_str": "1127741296687190016",
+    "text": "本週每日高溫30度，夏天。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 13 00:55:10 +0000 2019",
+    "id": 1127739026339844096,
+    "id_str": "1127739026339844096",
+    "text": "RT @EbookPlan: Openstax https://t.co/q48uYPJTlZ\nOpenstax 是一个致力于改善学生获取学习资源途径的组织，由盖茨夫妇建立的免费大学教科书数据库，全部都是合法图书。可直接免费下载PDF和epub格式的电子材料。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "EbookPlan",
+          "name": "eBooksPlan",
+          "id": 907444298198560769,
+          "id_str": "907444298198560769",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q48uYPJTlZ",
+          "expanded_url": "http://t.cn/Rt33AsG",
+          "display_url": "t.cn/Rt33AsG",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 12 14:29:52 +0000 2019",
+      "id": 1127581663066607617,
+      "id_str": "1127581663066607617",
+      "text": "Openstax https://t.co/q48uYPJTlZ\nOpenstax 是一个致力于改善学生获取学习资源途径的组织，由盖茨夫妇建立的免费大学教科书数据库，全部都是合法图书。可直接免费下载PDF和epub格式的电子材料。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/q48uYPJTlZ",
+            "expanded_url": "http://t.cn/Rt33AsG",
+            "display_url": "t.cn/Rt33AsG",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 907444298198560769,
+        "id_str": "907444298198560769",
+        "name": "eBooksPlan",
+        "screen_name": "EbookPlan",
+        "location": "冰岛",
+        "description": "挖掘优质数字内容，打破信息不对称。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1867,
+        "friends_count": 53,
+        "listed_count": 17,
+        "created_at": "Tue Sep 12 03:22:34 +0000 2017",
+        "favourites_count": 192,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 273,
+        "lang": "zh-cn",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1127124517321465856/ulGs3_Kz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1127124517321465856/ulGs3_Kz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/907444298198560769/1557562403",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 206,
+      "favorite_count": 443,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 206,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun May 12 14:32:43 +0000 2019",
+    "id": 1127582378770100224,
+    "id_str": "1127582378770100224",
+    "text": "在 #Netflix 看了《重現十字路口的惡魔：羅伯・強生的故事》，我對藍調音樂家所知甚少，從這部不到50分鐘的紀錄片學到很多，包含「27俱樂部」迷因，他的音樂也實在詭異迷人。 https://t.co/plgv6EqXKM\n\n推… https://t.co/283qtqojLX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            2,
+            10
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/plgv6EqXKM",
+          "expanded_url": "http://bit.ly/2YpEQxI",
+          "display_url": "bit.ly/2YpEQxI",
+          "indices": [
+            89,
+            112
+          ]
+        },
+        {
+          "url": "https://t.co/283qtqojLX",
+          "expanded_url": "https://twitter.com/i/web/status/1127582378770100224",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun May 12 07:50:26 +0000 2019",
+    "id": 1127481142016237568,
+    "id_str": "1127481142016237568",
+    "text": "美，但看得我好焦慮⋯⋯\n\nKnolling 排列美學！英國 Present &amp; Correct 文具專賣店 https://t.co/sWCXN2DfJ6 https://t.co/QiRMDxVxOe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sWCXN2DfJ6",
+          "expanded_url": "http://bit.ly/2YmSSjK",
+          "display_url": "bit.ly/2YmSSjK",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1127481131199152129,
+          "id_str": "1127481131199152129",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6WeHXwUwAEeUi5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6WeHXwUwAEeUi5.jpg",
+          "url": "https://t.co/QiRMDxVxOe",
+          "display_url": "pic.twitter.com/QiRMDxVxOe",
+          "expanded_url": "https://twitter.com/wastemobile/status/1127481142016237568/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 850,
+              "h": 500,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 850,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1127481131199152129,
+          "id_str": "1127481131199152129",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/D6WeHXwUwAEeUi5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D6WeHXwUwAEeUi5.jpg",
+          "url": "https://t.co/QiRMDxVxOe",
+          "display_url": "pic.twitter.com/QiRMDxVxOe",
+          "expanded_url": "https://twitter.com/wastemobile/status/1127481142016237568/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 850,
+              "h": 500,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 850,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun May 12 01:12:14 +0000 2019",
     "id": 1127380933382889472,
     "id_str": "1127380933382889472",
