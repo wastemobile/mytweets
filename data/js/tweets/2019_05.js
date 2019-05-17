@@ -1,5 +1,303 @@
 Grailbird.data.tweets_2019_05 = [
   {
+    "created_at": "Fri May 17 13:35:08 +0000 2019",
+    "id": 1129379827666960384,
+    "id_str": "1129379827666960384",
+    "text": "至少吃了雞排、魷魚、花枝丸、四季豆、七里香、炸雞皮和甜不辣。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1129349072236662785,
+    "in_reply_to_status_id_str": "1129349072236662785",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 17 11:32:55 +0000 2019",
+    "id": 1129349072236662785,
+    "id_str": "1129349072236662785",
+    "text": "今天應該是要吃鹹酥雞和做愛的。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 17 07:44:38 +0000 2019",
+    "id": 1129291620245893120,
+    "id_str": "1129291620245893120",
+    "text": "不知為何說小米（多看）閱讀器就是掌閱 T6⋯⋯\n\nXiaomi iReader T6 Features a 6″ Carta E-ink Screen, Retails for $135… https://t.co/zwN8NkOGaG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zwN8NkOGaG",
+          "expanded_url": "https://twitter.com/i/web/status/1129291620245893120",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 17 07:05:10 +0000 2019",
+    "id": 1129281689031569408,
+    "id_str": "1129281689031569408",
+    "text": "RT @LandB194: 「雨後真的彩虹也出現了！」\n2019.05.17\n早上全台下著雨，但是這一天是台灣《婚姻平權法案》表決日。或許因為天氣的關係使得在關注的人更加地擔心堪憂。\n\n在中午過後雨停，太陽出現了，表決結果通過，台灣成為亞洲第一能夠結婚的地方，彩虹出現了！\n\n（…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "LandB194",
+          "name": "b19: 4'33''の秋森萬",
+          "id": 1268958853,
+          "id_str": "1268958853",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri May 17 06:41:45 +0000 2019",
+      "id": 1129275798072975360,
+      "id_str": "1129275798072975360",
+      "text": "「雨後真的彩虹也出現了！」\n2019.05.17\n早上全台下著雨，但是這一天是台灣《婚姻平權法案》表決日。或許因為天氣的關係使得在關注的人更加地擔心堪憂。\n\n在中午過後雨停，太陽出現了，表決結果通過，台灣成為亞洲第一能夠結婚的地方… https://t.co/eCaEX1B38Z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eCaEX1B38Z",
+            "expanded_url": "https://twitter.com/i/web/status/1129275798072975360",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1268958853,
+        "id_str": "1268958853",
+        "name": "b19: 4'33''の秋森萬",
+        "screen_name": "LandB194",
+        "location": "Between the Heaven n the Hell",
+        "description": "I’m a chosen one! Every day is my black day. 這裡是我腦中的閣樓；人生不能忘的三件事「手機、錢包、鑰匙」；幽默感是隨時都有尿意的使命感；從零分開始；窮藍孩。#求包養 #LookingForASugerDaddy",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 96,
+        "friends_count": 232,
+        "listed_count": 1,
+        "created_at": "Fri Mar 15 06:17:13 +0000 2013",
+        "favourites_count": 3932,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1576,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1117475322331418624/U2Bp99h__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117475322331418624/U2Bp99h__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268958853/1415962975",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "060A00",
+        "profile_text_color": "618238",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1051,
+      "favorite_count": 2459,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1051,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu May 16 13:10:17 +0000 2019",
     "id": 1129011187088125952,
     "id_str": "1129011187088125952",
