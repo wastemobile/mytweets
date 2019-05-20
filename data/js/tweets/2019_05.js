@@ -1,5 +1,193 @@
 Grailbird.data.tweets_2019_05 = [
   {
+    "created_at": "Mon May 20 11:03:57 +0000 2019",
+    "id": 1130428943717158912,
+    "id_str": "1130428943717158912",
+    "text": "RT @bee_hsu: 柯文哲：「我在中共眼中的分數是50多分，不及格，但可以補考；至於蔡英文不要死當就很好。」\n\n韓國瑜：「未來的台灣領導人要讓中國人安心。」\n\n郭台銘：「台灣是中國不可分割的一部分。」\n\n蔡英文：「盡最大力量保衛台灣主權！」\n\n三個男人在爭特首，一個女人在…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bee_hsu",
+          "name": "Bee-Bee",
+          "id": 379712113,
+          "id_str": "379712113",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 19 09:42:00 +0000 2019",
+      "id": 1130045935839375360,
+      "id_str": "1130045935839375360",
+      "text": "柯文哲：「我在中共眼中的分數是50多分，不及格，但可以補考；至於蔡英文不要死當就很好。」\n\n韓國瑜：「未來的台灣領導人要讓中國人安心。」\n\n郭台銘：「台灣是中國不可分割的一部分。」\n\n蔡英文：「盡最大力量保衛台灣主權！」\n\n三個男人在爭特首，一個女人在當總統。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 379712113,
+        "id_str": "379712113",
+        "name": "Bee-Bee",
+        "screen_name": "bee_hsu",
+        "location": "Taiwan",
+        "description": "Love makes me weird. Taiwanese Taiwan is not China.  不想看到我可以封鎖我，爛ㄐㄐ退散，滾。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3698,
+        "friends_count": 52,
+        "listed_count": 18,
+        "created_at": "Sun Sep 25 12:40:24 +0000 2011",
+        "favourites_count": 2781,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 963,
+        "lang": "zh-tw",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E0618F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1044717281236930561/z68ed3QZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044717281236930561/z68ed3QZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/379712113/1520863480",
+        "profile_link_color": "C72079",
+        "profile_sidebar_border_color": "CCAAE0",
+        "profile_sidebar_fill_color": "D9DFF2",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 622,
+      "favorite_count": 2010,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 622,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 20 04:44:23 +0000 2019",
+    "id": 1130333425716551680,
+    "id_str": "1130333425716551680",
+    "text": "六日補追 GOT 時真的睡著好幾次。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri May 17 13:35:08 +0000 2019",
     "id": 1129379827666960384,
     "id_str": "1129379827666960384",
