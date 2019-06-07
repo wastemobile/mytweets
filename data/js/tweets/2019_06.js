@@ -1,5 +1,302 @@
 Grailbird.data.tweets_2019_06 = [
   {
+    "created_at": "Fri Jun 07 02:36:58 +0000 2019",
+    "id": 1136824338353491968,
+    "id_str": "1136824338353491968",
+    "text": "原來 $5999(+999) 的 Pro Display XDR 的對手是要價 $30,000 美金的 SONY BVM-X300 啊⋯⋯\n\n现场体验 Mac Pro 之后，我终于明白为什么上面都是洞… https://t.co/OYgezca3ha",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OYgezca3ha",
+          "expanded_url": "https://twitter.com/i/web/status/1136824338353491968",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 06 13:50:42 +0000 2019",
+    "id": 1136631503956221952,
+    "id_str": "1136631503956221952",
+    "text": "就是這個意思。 https://t.co/vRMLR8pkfx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vRMLR8pkfx",
+          "expanded_url": "https://twitter.com/brianlagunas/status/1136398962653405184",
+          "display_url": "twitter.com/brianlagunas/s…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1136398962653405184,
+    "quoted_status_id_str": "1136398962653405184",
+    "quoted_status": {
+      "created_at": "Wed Jun 05 22:26:40 +0000 2019",
+      "id": 1136398962653405184,
+      "id_str": "1136398962653405184",
+      "text": "Found this on the internet. Can't take credit, but it's hilarious! #Apple has lost it's damn mind 🤣🤣🤣 https://t.co/9s1Kpt83eJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Apple",
+            "indices": [
+              67,
+              73
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1136398842163736576,
+            "id_str": "1136398842163736576",
+            "indices": [
+              102,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/D8VMud5VsAADnYE.png",
+            "media_url_https": "https://pbs.twimg.com/media/D8VMud5VsAADnYE.png",
+            "url": "https://t.co/9s1Kpt83eJ",
+            "display_url": "pic.twitter.com/9s1Kpt83eJ",
+            "expanded_url": "https://twitter.com/brianlagunas/status/1136398962653405184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 772,
+                "h": 596,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 772,
+                "h": 596,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 525,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1136398842163736576,
+            "id_str": "1136398842163736576",
+            "indices": [
+              102,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/D8VMud5VsAADnYE.png",
+            "media_url_https": "https://pbs.twimg.com/media/D8VMud5VsAADnYE.png",
+            "url": "https://t.co/9s1Kpt83eJ",
+            "display_url": "pic.twitter.com/9s1Kpt83eJ",
+            "expanded_url": "https://twitter.com/brianlagunas/status/1136398962653405184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 772,
+                "h": 596,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 772,
+                "h": 596,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 525,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 207714781,
+        "id_str": "207714781",
+        "name": "Brian Lagunas",
+        "screen_name": "brianlagunas",
+        "location": "Boise, ID",
+        "description": "Works at @Infragistics | Owner of @PrismLib | Microsoft MVP | Xamarin MVP | Microsoft P&P Champion | Speaker | Trainer | Pluralsight Author",
+        "url": "http://t.co/47OvjaASiI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/47OvjaASiI",
+                "expanded_url": "http://brianlagunas.com",
+                "display_url": "brianlagunas.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4469,
+        "friends_count": 429,
+        "listed_count": 200,
+        "created_at": "Mon Oct 25 22:15:04 +0000 2010",
+        "favourites_count": 2361,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20789,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/468055345353347072/xlvzPr4-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/468055345353347072/xlvzPr4-_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/207714781/1558747130",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 339,
+      "favorite_count": 869,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jun 06 11:07:17 +0000 2019",
     "id": 1136590375848595456,
     "id_str": "1136590375848595456",
