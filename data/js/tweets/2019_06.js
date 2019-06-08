@@ -1,5 +1,245 @@
 Grailbird.data.tweets_2019_06 = [
   {
+    "created_at": "Fri Jun 07 15:15:46 +0000 2019",
+    "id": 1137015298085642240,
+    "id_str": "1137015298085642240",
+    "text": "其實 #Netflix 新一季《黑鏡》也不能說偏離了主題、或拍得不用心，只是跟第一季不在同一層樓而已。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 07 02:56:14 +0000 2019",
+    "id": 1136829188202045441,
+    "id_str": "1136829188202045441",
+    "text": "謠傳 B&amp;N 將被已經擁有英國連鎖 Waterstones 書店的避險基金買下，基金擁有人是俄羅斯億萬富翁 Alexander Mamut。\n\nRumor: Barnes &amp; Noble to be Acquired by the… https://t.co/ZdhmVBn2vm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZdhmVBn2vm",
+          "expanded_url": "https://twitter.com/i/web/status/1136829188202045441",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            125,
+            148
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 07 02:51:11 +0000 2019",
+    "id": 1136827915817984000,
+    "id_str": "1136827915817984000",
+    "text": "在日本雜誌上看到，這漫畫《私の少年》講30歲的 OL 與12歲美少年戀愛的故事，紙本與電子書合計賣超過 130 萬冊⋯⋯\n\n《我的少年》（漫畫）｜青文 https://t.co/L1lontb7Sb https://t.co/YOqqZoI7m1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/L1lontb7Sb",
+          "expanded_url": "http://bit.ly/2MB4r5Y",
+          "display_url": "bit.ly/2MB4r5Y",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1136827902937292800,
+          "id_str": "1136827902937292800",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/D8bS9F1UYAAxtg1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D8bS9F1UYAAxtg1.jpg",
+          "url": "https://t.co/YOqqZoI7m1",
+          "display_url": "pic.twitter.com/YOqqZoI7m1",
+          "expanded_url": "https://twitter.com/wastemobile/status/1136827915817984000/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 844,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 478,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 985,
+              "h": 1401,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1136827902937292800,
+          "id_str": "1136827902937292800",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/D8bS9F1UYAAxtg1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D8bS9F1UYAAxtg1.jpg",
+          "url": "https://t.co/YOqqZoI7m1",
+          "display_url": "pic.twitter.com/YOqqZoI7m1",
+          "expanded_url": "https://twitter.com/wastemobile/status/1136827915817984000/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 844,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 478,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 985,
+              "h": 1401,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Fri Jun 07 02:36:58 +0000 2019",
     "id": 1136824338353491968,
     "id_str": "1136824338353491968",
