@@ -1,5 +1,854 @@
 Grailbird.data.tweets_2019_06 = [
   {
+    "created_at": "Wed Jun 12 09:08:06 +0000 2019",
+    "id": 1138734709230276610,
+    "id_str": "1138734709230276610",
+    "text": "RT @JeffreyBai1982: https://t.co/ZUjqdWuyLR\n美國發佈最後通牒，一旦送中法案通過，就要取消香港的獨立經貿地位，視同中國領土。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JeffreyBai1982",
+          "name": "Jeffrey Bai",
+          "id": 814032445032927232,
+          "id_str": "814032445032927232",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZUjqdWuyLR",
+          "expanded_url": "https://www.ptt.cc/bbs/Gossiping/M.1560328875.A.447.html",
+          "display_url": "ptt.cc/bbs/Gossiping/…",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jun 12 08:54:14 +0000 2019",
+      "id": 1138731221767376896,
+      "id_str": "1138731221767376896",
+      "text": "https://t.co/ZUjqdWuyLR\n美國發佈最後通牒，一旦送中法案通過，就要取消香港的獨立經貿地位，視同中國領土。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZUjqdWuyLR",
+            "expanded_url": "https://www.ptt.cc/bbs/Gossiping/M.1560328875.A.447.html",
+            "display_url": "ptt.cc/bbs/Gossiping/…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 814032445032927232,
+        "id_str": "814032445032927232",
+        "name": "Jeffrey Bai",
+        "screen_name": "JeffreyBai1982",
+        "location": "",
+        "description": "Si vis pacem, para bellum. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Wehrhafte Demokratie (physikalisch)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1072,
+        "friends_count": 420,
+        "listed_count": 10,
+        "created_at": "Wed Dec 28 08:57:13 +0000 2016",
+        "favourites_count": 25887,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11180,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/928673322933669889/f5Vld9HW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/928673322933669889/f5Vld9HW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/814032445032927232/1548263674",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 184,
+      "favorite_count": 254,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 184,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 12 08:55:59 +0000 2019",
+    "id": 1138731662278254593,
+    "id_str": "1138731662278254593",
+    "text": "那些還想把台灣送給中國的人，認真看看！ #反送中 https://t.co/sfYOQL6KQz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "反送中",
+          "indices": [
+            20,
+            24
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sfYOQL6KQz",
+          "expanded_url": "https://twitter.com/aoi/status/1138729688061419521",
+          "display_url": "twitter.com/aoi/status/113…",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1138729688061419521,
+    "quoted_status_id_str": "1138729688061419521",
+    "quoted_status": {
+      "created_at": "Wed Jun 12 08:48:08 +0000 2019",
+      "id": 1138729688061419521,
+      "id_str": "1138729688061419521",
+      "text": "\"香港自由彷彿已死！解放軍疑似換上港警服對港民搜身 | 兩岸 | NOWnews 今日新聞\" ( https://t.co/wC6J1EbUWC )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wC6J1EbUWC",
+            "expanded_url": "http://twitthat.com/4cYRJ",
+            "display_url": "twitthat.com/4cYRJ",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitthat.com/\" rel=\"nofollow\">twitthat</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 665073,
+        "id_str": "665073",
+        "name": "Aoi",
+        "screen_name": "aoi",
+        "location": "24.808691,120.958463",
+        "description": "這沒有其他的方法，這不能算一個問題，你應該考慮的是對或不對，當你學得這正確的事情，就算你不能全部完成，只能完成一部份，但那也算是成就，你應該繼續努力，而不應該總是去思考到底能不能夠在你有限的生命裡把這些實現，這不該是一個問題，我們本該努力付出，想辦法去做出一些貢獻，就從現在開始。",
+        "url": "http://t.co/aK93xgci7X",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/aK93xgci7X",
+                "expanded_url": "http://fotologue.jp/aoiclover",
+                "display_url": "fotologue.jp/aoiclover",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1099,
+        "friends_count": 3369,
+        "listed_count": 37,
+        "created_at": "Fri Jan 19 14:30:01 +0000 2007",
+        "favourites_count": 5537,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20524,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2524787446/ly85913aoaxpfw9uci82_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2524787446/ly85913aoaxpfw9uci82_normal.jpeg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "737373",
+        "profile_sidebar_fill_color": "8C0000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 12 04:24:04 +0000 2019",
+    "id": 1138663231025700865,
+    "id_str": "1138663231025700865",
+    "text": "RT @sanzhao4: 香港警察瘋掉了，在地鐵站到處截查中學生，附後面視頻，有中年女士看不過眼，說嚇到孩子了，還被警察大聲喝罵。 https://t.co/onTRFaKE72",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sanzhao4",
+          "name": "三爪",
+          "id": 702397877872676864,
+          "id_str": "702397877872676864",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1138429269921501184,
+          "id_str": "1138429269921501184",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/D8yDY6uUEAAIspt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D8yDY6uUEAAIspt.jpg",
+          "url": "https://t.co/onTRFaKE72",
+          "display_url": "pic.twitter.com/onTRFaKE72",
+          "expanded_url": "https://twitter.com/sanzhao4/status/1138429284127629314/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 864,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 864,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 612,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1138429284127629314,
+          "source_status_id_str": "1138429284127629314",
+          "source_user_id": 702397877872676864,
+          "source_user_id_str": "702397877872676864"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1138429269921501184,
+          "id_str": "1138429269921501184",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/D8yDY6uUEAAIspt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D8yDY6uUEAAIspt.jpg",
+          "url": "https://t.co/onTRFaKE72",
+          "display_url": "pic.twitter.com/onTRFaKE72",
+          "expanded_url": "https://twitter.com/sanzhao4/status/1138429284127629314/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 864,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 864,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 612,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1138429284127629314,
+          "source_status_id_str": "1138429284127629314",
+          "source_user_id": 702397877872676864,
+          "source_user_id_str": "702397877872676864"
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 11 12:54:26 +0000 2019",
+      "id": 1138429284127629314,
+      "id_str": "1138429284127629314",
+      "text": "香港警察瘋掉了，在地鐵站到處截查中學生，附後面視頻，有中年女士看不過眼，說嚇到孩子了，還被警察大聲喝罵。 https://t.co/onTRFaKE72",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1138429269921501184,
+            "id_str": "1138429269921501184",
+            "indices": [
+              53,
+              76
+            ],
+            "media_url": "http://pbs.twimg.com/media/D8yDY6uUEAAIspt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8yDY6uUEAAIspt.jpg",
+            "url": "https://t.co/onTRFaKE72",
+            "display_url": "pic.twitter.com/onTRFaKE72",
+            "expanded_url": "https://twitter.com/sanzhao4/status/1138429284127629314/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 864,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 864,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 612,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1138429269921501184,
+            "id_str": "1138429269921501184",
+            "indices": [
+              53,
+              76
+            ],
+            "media_url": "http://pbs.twimg.com/media/D8yDY6uUEAAIspt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D8yDY6uUEAAIspt.jpg",
+            "url": "https://t.co/onTRFaKE72",
+            "display_url": "pic.twitter.com/onTRFaKE72",
+            "expanded_url": "https://twitter.com/sanzhao4/status/1138429284127629314/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 864,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 864,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 612,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 702397877872676864,
+        "id_str": "702397877872676864",
+        "name": "三爪",
+        "screen_name": "sanzhao4",
+        "location": "Hong Kong",
+        "description": "God, grant me the serenity to accept the things I cannot change, Courage to change the things I can, And the wisdom to distinguish the difference.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 15922,
+        "friends_count": 4779,
+        "listed_count": 96,
+        "created_at": "Wed Feb 24 07:41:18 +0000 2016",
+        "favourites_count": 20553,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9129,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1138625411892441088/Q3aeLvVB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138625411892441088/Q3aeLvVB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/702397877872676864/1560333528",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 588,
+      "favorite_count": 926,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 588,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 12 01:14:31 +0000 2019",
+    "id": 1138615530837794816,
+    "id_str": "1138615530837794816",
+    "text": "RT @goodrick8964: 优秀的孩子高考710分却被高校拒绝录取，最痛心的是因为父母的信用失信所为… …这是典型的父債子偿、连坐等野蛮律法的还魂！强國正在建的信用系統，將那些不符合官方要求標準的人，全部列入失信名單，與交通出行、銀行、購物、子女上學、工作、婚姻全都掛钩…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "goodrick8964",
+          "name": "冷山",
+          "id": 1071426383010660352,
+          "id_str": "1071426383010660352",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 10 16:58:31 +0000 2019",
+      "id": 1138128320426496002,
+      "id_str": "1138128320426496002",
+      "text": "优秀的孩子高考710分却被高校拒绝录取，最痛心的是因为父母的信用失信所为… …这是典型的父債子偿、连坐等野蛮律法的还魂！强國正在建的信用系統，將那些不符合官方要求標準的人，全部列入失信名單，與交通出行、銀行、購物、子女上學、工作、… https://t.co/yJxUbyK4Cb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yJxUbyK4Cb",
+            "expanded_url": "https://twitter.com/i/web/status/1138128320426496002",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1071426383010660352,
+        "id_str": "1071426383010660352",
+        "name": "冷山",
+        "screen_name": "goodrick8964",
+        "location": "",
+        "description": "华裔独立经济学者！最新最深的財經和時政解讀，歡迎关注冷山的油管頻道https://t.co/XG2MYFDWPR",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/XG2MYFDWPR",
+                "expanded_url": "https://www.youtube.com/channel/UCn9_KbNANeyYREePe8YA2DA",
+                "display_url": "youtube.com/channel/UCn9_K…",
+                "indices": [
+                  33,
+                  56
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14793,
+        "friends_count": 160,
+        "listed_count": 70,
+        "created_at": "Sat Dec 08 15:28:50 +0000 2018",
+        "favourites_count": 832,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1179,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1071427294089011205/6IonAHqx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1071427294089011205/6IonAHqx_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 164,
+      "favorite_count": 301,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 164,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Jun 12 01:01:35 +0000 2019",
+    "id": 1138612274761850880,
+    "id_str": "1138612274761850880",
+    "text": "明知不可為而為之，是真愛。 #加油香港",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "加油香港",
+          "indices": [
+            14,
+            19
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jun 11 05:00:17 +0000 2019",
     "id": 1138309958401794048,
     "id_str": "1138309958401794048",
