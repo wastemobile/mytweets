@@ -1,5 +1,359 @@
 Grailbird.data.tweets_2019_06 = [
   {
+    "created_at": "Sat Jun 15 00:41:46 +0000 2019",
+    "id": 1139694453570981888,
+    "id_str": "1139694453570981888",
+    "text": "Kindle 吃到飽 2019/5 每頁價格 $0.0046598，版稅總金額則來到 2,460 萬美金的新高。\n\nKindle Unlimited Royalty Rate Dipped in May 2019 as the F… https://t.co/i6BXOtae4b",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/i6BXOtae4b",
+          "expanded_url": "https://twitter.com/i/web/status/1139694453570981888",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 15 00:37:01 +0000 2019",
+    "id": 1139693258169176064,
+    "id_str": "1139693258169176064",
+    "text": "想買～\n\n標籤控必敗！Brother P-TOUCH 標籤機超實用又美型，個人化標籤和精美緞帶隨你印 https://t.co/m2b4UFs9AC https://t.co/LZz2y0PNuW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/m2b4UFs9AC",
+          "expanded_url": "http://bit.ly/2RkTPH5",
+          "display_url": "bit.ly/2RkTPH5",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1139693245057732608,
+          "id_str": "1139693245057732608",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/D9EA99CUEAAFFjb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D9EA99CUEAAFFjb.jpg",
+          "url": "https://t.co/LZz2y0PNuW",
+          "display_url": "pic.twitter.com/LZz2y0PNuW",
+          "expanded_url": "https://twitter.com/wastemobile/status/1139693258169176064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1139693245057732608,
+          "id_str": "1139693245057732608",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/D9EA99CUEAAFFjb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D9EA99CUEAAFFjb.jpg",
+          "url": "https://t.co/LZz2y0PNuW",
+          "display_url": "pic.twitter.com/LZz2y0PNuW",
+          "expanded_url": "https://twitter.com/wastemobile/status/1139693258169176064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 14 23:31:48 +0000 2019",
+    "id": 1139676842468626432,
+    "id_str": "1139676842468626432",
+    "text": "原來可折疊螢幕是這樣用的。 https://t.co/wWt7cotPyx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wWt7cotPyx",
+          "expanded_url": "https://twitter.com/sasakitoshinao/status/1139673626502995968",
+          "display_url": "twitter.com/sasakitoshinao…",
+          "indices": [
+            14,
+            37
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1139673626502995968,
+    "quoted_status_id_str": "1139673626502995968",
+    "quoted_status": {
+      "created_at": "Fri Jun 14 23:19:01 +0000 2019",
+      "id": 1139673626502995968,
+      "id_str": "1139673626502995968",
+      "text": "そういう特許申請したようです。ほんとに実現したら、使わない時は手首に巻きつけておけるってのは案外便利そうな気もしますね。／今度のGalaxyは腕に巻きつけることができる？新たな折りたたみスマホ登場か | Qetic… https://t.co/PvS9LvtbgT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PvS9LvtbgT",
+            "expanded_url": "https://twitter.com/i/web/status/1139673626502995968",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3619961,
+        "id_str": "3619961",
+        "name": "佐々木俊尚",
+        "screen_name": "sasakitoshinao",
+        "location": "TOKYO, JAPAN",
+        "description": "ジャーナリスト。SUSONO運営。NHK「世界へ発信！SNS英語術」「AbemaPrime」木曜日。総務省情報通信白書編集委員。福井県美浜町多拠点活動アドバイザー.。東京長野福井の3拠点移動生活者。お仕事依頼はsasaki@pressa.jpへ。RTは議論材料の提出であり、同意ではありません。",
+        "url": "http://t.co/gEDak9pqmw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gEDak9pqmw",
+                "expanded_url": "http://www.pressa.jp/",
+                "display_url": "pressa.jp",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 780569,
+        "friends_count": 20853,
+        "listed_count": 16810,
+        "created_at": "Fri Apr 06 13:30:39 +0000 2007",
+        "favourites_count": 379,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 103410,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/673006085192548353/h676ufd7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/673006085192548353/h676ufd7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3619961/1538354661",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 43,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jun 14 12:11:16 +0000 2019",
     "id": 1139505583852118017,
     "id_str": "1139505583852118017",
