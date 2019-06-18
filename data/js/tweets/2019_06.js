@@ -1,5 +1,672 @@
 Grailbird.data.tweets_2019_06 = [
   {
+    "created_at": "Tue Jun 18 13:01:16 +0000 2019",
+    "id": 1140967717752545281,
+    "id_str": "1140967717752545281",
+    "text": "RT @Chaoint: 【女孩說】我很想你，不過我假裝沒有這件事。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Chaoint",
+          "name": "大腸上癮者。",
+          "id": 55866804,
+          "id_str": "55866804",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 18 12:30:44 +0000 2019",
+      "id": 1140960034307731456,
+      "id_str": "1140960034307731456",
+      "text": "【女孩說】我很想你，不過我假裝沒有這件事。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 55866804,
+        "id_str": "55866804",
+        "name": "大腸上癮者。",
+        "screen_name": "Chaoint",
+        "location": "Taiwan",
+        "description": "大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸大腸",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8420,
+        "friends_count": 658,
+        "listed_count": 81,
+        "created_at": "Sat Jul 11 16:27:39 +0000 2009",
+        "favourites_count": 12217,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4312,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/879582376694759425/i3p9vnlN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/879582376694759425/i3p9vnlN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55866804/1544797279",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "636363",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 18 02:26:04 +0000 2019",
+    "id": 1140807862219710464,
+    "id_str": "1140807862219710464",
+    "text": "不用 LINE 比不結婚還厲害啊！ https://t.co/s3C9I2hEJi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/s3C9I2hEJi",
+          "expanded_url": "https://twitter.com/li_scully/status/1140805763348066304",
+          "display_url": "twitter.com/li_scully/stat…",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1140805763348066304,
+    "quoted_status_id_str": "1140805763348066304",
+    "quoted_status": {
+      "created_at": "Tue Jun 18 02:17:43 +0000 2019",
+      "id": 1140805763348066304,
+      "id_str": "1140805763348066304",
+      "text": "我也沒興趣...\n\n天海祐希：我不結婚，因為沒興趣\nhttps://t.co/IxMSSgQQfl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IxMSSgQQfl",
+            "expanded_url": "https://www.commonhealth.com.tw/article/article.action?nid=79684&utm_source=chfacebook&utm_medium=social&utm_campaign=dailypost-editor&fbclid=IwAR1_ld3WDEo4ke4tuVtkcw1tcDSjjtZTJoiGmFHePXHaAEkfYL6Hcph9LbQ",
+            "display_url": "commonhealth.com.tw/article/articl…",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 36699985,
+        "id_str": "36699985",
+        "name": "🌈喵式部🏳️‍🌈",
+        "screen_name": "li_scully",
+        "location": "Taiwan Pingtung City",
+        "description": "會自己修電腦的悲情女網管 愛講垃圾話的村姑派工程師 優柔寡斷目中無人的非善類 作夢轉職人人喊打的公務員 又想來去公園睡紙箱也不錯",
+        "url": "https://t.co/bpfD3Oed3L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/bpfD3Oed3L",
+                "expanded_url": "https://www.instagram.com/liscully/",
+                "display_url": "instagram.com/liscully/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 936,
+        "friends_count": 977,
+        "listed_count": 22,
+        "created_at": "Thu Apr 30 16:11:36 +0000 2009",
+        "favourites_count": 11398,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7699,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/971048097521397760/v_cu46RB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/971048097521397760/v_cu46RB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36699985/1548421941",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 36,
+      "favorite_count": 152,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 18 02:07:36 +0000 2019",
+    "id": 1140803216155693056,
+    "id_str": "1140803216155693056",
+    "text": "忘了更新，由於並沒有更新、更高的出價，B&amp;N 邦諾書店確定被 Elliott 管理公司（避險基金）收購。\n\nWith No New Bid, Elliott's Offer for B&amp;N Stands… https://t.co/Ug0glNbiau",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ug0glNbiau",
+          "expanded_url": "https://twitter.com/i/web/status/1140803216155693056",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 18 01:06:43 +0000 2019",
+    "id": 1140787894149234688,
+    "id_str": "1140787894149234688",
+    "text": "起床覺得左邊身子痛，像肋骨斷裂那樣、無法深呼吸，不知昨晚擊殺了什麼。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 17 15:31:37 +0000 2019",
+    "id": 1140643163930894336,
+    "id_str": "1140643163930894336",
+    "text": "取消訂閱 Evernote。 #done",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "done",
+          "indices": [
+            15,
+            20
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Jun 17 14:27:28 +0000 2019",
+    "id": 1140627019874488320,
+    "id_str": "1140627019874488320",
+    "text": "一直沒看冰與火之歌最後一集。\n\n現在覺得，不如不看。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 17 13:54:28 +0000 2019",
+    "id": 1140618718667427840,
+    "id_str": "1140618718667427840",
+    "text": "RT @kyoto_zipsky: 自由就跟空氣一樣...你失去的時候，才知道它的重要...\nhttps://t.co/JfQ6ZBx7Ou",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kyoto_zipsky",
+          "name": "㊙京都的蛋☢",
+          "id": 190920291,
+          "id_str": "190920291",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JfQ6ZBx7Ou",
+          "expanded_url": "https://youtu.be/9Tke_Teqw7M",
+          "display_url": "youtu.be/9Tke_Teqw7M",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 17 13:50:11 +0000 2019",
+      "id": 1140617638801838086,
+      "id_str": "1140617638801838086",
+      "text": "自由就跟空氣一樣...你失去的時候，才知道它的重要...\nhttps://t.co/JfQ6ZBx7Ou",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JfQ6ZBx7Ou",
+            "expanded_url": "https://youtu.be/9Tke_Teqw7M",
+            "display_url": "youtu.be/9Tke_Teqw7M",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 190920291,
+        "id_str": "190920291",
+        "name": "㊙京都的蛋☢",
+        "screen_name": "kyoto_zipsky",
+        "location": "Taiwan,Taipei",
+        "description": "貓族/不惑之年/混軟體業很久，搞網際網路、搞知識管理、搞搜尋引擎、搞字型、搞中文碼、搞華語文教育、搞數位出版，也搞AI/日本鄉間迷戀者/異性戀/婚姻平權支持者🌈 ：一種你喜歡誰干別人屁事的概念/男性裸體厭惡者/政治傾向惡魔黨：統治世界、征服宇宙/你跟我靠北，我也跟你靠北；你他媽玻璃心，我也跟你玻璃心，天秤座♎標準配備。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 596,
+        "friends_count": 345,
+        "listed_count": 15,
+        "created_at": "Wed Sep 15 04:41:00 +0000 2010",
+        "favourites_count": 6221,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9892,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/898110081337671680/2JzwOWra_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/898110081337671680/2JzwOWra_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/190920291/1497934827",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jun 17 09:39:51 +0000 2019",
     "id": 1140554641853177856,
     "id_str": "1140554641853177856",
