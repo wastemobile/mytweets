@@ -1,5 +1,502 @@
 Grailbird.data.tweets_2019_06 = [
   {
+    "created_at": "Wed Jun 26 02:51:17 +0000 2019",
+    "id": 1143713311399112704,
+    "id_str": "1143713311399112704",
+    "text": "全年電子書借閱人次 3,756,023，但全年電子書借閱冊數量卻只有 2,874,140，對比上面的紙本書資訊，就知道這統計有地方出錯了。\n\n台灣 2018 圖書館統計指標 https://t.co/X2HRZSTfIK https://t.co/rUr74DQREc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/X2HRZSTfIK",
+          "expanded_url": "http://bit.ly/2RxWhdx",
+          "display_url": "bit.ly/2RxWhdx",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1143713295494336512,
+          "id_str": "1143713295494336512",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/D99JLr7U0AA5-of.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D99JLr7U0AA5-of.jpg",
+          "url": "https://t.co/rUr74DQREc",
+          "display_url": "pic.twitter.com/rUr74DQREc",
+          "expanded_url": "https://twitter.com/wastemobile/status/1143713311399112704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 822,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 466,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1403,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1143713295494336512,
+          "id_str": "1143713295494336512",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/D99JLr7U0AA5-of.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D99JLr7U0AA5-of.jpg",
+          "url": "https://t.co/rUr74DQREc",
+          "display_url": "pic.twitter.com/rUr74DQREc",
+          "expanded_url": "https://twitter.com/wastemobile/status/1143713311399112704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 822,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 466,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1403,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 26 02:34:31 +0000 2019",
+    "id": 1143709091388203008,
+    "id_str": "1143709091388203008",
+    "text": "「芬蘭一年有 550 萬的人借閱將近 6,800 萬書籍。在國際學生能力評估計劃（PISA）的閱讀表現一欄，芬蘭在歐盟成員中排名第一。」\n\n台灣 2018 全年借閱人次 2,240 萬，借閱 8,007 萬冊書（不含電子書）。… https://t.co/gNB6paEusg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gNB6paEusg",
+          "expanded_url": "https://twitter.com/i/web/status/1143709091388203008",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 26 02:23:22 +0000 2019",
+    "id": 1143706286795546624,
+    "id_str": "1143706286795546624",
+    "text": "My Crayon Project，使用膚色檢測技術，產出屬於每一個小孩專屬膚色的蠟筆且印上名字，送給每一位學生。\n\n改變對「皮膚色」的傳統認知，真是個厲害的企劃。\n\n掃盲，要從小開始，這就是為什麼資生堂要送小學生蠟筆… https://t.co/DTqqTbeQMS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DTqqTbeQMS",
+          "expanded_url": "https://twitter.com/i/web/status/1143706286795546624",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 24 14:20:08 +0000 2019",
+    "id": 1143161892581466114,
+    "id_str": "1143161892581466114",
+    "text": "貓真的都很⋯⋯可愛😫 https://t.co/IKjWzqVj1M",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IKjWzqVj1M",
+          "expanded_url": "https://twitter.com/AwwwwCats/status/1142912922378735617",
+          "display_url": "twitter.com/AwwwwCats/stat…",
+          "indices": [
+            11,
+            34
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1142912922378735617,
+    "quoted_status_id_str": "1142912922378735617",
+    "quoted_status": {
+      "created_at": "Sun Jun 23 21:50:49 +0000 2019",
+      "id": 1142912922378735617,
+      "id_str": "1142912922378735617",
+      "text": "Kitty makes some room https://t.co/AljmJb5WA4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1142912870415577089,
+            "id_str": "1142912870415577089",
+            "indices": [
+              22,
+              45
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142912870415577089/pu/img/d0yDeKeIERVPLhDx.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142912870415577089/pu/img/d0yDeKeIERVPLhDx.jpg",
+            "url": "https://t.co/AljmJb5WA4",
+            "display_url": "pic.twitter.com/AljmJb5WA4",
+            "expanded_url": "https://twitter.com/AwwwwCats/status/1142912922378735617/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1142912870415577089,
+            "id_str": "1142912870415577089",
+            "indices": [
+              22,
+              45
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1142912870415577089/pu/img/d0yDeKeIERVPLhDx.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1142912870415577089/pu/img/d0yDeKeIERVPLhDx.jpg",
+            "url": "https://t.co/AljmJb5WA4",
+            "display_url": "pic.twitter.com/AljmJb5WA4",
+            "expanded_url": "https://twitter.com/AwwwwCats/status/1142912922378735617/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 11700,
+              "variants": [
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1142912870415577089/pu/vid/720x720/-VahK7CzurR-D72V.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1142912870415577089/pu/pl/z4MK6lhtQEKvjZch.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1142912870415577089/pu/vid/480x480/zLV1JCStU5-ELbvo.mp4?tag=10"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1142912870415577089/pu/vid/320x320/qCwNzSTpwhHiIv4P.mp4?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://cutecatphotohelper.com\" rel=\"nofollow\">cutecatphotohelper</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2896099018,
+        "id_str": "2896099018",
+        "name": "Awwwww",
+        "screen_name": "AwwwwCats",
+        "location": "",
+        "description": "Adorable photos and videos from all around the world 😻\n\n\nI don't own the photos/videos. DM me if you want something removed.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 261255,
+        "friends_count": 22725,
+        "listed_count": 1322,
+        "created_at": "Fri Nov 28 15:40:42 +0000 2014",
+        "favourites_count": 20018,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20990,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D22930",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/538460485985632256/cQalWnL5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/538460485985632256/cQalWnL5_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2896099018/1417383043",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7821,
+      "favorite_count": 29453,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 23 12:36:17 +0000 2019",
     "id": 1142773369244250114,
     "id_str": "1142773369244250114",
