@@ -1,5 +1,309 @@
 Grailbird.data.tweets_2019_06 = [
   {
+    "created_at": "Fri Jun 28 03:33:37 +0000 2019",
+    "id": 1144448739899129856,
+    "id_str": "1144448739899129856",
+    "text": "RT @khootiatling: 倫敦動物園在 #Pride 驕傲月豎旗「有些企鵝本來就是 Gay 不要太在意」。 https://t.co/JfQ2Q1VvZt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Pride",
+          "indices": [
+            25,
+            31
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "khootiatling",
+          "name": "Khóo",
+          "id": 1601325775,
+          "id_str": "1601325775",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JfQ2Q1VvZt",
+          "expanded_url": "https://twitter.com/zsllondonzoo/status/1143843457032708099",
+          "display_url": "twitter.com/zsllondonzoo/s…",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jun 27 15:40:12 +0000 2019",
+      "id": 1144269203668656128,
+      "id_str": "1144269203668656128",
+      "text": "倫敦動物園在 #Pride 驕傲月豎旗「有些企鵝本來就是 Gay 不要太在意」。 https://t.co/JfQ2Q1VvZt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Pride",
+            "indices": [
+              7,
+              13
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JfQ2Q1VvZt",
+            "expanded_url": "https://twitter.com/zsllondonzoo/status/1143843457032708099",
+            "display_url": "twitter.com/zsllondonzoo/s…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1601325775,
+        "id_str": "1601325775",
+        "name": "Khóo",
+        "screen_name": "khootiatling",
+        "location": "高雄市, 台灣",
+        "description": "",
+        "url": "https://t.co/UymiDimFer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UymiDimFer",
+                "expanded_url": "https://khootiatling.com",
+                "display_url": "khootiatling.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1868,
+        "friends_count": 100,
+        "listed_count": 48,
+        "created_at": "Wed Jul 17 16:14:22 +0000 2013",
+        "favourites_count": 60832,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 85451,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1101153971467505666/sf-pjVfj_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1101153971467505666/sf-pjVfj_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601325775/1551370552",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1143843457032708099,
+      "quoted_status_id_str": "1143843457032708099",
+      "quoted_status": {
+        "created_at": "Wed Jun 26 11:28:26 +0000 2019",
+        "id": 1143843457032708099,
+        "id_str": "1143843457032708099",
+        "text": "Penguin Beach is home to the Zoo's most famous same-sex couple, Ronnie and Reggie, and our #penguins are joining in… https://t.co/bWjBPQ68ui",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "penguins",
+              "indices": [
+                91,
+                100
+              ]
+            }
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/bWjBPQ68ui",
+              "expanded_url": "https://twitter.com/i/web/status/1143843457032708099",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 17835445,
+          "id_str": "17835445",
+          "name": "ZSL London Zoo",
+          "screen_name": "zsllondonzoo",
+          "location": "London, UK",
+          "description": "The official Twitter home of ZSL London Zoo. London's wildest day out! Add us on Instagram @zsllondonzoo",
+          "url": "http://t.co/cm6KVqlP7h",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/cm6KVqlP7h",
+                  "expanded_url": "http://www.zsl.org/zsl-london-zoo/",
+                  "display_url": "zsl.org/zsl-london-zoo/",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 66880,
+          "friends_count": 1635,
+          "listed_count": 1022,
+          "created_at": "Wed Dec 03 12:53:30 +0000 2008",
+          "favourites_count": 4440,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 16303,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "143816",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/608191620874399745/HDO-Oa0F_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/608191620874399745/HDO-Oa0F_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/17835445/1559828379",
+          "profile_link_color": "3BA842",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDFFCC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 135,
+        "favorite_count": 301,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 21,
+      "favorite_count": 65,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1143843457032708099,
+    "quoted_status_id_str": "1143843457032708099",
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jun 28 00:27:01 +0000 2019",
     "id": 1144401783671812097,
     "id_str": "1144401783671812097",
