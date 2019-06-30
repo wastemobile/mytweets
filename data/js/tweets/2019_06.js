@@ -1,5 +1,467 @@
 Grailbird.data.tweets_2019_06 = [
   {
+    "created_at": "Sun Jun 30 02:09:28 +0000 2019",
+    "id": 1145152340023889920,
+    "id_str": "1145152340023889920",
+    "text": "講推廣（古典）閱讀、文創、或跨界整合，日本若排第二，第一名絕對是從缺。\n\n日本文學的香氣？SONY 香氛噴霧帶來太宰治名作《人間失格》故事場景中的氣味 https://t.co/omLfejcf77 https://t.co/V4j8jA4s62",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/omLfejcf77",
+          "expanded_url": "http://bit.ly/2LsT12a",
+          "display_url": "bit.ly/2LsT12a",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1145152322210652160,
+          "id_str": "1145152322210652160",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-Rl-EMUYAATjg-.png",
+          "media_url_https": "https://pbs.twimg.com/media/D-Rl-EMUYAATjg-.png",
+          "url": "https://t.co/V4j8jA4s62",
+          "display_url": "pic.twitter.com/V4j8jA4s62",
+          "expanded_url": "https://twitter.com/wastemobile/status/1145152340023889920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 700,
+              "h": 406,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 394,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 406,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1145152322210652160,
+          "id_str": "1145152322210652160",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-Rl-EMUYAATjg-.png",
+          "media_url_https": "https://pbs.twimg.com/media/D-Rl-EMUYAATjg-.png",
+          "url": "https://t.co/V4j8jA4s62",
+          "display_url": "pic.twitter.com/V4j8jA4s62",
+          "expanded_url": "https://twitter.com/wastemobile/status/1145152340023889920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 700,
+              "h": 406,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 394,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 406,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        },
+        {
+          "id": 1145152323972321280,
+          "id_str": "1145152323972321280",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-Rl-KwVUAAEtq_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-Rl-KwVUAAEtq_.jpg",
+          "url": "https://t.co/V4j8jA4s62",
+          "display_url": "pic.twitter.com/V4j8jA4s62",
+          "expanded_url": "https://twitter.com/wastemobile/status/1145152340023889920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 420,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 420,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 30 01:59:46 +0000 2019",
+    "id": 1145149900415352833,
+    "id_str": "1145149900415352833",
+    "text": "原來音樂產業已經是這樣的懸殊比例。 #note\n\n「在台灣，現場演出也取代唱片銷售，新的秩序與產業鏈儼然成形。根據文化部的調查，2017年現場演出的營收已是唱片銷售的7倍多，數位音樂營收也是唱片銷售的5倍多。」… https://t.co/GVqKvoz44s",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            18,
+            23
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GVqKvoz44s",
+          "expanded_url": "https://twitter.com/i/web/status/1145149900415352833",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 29 10:30:47 +0000 2019",
+    "id": 1144916113291014144,
+    "id_str": "1144916113291014144",
+    "text": "真心覺得切掉有線電視，螢幕改接數位無線、Netflix 與 PS4，是正確的決定。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 29 09:57:45 +0000 2019",
+    "id": 1144907801782702080,
+    "id_str": "1144907801782702080",
+    "text": "宇多田光出道20週年紀念，#netflix 幕張展覽館的最後一場《Laughter in the dark》演唱會，好聽。 https://t.co/ye1Wec1a4E",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "netflix",
+          "indices": [
+            13,
+            21
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1144907788285403136,
+          "id_str": "1144907788285403136",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-OHkUVUYAAekgq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-OHkUVUYAAekgq.jpg",
+          "url": "https://t.co/ye1Wec1a4E",
+          "display_url": "pic.twitter.com/ye1Wec1a4E",
+          "expanded_url": "https://twitter.com/wastemobile/status/1144907801782702080/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1144907788285403136,
+          "id_str": "1144907788285403136",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-OHkUVUYAAekgq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-OHkUVUYAAekgq.jpg",
+          "url": "https://t.co/ye1Wec1a4E",
+          "display_url": "pic.twitter.com/ye1Wec1a4E",
+          "expanded_url": "https://twitter.com/wastemobile/status/1144907801782702080/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 28 23:47:38 +0000 2019",
+    "id": 1144754257825955840,
+    "id_str": "1144754257825955840",
+    "text": "電子書在不同區域的銷售組成，依舊有非常大的差異，明顯仍在初開發階段。\n\n法國佔比來到 8.42%，但 74% 是由專業與教科書出版商貢獻的。\n\nFrance: eBooks Accounted for 8.4% of Publis… https://t.co/rIfWGqUbkA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rIfWGqUbkA",
+          "expanded_url": "https://twitter.com/i/web/status/1144754257825955840",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jun 28 03:33:37 +0000 2019",
     "id": 1144448739899129856,
     "id_str": "1144448739899129856",
