@@ -1,5 +1,670 @@
 Grailbird.data.tweets_2019_06 = [
   {
+    "created_at": "Sun Jun 30 09:10:19 +0000 2019",
+    "id": 1145258249295237121,
+    "id_str": "1145258249295237121",
+    "text": "蠻好聽。 https://t.co/LeFSyq5ak3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LeFSyq5ak3",
+          "expanded_url": "https://music.apple.com/tw/album/%E5%BB%A2%E7%89%A9/1465870318",
+          "display_url": "music.apple.com/tw/album/%E5%B…",
+          "indices": [
+            5,
+            28
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 30 09:04:14 +0000 2019",
+    "id": 1145256720098193416,
+    "id_str": "1145256720098193416",
+    "text": "reMarkable 新的電鍍鋁手寫筆 Marker Signature 看起來好棒。 #但你沒有reMarkable\n\nMarker Signature https://t.co/pG55TkldOQ https://t.co/3WKStnsKX3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "但你沒有reMarkable",
+          "indices": [
+            44,
+            59
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pG55TkldOQ",
+          "expanded_url": "http://bit.ly/2LmKayS",
+          "display_url": "bit.ly/2LmKayS",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1145256710392516610,
+          "id_str": "1145256710392516610",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-TE6QeUEAI8EGD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-TE6QeUEAI8EGD.jpg",
+          "url": "https://t.co/3WKStnsKX3",
+          "display_url": "pic.twitter.com/3WKStnsKX3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1145256720098193416/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 751,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1560,
+              "h": 976,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1145256710392516610,
+          "id_str": "1145256710392516610",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-TE6QeUEAI8EGD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-TE6QeUEAI8EGD.jpg",
+          "url": "https://t.co/3WKStnsKX3",
+          "display_url": "pic.twitter.com/3WKStnsKX3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1145256720098193416/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 751,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1560,
+              "h": 976,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 30 08:04:40 +0000 2019",
+    "id": 1145241729164931072,
+    "id_str": "1145241729164931072",
+    "text": "RT @TWdoesntLoveMe: 「為了宣傳今晚在朝視播出的《你的名字。》，朝日新聞東京本社版日報也同步登出廣告，廣告頁的正面是瀧，背面則是三葉，只要透過光線就能重現兩人在黃昏之時相會的場面」\n\n除了失控的珍珠之外，日本的文創還是強到破表&gt;~&lt;\n\nhttps://t.co…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TWdoesntLoveMe",
+          "name": "不太OK,台北🌈,我",
+          "id": 2548442492,
+          "id_str": "2548442492",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 30 07:56:40 +0000 2019",
+      "id": 1145239715429228544,
+      "id_str": "1145239715429228544",
+      "text": "「為了宣傳今晚在朝視播出的《你的名字。》，朝日新聞東京本社版日報也同步登出廣告，廣告頁的正面是瀧，背面則是三葉，只要透過光線就能重現兩人在黃昏之時相會的場面」\n\n除了失控的珍珠之外，日本的文創還是強到破表&gt;~&lt;… https://t.co/KFuVc5BCxQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KFuVc5BCxQ",
+            "expanded_url": "https://twitter.com/i/web/status/1145239715429228544",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2548442492,
+        "id_str": "2548442492",
+        "name": "不太OK,台北🌈,我",
+        "screen_name": "TWdoesntLoveMe",
+        "location": "",
+        "description": "你問我去向何方，我指著大海的方向",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1795,
+        "friends_count": 268,
+        "listed_count": 17,
+        "created_at": "Thu Jun 05 16:59:39 +0000 2014",
+        "favourites_count": 14559,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4006,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/942469663723683840/BiQv99kA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/942469663723683840/BiQv99kA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2548442492/1558211983",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 119,
+      "favorite_count": 304,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 119,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 30 07:50:48 +0000 2019",
+    "id": 1145238240091238400,
+    "id_str": "1145238240091238400",
+    "text": "RT @mranti: 这就是为什么川普会见外国领导人都带着伊万卡的原因。 https://t.co/6OzCNC8dTM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mranti",
+          "name": "Michael Anti",
+          "id": 5709522,
+          "id_str": "5709522",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1145230331966107648,
+          "id_str": "1145230331966107648",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-Ss61LXsAAE8dn.png",
+          "media_url_https": "https://pbs.twimg.com/media/D-Ss61LXsAAE8dn.png",
+          "url": "https://t.co/6OzCNC8dTM",
+          "display_url": "pic.twitter.com/6OzCNC8dTM",
+          "expanded_url": "https://twitter.com/mranti/status/1145230460869644288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 194,
+              "h": 259,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 194,
+              "h": 259,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 194,
+              "h": 259,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1145230460869644288,
+          "source_status_id_str": "1145230460869644288",
+          "source_user_id": 5709522,
+          "source_user_id_str": "5709522"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1145230331966107648,
+          "id_str": "1145230331966107648",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-Ss61LXsAAE8dn.png",
+          "media_url_https": "https://pbs.twimg.com/media/D-Ss61LXsAAE8dn.png",
+          "url": "https://t.co/6OzCNC8dTM",
+          "display_url": "pic.twitter.com/6OzCNC8dTM",
+          "expanded_url": "https://twitter.com/mranti/status/1145230460869644288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 194,
+              "h": 259,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 194,
+              "h": 259,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 194,
+              "h": 259,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1145230460869644288,
+          "source_status_id_str": "1145230460869644288",
+          "source_user_id": 5709522,
+          "source_user_id_str": "5709522"
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 30 07:19:53 +0000 2019",
+      "id": 1145230460869644288,
+      "id_str": "1145230460869644288",
+      "text": "这就是为什么川普会见外国领导人都带着伊万卡的原因。 https://t.co/6OzCNC8dTM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1145230331966107648,
+            "id_str": "1145230331966107648",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-Ss61LXsAAE8dn.png",
+            "media_url_https": "https://pbs.twimg.com/media/D-Ss61LXsAAE8dn.png",
+            "url": "https://t.co/6OzCNC8dTM",
+            "display_url": "pic.twitter.com/6OzCNC8dTM",
+            "expanded_url": "https://twitter.com/mranti/status/1145230460869644288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 194,
+                "h": 259,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 194,
+                "h": 259,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 194,
+                "h": 259,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1145230331966107648,
+            "id_str": "1145230331966107648",
+            "indices": [
+              26,
+              49
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-Ss61LXsAAE8dn.png",
+            "media_url_https": "https://pbs.twimg.com/media/D-Ss61LXsAAE8dn.png",
+            "url": "https://t.co/6OzCNC8dTM",
+            "display_url": "pic.twitter.com/6OzCNC8dTM",
+            "expanded_url": "https://twitter.com/mranti/status/1145230460869644288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 194,
+                "h": 259,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 194,
+                "h": 259,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 194,
+                "h": 259,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5709522,
+        "id_str": "5709522",
+        "name": "Michael Anti",
+        "screen_name": "mranti",
+        "location": "北京, 中华人民共和国",
+        "description": "安替, founder of Caixin Globus, veteran journalist on Int'l affairs, Harvard Nieman Fellow '08, TED speaker. Freedom through Transparent Globalization.",
+        "url": "https://t.co/r3MKJVN7oB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/r3MKJVN7oB",
+                "expanded_url": "http://caixin.com",
+                "display_url": "caixin.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 234760,
+        "friends_count": 9466,
+        "listed_count": 2727,
+        "created_at": "Wed May 02 10:08:45 +0000 2007",
+        "favourites_count": 130,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 157624,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 44,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 30 02:09:28 +0000 2019",
     "id": 1145152340023889920,
     "id_str": "1145152340023889920",
