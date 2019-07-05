@@ -1,5 +1,544 @@
 Grailbird.data.tweets_2019_07 = [
   {
+    "created_at": "Fri Jul 05 02:44:22 +0000 2019",
+    "id": 1146973060546752514,
+    "id_str": "1146973060546752514",
+    "text": "Highly 在瀏覽器中運作真的很順，唯一缺點就是沒有記事，官方應對就是「分享至其他服務時加上註記」。\nhttps://t.co/UBKnFI5H4b https://t.co/40PqXoi4Um",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UBKnFI5H4b",
+          "expanded_url": "https://highly.co/hl/fpbv4yyeoV7lNO",
+          "display_url": "highly.co/hl/fpbv4yyeoV7…",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1146973058395021312,
+          "id_str": "1146973058395021312",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-rd63CUIAAwOZy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-rd63CUIAAwOZy.jpg",
+          "url": "https://t.co/40PqXoi4Um",
+          "display_url": "pic.twitter.com/40PqXoi4Um",
+          "expanded_url": "https://twitter.com/wastemobile/status/1146973060546752514/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1400,
+              "h": 851,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 729,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 413,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1146973058395021312,
+          "id_str": "1146973058395021312",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-rd63CUIAAwOZy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-rd63CUIAAwOZy.jpg",
+          "url": "https://t.co/40PqXoi4Um",
+          "display_url": "pic.twitter.com/40PqXoi4Um",
+          "expanded_url": "https://twitter.com/wastemobile/status/1146973060546752514/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1400,
+              "h": 851,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 729,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 413,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.highly.co\" rel=\"nofollow\">Highly</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 05 01:54:45 +0000 2019",
+    "id": 1146960574321790976,
+    "id_str": "1146960574321790976",
+    "text": "「如果真的要下標記，應先嘗試找出段落的主要想法，以最小程度添劃標記。同時，在頁面邊緣簡單寫下歸納到的概念，這樣便能強化學習效果。」\n\n就是《大腦喜歡這樣學》的作者。\n\n才能幻覺：不懂以為學懂… https://t.co/jqw4a3rs5B",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jqw4a3rs5B",
+          "expanded_url": "https://twitter.com/i/web/status/1146960574321790976",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 05 01:28:21 +0000 2019",
+    "id": 1146953931790008321,
+    "id_str": "1146953931790008321",
+    "text": "每次看到這機器都蠻好奇的，但就沒賣新鮮芒果生乳捲⋯⋯ https://t.co/t3uXCB7Q0r",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t3uXCB7Q0r",
+          "expanded_url": "https://twitter.com/swpave/status/1146952764192251904",
+          "display_url": "twitter.com/swpave/status/…",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1146952764192251904,
+    "quoted_status_id_str": "1146952764192251904",
+    "quoted_status": {
+      "created_at": "Fri Jul 05 01:23:42 +0000 2019",
+      "id": 1146952764192251904,
+      "id_str": "1146952764192251904",
+      "text": "砸千萬捷運站賣蛋糕值不值？亞尼克蛋糕機YTM滿週年，意外開發新客群｜數位時代 https://t.co/czj0xbuZBp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/czj0xbuZBp",
+            "expanded_url": "https://www.bnext.com.tw/article/53870/yannick-ytm-2019?fbclid=IwAR3rUw8vS0BNlEPlcFwFeblsJQD8bqooc6xVPezil25bOrTbB-bD2gKotes",
+            "display_url": "bnext.com.tw/article/53870/…",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 133622918,
+        "id_str": "133622918",
+        "name": "豬小草",
+        "screen_name": "swpave",
+        "location": "Taipei",
+        "description": "宅爸，跑者，短髮控，知名海溝學者，不知名部落客。出道很早，畢業很晚，研究很雜，著作很少。",
+        "url": "https://t.co/OTZHaQPo1r",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OTZHaQPo1r",
+                "expanded_url": "http://swalk.blogspot.com",
+                "display_url": "swalk.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4026,
+        "friends_count": 1108,
+        "listed_count": 131,
+        "created_at": "Fri Apr 16 07:08:48 +0000 2010",
+        "favourites_count": 2308,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 115234,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719426387879137281/y8csroLB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719426387879137281/y8csroLB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133622918/1519217768",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 04 14:42:52 +0000 2019",
+    "id": 1146791489210425349,
+    "id_str": "1146791489210425349",
+    "text": "最近 #Netflix 上架了好多日本動畫，今天看的是 Keroro 劇場版～～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 04 08:35:07 +0000 2019",
+    "id": 1146698943067123712,
+    "id_str": "1146698943067123712",
+    "text": "想看《少女革命》～\n\n純情的喜悅與眼淚，專訪「低級失誤」：接吻前的那一秒鐘，是最漂亮的瞬間 https://t.co/LKMSuOpOhF https://t.co/G8easi3gSZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LKMSuOpOhF",
+          "expanded_url": "http://bit.ly/2LBy1WO",
+          "display_url": "bit.ly/2LBy1WO",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1146698932887511040,
+          "id_str": "1146698932887511040",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-nkmp8UYAArsuW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-nkmp8UYAArsuW.jpg",
+          "url": "https://t.co/G8easi3gSZ",
+          "display_url": "pic.twitter.com/G8easi3gSZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1146698943067123712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 1508,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 796,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 451,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1146698932887511040,
+          "id_str": "1146698932887511040",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-nkmp8UYAArsuW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-nkmp8UYAArsuW.jpg",
+          "url": "https://t.co/G8easi3gSZ",
+          "display_url": "pic.twitter.com/G8easi3gSZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1146698943067123712/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 1508,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 796,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 451,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jul 04 03:18:25 +0000 2019",
     "id": 1146619242504019968,
     "id_str": "1146619242504019968",
