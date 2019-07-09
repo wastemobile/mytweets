@@ -1,5 +1,448 @@
 Grailbird.data.tweets_2019_07 = [
   {
+    "created_at": "Sun Jul 07 15:59:49 +0000 2019",
+    "id": 1147898018730897408,
+    "id_str": "1147898018730897408",
+    "text": "看完了《誰殺了唐吉軻德》，這影史上最著名的開發地獄、名運多舛了 17 年才拍成⋯⋯ https://t.co/bEH2FdOJpb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bEH2FdOJpb",
+          "expanded_url": "http://bit.ly/2xyE7zd",
+          "display_url": "bit.ly/2xyE7zd",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 841875769194385408,
+    "in_reply_to_status_id_str": "841875769194385408",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 07 05:04:46 +0000 2019",
+    "id": 1147733171712094208,
+    "id_str": "1147733171712094208",
+    "text": "「備受矚目的日本山藥、蜜柑、清酒現行關稅稅率為16%、30%、40%，院會昨三讀通過將稅率調降為12%、15%、20%。」\n\n日清酒等15項農漁產品 大降稅 https://t.co/8enQwwfCfC https://t.co/hPrfl5JvGs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8enQwwfCfC",
+          "expanded_url": "http://bit.ly/2LHIu2Y",
+          "display_url": "bit.ly/2LHIu2Y",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1147733162534957056,
+          "id_str": "1147733162534957056",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-2ROvnU8AAkkEo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-2ROvnU8AAkkEo.jpg",
+          "url": "https://t.co/hPrfl5JvGs",
+          "display_url": "pic.twitter.com/hPrfl5JvGs",
+          "expanded_url": "https://twitter.com/wastemobile/status/1147733171712094208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 534,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 534,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1147733162534957056,
+          "id_str": "1147733162534957056",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/D-2ROvnU8AAkkEo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D-2ROvnU8AAkkEo.jpg",
+          "url": "https://t.co/hPrfl5JvGs",
+          "display_url": "pic.twitter.com/hPrfl5JvGs",
+          "expanded_url": "https://twitter.com/wastemobile/status/1147733171712094208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 534,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 534,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 07 04:53:44 +0000 2019",
+    "id": 1147730394432675840,
+    "id_str": "1147730394432675840",
+    "text": "喔！清酒會便宜一點了嗎？ https://t.co/Eu7JIsyajQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Eu7JIsyajQ",
+          "expanded_url": "https://twitter.com/focustaiwanjapa/status/1147388782578024448",
+          "display_url": "twitter.com/focustaiwanjap…",
+          "indices": [
+            13,
+            36
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1147388782578024448,
+    "quoted_status_id_str": "1147388782578024448",
+    "quoted_status": {
+      "created_at": "Sat Jul 06 06:16:17 +0000 2019",
+      "id": 1147388782578024448,
+      "id_str": "1147388782578024448",
+      "text": "日本酒の関税引き下げ  日本の駐台代表、感謝表明も「禁輸措置の早期撤廃を」https://t.co/2VNQAZiqXV\n\n税則改正案は3日に立法院で可決された。対象品目には日本食品が多く含まれ、清酒を含む穀物酒の関税率が現行の4… https://t.co/beh2mCrcWQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2VNQAZiqXV",
+            "expanded_url": "http://japan.cna.com.tw/news/apol/201907060003.aspx",
+            "display_url": "japan.cna.com.tw/news/apol/2019…",
+            "indices": [
+              37,
+              60
+            ]
+          },
+          {
+            "url": "https://t.co/beh2mCrcWQ",
+            "expanded_url": "https://twitter.com/i/web/status/1147388782578024448",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1107979190,
+        "id_str": "1107979190",
+        "name": "台湾ニュース＠中央社フォーカス台湾",
+        "screen_name": "focustaiwanjapa",
+        "location": "",
+        "description": "台湾の国営通信社。日本語サイト「フォーカス台湾」では日本語で台湾ニュースをデイリーで発信。\n\n＜公式アプリ＞\nGoogle Play（アンドロイド版）\nhttps://t.co/fdHgkIpkxq\n\niTunes（iOS版）\nhttps://t.co/hUgAThpa0u",
+        "url": "http://t.co/a9xF8zSh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/a9xF8zSh",
+                "expanded_url": "http://japan.cna.com.tw/",
+                "display_url": "japan.cna.com.tw",
+                "indices": [
+                  0,
+                  20
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/fdHgkIpkxq",
+                "expanded_url": "https://play.google.com/store/apps/details?id=m.cna.com.tw.cnajapan&hl=ja",
+                "display_url": "play.google.com/store/apps/det…",
+                "indices": [
+                  76,
+                  99
+                ]
+              },
+              {
+                "url": "https://t.co/hUgAThpa0u",
+                "expanded_url": "https://itunes.apple.com/us/app/fokasu-tai-wan/id898707541?mt=8",
+                "display_url": "itunes.apple.com/us/app/fokasu-…",
+                "indices": [
+                  114,
+                  137
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 21251,
+        "friends_count": 1,
+        "listed_count": 777,
+        "created_at": "Mon Jan 21 03:44:49 +0000 2013",
+        "favourites_count": 4,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 19411,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/878182023638130691/ykcIIOZ0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/878182023638130691/ykcIIOZ0_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 44,
+      "favorite_count": 92,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 07 02:15:24 +0000 2019",
+    "id": 1147690548846665728,
+    "id_str": "1147690548846665728",
+    "text": "這也太好聽！\n\n流氓阿德 Ardor Huang【曾經我也想過一了百了 I Once Thought about Ending It All】Official ... https://t.co/jQvpQrfruc 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            111,
+            119
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jQvpQrfruc",
+          "expanded_url": "https://youtu.be/M_CWNFBBAiI",
+          "display_url": "youtu.be/M_CWNFBBAiI",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jul 07 01:27:40 +0000 2019",
     "id": 1147678534065778688,
     "id_str": "1147678534065778688",
