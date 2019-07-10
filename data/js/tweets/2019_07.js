@@ -1,5 +1,202 @@
 Grailbird.data.tweets_2019_07 = [
   {
+    "created_at": "Tue Jul 09 13:09:14 +0000 2019",
+    "id": 1148579868268875776,
+    "id_str": "1148579868268875776",
+    "text": "終於要出創作專輯了～\n\n9m88 / 平庸之上 Beyond Mediocrity https://t.co/F06GFnb3kR https://t.co/UuIqXgMj6L",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/F06GFnb3kR",
+          "expanded_url": "http://bit.ly/2xF9x72",
+          "display_url": "bit.ly/2xF9x72",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1148579858290659333,
+          "id_str": "1148579858290659333",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_CTS7GVUAUH2Gf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_CTS7GVUAUH2Gf.jpg",
+          "url": "https://t.co/UuIqXgMj6L",
+          "display_url": "pic.twitter.com/UuIqXgMj6L",
+          "expanded_url": "https://twitter.com/wastemobile/status/1148579868268875776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1148579858290659333,
+          "id_str": "1148579858290659333",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_CTS7GVUAUH2Gf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_CTS7GVUAUH2Gf.jpg",
+          "url": "https://t.co/UuIqXgMj6L",
+          "display_url": "pic.twitter.com/UuIqXgMj6L",
+          "expanded_url": "https://twitter.com/wastemobile/status/1148579868268875776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Jul 09 13:04:40 +0000 2019",
+    "id": 1148578717746073601,
+    "id_str": "1148578717746073601",
+    "text": "看了新版《地獄男爵》 https://t.co/5QYOWfCZMS\n\n黑馬（Dark Horse Comics）作為美國最大的獨立漫畫出版商，已漫改的包括《罪惡之城》、《300壯士》與 Hellboy，視覺風格強烈（故事也是）獨… https://t.co/HmwRjUN7qN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5QYOWfCZMS",
+          "expanded_url": "http://bit.ly/2xBoneN",
+          "display_url": "bit.ly/2xBoneN",
+          "indices": [
+            11,
+            34
+          ]
+        },
+        {
+          "url": "https://t.co/HmwRjUN7qN",
+          "expanded_url": "https://twitter.com/i/web/status/1148578717746073601",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jul 07 15:59:49 +0000 2019",
     "id": 1147898018730897408,
     "id_str": "1147898018730897408",
