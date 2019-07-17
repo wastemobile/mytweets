@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2019_07 = [
   {
+    "created_at": "Fri Jul 12 13:39:32 +0000 2019",
+    "id": 1149674654165921792,
+    "id_str": "1149674654165921792",
+    "text": "Amazon Prime Day 台灣時間 7月15日下午3點開始，到 7月17日下午 2:59 結束。 https://t.co/nO8fzuyj4k\n\n代購免運就真的划算了。 https://t.co/tFewymPpqo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nO8fzuyj4k",
+          "expanded_url": "http://bit.ly/30u8e75",
+          "display_url": "bit.ly/30u8e75",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1149674646209327104,
+          "id_str": "1149674646209327104",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_R2_96UcAANXeM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_R2_96UcAANXeM.jpg",
+          "url": "https://t.co/tFewymPpqo",
+          "display_url": "pic.twitter.com/tFewymPpqo",
+          "expanded_url": "https://twitter.com/wastemobile/status/1149674654165921792/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 998,
+              "h": 998,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 998,
+              "h": 998,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1149674646209327104,
+          "id_str": "1149674646209327104",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_R2_96UcAANXeM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_R2_96UcAANXeM.jpg",
+          "url": "https://t.co/tFewymPpqo",
+          "display_url": "pic.twitter.com/tFewymPpqo",
+          "expanded_url": "https://twitter.com/wastemobile/status/1149674654165921792/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 998,
+              "h": 998,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 998,
+              "h": 998,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jul 12 03:49:32 +0000 2019",
     "id": 1149526177297526785,
     "id_str": "1149526177297526785",
