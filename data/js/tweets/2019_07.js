@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2019_07 = [
   {
+    "created_at": "Sat Jul 20 03:20:12 +0000 2019",
+    "id": 1152417900008837120,
+    "id_str": "1152417900008837120",
+    "text": "「透過電影或電視節目，你可以得到視覺效果；而閱讀小說，你會自行投入幻想，所以它實際上是更強而有力的事情，因為你參與其中。」\n\n生活嚴峻，只好看書解憂？ https://t.co/9MvXuctRqX https://t.co/k99lL09urZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9MvXuctRqX",
+          "expanded_url": "http://bit.ly/2Lw3335",
+          "display_url": "bit.ly/2Lw3335",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1152417890219352065,
+          "id_str": "1152417890219352065",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_419yNUYAEhh9e.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_419yNUYAEhh9e.jpg",
+          "url": "https://t.co/k99lL09urZ",
+          "display_url": "pic.twitter.com/k99lL09urZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1152417900008837120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1152417890219352065,
+          "id_str": "1152417890219352065",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/D_419yNUYAEhh9e.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D_419yNUYAEhh9e.jpg",
+          "url": "https://t.co/k99lL09urZ",
+          "display_url": "pic.twitter.com/k99lL09urZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1152417900008837120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jul 12 13:39:32 +0000 2019",
     "id": 1149674654165921792,
     "id_str": "1149674654165921792",
