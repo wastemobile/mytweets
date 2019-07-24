@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2019_07 = [
   {
+    "created_at": "Wed Jul 24 07:38:26 +0000 2019",
+    "id": 1153932438168432640,
+    "id_str": "1153932438168432640",
+    "text": "雖然這《火影忍者》雙屏漫畫閱讀器的眾籌有達標，但無法好好呈現日本漫畫跨頁氣勢圖，實在不及格。\n\nNaruto eOneBook Dual-Screen Manga eReader is Fully Funded on Kickst… https://t.co/FZo4rgTmQ9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FZo4rgTmQ9",
+          "expanded_url": "https://twitter.com/i/web/status/1153932438168432640",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jul 20 03:20:12 +0000 2019",
     "id": 1152417900008837120,
     "id_str": "1152417900008837120",
