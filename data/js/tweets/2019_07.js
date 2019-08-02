@@ -1,5 +1,1419 @@
 Grailbird.data.tweets_2019_07 = [
   {
+    "created_at": "Wed Jul 31 02:35:52 +0000 2019",
+    "id": 1156393005906980864,
+    "id_str": "1156393005906980864",
+    "text": "RT @eiei_456: #Netflix 的 #個資風暴：#劍橋分析事件 採訪了長年追蹤 #CambridgeAnalytics 這間公司的記者、前主要工程師系統設立者 @chrisinsilico 、前高階主管（與脫歐跟川普密切相關的 #BrittanyKaiser ）揭…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            14,
+            22
+          ]
+        },
+        {
+          "text": "個資風暴",
+          "indices": [
+            25,
+            30
+          ]
+        },
+        {
+          "text": "劍橋分析事件",
+          "indices": [
+            31,
+            38
+          ]
+        },
+        {
+          "text": "CambridgeAnalytics",
+          "indices": [
+            47,
+            66
+          ]
+        },
+        {
+          "text": "BrittanyKaiser",
+          "indices": [
+            121,
+            136
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "eiei_456",
+          "name": "伊哎伊哎四五六",
+          "id": 2299336976,
+          "id_str": "2299336976",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "chrisinsilico",
+          "name": "Christopher Wylie 🏳️‍🌈",
+          "id": 787149253302812672,
+          "id_str": "787149253302812672",
+          "indices": [
+            87,
+            101
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jul 27 14:12:12 +0000 2019",
+      "id": 1155118694785155072,
+      "id_str": "1155118694785155072",
+      "text": "#Netflix 的 #個資風暴：#劍橋分析事件 採訪了長年追蹤 #CambridgeAnalytics 這間公司的記者、前主要工程師系統設立者 @chrisinsilico 、前高階主管（與脫歐跟川普密切相關的… https://t.co/pI1pA7RAIV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Netflix",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "text": "個資風暴",
+            "indices": [
+              11,
+              16
+            ]
+          },
+          {
+            "text": "劍橋分析事件",
+            "indices": [
+              17,
+              24
+            ]
+          },
+          {
+            "text": "CambridgeAnalytics",
+            "indices": [
+              33,
+              52
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "chrisinsilico",
+            "name": "Christopher Wylie 🏳️‍🌈",
+            "id": 787149253302812672,
+            "id_str": "787149253302812672",
+            "indices": [
+              73,
+              87
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pI1pA7RAIV",
+            "expanded_url": "https://twitter.com/i/web/status/1155118694785155072",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2299336976,
+        "id_str": "2299336976",
+        "name": "伊哎伊哎四五六",
+        "screen_name": "eiei_456",
+        "location": "高雄市, 台灣",
+        "description": "雷龍界的貴族，只吃茼蒿。 #辣台派",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2585,
+        "friends_count": 179,
+        "listed_count": 26,
+        "created_at": "Sun Jan 19 09:08:20 +0000 2014",
+        "favourites_count": 8843,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 49606,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3A8FB7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143200052229263360/jQMNTgOB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143200052229263360/jQMNTgOB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2299336976/1454609668",
+        "profile_link_color": "DB4D6D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 30 21:56:33 +0000 2019",
+    "id": 1156322717588570112,
+    "id_str": "1156322717588570112",
+    "text": "RT @Pinboard: I have just been given $60M in seed funding and 34 BTC in funding to make this a reality. Huge thank you to Softbank, YCombin…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Pinboard",
+          "name": "Pinboard",
+          "id": 55525953,
+          "id_str": "55525953",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jul 30 21:48:09 +0000 2019",
+      "id": 1156320602388496386,
+      "id_str": "1156320602388496386",
+      "text": "I have just been given $60M in seed funding and 34 BTC in funding to make this a reality. Huge thank you to Softban… https://t.co/jePjhMcWtc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jePjhMcWtc",
+            "expanded_url": "https://twitter.com/i/web/status/1156320602388496386",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1156319953672273920,
+      "in_reply_to_status_id_str": "1156319953672273920",
+      "in_reply_to_user_id": 55525953,
+      "in_reply_to_user_id_str": "55525953",
+      "in_reply_to_screen_name": "Pinboard",
+      "user": {
+        "id": 55525953,
+        "id_str": "55525953",
+        "name": "Pinboard",
+        "screen_name": "Pinboard",
+        "location": "",
+        "description": "CSPAN in the tweets, CPAN in the sheets",
+        "url": "http://t.co/qOHjNexLMt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/qOHjNexLMt",
+                "expanded_url": "http://pinboard.in",
+                "display_url": "pinboard.in",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 47340,
+        "friends_count": 137,
+        "listed_count": 2221,
+        "created_at": "Fri Jul 10 10:24:12 +0000 2009",
+        "favourites_count": 928,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 65238,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152243710979035137/tb4af0s3_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152243710979035137/tb4af0s3_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55525953/1563551037",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 58,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jul 30 03:47:01 +0000 2019",
+    "id": 1156048527333531651,
+    "id_str": "1156048527333531651",
+    "text": "RT @pilltimes: 据豆瓣作者邓安庆从人民出版社得到的消息，英国作家奥威尔的代表作「1984」、「动物庄园」等反极权主义经典名著全部被中共宣传部门勒令禁止出版！本来是个小说家，没想到成了预言家…… https://t.co/bMl1ZoCc2z",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "pilltimes",
+          "name": "药丸时报",
+          "id": 897772665041190913,
+          "id_str": "897772665041190913",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1155707003957731328,
+          "id_str": "1155707003957731328",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EAnlZZtU4AAIEZk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EAnlZZtU4AAIEZk.jpg",
+          "url": "https://t.co/bMl1ZoCc2z",
+          "display_url": "pic.twitter.com/bMl1ZoCc2z",
+          "expanded_url": "https://twitter.com/pilltimes/status/1155707013059338240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1242,
+              "h": 1700,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 877,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 497,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1155707013059338240,
+          "source_status_id_str": "1155707013059338240",
+          "source_user_id": 897772665041190913,
+          "source_user_id_str": "897772665041190913"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1155707003957731328,
+          "id_str": "1155707003957731328",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EAnlZZtU4AAIEZk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EAnlZZtU4AAIEZk.jpg",
+          "url": "https://t.co/bMl1ZoCc2z",
+          "display_url": "pic.twitter.com/bMl1ZoCc2z",
+          "expanded_url": "https://twitter.com/pilltimes/status/1155707013059338240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1242,
+              "h": 1700,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 877,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 497,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1155707013059338240,
+          "source_status_id_str": "1155707013059338240",
+          "source_user_id": 897772665041190913,
+          "source_user_id_str": "897772665041190913"
+        },
+        {
+          "id": 1155707003961921538,
+          "id_str": "1155707003961921538",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EAnlZZuU0AIrFK6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EAnlZZuU0AIrFK6.jpg",
+          "url": "https://t.co/bMl1ZoCc2z",
+          "display_url": "pic.twitter.com/bMl1ZoCc2z",
+          "expanded_url": "https://twitter.com/pilltimes/status/1155707013059338240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 454,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1242,
+              "h": 1859,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 802,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1155707013059338240,
+          "source_status_id_str": "1155707013059338240",
+          "source_user_id": 897772665041190913,
+          "source_user_id_str": "897772665041190913"
+        },
+        {
+          "id": 1155707003957739520,
+          "id_str": "1155707003957739520",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EAnlZZtVAAAWf9-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EAnlZZtVAAAWf9-.jpg",
+          "url": "https://t.co/bMl1ZoCc2z",
+          "display_url": "pic.twitter.com/bMl1ZoCc2z",
+          "expanded_url": "https://twitter.com/pilltimes/status/1155707013059338240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 518,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 884,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 294,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1155707013059338240,
+          "source_status_id_str": "1155707013059338240",
+          "source_user_id": 897772665041190913,
+          "source_user_id_str": "897772665041190913"
+        },
+        {
+          "id": 1155707003961876481,
+          "id_str": "1155707003961876481",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EAnlZZuUIAErr8b.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EAnlZZuUIAErr8b.jpg",
+          "url": "https://t.co/bMl1ZoCc2z",
+          "display_url": "pic.twitter.com/bMl1ZoCc2z",
+          "expanded_url": "https://twitter.com/pilltimes/status/1155707013059338240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 460,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 947,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 947,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1155707013059338240,
+          "source_status_id_str": "1155707013059338240",
+          "source_user_id": 897772665041190913,
+          "source_user_id_str": "897772665041190913"
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jul 29 05:09:58 +0000 2019",
+      "id": 1155707013059338240,
+      "id_str": "1155707013059338240",
+      "text": "据豆瓣作者邓安庆从人民出版社得到的消息，英国作家奥威尔的代表作「1984」、「动物庄园」等反极权主义经典名著全部被中共宣传部门勒令禁止出版！本来是个小说家，没想到成了预言家…… https://t.co/bMl1ZoCc2z",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1155707003957731328,
+            "id_str": "1155707003957731328",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/EAnlZZtU4AAIEZk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAnlZZtU4AAIEZk.jpg",
+            "url": "https://t.co/bMl1ZoCc2z",
+            "display_url": "pic.twitter.com/bMl1ZoCc2z",
+            "expanded_url": "https://twitter.com/pilltimes/status/1155707013059338240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1242,
+                "h": 1700,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 877,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 497,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1155707003957731328,
+            "id_str": "1155707003957731328",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/EAnlZZtU4AAIEZk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAnlZZtU4AAIEZk.jpg",
+            "url": "https://t.co/bMl1ZoCc2z",
+            "display_url": "pic.twitter.com/bMl1ZoCc2z",
+            "expanded_url": "https://twitter.com/pilltimes/status/1155707013059338240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1242,
+                "h": 1700,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 877,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 497,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1155707003961921538,
+            "id_str": "1155707003961921538",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/EAnlZZuU0AIrFK6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAnlZZuU0AIrFK6.jpg",
+            "url": "https://t.co/bMl1ZoCc2z",
+            "display_url": "pic.twitter.com/bMl1ZoCc2z",
+            "expanded_url": "https://twitter.com/pilltimes/status/1155707013059338240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 454,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1242,
+                "h": 1859,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 802,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1155707003957739520,
+            "id_str": "1155707003957739520",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/EAnlZZtVAAAWf9-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAnlZZtVAAAWf9-.jpg",
+            "url": "https://t.co/bMl1ZoCc2z",
+            "display_url": "pic.twitter.com/bMl1ZoCc2z",
+            "expanded_url": "https://twitter.com/pilltimes/status/1155707013059338240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 518,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 884,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 294,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1155707003961876481,
+            "id_str": "1155707003961876481",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/EAnlZZuUIAErr8b.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EAnlZZuUIAErr8b.jpg",
+            "url": "https://t.co/bMl1ZoCc2z",
+            "display_url": "pic.twitter.com/bMl1ZoCc2z",
+            "expanded_url": "https://twitter.com/pilltimes/status/1155707013059338240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 460,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 947,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 947,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 897772665041190913,
+        "id_str": "897772665041190913",
+        "name": "药丸时报",
+        "screen_name": "pilltimes",
+        "location": "United States",
+        "description": "记录药丸新闻",
+        "url": "https://t.co/VQMiSnlihD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/VQMiSnlihD",
+                "expanded_url": "http://t.me/pillgroup",
+                "display_url": "t.me/pillgroup",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13372,
+        "friends_count": 10,
+        "listed_count": 76,
+        "created_at": "Wed Aug 16 10:50:57 +0000 2017",
+        "favourites_count": 26,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 429,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1027218549415268354/GTijPj-Y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1027218549415268354/GTijPj-Y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/897772665041190913/1533717518",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 348,
+      "favorite_count": 601,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 348,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 30 01:28:12 +0000 2019",
+    "id": 1156013591855652865,
+    "id_str": "1156013591855652865",
+    "text": "RT @AceTaiwan: 大媽:「#自由人權是人類的基本需求」\n\n這證明了一樣米養百樣人\n\n#智慧の長者 https://t.co/NVkZQr4dQD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "自由人權是人類的基本需求",
+          "indices": [
+            19,
+            32
+          ]
+        },
+        {
+          "text": "智慧の長者",
+          "indices": [
+            48,
+            54
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AceTaiwan",
+          "name": "陳艾斯",
+          "id": 1029381799208579074,
+          "id_str": "1029381799208579074",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1155838689970278400,
+          "id_str": "1155838689970278400",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1155838689970278400/pu/img/oFFWRYJc2Kecqpqg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1155838689970278400/pu/img/oFFWRYJc2Kecqpqg.jpg",
+          "url": "https://t.co/NVkZQr4dQD",
+          "display_url": "pic.twitter.com/NVkZQr4dQD",
+          "expanded_url": "https://twitter.com/AceTaiwan/status/1155838861202714626/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1155838861202714626,
+          "source_status_id_str": "1155838861202714626",
+          "source_user_id": 1029381799208579074,
+          "source_user_id_str": "1029381799208579074"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1155838689970278400,
+          "id_str": "1155838689970278400",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1155838689970278400/pu/img/oFFWRYJc2Kecqpqg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1155838689970278400/pu/img/oFFWRYJc2Kecqpqg.jpg",
+          "url": "https://t.co/NVkZQr4dQD",
+          "display_url": "pic.twitter.com/NVkZQr4dQD",
+          "expanded_url": "https://twitter.com/AceTaiwan/status/1155838861202714626/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1155838861202714626,
+          "source_status_id_str": "1155838861202714626",
+          "source_user_id": 1029381799208579074,
+          "source_user_id_str": "1029381799208579074",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 69823,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1155838689970278400/pu/vid/480x270/sOJsr1RN0xl-sIWj.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1155838689970278400/pu/vid/640x360/a5HJi0-ngDn0SVpm.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1155838689970278400/pu/vid/960x540/O6ylV5vVCz1pZ-EK.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1155838689970278400/pu/pl/OJ5arhHluIW7nu1e.m3u8?tag=10"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 1029381799208579074,
+              "id_str": "1029381799208579074",
+              "name": "陳艾斯",
+              "screen_name": "AceTaiwan",
+              "location": "Taiwan",
+              "description": "撐下去，站起來，台灣",
+              "url": "https://t.co/0ti0W8PtHr",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/0ti0W8PtHr",
+                      "expanded_url": "https://www.facebook.com/taiwanacechen",
+                      "display_url": "facebook.com/taiwanacechen",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 2806,
+              "friends_count": 786,
+              "listed_count": 28,
+              "created_at": "Tue Aug 14 14:58:40 +0000 2018",
+              "favourites_count": 13876,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": true,
+              "verified": false,
+              "statuses_count": 7762,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1029474448099799040/sMYh-l2d_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029474448099799040/sMYh-l2d_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029381799208579074/1561601029",
+              "profile_link_color": "CC6600",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "has_extended_profile": true,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jul 29 13:53:53 +0000 2019",
+      "id": 1155838861202714626,
+      "id_str": "1155838861202714626",
+      "text": "大媽:「#自由人權是人類的基本需求」\n\n這證明了一樣米養百樣人\n\n#智慧の長者 https://t.co/NVkZQr4dQD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "自由人權是人類的基本需求",
+            "indices": [
+              4,
+              17
+            ]
+          },
+          {
+            "text": "智慧の長者",
+            "indices": [
+              33,
+              39
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1155838689970278400,
+            "id_str": "1155838689970278400",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1155838689970278400/pu/img/oFFWRYJc2Kecqpqg.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1155838689970278400/pu/img/oFFWRYJc2Kecqpqg.jpg",
+            "url": "https://t.co/NVkZQr4dQD",
+            "display_url": "pic.twitter.com/NVkZQr4dQD",
+            "expanded_url": "https://twitter.com/AceTaiwan/status/1155838861202714626/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1155838689970278400,
+            "id_str": "1155838689970278400",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1155838689970278400/pu/img/oFFWRYJc2Kecqpqg.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1155838689970278400/pu/img/oFFWRYJc2Kecqpqg.jpg",
+            "url": "https://t.co/NVkZQr4dQD",
+            "display_url": "pic.twitter.com/NVkZQr4dQD",
+            "expanded_url": "https://twitter.com/AceTaiwan/status/1155838861202714626/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 69823,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1155838689970278400/pu/vid/480x270/sOJsr1RN0xl-sIWj.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1155838689970278400/pu/vid/640x360/a5HJi0-ngDn0SVpm.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1155838689970278400/pu/vid/960x540/O6ylV5vVCz1pZ-EK.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1155838689970278400/pu/pl/OJ5arhHluIW7nu1e.m3u8?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1029381799208579074,
+        "id_str": "1029381799208579074",
+        "name": "陳艾斯",
+        "screen_name": "AceTaiwan",
+        "location": "Taiwan",
+        "description": "撐下去，站起來，台灣",
+        "url": "https://t.co/0ti0W8PtHr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/0ti0W8PtHr",
+                "expanded_url": "https://www.facebook.com/taiwanacechen",
+                "display_url": "facebook.com/taiwanacechen",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2806,
+        "friends_count": 786,
+        "listed_count": 28,
+        "created_at": "Tue Aug 14 14:58:40 +0000 2018",
+        "favourites_count": 13876,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7762,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1029474448099799040/sMYh-l2d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029474448099799040/sMYh-l2d_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029381799208579074/1561601029",
+        "profile_link_color": "CC6600",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 770,
+      "favorite_count": 1935,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 770,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jul 29 13:39:45 +0000 2019",
     "id": 1155835303526989824,
     "id_str": "1155835303526989824",
