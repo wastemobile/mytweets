@@ -1,5 +1,425 @@
 Grailbird.data.tweets_2019_08 = [
   {
+    "created_at": "Tue Aug 06 10:08:35 +0000 2019",
+    "id": 1158681267069521920,
+    "id_str": "1158681267069521920",
+    "text": "RT @yitianshijieipn: 如果妳是一个重度读者，但只买电子书，妳的孩子（假如有此打算）会在没有书的环境长大。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yitianshijieipn",
+          "name": "一天世界",
+          "id": 715701961912225794,
+          "id_str": "715701961912225794",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Aug 06 09:56:13 +0000 2019",
+      "id": 1158678152069074944,
+      "id_str": "1158678152069074944",
+      "text": "如果妳是一个重度读者，但只买电子书，妳的孩子（假如有此打算）会在没有书的环境长大。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 715701961912225794,
+        "id_str": "715701961912225794",
+        "name": "一天世界",
+        "screen_name": "yitianshijieipn",
+        "location": "",
+        "description": "一天世界，昆乱不挡。不鳥萬如一主理。IPN 出品。",
+        "url": "https://t.co/93dn3mxqMk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/93dn3mxqMk",
+                "expanded_url": "http://member.yitianshijie.net",
+                "display_url": "member.yitianshijie.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7267,
+        "friends_count": 13,
+        "listed_count": 117,
+        "created_at": "Fri Apr 01 00:46:59 +0000 2016",
+        "favourites_count": 6,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3466,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/715710191736455169/C0NDy0EL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/715710191736455169/C0NDy0EL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 06 01:01:52 +0000 2019",
+    "id": 1158543680875061248,
+    "id_str": "1158543680875061248",
+    "text": "「不如把電影預算拿去製作《勇者義彥》」⋯⋯XD\n\n《勇者鬥惡龍》電影上映評價爆炸，網友：滿分5的話我給負100 https://t.co/CY6iVKcMhw https://t.co/AjbhwA3Ajn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CY6iVKcMhw",
+          "expanded_url": "http://bit.ly/31eJ7FM",
+          "display_url": "bit.ly/31eJ7FM",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1158543671429492736,
+          "id_str": "1158543671429492736",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBP5VLhU8AAyNrl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBP5VLhU8AAyNrl.jpg",
+          "url": "https://t.co/AjbhwA3Ajn",
+          "display_url": "pic.twitter.com/AjbhwA3Ajn",
+          "expanded_url": "https://twitter.com/wastemobile/status/1158543680875061248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 831,
+              "h": 763,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 831,
+              "h": 763,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 624,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1158543671429492736,
+          "id_str": "1158543671429492736",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBP5VLhU8AAyNrl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBP5VLhU8AAyNrl.jpg",
+          "url": "https://t.co/AjbhwA3Ajn",
+          "display_url": "pic.twitter.com/AjbhwA3Ajn",
+          "expanded_url": "https://twitter.com/wastemobile/status/1158543680875061248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 831,
+              "h": 763,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 831,
+              "h": 763,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 624,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 05 01:01:29 +0000 2019",
+    "id": 1158181193344413698,
+    "id_str": "1158181193344413698",
+    "text": "此風不可長。\n\n我們進入了「性蕭條」！為什麼各國、各年齡層的性行為都減少了？ https://t.co/51jE0s9npu https://t.co/b8kTEehIFD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/51jE0s9npu",
+          "expanded_url": "http://bit.ly/2Kifvlj",
+          "display_url": "bit.ly/2Kifvlj",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1158181184863531014,
+          "id_str": "1158181184863531014",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBKvpr1U8AYKsy5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBKvpr1U8AYKsy5.jpg",
+          "url": "https://t.co/b8kTEehIFD",
+          "display_url": "pic.twitter.com/b8kTEehIFD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1158181193344413698/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 584,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 584,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 368,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1158181184863531014,
+          "id_str": "1158181184863531014",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBKvpr1U8AYKsy5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBKvpr1U8AYKsy5.jpg",
+          "url": "https://t.co/b8kTEehIFD",
+          "display_url": "pic.twitter.com/b8kTEehIFD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1158181193344413698/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 584,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 584,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 368,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Aug 03 08:29:25 +0000 2019",
     "id": 1157569145350713344,
     "id_str": "1157569145350713344",
