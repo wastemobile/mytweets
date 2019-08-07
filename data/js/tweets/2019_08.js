@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2019_08 = [
   {
+    "created_at": "Wed Aug 07 02:48:20 +0000 2019",
+    "id": 1158932861828751361,
+    "id_str": "1158932861828751361",
+    "text": "閱讀時間｜對中國的錯誤崇拜，從何而來？戴興盛讀《國家為什麼會失敗》 from BIOS monthly https://t.co/26K0rRNKpX https://t.co/wNCOgtb97v",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/26K0rRNKpX",
+          "expanded_url": "http://bit.ly/2KiuHPi",
+          "display_url": "bit.ly/2KiuHPi",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1158932849086492672,
+          "id_str": "1158932849086492672",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBVbSTRU8AA1zNO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBVbSTRU8AA1zNO.jpg",
+          "url": "https://t.co/wNCOgtb97v",
+          "display_url": "pic.twitter.com/wNCOgtb97v",
+          "expanded_url": "https://twitter.com/wastemobile/status/1158932861828751361/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1600,
+              "h": 1066,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1158932849086492672,
+          "id_str": "1158932849086492672",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/EBVbSTRU8AA1zNO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EBVbSTRU8AA1zNO.jpg",
+          "url": "https://t.co/wNCOgtb97v",
+          "display_url": "pic.twitter.com/wNCOgtb97v",
+          "expanded_url": "https://twitter.com/wastemobile/status/1158932861828751361/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1600,
+              "h": 1066,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Aug 06 10:08:35 +0000 2019",
     "id": 1158681267069521920,
     "id_str": "1158681267069521920",
