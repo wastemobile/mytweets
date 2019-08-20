@@ -1,5 +1,371 @@
 Grailbird.data.tweets_2019_08 = [
   {
+    "created_at": "Mon Aug 19 13:58:50 +0000 2019",
+    "id": 1163450253615329280,
+    "id_str": "1163450253615329280",
+    "text": "《黑袍糾察隊》實在太好看了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 18 09:49:56 +0000 2019",
+    "id": 1163025226927505408,
+    "id_str": "1163025226927505408",
+    "text": "RT @Taiwanduli2: 「香港警察從2019/8/16開始，不需要任何搜查令，就可以任意闖入任何私人住所，如果民眾不合作，可以罰款5000或是進監獄2年。」\n\n不行啦，這個太China了！\n\n#台灣人，守住台灣啊！ https://t.co/DF7ljDvpht",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "台灣人",
+          "indices": [
+            101,
+            105
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Taiwanduli2",
+          "name": "Tâi-uân kiàn-kok -  Formosa lú-bú-sîn",
+          "id": 971347390790696961,
+          "id_str": "971347390790696961",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1162941820948533248,
+          "id_str": "1162941820948533248",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/ECOZbLQVUAAZzav.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ECOZbLQVUAAZzav.jpg",
+          "url": "https://t.co/DF7ljDvpht",
+          "display_url": "pic.twitter.com/DF7ljDvpht",
+          "expanded_url": "https://twitter.com/Taiwanduli2/status/1162941828565364736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 674,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 674,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 477,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1162941828565364736,
+          "source_status_id_str": "1162941828565364736",
+          "source_user_id": 971347390790696961,
+          "source_user_id_str": "971347390790696961"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1162941820948533248,
+          "id_str": "1162941820948533248",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/ECOZbLQVUAAZzav.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ECOZbLQVUAAZzav.jpg",
+          "url": "https://t.co/DF7ljDvpht",
+          "display_url": "pic.twitter.com/DF7ljDvpht",
+          "expanded_url": "https://twitter.com/Taiwanduli2/status/1162941828565364736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 674,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 674,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 477,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1162941828565364736,
+          "source_status_id_str": "1162941828565364736",
+          "source_user_id": 971347390790696961,
+          "source_user_id_str": "971347390790696961"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Aug 18 04:18:33 +0000 2019",
+      "id": 1162941828565364736,
+      "id_str": "1162941828565364736",
+      "text": "「香港警察從2019/8/16開始，不需要任何搜查令，就可以任意闖入任何私人住所，如果民眾不合作，可以罰款5000或是進監獄2年。」\n\n不行啦，這個太China了！\n\n#台灣人，守住台灣啊！ https://t.co/DF7ljDvpht",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "台灣人",
+            "indices": [
+              84,
+              88
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1162941820948533248,
+            "id_str": "1162941820948533248",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECOZbLQVUAAZzav.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECOZbLQVUAAZzav.jpg",
+            "url": "https://t.co/DF7ljDvpht",
+            "display_url": "pic.twitter.com/DF7ljDvpht",
+            "expanded_url": "https://twitter.com/Taiwanduli2/status/1162941828565364736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 674,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 674,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 477,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1162941820948533248,
+            "id_str": "1162941820948533248",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECOZbLQVUAAZzav.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECOZbLQVUAAZzav.jpg",
+            "url": "https://t.co/DF7ljDvpht",
+            "display_url": "pic.twitter.com/DF7ljDvpht",
+            "expanded_url": "https://twitter.com/Taiwanduli2/status/1162941828565364736/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 674,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 674,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 477,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 971347390790696961,
+        "id_str": "971347390790696961",
+        "name": "Tâi-uân kiàn-kok -  Formosa lú-bú-sîn",
+        "screen_name": "Taiwanduli2",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 131,
+        "friends_count": 142,
+        "listed_count": 0,
+        "created_at": "Wed Mar 07 11:30:39 +0000 2018",
+        "favourites_count": 1084,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1062,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/974229004508000257/ejtxcoQJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/974229004508000257/ejtxcoQJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/971347390790696961/1520422881",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 349,
+      "favorite_count": 543,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 349,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Aug 18 07:20:28 +0000 2019",
     "id": 1162987610567876610,
     "id_str": "1162987610567876610",
