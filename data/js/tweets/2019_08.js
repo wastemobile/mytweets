@@ -1,5 +1,614 @@
 Grailbird.data.tweets_2019_08 = [
   {
+    "created_at": "Sun Aug 25 15:05:33 +0000 2019",
+    "id": 1165641367055323138,
+    "id_str": "1165641367055323138",
+    "text": "播了 #Netflix 上某天團的演唱會，所以他們的演唱會全程都是對嘴嗎？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 25 11:52:58 +0000 2019",
+    "id": 1165592904988942337,
+    "id_str": "1165592904988942337",
+    "text": "RT @LittlePeopleVo1: // 【每日一字】CHINAZI\n粵音：黐乸線\n新興 Hashtag，多見於 Twitter，乃將China 及 Nazi 拼合而成，解曰納粹中國，等同二戰時的納粹德國，形容中國對新疆、西藏及香港等地實行的暴力管治。\n\n#Nazi #C…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Nazi",
+          "indices": [
+            131,
+            136
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "LittlePeopleVo1",
+          "name": "LittlePeopleVoiceHK",
+          "id": 1159470389371650048,
+          "id_str": "1159470389371650048",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Aug 25 09:36:24 +0000 2019",
+      "id": 1165558534940946432,
+      "id_str": "1165558534940946432",
+      "text": "// 【每日一字】CHINAZI\n粵音：黐乸線\n新興 Hashtag，多見於 Twitter，乃將China 及 Nazi 拼合而成，解曰納粹中國，等同二戰時的納粹德國，形容中國對新疆、西藏及香港等地實行的暴力管治。\n\n#Nazi… https://t.co/2s1OTIUXxe",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Nazi",
+            "indices": [
+              110,
+              115
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2s1OTIUXxe",
+            "expanded_url": "https://twitter.com/i/web/status/1165558534940946432",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1159470389371650048,
+        "id_str": "1159470389371650048",
+        "name": "LittlePeopleVoiceHK",
+        "screen_name": "LittlePeopleVo1",
+        "location": "",
+        "description": "Tell the truth, preserve the truth, and share the truth for our next generation and future. Fight for freedom! | 講出真相、保存真相、分享真相，為了我們的下一代、為了我們的將來，為自由而戰！",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 207,
+        "friends_count": 564,
+        "listed_count": 3,
+        "created_at": "Thu Aug 08 14:24:17 +0000 2019",
+        "favourites_count": 3,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 376,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1159474052848734208/Q4UoGd-v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159474052848734208/Q4UoGd-v_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1159470389371650048/1565275153",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 236,
+      "favorite_count": 359,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 236,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 25 10:32:40 +0000 2019",
+    "id": 1165572697159417858,
+    "id_str": "1165572697159417858",
+    "text": "RT @_orangeorange: 知名YouTuber Dan Mace勵志型節目The Not Normal Show，每周蒐集來自世界各地的「種籽信封」，並飛往當地與提案人共同完成夢想\n這次與台灣提案人一同騎車攻武嶺。影片開頭簡述台灣歷史與政治困境，拍攝前被中國網友留言…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "_orangeorange",
+          "name": "小橘說",
+          "id": 1312826258,
+          "id_str": "1312826258",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Aug 25 01:21:55 +0000 2019",
+      "id": 1165434093317820417,
+      "id_str": "1165434093317820417",
+      "text": "知名YouTuber Dan Mace勵志型節目The Not Normal Show，每周蒐集來自世界各地的「種籽信封」，並飛往當地與提案人共同完成夢想\n這次與台灣提案人一同騎車攻武嶺。影片開頭簡述台灣歷史與政治困境，拍攝前被中… https://t.co/dFfLU96Z7W",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dFfLU96Z7W",
+            "expanded_url": "https://twitter.com/i/web/status/1165434093317820417",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1312826258,
+        "id_str": "1312826258",
+        "name": "小橘說",
+        "screen_name": "_orangeorange",
+        "location": "Taiwan",
+        "description": "紅色藍色。不是愛橘色/只是三音節。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 431,
+        "friends_count": 463,
+        "listed_count": 6,
+        "created_at": "Fri Mar 29 06:32:17 +0000 2013",
+        "favourites_count": 178,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4673,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3446014745/c3dfa6d742eff5a19bc50d08e541c3db_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3446014745/c3dfa6d742eff5a19bc50d08e541c3db_normal.jpeg",
+        "profile_link_color": "B8C5C6",
+        "profile_sidebar_border_color": "4A66C1",
+        "profile_sidebar_fill_color": "0E0E0E",
+        "profile_text_color": "4A66C1",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 51,
+      "favorite_count": 150,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 51,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 25 06:41:54 +0000 2019",
+    "id": 1165514622260002816,
+    "id_str": "1165514622260002816",
+    "text": "這種新聞實在驚悚，因為你不知道自然哪一天用相同的方式反撲人類⋯⋯ https://t.co/oQr2Ar3oiF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oQr2Ar3oiF",
+          "expanded_url": "https://twitter.com/technews_tw/status/1165512912858804224",
+          "display_url": "twitter.com/technews_tw/st…",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1165512912858804224,
+    "quoted_status_id_str": "1165512912858804224",
+    "quoted_status": {
+      "created_at": "Sun Aug 25 06:35:07 +0000 2019",
+      "id": 1165512912858804224,
+      "id_str": "1165512912858804224",
+      "text": "致命真菌挾持螞蟻下顎，讓牠們變成「喪屍」後自殺 https://t.co/EIAmzACE3A https://t.co/eI8boff819",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EIAmzACE3A",
+            "expanded_url": "http://dlvr.it/RBrDC4",
+            "display_url": "dlvr.it/RBrDC4",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1165512911080415233,
+            "id_str": "1165512911080415233",
+            "indices": [
+              48,
+              71
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECy70UYUYAEbB_e.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECy70UYUYAEbB_e.jpg",
+            "url": "https://t.co/eI8boff819",
+            "display_url": "pic.twitter.com/eI8boff819",
+            "expanded_url": "https://twitter.com/technews_tw/status/1165512912858804224/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 356,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 628,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1335,
+                "h": 699,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1165512911080415233,
+            "id_str": "1165512911080415233",
+            "indices": [
+              48,
+              71
+            ],
+            "media_url": "http://pbs.twimg.com/media/ECy70UYUYAEbB_e.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ECy70UYUYAEbB_e.jpg",
+            "url": "https://t.co/eI8boff819",
+            "display_url": "pic.twitter.com/eI8boff819",
+            "expanded_url": "https://twitter.com/technews_tw/status/1165512912858804224/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 356,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 628,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1335,
+                "h": 699,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2799026833,
+        "id_str": "2799026833",
+        "name": "Technews 科技新報",
+        "screen_name": "technews_tw",
+        "location": "台灣, 台北市",
+        "description": "科技新報 （TechNews）於 2013 年下半年成立，是一群對資訊科技、能源、半導體、行動運算、網際網路、醫療、生物科技具有高度熱忱與興趣的產業與新媒體人士所共同組成的時代新媒體，以產出有觀點與特色的原創文章為主要任務。",
+        "url": "http://t.co/386e9RC7Ca",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/386e9RC7Ca",
+                "expanded_url": "http://technews.tw",
+                "display_url": "technews.tw",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1194,
+        "friends_count": 30,
+        "listed_count": 41,
+        "created_at": "Tue Sep 09 01:49:20 +0000 2014",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 56699,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2799026833/1410228878",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Aug 25 01:04:08 +0000 2019",
     "id": 1165429619870162944,
     "id_str": "1165429619870162944",
