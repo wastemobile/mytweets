@@ -1,5 +1,248 @@
 Grailbird.data.tweets_2019_08 = [
   {
+    "created_at": "Thu Aug 29 13:45:07 +0000 2019",
+    "id": 1167070678769487872,
+    "id_str": "1167070678769487872",
+    "text": "這還是第一次看到有人背包裡常帶著 ReMarkable 筆記本。\n\nWhat’s in my bag? — AJ Jacobs from Cool Tools https://t.co/NNF1BwKgpw https://t.co/JwnKSpNhZq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NNF1BwKgpw",
+          "expanded_url": "http://bit.ly/2ZwzdCl",
+          "display_url": "bit.ly/2ZwzdCl",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1167070670754209793,
+          "id_str": "1167070670754209793",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDJEl3YU4AEyQgI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDJEl3YU4AEyQgI.jpg",
+          "url": "https://t.co/JwnKSpNhZq",
+          "display_url": "pic.twitter.com/JwnKSpNhZq",
+          "expanded_url": "https://twitter.com/wastemobile/status/1167070678769487872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 375,
+              "h": 500,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 375,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 375,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1167070670754209793,
+          "id_str": "1167070670754209793",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EDJEl3YU4AEyQgI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EDJEl3YU4AEyQgI.jpg",
+          "url": "https://t.co/JwnKSpNhZq",
+          "display_url": "pic.twitter.com/JwnKSpNhZq",
+          "expanded_url": "https://twitter.com/wastemobile/status/1167070678769487872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 375,
+              "h": 500,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 375,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 375,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 29 13:40:17 +0000 2019",
+    "id": 1167069463964864514,
+    "id_str": "1167069463964864514",
+    "text": "連續第13天，覺得有點效果。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1164164975058812929,
+    "in_reply_to_status_id_str": "1164164975058812929",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 29 06:53:11 +0000 2019",
+    "id": 1166967012007956480,
+    "id_str": "1166967012007956480",
+    "text": "這折扣可以。\n\n歡慶三週年！樂天Kobo全站限時七天58折，滿額再抽3,333點樂天點數\n\n活動期間：9月1日至9月7日\n\n活動網址：https://t.co/RaVCnDZ6JD\n\n活動內容：結帳輸入KOBO3HBD即享全站58… https://t.co/ZOORCb0tUF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RaVCnDZ6JD",
+          "expanded_url": "http://bit.ly/2Zle3Yx",
+          "display_url": "bit.ly/2Zle3Yx",
+          "indices": [
+            67,
+            90
+          ]
+        },
+        {
+          "url": "https://t.co/ZOORCb0tUF",
+          "expanded_url": "https://twitter.com/i/web/status/1166967012007956480",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Aug 25 15:05:33 +0000 2019",
     "id": 1165641367055323138,
     "id_str": "1165641367055323138",
