@@ -1,5 +1,570 @@
 Grailbird.data.tweets_2019_09 = [
   {
+    "created_at": "Mon Sep 09 01:43:03 +0000 2019",
+    "id": 1170875231780519938,
+    "id_str": "1170875231780519938",
+    "text": "RT @jimmy_su: 職場霸凌，護理同仁硬起來！！！！ - 護理板 | Dcard https://t.co/mEByyO447r\n\n還以為是軍醫院在大地震呢 🙄 https://t.co/92a81V7Vtm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jimmy_su",
+          "name": "Jimmy Su",
+          "id": 1982151,
+          "id_str": "1982151",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mEByyO447r",
+          "expanded_url": "https://www.dcard.tw/f/nursing/p/232035652",
+          "display_url": "dcard.tw/f/nursing/p/23…",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1170826483863961600,
+          "id_str": "1170826483863961600",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/ED-ce9hUwAA5ne6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ED-ce9hUwAA5ne6.jpg",
+          "url": "https://t.co/92a81V7Vtm",
+          "display_url": "pic.twitter.com/92a81V7Vtm",
+          "expanded_url": "https://twitter.com/jimmy_su/status/1170826496983719936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 714,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 474,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 714,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1170826496983719936,
+          "source_status_id_str": "1170826496983719936",
+          "source_user_id": 1982151,
+          "source_user_id_str": "1982151"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1170826483863961600,
+          "id_str": "1170826483863961600",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/ED-ce9hUwAA5ne6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ED-ce9hUwAA5ne6.jpg",
+          "url": "https://t.co/92a81V7Vtm",
+          "display_url": "pic.twitter.com/92a81V7Vtm",
+          "expanded_url": "https://twitter.com/jimmy_su/status/1170826496983719936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 714,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 474,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 714,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1170826496983719936,
+          "source_status_id_str": "1170826496983719936",
+          "source_user_id": 1982151,
+          "source_user_id_str": "1982151"
+        },
+        {
+          "id": 1170826487131336704,
+          "id_str": "1170826487131336704",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/ED-cfJsU8AAo3gU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ED-cfJsU8AAo3gU.jpg",
+          "url": "https://t.co/92a81V7Vtm",
+          "display_url": "pic.twitter.com/92a81V7Vtm",
+          "expanded_url": "https://twitter.com/jimmy_su/status/1170826496983719936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 525,
+              "h": 700,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 525,
+              "h": 700,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1170826496983719936,
+          "source_status_id_str": "1170826496983719936",
+          "source_user_id": 1982151,
+          "source_user_id_str": "1982151"
+        },
+        {
+          "id": 1170826489723375616,
+          "id_str": "1170826489723375616",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/ED-cfTWUUAA1NZx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ED-cfTWUUAA1NZx.jpg",
+          "url": "https://t.co/92a81V7Vtm",
+          "display_url": "pic.twitter.com/92a81V7Vtm",
+          "expanded_url": "https://twitter.com/jimmy_su/status/1170826496983719936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 525,
+              "h": 700,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 525,
+              "h": 700,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1170826496983719936,
+          "source_status_id_str": "1170826496983719936",
+          "source_user_id": 1982151,
+          "source_user_id_str": "1982151"
+        },
+        {
+          "id": 1170826493242462208,
+          "id_str": "1170826493242462208",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/ED-cfgdVUAAh2i7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ED-cfgdVUAAh2i7.jpg",
+          "url": "https://t.co/92a81V7Vtm",
+          "display_url": "pic.twitter.com/92a81V7Vtm",
+          "expanded_url": "https://twitter.com/jimmy_su/status/1170826496983719936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 525,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 525,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1170826496983719936,
+          "source_status_id_str": "1170826496983719936",
+          "source_user_id": 1982151,
+          "source_user_id_str": "1982151"
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Sep 08 22:29:24 +0000 2019",
+      "id": 1170826496983719936,
+      "id_str": "1170826496983719936",
+      "text": "職場霸凌，護理同仁硬起來！！！！ - 護理板 | Dcard https://t.co/mEByyO447r\n\n還以為是軍醫院在大地震呢 🙄 https://t.co/92a81V7Vtm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mEByyO447r",
+            "expanded_url": "https://www.dcard.tw/f/nursing/p/232035652",
+            "display_url": "dcard.tw/f/nursing/p/23…",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1170826483863961600,
+            "id_str": "1170826483863961600",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/ED-ce9hUwAA5ne6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ED-ce9hUwAA5ne6.jpg",
+            "url": "https://t.co/92a81V7Vtm",
+            "display_url": "pic.twitter.com/92a81V7Vtm",
+            "expanded_url": "https://twitter.com/jimmy_su/status/1170826496983719936/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 714,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 474,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 714,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1170826483863961600,
+            "id_str": "1170826483863961600",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/ED-ce9hUwAA5ne6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ED-ce9hUwAA5ne6.jpg",
+            "url": "https://t.co/92a81V7Vtm",
+            "display_url": "pic.twitter.com/92a81V7Vtm",
+            "expanded_url": "https://twitter.com/jimmy_su/status/1170826496983719936/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 714,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 474,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 714,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1170826487131336704,
+            "id_str": "1170826487131336704",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/ED-cfJsU8AAo3gU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ED-cfJsU8AAo3gU.jpg",
+            "url": "https://t.co/92a81V7Vtm",
+            "display_url": "pic.twitter.com/92a81V7Vtm",
+            "expanded_url": "https://twitter.com/jimmy_su/status/1170826496983719936/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 525,
+                "h": 700,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 525,
+                "h": 700,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1170826489723375616,
+            "id_str": "1170826489723375616",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/ED-cfTWUUAA1NZx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ED-cfTWUUAA1NZx.jpg",
+            "url": "https://t.co/92a81V7Vtm",
+            "display_url": "pic.twitter.com/92a81V7Vtm",
+            "expanded_url": "https://twitter.com/jimmy_su/status/1170826496983719936/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 525,
+                "h": 700,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 525,
+                "h": 700,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1170826493242462208,
+            "id_str": "1170826493242462208",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/ED-cfgdVUAAh2i7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ED-cfgdVUAAh2i7.jpg",
+            "url": "https://t.co/92a81V7Vtm",
+            "display_url": "pic.twitter.com/92a81V7Vtm",
+            "expanded_url": "https://twitter.com/jimmy_su/status/1170826496983719936/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 525,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 700,
+                "h": 525,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1982151,
+        "id_str": "1982151",
+        "name": "Jimmy Su",
+        "screen_name": "jimmy_su",
+        "location": "Taipei, Taiwan",
+        "description": "a dumb hipster",
+        "url": "http://t.co/XYYwn2D2wl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/XYYwn2D2wl",
+                "expanded_url": "http://wormsculptor.com",
+                "display_url": "wormsculptor.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13064,
+        "friends_count": 775,
+        "listed_count": 194,
+        "created_at": "Fri Mar 23 05:47:02 +0000 2007",
+        "favourites_count": 10017,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 57132,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3D3D3D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/808166830955081728/2Bu-tv4T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/808166830955081728/2Bu-tv4T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982151/1413605285",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "3D3D3D",
+        "profile_sidebar_fill_color": "383838",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Sep 08 02:52:49 +0000 2019",
     "id": 1170530402357800960,
     "id_str": "1170530402357800960",
