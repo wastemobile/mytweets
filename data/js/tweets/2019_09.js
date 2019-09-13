@@ -1,5 +1,452 @@
 Grailbird.data.tweets_2019_09 = [
   {
+    "created_at": "Thu Sep 12 08:38:27 +0000 2019",
+    "id": 1172066933572689920,
+    "id_str": "1172066933572689920",
+    "text": "「社群媒體讓內容呈現的方式均質化了，本該有那麼一點機會能逃離騙點閱的惡習，但我們全都漸漸向著那樣的世界越靠越近。」\n\n為吸引更龐大的讀者群，媒體產業正大幅「弱智化」？ https://t.co/SpE8XboRqb https://t.co/FA0IrgoD3p",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SpE8XboRqb",
+          "expanded_url": "http://bit.ly/2ZSGKvw",
+          "display_url": "bit.ly/2ZSGKvw",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1172066921795084289,
+          "id_str": "1172066921795084289",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEQEp86U4AEIylL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEQEp86U4AEIylL.jpg",
+          "url": "https://t.co/FA0IrgoD3p",
+          "display_url": "pic.twitter.com/FA0IrgoD3p",
+          "expanded_url": "https://twitter.com/wastemobile/status/1172066933572689920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 460,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 541,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 541,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1172066921795084289,
+          "id_str": "1172066921795084289",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEQEp86U4AEIylL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEQEp86U4AEIylL.jpg",
+          "url": "https://t.co/FA0IrgoD3p",
+          "display_url": "pic.twitter.com/FA0IrgoD3p",
+          "expanded_url": "https://twitter.com/wastemobile/status/1172066933572689920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 460,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 541,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 541,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 12 08:17:05 +0000 2019",
+    "id": 1172061555350851584,
+    "id_str": "1172061555350851584",
+    "text": "任何人看完 #Netflix 這集《郵輪之旅的真相》，都會再認真考慮一下這種度假形式。\n\n哈桑・明哈吉《愛國者法案》S4E2 《郵輪之旅的真相》 https://t.co/Wdeqey6kPD https://t.co/j5KsbNJFzu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            6,
+            14
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Wdeqey6kPD",
+          "expanded_url": "http://bit.ly/2ZU1hj4",
+          "display_url": "bit.ly/2ZU1hj4",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1172061538057764864,
+          "id_str": "1172061538057764864",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEP_wk7UwAA6RCy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEP_wk7UwAA6RCy.jpg",
+          "url": "https://t.co/j5KsbNJFzu",
+          "display_url": "pic.twitter.com/j5KsbNJFzu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1172061555350851584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 769,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 451,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1172061538057764864,
+          "id_str": "1172061538057764864",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/EEP_wk7UwAA6RCy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EEP_wk7UwAA6RCy.jpg",
+          "url": "https://t.co/j5KsbNJFzu",
+          "display_url": "pic.twitter.com/j5KsbNJFzu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1172061555350851584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 769,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 451,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 28,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 12 05:57:25 +0000 2019",
+    "id": 1172026406806511616,
+    "id_str": "1172026406806511616",
+    "text": "Kobo Forma 居然降價了。 https://t.co/Pi7VGeJg0q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Pi7VGeJg0q",
+          "expanded_url": "https://twitter.com/goodereader/status/1172025524601806851",
+          "display_url": "twitter.com/goodereader/st…",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1172025524601806851,
+    "quoted_status_id_str": "1172025524601806851",
+    "quoted_status": {
+      "created_at": "Thu Sep 12 05:53:54 +0000 2019",
+      "id": 1172025524601806851,
+      "id_str": "1172025524601806851",
+      "text": "The Kobo Forma has been reduced in price to $249 https://t.co/AXYhmUwxHb via @goodereader",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Goodereader",
+            "name": "Good e-Reader",
+            "id": 93138546,
+            "id_str": "93138546",
+            "indices": [
+              77,
+              89
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AXYhmUwxHb",
+            "expanded_url": "https://goodereader.com/blog/electronic-readers/the-kobo-forma-has-been-reduced-in-price-to-249",
+            "display_url": "goodereader.com/blog/electroni…",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 93138546,
+        "id_str": "93138546",
+        "name": "Good e-Reader",
+        "screen_name": "Goodereader",
+        "location": "Vancouver, British Columbia",
+        "description": "Good e-Reader is the leading news agency devoted to Audiobooks, E-Readers, Digital Publishing and eBooks.",
+        "url": "https://t.co/38JybP5yeQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/38JybP5yeQ",
+                "expanded_url": "https://goodereader.com",
+                "display_url": "goodereader.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10019,
+        "friends_count": 33,
+        "listed_count": 473,
+        "created_at": "Sat Nov 28 07:19:02 +0000 2009",
+        "favourites_count": 465,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20276,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1800365268/Avatar_Logo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1800365268/Avatar_Logo_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93138546/1549330777",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Sep 10 16:31:15 +0000 2019",
     "id": 1171461139592433665,
     "id_str": "1171461139592433665",
