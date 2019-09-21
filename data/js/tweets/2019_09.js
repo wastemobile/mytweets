@@ -1,5 +1,220 @@
 Grailbird.data.tweets_2019_09 = [
   {
+    "created_at": "Sat Sep 21 03:43:06 +0000 2019",
+    "id": 1175254098699964417,
+    "id_str": "1175254098699964417",
+    "text": "想要這件。\n\nAKIRA 原畫展出？！大友克洋 X 河村康輔「AKIRA WALL」 PARCO 企劃展！ https://t.co/eXS8eU7Wjt https://t.co/9FkTeizhZ5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eXS8eU7Wjt",
+          "expanded_url": "http://bit.ly/2IiDfUX",
+          "display_url": "bit.ly/2IiDfUX",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1175254080635072513,
+          "id_str": "1175254080635072513",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/EE9XXA0U8AExvOD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EE9XXA0U8AExvOD.jpg",
+          "url": "https://t.co/9FkTeizhZ5",
+          "display_url": "pic.twitter.com/9FkTeizhZ5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1175254098699964417/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1175254080635072513,
+          "id_str": "1175254080635072513",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/EE9XXA0U8AExvOD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EE9XXA0U8AExvOD.jpg",
+          "url": "https://t.co/9FkTeizhZ5",
+          "display_url": "pic.twitter.com/9FkTeizhZ5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1175254098699964417/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1175254082052734978,
+          "id_str": "1175254082052734978",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/EE9XXGGUwAI_KYa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EE9XXGGUwAI_KYa.jpg",
+          "url": "https://t.co/9FkTeizhZ5",
+          "display_url": "pic.twitter.com/9FkTeizhZ5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1175254098699964417/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 483,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 639,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 639,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 20 15:49:39 +0000 2019",
+    "id": 1175074552440750080,
+    "id_str": "1175074552440750080",
+    "text": "看完了《天氣之子》。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Sep 19 01:20:06 +0000 2019",
     "id": 1174493331914510336,
     "id_str": "1174493331914510336",
