@@ -1,5 +1,194 @@
 Grailbird.data.tweets_2019_09 = [
   {
+    "created_at": "Sat Sep 21 07:06:33 +0000 2019",
+    "id": 1175305298153635840,
+    "id_str": "1175305298153635840",
+    "text": "〈銷售額不到實體書10％！業界人士：電子書泡沫已破〉，這篇自由時報的文章 https://t.co/x8Z4ljarH8 基本上是從這篇 “Physical books still outsell e-books — and he… https://t.co/rCAHTnidyR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/x8Z4ljarH8",
+          "expanded_url": "http://bit.ly/2V5q9zw",
+          "display_url": "bit.ly/2V5q9zw",
+          "indices": [
+            37,
+            60
+          ]
+        },
+        {
+          "url": "https://t.co/rCAHTnidyR",
+          "expanded_url": "https://twitter.com/i/web/status/1175305298153635840",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 21 05:17:12 +0000 2019",
+    "id": 1175277778960171008,
+    "id_str": "1175277778960171008",
+    "text": "看到小瓶的噶瑪蘭單一麥芽威士忌🥃，嚐嚐～ https://t.co/rSCXmdWk1T",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1175277762187149312,
+          "id_str": "1175277762187149312",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/EE9s5deUwAAf1AP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EE9s5deUwAAf1AP.jpg",
+          "url": "https://t.co/rSCXmdWk1T",
+          "display_url": "pic.twitter.com/rSCXmdWk1T",
+          "expanded_url": "https://twitter.com/wastemobile/status/1175277778960171008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1175277762187149312,
+          "id_str": "1175277762187149312",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/EE9s5deUwAAf1AP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EE9s5deUwAAf1AP.jpg",
+          "url": "https://t.co/rSCXmdWk1T",
+          "display_url": "pic.twitter.com/rSCXmdWk1T",
+          "expanded_url": "https://twitter.com/wastemobile/status/1175277778960171008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 21 03:43:06 +0000 2019",
     "id": 1175254098699964417,
     "id_str": "1175254098699964417",
