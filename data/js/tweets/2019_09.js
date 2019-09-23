@@ -1,5 +1,202 @@
 Grailbird.data.tweets_2019_09 = [
   {
+    "created_at": "Sun Sep 22 14:12:12 +0000 2019",
+    "id": 1175774801803104257,
+    "id_str": "1175774801803104257",
+    "text": "還真是不知道在 Steam 購買遊戲居然是「無限期訂閱」⋯⋯\n\n原來Steam是「無限期訂閱」？法國法院判Steam遊戲可轉賣 https://t.co/JW3mz5JtKM https://t.co/VizjfIhRSz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JW3mz5JtKM",
+          "expanded_url": "http://bit.ly/2IiZeey",
+          "display_url": "bit.ly/2IiZeey",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1175774795163586561,
+          "id_str": "1175774795163586561",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFEw8lmVUAEt0fW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFEw8lmVUAEt0fW.jpg",
+          "url": "https://t.co/VizjfIhRSz",
+          "display_url": "pic.twitter.com/VizjfIhRSz",
+          "expanded_url": "https://twitter.com/wastemobile/status/1175774801803104257/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1175774795163586561,
+          "id_str": "1175774795163586561",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFEw8lmVUAEt0fW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFEw8lmVUAEt0fW.jpg",
+          "url": "https://t.co/VizjfIhRSz",
+          "display_url": "pic.twitter.com/VizjfIhRSz",
+          "expanded_url": "https://twitter.com/wastemobile/status/1175774801803104257/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 22 06:16:34 +0000 2019",
+    "id": 1175655104835309568,
+    "id_str": "1175655104835309568",
+    "text": "不用去健身房也能消除游泳圈的簡單運動 https://t.co/kLUZV8QtJl 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            46,
+            54
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kLUZV8QtJl",
+          "expanded_url": "https://youtu.be/JpdnyqnrptU",
+          "display_url": "youtu.be/JpdnyqnrptU",
+          "indices": [
+            19,
+            42
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 21 07:06:33 +0000 2019",
     "id": 1175305298153635840,
     "id_str": "1175305298153635840",
