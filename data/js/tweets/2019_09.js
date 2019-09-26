@@ -1,5 +1,1026 @@
 Grailbird.data.tweets_2019_09 = [
   {
+    "created_at": "Thu Sep 26 00:22:05 +0000 2019",
+    "id": 1177015448988082176,
+    "id_str": "1177015448988082176",
+    "text": "來換 DNS 設定吧～\n\n網址好酷 https://t.co/AzzMBzZVlZ https://t.co/89MhXNR5N0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AzzMBzZVlZ",
+          "expanded_url": "https://one.one.one.one/dns/",
+          "display_url": "one.one.one.one/dns/",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1177015438577819648,
+          "id_str": "1177015438577819648",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFWZTieU4AAQCiQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFWZTieU4AAQCiQ.jpg",
+          "url": "https://t.co/89MhXNR5N0",
+          "display_url": "pic.twitter.com/89MhXNR5N0",
+          "expanded_url": "https://twitter.com/wastemobile/status/1177015448988082176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1187,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1276,
+              "h": 1290,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 673,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1177015438577819648,
+          "id_str": "1177015438577819648",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFWZTieU4AAQCiQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFWZTieU4AAQCiQ.jpg",
+          "url": "https://t.co/89MhXNR5N0",
+          "display_url": "pic.twitter.com/89MhXNR5N0",
+          "expanded_url": "https://twitter.com/wastemobile/status/1177015448988082176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1187,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1276,
+              "h": 1290,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 673,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 26 00:02:44 +0000 2019",
+    "id": 1177010578411253762,
+    "id_str": "1177010578411253762",
+    "text": "今天才知道 1Password 兩年前就有了這個「旅行模式」（Travel Mode），能在旅遊途中或過關前移除大部分的帳號、密碼或是金鑰，到達目的地或回家後再取回。\n\nIntroducing Travel Mode: Prote… https://t.co/rBztldzVl0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rBztldzVl0",
+          "expanded_url": "https://twitter.com/i/web/status/1177010578411253762",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Sep 25 23:33:44 +0000 2019",
+    "id": 1177003279294746625,
+    "id_str": "1177003279294746625",
+    "text": "酷點子。\n\n倫敦開設全球首家「迴轉起司」店！25 種英國起司 Pick &amp; Cheese 紅酒、三明治...甜鹹任搭 https://t.co/eHE0XwQk7h https://t.co/QtPswCaT4F",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eHE0XwQk7h",
+          "expanded_url": "http://bit.ly/2lbp4sB",
+          "display_url": "bit.ly/2lbp4sB",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1177003270440538112,
+          "id_str": "1177003270440538112",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFWOPQoU0AAVYNf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFWOPQoU0AAVYNf.jpg",
+          "url": "https://t.co/QtPswCaT4F",
+          "display_url": "pic.twitter.com/QtPswCaT4F",
+          "expanded_url": "https://twitter.com/wastemobile/status/1177003279294746625/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1100,
+              "h": 619,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1100,
+              "h": 619,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1177003270440538112,
+          "id_str": "1177003270440538112",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFWOPQoU0AAVYNf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFWOPQoU0AAVYNf.jpg",
+          "url": "https://t.co/QtPswCaT4F",
+          "display_url": "pic.twitter.com/QtPswCaT4F",
+          "expanded_url": "https://twitter.com/wastemobile/status/1177003279294746625/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1100,
+              "h": 619,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1100,
+              "h": 619,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Sep 25 16:15:15 +0000 2019",
+    "id": 1176892931132706816,
+    "id_str": "1176892931132706816",
+    "text": "RT @jafurtado: Vox Media Acquires New York Magazine, Chronicler of the Highbrow and Lowbrow, By Marc Tracy (@marcatracy) and Edmund Lee (@e…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jafurtado",
+          "name": "Jose Afonso Furtado",
+          "id": 14330959,
+          "id_str": "14330959",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "marcatracy",
+          "name": "marc tracy",
+          "id": 61108556,
+          "id_str": "61108556",
+          "indices": [
+            108,
+            119
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 25 16:13:01 +0000 2019",
+      "id": 1176892369154826240,
+      "id_str": "1176892369154826240",
+      "text": "Vox Media Acquires New York Magazine, Chronicler of the Highbrow and Lowbrow, By Marc Tracy (@marcatracy) and Edmun… https://t.co/96hIV8oDEN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "marcatracy",
+            "name": "marc tracy",
+            "id": 61108556,
+            "id_str": "61108556",
+            "indices": [
+              93,
+              104
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/96hIV8oDEN",
+            "expanded_url": "https://twitter.com/i/web/status/1176892369154826240",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14330959,
+        "id_str": "14330959",
+        "name": "Jose Afonso Furtado",
+        "screen_name": "jafurtado",
+        "location": "Lisboa, Portugal",
+        "description": "Former art library director at Gulbenkian Foundation.",
+        "url": "https://t.co/q0hM44lTqv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/q0hM44lTqv",
+                "expanded_url": "http://www.linkedin.com/in/jatsf",
+                "display_url": "linkedin.com/in/jatsf",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13990,
+        "friends_count": 3465,
+        "listed_count": 1091,
+        "created_at": "Tue Apr 08 09:46:56 +0000 2008",
+        "favourites_count": 163,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 140360,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/461666462722060288/Tnm-dlUf_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/461666462722060288/Tnm-dlUf_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14330959/1563756144",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 25 06:32:36 +0000 2019",
+    "id": 1176746305860730880,
+    "id_str": "1176746305860730880",
+    "text": "RT @HKokbore: 维吾尔人被手铐脚链、蒙面转押视频曝光！\n\n中国政府是现代法西斯，在进行种族灭绝！\n\n世界如再不清醒，要付出比二战更惨烈的生命代价。\n\nhttps://t.co/rIL7fQTQDK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "HKokbore",
+          "name": "Ilshat H. Kokbore 伊利夏提",
+          "id": 3026990185,
+          "id_str": "3026990185",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1175334846606041088,
+          "id_str": "1175334846606041088",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175334846606041088/pu/img/LnMBFl9uVXhHX0pe.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175334846606041088/pu/img/LnMBFl9uVXhHX0pe.jpg",
+          "url": "https://t.co/rIL7fQTQDK",
+          "display_url": "pic.twitter.com/rIL7fQTQDK",
+          "expanded_url": "https://twitter.com/arslan_hidayat/status/1175335483372687363/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1175335483372687363,
+          "source_status_id_str": "1175335483372687363",
+          "source_user_id": 882215484497768448,
+          "source_user_id_str": "882215484497768448"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1175334846606041088,
+          "id_str": "1175334846606041088",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175334846606041088/pu/img/LnMBFl9uVXhHX0pe.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175334846606041088/pu/img/LnMBFl9uVXhHX0pe.jpg",
+          "url": "https://t.co/rIL7fQTQDK",
+          "display_url": "pic.twitter.com/rIL7fQTQDK",
+          "expanded_url": "https://twitter.com/arslan_hidayat/status/1175335483372687363/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1175335483372687363,
+          "source_status_id_str": "1175335483372687363",
+          "source_user_id": 882215484497768448,
+          "source_user_id_str": "882215484497768448",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 105744,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1175334846606041088/pu/vid/1280x720/ihGuHSCqtsAQCNc8.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1175334846606041088/pu/pl/BkZd7L8cMdkY7aTP.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1175334846606041088/pu/vid/480x270/TpvycvDmSSkTtZ9x.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1175334846606041088/pu/vid/640x360/oDOty2VSxDDaUYE5.mp4?tag=10"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 882215484497768448,
+              "id_str": "882215484497768448",
+              "name": "Arslan Hidayat",
+              "screen_name": "arslan_hidayat",
+              "location": "Istanbul, Turkey",
+              "description": "Australian-#Uyghur Human Rights Activist from Sydney. Follow for daily updates on the #Uighur Plight. Retweet to help stop the modern-day Genocide in #China.",
+              "url": "https://t.co/IGyptZV4nN",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/IGyptZV4nN",
+                      "expanded_url": "https://www.facebook.com/profile.php?id=100020423552179",
+                      "display_url": "facebook.com/profile.php?id…",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 5004,
+              "friends_count": 206,
+              "listed_count": 35,
+              "created_at": "Tue Jul 04 12:32:17 +0000 2017",
+              "favourites_count": 651,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": false,
+              "statuses_count": 2518,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1111126849529266176/Tai7stVv_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111126849529266176/Tai7stVv_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/882215484497768448/1546704102",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": true,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 21 17:51:02 +0000 2019",
+      "id": 1175467487435120645,
+      "id_str": "1175467487435120645",
+      "text": "维吾尔人被手铐脚链、蒙面转押视频曝光！\n\n中国政府是现代法西斯，在进行种族灭绝！\n\n世界如再不清醒，要付出比二战更惨烈的生命代价。\n\nhttps://t.co/rIL7fQTQDK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1175334846606041088,
+            "id_str": "1175334846606041088",
+            "indices": [
+              67,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175334846606041088/pu/img/LnMBFl9uVXhHX0pe.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175334846606041088/pu/img/LnMBFl9uVXhHX0pe.jpg",
+            "url": "https://t.co/rIL7fQTQDK",
+            "display_url": "pic.twitter.com/rIL7fQTQDK",
+            "expanded_url": "https://twitter.com/arslan_hidayat/status/1175335483372687363/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1175335483372687363,
+            "source_status_id_str": "1175335483372687363",
+            "source_user_id": 882215484497768448,
+            "source_user_id_str": "882215484497768448"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1175334846606041088,
+            "id_str": "1175334846606041088",
+            "indices": [
+              67,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1175334846606041088/pu/img/LnMBFl9uVXhHX0pe.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1175334846606041088/pu/img/LnMBFl9uVXhHX0pe.jpg",
+            "url": "https://t.co/rIL7fQTQDK",
+            "display_url": "pic.twitter.com/rIL7fQTQDK",
+            "expanded_url": "https://twitter.com/arslan_hidayat/status/1175335483372687363/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1175335483372687363,
+            "source_status_id_str": "1175335483372687363",
+            "source_user_id": 882215484497768448,
+            "source_user_id_str": "882215484497768448",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 105744,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1175334846606041088/pu/vid/1280x720/ihGuHSCqtsAQCNc8.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1175334846606041088/pu/pl/BkZd7L8cMdkY7aTP.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1175334846606041088/pu/vid/480x270/TpvycvDmSSkTtZ9x.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1175334846606041088/pu/vid/640x360/oDOty2VSxDDaUYE5.mp4?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "id": 882215484497768448,
+                "id_str": "882215484497768448",
+                "name": "Arslan Hidayat",
+                "screen_name": "arslan_hidayat",
+                "location": "Istanbul, Turkey",
+                "description": "Australian-#Uyghur Human Rights Activist from Sydney. Follow for daily updates on the #Uighur Plight. Retweet to help stop the modern-day Genocide in #China.",
+                "url": "https://t.co/IGyptZV4nN",
+                "entities": {
+                  "url": {
+                    "urls": [
+                      {
+                        "url": "https://t.co/IGyptZV4nN",
+                        "expanded_url": "https://www.facebook.com/profile.php?id=100020423552179",
+                        "display_url": "facebook.com/profile.php?id…",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  },
+                  "description": {
+                    "urls": [
+
+                    ]
+                  }
+                },
+                "protected": false,
+                "followers_count": 5004,
+                "friends_count": 206,
+                "listed_count": 35,
+                "created_at": "Tue Jul 04 12:32:17 +0000 2017",
+                "favourites_count": 651,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2518,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1111126849529266176/Tai7stVv_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111126849529266176/Tai7stVv_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/882215484497768448/1546704102",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3026990185,
+        "id_str": "3026990185",
+        "name": "Ilshat H. Kokbore 伊利夏提",
+        "screen_name": "HKokbore",
+        "location": "Manassas Virginia",
+        "description": "President, Uyghur American Association. Freedom fighter. China is committing genocide! Freedom is not free!",
+        "url": "https://t.co/VS15Dwjy5U",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/VS15Dwjy5U",
+                "expanded_url": "http://uyghuramerican.org",
+                "display_url": "uyghuramerican.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7549,
+        "friends_count": 163,
+        "listed_count": 52,
+        "created_at": "Wed Feb 18 18:59:07 +0000 2015",
+        "favourites_count": 263,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8070,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1164994254801920001/NHntsa0A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164994254801920001/NHntsa0A_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3026990185/1425932814",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 492,
+      "favorite_count": 729,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 492,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Sep 25 00:04:46 +0000 2019",
     "id": 1176648701659340800,
     "id_str": "1176648701659340800",
