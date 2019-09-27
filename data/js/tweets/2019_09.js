@@ -1,5 +1,559 @@
 Grailbird.data.tweets_2019_09 = [
   {
+    "created_at": "Thu Sep 26 13:52:27 +0000 2019",
+    "id": 1177219385896759296,
+    "id_str": "1177219385896759296",
+    "text": "@jawdc @jimmy_su 確實也是一種方法。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jawdc",
+          "name": "Robert Chao",
+          "id": 121349581,
+          "id_str": "121349581",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "screen_name": "jimmy_su",
+          "name": "Jimmy Su",
+          "id": 1982151,
+          "id_str": "1982151",
+          "indices": [
+            7,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1177143183861354497,
+    "in_reply_to_status_id_str": "1177143183861354497",
+    "in_reply_to_user_id": 121349581,
+    "in_reply_to_user_id_str": "121349581",
+    "in_reply_to_screen_name": "jawdc",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 26 06:11:31 +0000 2019",
+    "id": 1177103386472136705,
+    "id_str": "1177103386472136705",
+    "text": "@superbil 因為 6 不支援新版 Safari 13 了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "superbil",
+          "name": "ㄇㄉㄈㄎ 黃金十二猛漢一起蕉流蕉流 🍌",
+          "id": 6134752,
+          "id_str": "6134752",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1177102703127752704,
+    "in_reply_to_status_id_str": "1177102703127752704",
+    "in_reply_to_user_id": 6134752,
+    "in_reply_to_user_id_str": "6134752",
+    "in_reply_to_screen_name": "superbil",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Sep 26 05:53:47 +0000 2019",
+    "id": 1177098922751168513,
+    "id_str": "1177098922751168513",
+    "text": "@superbil 喔，這樣就懂了，因為我才剛訂閱，過去兩年一直都還是使用買斷版的 6。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "superbil",
+          "name": "ㄇㄉㄈㄎ 黃金十二猛漢一起蕉流蕉流 🍌",
+          "id": 6134752,
+          "id_str": "6134752",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1177094711107964928,
+    "in_reply_to_status_id_str": "1177094711107964928",
+    "in_reply_to_user_id": 6134752,
+    "in_reply_to_user_id_str": "6134752",
+    "in_reply_to_screen_name": "superbil",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 26 05:23:00 +0000 2019",
+    "id": 1177091175242534914,
+    "id_str": "1177091175242534914",
+    "text": "RT @OOBE: 再推一次。 https://t.co/cdbVkxAKSQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OOBE",
+          "name": "OOBE",
+          "id": 4496321,
+          "id_str": "4496321",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cdbVkxAKSQ",
+          "expanded_url": "https://twitter.com/LifetimeUSCN/status/1147491496905629699",
+          "display_url": "twitter.com/LifetimeUSCN/s…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 25 10:18:10 +0000 2019",
+      "id": 1176803069750722563,
+      "id_str": "1176803069750722563",
+      "text": "再推一次。 https://t.co/cdbVkxAKSQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cdbVkxAKSQ",
+            "expanded_url": "https://twitter.com/LifetimeUSCN/status/1147491496905629699",
+            "display_url": "twitter.com/LifetimeUSCN/s…",
+            "indices": [
+              6,
+              29
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4496321,
+        "id_str": "4496321",
+        "name": "OOBE",
+        "screen_name": "OOBE",
+        "location": "Taiwan",
+        "description": "🔰 I am an Oneironaut.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13174,
+        "friends_count": 2165,
+        "listed_count": 192,
+        "created_at": "Fri Apr 13 13:16:07 +0000 2007",
+        "favourites_count": 38820,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 89393,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "798058",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1152077514484797440/EeKrsTXU_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1152077514484797440/EeKrsTXU_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4496321/1506265793",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "AA4D73",
+        "profile_text_color": "F87364",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1147491496905629699,
+      "quoted_status_id_str": "1147491496905629699",
+      "quoted_status": {
+        "created_at": "Sat Jul 06 13:04:26 +0000 2019",
+        "id": 1147491496905629699,
+        "id_str": "1147491496905629699",
+        "text": "中国控制的VPN品牌一览。 https://t.co/syj96Iqxh3",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ],
+          "media": [
+            {
+              "id": 1147491492640038912,
+              "id_str": "1147491492640038912",
+              "indices": [
+                14,
+                37
+              ],
+              "media_url": "http://pbs.twimg.com/media/D-y1btGXoAATs4Y.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D-y1btGXoAATs4Y.jpg",
+              "url": "https://t.co/syj96Iqxh3",
+              "display_url": "pic.twitter.com/syj96Iqxh3",
+              "expanded_url": "https://twitter.com/LifetimeUSCN/status/1147491496905629699/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1096,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 642,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 364,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1147491492640038912,
+              "id_str": "1147491492640038912",
+              "indices": [
+                14,
+                37
+              ],
+              "media_url": "http://pbs.twimg.com/media/D-y1btGXoAATs4Y.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D-y1btGXoAATs4Y.jpg",
+              "url": "https://t.co/syj96Iqxh3",
+              "display_url": "pic.twitter.com/syj96Iqxh3",
+              "expanded_url": "https://twitter.com/LifetimeUSCN/status/1147491496905629699/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1096,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 642,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 364,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1147491492631650321,
+              "id_str": "1147491492631650321",
+              "indices": [
+                14,
+                37
+              ],
+              "media_url": "http://pbs.twimg.com/media/D-y1btEXoBEdpDd.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D-y1btEXoBEdpDd.jpg",
+              "url": "https://t.co/syj96Iqxh3",
+              "display_url": "pic.twitter.com/syj96Iqxh3",
+              "expanded_url": "https://twitter.com/LifetimeUSCN/status/1147491496905629699/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1125,
+                  "h": 832,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 503,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1125,
+                  "h": 832,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2865179814,
+          "id_str": "2865179814",
+          "name": "LIFETIME 視界",
+          "screen_name": "LifetimeUSCN",
+          "location": "United States",
+          "description": "Independent #China issues and #US -China relations researcher.",
+          "url": "https://t.co/0w8VjW3FaQ",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/0w8VjW3FaQ",
+                  "expanded_url": "https://www.facebook.com/lifetimeuscn/",
+                  "display_url": "facebook.com/lifetimeuscn/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 149645,
+          "friends_count": 250,
+          "listed_count": 975,
+          "created_at": "Sun Oct 19 15:02:14 +0000 2014",
+          "favourites_count": 22770,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 16074,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150450353382412291/OKwhOUYP_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2865179814/1568219534",
+          "profile_link_color": "1B95E0",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1366,
+        "favorite_count": 2281,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 52,
+      "favorite_count": 64,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1147491496905629699,
+    "quoted_status_id_str": "1147491496905629699",
+    "retweet_count": 52,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Thu Sep 26 00:22:05 +0000 2019",
     "id": 1177015448988082176,
     "id_str": "1177015448988082176",
