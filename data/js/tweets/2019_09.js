@@ -1,5 +1,169 @@
 Grailbird.data.tweets_2019_09 = [
   {
+    "created_at": "Fri Sep 27 02:35:11 +0000 2019",
+    "id": 1177411333949546496,
+    "id_str": "1177411333949546496",
+    "text": "RT @simmmons: 当纽约公共图书馆去年 8 月宣布把几部长篇小说搬上 Instagram 供用户阅读时，很多人是持怀疑态度的…不料一年以后，纽约公共图书馆公布的数据让很多当初不看好此项目的人大跌眼镜：上线的几部小说这一年来被阅读超过 30 万次。\n\nhttps://t…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "simmmons",
+          "name": "大師兄",
+          "id": 11559872,
+          "id_str": "11559872",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Sep 27 02:29:21 +0000 2019",
+      "id": 1177409866186424321,
+      "id_str": "1177409866186424321",
+      "text": "当纽约公共图书馆去年 8 月宣布把几部长篇小说搬上 Instagram 供用户阅读时，很多人是持怀疑态度的…不料一年以后，纽约公共图书馆公布的数据让很多当初不看好此项目的人大跌眼镜：上线的几部小说这一年来被阅读超过 30 万次。… https://t.co/Zb6Q4d7cqI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Zb6Q4d7cqI",
+            "expanded_url": "https://twitter.com/i/web/status/1177409866186424321",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 11559872,
+        "id_str": "11559872",
+        "name": "大師兄",
+        "screen_name": "simmmons",
+        "location": "天際省, 泰姆瑞爾",
+        "description": "幸福的日子不寫什麼",
+        "url": "https://t.co/pTKNBHYwLf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pTKNBHYwLf",
+                "expanded_url": "http://simmmons.noisybeer.tw",
+                "display_url": "simmmons.noisybeer.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3643,
+        "friends_count": 121,
+        "listed_count": 82,
+        "created_at": "Thu Dec 27 08:44:23 +0000 2007",
+        "favourites_count": 5257,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 48803,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/535659239864152064/Ot1wO9Ng_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/535659239864152064/Ot1wO9Ng_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11559872/1410319152",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Sep 26 13:52:27 +0000 2019",
     "id": 1177219385896759296,
     "id_str": "1177219385896759296",
