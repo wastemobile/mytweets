@@ -1,5 +1,370 @@
 Grailbird.data.tweets_2019_09 = [
   {
+    "created_at": "Sun Sep 29 00:10:07 +0000 2019",
+    "id": 1178099602244792320,
+    "id_str": "1178099602244792320",
+    "text": "《洗鈔事務所》（The Laundromat）在台灣 #Netflix 10/18 上線，梅莉·史翠普、蓋瑞·歐德曼、安東尼奧·班德拉斯主演，由史蒂芬·索德柏執導，是齣反諷喜劇。 https://t.co/RPnK34XpPW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            27,
+            35
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RPnK34XpPW",
+          "expanded_url": "https://twitter.com/mranti/status/1178084491039870976",
+          "display_url": "twitter.com/mranti/status/…",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1178084491039870976,
+    "quoted_status_id_str": "1178084491039870976",
+    "quoted_status": {
+      "created_at": "Sat Sep 28 23:10:05 +0000 2019",
+      "id": 1178084491039870976,
+      "id_str": "1178084491039870976",
+      "text": "Netflix在美国9月27日上映政治新片《自助洗钱店》（Laundromat），讲述“巴拿马文件”——各国政要离岸洗钱的新闻调查，其中有10分钟关于中国薄熙来案。薄熙来由王立青（Jesse Wang）、谷开来由赵家玲（Rosal… https://t.co/INEp60c7aX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/INEp60c7aX",
+            "expanded_url": "https://twitter.com/i/web/status/1178084491039870976",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5709522,
+        "id_str": "5709522",
+        "name": "Michael Anti",
+        "screen_name": "mranti",
+        "location": "北京, 中华人民共和国",
+        "description": "安替, founder of Caixin Globus, veteran journalist on Int'l affairs, Harvard Nieman Fellow '08, TED speaker. Freedom through Transparent Globalization.",
+        "url": "https://t.co/r3MKJVN7oB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/r3MKJVN7oB",
+                "expanded_url": "http://caixin.com",
+                "display_url": "caixin.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 235992,
+        "friends_count": 9540,
+        "listed_count": 2704,
+        "created_at": "Wed May 02 10:08:45 +0000 2007",
+        "favourites_count": 133,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 158469,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 39,
+      "favorite_count": 96,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 28 07:30:25 +0000 2019",
+    "id": 1177848018353053696,
+    "id_str": "1177848018353053696",
+    "text": "看了一下，上線的是第 15 季（2011）至第 21 季（2017） https://t.co/ah6HtSg84j",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ah6HtSg84j",
+          "expanded_url": "https://en.wikipedia.org/wiki/South_Park#Episodes",
+          "display_url": "en.wikipedia.org/wiki/South_Par…",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1177830658103595008,
+    "in_reply_to_status_id_str": "1177830658103595008",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 28 06:21:26 +0000 2019",
+    "id": 1177830658103595008,
+    "id_str": "1177830658103595008",
+    "text": "各位觀眾， #Netflix 上線了《南方四賤客》共 7 季！ https://t.co/TIeVqVtkLP https://t.co/CMMGrj0nw7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            6,
+            14
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TIeVqVtkLP",
+          "expanded_url": "https://www.netflix.com/title/70136107",
+          "display_url": "netflix.com/title/70136107",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1177830652583919616,
+          "id_str": "1177830652583919616",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFh-vPTUwAAKm-s.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFh-vPTUwAAKm-s.jpg",
+          "url": "https://t.co/CMMGrj0nw7",
+          "display_url": "pic.twitter.com/CMMGrj0nw7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1177830658103595008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1177830652583919616,
+          "id_str": "1177830652583919616",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFh-vPTUwAAKm-s.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFh-vPTUwAAKm-s.jpg",
+          "url": "https://t.co/CMMGrj0nw7",
+          "display_url": "pic.twitter.com/CMMGrj0nw7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1177830658103595008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Sep 27 02:35:11 +0000 2019",
     "id": 1177411333949546496,
     "id_str": "1177411333949546496",
