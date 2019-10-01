@@ -1,5 +1,501 @@
 Grailbird.data.tweets_2019_09 = [
   {
+    "created_at": "Mon Sep 30 04:17:45 +0000 2019",
+    "id": 1178524309465128960,
+    "id_str": "1178524309465128960",
+    "text": "十年前（2009/9/14）推過這個號召志願者錄製公版有聲書的網站 LibriVox，那時只有 1,800 本有聲書，現在是 13,000 多種，有興趣聽點經典有聲書的朋友可以試試。\n\nLibriVox 免費公版有聲書… https://t.co/EQclWe5d7t",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EQclWe5d7t",
+          "expanded_url": "https://twitter.com/i/web/status/1178524309465128960",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 3971838525,
+    "in_reply_to_status_id_str": "3971838525",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 30 03:16:53 +0000 2019",
+    "id": 1178508988100382720,
+    "id_str": "1178508988100382720",
+    "text": "RT @sapphobooks: ::::: 小小本日營業時間異動 :::::: \n\n因應米塔颱風進度，小小今日營業時間調整為13:30-19:00，敬請協助布達～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sapphobooks",
+          "name": "小小書房沙貓貓",
+          "id": 2241887532,
+          "id_str": "2241887532",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Sep 30 03:13:52 +0000 2019",
+      "id": 1178508231326359552,
+      "id_str": "1178508231326359552",
+      "text": "::::: 小小本日營業時間異動 :::::: \n\n因應米塔颱風進度，小小今日營業時間調整為13:30-19:00，敬請協助布達～",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2241887532,
+        "id_str": "2241887532",
+        "name": "小小書房沙貓貓",
+        "screen_name": "sapphobooks",
+        "location": "YungHo. Taiwan",
+        "description": "書以及貓以及有關書跟貓的一切；books & cats and everything about books & cats.",
+        "url": "https://t.co/Np5hKwX0Nh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Np5hKwX0Nh",
+                "expanded_url": "http://sapphocatlulu.com",
+                "display_url": "sapphocatlulu.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 402,
+        "friends_count": 247,
+        "listed_count": 7,
+        "created_at": "Thu Dec 12 06:05:22 +0000 2013",
+        "favourites_count": 1084,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1028,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000861500009/rsnSGTUx_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000861500009/rsnSGTUx_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 30 00:51:09 +0000 2019",
+    "id": 1178472314582650880,
+    "id_str": "1178472314582650880",
+    "text": "原來日本2015年的人口普查數據就已經顯示，「單人家庭」佔比達到了34.6%，超過了「標準家庭（夫妻孩子）」和「夫妻2人家庭」等。 #note\n\n不結婚的日本人和他們的生活 https://t.co/jXvtWZVaJD https://t.co/WkVvZJaxHA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            66,
+            71
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jXvtWZVaJD",
+          "expanded_url": "http://bit.ly/2nFQw2D",
+          "display_url": "bit.ly/2nFQw2D",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1178472305820745729,
+          "id_str": "1178472305820745729",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFrGUX4UwAEXfRw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFrGUX4UwAEXfRw.jpg",
+          "url": "https://t.co/WkVvZJaxHA",
+          "display_url": "pic.twitter.com/WkVvZJaxHA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1178472314582650880/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 339,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 339,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 339,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1178472305820745729,
+          "id_str": "1178472305820745729",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/EFrGUX4UwAEXfRw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EFrGUX4UwAEXfRw.jpg",
+          "url": "https://t.co/WkVvZJaxHA",
+          "display_url": "pic.twitter.com/WkVvZJaxHA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1178472314582650880/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 339,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 339,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 339,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 30 00:35:04 +0000 2019",
+    "id": 1178468266034941952,
+    "id_str": "1178468266034941952",
+    "text": "@tzangms @dlackty @business 彭博商業周刊 Bloomberg Businessweek App https://t.co/7juDpvcL6o",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tzangms",
+          "name": "海總理",
+          "id": 690663,
+          "id_str": "690663",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "dlackty",
+          "name": "Richard Lee",
+          "id": 6967662,
+          "id_str": "6967662",
+          "indices": [
+            9,
+            17
+          ]
+        },
+        {
+          "screen_name": "business",
+          "name": "Bloomberg",
+          "id": 34713362,
+          "id_str": "34713362",
+          "indices": [
+            18,
+            27
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7juDpvcL6o",
+          "expanded_url": "https://apps.apple.com/hk/app/peng-bo-shang-ye-zhou-kan/id675601257",
+          "display_url": "apps.apple.com/hk/app/peng-bo…",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1178466525268676614,
+    "in_reply_to_status_id_str": "1178466525268676614",
+    "in_reply_to_user_id": 690663,
+    "in_reply_to_user_id_str": "690663",
+    "in_reply_to_screen_name": "tzangms",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Sep 30 00:32:19 +0000 2019",
+    "id": 1178467573588844544,
+    "id_str": "1178467573588844544",
+    "text": "作者在書中再三引用梭羅於「湖濱散記」內的句子：「我的屋裡有三張椅子，一張方便獨處，兩張供促膝談心，三張為社交需求。」\n\n網絡時代，對話的意義 https://t.co/7YHQT67Cnx\n\n雪莉・特克前一本《在一起孤獨》也很好看… https://t.co/eXbhR2M2E0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7YHQT67Cnx",
+          "expanded_url": "http://bit.ly/2mL3rQK",
+          "display_url": "bit.ly/2mL3rQK",
+          "indices": [
+            71,
+            94
+          ]
+        },
+        {
+          "url": "https://t.co/eXbhR2M2E0",
+          "expanded_url": "https://twitter.com/i/web/status/1178467573588844544",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Sep 29 23:47:23 +0000 2019",
     "id": 1178456267158720513,
     "id_str": "1178456267158720513",
