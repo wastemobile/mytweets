@@ -1,5 +1,439 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Thu Oct 10 12:23:19 +0000 2019",
+    "id": 1182270384114040834,
+    "id_str": "1182270384114040834",
+    "text": "VirtualBox 6.0.12 目前與 macOS 10.15 Catalina 不相容，修正的 6.0.14 將於 10/15 釋出。 #悲報",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "悲報",
+          "indices": [
+            71,
+            74
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 10 11:38:05 +0000 2019",
+    "id": 1182258999397240832,
+    "id_str": "1182258999397240832",
+    "text": "使用 brew bundle 指令之後，並不是高枕無憂、一路綠燈，還是會有各式各樣的小問題排隊等著被解決⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1181790997761544194,
+    "in_reply_to_status_id_str": "1181790997761544194",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 09 15:38:54 +0000 2019",
+    "id": 1181957217047568385,
+    "id_str": "1181957217047568385",
+    "text": "很努力地看 #Netflix 上的《南方公園》（南方四賤客），希望他們能多分點錢。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            6,
+            14
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 09 11:40:26 +0000 2019",
+    "id": 1181897204622970880,
+    "id_str": "1181897204622970880",
+    "text": "RT @TWdoesntLoveMe: 南方公園道歉原文中突然沒頭沒腦出現一句\n「願祝你們今年秋天高粱大豐收！」\n\n這是啥碗糕？\n\n原來整句\n「May this autumn's sorghum harvest be bountiful!」\n\n高粱sorghum的s 與前面au…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TWdoesntLoveMe",
+          "name": "不太OK,台北🌈,我",
+          "id": 2548442492,
+          "id_str": "2548442492",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Oct 09 05:16:17 +0000 2019",
+      "id": 1181800527186690048,
+      "id_str": "1181800527186690048",
+      "text": "南方公園道歉原文中突然沒頭沒腦出現一句\n「願祝你們今年秋天高粱大豐收！」\n\n這是啥碗糕？\n\n原來整句\n「May this autumn's sorghum harvest be bountiful!」\n\n高粱sorghum的s 與… https://t.co/7pMTRCFDo4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7pMTRCFDo4",
+            "expanded_url": "https://twitter.com/i/web/status/1181800527186690048",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2548442492,
+        "id_str": "2548442492",
+        "name": "不太OK,台北🌈,我",
+        "screen_name": "TWdoesntLoveMe",
+        "location": "",
+        "description": "你問我去向何方，我指著大海的方向",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2069,
+        "friends_count": 275,
+        "listed_count": 17,
+        "created_at": "Thu Jun 05 16:59:39 +0000 2014",
+        "favourites_count": 17032,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4343,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/942469663723683840/BiQv99kA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/942469663723683840/BiQv99kA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2548442492/1558211983",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 817,
+      "favorite_count": 1898,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 817,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 09 04:38:25 +0000 2019",
+    "id": 1181790997761544194,
+    "id_str": "1181790997761544194",
+    "text": "又到了這個時候。\n\n清除重裝你的 Mac，不再遲疑 https://t.co/nLxgH2xLby https://t.co/gYtwaye63R",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nLxgH2xLby",
+          "expanded_url": "http://bit.ly/2tBBVVC",
+          "display_url": "bit.ly/2tBBVVC",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1181790983555436544,
+          "id_str": "1181790983555436544",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGaQo12U0AATOJt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGaQo12U0AATOJt.jpg",
+          "url": "https://t.co/gYtwaye63R",
+          "display_url": "pic.twitter.com/gYtwaye63R",
+          "expanded_url": "https://twitter.com/wastemobile/status/1181790997761544194/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 797,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 451,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1800,
+              "h": 1195,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1181790983555436544,
+          "id_str": "1181790983555436544",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGaQo12U0AATOJt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGaQo12U0AATOJt.jpg",
+          "url": "https://t.co/gYtwaye63R",
+          "display_url": "pic.twitter.com/gYtwaye63R",
+          "expanded_url": "https://twitter.com/wastemobile/status/1181790997761544194/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 797,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 451,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1800,
+              "h": 1195,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 26,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Oct 09 03:19:29 +0000 2019",
     "id": 1181771136968691712,
     "id_str": "1181771136968691712",
