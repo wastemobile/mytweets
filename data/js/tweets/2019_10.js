@@ -1,5 +1,366 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Fri Oct 11 03:35:56 +0000 2019",
+    "id": 1182500049600729088,
+    "id_str": "1182500049600729088",
+    "text": "甫獲諾貝爾化學獎、旭化成名譽研究員吉野彰（71歲）說他對科學産生興趣的契機，是這本英國科學家法拉第的著作《蠟燭的故事》。\n\n然後岩波書店的岩波文庫版已累計《蠟燭的故事》印刷71萬部，嚇死人。… https://t.co/Ynk4V6sIqv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ynk4V6sIqv",
+          "expanded_url": "https://twitter.com/i/web/status/1182500049600729088",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 11 02:50:50 +0000 2019",
+    "id": 1182488699629535234,
+    "id_str": "1182488699629535234",
+    "text": "Twitter for Mac 其實就像開個迷你專屬 Twitter 瀏覽器，但我還是裝來用了。 https://t.co/uTVRc9NTlI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uTVRc9NTlI",
+          "expanded_url": "https://twitter.com/applechinfo/status/1182480291505393664",
+          "display_url": "twitter.com/applechinfo/st…",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1182480291505393664,
+    "quoted_status_id_str": "1182480291505393664",
+    "quoted_status": {
+      "created_at": "Fri Oct 11 02:17:25 +0000 2019",
+      "id": 1182480291505393664,
+      "id_str": "1182480291505393664",
+      "text": "Project Catalystを利用しiPadからMacへ移植されたTwitterの公式クライアント「Twitter for Mac」がMac App Storeでリリース。 https://t.co/Ap5j4hKNgy https://t.co/H5yFA1lDhX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ap5j4hKNgy",
+            "expanded_url": "https://applech2.com/archives/20191011-twitter-for-mac-by-project-catalyst.html",
+            "display_url": "applech2.com/archives/20191…",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1182480287910883328,
+            "id_str": "1182480287910883328",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/EGkDjorUcAAIL4Z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EGkDjorUcAAIL4Z.jpg",
+            "url": "https://t.co/H5yFA1lDhX",
+            "display_url": "pic.twitter.com/H5yFA1lDhX",
+            "expanded_url": "https://twitter.com/applechinfo/status/1182480291505393664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1360,
+                "h": 794,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 701,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 397,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1182480287910883328,
+            "id_str": "1182480287910883328",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/EGkDjorUcAAIL4Z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EGkDjorUcAAIL4Z.jpg",
+            "url": "https://t.co/H5yFA1lDhX",
+            "display_url": "pic.twitter.com/H5yFA1lDhX",
+            "expanded_url": "https://twitter.com/applechinfo/status/1182480291505393664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1360,
+                "h": 794,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 701,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 397,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 408930508,
+        "id_str": "408930508",
+        "name": "Appleちゃんねる",
+        "screen_name": "applechinfo",
+        "location": "Japan",
+        "description": "Appleちゃんねる（ http://t.co/aaxjD9GC7G ）の更新アカウントです。",
+        "url": "http://t.co/TWMZhvLSUI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/TWMZhvLSUI",
+                "expanded_url": "http://applech2.com/",
+                "display_url": "applech2.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/aaxjD9GC7G",
+                "expanded_url": "http://applech2.com/",
+                "display_url": "applech2.com",
+                "indices": [
+                  12,
+                  34
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5655,
+        "friends_count": 732,
+        "listed_count": 294,
+        "created_at": "Thu Nov 10 02:21:49 +0000 2011",
+        "favourites_count": 479,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14502,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/682664837898354688/jB5GRfla_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/682664837898354688/jB5GRfla_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 25,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 10 15:48:59 +0000 2019",
+    "id": 1182322141707948032,
+    "id_str": "1182322141707948032",
+    "text": "乾淨重裝 macOS 之後，桌面硬碟多出了一個（HD - 資料），大概查了一下，依舊不明白什麼東西該擺在裡面⋯⋯\n\n更新 macOS 10.15 你需要知道的APFS 磁盘格式的变化 - 系统分区独立加密… https://t.co/xDvmHqUzFI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xDvmHqUzFI",
+          "expanded_url": "https://twitter.com/i/web/status/1182322141707948032",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Thu Oct 10 12:23:19 +0000 2019",
     "id": 1182270384114040834,
     "id_str": "1182270384114040834",
