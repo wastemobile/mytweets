@@ -1,5 +1,277 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Fri Oct 11 09:27:57 +0000 2019",
+    "id": 1182588636845338624,
+    "id_str": "1182588636845338624",
+    "text": "至今看過最讓人信服的理由：村上春樹不符「前之所承、後之所啟」元素，所以得獎機率並不高。\n\n哭哭。\n\n2019諾貝爾文學獎一次頒2年：得獎者是誰？為何又沒有村上春樹？ https://t.co/9vI9BJZaJF https://t.co/mFQvE9WOyT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9vI9BJZaJF",
+          "expanded_url": "http://bit.ly/35oXomj",
+          "display_url": "bit.ly/35oXomj",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1182588626120536064,
+          "id_str": "1182588626120536064",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGlmFv9U8AA3t5A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGlmFv9U8AA3t5A.jpg",
+          "url": "https://t.co/mFQvE9WOyT",
+          "display_url": "pic.twitter.com/mFQvE9WOyT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1182588636845338624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1182588626120536064,
+          "id_str": "1182588626120536064",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGlmFv9U8AA3t5A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGlmFv9U8AA3t5A.jpg",
+          "url": "https://t.co/mFQvE9WOyT",
+          "display_url": "pic.twitter.com/mFQvE9WOyT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1182588636845338624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 11 08:57:40 +0000 2019",
+    "id": 1182581018059890689,
+    "id_str": "1182581018059890689",
+    "text": "絕對是最浪漫的電影，沒有之一。\n\n《似曾相識》（Somewhere in Time, 1980） #Netflix https://t.co/lxIMBTXK2x https://t.co/KDTfxjtbho",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            49,
+            57
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lxIMBTXK2x",
+          "expanded_url": "http://bit.ly/2IDtpgr",
+          "display_url": "bit.ly/2IDtpgr",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1182581011902656512,
+          "id_str": "1182581011902656512",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGlfKiyUcAA3FK5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGlfKiyUcAA3FK5.jpg",
+          "url": "https://t.co/KDTfxjtbho",
+          "display_url": "pic.twitter.com/KDTfxjtbho",
+          "expanded_url": "https://twitter.com/wastemobile/status/1182581018059890689/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1182581011902656512,
+          "id_str": "1182581011902656512",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/EGlfKiyUcAA3FK5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EGlfKiyUcAA3FK5.jpg",
+          "url": "https://t.co/KDTfxjtbho",
+          "display_url": "pic.twitter.com/KDTfxjtbho",
+          "expanded_url": "https://twitter.com/wastemobile/status/1182581018059890689/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Oct 11 03:35:56 +0000 2019",
     "id": 1182500049600729088,
     "id_str": "1182500049600729088",
