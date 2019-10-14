@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Mon Oct 14 01:21:46 +0000 2019",
+    "id": 1183553451461996546,
+    "id_str": "1183553451461996546",
+    "text": "@vista 再等幾次功能更新吧（如果有的話），目前真的蠻陽春的。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "vista",
+          "name": "Vista ",
+          "id": 50803,
+          "id_str": "50803",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1183548549104930816,
+    "in_reply_to_status_id_str": "1183548549104930816",
+    "in_reply_to_user_id": 50803,
+    "in_reply_to_user_id_str": "50803",
+    "in_reply_to_screen_name": "vista",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Oct 11 09:27:57 +0000 2019",
     "id": 1182588636845338624,
     "id_str": "1182588636845338624",
