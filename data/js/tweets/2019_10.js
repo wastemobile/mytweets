@@ -1,5 +1,704 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Mon Oct 14 14:16:28 +0000 2019",
+    "id": 1183748407669612545,
+    "id_str": "1183748407669612545",
+    "text": "RT @guymark: 快來看看 Netflix 上的《大叔的愛》\n\n第一季上架了！ https://t.co/hQ9QZfpoDq https://t.co/lGXyxFLKrn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "guymark",
+          "name": "我這麼蕙質蘭心善解人意  🏳️‍🌈",
+          "id": 222128041,
+          "id_str": "222128041",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hQ9QZfpoDq",
+          "expanded_url": "https://www.netflix.com/title/81011018?s=i&trkid=13747225",
+          "display_url": "netflix.com/title/81011018…",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1183708538436083719,
+          "id_str": "1183708538436083719",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/EG1gpOcUYAcShGm.png",
+          "media_url_https": "https://pbs.twimg.com/media/EG1gpOcUYAcShGm.png",
+          "url": "https://t.co/lGXyxFLKrn",
+          "display_url": "pic.twitter.com/lGXyxFLKrn",
+          "expanded_url": "https://twitter.com/guymark/status/1183708546287816704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 426,
+              "h": 597,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 426,
+              "h": 597,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 426,
+              "h": 597,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1183708546287816704,
+          "source_status_id_str": "1183708546287816704",
+          "source_user_id": 222128041,
+          "source_user_id_str": "222128041"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1183708538436083719,
+          "id_str": "1183708538436083719",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/EG1gpOcUYAcShGm.png",
+          "media_url_https": "https://pbs.twimg.com/media/EG1gpOcUYAcShGm.png",
+          "url": "https://t.co/lGXyxFLKrn",
+          "display_url": "pic.twitter.com/lGXyxFLKrn",
+          "expanded_url": "https://twitter.com/guymark/status/1183708546287816704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 426,
+              "h": 597,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 426,
+              "h": 597,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 426,
+              "h": 597,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1183708546287816704,
+          "source_status_id_str": "1183708546287816704",
+          "source_user_id": 222128041,
+          "source_user_id_str": "222128041"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 14 11:38:04 +0000 2019",
+      "id": 1183708546287816704,
+      "id_str": "1183708546287816704",
+      "text": "快來看看 Netflix 上的《大叔的愛》\n\n第一季上架了！ https://t.co/hQ9QZfpoDq https://t.co/lGXyxFLKrn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hQ9QZfpoDq",
+            "expanded_url": "https://www.netflix.com/title/81011018?s=i&trkid=13747225",
+            "display_url": "netflix.com/title/81011018…",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1183708538436083719,
+            "id_str": "1183708538436083719",
+            "indices": [
+              55,
+              78
+            ],
+            "media_url": "http://pbs.twimg.com/media/EG1gpOcUYAcShGm.png",
+            "media_url_https": "https://pbs.twimg.com/media/EG1gpOcUYAcShGm.png",
+            "url": "https://t.co/lGXyxFLKrn",
+            "display_url": "pic.twitter.com/lGXyxFLKrn",
+            "expanded_url": "https://twitter.com/guymark/status/1183708546287816704/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 426,
+                "h": 597,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 426,
+                "h": 597,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 426,
+                "h": 597,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1183708538436083719,
+            "id_str": "1183708538436083719",
+            "indices": [
+              55,
+              78
+            ],
+            "media_url": "http://pbs.twimg.com/media/EG1gpOcUYAcShGm.png",
+            "media_url_https": "https://pbs.twimg.com/media/EG1gpOcUYAcShGm.png",
+            "url": "https://t.co/lGXyxFLKrn",
+            "display_url": "pic.twitter.com/lGXyxFLKrn",
+            "expanded_url": "https://twitter.com/guymark/status/1183708546287816704/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 426,
+                "h": 597,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 426,
+                "h": 597,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 426,
+                "h": 597,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 222128041,
+        "id_str": "222128041",
+        "name": "我這麼蕙質蘭心善解人意  🏳️‍🌈",
+        "screen_name": "guymark",
+        "location": "台灣",
+        "description": "肌肉甲甲大叔。\n\n我很想打人，能不能讓我狠狠的賞他幾耳光？",
+        "url": "https://t.co/CGctiYoU0W",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CGctiYoU0W",
+                "expanded_url": "http://Kaohsiung.Gay.tw",
+                "display_url": "Kaohsiung.Gay.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2041,
+        "friends_count": 664,
+        "listed_count": 39,
+        "created_at": "Thu Dec 02 14:56:35 +0000 2010",
+        "favourites_count": 16949,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37223,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/906067899680382976/-p_SMDtq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/906067899680382976/-p_SMDtq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/222128041/1484440500",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 26,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 14 10:10:54 +0000 2019",
+    "id": 1183686611894095874,
+    "id_str": "1183686611894095874",
+    "text": "@WanCW 看來還是要等蘋果說明，或是專家實測嘍。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WanCW",
+          "name": "WanCW",
+          "id": 1014046658013741056,
+          "id_str": "1014046658013741056",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1183684370671923200,
+    "in_reply_to_status_id_str": "1183684370671923200",
+    "in_reply_to_user_id": 1014046658013741056,
+    "in_reply_to_user_id_str": "1014046658013741056",
+    "in_reply_to_screen_name": "WanCW",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 14 09:58:28 +0000 2019",
+    "id": 1183683480707665920,
+    "id_str": "1183683480707665920",
+    "text": "但 Mac 上的 Safari 說使用的是「Google 安全瀏覽」服務呀，希望 iPhone 送往騰訊的舉動，只是單純為了中國地區而設。 https://t.co/SpOptgvM4u",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1183683471668998145,
+          "id_str": "1183683471668998145",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/EG1J2JdU8AE0wcC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EG1J2JdU8AE0wcC.jpg",
+          "url": "https://t.co/SpOptgvM4u",
+          "display_url": "pic.twitter.com/SpOptgvM4u",
+          "expanded_url": "https://twitter.com/wastemobile/status/1183683480707665920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 226,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1718,
+              "h": 572,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1183683471668998145,
+          "id_str": "1183683471668998145",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/EG1J2JdU8AE0wcC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EG1J2JdU8AE0wcC.jpg",
+          "url": "https://t.co/SpOptgvM4u",
+          "display_url": "pic.twitter.com/SpOptgvM4u",
+          "expanded_url": "https://twitter.com/wastemobile/status/1183683480707665920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 226,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1718,
+              "h": 572,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 14 02:54:39 +0000 2019",
+    "id": 1183576826653765632,
+    "id_str": "1183576826653765632",
+    "text": "RT @purebox: 秒變億元富翁？最近常聽到的「DL同人」究竟是什麼!? 向作家與編輯一探究竟！ https://t.co/6LPEXlZQYC 我下定決心辭職最大的原因是錢。因為我5年間攢下了約1200萬日圓的存款，應該可以支撐我一段時間。我是帶著如果這些存款也用光了就…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "purebox",
+          "name": "盒",
+          "id": 10144682,
+          "id_str": "10144682",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6LPEXlZQYC",
+          "expanded_url": "http://j.mp/35yUKu4",
+          "display_url": "j.mp/35yUKu4",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 14 02:45:44 +0000 2019",
+      "id": 1183574581778337793,
+      "id_str": "1183574581778337793",
+      "text": "秒變億元富翁？最近常聽到的「DL同人」究竟是什麼!? 向作家與編輯一探究竟！ https://t.co/6LPEXlZQYC 我下定決心辭職最大的原因是錢。因為我5年間攢下了約1200萬日圓的存款，應該可以支撐我一段時間。我是帶著… https://t.co/WtwcSiuxHI",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6LPEXlZQYC",
+            "expanded_url": "http://j.mp/35yUKu4",
+            "display_url": "j.mp/35yUKu4",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "url": "https://t.co/WtwcSiuxHI",
+            "expanded_url": "https://twitter.com/i/web/status/1183574581778337793",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 10144682,
+        "id_str": "10144682",
+        "name": "盒",
+        "screen_name": "purebox",
+        "location": "台中/台南/蘇州/深圳/泰國大城",
+        "description": "🔰字遊字在字拍字言字語字作多情。不辯、不勉強、不雞婆、不做能力影響範圍外的事，是對自己心的溫柔。Pokémon GO訓練家代碼 7456 8858 2017、哈利波特：巫師聯盟代號 5593 0746 2062 有加請告訴我。不定時轉推或自己拍的貓圖。",
+        "url": "https://t.co/SESUcTEPvS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/SESUcTEPvS",
+                "expanded_url": "http://purebox.org",
+                "display_url": "purebox.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2716,
+        "friends_count": 361,
+        "listed_count": 92,
+        "created_at": "Sun Nov 11 04:40:49 +0000 2007",
+        "favourites_count": 59090,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 99010,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E1E8ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/865066634766983168/zQjDsOYp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/865066634766983168/zQjDsOYp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10144682/1502027424",
+        "profile_link_color": "4C99D4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Oct 14 01:21:46 +0000 2019",
     "id": 1183553451461996546,
     "id_str": "1183553451461996546",
