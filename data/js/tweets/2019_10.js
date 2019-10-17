@@ -1,5 +1,229 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Wed Oct 16 15:38:59 +0000 2019",
+    "id": 1184493951178293248,
+    "id_str": "1184493951178293248",
+    "text": "沒錯，這才是樹莓派（該有的樣子）。\n\nDon’t Buy a Raspberry Pi Until You’ve Seen CrowPi All-in-One Kit https://t.co/jInPNjebQU https://t.co/4sZQw77LVz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jInPNjebQU",
+          "expanded_url": "http://bit.ly/32gBRu1",
+          "display_url": "bit.ly/32gBRu1",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1184493936733065216,
+          "id_str": "1184493936733065216",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHAq9bGUEAAupek.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHAq9bGUEAAupek.jpg",
+          "url": "https://t.co/4sZQw77LVz",
+          "display_url": "pic.twitter.com/4sZQw77LVz",
+          "expanded_url": "https://twitter.com/wastemobile/status/1184493951178293248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 670,
+              "h": 377,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 670,
+              "h": 377,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 670,
+              "h": 377,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1184493936733065216,
+          "id_str": "1184493936733065216",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHAq9bGUEAAupek.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHAq9bGUEAAupek.jpg",
+          "url": "https://t.co/4sZQw77LVz",
+          "display_url": "pic.twitter.com/4sZQw77LVz",
+          "expanded_url": "https://twitter.com/wastemobile/status/1184493951178293248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 670,
+              "h": 377,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 670,
+              "h": 377,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 670,
+              "h": 377,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1184493937941073921,
+          "id_str": "1184493937941073921",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHAq9fmU0AEGtpL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHAq9fmU0AEGtpL.jpg",
+          "url": "https://t.co/4sZQw77LVz",
+          "display_url": "pic.twitter.com/4sZQw77LVz",
+          "expanded_url": "https://twitter.com/wastemobile/status/1184493951178293248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 670,
+              "h": 415,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 670,
+              "h": 415,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 670,
+              "h": 415,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 16 01:47:40 +0000 2019",
+    "id": 1184284744030146560,
+    "id_str": "1184284744030146560",
+    "text": "與 macOS 10.15 Catalina 相容的 VirtualBox 6.0.14 如期釋出，homebrew cask 應該晚一點才會更新。\n\nhttps://t.co/d3IWIWJTO8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d3IWIWJTO8",
+          "expanded_url": "https://www.virtualbox.org/wiki/Downloads",
+          "display_url": "virtualbox.org/wiki/Downloads",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1182270384114040834,
+    "in_reply_to_status_id_str": "1182270384114040834",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Oct 15 04:58:26 +0000 2019",
     "id": 1183970364344291329,
     "id_str": "1183970364344291329",
