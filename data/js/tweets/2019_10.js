@@ -1,5 +1,185 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Thu Oct 17 16:27:38 +0000 2019",
+    "id": 1184868584343756800,
+    "id_str": "1184868584343756800",
+    "text": "《婊醬》基本就是《道德浪女：多重關係、開放關係與其他冒險的實用指南》 https://t.co/8qrgQmleP0 這書的真實人生版，或許有人無法接受。 #護家盟絕對聽不下去 cc @tsaiid",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "護家盟絕對聽不下去",
+          "indices": [
+            78,
+            88
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tsaiid",
+          "name": "𝕴-𝕿𝖆 𝕿𝖘𝖆𝖎 蔡依達",
+          "id": 6903072,
+          "id_str": "6903072",
+          "indices": [
+            92,
+            99
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8qrgQmleP0",
+          "expanded_url": "http://bit.ly/2J0QlGG",
+          "display_url": "bit.ly/2J0QlGG",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1184827145605922816,
+    "in_reply_to_status_id_str": "1184827145605922816",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 17 13:42:59 +0000 2019",
+    "id": 1184827145605922816,
+    "id_str": "1184827145605922816",
+    "text": "蘋果將 Podcast 應用獨立出來，確實覺得便利一點。\n\n話說我目前覺得最好聽的 podcast 是《婊醬｜Bitch Up》呢⋯⋯（羞） https://t.co/JF2sSg46Mh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JF2sSg46Mh",
+          "expanded_url": "https://podcasts.apple.com/tw/podcast/%E5%A9%8A%E9%85%B1-bitch-up/id1380654174",
+          "display_url": "podcasts.apple.com/tw/podcast/%E5…",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 17 01:47:01 +0000 2019",
+    "id": 1184646966283620352,
+    "id_str": "1184646966283620352",
+    "text": "除了 Panic Playdate，2020 還有 Analogue Pocket，創新的復古。\n\nAnalogue Pocket is shipping in 2020 for $199… https://t.co/i5UJiUNEq2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/i5UJiUNEq2",
+          "expanded_url": "https://twitter.com/i/web/status/1184646966283620352",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Oct 16 15:38:59 +0000 2019",
     "id": 1184493951178293248,
     "id_str": "1184493951178293248",
