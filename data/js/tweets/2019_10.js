@@ -1,5 +1,482 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Sat Oct 19 05:37:30 +0000 2019",
+    "id": 1185429745732685824,
+    "id_str": "1185429745732685824",
+    "text": "光世代故障，就成了沒有音樂、沒有電視的狀態。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 18 14:26:35 +0000 2019",
+    "id": 1185200505825325056,
+    "id_str": "1185200505825325056",
+    "text": "@abookyun 這⋯⋯還是再等幾次更新好了😤，感謝提供資訊～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "abookyun",
+          "name": "David the Numb ",
+          "id": 435039425,
+          "id_str": "435039425",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1185198996660162560,
+    "in_reply_to_status_id_str": "1185198996660162560",
+    "in_reply_to_user_id": 435039425,
+    "in_reply_to_user_id_str": "435039425",
+    "in_reply_to_screen_name": "abookyun",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 18 12:59:51 +0000 2019",
+    "id": 1185178681217433602,
+    "id_str": "1185178681217433602",
+    "text": "macOS 10.15 Catalina 與 iPhone 之間的拷貝與貼上（通用剪貼板）失效，Wi-Fi, 藍牙與接力功能都開啟了，真是小問題一堆，掉漆得很。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 18 12:52:06 +0000 2019",
+    "id": 1185176729628729347,
+    "id_str": "1185176729628729347",
+    "text": "@chihchun 喔，後來有發現，但這工具已經省能很多事了，很感謝～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "chihchun",
+          "name": "Rex Tsai",
+          "id": 8999482,
+          "id_str": "8999482",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1185163919154761728,
+    "in_reply_to_status_id_str": "1185163919154761728",
+    "in_reply_to_user_id": 8999482,
+    "in_reply_to_user_id_str": "8999482",
+    "in_reply_to_screen_name": "chihchun",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 18 12:39:07 +0000 2019",
+    "id": 1185173464279207936,
+    "id_str": "1185173464279207936",
+    "text": "《洗鈔事務所》已經在 #Netflix 上架了 https://t.co/OaYCcaqLdM\n\n說實話不是部好電影，只是把〈巴拿馬文件〉牽涉的部分事務、以蠻平實兼帶一點戲謔的搬演出來，但至少能讓許多人看個大概。\n\n我希望 Net… https://t.co/DXh0ICkNSj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            11,
+            19
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OaYCcaqLdM",
+          "expanded_url": "https://www.netflix.com/title/80994011",
+          "display_url": "netflix.com/title/80994011",
+          "indices": [
+            24,
+            47
+          ]
+        },
+        {
+          "url": "https://t.co/DXh0ICkNSj",
+          "expanded_url": "https://twitter.com/i/web/status/1185173464279207936",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1178099602244792320,
+    "in_reply_to_status_id_str": "1178099602244792320",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 18 04:09:01 +0000 2019",
+    "id": 1185045091544522752,
+    "id_str": "1185045091544522752",
+    "text": "若有在瀏覽器安裝可執行 Greasy Fork（使用者腳本）管理器（個人慣用 Tampermonkey），就可加上這個「書蟲小幫手」，不用搜尋，立即顯示紙本書是否有電子書、其他平台是否也有賣，極方便。\n\n書蟲小幫手… https://t.co/HeHMM233DW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HeHMM233DW",
+          "expanded_url": "https://twitter.com/i/web/status/1185045091544522752",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 41,
+    "favorite_count": 113,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 18 01:31:21 +0000 2019",
+    "id": 1185005415278370816,
+    "id_str": "1185005415278370816",
+    "text": "RT @thetruelie_: 末日求生的恐怖漫畫《幾近全滅》裏，描述十年前開始人類逐漸變成有組織與社會性的殭屍，只留下很少數的活人相依為命，結伴求生、戰鬥、搜刮物資\n\n開頭主角父女兩人就為了一本繪本而潛入滿是殭屍的房子：\n\n「父親，這件事有必要嗎？」\n「有啊，即使勉強，即使…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thetruelie_",
+          "name": "雛萊",
+          "id": 431569288,
+          "id_str": "431569288",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 18 01:02:05 +0000 2019",
+      "id": 1184998048541208577,
+      "id_str": "1184998048541208577",
+      "text": "末日求生的恐怖漫畫《幾近全滅》裏，描述十年前開始人類逐漸變成有組織與社會性的殭屍，只留下很少數的活人相依為命，結伴求生、戰鬥、搜刮物資\n\n開頭主角父女兩人就為了一本繪本而潛入滿是殭屍的房子：\n\n「父親，這件事有必要嗎？」\n「有啊，… https://t.co/Qqd7IH9Wva",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Qqd7IH9Wva",
+            "expanded_url": "https://twitter.com/i/web/status/1184998048541208577",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 431569288,
+        "id_str": "431569288",
+        "name": "雛萊",
+        "screen_name": "thetruelie_",
+        "location": "",
+        "description": "辛普森小姐的夜裡群像 |\nes | @thetruelie_es",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5599,
+        "friends_count": 91,
+        "listed_count": 38,
+        "created_at": "Thu Dec 08 12:41:21 +0000 2011",
+        "favourites_count": 21201,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22059,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1180333366681333761/iulKkd6y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180333366681333761/iulKkd6y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/431569288/1568193371",
+        "profile_link_color": "2F4F4F",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 38,
+      "favorite_count": 316,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 38,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Oct 17 16:27:38 +0000 2019",
     "id": 1184868584343756800,
     "id_str": "1184868584343756800",
