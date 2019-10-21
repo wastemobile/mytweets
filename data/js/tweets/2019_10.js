@@ -1,5 +1,317 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Mon Oct 21 02:47:21 +0000 2019",
+    "id": 1186111704431640576,
+    "id_str": "1186111704431640576",
+    "text": "如果扣掉 LINE 不算，Twitter 在日本使用率過半、還超過 IG 與 Facebook 的合計，流行程度真高。\n\n日本人愛用什麼社交APP？ https://t.co/U9YREoHsGo https://t.co/gYcnBBg6Fg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/U9YREoHsGo",
+          "expanded_url": "http://bit.ly/33XDFJ1",
+          "display_url": "bit.ly/33XDFJ1",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1186111697150337025,
+          "id_str": "1186111697150337025",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHXqTeSU4AEl8Fg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHXqTeSU4AEl8Fg.jpg",
+          "url": "https://t.co/gYcnBBg6Fg",
+          "display_url": "pic.twitter.com/gYcnBBg6Fg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1186111704431640576/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 400,
+              "h": 432,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 400,
+              "h": 432,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 432,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1186111697150337025,
+          "id_str": "1186111697150337025",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHXqTeSU4AEl8Fg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHXqTeSU4AEl8Fg.jpg",
+          "url": "https://t.co/gYcnBBg6Fg",
+          "display_url": "pic.twitter.com/gYcnBBg6Fg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1186111704431640576/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 400,
+              "h": 432,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 400,
+              "h": 432,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 432,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 40,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 20 05:23:11 +0000 2019",
+    "id": 1185788532050157570,
+    "id_str": "1185788532050157570",
+    "text": "不太妙了⋯⋯「至於Netflix則因專注於原創電影而退出競標」。\n\n好夯！ 南方四賤客串流權利金 傳上看150億元 https://t.co/iFdvAcs4DU https://t.co/EMKzYkzI46",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iFdvAcs4DU",
+          "expanded_url": "http://bit.ly/2BnSGrd",
+          "display_url": "bit.ly/2BnSGrd",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1185788519651803136,
+          "id_str": "1185788519651803136",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHTEYESVAAAvVnu.png",
+          "media_url_https": "https://pbs.twimg.com/media/EHTEYESVAAAvVnu.png",
+          "url": "https://t.co/EMKzYkzI46",
+          "display_url": "pic.twitter.com/EMKzYkzI46",
+          "expanded_url": "https://twitter.com/wastemobile/status/1185788532050157570/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 452,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 452,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 384,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1185788519651803136,
+          "id_str": "1185788519651803136",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHTEYESVAAAvVnu.png",
+          "media_url_https": "https://pbs.twimg.com/media/EHTEYESVAAAvVnu.png",
+          "url": "https://t.co/EMKzYkzI46",
+          "display_url": "pic.twitter.com/EMKzYkzI46",
+          "expanded_url": "https://twitter.com/wastemobile/status/1185788532050157570/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 452,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 452,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 384,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 20 04:32:16 +0000 2019",
+    "id": 1185775716517859328,
+    "id_str": "1185775716517859328",
+    "text": "Twitter for Mac（Catalyst）真的渣到有剩，單純滾滾時間軸還好，遇到輸入就常當，一旦當了連 Safari 都開不了 Twitter 網站，非得結束重啟一次才行。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Oct 19 05:37:30 +0000 2019",
     "id": 1185429745732685824,
     "id_str": "1185429745732685824",
