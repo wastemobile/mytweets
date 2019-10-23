@@ -1,5 +1,382 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Wed Oct 23 01:23:17 +0000 2019",
+    "id": 1186815320507342849,
+    "id_str": "1186815320507342849",
+    "text": "Take Control of Your Data With Helm's Personal Server https://t.co/cIGjV3lpms\n\nHelm’s Personal Server… https://t.co/wfdkqNWg5j",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cIGjV3lpms",
+          "expanded_url": "http://bit.ly/32CX4OR",
+          "display_url": "bit.ly/32CX4OR",
+          "indices": [
+            54,
+            77
+          ]
+        },
+        {
+          "url": "https://t.co/wfdkqNWg5j",
+          "expanded_url": "https://twitter.com/i/web/status/1186815320507342849",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Oct 22 14:19:19 +0000 2019",
+    "id": 1186648230630776833,
+    "id_str": "1186648230630776833",
+    "text": "XD https://t.co/i8xPFuSuEr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1186648219742281729,
+          "id_str": "1186648219742281729",
+          "indices": [
+            3,
+            26
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHfSRMsWoAE7CLX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHfSRMsWoAE7CLX.jpg",
+          "url": "https://t.co/i8xPFuSuEr",
+          "display_url": "pic.twitter.com/i8xPFuSuEr",
+          "expanded_url": "https://twitter.com/wastemobile/status/1186648230630776833/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 562,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 562,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1186648219742281729,
+          "id_str": "1186648219742281729",
+          "indices": [
+            3,
+            26
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHfSRMsWoAE7CLX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHfSRMsWoAE7CLX.jpg",
+          "url": "https://t.co/i8xPFuSuEr",
+          "display_url": "pic.twitter.com/i8xPFuSuEr",
+          "expanded_url": "https://twitter.com/wastemobile/status/1186648230630776833/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 562,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 562,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Tue Oct 22 14:04:33 +0000 2019",
+    "id": 1186644512124362752,
+    "id_str": "1186644512124362752",
+    "text": "沒想到 Ghost 火速就衝到 3.0 了。\n\n看起來新版特別強化了作為 JAMstack 的整合能力（畢竟它是目前 GitHub 星數最高的 Headless CMS），開源官網就是 Ghost + Gatsby 架設的。\n\nG… https://t.co/YcuTWaWwPo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YcuTWaWwPo",
+          "expanded_url": "https://twitter.com/i/web/status/1186644512124362752",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 22 12:47:50 +0000 2019",
+    "id": 1186625208351723520,
+    "id_str": "1186625208351723520",
+    "text": "覺得 n8n 似乎比 Huginn 更容易入手。\n\nn8n - Open Source Alternative for Zapier/tray.io https://t.co/qHLZePEZoa https://t.co/Y62YN3X0yP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qHLZePEZoa",
+          "expanded_url": "http://bit.ly/35UMV21",
+          "display_url": "bit.ly/35UMV21",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1186625200239964162,
+          "id_str": "1186625200239964162",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHe9VSXUcAIQKBE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHe9VSXUcAIQKBE.jpg",
+          "url": "https://t.co/Y62YN3X0yP",
+          "display_url": "pic.twitter.com/Y62YN3X0yP",
+          "expanded_url": "https://twitter.com/wastemobile/status/1186625208351723520/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1485,
+              "h": 863,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 697,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 395,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1186625200239964162,
+          "id_str": "1186625200239964162",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHe9VSXUcAIQKBE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHe9VSXUcAIQKBE.jpg",
+          "url": "https://t.co/Y62YN3X0yP",
+          "display_url": "pic.twitter.com/Y62YN3X0yP",
+          "expanded_url": "https://twitter.com/wastemobile/status/1186625208351723520/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1485,
+              "h": 863,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 697,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 395,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Mon Oct 21 14:42:15 +0000 2019",
     "id": 1186291614630600706,
     "id_str": "1186291614630600706",
