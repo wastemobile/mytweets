@@ -1,5 +1,402 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Fri Oct 25 16:13:50 +0000 2019",
+    "id": 1187764212312854528,
+    "id_str": "1187764212312854528",
+    "text": "自從發現 Firefox 被列在 “Products That Don't Screw Us” 清單，我就更常用它了。\n\nhttps://t.co/xkmwsK2yps",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xkmwsK2yps",
+          "expanded_url": "http://bit.ly/2NaWDoB",
+          "display_url": "bit.ly/2NaWDoB",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Oct 25 15:56:03 +0000 2019",
+    "id": 1187759737065984000,
+    "id_str": "1187759737065984000",
+    "text": "The lost infrastructure of social media. https://t.co/NNzs498hRA #read #indieweb https://t.co/NGhtmXxTq2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "read",
+          "indices": [
+            65,
+            70
+          ]
+        },
+        {
+          "text": "indieweb",
+          "indices": [
+            71,
+            80
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NNzs498hRA",
+          "expanded_url": "http://bit.ly/362Q8ga",
+          "display_url": "bit.ly/362Q8ga",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1187759729436549120,
+          "id_str": "1187759729436549120",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHvFLk-UYAAfZRa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHvFLk-UYAAfZRa.jpg",
+          "url": "https://t.co/NGhtmXxTq2",
+          "display_url": "pic.twitter.com/NGhtmXxTq2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1187759737065984000/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1187759729436549120,
+          "id_str": "1187759729436549120",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHvFLk-UYAAfZRa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHvFLk-UYAAfZRa.jpg",
+          "url": "https://t.co/NGhtmXxTq2",
+          "display_url": "pic.twitter.com/NGhtmXxTq2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1187759737065984000/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Oct 25 14:29:14 +0000 2019",
+    "id": 1187737891063111680,
+    "id_str": "1187737891063111680",
+    "text": "If you don’t have root access, someone else does.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Oct 25 02:20:56 +0000 2019",
+    "id": 1187554607183982592,
+    "id_str": "1187554607183982592",
+    "text": "RT @courselee: 「臺灣文學金典獎」得獎名單揭曉，張貴興《野豬渡河》在圖書類147本作品中奪得年度大獎，獎金100萬元。另有金典獎七名，15萬元：賴香吟《天亮之前的戀愛》、唐諾《我有關聲譽財富和權勢的簡單思索》、夏曼‧藍波安《大海之眼》、洪明道《等路》、王天寬《開房…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "courselee",
+          "name": "courselee",
+          "id": 400495070,
+          "id_str": "400495070",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 25 02:18:36 +0000 2019",
+      "id": 1187554017406144512,
+      "id_str": "1187554017406144512",
+      "text": "「臺灣文學金典獎」得獎名單揭曉，張貴興《野豬渡河》在圖書類147本作品中奪得年度大獎，獎金100萬元。另有金典獎七名，15萬元：賴香吟《天亮之前的戀愛》、唐諾《我有關聲譽財富和權勢的簡單思索》、夏曼‧藍波安《大海之眼》、洪明道《等… https://t.co/33BRARv8BN",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/33BRARv8BN",
+            "expanded_url": "https://twitter.com/i/web/status/1187554017406144512",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 400495070,
+        "id_str": "400495070",
+        "name": "courselee",
+        "screen_name": "courselee",
+        "location": "台灣，台北",
+        "description": "我的流水書影誌。日知錄。沈思錄。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 238,
+        "friends_count": 31,
+        "listed_count": 12,
+        "created_at": "Sat Oct 29 03:56:25 +0000 2011",
+        "favourites_count": 516,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1775,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1611703709/yyyyyy_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611703709/yyyyyy_normal.JPG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/400495070/1397609388",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Oct 25 01:14:48 +0000 2019",
     "id": 1187537962671595520,
     "id_str": "1187537962671595520",
