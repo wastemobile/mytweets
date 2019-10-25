@@ -1,5 +1,706 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Fri Oct 25 01:14:48 +0000 2019",
+    "id": 1187537962671595520,
+    "id_str": "1187537962671595520",
+    "text": "RT @NintendoGC: Amazon US 10 月 22 日至 29 日，電子書買滿 30 美金（不需於同一訂單）將於兩天內發送 20 美金購書金。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "NintendoGC",
+          "name": "Goston  蔥爺",
+          "id": 111259686,
+          "id_str": "111259686",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 25 00:54:04 +0000 2019",
+      "id": 1187532745251024897,
+      "id_str": "1187532745251024897",
+      "text": "Amazon US 10 月 22 日至 29 日，電子書買滿 30 美金（不需於同一訂單）將於兩天內發送 20 美金購書金。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 111259686,
+        "id_str": "111259686",
+        "name": "Goston  蔥爺",
+        "screen_name": "NintendoGC",
+        "location": "Taipei. Taiwan",
+        "description": "此 Twitter 帳號 18 歲以下 Follow 不宜～",
+        "url": "https://t.co/hKNUg5kvfV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/hKNUg5kvfV",
+                "expanded_url": "https://www.goston.net/",
+                "display_url": "goston.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4768,
+        "friends_count": 464,
+        "listed_count": 132,
+        "created_at": "Thu Feb 04 09:19:31 +0000 2010",
+        "favourites_count": 165,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 78418,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717920156173803520/ssD4THQN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/717920156173803520/ssD4THQN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/111259686/1567343381",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 25 00:57:36 +0000 2019",
+    "id": 1187533636482076673,
+    "id_str": "1187533636482076673",
+    "text": "趕快看看 iPhone 有沒有裝這些含惡意程序的應用程式。 https://t.co/TCaMgpEbPQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TCaMgpEbPQ",
+          "expanded_url": "https://twitter.com/lifehacker/status/1187525359673233409",
+          "display_url": "twitter.com/lifehacker/sta…",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1187525359673233409,
+    "quoted_status_id_str": "1187525359673233409",
+    "quoted_status": {
+      "created_at": "Fri Oct 25 00:24:43 +0000 2019",
+      "id": 1187525359673233409,
+      "id_str": "1187525359673233409",
+      "text": "Make sure you didn't download one of these 17 malicious iOS apps: https://t.co/04sRvIOkqf https://t.co/FRkbokVYTR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/04sRvIOkqf",
+            "expanded_url": "http://lifehac.kr/LZYhc9z",
+            "display_url": "lifehac.kr/LZYhc9z",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1187525357609594881,
+            "id_str": "1187525357609594881",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/EHrwBV4WsAEOg_M.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EHrwBV4WsAEOg_M.jpg",
+            "url": "https://t.co/FRkbokVYTR",
+            "display_url": "pic.twitter.com/FRkbokVYTR",
+            "expanded_url": "https://twitter.com/lifehacker/status/1187525359673233409/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 381,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1500,
+                "h": 841,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 673,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1187525357609594881,
+            "id_str": "1187525357609594881",
+            "indices": [
+              90,
+              113
+            ],
+            "media_url": "http://pbs.twimg.com/media/EHrwBV4WsAEOg_M.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EHrwBV4WsAEOg_M.jpg",
+            "url": "https://t.co/FRkbokVYTR",
+            "display_url": "pic.twitter.com/FRkbokVYTR",
+            "expanded_url": "https://twitter.com/lifehacker/status/1187525359673233409/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 381,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1500,
+                "h": 841,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 673,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7144422,
+        "id_str": "7144422",
+        "name": "Lifehacker",
+        "screen_name": "lifehacker",
+        "location": "",
+        "description": "Do everything better.",
+        "url": "https://t.co/XvZbDRnyM0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/XvZbDRnyM0",
+                "expanded_url": "http://lifehacker.com",
+                "display_url": "lifehacker.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4166529,
+        "friends_count": 239,
+        "listed_count": 35719,
+        "created_at": "Fri Jun 29 03:44:14 +0000 2007",
+        "favourites_count": 780,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 79727,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "F8FAF0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145680063289077762/CBL8kAhT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145680063289077762/CBL8kAhT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7144422/1561986388",
+        "profile_link_color": "94B330",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DCE4B2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 24 13:13:23 +0000 2019",
+    "id": 1187356412046757888,
+    "id_str": "1187356412046757888",
+    "text": "我看到這篇才知道⋯⋯\n\nPS4買了6年才知道「Zoom」！日網友的《Code Vein》實用初體驗被瘋狂轉推 https://t.co/jft790IH5k https://t.co/n5zTkmWg6j",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jft790IH5k",
+          "expanded_url": "http://bit.ly/2JjIkwH",
+          "display_url": "bit.ly/2JjIkwH",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1187356399463911426,
+          "id_str": "1187356399463911426",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHpWWrvVUAI5lx_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHpWWrvVUAI5lx_.jpg",
+          "url": "https://t.co/n5zTkmWg6j",
+          "display_url": "pic.twitter.com/n5zTkmWg6j",
+          "expanded_url": "https://twitter.com/wastemobile/status/1187356412046757888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1187356399463911426,
+          "id_str": "1187356399463911426",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHpWWrvVUAI5lx_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHpWWrvVUAI5lx_.jpg",
+          "url": "https://t.co/n5zTkmWg6j",
+          "display_url": "pic.twitter.com/n5zTkmWg6j",
+          "expanded_url": "https://twitter.com/wastemobile/status/1187356412046757888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1187356400600535042,
+          "id_str": "1187356400600535042",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHpWWv-U0AIJOHd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHpWWv-U0AIJOHd.jpg",
+          "url": "https://t.co/n5zTkmWg6j",
+          "display_url": "pic.twitter.com/n5zTkmWg6j",
+          "expanded_url": "https://twitter.com/wastemobile/status/1187356412046757888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 24 13:09:35 +0000 2019",
+    "id": 1187355458249474050,
+    "id_str": "1187355458249474050",
+    "text": "果然 WordPress 生態系幅員廣大。\n\nIndieWeb Plugin for WordPress https://t.co/3Ay4veLei4 https://t.co/xijs9apucl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3Ay4veLei4",
+          "expanded_url": "http://bit.ly/2od6SAc",
+          "display_url": "bit.ly/2od6SAc",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1187355448321593344,
+          "id_str": "1187355448321593344",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHpVfUdVUAAs55t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHpVfUdVUAAs55t.jpg",
+          "url": "https://t.co/xijs9apucl",
+          "display_url": "pic.twitter.com/xijs9apucl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1187355458249474050/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1544,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 220,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 389,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1187355448321593344,
+          "id_str": "1187355448321593344",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/EHpVfUdVUAAs55t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EHpVfUdVUAAs55t.jpg",
+          "url": "https://t.co/xijs9apucl",
+          "display_url": "pic.twitter.com/xijs9apucl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1187355458249474050/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1544,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 220,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 389,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Thu Oct 24 11:41:12 +0000 2019",
     "id": 1187333214773268480,
     "id_str": "1187333214773268480",
