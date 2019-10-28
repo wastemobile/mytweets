@@ -1,5 +1,233 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Mon Oct 28 14:28:05 +0000 2019",
+    "id": 1188824765185679362,
+    "id_str": "1188824765185679362",
+    "text": "在即將到來的美國「全國小說寫作月」 NaNoWriMo，Scrivener 照例提供一整個月免費的「特別試用版」，讓每個人都能用來寫小說。除了軟體、還有特殊的小說模板，如果寫作者達到 11月寫作字數5萬字的目標，就可以用五折購買正… https://t.co/l22qFf3FHa",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/l22qFf3FHa",
+          "expanded_url": "https://twitter.com/i/web/status/1188824765185679362",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 28 02:49:24 +0000 2019",
+    "id": 1188648933355974656,
+    "id_str": "1188648933355974656",
+    "text": "RT @vista: 請多支持。（鞠躬） https://t.co/J60wrDjBG1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "vista",
+          "name": "Vista ",
+          "id": 50803,
+          "id_str": "50803",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/J60wrDjBG1",
+          "expanded_url": "https://www.books.com.tw/exep/assp.php/vista/products/0010838761?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201910",
+          "display_url": "books.com.tw/exep/assp.php/…",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 28 02:47:51 +0000 2019",
+      "id": 1188648542828675072,
+      "id_str": "1188648542828675072",
+      "text": "請多支持。（鞠躬） https://t.co/J60wrDjBG1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/J60wrDjBG1",
+            "expanded_url": "https://www.books.com.tw/exep/assp.php/vista/products/0010838761?utm_source=vista&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-201910",
+            "display_url": "books.com.tw/exep/assp.php/…",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 50803,
+        "id_str": "50803",
+        "name": "Vista ",
+        "screen_name": "vista",
+        "location": "Taipei, Taiwan",
+        "description": "臺灣電子商務創業聯誼會理事長",
+        "url": "https://t.co/KR8Bp6T6st",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/KR8Bp6T6st",
+                "expanded_url": "https://www.vistacheng.com/",
+                "display_url": "vistacheng.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 28173,
+        "friends_count": 2452,
+        "listed_count": 206,
+        "created_at": "Fri Dec 08 15:36:39 +0000 2006",
+        "favourites_count": 1715,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 39965,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/520321755/vista_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/520321755/vista_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50803/1398294746",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Oct 26 13:14:40 +0000 2019",
     "id": 1188081509602709504,
     "id_str": "1188081509602709504",
