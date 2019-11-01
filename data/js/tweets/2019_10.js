@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2019_10 = [
   {
+    "created_at": "Thu Oct 31 02:09:34 +0000 2019",
+    "id": 1189726072738156544,
+    "id_str": "1189726072738156544",
+    "text": "@tg_ngeulalna 真的沒用，而且 macOS Catalina 還是乾淨安裝的，各種方法都試過，已放棄。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tg_ngeulalna",
+          "name": "廢物一個",
+          "id": 767337883581583360,
+          "id_str": "767337883581583360",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1189723299682512896,
+    "in_reply_to_status_id_str": "1189723299682512896",
+    "in_reply_to_user_id": 767337883581583360,
+    "in_reply_to_user_id_str": "767337883581583360",
+    "in_reply_to_screen_name": "tg_ngeulalna",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 31 01:59:00 +0000 2019",
+    "id": 1189723413503459331,
+    "id_str": "1189723413503459331",
+    "text": "@jimmy_su 兩週前試過一次，iCloud Drive 重新同步耗時費日卻沒有解決，決定不管它，算了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jimmy_su",
+          "name": "Jimmy Su",
+          "id": 1982151,
+          "id_str": "1982151",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1189722203434020864,
+    "in_reply_to_status_id_str": "1189722203434020864",
+    "in_reply_to_user_id": 1982151,
+    "in_reply_to_user_id_str": "1982151",
+    "in_reply_to_screen_name": "jimmy_su",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Oct 31 01:19:20 +0000 2019",
     "id": 1189713432351666176,
     "id_str": "1189713432351666176",
