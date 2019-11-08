@@ -1,5 +1,69 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Thu Nov 07 16:30:23 +0000 2019",
+    "id": 1192479421594161152,
+    "id_str": "1192479421594161152",
+    "text": "講得還是很抽象⋯⋯（創投？）\n\n【賈文青相談室】文策院手握上百億到底要做甚麼？董事長來說清楚，講明白！S2E9 Feat. 丁曉菁 https://t.co/IiQv0eDPVn 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            93,
+            101
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IiQv0eDPVn",
+          "expanded_url": "https://youtu.be/ffwLcDn8LRY",
+          "display_url": "youtu.be/ffwLcDn8LRY",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Nov 05 16:09:36 +0000 2019",
     "id": 1191749414294974464,
     "id_str": "1191749414294974464",
