@@ -1,5 +1,271 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Fri Nov 08 16:37:26 +0000 2019",
+    "id": 1192843582014545920,
+    "id_str": "1192843582014545920",
+    "text": "@POT11222449 這原則可以同意；但這次事件從已看到的資料、第三方的輔助說法，以及廠商的事後處理方式、訴訟提出的資料種種來判斷，這間公司沒什麼信譽可言。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "POT11222449",
+          "name": "清澄的死魚眼大叔",
+          "id": 2465856127,
+          "id_str": "2465856127",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1192833315872464896,
+    "in_reply_to_status_id_str": "1192833315872464896",
+    "in_reply_to_user_id": 2465856127,
+    "in_reply_to_user_id_str": "2465856127",
+    "in_reply_to_screen_name": "POT11222449",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 08 14:08:10 +0000 2019",
+    "id": 1192806018750640128,
+    "id_str": "1192806018750640128",
+    "text": "Twitter for Mac 距離 Tweetbot 大概還有一個太平洋那麼遠，拜託 Twitter 就重新把 APIs 開一開，送點廣告出來大家應該也沒意見吧⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 08 13:44:18 +0000 2019",
+    "id": 1192800010745700353,
+    "id_str": "1192800010745700353",
+    "text": "⋯⋯北市衛生局日前已針對「產地標示不實」一項對西雅圖予以裁罰4萬元，並要求在年底前將產品回收改正。至於「16-O-甲基咖啡醇」含量的摻混疑義，北市衛生局至今仍表示還在調查中⋯⋯\n\n消費者權益真是不值錢。\n\n揭發西雅圖咖啡摻混之後才… https://t.co/kB0FPI15oc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kB0FPI15oc",
+          "expanded_url": "https://twitter.com/i/web/status/1192800010745700353",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 08 03:18:45 +0000 2019",
+    "id": 1192642587808583681,
+    "id_str": "1192642587808583681",
+    "text": "「本來想囉唆一下，但算了，我們來了。」\n\n全新專輯《遜到簡直是個藝術品》於專場當日 2019 年 11 月 9 日（Legacy Taipei）首賣，YouTube 已經有整張，Apple Music 還要等。\n\n反正我不要死得太… https://t.co/AlR4ml9fkf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AlR4ml9fkf",
+          "expanded_url": "https://twitter.com/i/web/status/1192642587808583681",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 08 03:11:25 +0000 2019",
+    "id": 1192640739622051840,
+    "id_str": "1192640739622051840",
+    "text": "威廉‧吉布森1982年去電影院看初次上映的《銀翼殺手》：「沒救了，（我的小說）註定失敗。全世界的人都會以為是我從這部美得嚇人的電影裡抄走了視覺藝術手法。」\n\n我們被暴政、黑金跟這副會腐朽的身體所統治：威廉‧吉布森《神經喚術士》… https://t.co/GvkgTxFhqz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GvkgTxFhqz",
+          "expanded_url": "https://twitter.com/i/web/status/1192640739622051840",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Nov 07 16:30:23 +0000 2019",
     "id": 1192479421594161152,
     "id_str": "1192479421594161152",
