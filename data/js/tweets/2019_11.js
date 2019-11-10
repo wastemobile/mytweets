@@ -1,5 +1,791 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Sat Nov 09 15:58:22 +0000 2019",
+    "id": 1193196138444099584,
+    "id_str": "1193196138444099584",
+    "text": "RT @remonwangxt: 謝謝神戶市議員岡田先生的熱情推薦，這是一本即使是華人也不容錯過的好書😸\n中文電子版《變態辣椒──流亡中的漫畫家》購買方式\n①註冊和登錄美國亞馬遜賬戶，需將住址登記為美國，不然無法顯示可購買選項\n②可支付美元的信用卡 \n③有kindle閱讀器或k…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "remonwangxt",
+          "name": "变态辣椒RebelPepper",
+          "id": 245354027,
+          "id_str": "245354027",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 09 15:30:48 +0000 2019",
+      "id": 1193189200532783105,
+      "id_str": "1193189200532783105",
+      "text": "謝謝神戶市議員岡田先生的熱情推薦，這是一本即使是華人也不容錯過的好書😸\n中文電子版《變態辣椒──流亡中的漫畫家》購買方式\n①註冊和登錄美國亞馬遜賬戶，需將住址登記為美國，不然無法顯示可購買選項\n②可支付美元的信用卡 \n③有kind… https://t.co/fMnH1uSuS0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fMnH1uSuS0",
+            "expanded_url": "https://twitter.com/i/web/status/1193189200532783105",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 245354027,
+        "id_str": "245354027",
+        "name": "变态辣椒RebelPepper",
+        "screen_name": "remonwangxt",
+        "location": "Falls Church, VA",
+        "description": "政治漫畫/肖像漫畫/商業漫畫/創意設計顧問 商洽聯繫：remonwangxt@gmail.com 個人言論不代表自由亞洲電台(RFA)公司的意見 Paypal打賞通道》》》 https://t.co/OUfFTNHCiC",
+        "url": "https://t.co/BZQhlAMYK8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/BZQhlAMYK8",
+                "expanded_url": "http://rebelpeppercartoons.com",
+                "display_url": "rebelpeppercartoons.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/OUfFTNHCiC",
+                "expanded_url": "http://paypal.me/LimingWang1973",
+                "display_url": "paypal.me/LimingWang1973",
+                "indices": [
+                  87,
+                  110
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 368822,
+        "friends_count": 379,
+        "listed_count": 1328,
+        "created_at": "Mon Jan 31 14:05:50 +0000 2011",
+        "favourites_count": 539,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14190,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1630123218/03_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1630123218/03_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/245354027/1565547368",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "d9444ad74f3ab7f4",
+        "url": "https://api.twitter.com/1.1/geo/id/d9444ad74f3ab7f4.json",
+        "place_type": "city",
+        "name": "Merrifield",
+        "full_name": "Merrifield, VA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.274342,
+                38.86503
+              ],
+              [
+                -77.2176593,
+                38.86503
+              ],
+              [
+                -77.2176593,
+                38.8901386
+              ],
+              [
+                -77.274342,
+                38.8901386
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1193163468288839681,
+      "quoted_status_id_str": "1193163468288839681",
+      "quoted_status": {
+        "created_at": "Sat Nov 09 13:48:33 +0000 2019",
+        "id": 1193163468288839681,
+        "id_str": "1193163468288839681",
+        "text": "亡命漫画家が描く中国共産党の真実❗️\n辣椒@remonwangxt『マンガで読む・嘘つき中国共産党』\n大変な名作です。是非買って応援しましょう❗️\nhttps://t.co/2vL537BaTY\n\n（４）恐ろしい中国共産党の人命軽視 https://t.co/fXXSoit5Zm",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+            {
+              "screen_name": "remonwangxt",
+              "name": "变态辣椒RebelPepper",
+              "id": 245354027,
+              "id_str": "245354027",
+              "indices": [
+                21,
+                33
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2vL537BaTY",
+              "expanded_url": "https://www.amazon.co.jp/dp/4105070215",
+              "display_url": "amazon.co.jp/dp/4105070215",
+              "indices": [
+                74,
+                97
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1193163461368238081,
+              "id_str": "1193163461368238081",
+              "indices": [
+                117,
+                140
+              ],
+              "media_url": "http://pbs.twimg.com/media/EI732LHUUAEhZR6.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EI732LHUUAEhZR6.jpg",
+              "url": "https://t.co/fXXSoit5Zm",
+              "display_url": "pic.twitter.com/fXXSoit5Zm",
+              "expanded_url": "https://twitter.com/okada_tarumi/status/1193163468288839681/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 856,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 485,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1585,
+                  "h": 1131,
+                  "resize": "fit"
+                }
+              },
+              "features": {
+                "medium": {
+                  "faces": [
+                    {
+                      "x": 54,
+                      "y": 244,
+                      "h": 49,
+                      "w": 49
+                    },
+                    {
+                      "x": 483,
+                      "y": 725,
+                      "h": 51,
+                      "w": 51
+                    },
+                    {
+                      "x": 877,
+                      "y": 573,
+                      "h": 124,
+                      "w": 124
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "x": 30,
+                      "y": 138,
+                      "h": 28,
+                      "w": 28
+                    },
+                    {
+                      "x": 274,
+                      "y": 411,
+                      "h": 29,
+                      "w": 29
+                    },
+                    {
+                      "x": 497,
+                      "y": 325,
+                      "h": 70,
+                      "w": 70
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": [
+                    {
+                      "x": 72,
+                      "y": 323,
+                      "h": 66,
+                      "w": 66
+                    },
+                    {
+                      "x": 639,
+                      "y": 958,
+                      "h": 68,
+                      "w": 68
+                    },
+                    {
+                      "x": 1159,
+                      "y": 758,
+                      "h": 164,
+                      "w": 164
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "x": 72,
+                      "y": 323,
+                      "h": 66,
+                      "w": 66
+                    },
+                    {
+                      "x": 639,
+                      "y": 958,
+                      "h": 68,
+                      "w": 68
+                    },
+                    {
+                      "x": 1159,
+                      "y": 758,
+                      "h": 164,
+                      "w": 164
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1193163461368238081,
+              "id_str": "1193163461368238081",
+              "indices": [
+                117,
+                140
+              ],
+              "media_url": "http://pbs.twimg.com/media/EI732LHUUAEhZR6.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EI732LHUUAEhZR6.jpg",
+              "url": "https://t.co/fXXSoit5Zm",
+              "display_url": "pic.twitter.com/fXXSoit5Zm",
+              "expanded_url": "https://twitter.com/okada_tarumi/status/1193163468288839681/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 856,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 485,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1585,
+                  "h": 1131,
+                  "resize": "fit"
+                }
+              },
+              "features": {
+                "medium": {
+                  "faces": [
+                    {
+                      "x": 54,
+                      "y": 244,
+                      "h": 49,
+                      "w": 49
+                    },
+                    {
+                      "x": 483,
+                      "y": 725,
+                      "h": 51,
+                      "w": 51
+                    },
+                    {
+                      "x": 877,
+                      "y": 573,
+                      "h": 124,
+                      "w": 124
+                    }
+                  ]
+                },
+                "small": {
+                  "faces": [
+                    {
+                      "x": 30,
+                      "y": 138,
+                      "h": 28,
+                      "w": 28
+                    },
+                    {
+                      "x": 274,
+                      "y": 411,
+                      "h": 29,
+                      "w": 29
+                    },
+                    {
+                      "x": 497,
+                      "y": 325,
+                      "h": 70,
+                      "w": 70
+                    }
+                  ]
+                },
+                "large": {
+                  "faces": [
+                    {
+                      "x": 72,
+                      "y": 323,
+                      "h": 66,
+                      "w": 66
+                    },
+                    {
+                      "x": 639,
+                      "y": 958,
+                      "h": 68,
+                      "w": 68
+                    },
+                    {
+                      "x": 1159,
+                      "y": 758,
+                      "h": 164,
+                      "w": 164
+                    }
+                  ]
+                },
+                "orig": {
+                  "faces": [
+                    {
+                      "x": 72,
+                      "y": 323,
+                      "h": 66,
+                      "w": 66
+                    },
+                    {
+                      "x": 639,
+                      "y": 958,
+                      "h": 68,
+                      "w": 68
+                    },
+                    {
+                      "x": 1159,
+                      "y": 758,
+                      "h": 164,
+                      "w": 164
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1111798167408803840,
+          "id_str": "1111798167408803840",
+          "name": "神戸市会議員 岡田ゆうじ",
+          "screen_name": "okada_tarumi",
+          "location": "兵庫 神戸市 垂水区",
+          "description": "活動報告等メインはこちら→　https://t.co/3YT4yGIqoS\n自民党所属。Twitterでは政治活動に関係ない時局の私見をつぶやきます。\n外務省「日本文化としての旭日旗」https://t.co/LlTPQyBum0",
+          "url": "https://t.co/Exfuzbfd1l",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/Exfuzbfd1l",
+                  "expanded_url": "http://www.okadayuji.net/",
+                  "display_url": "okadayuji.net",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/3YT4yGIqoS",
+                  "expanded_url": "https://www.facebook.com/yuji.okada.31392",
+                  "display_url": "facebook.com/yuji.okada.313…",
+                  "indices": [
+                    14,
+                    37
+                  ]
+                },
+                {
+                  "url": "https://t.co/LlTPQyBum0",
+                  "expanded_url": "https://www.mofa.go.jp/mofaj/files/000481575.pdf",
+                  "display_url": "mofa.go.jp/mofaj/files/00…",
+                  "indices": [
+                    92,
+                    115
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 4657,
+          "friends_count": 879,
+          "listed_count": 55,
+          "created_at": "Sat Mar 30 01:11:54 +0000 2019",
+          "favourites_count": 5166,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 1101,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1176028607971352576/6bU196dt_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176028607971352576/6bU196dt_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1111798167408803840/1555987309",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": true,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 90,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+      },
+      "retweet_count": 40,
+      "favorite_count": 148,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1193163468288839681,
+    "quoted_status_id_str": "1193163468288839681",
+    "retweet_count": 40,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 09 06:58:25 +0000 2019",
+    "id": 1193060256198184960,
+    "id_str": "1193060256198184960",
+    "text": "想要這台。\n\n在黑色星期五開賣 樂高推出1989年版蝙蝠車套裝 https://t.co/rbCaB1CeNd https://t.co/KfcAjzI36P",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rbCaB1CeNd",
+          "expanded_url": "http://bit.ly/2K5UFFn",
+          "display_url": "bit.ly/2K5UFFn",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1193060164393295874,
+          "id_str": "1193060164393295874",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/EI6Z5f5U4AIoWKB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EI6Z5f5U4AIoWKB.jpg",
+          "url": "https://t.co/KfcAjzI36P",
+          "display_url": "pic.twitter.com/KfcAjzI36P",
+          "expanded_url": "https://twitter.com/wastemobile/status/1193060256198184960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 679,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 462,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 679,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1193060164393295874,
+          "id_str": "1193060164393295874",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/EI6Z5f5U4AIoWKB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EI6Z5f5U4AIoWKB.jpg",
+          "url": "https://t.co/KfcAjzI36P",
+          "display_url": "pic.twitter.com/KfcAjzI36P",
+          "expanded_url": "https://twitter.com/wastemobile/status/1193060256198184960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 679,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 462,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 679,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Nov 08 16:37:26 +0000 2019",
     "id": 1192843582014545920,
     "id_str": "1192843582014545920",
