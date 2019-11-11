@@ -1,5 +1,246 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Sun Nov 10 17:04:48 +0000 2019",
+    "id": 1193575244839170048,
+    "id_str": "1193575244839170048",
+    "text": "看看這《文學論戰懶人包》就算了，我懶。\n\nhttps://t.co/80KK8GOhop https://t.co/r0CbQAwQqf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/80KK8GOhop",
+          "expanded_url": "http://bit.ly/2pPbTA0",
+          "display_url": "bit.ly/2pPbTA0",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1193575234638475264,
+          "id_str": "1193575234638475264",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJBuWiFUcAAL5P4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJBuWiFUcAAL5P4.jpg",
+          "url": "https://t.co/r0CbQAwQqf",
+          "display_url": "pic.twitter.com/r0CbQAwQqf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1193575244839170048/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1002,
+              "h": 1270,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 537,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 947,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1193575234638475264,
+          "id_str": "1193575234638475264",
+          "indices": [
+            45,
+            68
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJBuWiFUcAAL5P4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJBuWiFUcAAL5P4.jpg",
+          "url": "https://t.co/r0CbQAwQqf",
+          "display_url": "pic.twitter.com/r0CbQAwQqf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1193575244839170048/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1002,
+              "h": 1270,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 537,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 947,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 10 14:08:27 +0000 2019",
+    "id": 1193530863192903680,
+    "id_str": "1193530863192903680",
+    "text": "看到有人用 AMD OSX Vanilla Guide https://t.co/NAcQ4Eroy0 裝一台 AMD Ryzen Hackintosh，頗便利的樣子。\n\nCasper - The Ryzen 3600 Hacki… https://t.co/LFW33Yxh8G",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NAcQ4Eroy0",
+          "expanded_url": "https://vanilla.amd-osx.com",
+          "display_url": "vanilla.amd-osx.com",
+          "indices": [
+            28,
+            51
+          ]
+        },
+        {
+          "url": "https://t.co/LFW33Yxh8G",
+          "expanded_url": "https://twitter.com/i/web/status/1193530863192903680",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 09 15:58:22 +0000 2019",
     "id": 1193196138444099584,
     "id_str": "1193196138444099584",
