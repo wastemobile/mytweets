@@ -1,5 +1,2257 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Tue Nov 12 02:33:19 +0000 2019",
+    "id": 1194080702729531392,
+    "id_str": "1194080702729531392",
+    "text": "@arguskao 完全無關",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "arguskao",
+          "name": "高藥師",
+          "id": 5522882,
+          "id_str": "5522882",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1194073064406802432,
+    "in_reply_to_status_id_str": "1194073064406802432",
+    "in_reply_to_user_id": 5522882,
+    "in_reply_to_user_id_str": "5522882",
+    "in_reply_to_screen_name": "arguskao",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 11 12:27:00 +0000 2019",
+    "id": 1193867719768064000,
+    "id_str": "1193867719768064000",
+    "text": "RT @linkgctd: 愛國者法案最新一集在討論心理健康心理疾病\n天哪真的太好看了\n真希望大家看看 https://t.co/wTy9JMOcBi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "linkgctd",
+          "name": "Lin爺爺沒有利歐路",
+          "id": 3189180056,
+          "id_str": "3189180056",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1193867611655655424,
+          "id_str": "1193867611655655424",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJF4RHWUUAAGm1Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJF4RHWUUAAGm1Z.jpg",
+          "url": "https://t.co/wTy9JMOcBi",
+          "display_url": "pic.twitter.com/wTy9JMOcBi",
+          "expanded_url": "https://twitter.com/linkgctd/status/1193867619197059072/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 967,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 642,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 967,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1193867619197059072,
+          "source_status_id_str": "1193867619197059072",
+          "source_user_id": 3189180056,
+          "source_user_id_str": "3189180056",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 357,
+                  "y": 187,
+                  "h": 112,
+                  "w": 112
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 237,
+                  "y": 124,
+                  "h": 74,
+                  "w": 74
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 357,
+                  "y": 187,
+                  "h": 112,
+                  "w": 112
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 357,
+                  "y": 187,
+                  "h": 112,
+                  "w": 112
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1193867611655655424,
+          "id_str": "1193867611655655424",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJF4RHWUUAAGm1Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJF4RHWUUAAGm1Z.jpg",
+          "url": "https://t.co/wTy9JMOcBi",
+          "display_url": "pic.twitter.com/wTy9JMOcBi",
+          "expanded_url": "https://twitter.com/linkgctd/status/1193867619197059072/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 967,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 642,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 967,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1193867619197059072,
+          "source_status_id_str": "1193867619197059072",
+          "source_user_id": 3189180056,
+          "source_user_id_str": "3189180056",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 357,
+                  "y": 187,
+                  "h": 112,
+                  "w": 112
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 237,
+                  "y": 124,
+                  "h": 74,
+                  "w": 74
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 357,
+                  "y": 187,
+                  "h": 112,
+                  "w": 112
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 357,
+                  "y": 187,
+                  "h": 112,
+                  "w": 112
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": 1193867611655684097,
+          "id_str": "1193867611655684097",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJF4RHWUwAE4lyx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJF4RHWUwAE4lyx.jpg",
+          "url": "https://t.co/wTy9JMOcBi",
+          "display_url": "pic.twitter.com/wTy9JMOcBi",
+          "expanded_url": "https://twitter.com/linkgctd/status/1193867619197059072/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 448,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1193867619197059072,
+          "source_status_id_str": "1193867619197059072",
+          "source_user_id": 3189180056,
+          "source_user_id_str": "3189180056",
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 217,
+                  "y": 128,
+                  "h": 29,
+                  "w": 29
+                },
+                {
+                  "x": 412,
+                  "y": 137,
+                  "h": 79,
+                  "w": 79
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 327,
+                  "y": 193,
+                  "h": 45,
+                  "w": 45
+                },
+                {
+                  "x": 621,
+                  "y": 207,
+                  "h": 119,
+                  "w": 119
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 327,
+                  "y": 193,
+                  "h": 45,
+                  "w": 45
+                },
+                {
+                  "x": 621,
+                  "y": 207,
+                  "h": 119,
+                  "w": 119
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 327,
+                  "y": 193,
+                  "h": 45,
+                  "w": 45
+                },
+                {
+                  "x": 621,
+                  "y": 207,
+                  "h": 119,
+                  "w": 119
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": 1193867611651461122,
+          "id_str": "1193867611651461122",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJF4RHVUUAIVrOf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJF4RHVUUAIVrOf.jpg",
+          "url": "https://t.co/wTy9JMOcBi",
+          "display_url": "pic.twitter.com/wTy9JMOcBi",
+          "expanded_url": "https://twitter.com/linkgctd/status/1193867619197059072/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1193867619197059072,
+          "source_status_id_str": "1193867619197059072",
+          "source_user_id": 3189180056,
+          "source_user_id_str": "3189180056",
+          "features": {
+            "orig": {
+              "faces": [
+                {
+                  "x": 349,
+                  "y": 358,
+                  "h": 53,
+                  "w": 53
+                },
+                {
+                  "x": 667,
+                  "y": 416,
+                  "h": 114,
+                  "w": 114
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 231,
+                  "y": 237,
+                  "h": 35,
+                  "w": 35
+                },
+                {
+                  "x": 442,
+                  "y": 276,
+                  "h": 75,
+                  "w": 75
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 349,
+                  "y": 358,
+                  "h": 53,
+                  "w": 53
+                },
+                {
+                  "x": 667,
+                  "y": 416,
+                  "h": 114,
+                  "w": 114
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 349,
+                  "y": 358,
+                  "h": 53,
+                  "w": 53
+                },
+                {
+                  "x": 667,
+                  "y": 416,
+                  "h": 114,
+                  "w": 114
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": 1193867611655700483,
+          "id_str": "1193867611655700483",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJF4RHWVAAMETkL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJF4RHWVAAMETkL.jpg",
+          "url": "https://t.co/wTy9JMOcBi",
+          "display_url": "pic.twitter.com/wTy9JMOcBi",
+          "expanded_url": "https://twitter.com/linkgctd/status/1193867619197059072/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 870,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 870,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 578,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1193867619197059072,
+          "source_status_id_str": "1193867619197059072",
+          "source_user_id": 3189180056,
+          "source_user_id_str": "3189180056",
+          "features": {
+            "medium": {
+              "faces": [
+                {
+                  "x": 190,
+                  "y": 287,
+                  "h": 43,
+                  "w": 43
+                },
+                {
+                  "x": 720,
+                  "y": 361,
+                  "h": 55,
+                  "w": 55
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 190,
+                  "y": 287,
+                  "h": 43,
+                  "w": 43
+                },
+                {
+                  "x": 720,
+                  "y": 361,
+                  "h": 55,
+                  "w": 55
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 190,
+                  "y": 287,
+                  "h": 43,
+                  "w": 43
+                },
+                {
+                  "x": 720,
+                  "y": 361,
+                  "h": 55,
+                  "w": 55
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 126,
+                  "y": 190,
+                  "h": 28,
+                  "w": 28
+                },
+                {
+                  "x": 478,
+                  "y": 239,
+                  "h": 36,
+                  "w": 36
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 11 12:26:36 +0000 2019",
+      "id": 1193867619197059072,
+      "id_str": "1193867619197059072",
+      "text": "愛國者法案最新一集在討論心理健康心理疾病\n天哪真的太好看了\n真希望大家看看 https://t.co/wTy9JMOcBi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1193867611655655424,
+            "id_str": "1193867611655655424",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJF4RHWUUAAGm1Z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJF4RHWUUAAGm1Z.jpg",
+            "url": "https://t.co/wTy9JMOcBi",
+            "display_url": "pic.twitter.com/wTy9JMOcBi",
+            "expanded_url": "https://twitter.com/linkgctd/status/1193867619197059072/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 967,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 642,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 967,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 357,
+                    "y": 187,
+                    "h": 112,
+                    "w": 112
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 237,
+                    "y": 124,
+                    "h": 74,
+                    "w": 74
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 357,
+                    "y": 187,
+                    "h": 112,
+                    "w": 112
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 357,
+                    "y": 187,
+                    "h": 112,
+                    "w": 112
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1193867611655655424,
+            "id_str": "1193867611655655424",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJF4RHWUUAAGm1Z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJF4RHWUUAAGm1Z.jpg",
+            "url": "https://t.co/wTy9JMOcBi",
+            "display_url": "pic.twitter.com/wTy9JMOcBi",
+            "expanded_url": "https://twitter.com/linkgctd/status/1193867619197059072/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 967,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 642,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 967,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 357,
+                    "y": 187,
+                    "h": 112,
+                    "w": 112
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 237,
+                    "y": 124,
+                    "h": 74,
+                    "w": 74
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 357,
+                    "y": 187,
+                    "h": 112,
+                    "w": 112
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 357,
+                    "y": 187,
+                    "h": 112,
+                    "w": 112
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": 1193867611655684097,
+            "id_str": "1193867611655684097",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJF4RHWUwAE4lyx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJF4RHWUwAE4lyx.jpg",
+            "url": "https://t.co/wTy9JMOcBi",
+            "display_url": "pic.twitter.com/wTy9JMOcBi",
+            "expanded_url": "https://twitter.com/linkgctd/status/1193867619197059072/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 448,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": [
+                  {
+                    "x": 217,
+                    "y": 128,
+                    "h": 29,
+                    "w": 29
+                  },
+                  {
+                    "x": 412,
+                    "y": 137,
+                    "h": 79,
+                    "w": 79
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 327,
+                    "y": 193,
+                    "h": 45,
+                    "w": 45
+                  },
+                  {
+                    "x": 621,
+                    "y": 207,
+                    "h": 119,
+                    "w": 119
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "x": 327,
+                    "y": 193,
+                    "h": 45,
+                    "w": 45
+                  },
+                  {
+                    "x": 621,
+                    "y": 207,
+                    "h": 119,
+                    "w": 119
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 327,
+                    "y": 193,
+                    "h": 45,
+                    "w": 45
+                  },
+                  {
+                    "x": 621,
+                    "y": 207,
+                    "h": 119,
+                    "w": 119
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": 1193867611651461122,
+            "id_str": "1193867611651461122",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJF4RHVUUAIVrOf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJF4RHVUUAIVrOf.jpg",
+            "url": "https://t.co/wTy9JMOcBi",
+            "display_url": "pic.twitter.com/wTy9JMOcBi",
+            "expanded_url": "https://twitter.com/linkgctd/status/1193867619197059072/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1024,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "orig": {
+                "faces": [
+                  {
+                    "x": 349,
+                    "y": 358,
+                    "h": 53,
+                    "w": 53
+                  },
+                  {
+                    "x": 667,
+                    "y": 416,
+                    "h": 114,
+                    "w": 114
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 231,
+                    "y": 237,
+                    "h": 35,
+                    "w": 35
+                  },
+                  {
+                    "x": 442,
+                    "y": 276,
+                    "h": 75,
+                    "w": 75
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 349,
+                    "y": 358,
+                    "h": 53,
+                    "w": 53
+                  },
+                  {
+                    "x": 667,
+                    "y": 416,
+                    "h": 114,
+                    "w": 114
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "x": 349,
+                    "y": 358,
+                    "h": 53,
+                    "w": 53
+                  },
+                  {
+                    "x": 667,
+                    "y": 416,
+                    "h": 114,
+                    "w": 114
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": 1193867611655700483,
+            "id_str": "1193867611655700483",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJF4RHWVAAMETkL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EJF4RHWVAAMETkL.jpg",
+            "url": "https://t.co/wTy9JMOcBi",
+            "display_url": "pic.twitter.com/wTy9JMOcBi",
+            "expanded_url": "https://twitter.com/linkgctd/status/1193867619197059072/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 870,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 870,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 578,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": [
+                  {
+                    "x": 190,
+                    "y": 287,
+                    "h": 43,
+                    "w": 43
+                  },
+                  {
+                    "x": 720,
+                    "y": 361,
+                    "h": 55,
+                    "w": 55
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 190,
+                    "y": 287,
+                    "h": 43,
+                    "w": 43
+                  },
+                  {
+                    "x": 720,
+                    "y": 361,
+                    "h": 55,
+                    "w": 55
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "x": 190,
+                    "y": 287,
+                    "h": 43,
+                    "w": 43
+                  },
+                  {
+                    "x": 720,
+                    "y": 361,
+                    "h": 55,
+                    "w": 55
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 126,
+                    "y": 190,
+                    "h": 28,
+                    "w": 28
+                  },
+                  {
+                    "x": 478,
+                    "y": 239,
+                    "h": 36,
+                    "w": 36
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3189180056,
+        "id_str": "3189180056",
+        "name": "Lin爺爺沒有利歐路",
+        "screen_name": "linkgctd",
+        "location": "Taiwan",
+        "description": "無法踏出新手村的皮卡丘，練習面對現實_(:з」∠)_ 擁有玻璃心的胃 台獨派( ´ ▽ ` )ﾉ 每天都想回家躺",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2510,
+        "friends_count": 622,
+        "listed_count": 32,
+        "created_at": "Fri May 08 22:20:57 +0000 2015",
+        "favourites_count": 366449,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 131882,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143358147840446464/NmJuOJJK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143358147840446464/NmJuOJJK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3189180056/1479210048",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": true,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Nov 11 06:45:04 +0000 2019",
+    "id": 1193781670538690562,
+    "id_str": "1193781670538690562",
+    "text": "如何用「回音法」學好英文口說 | 史嘉琳 Karen Chung | TEDxNTUST https://t.co/YatjEuoivu 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            72,
+            80
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YatjEuoivu",
+          "expanded_url": "https://youtu.be/sQEWEPIHLzQ",
+          "display_url": "youtu.be/sQEWEPIHLzQ",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 11 06:42:42 +0000 2019",
+    "id": 1193781077480837120,
+    "id_str": "1193781077480837120",
+    "text": "台大史嘉琳副教授（口說教學專家）推薦的一個 podcast：《Before Breakfast》，每天都短短的 5~8 分鐘、內容也很實用，非常適合一般人練聽力，大推。 https://t.co/6XXsg1zv89",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6XXsg1zv89",
+          "expanded_url": "https://podcasts.apple.com/tw/podcast/before-breakfast/id1450018819",
+          "display_url": "podcasts.apple.com/tw/podcast/bef…",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 85,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 11 04:14:58 +0000 2019",
+    "id": 1193743895911288832,
+    "id_str": "1193743895911288832",
+    "text": "個人也可付 $5/m 使用以 writefreely 為基底的 https://t.co/FhXdBZNXEN 服務，相較開源版有些獨特的強化，例如同步分享（Ghost, Twitter &amp; Tumblr），還能寫匿名貼文、圖片代… https://t.co/rgKF5iGDc3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FhXdBZNXEN",
+          "expanded_url": "https://write.as",
+          "display_url": "write.as",
+          "indices": [
+            32,
+            55
+          ]
+        },
+        {
+          "url": "https://t.co/rgKF5iGDc3",
+          "expanded_url": "https://twitter.com/i/web/status/1193743895911288832",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1193732965450178561,
+    "in_reply_to_status_id_str": "1193732965450178561",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 11 03:31:32 +0000 2019",
+    "id": 1193732965450178561,
+    "id_str": "1193732965450178561",
+    "text": "若想架設一個類似 microblog 或 telegraph 專注於文字的極簡書寫社群，可以研究一下 Writefreely https://t.co/4sxDfnkeGC\n\nGo 語言寫的，選擇 SQLite 或 MySQL，基… https://t.co/wMEOVlzeBy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4sxDfnkeGC",
+          "expanded_url": "https://writefreely.org",
+          "display_url": "writefreely.org",
+          "indices": [
+            63,
+            86
+          ]
+        },
+        {
+          "url": "https://t.co/wMEOVlzeBy",
+          "expanded_url": "https://twitter.com/i/web/status/1193732965450178561",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 35,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 11 03:08:26 +0000 2019",
+    "id": 1193727153415716864,
+    "id_str": "1193727153415716864",
+    "text": "自己做一個開源開放的閱讀器？\n\nThe Open Book Project https://t.co/eMeRUEmQoI https://t.co/zugNL80PJJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eMeRUEmQoI",
+          "expanded_url": "http://bit.ly/36UBx6M",
+          "display_url": "bit.ly/36UBx6M",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1193727140660776960,
+          "id_str": "1193727140660776960",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJD4goHUEAAmeFN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJD4goHUEAAmeFN.jpg",
+          "url": "https://t.co/zugNL80PJJ",
+          "display_url": "pic.twitter.com/zugNL80PJJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1193727153415716864/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1800,
+              "h": 1350,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 88,
+                  "y": 24,
+                  "h": 25,
+                  "w": 25
+                },
+                {
+                  "x": 62,
+                  "y": 172,
+                  "h": 37,
+                  "w": 37
+                },
+                {
+                  "x": 4,
+                  "y": 378,
+                  "h": 37,
+                  "w": 37
+                },
+                {
+                  "x": 142,
+                  "y": 240,
+                  "h": 60,
+                  "w": 60
+                },
+                {
+                  "x": 122,
+                  "y": 1,
+                  "h": 44,
+                  "w": 44
+                },
+                {
+                  "x": 167,
+                  "y": 64,
+                  "h": 45,
+                  "w": 45
+                },
+                {
+                  "x": 149,
+                  "y": 166,
+                  "h": 55,
+                  "w": 55
+                },
+                {
+                  "x": 143,
+                  "y": 282,
+                  "h": 48,
+                  "w": 48
+                },
+                {
+                  "x": 343,
+                  "y": 305,
+                  "h": 49,
+                  "w": 49
+                },
+                {
+                  "x": 617,
+                  "y": 397,
+                  "h": 57,
+                  "w": 57
+                },
+                {
+                  "x": 567,
+                  "y": 18,
+                  "h": 78,
+                  "w": 78
+                },
+                {
+                  "x": 142,
+                  "y": 251,
+                  "h": 62,
+                  "w": 62
+                },
+                {
+                  "x": 245,
+                  "y": 174,
+                  "h": 189,
+                  "w": 189
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 233,
+                  "y": 66,
+                  "h": 68,
+                  "w": 68
+                },
+                {
+                  "x": 166,
+                  "y": 457,
+                  "h": 100,
+                  "w": 100
+                },
+                {
+                  "x": 12,
+                  "y": 1001,
+                  "h": 98,
+                  "w": 98
+                },
+                {
+                  "x": 376,
+                  "y": 636,
+                  "h": 159,
+                  "w": 159
+                },
+                {
+                  "x": 323,
+                  "y": 3,
+                  "h": 119,
+                  "w": 119
+                },
+                {
+                  "x": 444,
+                  "y": 172,
+                  "h": 121,
+                  "w": 121
+                },
+                {
+                  "x": 397,
+                  "y": 442,
+                  "h": 147,
+                  "w": 147
+                },
+                {
+                  "x": 379,
+                  "y": 747,
+                  "h": 128,
+                  "w": 128
+                },
+                {
+                  "x": 910,
+                  "y": 808,
+                  "h": 130,
+                  "w": 130
+                },
+                {
+                  "x": 1634,
+                  "y": 1052,
+                  "h": 151,
+                  "w": 151
+                },
+                {
+                  "x": 1501,
+                  "y": 50,
+                  "h": 207,
+                  "w": 207
+                },
+                {
+                  "x": 376,
+                  "y": 667,
+                  "h": 165,
+                  "w": 165
+                },
+                {
+                  "x": 650,
+                  "y": 462,
+                  "h": 502,
+                  "w": 502
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 155,
+                  "y": 44,
+                  "h": 45,
+                  "w": 45
+                },
+                {
+                  "x": 110,
+                  "y": 304,
+                  "h": 66,
+                  "w": 66
+                },
+                {
+                  "x": 8,
+                  "y": 667,
+                  "h": 65,
+                  "w": 65
+                },
+                {
+                  "x": 250,
+                  "y": 424,
+                  "h": 106,
+                  "w": 106
+                },
+                {
+                  "x": 215,
+                  "y": 2,
+                  "h": 79,
+                  "w": 79
+                },
+                {
+                  "x": 296,
+                  "y": 114,
+                  "h": 80,
+                  "w": 80
+                },
+                {
+                  "x": 264,
+                  "y": 294,
+                  "h": 98,
+                  "w": 98
+                },
+                {
+                  "x": 252,
+                  "y": 498,
+                  "h": 85,
+                  "w": 85
+                },
+                {
+                  "x": 606,
+                  "y": 538,
+                  "h": 86,
+                  "w": 86
+                },
+                {
+                  "x": 1089,
+                  "y": 701,
+                  "h": 100,
+                  "w": 100
+                },
+                {
+                  "x": 1000,
+                  "y": 33,
+                  "h": 138,
+                  "w": 138
+                },
+                {
+                  "x": 250,
+                  "y": 444,
+                  "h": 110,
+                  "w": 110
+                },
+                {
+                  "x": 433,
+                  "y": 308,
+                  "h": 334,
+                  "w": 334
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 233,
+                  "y": 66,
+                  "h": 68,
+                  "w": 68
+                },
+                {
+                  "x": 166,
+                  "y": 457,
+                  "h": 100,
+                  "w": 100
+                },
+                {
+                  "x": 12,
+                  "y": 1001,
+                  "h": 98,
+                  "w": 98
+                },
+                {
+                  "x": 376,
+                  "y": 636,
+                  "h": 159,
+                  "w": 159
+                },
+                {
+                  "x": 323,
+                  "y": 3,
+                  "h": 119,
+                  "w": 119
+                },
+                {
+                  "x": 444,
+                  "y": 172,
+                  "h": 121,
+                  "w": 121
+                },
+                {
+                  "x": 397,
+                  "y": 442,
+                  "h": 147,
+                  "w": 147
+                },
+                {
+                  "x": 379,
+                  "y": 747,
+                  "h": 128,
+                  "w": 128
+                },
+                {
+                  "x": 910,
+                  "y": 808,
+                  "h": 130,
+                  "w": 130
+                },
+                {
+                  "x": 1634,
+                  "y": 1052,
+                  "h": 151,
+                  "w": 151
+                },
+                {
+                  "x": 1501,
+                  "y": 50,
+                  "h": 207,
+                  "w": 207
+                },
+                {
+                  "x": 376,
+                  "y": 667,
+                  "h": 165,
+                  "w": 165
+                },
+                {
+                  "x": 650,
+                  "y": 462,
+                  "h": 502,
+                  "w": 502
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1193727140660776960,
+          "id_str": "1193727140660776960",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJD4goHUEAAmeFN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EJD4goHUEAAmeFN.jpg",
+          "url": "https://t.co/zugNL80PJJ",
+          "display_url": "pic.twitter.com/zugNL80PJJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1193727153415716864/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1800,
+              "h": 1350,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 88,
+                  "y": 24,
+                  "h": 25,
+                  "w": 25
+                },
+                {
+                  "x": 62,
+                  "y": 172,
+                  "h": 37,
+                  "w": 37
+                },
+                {
+                  "x": 4,
+                  "y": 378,
+                  "h": 37,
+                  "w": 37
+                },
+                {
+                  "x": 142,
+                  "y": 240,
+                  "h": 60,
+                  "w": 60
+                },
+                {
+                  "x": 122,
+                  "y": 1,
+                  "h": 44,
+                  "w": 44
+                },
+                {
+                  "x": 167,
+                  "y": 64,
+                  "h": 45,
+                  "w": 45
+                },
+                {
+                  "x": 149,
+                  "y": 166,
+                  "h": 55,
+                  "w": 55
+                },
+                {
+                  "x": 143,
+                  "y": 282,
+                  "h": 48,
+                  "w": 48
+                },
+                {
+                  "x": 343,
+                  "y": 305,
+                  "h": 49,
+                  "w": 49
+                },
+                {
+                  "x": 617,
+                  "y": 397,
+                  "h": 57,
+                  "w": 57
+                },
+                {
+                  "x": 567,
+                  "y": 18,
+                  "h": 78,
+                  "w": 78
+                },
+                {
+                  "x": 142,
+                  "y": 251,
+                  "h": 62,
+                  "w": 62
+                },
+                {
+                  "x": 245,
+                  "y": 174,
+                  "h": 189,
+                  "w": 189
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 233,
+                  "y": 66,
+                  "h": 68,
+                  "w": 68
+                },
+                {
+                  "x": 166,
+                  "y": 457,
+                  "h": 100,
+                  "w": 100
+                },
+                {
+                  "x": 12,
+                  "y": 1001,
+                  "h": 98,
+                  "w": 98
+                },
+                {
+                  "x": 376,
+                  "y": 636,
+                  "h": 159,
+                  "w": 159
+                },
+                {
+                  "x": 323,
+                  "y": 3,
+                  "h": 119,
+                  "w": 119
+                },
+                {
+                  "x": 444,
+                  "y": 172,
+                  "h": 121,
+                  "w": 121
+                },
+                {
+                  "x": 397,
+                  "y": 442,
+                  "h": 147,
+                  "w": 147
+                },
+                {
+                  "x": 379,
+                  "y": 747,
+                  "h": 128,
+                  "w": 128
+                },
+                {
+                  "x": 910,
+                  "y": 808,
+                  "h": 130,
+                  "w": 130
+                },
+                {
+                  "x": 1634,
+                  "y": 1052,
+                  "h": 151,
+                  "w": 151
+                },
+                {
+                  "x": 1501,
+                  "y": 50,
+                  "h": 207,
+                  "w": 207
+                },
+                {
+                  "x": 376,
+                  "y": 667,
+                  "h": 165,
+                  "w": 165
+                },
+                {
+                  "x": 650,
+                  "y": 462,
+                  "h": 502,
+                  "w": 502
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 155,
+                  "y": 44,
+                  "h": 45,
+                  "w": 45
+                },
+                {
+                  "x": 110,
+                  "y": 304,
+                  "h": 66,
+                  "w": 66
+                },
+                {
+                  "x": 8,
+                  "y": 667,
+                  "h": 65,
+                  "w": 65
+                },
+                {
+                  "x": 250,
+                  "y": 424,
+                  "h": 106,
+                  "w": 106
+                },
+                {
+                  "x": 215,
+                  "y": 2,
+                  "h": 79,
+                  "w": 79
+                },
+                {
+                  "x": 296,
+                  "y": 114,
+                  "h": 80,
+                  "w": 80
+                },
+                {
+                  "x": 264,
+                  "y": 294,
+                  "h": 98,
+                  "w": 98
+                },
+                {
+                  "x": 252,
+                  "y": 498,
+                  "h": 85,
+                  "w": 85
+                },
+                {
+                  "x": 606,
+                  "y": 538,
+                  "h": 86,
+                  "w": 86
+                },
+                {
+                  "x": 1089,
+                  "y": 701,
+                  "h": 100,
+                  "w": 100
+                },
+                {
+                  "x": 1000,
+                  "y": 33,
+                  "h": 138,
+                  "w": 138
+                },
+                {
+                  "x": 250,
+                  "y": 444,
+                  "h": 110,
+                  "w": 110
+                },
+                {
+                  "x": 433,
+                  "y": 308,
+                  "h": 334,
+                  "w": 334
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 233,
+                  "y": 66,
+                  "h": 68,
+                  "w": 68
+                },
+                {
+                  "x": 166,
+                  "y": 457,
+                  "h": 100,
+                  "w": 100
+                },
+                {
+                  "x": 12,
+                  "y": 1001,
+                  "h": 98,
+                  "w": 98
+                },
+                {
+                  "x": 376,
+                  "y": 636,
+                  "h": 159,
+                  "w": 159
+                },
+                {
+                  "x": 323,
+                  "y": 3,
+                  "h": 119,
+                  "w": 119
+                },
+                {
+                  "x": 444,
+                  "y": 172,
+                  "h": 121,
+                  "w": 121
+                },
+                {
+                  "x": 397,
+                  "y": 442,
+                  "h": 147,
+                  "w": 147
+                },
+                {
+                  "x": 379,
+                  "y": 747,
+                  "h": 128,
+                  "w": 128
+                },
+                {
+                  "x": 910,
+                  "y": 808,
+                  "h": 130,
+                  "w": 130
+                },
+                {
+                  "x": 1634,
+                  "y": 1052,
+                  "h": 151,
+                  "w": 151
+                },
+                {
+                  "x": 1501,
+                  "y": 50,
+                  "h": 207,
+                  "w": 207
+                },
+                {
+                  "x": 376,
+                  "y": 667,
+                  "h": 165,
+                  "w": 165
+                },
+                {
+                  "x": 650,
+                  "y": 462,
+                  "h": 502,
+                  "w": 502
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 11 02:46:15 +0000 2019",
+    "id": 1193721569199054848,
+    "id_str": "1193721569199054848",
+    "text": "「在不減工資和假期之下，把工時由 8 小時縮減至 5 小時」「每週專注工作 25 小時，能做出平時 40 小時的工作」「工作時間不閒聊，禁止瀏覽社交媒體。手機放背包。公司電郵每天查看兩次。會議不持續超過 15 分鐘。」\n\n與其磨爛… https://t.co/Ye4X7WNVwI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ye4X7WNVwI",
+          "expanded_url": "https://twitter.com/i/web/status/1193721569199054848",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Nov 10 17:04:48 +0000 2019",
     "id": 1193575244839170048,
     "id_str": "1193575244839170048",
