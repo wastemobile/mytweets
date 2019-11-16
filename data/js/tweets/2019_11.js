@@ -1,5 +1,118 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Fri Nov 15 16:01:51 +0000 2019",
+    "id": 1195371341869772802,
+    "id_str": "1195371341869772802",
+    "text": "此篇巨雷（我看完了所以可以看）。\n\n並不差，雖然很多缺點（文中所提某段我快轉渡過，心有戚戚），但撐過前三集應該可以看完，看完終集可能也會罵髒話。因為不知 #Netflix 製片的意見，也不知該站誰那邊⋯⋯\n\n看完《罪夢者》一頭霧水… https://t.co/tAsNgUjdjq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            77,
+            85
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tAsNgUjdjq",
+          "expanded_url": "https://twitter.com/i/web/status/1195371341869772802",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 15 12:44:38 +0000 2019",
+    "id": 1195321712008556551,
+    "id_str": "1195321712008556551",
+    "text": "抱五分鐘，親兩分鐘，這可以。 #罪夢者",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "罪夢者",
+          "indices": [
+            15,
+            19
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Nov 15 02:00:21 +0000 2019",
     "id": 1195159572278915072,
     "id_str": "1195159572278915072",
