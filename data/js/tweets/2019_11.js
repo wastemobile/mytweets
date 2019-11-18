@@ -1,5 +1,382 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Mon Nov 18 04:42:53 +0000 2019",
+    "id": 1196287639147515904,
+    "id_str": "1196287639147515904",
+    "text": "所有的簡單都意味著極度的複雜。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 17 05:32:51 +0000 2019",
+    "id": 1195937826170228736,
+    "id_str": "1195937826170228736",
+    "text": "RT @deniscch: 不要填寫！直接拉到最下面按「檢舉濫用情形」選煽動仇恨。 https://t.co/Cm0Ydtu7RL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "deniscch",
+          "name": "deniscch",
+          "id": 7754862,
+          "id_str": "7754862",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Cm0Ydtu7RL",
+          "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLScr0qZ21HS-9mLPC2C15omKUFKKSpBaQPpisnSL-8iDWchEIg/viewform?fbclid=IwAR19MpNNYx-lW6mlRUau9uESEN1LqGOjfhTj2ABRr83MUYkuHYeUYAFBsF4",
+          "display_url": "docs.google.com/forms/d/e/1FAI…",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 16 10:59:02 +0000 2019",
+      "id": 1195657522931257344,
+      "id_str": "1195657522931257344",
+      "text": "不要填寫！直接拉到最下面按「檢舉濫用情形」選煽動仇恨。 https://t.co/Cm0Ydtu7RL",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Cm0Ydtu7RL",
+            "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLScr0qZ21HS-9mLPC2C15omKUFKKSpBaQPpisnSL-8iDWchEIg/viewform?fbclid=IwAR19MpNNYx-lW6mlRUau9uESEN1LqGOjfhTj2ABRr83MUYkuHYeUYAFBsF4",
+            "display_url": "docs.google.com/forms/d/e/1FAI…",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7754862,
+        "id_str": "7754862",
+        "name": "deniscch",
+        "screen_name": "deniscch",
+        "location": "默契咖啡",
+        "description": "雜學宅男設計師以及，默契咖啡老闆。",
+        "url": "https://t.co/ZMRRyAwWjL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZMRRyAwWjL",
+                "expanded_url": "http://www.match-cafe.com",
+                "display_url": "match-cafe.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2102,
+        "friends_count": 88,
+        "listed_count": 18,
+        "created_at": "Fri Jul 27 06:40:34 +0000 2007",
+        "favourites_count": 45,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5491,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/654330142232154112/kSQh8gSV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/654330142232154112/kSQh8gSV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7754862/1459773732",
+        "profile_link_color": "666666",
+        "profile_sidebar_border_color": "999999",
+        "profile_sidebar_fill_color": "121212",
+        "profile_text_color": "990000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 50,
+      "favorite_count": 97,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 17 05:14:30 +0000 2019",
+    "id": 1195933206354116608,
+    "id_str": "1195933206354116608",
+    "text": "口袋閱，以迷你電子墨水閱讀器為主軸、還讓你能接一下電話，相較俄國 YotaPhone 及其後繼者們，都想打造一支明顯卡頓的全功能智慧手機，何必。\n\nKingrow K1 might be the best E Ink Smartp… https://t.co/0MiZSmZ7bn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0MiZSmZ7bn",
+          "expanded_url": "https://twitter.com/i/web/status/1195933206354116608",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1195735223025094656,
+    "in_reply_to_status_id_str": "1195735223025094656",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 17 05:05:53 +0000 2019",
+    "id": 1195931036456112128,
+    "id_str": "1195931036456112128",
+    "text": "Twitter for Mac 更新後，只要不當心按「一次」回刪就會當掉，愈改愈糟。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1194659513879547905,
+    "in_reply_to_status_id_str": "1194659513879547905",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 17 03:18:26 +0000 2019",
+    "id": 1195903999326580736,
+    "id_str": "1195903999326580736",
+    "text": "@angiesaid 記得從 iPhone 的 1Password App 訂閱，會有「前六個月只要300元」的優惠、第七個月才開始收每月130；若從 Mac 上去訂閱似乎不會出現這個選項。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "angiesaid",
+          "name": "安吉",
+          "id": 242133,
+          "id_str": "242133",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1195894626869075968,
+    "in_reply_to_status_id_str": "1195894626869075968",
+    "in_reply_to_user_id": 242133,
+    "in_reply_to_user_id_str": "242133",
+    "in_reply_to_screen_name": "angiesaid",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 16 16:44:41 +0000 2019",
     "id": 1195744508958232576,
     "id_str": "1195744508958232576",
