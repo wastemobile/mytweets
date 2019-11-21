@@ -1,5 +1,213 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Wed Nov 20 03:41:48 +0000 2019",
+    "id": 1196997041840197632,
+    "id_str": "1196997041840197632",
+    "text": "RT @yuchennasa: 中國人大直接否決香港高院\n正式宣告香港已不具有司法獨立一國兩制正式進入歷史\n\n香港真的幫台灣把接下來20年的謊言都坦下來了⋯\n還是用很多血淚生命坦的⋯\n\n港高院裁定禁蒙面法違憲　中國人大指香港法院無權裁定 | 中國 | 新頭殼 Newtalk h…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yuchennasa",
+          "name": "NasaQ😷",
+          "id": 1139955152465682432,
+          "id_str": "1139955152465682432",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Nov 19 09:30:03 +0000 2019",
+      "id": 1196722293894000640,
+      "id_str": "1196722293894000640",
+      "text": "中國人大直接否決香港高院\n正式宣告香港已不具有司法獨立一國兩制正式進入歷史\n\n香港真的幫台灣把接下來20年的謊言都坦下來了⋯\n還是用很多血淚生命坦的⋯\n\n港高院裁定禁蒙面法違憲　中國人大指香港法院無權裁定 | 中國 | 新頭殼 N… https://t.co/FqvsJfHTNX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FqvsJfHTNX",
+            "expanded_url": "https://twitter.com/i/web/status/1196722293894000640",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1139955152465682432,
+        "id_str": "1139955152465682432",
+        "name": "NasaQ😷",
+        "screen_name": "yuchennasa",
+        "location": "Texas, USA",
+        "description": "是個中年婦女，還是很討厭的那種。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6642,
+        "friends_count": 251,
+        "listed_count": 23,
+        "created_at": "Sat Jun 15 17:57:42 +0000 2019",
+        "favourites_count": 21080,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8540,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188202117762371585/OtIORVuA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188202117762371585/OtIORVuA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1139955152465682432/1562130580",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 645,
+      "favorite_count": 1175,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 645,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 20 02:55:40 +0000 2019",
+    "id": 1196985432929529857,
+    "id_str": "1196985432929529857",
+    "text": "「我的讀書的方法現在九成五都是在這台 ipad pro，用這台的好處就是有筆（數位筆）可以用，其實我在沒有筆可以用的時候是不會用電子設備看書的」\n\n現場》 唐鳳：書和新內容媒介載體不是競爭，可以在同一個光譜 | Openbook閱… https://t.co/iEHU1BgG5m",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iEHU1BgG5m",
+          "expanded_url": "https://twitter.com/i/web/status/1196985432929529857",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 36,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Nov 18 04:42:53 +0000 2019",
     "id": 1196287639147515904,
     "id_str": "1196287639147515904",
