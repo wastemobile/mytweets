@@ -1,5 +1,357 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Thu Nov 21 14:31:05 +0000 2019",
+    "id": 1197522825197826050,
+    "id_str": "1197522825197826050",
+    "text": "小米多看眾籌達標不稀奇，連羅輯思維得到都要發電子墨水閱讀器了⋯⋯\n\n重磅！羅輯思維旗下得到APP發布全新閱讀器 – 得到閱讀器，7.8英寸安卓9.0系統！ https://t.co/gsIlrcfU8R https://t.co/CE2azXBlQr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gsIlrcfU8R",
+          "expanded_url": "http://bit.ly/2QCPRLG",
+          "display_url": "bit.ly/2QCPRLG",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1197522814422540288,
+          "id_str": "1197522814422540288",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJ50p6wU4AAe9_6.png",
+          "media_url_https": "https://pbs.twimg.com/media/EJ50p6wU4AAe9_6.png",
+          "url": "https://t.co/CE2azXBlQr",
+          "display_url": "pic.twitter.com/CE2azXBlQr",
+          "expanded_url": "https://twitter.com/wastemobile/status/1197522825197826050/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 550,
+              "h": 409,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 550,
+              "h": 409,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 550,
+              "h": 409,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1197522814422540288,
+          "id_str": "1197522814422540288",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/EJ50p6wU4AAe9_6.png",
+          "media_url_https": "https://pbs.twimg.com/media/EJ50p6wU4AAe9_6.png",
+          "url": "https://t.co/CE2azXBlQr",
+          "display_url": "pic.twitter.com/CE2azXBlQr",
+          "expanded_url": "https://twitter.com/wastemobile/status/1197522825197826050/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 550,
+              "h": 409,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 550,
+              "h": 409,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 550,
+              "h": 409,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 21 13:44:17 +0000 2019",
+    "id": 1197511050955853824,
+    "id_str": "1197511050955853824",
+    "text": "RT @purebox: 海信A5電子紙手機的規格看起來不錯耶！人民幣1199元起 https://t.co/xJ14HdeUd5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "purebox",
+          "name": "盒",
+          "id": 10144682,
+          "id_str": "10144682",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xJ14HdeUd5",
+          "expanded_url": "https://youtu.be/G9mWonYybeU",
+          "display_url": "youtu.be/G9mWonYybeU",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 21 13:18:46 +0000 2019",
+      "id": 1197504628427898882,
+      "id_str": "1197504628427898882",
+      "text": "海信A5電子紙手機的規格看起來不錯耶！人民幣1199元起 https://t.co/xJ14HdeUd5",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xJ14HdeUd5",
+            "expanded_url": "https://youtu.be/G9mWonYybeU",
+            "display_url": "youtu.be/G9mWonYybeU",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 10144682,
+        "id_str": "10144682",
+        "name": "盒",
+        "screen_name": "purebox",
+        "location": "台中/台南/蘇州/深圳/泰國大城",
+        "description": "🔰字遊字在字拍字言字語字作多情。不辯、不勉強、不雞婆、不做能力影響範圍外的事，是對自己心的溫柔。Pokémon GO訓練家代碼 7456 8858 2017、哈利波特：巫師聯盟代號 5593 0746 2062 有加請告訴我。不定時轉推或自己拍的貓圖。",
+        "url": "https://t.co/t4fFDtUliU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/t4fFDtUliU",
+                "expanded_url": "http://www.purebox.org",
+                "display_url": "purebox.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2719,
+        "friends_count": 363,
+        "listed_count": 92,
+        "created_at": "Sun Nov 11 04:40:49 +0000 2007",
+        "favourites_count": 59754,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 100358,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E1E8ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/865066634766983168/zQjDsOYp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/865066634766983168/zQjDsOYp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10144682/1502027424",
+        "profile_link_color": "4C99D4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": true,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Nov 20 03:41:48 +0000 2019",
     "id": 1196997041840197632,
     "id_str": "1196997041840197632",
