@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Sat Nov 23 08:14:00 +0000 2019",
+    "id": 1198152705815875584,
+    "id_str": "1198152705815875584",
+    "text": "Onyx Boox 的新韌體（2.2.2），開始支援在電子書上手寫筆記，不只是 PDF，還包含 Epub, Mobi, Djvu, Fb2, CHM, CBZ, CBR 還有 DOC，這倒是不錯。\n\nDirectly Scribb… https://t.co/ZMHVhTKv9h",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZMHVhTKv9h",
+          "expanded_url": "https://twitter.com/i/web/status/1198152705815875584",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 23 03:06:00 +0000 2019",
     "id": 1198075196109770752,
     "id_str": "1198075196109770752",
