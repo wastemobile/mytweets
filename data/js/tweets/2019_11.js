@@ -1,5 +1,1258 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Mon Nov 25 23:38:53 +0000 2019",
+    "id": 1199110234947477504,
+    "id_str": "1199110234947477504",
+    "text": "RT @AQgoqHGhjFt3TGk: 哈囉？台灣人，你還在嗎？\n\n港人用幾千條被失踪丶被自殺的年輕生命，以及被丟了幾千顆的劇毒催淚彈之後，換來一次沈痛的覺醒，台灣人，那你呢？\n\n明年一月，或許是我們用選票回應被赤化的KMT以及背後的 #Chinazi 共產黨的最後機會………",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Chinazi",
+          "indices": [
+            119,
+            127
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AQgoqHGhjFt3TGk",
+          "name": "🌜拜月獸 🌈 蔡老闆我要台派加辣之 燭光不滅還願花香（噶瑪得悅／科沃斯基．雅各）",
+          "id": 965822083715424256,
+          "id_str": "965822083715424256",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 25 01:37:28 +0000 2019",
+      "id": 1198777691714908160,
+      "id_str": "1198777691714908160",
+      "text": "哈囉？台灣人，你還在嗎？\n\n港人用幾千條被失踪丶被自殺的年輕生命，以及被丟了幾千顆的劇毒催淚彈之後，換來一次沈痛的覺醒，台灣人，那你呢？\n\n明年一月，或許是我們用選票回應被赤化的KMT以及背後的 #Chinazi 共產黨的最後機會… https://t.co/TFJS7kE7Jw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Chinazi",
+            "indices": [
+              98,
+              106
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TFJS7kE7Jw",
+            "expanded_url": "https://twitter.com/i/web/status/1198777691714908160",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 965822083715424256,
+        "id_str": "965822083715424256",
+        "name": "🌜拜月獸 🌈 蔡老闆我要台派加辣之 燭光不滅還願花香（噶瑪得悅／科沃斯基．雅各）",
+        "screen_name": "AQgoqHGhjFt3TGk",
+        "location": "",
+        "description": "全台灣 p‘a-p‘a-tsauˋ 的自由行導遊／台獨／婚姻平權／生態熱愛／原民正義／@RObubbleTea 國民／把最愛的台灣介紹給全世界認識／五毛小粉紅勿 fo／懶得跟你們說人話",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1394,
+        "friends_count": 283,
+        "listed_count": 10,
+        "created_at": "Tue Feb 20 05:35:03 +0000 2018",
+        "favourites_count": 115259,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4562,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195828879455244288/FlZG7BtD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1195828879455244288/FlZG7BtD_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/965822083715424256/1574034484",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 224,
+      "favorite_count": 620,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 224,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 25 10:06:06 +0000 2019",
+    "id": 1198905695099211777,
+    "id_str": "1198905695099211777",
+    "text": "Ulysses 新版終於加上了繁體中文介面～\n\nhttps://t.co/CCzY3ZtGQi https://t.co/EBiuce65eD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CCzY3ZtGQi",
+          "expanded_url": "https://apps.apple.com/tw/app/ulysses/id1225570693?mt=12",
+          "display_url": "apps.apple.com/tw/app/ulysses…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1198905684441481217,
+          "id_str": "1198905684441481217",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKNeXjBUwAE5L6J.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKNeXjBUwAE5L6J.jpg",
+          "url": "https://t.co/EBiuce65eD",
+          "display_url": "pic.twitter.com/EBiuce65eD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1198905695099211777/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 654,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1492,
+              "h": 1552,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1154,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1198905684441481217,
+          "id_str": "1198905684441481217",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKNeXjBUwAE5L6J.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKNeXjBUwAE5L6J.jpg",
+          "url": "https://t.co/EBiuce65eD",
+          "display_url": "pic.twitter.com/EBiuce65eD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1198905695099211777/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 654,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1492,
+              "h": 1552,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1154,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 25 08:59:24 +0000 2019",
+    "id": 1198888908227923971,
+    "id_str": "1198888908227923971",
+    "text": "RT @angiesaid: “他人即地獄：韓國人寂靜的自殺 電子書 by 陳慶德 - Rakuten Kobo” https://t.co/yWO7179NgI https://t.co/aUn7bz3zXI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "angiesaid",
+          "name": "安吉",
+          "id": 242133,
+          "id_str": "242133",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yWO7179NgI",
+          "expanded_url": "https://www.kobo.com/tw/zh/ebook/mk1wwbalidg8zmg3pcmmmg",
+          "display_url": "kobo.com/tw/zh/ebook/mk…",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1198888118952198144,
+          "id_str": "1198888118952198144",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKNOZGeVAAASAiH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKNOZGeVAAASAiH.jpg",
+          "url": "https://t.co/aUn7bz3zXI",
+          "display_url": "pic.twitter.com/aUn7bz3zXI",
+          "expanded_url": "https://twitter.com/angiesaid/status/1198888121363914752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 1389,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 885,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 501,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1198888121363914752,
+          "source_status_id_str": "1198888121363914752",
+          "source_user_id": 242133,
+          "source_user_id_str": "242133",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 868,
+                  "y": 615,
+                  "h": 107,
+                  "w": 107
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 750,
+                  "y": 531,
+                  "h": 92,
+                  "w": 92
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 424,
+                  "y": 300,
+                  "h": 52,
+                  "w": 52
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 868,
+                  "y": 615,
+                  "h": 107,
+                  "w": 107
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1198888118952198144,
+          "id_str": "1198888118952198144",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKNOZGeVAAASAiH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKNOZGeVAAASAiH.jpg",
+          "url": "https://t.co/aUn7bz3zXI",
+          "display_url": "pic.twitter.com/aUn7bz3zXI",
+          "expanded_url": "https://twitter.com/angiesaid/status/1198888121363914752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 1389,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 885,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 501,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1198888121363914752,
+          "source_status_id_str": "1198888121363914752",
+          "source_user_id": 242133,
+          "source_user_id_str": "242133",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 868,
+                  "y": 615,
+                  "h": 107,
+                  "w": 107
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 750,
+                  "y": 531,
+                  "h": 92,
+                  "w": 92
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 424,
+                  "y": 300,
+                  "h": 52,
+                  "w": 52
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 868,
+                  "y": 615,
+                  "h": 107,
+                  "w": 107
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 25 08:56:17 +0000 2019",
+      "id": 1198888121363914752,
+      "id_str": "1198888121363914752",
+      "text": "“他人即地獄：韓國人寂靜的自殺 電子書 by 陳慶德 - Rakuten Kobo” https://t.co/yWO7179NgI https://t.co/aUn7bz3zXI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yWO7179NgI",
+            "expanded_url": "https://www.kobo.com/tw/zh/ebook/mk1wwbalidg8zmg3pcmmmg",
+            "display_url": "kobo.com/tw/zh/ebook/mk…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1198888118952198144,
+            "id_str": "1198888118952198144",
+            "indices": [
+              67,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKNOZGeVAAASAiH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKNOZGeVAAASAiH.jpg",
+            "url": "https://t.co/aUn7bz3zXI",
+            "display_url": "pic.twitter.com/aUn7bz3zXI",
+            "expanded_url": "https://twitter.com/angiesaid/status/1198888121363914752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1389,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 885,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 501,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 868,
+                    "y": 615,
+                    "h": 107,
+                    "w": 107
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 750,
+                    "y": 531,
+                    "h": 92,
+                    "w": 92
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 424,
+                    "y": 300,
+                    "h": 52,
+                    "w": 52
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 868,
+                    "y": 615,
+                    "h": 107,
+                    "w": 107
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1198888118952198144,
+            "id_str": "1198888118952198144",
+            "indices": [
+              67,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKNOZGeVAAASAiH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKNOZGeVAAASAiH.jpg",
+            "url": "https://t.co/aUn7bz3zXI",
+            "display_url": "pic.twitter.com/aUn7bz3zXI",
+            "expanded_url": "https://twitter.com/angiesaid/status/1198888121363914752/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1389,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 885,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 501,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 868,
+                    "y": 615,
+                    "h": 107,
+                    "w": 107
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 750,
+                    "y": 531,
+                    "h": 92,
+                    "w": 92
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 424,
+                    "y": 300,
+                    "h": 52,
+                    "w": 52
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 868,
+                    "y": 615,
+                    "h": 107,
+                    "w": 107
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 242133,
+        "id_str": "242133",
+        "name": "安吉",
+        "screen_name": "angiesaid",
+        "location": "台灣",
+        "description": "等候藥效",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1380,
+        "friends_count": 417,
+        "listed_count": 92,
+        "created_at": "Mon Dec 25 13:03:07 +0000 2006",
+        "favourites_count": 87231,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 110947,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082498242024112129/EtKZZDtn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082498242024112129/EtKZZDtn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242133/1460813191",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": true,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 24 16:17:07 +0000 2019",
+    "id": 1198636676156780544,
+    "id_str": "1198636676156780544",
+    "text": "RT @piliepl: @dryadb43738 By臉書：厭世工程師 https://t.co/PufyqOP7Bg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "piliepl",
+          "name": "Shion Tseng",
+          "id": 1735490635,
+          "id_str": "1735490635",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "dryadb43738",
+          "name": "最後一哩鹿（倒數48天）( ⓛ ω ⓛ🌈)🌸",
+          "id": 299498565,
+          "id_str": "299498565",
+          "indices": [
+            13,
+            25
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1198633512733069312,
+          "id_str": "1198633512733069312",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKJm1EZVUAACI5h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKJm1EZVUAACI5h.jpg",
+          "url": "https://t.co/PufyqOP7Bg",
+          "display_url": "pic.twitter.com/PufyqOP7Bg",
+          "expanded_url": "https://twitter.com/piliepl/status/1198633518798004224/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1198633518798004224,
+          "source_status_id_str": "1198633518798004224",
+          "source_user_id": 1735490635,
+          "source_user_id_str": "1735490635",
+          "features": {
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "large": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1198633512733069312,
+          "id_str": "1198633512733069312",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/EKJm1EZVUAACI5h.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EKJm1EZVUAACI5h.jpg",
+          "url": "https://t.co/PufyqOP7Bg",
+          "display_url": "pic.twitter.com/PufyqOP7Bg",
+          "expanded_url": "https://twitter.com/piliepl/status/1198633518798004224/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1198633518798004224,
+          "source_status_id_str": "1198633518798004224",
+          "source_user_id": 1735490635,
+          "source_user_id_str": "1735490635",
+          "features": {
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "large": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 24 16:04:35 +0000 2019",
+      "id": 1198633518798004224,
+      "id_str": "1198633518798004224",
+      "text": "@dryadb43738 By臉書：厭世工程師 https://t.co/PufyqOP7Bg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "dryadb43738",
+            "name": "最後一哩鹿（倒數48天）( ⓛ ω ⓛ🌈)🌸",
+            "id": 299498565,
+            "id_str": "299498565",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1198633512733069312,
+            "id_str": "1198633512733069312",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKJm1EZVUAACI5h.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKJm1EZVUAACI5h.jpg",
+            "url": "https://t.co/PufyqOP7Bg",
+            "display_url": "pic.twitter.com/PufyqOP7Bg",
+            "expanded_url": "https://twitter.com/piliepl/status/1198633518798004224/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": [
+
+                ]
+              },
+              "orig": {
+                "faces": [
+
+                ]
+              },
+              "medium": {
+                "faces": [
+
+                ]
+              },
+              "large": {
+                "faces": [
+
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1198633512733069312,
+            "id_str": "1198633512733069312",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKJm1EZVUAACI5h.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKJm1EZVUAACI5h.jpg",
+            "url": "https://t.co/PufyqOP7Bg",
+            "display_url": "pic.twitter.com/PufyqOP7Bg",
+            "expanded_url": "https://twitter.com/piliepl/status/1198633518798004224/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": [
+
+                ]
+              },
+              "orig": {
+                "faces": [
+
+                ]
+              },
+              "medium": {
+                "faces": [
+
+                ]
+              },
+              "large": {
+                "faces": [
+
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1198601232832585730,
+      "in_reply_to_status_id_str": "1198601232832585730",
+      "in_reply_to_user_id": 299498565,
+      "in_reply_to_user_id_str": "299498565",
+      "in_reply_to_screen_name": "dryadb43738",
+      "user": {
+        "id": 1735490635,
+        "id_str": "1735490635",
+        "name": "Shion Tseng",
+        "screen_name": "piliepl",
+        "location": "Taiwan",
+        "description": "啊～不能貼在臉書的東西貼在這也挺蘇福的！2020唯一辣台妹啦！",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10,
+        "friends_count": 32,
+        "listed_count": 0,
+        "created_at": "Fri Sep 06 15:34:14 +0000 2013",
+        "favourites_count": 1009,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 444,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1081121293129330688/hQiHNwFT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081121293129330688/hQiHNwFT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1735490635/1495559917",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 23 08:14:00 +0000 2019",
     "id": 1198152705815875584,
     "id_str": "1198152705815875584",
