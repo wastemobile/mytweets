@@ -1,5 +1,51 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Wed Nov 27 15:01:25 +0000 2019",
+    "id": 1199704787370967040,
+    "id_str": "1199704787370967040",
+    "text": "確認了 Twitter for Mac 是只有在中文輸入法開啟的狀態下，按回刪才會當掉，切換到英文輸入時就不會。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1195931036456112128,
+    "in_reply_to_status_id_str": "1195931036456112128",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Nov 26 15:01:38 +0000 2019",
     "id": 1199342454232600577,
     "id_str": "1199342454232600577",
