@@ -1,5 +1,562 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Fri Nov 29 15:49:37 +0000 2019",
+    "id": 1200441693381652482,
+    "id_str": "1200441693381652482",
+    "text": "RT @HeQinglian: 各位对此作何感想？\n兩岸關係一直都是敏感又難以解決的課題，一名女學生在《Dcard》寫道室友是位陸生，28日被對方看到自己電子書上有一本標題為《中國潰而不崩》的書封，沒想到竟然引爆對方怒火。陸生室友不僅破口大罵，還傳訊息嗆聲「不知感恩」。貼文一出…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "HeQinglian",
+          "name": "He Qinglian",
+          "id": 126798663,
+          "id_str": "126798663",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 29 14:48:53 +0000 2019",
+      "id": 1200426411024097282,
+      "id_str": "1200426411024097282",
+      "text": "各位对此作何感想？\n兩岸關係一直都是敏感又難以解決的課題，一名女學生在《Dcard》寫道室友是位陸生，28日被對方看到自己電子書上有一本標題為《中國潰而不崩》的書封，沒想到竟然引爆對方怒火。陸生室友不僅破口大罵，還傳訊息嗆聲「不知… https://t.co/42G0irMxE3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/42G0irMxE3",
+            "expanded_url": "https://twitter.com/i/web/status/1200426411024097282",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 126798663,
+        "id_str": "126798663",
+        "name": "He Qinglian",
+        "screen_name": "HeQinglian",
+        "location": "New Jersey",
+        "description": "2001年辞国，现居美国。著作有《人口：中国的悬剑》《现代化的陷阱》《雾锁中国》、《中国：溃而不崩》等。",
+        "url": "http://t.co/Zkc0AUlhbZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Zkc0AUlhbZ",
+                "expanded_url": "http://heqinglian.net/",
+                "display_url": "heqinglian.net",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 179892,
+        "friends_count": 189,
+        "listed_count": 1395,
+        "created_at": "Sat Mar 27 01:35:22 +0000 2010",
+        "favourites_count": 6819,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 44522,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1073282140647899136/756ZqrfS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073282140647899136/756ZqrfS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/126798663/1359492864",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 51,
+      "favorite_count": 158,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 51,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 29 15:38:56 +0000 2019",
+    "id": 1200439005801676800,
+    "id_str": "1200439005801676800",
+    "text": "進入「蔓生三部曲」第三部～～～\n\n在 Kobo Forma 上看《神經喚術士》（繁體新譯本），在多看韌體（Kindle Paperwhite 2）上看《零伯爵》，雖然也有第三集的電子書，但決定以紙書來終結。\n\n《重啟蒙娜麗莎》… https://t.co/qPR2xjkZKc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qPR2xjkZKc",
+          "expanded_url": "https://twitter.com/i/web/status/1200439005801676800",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1197905292358369282,
+    "in_reply_to_status_id_str": "1197905292358369282",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 29 14:25:16 +0000 2019",
+    "id": 1200420466692775937,
+    "id_str": "1200420466692775937",
+    "text": "超美的蒸氣龐克風解謎箱，巧奪天工。\n\nSolving The RAREST Puzzle Box in the World!! (Steampunk Puzzle) https://t.co/5ssXt4phKD 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            110,
+            118
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5ssXt4phKD",
+          "expanded_url": "https://youtu.be/Ewng3j0iO8E",
+          "display_url": "youtu.be/Ewng3j0iO8E",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Nov 29 12:42:32 +0000 2019",
+    "id": 1200394611207729155,
+    "id_str": "1200394611207729155",
+    "text": "RT @weconnect1111: 荷蘭議會通過議案：禁止違反人權的中港人士入境並凍結資產 - https://t.co/M7Ku2hUhTj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "weconnect1111",
+          "name": "Stand with Hong Kong🇭🇰🇭🇰",
+          "id": 1171347457281708032,
+          "id_str": "1171347457281708032",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/M7Ku2hUhTj",
+          "expanded_url": "https://go.shr.lc/33w1N4s",
+          "display_url": "go.shr.lc/33w1N4s",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 29 09:14:40 +0000 2019",
+      "id": 1200342301672759298,
+      "id_str": "1200342301672759298",
+      "text": "荷蘭議會通過議案：禁止違反人權的中港人士入境並凍結資產 - https://t.co/M7Ku2hUhTj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/M7Ku2hUhTj",
+            "expanded_url": "https://go.shr.lc/33w1N4s",
+            "display_url": "go.shr.lc/33w1N4s",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1171347457281708032,
+        "id_str": "1171347457281708032",
+        "name": "Stand with Hong Kong🇭🇰🇭🇰",
+        "screen_name": "weconnect1111",
+        "location": "",
+        "description": "Free Hong Kong Revolution of Our Times ~~毋忘義士~~",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8816,
+        "friends_count": 2976,
+        "listed_count": 7,
+        "created_at": "Tue Sep 10 08:59:48 +0000 2019",
+        "favourites_count": 5438,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2543,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196044450247532545/9ChYZf7H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196044450247532545/9ChYZf7H_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171347457281708032/1574424815",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 924,
+      "favorite_count": 1705,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 924,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 29 03:06:06 +0000 2019",
+    "id": 1200249547974307841,
+    "id_str": "1200249547974307841",
+    "text": "@vista 是訂閱付費版沒錯。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "vista",
+          "name": "Vista ",
+          "id": 50803,
+          "id_str": "50803",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1200249211251380224,
+    "in_reply_to_status_id_str": "1200249211251380224",
+    "in_reply_to_user_id": 50803,
+    "in_reply_to_user_id_str": "50803",
+    "in_reply_to_screen_name": "vista",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 29 01:43:35 +0000 2019",
+    "id": 1200228782893780992,
+    "id_str": "1200228782893780992",
+    "text": "Bourbon Neat 已經不再維護，原生 CSS Grid 與 Flexbox 成為日常。 https://t.co/OADPuqXifi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OADPuqXifi",
+          "expanded_url": "https://github.com/thoughtbot/neat",
+          "display_url": "github.com/thoughtbot/neat",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Nov 28 09:08:07 +0000 2019",
     "id": 1199978262920757248,
     "id_str": "1199978262920757248",
