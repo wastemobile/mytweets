@@ -1,5 +1,335 @@
 Grailbird.data.tweets_2019_11 = [
   {
+    "created_at": "Sat Nov 30 08:33:49 +0000 2019",
+    "id": 1200694407139229697,
+    "id_str": "1200694407139229697",
+    "text": "真的。😭 https://t.co/HT9UvGbJ8M",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HT9UvGbJ8M",
+          "expanded_url": "https://twitter.com/missangelaisme/status/1200659487771648000",
+          "display_url": "twitter.com/missangelaisme…",
+          "indices": [
+            5,
+            28
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1200659487771648000,
+    "quoted_status_id_str": "1200659487771648000",
+    "quoted_status": {
+      "created_at": "Sat Nov 30 06:15:03 +0000 2019",
+      "id": 1200659487771648000,
+      "id_str": "1200659487771648000",
+      "text": "真的。 https://t.co/QDoJTzXyzq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1200659481891205121,
+            "id_str": "1200659481891205121",
+            "indices": [
+              4,
+              27
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKmZb_pUcAEyOUQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKmZb_pUcAEyOUQ.jpg",
+            "url": "https://t.co/QDoJTzXyzq",
+            "display_url": "pic.twitter.com/QDoJTzXyzq",
+            "expanded_url": "https://twitter.com/missangelaisme/status/1200659487771648000/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 506,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 893,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1125,
+                "h": 1512,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": [
+
+                ]
+              },
+              "orig": {
+                "faces": [
+
+                ]
+              },
+              "medium": {
+                "faces": [
+
+                ]
+              },
+              "large": {
+                "faces": [
+
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1200659481891205121,
+            "id_str": "1200659481891205121",
+            "indices": [
+              4,
+              27
+            ],
+            "media_url": "http://pbs.twimg.com/media/EKmZb_pUcAEyOUQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EKmZb_pUcAEyOUQ.jpg",
+            "url": "https://t.co/QDoJTzXyzq",
+            "display_url": "pic.twitter.com/QDoJTzXyzq",
+            "expanded_url": "https://twitter.com/missangelaisme/status/1200659487771648000/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 506,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 893,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1125,
+                "h": 1512,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": [
+
+                ]
+              },
+              "orig": {
+                "faces": [
+
+                ]
+              },
+              "medium": {
+                "faces": [
+
+                ]
+              },
+              "large": {
+                "faces": [
+
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2837992842,
+        "id_str": "2837992842",
+        "name": "千",
+        "screen_name": "missangelaisme",
+        "location": "Pingtung County, Taiwan",
+        "description": "💋學著放過自己，不放過別人。🤘🏻",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1019,
+        "friends_count": 232,
+        "listed_count": 9,
+        "created_at": "Thu Oct 02 13:22:16 +0000 2014",
+        "favourites_count": 5340,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 29814,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1198012156572160001/aCJ3pG2R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198012156572160001/aCJ3pG2R_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2837992842/1574039239",
+        "profile_link_color": "F5ABB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 92,
+      "favorite_count": 377,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Nov 30 02:11:38 +0000 2019",
+    "id": 1200598228963487745,
+    "id_str": "1200598228963487745",
+    "text": "《列比烏斯》（Levius）已經上架 #Netflix https://t.co/LNrfiEkjYl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            19,
+            27
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LNrfiEkjYl",
+          "expanded_url": "http://bit.ly/2sw5Ukr",
+          "display_url": "bit.ly/2sw5Ukr",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1110489025603756033,
+    "in_reply_to_status_id_str": "1110489025603756033",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Fri Nov 29 15:49:37 +0000 2019",
     "id": 1200441693381652482,
     "id_str": "1200441693381652482",
