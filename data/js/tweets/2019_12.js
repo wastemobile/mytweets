@@ -1,5 +1,66 @@
 Grailbird.data.tweets_2019_12 = [
   {
+    "created_at": "Mon Dec 02 15:00:36 +0000 2019",
+    "id": 1201516522709012480,
+    "id_str": "1201516522709012480",
+    "text": "讀完蔓生三部曲之後，翻了翻吉布森那本新的《邊緣世界》，興致不高；突然想起還有一本 Cyberpunk 小說沒讀，已經看過 #Netflix 劇集的《碳變》。（原著應該也是三部曲）\n\n《碳變》… https://t.co/PWTF9yrHkD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            61,
+            69
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PWTF9yrHkD",
+          "expanded_url": "https://twitter.com/i/web/status/1201516522709012480",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Dec 01 02:16:39 +0000 2019",
     "id": 1200961881050992640,
     "id_str": "1200961881050992640",
