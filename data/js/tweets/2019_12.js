@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2019_12 = [
   {
+    "created_at": "Thu Dec 05 03:51:16 +0000 2019",
+    "id": 1202435242172108800,
+    "id_str": "1202435242172108800",
+    "text": "知名歷史學者 Niall Ferguson 所著的「廣場與塔樓（The Square and the Tower）」，嘗試重建歷史網絡，點出「網絡」對歷史發展的影響力不下於階級結構。\n\n還不確定是炒冷飯或有洞見，但好像可以看看。… https://t.co/nHKBb6BLCM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nHKBb6BLCM",
+          "expanded_url": "https://twitter.com/i/web/status/1202435242172108800",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Dec 03 02:25:28 +0000 2019",
     "id": 1201688874587545600,
     "id_str": "1201688874587545600",
