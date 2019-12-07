@@ -1,5 +1,292 @@
 Grailbird.data.tweets_2019_12 = [
   {
+    "created_at": "Fri Dec 06 15:50:03 +0000 2019",
+    "id": 1202978516263813120,
+    "id_str": "1202978516263813120",
+    "text": "這到底是什麼鬼扯淡小說情節⋯⋯\n\n76分钟看完《三体》全集。宇宙很大，生活更大。 https://t.co/KRDHkMs46i 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            68,
+            76
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KRDHkMs46i",
+          "expanded_url": "https://youtu.be/QO25QnboJG0",
+          "display_url": "youtu.be/QO25QnboJG0",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Dec 06 12:23:46 +0000 2019",
+    "id": 1202926602645958656,
+    "id_str": "1202926602645958656",
+    "text": "在 #Netflix 上看了《瓊・蒂蒂安｜核心潰散》紀錄片 https://t.co/jJzcVktmbH https://t.co/0BcccmSjbX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            2,
+            10
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jJzcVktmbH",
+          "expanded_url": "http://bit.ly/2DVv4v2",
+          "display_url": "bit.ly/2DVv4v2",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1202926594144104448,
+          "id_str": "1202926594144104448",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELGnXS7UcAAgUtk.png",
+          "media_url_https": "https://pbs.twimg.com/media/ELGnXS7UcAAgUtk.png",
+          "url": "https://t.co/0BcccmSjbX",
+          "display_url": "pic.twitter.com/0BcccmSjbX",
+          "expanded_url": "https://twitter.com/wastemobile/status/1202926602645958656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 210,
+                  "y": 6,
+                  "h": 122,
+                  "w": 122
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 210,
+                  "y": 6,
+                  "h": 122,
+                  "w": 122
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 210,
+                  "y": 6,
+                  "h": 122,
+                  "w": 122
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 210,
+                  "y": 6,
+                  "h": 122,
+                  "w": 122
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1202926594144104448,
+          "id_str": "1202926594144104448",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELGnXS7UcAAgUtk.png",
+          "media_url_https": "https://pbs.twimg.com/media/ELGnXS7UcAAgUtk.png",
+          "url": "https://t.co/0BcccmSjbX",
+          "display_url": "pic.twitter.com/0BcccmSjbX",
+          "expanded_url": "https://twitter.com/wastemobile/status/1202926602645958656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 210,
+                  "y": 6,
+                  "h": 122,
+                  "w": 122
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 210,
+                  "y": 6,
+                  "h": 122,
+                  "w": 122
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 210,
+                  "y": 6,
+                  "h": 122,
+                  "w": 122
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 210,
+                  "y": 6,
+                  "h": 122,
+                  "w": 122
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1174491801119420416,
+    "in_reply_to_status_id_str": "1174491801119420416",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Dec 05 03:51:16 +0000 2019",
     "id": 1202435242172108800,
     "id_str": "1202435242172108800",
