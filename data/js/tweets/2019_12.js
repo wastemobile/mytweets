@@ -1,5 +1,237 @@
 Grailbird.data.tweets_2019_12 = [
   {
+    "created_at": "Sat Dec 07 06:46:37 +0000 2019",
+    "id": 1203204146582568960,
+    "id_str": "1203204146582568960",
+    "text": "@arguskao 不直送台灣，轉代運即可。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "arguskao",
+          "name": "高藥師",
+          "id": 5522882,
+          "id_str": "5522882",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1203203800766398464,
+    "in_reply_to_status_id_str": "1203203800766398464",
+    "in_reply_to_user_id": 5522882,
+    "in_reply_to_user_id_str": "5522882",
+    "in_reply_to_screen_name": "arguskao",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 07 02:58:22 +0000 2019",
+    "id": 1203146705685774336,
+    "id_str": "1203146705685774336",
+    "text": "這個 AWS DeepRacer 好有趣喔～\n\n一台美金 $399。\n\n交大學生奪亞馬遜AI賽車銅牌！AWS首次舉辦全球自駕車比賽DeepRacer https://t.co/oVAOozTocg https://t.co/rcATiVr3yl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oVAOozTocg",
+          "expanded_url": "http://bit.ly/2Rw7CN5",
+          "display_url": "bit.ly/2Rw7CN5",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1203146697028751360,
+          "id_str": "1203146697028751360",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELJvi-EVUAAsdet.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELJvi-EVUAAsdet.jpg",
+          "url": "https://t.co/rcATiVr3yl",
+          "display_url": "pic.twitter.com/rcATiVr3yl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1203146705685774336/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 434,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 434,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 328,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1203146697028751360,
+          "id_str": "1203146697028751360",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELJvi-EVUAAsdet.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ELJvi-EVUAAsdet.jpg",
+          "url": "https://t.co/rcATiVr3yl",
+          "display_url": "pic.twitter.com/rcATiVr3yl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1203146705685774336/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 434,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 434,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 328,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Dec 06 15:50:03 +0000 2019",
     "id": 1202978516263813120,
     "id_str": "1202978516263813120",
