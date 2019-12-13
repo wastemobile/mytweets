@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2019_12 = [
   {
+    "created_at": "Thu Dec 12 02:19:07 +0000 2019",
+    "id": 1204948765943029761,
+    "id_str": "1204948765943029761",
+    "text": "一般都是先有開源基礎、同時經營加值商業服務，有看過這種反向操作嗎？\n\nTwitter 成立一個五人開發小組，打算建立一個去中心化的開源社群架構。\n\nJack Dorsey Wants to Help You Create Your… https://t.co/gmaT1454RB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gmaT1454RB",
+          "expanded_url": "https://twitter.com/i/web/status/1204948765943029761",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Dec 11 12:18:34 +0000 2019",
     "id": 1204737236060688385,
     "id_str": "1204737236060688385",
