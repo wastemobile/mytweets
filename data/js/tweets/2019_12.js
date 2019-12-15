@@ -1,5 +1,246 @@
 Grailbird.data.tweets_2019_12 = [
   {
+    "created_at": "Sun Dec 15 02:15:40 +0000 2019",
+    "id": 1206035060706566144,
+    "id_str": "1206035060706566144",
+    "text": "「包括體育報紙在內的報紙發行量首次跌破4000萬份，每戶家庭平均訂閱量為0.7份。」\n\n覺得這圖哪裡怪怪的⋯⋯\n\n日本報紙發行量持續下降，讀者老齡化 https://t.co/Irl08px03F https://t.co/aj6PDJVnjC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Irl08px03F",
+          "expanded_url": "http://bit.ly/2RU3mak",
+          "display_url": "bit.ly/2RU3mak",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1206035052561235968,
+          "id_str": "1206035052561235968",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELyyfY6VAAAoTgE.png",
+          "media_url_https": "https://pbs.twimg.com/media/ELyyfY6VAAAoTgE.png",
+          "url": "https://t.co/aj6PDJVnjC",
+          "display_url": "pic.twitter.com/aj6PDJVnjC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1206035060706566144/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 880,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 880,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 598,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "features": {
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1206035052561235968,
+          "id_str": "1206035052561235968",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/ELyyfY6VAAAoTgE.png",
+          "media_url_https": "https://pbs.twimg.com/media/ELyyfY6VAAAoTgE.png",
+          "url": "https://t.co/aj6PDJVnjC",
+          "display_url": "pic.twitter.com/aj6PDJVnjC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1206035060706566144/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 880,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 880,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 598,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "features": {
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 14 14:46:05 +0000 2019",
+    "id": 1205861522880135169,
+    "id_str": "1205861522880135169",
+    "text": "🐺解析🐺獵魔士影集前導解析｜巫師3狂獵迷必看｜冰與火之歌後最受期待奇幻影集｜The Witcher Series｜Netflix https://t.co/i7n0at1FnP 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            92,
+            100
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/i7n0at1FnP",
+          "expanded_url": "https://youtu.be/0tcGzgKLSDw",
+          "display_url": "youtu.be/0tcGzgKLSDw",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Dec 12 02:19:07 +0000 2019",
     "id": 1204948765943029761,
     "id_str": "1204948765943029761",
