@@ -1,5 +1,256 @@
 Grailbird.data.tweets_2019_12 = [
   {
+    "created_at": "Fri Dec 20 05:58:06 +0000 2019",
+    "id": 1207902978805383168,
+    "id_str": "1207902978805383168",
+    "text": "RT @yesonline: » [爆卦] 電器商業同業公會強迫廠商降低空調保固年 - 看板 Gossiping - 批踢踢實業坊 https://t.co/xtcjRut3Pc // 2020年1月1日起，所有  #空調 保固年限都變成3年全機保  並取消原本主機板7年，壓縮…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "空調",
+          "indices": [
+            108,
+            111
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yesonline",
+          "name": "Jerry Lee⛅",
+          "id": 794676,
+          "id_str": "794676",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xtcjRut3Pc",
+          "expanded_url": "https://www.ptt.cc/bbs/Gossiping/M.1576811682.A.9DA.html",
+          "display_url": "ptt.cc/bbs/Gossiping/…",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Dec 20 04:39:49 +0000 2019",
+      "id": 1207883276628578304,
+      "id_str": "1207883276628578304",
+      "text": "» [爆卦] 電器商業同業公會強迫廠商降低空調保固年 - 看板 Gossiping - 批踢踢實業坊 https://t.co/xtcjRut3Pc // 2020年1月1日起，所有  #空調 保固年限都變成3年全機保  並取消原… https://t.co/5Qcq3t9Igm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "空調",
+            "indices": [
+              93,
+              96
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xtcjRut3Pc",
+            "expanded_url": "https://www.ptt.cc/bbs/Gossiping/M.1576811682.A.9DA.html",
+            "display_url": "ptt.cc/bbs/Gossiping/…",
+            "indices": [
+              51,
+              74
+            ]
+          },
+          {
+            "url": "https://t.co/5Qcq3t9Igm",
+            "expanded_url": "https://twitter.com/i/web/status/1207883276628578304",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 794676,
+        "id_str": "794676",
+        "name": "Jerry Lee☁",
+        "screen_name": "yesonline",
+        "location": "",
+        "description": "嘲笑せず、嘆かず、呪わず、ただ理解する‧‧‧‧‧",
+        "url": "https://t.co/OfbCfi2lTY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OfbCfi2lTY",
+                "expanded_url": "https://buzz.yesonline.me/",
+                "display_url": "buzz.yesonline.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 22748,
+        "friends_count": 459,
+        "listed_count": 162,
+        "created_at": "Mon Feb 26 06:16:33 +0000 2007",
+        "favourites_count": 13,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 54198,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "801B80",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1176663836763418624/yzqgEzxG_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176663836763418624/yzqgEzxG_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/794676/1569310096",
+        "profile_link_color": "0EB9ED",
+        "profile_sidebar_border_color": "343840",
+        "profile_sidebar_fill_color": "0C0917",
+        "profile_text_color": "4F494F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": true,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 20 02:22:53 +0000 2019",
+    "id": 1207848818701504512,
+    "id_str": "1207848818701504512",
+    "text": "距離天網的形成又進了一步，讚。\n\nAmazon、Apple、Google、Zigbee Alliance 與董事會成員組成工作小組，以開發智慧家庭裝置的開放標準 https://t.co/E3HAFaPpoF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/E3HAFaPpoF",
+          "expanded_url": "https://apple.co/2Z9tPlL",
+          "display_url": "apple.co/2Z9tPlL",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Dec 19 01:38:24 +0000 2019",
     "id": 1207475233650692098,
     "id_str": "1207475233650692098",
