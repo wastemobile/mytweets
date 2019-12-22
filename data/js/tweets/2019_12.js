@@ -1,5 +1,1392 @@
 Grailbird.data.tweets_2019_12 = [
   {
+    "created_at": "Sat Dec 21 01:20:28 +0000 2019",
+    "id": 1208195495824216064,
+    "id_str": "1208195495824216064",
+    "text": "RT @mhtx: 「寫作」真的很重要，而且跟寫程式一樣，有學不完的材料。還不起快寫起來...🙄\n\nhttps://t.co/osLT39UNBy https://t.co/7wNTtSSznO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mhtx",
+          "name": "Sam Tsai",
+          "id": 12862522,
+          "id_str": "12862522",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/osLT39UNBy",
+          "expanded_url": "https://buff.ly/2Eync3h",
+          "display_url": "buff.ly/2Eync3h",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1207807830046248966,
+          "id_str": "1207807830046248966",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/EML-0nrXkAY0So0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EML-0nrXkAY0So0.jpg",
+          "url": "https://t.co/7wNTtSSznO",
+          "display_url": "pic.twitter.com/7wNTtSSznO",
+          "expanded_url": "https://twitter.com/mhtx/status/1207807831543631872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1207807831543631872,
+          "source_status_id_str": "1207807831543631872",
+          "source_user_id": 12862522,
+          "source_user_id_str": "12862522",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 855,
+                  "y": 83,
+                  "h": 181,
+                  "w": 181
+                },
+                {
+                  "x": 890,
+                  "y": 317,
+                  "h": 146,
+                  "w": 146
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 454,
+                  "y": 44,
+                  "h": 96,
+                  "w": 96
+                },
+                {
+                  "x": 472,
+                  "y": 168,
+                  "h": 77,
+                  "w": 77
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 855,
+                  "y": 83,
+                  "h": 181,
+                  "w": 181
+                },
+                {
+                  "x": 890,
+                  "y": 317,
+                  "h": 146,
+                  "w": 146
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 801,
+                  "y": 77,
+                  "h": 169,
+                  "w": 169
+                },
+                {
+                  "x": 834,
+                  "y": 297,
+                  "h": 136,
+                  "w": 136
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1207807830046248966,
+          "id_str": "1207807830046248966",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/EML-0nrXkAY0So0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EML-0nrXkAY0So0.jpg",
+          "url": "https://t.co/7wNTtSSznO",
+          "display_url": "pic.twitter.com/7wNTtSSznO",
+          "expanded_url": "https://twitter.com/mhtx/status/1207807831543631872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1207807831543631872,
+          "source_status_id_str": "1207807831543631872",
+          "source_user_id": 12862522,
+          "source_user_id_str": "12862522",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 855,
+                  "y": 83,
+                  "h": 181,
+                  "w": 181
+                },
+                {
+                  "x": 890,
+                  "y": 317,
+                  "h": 146,
+                  "w": 146
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 454,
+                  "y": 44,
+                  "h": 96,
+                  "w": 96
+                },
+                {
+                  "x": 472,
+                  "y": 168,
+                  "h": 77,
+                  "w": 77
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 855,
+                  "y": 83,
+                  "h": 181,
+                  "w": 181
+                },
+                {
+                  "x": 890,
+                  "y": 317,
+                  "h": 146,
+                  "w": 146
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 801,
+                  "y": 77,
+                  "h": 169,
+                  "w": 169
+                },
+                {
+                  "x": 834,
+                  "y": 297,
+                  "h": 136,
+                  "w": 136
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 19 23:40:01 +0000 2019",
+      "id": 1207807831543631872,
+      "id_str": "1207807831543631872",
+      "text": "「寫作」真的很重要，而且跟寫程式一樣，有學不完的材料。還不起快寫起來...🙄\n\nhttps://t.co/osLT39UNBy https://t.co/7wNTtSSznO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/osLT39UNBy",
+            "expanded_url": "https://buff.ly/2Eync3h",
+            "display_url": "buff.ly/2Eync3h",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1207807830046248966,
+            "id_str": "1207807830046248966",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/EML-0nrXkAY0So0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EML-0nrXkAY0So0.jpg",
+            "url": "https://t.co/7wNTtSSznO",
+            "display_url": "pic.twitter.com/7wNTtSSznO",
+            "expanded_url": "https://twitter.com/mhtx/status/1207807831543631872/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 855,
+                    "y": 83,
+                    "h": 181,
+                    "w": 181
+                  },
+                  {
+                    "x": 890,
+                    "y": 317,
+                    "h": 146,
+                    "w": 146
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 454,
+                    "y": 44,
+                    "h": 96,
+                    "w": 96
+                  },
+                  {
+                    "x": 472,
+                    "y": 168,
+                    "h": 77,
+                    "w": 77
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 855,
+                    "y": 83,
+                    "h": 181,
+                    "w": 181
+                  },
+                  {
+                    "x": 890,
+                    "y": 317,
+                    "h": 146,
+                    "w": 146
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 801,
+                    "y": 77,
+                    "h": 169,
+                    "w": 169
+                  },
+                  {
+                    "x": 834,
+                    "y": 297,
+                    "h": 136,
+                    "w": 136
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1207807830046248966,
+            "id_str": "1207807830046248966",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/EML-0nrXkAY0So0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EML-0nrXkAY0So0.jpg",
+            "url": "https://t.co/7wNTtSSznO",
+            "display_url": "pic.twitter.com/7wNTtSSznO",
+            "expanded_url": "https://twitter.com/mhtx/status/1207807831543631872/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "x": 855,
+                    "y": 83,
+                    "h": 181,
+                    "w": 181
+                  },
+                  {
+                    "x": 890,
+                    "y": 317,
+                    "h": 146,
+                    "w": 146
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 454,
+                    "y": 44,
+                    "h": 96,
+                    "w": 96
+                  },
+                  {
+                    "x": 472,
+                    "y": 168,
+                    "h": 77,
+                    "w": 77
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 855,
+                    "y": 83,
+                    "h": 181,
+                    "w": 181
+                  },
+                  {
+                    "x": 890,
+                    "y": 317,
+                    "h": 146,
+                    "w": 146
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 801,
+                    "y": 77,
+                    "h": 169,
+                    "w": 169
+                  },
+                  {
+                    "x": 834,
+                    "y": 297,
+                    "h": 136,
+                    "w": 136
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12862522,
+        "id_str": "12862522",
+        "name": "Sam Tsai",
+        "screen_name": "mhtx",
+        "location": "Taipei, Taiwan",
+        "description": "CTO of I³D  Technology Inc.\nBlog:  https://t.co/LC3aBwcpcW\nWorkFlowy: https://t.co/gQWRLiL7Hr Newspaper: https://t.co/syxl1Kxrns \n\n🚭",
+        "url": "https://t.co/WVAwNmaBiy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/WVAwNmaBiy",
+                "expanded_url": "http://samtsai.org",
+                "display_url": "samtsai.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/LC3aBwcpcW",
+                "expanded_url": "https://samtsai.org",
+                "display_url": "samtsai.org",
+                "indices": [
+                  35,
+                  58
+                ]
+              },
+              {
+                "url": "https://t.co/gQWRLiL7Hr",
+                "expanded_url": "http://workflowy.tips/",
+                "display_url": "workflowy.tips",
+                "indices": [
+                  70,
+                  93
+                ]
+              },
+              {
+                "url": "https://t.co/syxl1Kxrns",
+                "expanded_url": "http://thecpp.news",
+                "display_url": "thecpp.news",
+                "indices": [
+                  105,
+                  128
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1174,
+        "friends_count": 2585,
+        "listed_count": 187,
+        "created_at": "Wed Jan 30 05:25:08 +0000 2008",
+        "favourites_count": 5576,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24082,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/958626070873321477/6hiEdPtC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/958626070873321477/6hiEdPtC_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 41,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 20 13:40:39 +0000 2019",
+    "id": 1208019383353630720,
+    "id_str": "1208019383353630720",
+    "text": "RT @initiumnews: 【#狗生好難：北京通州限狗令禁大型犬，寵物醫院現安樂死潮】全文：https://t.co/ApB3R3hjE8\n\n圖：取自網路 https://t.co/OkgijL47wP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "狗生好難",
+          "indices": [
+            18,
+            23
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "initiumnews",
+          "name": "端傳媒 Initium Media",
+          "id": 3232393554,
+          "id_str": "3232393554",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ApB3R3hjE8",
+          "expanded_url": "https://buff.ly/2Q4xAF1",
+          "display_url": "buff.ly/2Q4xAF1",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1208013319740829697,
+          "id_str": "1208013319740829697",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMO5tscXsAE765t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMO5tscXsAE765t.jpg",
+          "url": "https://t.co/OkgijL47wP",
+          "display_url": "pic.twitter.com/OkgijL47wP",
+          "expanded_url": "https://twitter.com/initiumnews/status/1208013321481412608/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 540,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 540,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1208013321481412608,
+          "source_status_id_str": "1208013321481412608",
+          "source_user_id": 3232393554,
+          "source_user_id_str": "3232393554",
+          "features": {
+            "medium": {
+              "faces": [
+                {
+                  "x": 253,
+                  "y": 673,
+                  "h": 152,
+                  "w": 152
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 179,
+                  "y": 477,
+                  "h": 107,
+                  "w": 107
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 253,
+                  "y": 673,
+                  "h": 152,
+                  "w": 152
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 253,
+                  "y": 673,
+                  "h": 152,
+                  "w": 152
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1208013319740829697,
+          "id_str": "1208013319740829697",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMO5tscXsAE765t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMO5tscXsAE765t.jpg",
+          "url": "https://t.co/OkgijL47wP",
+          "display_url": "pic.twitter.com/OkgijL47wP",
+          "expanded_url": "https://twitter.com/initiumnews/status/1208013321481412608/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 540,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 383,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 540,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1208013321481412608,
+          "source_status_id_str": "1208013321481412608",
+          "source_user_id": 3232393554,
+          "source_user_id_str": "3232393554",
+          "features": {
+            "medium": {
+              "faces": [
+                {
+                  "x": 253,
+                  "y": 673,
+                  "h": 152,
+                  "w": 152
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 179,
+                  "y": 477,
+                  "h": 107,
+                  "w": 107
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 253,
+                  "y": 673,
+                  "h": 152,
+                  "w": 152
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 253,
+                  "y": 673,
+                  "h": 152,
+                  "w": 152
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": 1208013319690498048,
+          "id_str": "1208013319690498048",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMO5tsQXsAAST7U.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMO5tsQXsAAST7U.jpg",
+          "url": "https://t.co/OkgijL47wP",
+          "display_url": "pic.twitter.com/OkgijL47wP",
+          "expanded_url": "https://twitter.com/initiumnews/status/1208013321481412608/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 550,
+              "h": 825,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 550,
+              "h": 825,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1208013321481412608,
+          "source_status_id_str": "1208013321481412608",
+          "source_user_id": 3232393554,
+          "source_user_id_str": "3232393554",
+          "features": {
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            }
+          }
+        },
+        {
+          "id": 1208013319396843520,
+          "id_str": "1208013319396843520",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EMO5trKW4AA65HQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EMO5trKW4AA65HQ.jpg",
+          "url": "https://t.co/OkgijL47wP",
+          "display_url": "pic.twitter.com/OkgijL47wP",
+          "expanded_url": "https://twitter.com/initiumnews/status/1208013321481412608/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 550,
+              "h": 733,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 550,
+              "h": 733,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1208013321481412608,
+          "source_status_id_str": "1208013321481412608",
+          "source_user_id": 3232393554,
+          "source_user_id_str": "3232393554",
+          "features": {
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "large": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Dec 20 13:16:34 +0000 2019",
+      "id": 1208013321481412608,
+      "id_str": "1208013321481412608",
+      "text": "【#狗生好難：北京通州限狗令禁大型犬，寵物醫院現安樂死潮】全文：https://t.co/ApB3R3hjE8\n\n圖：取自網路 https://t.co/OkgijL47wP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "狗生好難",
+            "indices": [
+              1,
+              6
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ApB3R3hjE8",
+            "expanded_url": "https://buff.ly/2Q4xAF1",
+            "display_url": "buff.ly/2Q4xAF1",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1208013319740829697,
+            "id_str": "1208013319740829697",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMO5tscXsAE765t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMO5tscXsAE765t.jpg",
+            "url": "https://t.co/OkgijL47wP",
+            "display_url": "pic.twitter.com/OkgijL47wP",
+            "expanded_url": "https://twitter.com/initiumnews/status/1208013321481412608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 540,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 540,
+                "h": 960,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": [
+                  {
+                    "x": 253,
+                    "y": 673,
+                    "h": 152,
+                    "w": 152
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 179,
+                    "y": 477,
+                    "h": 107,
+                    "w": 107
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 253,
+                    "y": 673,
+                    "h": 152,
+                    "w": 152
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "x": 253,
+                    "y": 673,
+                    "h": 152,
+                    "w": 152
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1208013319740829697,
+            "id_str": "1208013319740829697",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMO5tscXsAE765t.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMO5tscXsAE765t.jpg",
+            "url": "https://t.co/OkgijL47wP",
+            "display_url": "pic.twitter.com/OkgijL47wP",
+            "expanded_url": "https://twitter.com/initiumnews/status/1208013321481412608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 540,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 540,
+                "h": 960,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": [
+                  {
+                    "x": 253,
+                    "y": 673,
+                    "h": 152,
+                    "w": 152
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 179,
+                    "y": 477,
+                    "h": 107,
+                    "w": 107
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 253,
+                    "y": 673,
+                    "h": 152,
+                    "w": 152
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "x": 253,
+                    "y": 673,
+                    "h": 152,
+                    "w": 152
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": 1208013319690498048,
+            "id_str": "1208013319690498048",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMO5tsQXsAAST7U.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMO5tsQXsAAST7U.jpg",
+            "url": "https://t.co/OkgijL47wP",
+            "display_url": "pic.twitter.com/OkgijL47wP",
+            "expanded_url": "https://twitter.com/initiumnews/status/1208013321481412608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 550,
+                "h": 825,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 550,
+                "h": 825,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 453,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "large": {
+                "faces": [
+
+                ]
+              },
+              "medium": {
+                "faces": [
+
+                ]
+              },
+              "orig": {
+                "faces": [
+
+                ]
+              },
+              "small": {
+                "faces": [
+
+                ]
+              }
+            }
+          },
+          {
+            "id": 1208013319396843520,
+            "id_str": "1208013319396843520",
+            "indices": [
+              64,
+              87
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMO5trKW4AA65HQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMO5trKW4AA65HQ.jpg",
+            "url": "https://t.co/OkgijL47wP",
+            "display_url": "pic.twitter.com/OkgijL47wP",
+            "expanded_url": "https://twitter.com/initiumnews/status/1208013321481412608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 550,
+                "h": 733,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 550,
+                "h": 733,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": [
+
+                ]
+              },
+              "medium": {
+                "faces": [
+
+                ]
+              },
+              "orig": {
+                "faces": [
+
+                ]
+              },
+              "large": {
+                "faces": [
+
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3232393554,
+        "id_str": "3232393554",
+        "name": "端傳媒 Initium Media",
+        "screen_name": "initiumnews",
+        "location": "Hong Kong",
+        "description": "立足香港，放眼全球；探求本源，不偏不倚；深度調查，數據挖掘，華語媒體新開端。",
+        "url": "http://t.co/mHcE4gjNZ0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/mHcE4gjNZ0",
+                "expanded_url": "http://theinitium.com",
+                "display_url": "theinitium.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 140108,
+        "friends_count": 428,
+        "listed_count": 1008,
+        "created_at": "Mon Jun 01 10:16:14 +0000 2015",
+        "favourites_count": 82,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 15102,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/749869876836118528/2aTsW9Zq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/749869876836118528/2aTsW9Zq_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3232393554/1574626808",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Dec 20 05:58:06 +0000 2019",
     "id": 1207902978805383168,
     "id_str": "1207902978805383168",
