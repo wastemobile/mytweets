@@ -1,5 +1,176 @@
 Grailbird.data.tweets_2019_12 = [
   {
+    "created_at": "Sat Dec 28 03:39:44 +0000 2019",
+    "id": 1210767259565621248,
+    "id_str": "1210767259565621248",
+    "text": "RT @klc_ruoshui: https://t.co/5ldhTNZXh2\n\n報導者這系列很厲害的專題，目前有三篇文章－\n\n1.打不死的內容農場──揭開「密訊」背後操盤手和中國因素 \n\n2. LINE群組的假訊息從哪來？跨國調查，追出內容農場「直銷」產業鍊\n\n3.輸出台灣…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "klc_ruoshui",
+          "name": "KC",
+          "id": 2546368524,
+          "id_str": "2546368524",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5ldhTNZXh2",
+          "expanded_url": "https://www.twreporter.org/topics/information-warfare-business?fbclid=IwAR0oIePak104LMmgTVSR54N3c6htOpxfOefqHb6VHK2U4Ikh9IhjT3pXbHQ",
+          "display_url": "twreporter.org/topics/informa…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 26 07:50:59 +0000 2019",
+      "id": 1210105712526778368,
+      "id_str": "1210105712526778368",
+      "text": "https://t.co/5ldhTNZXh2\n\n報導者這系列很厲害的專題，目前有三篇文章－\n\n1.打不死的內容農場──揭開「密訊」背後操盤手和中國因素 \n\n2. LINE群組的假訊息從哪來？跨國調查，追出內容農場「直銷」產業鍊… https://t.co/WZwRiKR4dq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5ldhTNZXh2",
+            "expanded_url": "https://www.twreporter.org/topics/information-warfare-business?fbclid=IwAR0oIePak104LMmgTVSR54N3c6htOpxfOefqHb6VHK2U4Ikh9IhjT3pXbHQ",
+            "display_url": "twreporter.org/topics/informa…",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "https://t.co/WZwRiKR4dq",
+            "expanded_url": "https://twitter.com/i/web/status/1210105712526778368",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2546368524,
+        "id_str": "2546368524",
+        "name": "KC",
+        "screen_name": "klc_ruoshui",
+        "location": "Taiwan",
+        "description": "翻白眼專家；若水是我；肥宅大叔；不器用な男；分離焦慮；厭世系；擅發廢推；幹話上手；沒有音樂和閱讀會死。Shoegaze最高！",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1107,
+        "friends_count": 1158,
+        "listed_count": 8,
+        "created_at": "Wed Jun 04 15:39:19 +0000 2014",
+        "favourites_count": 42585,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 196,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1159111050198827009/oh-xtGzY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159111050198827009/oh-xtGzY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2546368524/1553524006",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 159,
+      "favorite_count": 246,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 159,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Dec 27 14:34:56 +0000 2019",
     "id": 1210569759164526599,
     "id_str": "1210569759164526599",
