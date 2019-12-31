@@ -1,5 +1,462 @@
 Grailbird.data.tweets_2019_12 = [
   {
+    "created_at": "Tue Dec 31 02:22:51 +0000 2019",
+    "id": 1211835077279145985,
+    "id_str": "1211835077279145985",
+    "text": "「人類行為的出發點都太嚴肅了，所以才會想從中找出趣味。」~《路上觀察學》赤瀨川原平\n\n2019 台灣年度 ZINE 選：創作在抗爭現場，也在檳榔攤｜雜誌現場 https://t.co/KIWlq6V5FC https://t.co/1CcAVmHuP4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KIWlq6V5FC",
+          "expanded_url": "http://bit.ly/2tfIY9y",
+          "display_url": "bit.ly/2tfIY9y",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1211835068936704001,
+          "id_str": "1211835068936704001",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENFNkxpVUAEIjnD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENFNkxpVUAEIjnD.jpg",
+          "url": "https://t.co/1CcAVmHuP4",
+          "display_url": "pic.twitter.com/1CcAVmHuP4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1211835077279145985/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 600,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 86,
+                  "y": 55,
+                  "h": 24,
+                  "w": 24
+                },
+                {
+                  "x": 49,
+                  "y": 393,
+                  "h": 28,
+                  "w": 28
+                },
+                {
+                  "x": 375,
+                  "y": 260,
+                  "h": 42,
+                  "w": 42
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 122,
+                  "y": 79,
+                  "h": 35,
+                  "w": 35
+                },
+                {
+                  "x": 70,
+                  "y": 556,
+                  "h": 40,
+                  "w": 40
+                },
+                {
+                  "x": 530,
+                  "y": 368,
+                  "h": 60,
+                  "w": 60
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 122,
+                  "y": 79,
+                  "h": 35,
+                  "w": 35
+                },
+                {
+                  "x": 70,
+                  "y": 556,
+                  "h": 40,
+                  "w": 40
+                },
+                {
+                  "x": 530,
+                  "y": 368,
+                  "h": 60,
+                  "w": 60
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 122,
+                  "y": 79,
+                  "h": 35,
+                  "w": 35
+                },
+                {
+                  "x": 70,
+                  "y": 556,
+                  "h": 40,
+                  "w": 40
+                },
+                {
+                  "x": 530,
+                  "y": 368,
+                  "h": 60,
+                  "w": 60
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1211835068936704001,
+          "id_str": "1211835068936704001",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENFNkxpVUAEIjnD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENFNkxpVUAEIjnD.jpg",
+          "url": "https://t.co/1CcAVmHuP4",
+          "display_url": "pic.twitter.com/1CcAVmHuP4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1211835077279145985/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 600,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 86,
+                  "y": 55,
+                  "h": 24,
+                  "w": 24
+                },
+                {
+                  "x": 49,
+                  "y": 393,
+                  "h": 28,
+                  "w": 28
+                },
+                {
+                  "x": 375,
+                  "y": 260,
+                  "h": 42,
+                  "w": 42
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 122,
+                  "y": 79,
+                  "h": 35,
+                  "w": 35
+                },
+                {
+                  "x": 70,
+                  "y": 556,
+                  "h": 40,
+                  "w": 40
+                },
+                {
+                  "x": 530,
+                  "y": 368,
+                  "h": 60,
+                  "w": 60
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 122,
+                  "y": 79,
+                  "h": 35,
+                  "w": 35
+                },
+                {
+                  "x": 70,
+                  "y": 556,
+                  "h": 40,
+                  "w": 40
+                },
+                {
+                  "x": 530,
+                  "y": 368,
+                  "h": 60,
+                  "w": 60
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 122,
+                  "y": 79,
+                  "h": 35,
+                  "w": 35
+                },
+                {
+                  "x": 70,
+                  "y": 556,
+                  "h": 40,
+                  "w": 40
+                },
+                {
+                  "x": 530,
+                  "y": 368,
+                  "h": 60,
+                  "w": 60
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 30 15:11:46 +0000 2019",
+    "id": 1211666193993498628,
+    "id_str": "1211666193993498628",
+    "text": "RT @HitachiChenTW: 再講一次，我為什麼討厭韓國瑜。\n\n他就是那種滿嘴跑火車跑飛機、說自己混得多好，要大家搞投資，結果把長輩錢都弄光的那種人。\n\n就是跟客戶吹牛，把技術上做不到的事說得跟真的一樣，最後害技術人員做得要死還被客戶或股東慘電的人。\n\n哪怕你投給老宋而…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "HitachiChenTW",
+          "name": "Chen Chen",
+          "id": 970980263776829441,
+          "id_str": "970980263776829441",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Dec 29 10:53:44 +0000 2019",
+      "id": 1211238868172730368,
+      "id_str": "1211238868172730368",
+      "text": "再講一次，我為什麼討厭韓國瑜。\n\n他就是那種滿嘴跑火車跑飛機、說自己混得多好，要大家搞投資，結果把長輩錢都弄光的那種人。\n\n就是跟客戶吹牛，把技術上做不到的事說得跟真的一樣，最後害技術人員做得要死還被客戶或股東慘電的人。\n\n哪怕你投給老宋而不是小英，我都還覺得你腦袋正常一點。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 970980263776829441,
+        "id_str": "970980263776829441",
+        "name": "Chen Chen",
+        "screen_name": "HitachiChenTW",
+        "location": "台北市, 台灣",
+        "description": "#順異男 #廢除死刑 台灣解殖獨立建國",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1618,
+        "friends_count": 283,
+        "listed_count": 13,
+        "created_at": "Tue Mar 06 11:11:49 +0000 2018",
+        "favourites_count": 5115,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11790,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1205207285917634560/MqlBwfH5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205207285917634560/MqlBwfH5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/970980263776829441/1520335577",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 126,
+      "favorite_count": 785,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 126,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Dec 28 03:39:44 +0000 2019",
     "id": 1210767259565621248,
     "id_str": "1210767259565621248",
