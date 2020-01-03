@@ -1,5 +1,387 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Fri Jan 03 01:45:45 +0000 2020",
+    "id": 1212912904372011008,
+    "id_str": "1212912904372011008",
+    "text": "原來在英美電子書市場，光 KindleUnlimited 就超過其他任何競爭者。 #note\n\nAmazon Ebook Market Share 2019 – is it big enough?… https://t.co/8jYBDL2FgQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            41,
+            46
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8jYBDL2FgQ",
+          "expanded_url": "https://twitter.com/i/web/status/1212912904372011008",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 02 14:29:06 +0000 2020",
+    "id": 1212742616275542018,
+    "id_str": "1212742616275542018",
+    "text": "美國音樂市場的統計，串流音樂在2010只有7%，2019是完全主宰的80%。當年佔52%的實體CD與38%的數位下載，都降到9%左右。 #note\n\nMusic Streaming Soared From 7% to 80% of… https://t.co/ER44ZHAc41",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            68,
+            73
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ER44ZHAc41",
+          "expanded_url": "https://twitter.com/i/web/status/1212742616275542018",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 02 14:13:53 +0000 2020",
+    "id": 1212738789358964736,
+    "id_str": "1212738789358964736",
+    "text": "喔喔，寫《老妓抄》那位奇女子啊～ https://t.co/gM0Sys2VHt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gM0Sys2VHt",
+          "expanded_url": "https://twitter.com/milnjitefunnee/status/1212727916989042688",
+          "display_url": "twitter.com/milnjitefunnee…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1212727916989042688,
+    "quoted_status_id_str": "1212727916989042688",
+    "quoted_status": {
+      "created_at": "Thu Jan 02 13:30:41 +0000 2020",
+      "id": 1212727916989042688,
+      "id_str": "1212727916989042688",
+      "text": "《 佛教就是爆炸：加乃觀音降臨 》\n迷因影片終於上線了，推特搶先看\n(☝ ՞ਊ ՞)＝☞)՞ਊ ՞) https://t.co/B4AQvvvt8B",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1212727227411877888,
+            "id_str": "1212727227411877888",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212727227411877888/pu/img/Ki14MCwiRLBu6W1g.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212727227411877888/pu/img/Ki14MCwiRLBu6W1g.jpg",
+            "url": "https://t.co/B4AQvvvt8B",
+            "display_url": "pic.twitter.com/B4AQvvvt8B",
+            "expanded_url": "https://twitter.com/milnjitefunnee/status/1212727916989042688/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "features": {
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1212727227411877888,
+            "id_str": "1212727227411877888",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1212727227411877888/pu/img/Ki14MCwiRLBu6W1g.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1212727227411877888/pu/img/Ki14MCwiRLBu6W1g.jpg",
+            "url": "https://t.co/B4AQvvvt8B",
+            "display_url": "pic.twitter.com/B4AQvvvt8B",
+            "expanded_url": "https://twitter.com/milnjitefunnee/status/1212727916989042688/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 68443,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1212727227411877888/pu/vid/1280x720/LstmkfmLtpQO2SpH.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1212727227411877888/pu/pl/5sPkrhwhymgbAMjp.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1212727227411877888/pu/vid/640x360/eprROrVmMOQYgsNI.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1212727227411877888/pu/vid/480x270/-HuaLkDgERVH4VXI.mp4?tag=10"
+                }
+              ]
+            },
+            "features": {
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18079238,
+        "id_str": "18079238",
+        "name": "㊙️ 歪み観音· 女殺油地獄",
+        "screen_name": "milnjitefunnee",
+        "location": "昭和モダン、大正浪漫",
+        "description": "泡泡浴，回到母體，妖姬 ‧ 嬉皮 ‧ 北七，又是下著濛濛細雨的星期一。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3141,
+        "friends_count": 579,
+        "listed_count": 43,
+        "created_at": "Fri Dec 12 16:23:36 +0000 2008",
+        "favourites_count": 6645,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4598,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "A0C69E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201412752343883776/HRFMiyQm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201412752343883776/HRFMiyQm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18079238/1483511440",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "ED924C",
+        "profile_text_color": "F85260",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jan 01 05:43:31 +0000 2020",
     "id": 1212247961402396672,
     "id_str": "1212247961402396672",
