@@ -1,5 +1,917 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Sat Jan 04 14:22:19 +0000 2020",
+    "id": 1213465685193420800,
+    "id_str": "1213465685193420800",
+    "text": "OMG！（其實不算貴耶）\n\n百工職魂第二十三集-愛是一道光！所有星戰迷都想擁有的優雅武器：光劍《馬可多本部》Lightsaber Maker https://t.co/TiIhcgfbUG 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            98,
+            106
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TiIhcgfbUG",
+          "expanded_url": "https://youtu.be/CN78JWpWE8E",
+          "display_url": "youtu.be/CN78JWpWE8E",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 04 08:59:02 +0000 2020",
+    "id": 1213384330308812800,
+    "id_str": "1213384330308812800",
+    "text": "官方《獵魔士》時間軸圖說⋯⋯（怎樣！這是看不起觀眾智力嗎？）\n\n不要再說看不懂時間軸了！ #Netflix 公開《獵魔士》第一季各集時間線讓你一目了然 https://t.co/HMyqWvn2X2 https://t.co/AJ2XKti7eh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            45,
+            53
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HMyqWvn2X2",
+          "expanded_url": "http://bit.ly/36oJbpw",
+          "display_url": "bit.ly/36oJbpw",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1213384306317393920,
+          "id_str": "1213384306317393920",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENbOmQoVAAATvFz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENbOmQoVAAATvFz.jpg",
+          "url": "https://t.co/AJ2XKti7eh",
+          "display_url": "pic.twitter.com/AJ2XKti7eh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1213384330308812800/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 776,
+              "h": 776,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 776,
+              "h": 776,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "orig": {
+              "faces": [
+                {
+                  "x": 584,
+                  "y": 163,
+                  "h": 64,
+                  "w": 64
+                },
+                {
+                  "x": 113,
+                  "y": 144,
+                  "h": 66,
+                  "w": 66
+                },
+                {
+                  "x": 351,
+                  "y": 537,
+                  "h": 74,
+                  "w": 74
+                },
+                {
+                  "x": 44,
+                  "y": 480,
+                  "h": 84,
+                  "w": 84
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 584,
+                  "y": 163,
+                  "h": 64,
+                  "w": 64
+                },
+                {
+                  "x": 113,
+                  "y": 144,
+                  "h": 66,
+                  "w": 66
+                },
+                {
+                  "x": 351,
+                  "y": 537,
+                  "h": 74,
+                  "w": 74
+                },
+                {
+                  "x": 44,
+                  "y": 480,
+                  "h": 84,
+                  "w": 84
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 511,
+                  "y": 142,
+                  "h": 56,
+                  "w": 56
+                },
+                {
+                  "x": 99,
+                  "y": 126,
+                  "h": 57,
+                  "w": 57
+                },
+                {
+                  "x": 307,
+                  "y": 470,
+                  "h": 64,
+                  "w": 64
+                },
+                {
+                  "x": 38,
+                  "y": 420,
+                  "h": 73,
+                  "w": 73
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 584,
+                  "y": 163,
+                  "h": 64,
+                  "w": 64
+                },
+                {
+                  "x": 113,
+                  "y": 144,
+                  "h": 66,
+                  "w": 66
+                },
+                {
+                  "x": 351,
+                  "y": 537,
+                  "h": 74,
+                  "w": 74
+                },
+                {
+                  "x": 44,
+                  "y": 480,
+                  "h": 84,
+                  "w": 84
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1213384306317393920,
+          "id_str": "1213384306317393920",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENbOmQoVAAATvFz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENbOmQoVAAATvFz.jpg",
+          "url": "https://t.co/AJ2XKti7eh",
+          "display_url": "pic.twitter.com/AJ2XKti7eh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1213384330308812800/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 776,
+              "h": 776,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 776,
+              "h": 776,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "orig": {
+              "faces": [
+                {
+                  "x": 584,
+                  "y": 163,
+                  "h": 64,
+                  "w": 64
+                },
+                {
+                  "x": 113,
+                  "y": 144,
+                  "h": 66,
+                  "w": 66
+                },
+                {
+                  "x": 351,
+                  "y": 537,
+                  "h": 74,
+                  "w": 74
+                },
+                {
+                  "x": 44,
+                  "y": 480,
+                  "h": 84,
+                  "w": 84
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 584,
+                  "y": 163,
+                  "h": 64,
+                  "w": 64
+                },
+                {
+                  "x": 113,
+                  "y": 144,
+                  "h": 66,
+                  "w": 66
+                },
+                {
+                  "x": 351,
+                  "y": 537,
+                  "h": 74,
+                  "w": 74
+                },
+                {
+                  "x": 44,
+                  "y": 480,
+                  "h": 84,
+                  "w": 84
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 511,
+                  "y": 142,
+                  "h": 56,
+                  "w": 56
+                },
+                {
+                  "x": 99,
+                  "y": 126,
+                  "h": 57,
+                  "w": 57
+                },
+                {
+                  "x": 307,
+                  "y": 470,
+                  "h": 64,
+                  "w": 64
+                },
+                {
+                  "x": 38,
+                  "y": 420,
+                  "h": 73,
+                  "w": 73
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 584,
+                  "y": 163,
+                  "h": 64,
+                  "w": 64
+                },
+                {
+                  "x": 113,
+                  "y": 144,
+                  "h": 66,
+                  "w": 66
+                },
+                {
+                  "x": 351,
+                  "y": 537,
+                  "h": 74,
+                  "w": 74
+                },
+                {
+                  "x": 44,
+                  "y": 480,
+                  "h": 84,
+                  "w": 84
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": 1213384307416297472,
+          "id_str": "1213384307416297472",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENbOmUuU8AASx2A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENbOmUuU8AASx2A.jpg",
+          "url": "https://t.co/AJ2XKti7eh",
+          "display_url": "pic.twitter.com/AJ2XKti7eh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1213384330308812800/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 776,
+              "h": 776,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 776,
+              "h": 776,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "medium": {
+              "faces": [
+                {
+                  "x": 615,
+                  "y": 523,
+                  "h": 62,
+                  "w": 62
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 538,
+                  "y": 458,
+                  "h": 54,
+                  "w": 54
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 615,
+                  "y": 523,
+                  "h": 62,
+                  "w": 62
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 615,
+                  "y": 523,
+                  "h": 62,
+                  "w": 62
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": 1213384308519342080,
+          "id_str": "1213384308519342080",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENbOmY1UEAAHVbZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENbOmY1UEAAHVbZ.jpg",
+          "url": "https://t.co/AJ2XKti7eh",
+          "display_url": "pic.twitter.com/AJ2XKti7eh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1213384330308812800/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 776,
+              "h": 776,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 776,
+              "h": 776,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 528,
+                  "y": 127,
+                  "h": 60,
+                  "w": 60
+                },
+                {
+                  "x": 89,
+                  "y": 119,
+                  "h": 52,
+                  "w": 52
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 603,
+                  "y": 146,
+                  "h": 69,
+                  "w": 69
+                },
+                {
+                  "x": 102,
+                  "y": 136,
+                  "h": 60,
+                  "w": 60
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 603,
+                  "y": 146,
+                  "h": 69,
+                  "w": 69
+                },
+                {
+                  "x": 102,
+                  "y": 136,
+                  "h": 60,
+                  "w": 60
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 603,
+                  "y": 146,
+                  "h": 69,
+                  "w": 69
+                },
+                {
+                  "x": 102,
+                  "y": 136,
+                  "h": 60,
+                  "w": 60
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": 1213384309614071808,
+          "id_str": "1213384309614071808",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENbOmc6UUAAomNh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENbOmc6UUAAomNh.jpg",
+          "url": "https://t.co/AJ2XKti7eh",
+          "display_url": "pic.twitter.com/AJ2XKti7eh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1213384330308812800/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 776,
+              "h": 776,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 776,
+              "h": 776,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "x": 586,
+                  "y": 508,
+                  "h": 68,
+                  "w": 68
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 586,
+                  "y": 508,
+                  "h": 68,
+                  "w": 68
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 586,
+                  "y": 508,
+                  "h": 68,
+                  "w": 68
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 513,
+                  "y": 445,
+                  "h": 59,
+                  "w": 59
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 03 13:08:52 +0000 2020",
+    "id": 1213084814426791936,
+    "id_str": "1213084814426791936",
+    "text": "真心覺得 #Netflix 《終極戰士》（Predator, 1987）好看到爆。\n\n《終極戰士》 https://t.co/llNIer0c4N https://t.co/ZqyVhtmSkl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            5,
+            13
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/llNIer0c4N",
+          "expanded_url": "http://bit.ly/2QmP8xq",
+          "display_url": "bit.ly/2QmP8xq",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1213084805379739648,
+          "id_str": "1213084805379739648",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENW-NAsVUAAIB53.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENW-NAsVUAAIB53.jpg",
+          "url": "https://t.co/ZqyVhtmSkl",
+          "display_url": "pic.twitter.com/ZqyVhtmSkl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1213084814426791936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 848,
+              "h": 477,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 848,
+              "h": 477,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 311,
+                  "y": 218,
+                  "h": 69,
+                  "w": 69
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 388,
+                  "y": 273,
+                  "h": 87,
+                  "w": 87
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 388,
+                  "y": 273,
+                  "h": 87,
+                  "w": 87
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 388,
+                  "y": 273,
+                  "h": 87,
+                  "w": 87
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1213084805379739648,
+          "id_str": "1213084805379739648",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENW-NAsVUAAIB53.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENW-NAsVUAAIB53.jpg",
+          "url": "https://t.co/ZqyVhtmSkl",
+          "display_url": "pic.twitter.com/ZqyVhtmSkl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1213084814426791936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 848,
+              "h": 477,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 848,
+              "h": 477,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 311,
+                  "y": 218,
+                  "h": 69,
+                  "w": 69
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 388,
+                  "y": 273,
+                  "h": 87,
+                  "w": 87
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 388,
+                  "y": 273,
+                  "h": 87,
+                  "w": 87
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 388,
+                  "y": 273,
+                  "h": 87,
+                  "w": 87
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jan 03 01:45:45 +0000 2020",
     "id": 1212912904372011008,
     "id_str": "1212912904372011008",
