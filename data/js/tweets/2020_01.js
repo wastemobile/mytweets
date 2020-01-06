@@ -1,5 +1,309 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Sun Jan 05 08:39:59 +0000 2020",
+    "id": 1213741924118458374,
+    "id_str": "1213741924118458374",
+    "text": "RT @Sibyl096: 這裡有一件事情想拜託廣大的推友們幫忙，不知道可不可以請大家幫我的頻道衝1000訂閱\n目前我的頻道只有758訂閱\n\n以往我的頻道都能達到直播門檻，無奈去年TY上修到要1000訂閱才能開直播...\n感謝大家\n\nhttps://t.co/fgVVAwO66…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Sibyl096",
+          "name": "Sibyl Luna🌟小星😷身體狀況欠佳調養中",
+          "id": 887216001728761859,
+          "id_str": "887216001728761859",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jan 04 14:03:49 +0000 2020",
+      "id": 1213461032313573379,
+      "id_str": "1213461032313573379",
+      "text": "這裡有一件事情想拜託廣大的推友們幫忙，不知道可不可以請大家幫我的頻道衝1000訂閱\n目前我的頻道只有758訂閱\n\n以往我的頻道都能達到直播門檻，無奈去年TY上修到要1000訂閱才能開直播...\n感謝大家… https://t.co/6oD6jJifcm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6oD6jJifcm",
+            "expanded_url": "https://twitter.com/i/web/status/1213461032313573379",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 887216001728761859,
+        "id_str": "887216001728761859",
+        "name": "Sibyl Luna🌟小星😷身體狀況欠佳調養中",
+        "screen_name": "Sibyl096",
+        "location": "台灣",
+        "description": "台灣人。喜歡看各種風景/寵物。興趣是神秘學/身心靈（努力解心輪堵塞的課題中）/收集紀念章。紫色控。關心台灣社會政治議題，主張台灣獨立正名制憲，不溫良不恭儉，極度政治不正確。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 661,
+        "friends_count": 227,
+        "listed_count": 5,
+        "created_at": "Tue Jul 18 07:42:33 +0000 2017",
+        "favourites_count": 11292,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2932,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1213159250119151617/Eb-Q9z1w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213159250119151617/Eb-Q9z1w_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/887216001728761859/1576493662",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00180402799fed03",
+        "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+        "place_type": "city",
+        "name": "台北市",
+        "full_name": "台北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.457132,
+                24.960508
+              ],
+              [
+                121.66582,
+                24.960508
+              ],
+              [
+                121.66582,
+                25.211004
+              ],
+              [
+                121.457132,
+                25.211004
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1195773960966696960,
+      "quoted_status_id_str": "1195773960966696960",
+      "quoted_status": {
+        "created_at": "Sat Nov 16 18:41:43 +0000 2019",
+        "id": 1195773960966696960,
+        "id_str": "1195773960966696960",
+        "text": "#萬事問推友 #直播 \n請問有人知道除了YT 以外好用的直播App 嗎（急\n剛剛發現YT新政策把直播條件上修到要至少1000人訂閱\n我的也才740多人訂閱\n\n我每次選舉開票都是用YT直播...\n\n所以，想來請教推特大神，有沒有可以… https://t.co/BBD9bRkyA4",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "萬事問推友",
+              "indices": [
+                0,
+                6
+              ]
+            },
+            {
+              "text": "直播",
+              "indices": [
+                7,
+                10
+              ]
+            }
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/BBD9bRkyA4",
+              "expanded_url": "https://twitter.com/i/web/status/1195773960966696960",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 887216001728761859,
+          "id_str": "887216001728761859",
+          "name": "Sibyl Luna🌟小星😷身體狀況欠佳調養中",
+          "screen_name": "Sibyl096",
+          "location": "台灣",
+          "description": "台灣人。喜歡看各種風景/寵物。興趣是神秘學/身心靈（努力解心輪堵塞的課題中）/收集紀念章。紫色控。關心台灣社會政治議題，主張台灣獨立正名制憲，不溫良不恭儉，極度政治不正確。",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 661,
+          "friends_count": 227,
+          "listed_count": 5,
+          "created_at": "Tue Jul 18 07:42:33 +0000 2017",
+          "favourites_count": 11292,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2932,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1213159250119151617/Eb-Q9z1w_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213159250119151617/Eb-Q9z1w_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/887216001728761859/1576493662",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "can_media_tag": false,
+          "followed_by": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 28,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 69,
+      "favorite_count": 100,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1195773960966696960,
+    "quoted_status_id_str": "1195773960966696960",
+    "retweet_count": 69,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jan 04 14:22:19 +0000 2020",
     "id": 1213465685193420800,
     "id_str": "1213465685193420800",
