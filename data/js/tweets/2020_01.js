@@ -1,5 +1,656 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Tue Jan 07 15:34:55 +0000 2020",
+    "id": 1214571121577619459,
+    "id_str": "1214571121577619459",
+    "text": "RT @lazysundaytalk: https://t.co/LRlqtyneYw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lazysundaytalk",
+          "name": "Lazy Hannah",
+          "id": 1036485355111731201,
+          "id_str": "1036485355111731201",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1214570651756847109,
+          "id_str": "1214570651756847109",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENsFkpyU4AUP9Ui.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENsFkpyU4AUP9Ui.jpg",
+          "url": "https://t.co/LRlqtyneYw",
+          "display_url": "pic.twitter.com/LRlqtyneYw",
+          "expanded_url": "https://twitter.com/lazysundaytalk/status/1214570873107054597/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 960,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1214570873107054597,
+          "source_status_id_str": "1214570873107054597",
+          "source_user_id": 1036485355111731201,
+          "source_user_id_str": "1036485355111731201",
+          "features": {
+            "medium": {
+              "faces": [
+                {
+                  "x": 134,
+                  "y": 628,
+                  "h": 34,
+                  "w": 34
+                },
+                {
+                  "x": 480,
+                  "y": 234,
+                  "h": 130,
+                  "w": 130
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 94,
+                  "y": 444,
+                  "h": 24,
+                  "w": 24
+                },
+                {
+                  "x": 340,
+                  "y": 165,
+                  "h": 92,
+                  "w": 92
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 134,
+                  "y": 628,
+                  "h": 34,
+                  "w": 34
+                },
+                {
+                  "x": 480,
+                  "y": 234,
+                  "h": 130,
+                  "w": 130
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 134,
+                  "y": 628,
+                  "h": 34,
+                  "w": 34
+                },
+                {
+                  "x": 480,
+                  "y": 234,
+                  "h": 130,
+                  "w": 130
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1214570651756847109,
+          "id_str": "1214570651756847109",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/ENsFkpyU4AUP9Ui.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ENsFkpyU4AUP9Ui.jpg",
+          "url": "https://t.co/LRlqtyneYw",
+          "display_url": "pic.twitter.com/LRlqtyneYw",
+          "expanded_url": "https://twitter.com/lazysundaytalk/status/1214570873107054597/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 960,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1214570873107054597,
+          "source_status_id_str": "1214570873107054597",
+          "source_user_id": 1036485355111731201,
+          "source_user_id_str": "1036485355111731201",
+          "features": {
+            "medium": {
+              "faces": [
+                {
+                  "x": 134,
+                  "y": 628,
+                  "h": 34,
+                  "w": 34
+                },
+                {
+                  "x": 480,
+                  "y": 234,
+                  "h": 130,
+                  "w": 130
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "x": 94,
+                  "y": 444,
+                  "h": 24,
+                  "w": 24
+                },
+                {
+                  "x": 340,
+                  "y": 165,
+                  "h": 92,
+                  "w": 92
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 134,
+                  "y": 628,
+                  "h": 34,
+                  "w": 34
+                },
+                {
+                  "x": 480,
+                  "y": 234,
+                  "h": 130,
+                  "w": 130
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 134,
+                  "y": 628,
+                  "h": 34,
+                  "w": 34
+                },
+                {
+                  "x": 480,
+                  "y": 234,
+                  "h": 130,
+                  "w": 130
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jan 07 15:33:56 +0000 2020",
+      "id": 1214570873107054597,
+      "id_str": "1214570873107054597",
+      "text": "https://t.co/LRlqtyneYw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1214570651756847109,
+            "id_str": "1214570651756847109",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/ENsFkpyU4AUP9Ui.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ENsFkpyU4AUP9Ui.jpg",
+            "url": "https://t.co/LRlqtyneYw",
+            "display_url": "pic.twitter.com/LRlqtyneYw",
+            "expanded_url": "https://twitter.com/lazysundaytalk/status/1214570873107054597/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": [
+                  {
+                    "x": 134,
+                    "y": 628,
+                    "h": 34,
+                    "w": 34
+                  },
+                  {
+                    "x": 480,
+                    "y": 234,
+                    "h": 130,
+                    "w": 130
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 94,
+                    "y": 444,
+                    "h": 24,
+                    "w": 24
+                  },
+                  {
+                    "x": 340,
+                    "y": 165,
+                    "h": 92,
+                    "w": 92
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 134,
+                    "y": 628,
+                    "h": 34,
+                    "w": 34
+                  },
+                  {
+                    "x": 480,
+                    "y": 234,
+                    "h": 130,
+                    "w": 130
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "x": 134,
+                    "y": 628,
+                    "h": 34,
+                    "w": 34
+                  },
+                  {
+                    "x": 480,
+                    "y": 234,
+                    "h": 130,
+                    "w": 130
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1214570651756847109,
+            "id_str": "1214570651756847109",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/ENsFkpyU4AUP9Ui.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ENsFkpyU4AUP9Ui.jpg",
+            "url": "https://t.co/LRlqtyneYw",
+            "display_url": "pic.twitter.com/LRlqtyneYw",
+            "expanded_url": "https://twitter.com/lazysundaytalk/status/1214570873107054597/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 960,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "medium": {
+                "faces": [
+                  {
+                    "x": 134,
+                    "y": 628,
+                    "h": 34,
+                    "w": 34
+                  },
+                  {
+                    "x": 480,
+                    "y": 234,
+                    "h": 130,
+                    "w": 130
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "x": 94,
+                    "y": 444,
+                    "h": 24,
+                    "w": 24
+                  },
+                  {
+                    "x": 340,
+                    "y": 165,
+                    "h": 92,
+                    "w": 92
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 134,
+                    "y": 628,
+                    "h": 34,
+                    "w": 34
+                  },
+                  {
+                    "x": 480,
+                    "y": 234,
+                    "h": 130,
+                    "w": 130
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "x": 134,
+                    "y": 628,
+                    "h": 34,
+                    "w": 34
+                  },
+                  {
+                    "x": 480,
+                    "y": 234,
+                    "h": 130,
+                    "w": 130
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1036485355111731201,
+        "id_str": "1036485355111731201",
+        "name": "Lazy Hannah",
+        "screen_name": "lazysundaytalk",
+        "location": "Taipei City, Taiwan",
+        "description": "我覺得你會喜歡我",
+        "url": "https://t.co/YtDKZjf8aC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/YtDKZjf8aC",
+                "expanded_url": "https://www.instagram.com/ohhannahsunday/",
+                "display_url": "instagram.com/ohhannahsunday/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2328,
+        "friends_count": 160,
+        "listed_count": 11,
+        "created_at": "Mon Sep 03 05:25:40 +0000 2018",
+        "favourites_count": 1365,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 635,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1093416152158490624/H3jFPke5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093416152158490624/H3jFPke5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036485355111731201/1564808193",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 44,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Tue Jan 07 15:29:10 +0000 2020",
+    "id": 1214569671686443008,
+    "id_str": "1214569671686443008",
+    "text": "真是蠻奇怪的設計，不過 10.8\" E-Ink 好大喔⋯⋯\n\nLenovo ThinkBook Plus hands-on at CES 2020 https://t.co/XhSUQstrOk 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            101,
+            109
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XhSUQstrOk",
+          "expanded_url": "https://youtu.be/cOQiEjgllOw",
+          "display_url": "youtu.be/cOQiEjgllOw",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jan 06 14:00:03 +0000 2020",
     "id": 1214184857712001027,
     "id_str": "1214184857712001027",
