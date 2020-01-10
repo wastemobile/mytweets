@@ -1,5 +1,935 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Thu Jan 09 16:39:28 +0000 2020",
+    "id": 1215312140195651584,
+    "id_str": "1215312140195651584",
+    "text": "「一國兩制，我們只示範一次」 #嚇哭 #TaiwanElection #通通回去投給3號 https://t.co/Pzme6EkCpz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "嚇哭",
+          "indices": [
+            15,
+            18
+          ]
+        },
+        {
+          "text": "TaiwanElection",
+          "indices": [
+            19,
+            34
+          ]
+        },
+        {
+          "text": "通通回去投給3號",
+          "indices": [
+            35,
+            44
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Pzme6EkCpz",
+          "expanded_url": "https://twitter.com/joyuwang/status/1215278760204939264",
+          "display_url": "twitter.com/joyuwang/statu…",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1215278760204939264,
+    "quoted_status_id_str": "1215278760204939264",
+    "quoted_status": {
+      "created_at": "Thu Jan 09 14:26:49 +0000 2020",
+      "id": 1215278760204939264,
+      "id_str": "1215278760204939264",
+      "text": "Hong Kong protesters to Taiwan voters: “One country two systems”—we are only going to show you once.… https://t.co/HiwAMqADtH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HiwAMqADtH",
+            "expanded_url": "https://twitter.com/i/web/status/1215278760204939264",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 149002880,
+        "id_str": "149002880",
+        "name": "Joyu Wang",
+        "screen_name": "joyuwang",
+        "location": "Hong Kong",
+        "description": "Social media editor at @WSJ. #Mizzou Journalism alumna. Made in Taiwan. Also on the drums. 中文推特 👉🏻 @wangjoyu",
+        "url": "https://t.co/GhhR6PLfem",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/GhhR6PLfem",
+                "expanded_url": "http://wsj.com",
+                "display_url": "wsj.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3380,
+        "friends_count": 817,
+        "listed_count": 128,
+        "created_at": "Fri May 28 04:42:57 +0000 2010",
+        "favourites_count": 1131,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 1874,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/988308538307981312/mLmob4gK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/988308538307981312/mLmob4gK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/149002880/1524452456",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "0fc294cedb547000",
+        "url": "https://api.twitter.com/1.1/geo/id/0fc294cedb547000.json",
+        "place_type": "poi",
+        "name": "艋舺龍山寺 Longshan Temple",
+        "full_name": "艋舺龍山寺 Longshan Temple",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.49991631507872,
+                25.03695644134735
+              ],
+              [
+                121.49991631507872,
+                25.03695644134735
+              ],
+              [
+                121.49991631507872,
+                25.03695644134735
+              ],
+              [
+                121.49991631507872,
+                25.03695644134735
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 67,
+      "favorite_count": 109,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 09 16:23:30 +0000 2020",
+    "id": 1215308121335197696,
+    "id_str": "1215308121335197696",
+    "text": "RT @dryadb43738: 幹，我高雄人啦，把韓國瑜還我，五月罷免我要來跟他決一死戰啦。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dryadb43738",
+          "name": "最後一哩鹿（就是明天）( ⓛ ω ⓛ🌈)🌸",
+          "id": 299498565,
+          "id_str": "299498565",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 09 15:07:41 +0000 2020",
+      "id": 1215289041937002496,
+      "id_str": "1215289041937002496",
+      "text": "幹，我高雄人啦，把韓國瑜還我，五月罷免我要來跟他決一死戰啦。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 299498565,
+        "id_str": "299498565",
+        "name": "最後一哩鹿（就是明天）( ⓛ ω ⓛ🌈)🌸",
+        "screen_name": "dryadb43738",
+        "location": "台灣, Taiwan",
+        "description": "不吃芋頭、香菇：可以站就不要坐；可以放假就不上班；極厭世。 SW-3100-1920-2838。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12232,
+        "friends_count": 718,
+        "listed_count": 89,
+        "created_at": "Mon May 16 05:58:39 +0000 2011",
+        "favourites_count": 44948,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 67612,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/867891544505929728/ghk1Hirs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/867891544505929728/ghk1Hirs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/299498565/1506701257",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 196,
+      "favorite_count": 1170,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 196,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 09 07:12:58 +0000 2020",
+    "id": 1215169578042413056,
+    "id_str": "1215169578042413056",
+    "text": "這就是台灣，太讚。 https://t.co/4aZdCrI0nd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4aZdCrI0nd",
+          "expanded_url": "https://twitter.com/brianhioe/status/1215136950404800513",
+          "display_url": "twitter.com/brianhioe/stat…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1215136950404800513,
+    "quoted_status_id_str": "1215136950404800513",
+    "quoted_status": {
+      "created_at": "Thu Jan 09 05:03:19 +0000 2020",
+      "id": 1215136950404800513,
+      "id_str": "1215136950404800513",
+      "text": "Only in Taiwan will you have this as an ad for an election campaign rally. Only Taiwan https://t.co/EBvIJenlBu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1215136942087520261,
+            "id_str": "1215136942087520261",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/EN0InFqUwAU2WHU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EN0InFqUwAU2WHU.jpg",
+            "url": "https://t.co/EBvIJenlBu",
+            "display_url": "pic.twitter.com/EBvIJenlBu",
+            "expanded_url": "https://twitter.com/brianhioe/status/1215136950404800513/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": [
+                  {
+                    "x": 571,
+                    "y": 211,
+                    "h": 35,
+                    "w": 35
+                  },
+                  {
+                    "x": 84,
+                    "y": 583,
+                    "h": 46,
+                    "w": 46
+                  },
+                  {
+                    "x": 39,
+                    "y": 306,
+                    "h": 55,
+                    "w": 55
+                  },
+                  {
+                    "x": 317,
+                    "y": 335,
+                    "h": 85,
+                    "w": 85
+                  },
+                  {
+                    "x": 12,
+                    "y": 580,
+                    "h": 65,
+                    "w": 65
+                  },
+                  {
+                    "x": 161,
+                    "y": 79,
+                    "h": 90,
+                    "w": 90
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1722,
+                    "y": 636,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 254,
+                    "y": 1758,
+                    "h": 140,
+                    "w": 140
+                  },
+                  {
+                    "x": 120,
+                    "y": 924,
+                    "h": 166,
+                    "w": 166
+                  },
+                  {
+                    "x": 956,
+                    "y": 1010,
+                    "h": 258,
+                    "w": 258
+                  },
+                  {
+                    "x": 38,
+                    "y": 1748,
+                    "h": 198,
+                    "w": 198
+                  },
+                  {
+                    "x": 486,
+                    "y": 240,
+                    "h": 272,
+                    "w": 272
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "x": 1722,
+                    "y": 636,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 254,
+                    "y": 1758,
+                    "h": 140,
+                    "w": 140
+                  },
+                  {
+                    "x": 120,
+                    "y": 924,
+                    "h": 166,
+                    "w": 166
+                  },
+                  {
+                    "x": 956,
+                    "y": 1010,
+                    "h": 258,
+                    "w": 258
+                  },
+                  {
+                    "x": 38,
+                    "y": 1748,
+                    "h": 198,
+                    "w": 198
+                  },
+                  {
+                    "x": 486,
+                    "y": 240,
+                    "h": 272,
+                    "w": 272
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 1008,
+                    "y": 372,
+                    "h": 63,
+                    "w": 63
+                  },
+                  {
+                    "x": 148,
+                    "y": 1030,
+                    "h": 82,
+                    "w": 82
+                  },
+                  {
+                    "x": 70,
+                    "y": 541,
+                    "h": 97,
+                    "w": 97
+                  },
+                  {
+                    "x": 560,
+                    "y": 591,
+                    "h": 151,
+                    "w": 151
+                  },
+                  {
+                    "x": 22,
+                    "y": 1024,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 284,
+                    "y": 140,
+                    "h": 159,
+                    "w": 159
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1215136942087520261,
+            "id_str": "1215136942087520261",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/EN0InFqUwAU2WHU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EN0InFqUwAU2WHU.jpg",
+            "url": "https://t.co/EBvIJenlBu",
+            "display_url": "pic.twitter.com/EBvIJenlBu",
+            "expanded_url": "https://twitter.com/brianhioe/status/1215136950404800513/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": [
+                  {
+                    "x": 571,
+                    "y": 211,
+                    "h": 35,
+                    "w": 35
+                  },
+                  {
+                    "x": 84,
+                    "y": 583,
+                    "h": 46,
+                    "w": 46
+                  },
+                  {
+                    "x": 39,
+                    "y": 306,
+                    "h": 55,
+                    "w": 55
+                  },
+                  {
+                    "x": 317,
+                    "y": 335,
+                    "h": 85,
+                    "w": 85
+                  },
+                  {
+                    "x": 12,
+                    "y": 580,
+                    "h": 65,
+                    "w": 65
+                  },
+                  {
+                    "x": 161,
+                    "y": 79,
+                    "h": 90,
+                    "w": 90
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "x": 1722,
+                    "y": 636,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 254,
+                    "y": 1758,
+                    "h": 140,
+                    "w": 140
+                  },
+                  {
+                    "x": 120,
+                    "y": 924,
+                    "h": 166,
+                    "w": 166
+                  },
+                  {
+                    "x": 956,
+                    "y": 1010,
+                    "h": 258,
+                    "w": 258
+                  },
+                  {
+                    "x": 38,
+                    "y": 1748,
+                    "h": 198,
+                    "w": 198
+                  },
+                  {
+                    "x": 486,
+                    "y": 240,
+                    "h": 272,
+                    "w": 272
+                  }
+                ]
+              },
+              "large": {
+                "faces": [
+                  {
+                    "x": 1722,
+                    "y": 636,
+                    "h": 108,
+                    "w": 108
+                  },
+                  {
+                    "x": 254,
+                    "y": 1758,
+                    "h": 140,
+                    "w": 140
+                  },
+                  {
+                    "x": 120,
+                    "y": 924,
+                    "h": 166,
+                    "w": 166
+                  },
+                  {
+                    "x": 956,
+                    "y": 1010,
+                    "h": 258,
+                    "w": 258
+                  },
+                  {
+                    "x": 38,
+                    "y": 1748,
+                    "h": 198,
+                    "w": 198
+                  },
+                  {
+                    "x": 486,
+                    "y": 240,
+                    "h": 272,
+                    "w": 272
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "x": 1008,
+                    "y": 372,
+                    "h": 63,
+                    "w": 63
+                  },
+                  {
+                    "x": 148,
+                    "y": 1030,
+                    "h": 82,
+                    "w": 82
+                  },
+                  {
+                    "x": 70,
+                    "y": 541,
+                    "h": 97,
+                    "w": 97
+                  },
+                  {
+                    "x": 560,
+                    "y": 591,
+                    "h": 151,
+                    "w": 151
+                  },
+                  {
+                    "x": 22,
+                    "y": 1024,
+                    "h": 116,
+                    "w": 116
+                  },
+                  {
+                    "x": 284,
+                    "y": 140,
+                    "h": 159,
+                    "w": 159
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 203822998,
+        "id_str": "203822998",
+        "name": "Brian Hioe",
+        "screen_name": "brianhioe",
+        "location": "Taipei, Taiwan",
+        "description": "Editor @newbloommag, writer @popula, lawful evil @lausanhk, critic's picks @artforum. Same person as 丘琦欣. ㄎㄧㄤ man living in a ㄎㄧㄤ world in ㄎㄧㄤ times. KILL HIM.",
+        "url": "http://t.co/fv0k1iV4El",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/fv0k1iV4El",
+                "expanded_url": "http://newbloommag.net/",
+                "display_url": "newbloommag.net",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3085,
+        "friends_count": 2771,
+        "listed_count": 96,
+        "created_at": "Sun Oct 17 06:58:29 +0000 2010",
+        "favourites_count": 8437,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7424,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1142945336341803008/zFY4vlrx_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142945336341803008/zFY4vlrx_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/203822998/1562641143",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 363,
+      "favorite_count": 870,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jan 07 15:34:55 +0000 2020",
     "id": 1214571121577619459,
     "id_str": "1214571121577619459",
