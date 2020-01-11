@@ -1,5 +1,167 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Fri Jan 10 14:58:48 +0000 2020",
+    "id": 1215649196847460352,
+    "id_str": "1215649196847460352",
+    "text": "RT @OOBE: \"20200110 撐小英 凱道選前之夜 逐字稿 - HackMD\" ( https://t.co/NF8XwW69MF )",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OOBE",
+          "name": "OOBE 禮拜六會設定早上七點的鬧鐘去投票然後喝碗牛肉湯",
+          "id": 4496321,
+          "id_str": "4496321",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NF8XwW69MF",
+          "expanded_url": "http://twitthat.com/NhecW",
+          "display_url": "twitthat.com/NhecW",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 10 14:44:42 +0000 2020",
+      "id": 1215645648311279617,
+      "id_str": "1215645648311279617",
+      "text": "\"20200110 撐小英 凱道選前之夜 逐字稿 - HackMD\" ( https://t.co/NF8XwW69MF )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NF8XwW69MF",
+            "expanded_url": "http://twitthat.com/NhecW",
+            "display_url": "twitthat.com/NhecW",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitthat.com/\" rel=\"nofollow\">twitthat</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4496321,
+        "id_str": "4496321",
+        "name": "OOBE",
+        "screen_name": "OOBE",
+        "location": "Taiwan",
+        "description": "🔰 I am an Oneironaut.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13346,
+        "friends_count": 2181,
+        "listed_count": 194,
+        "created_at": "Fri Apr 13 13:16:07 +0000 2007",
+        "favourites_count": 46074,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 93619,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "798058",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1200149302376423425/L2OydUCZ_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1200149302376423425/L2OydUCZ_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4496321/1506265793",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "AA4D73",
+        "profile_text_color": "F87364",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": true,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 19,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jan 09 16:39:28 +0000 2020",
     "id": 1215312140195651584,
     "id_str": "1215312140195651584",
