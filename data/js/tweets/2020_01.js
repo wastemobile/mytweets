@@ -1,5 +1,350 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Thu Jan 16 03:34:21 +0000 2020",
+    "id": 1217651273924661248,
+    "id_str": "1217651273924661248",
+    "text": "@sunbreakwang 似乎沒人說好，約莫就是 Kindle 最低階等級，我只好留著 PW2 多看韌體。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sunbreakwang",
+          "name": "Sunbreak Wang",
+          "id": 561500021,
+          "id_str": "561500021",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1217650616404570113,
+    "in_reply_to_status_id_str": "1217650616404570113",
+    "in_reply_to_user_id": 561500021,
+    "in_reply_to_user_id_str": "561500021",
+    "in_reply_to_screen_name": "sunbreakwang",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 16 02:58:41 +0000 2020",
+    "id": 1217642298500009984,
+    "id_str": "1217642298500009984",
+    "text": "去年發的 E-Ink 電紙書還真是多，但讓人感興趣的還是 Kindle Oasis 3 與口袋閱這兩款。\n\n電紙書正越來越受歡迎！ 2019年發布的新品比你想像的要多得多！ https://t.co/93xk9pbCfX https://t.co/e2WOQTjMUh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/93xk9pbCfX",
+          "expanded_url": "http://bit.ly/35QsMco",
+          "display_url": "bit.ly/35QsMco",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1217642285661224960,
+          "id_str": "1217642285661224960",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOXvNRxVAAAt6Fp.png",
+          "media_url_https": "https://pbs.twimg.com/media/EOXvNRxVAAAt6Fp.png",
+          "url": "https://t.co/e2WOQTjMUh",
+          "display_url": "pic.twitter.com/e2WOQTjMUh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1217642298500009984/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 419,
+              "h": 323,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 419,
+              "h": 323,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 419,
+              "h": 323,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "features": {
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1217642285661224960,
+          "id_str": "1217642285661224960",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOXvNRxVAAAt6Fp.png",
+          "media_url_https": "https://pbs.twimg.com/media/EOXvNRxVAAAt6Fp.png",
+          "url": "https://t.co/e2WOQTjMUh",
+          "display_url": "pic.twitter.com/e2WOQTjMUh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1217642298500009984/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 419,
+              "h": 323,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 419,
+              "h": 323,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 419,
+              "h": 323,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "features": {
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            }
+          }
+        },
+        {
+          "id": 1217642286743355392,
+          "id_str": "1217642286743355392",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOXvNVzVAAAE6jl.png",
+          "media_url_https": "https://pbs.twimg.com/media/EOXvNVzVAAAE6jl.png",
+          "url": "https://t.co/e2WOQTjMUh",
+          "display_url": "pic.twitter.com/e2WOQTjMUh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1217642298500009984/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 446,
+              "h": 419,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 446,
+              "h": 419,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 446,
+              "h": 419,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "features": {
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 16 02:52:46 +0000 2020",
+    "id": 1217640808398016514,
+    "id_str": "1217640808398016514",
+    "text": "亞馬遜 Audible 有聲書自動字幕功能去年被出版商提起集體訴訟，看起來以和解告終，但具體細節不明。\n\nAudible Settles with Publishers in Audible Caption Lawsuit… https://t.co/R9B57PIwQS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/R9B57PIwQS",
+          "expanded_url": "https://twitter.com/i/web/status/1217640808398016514",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jan 13 08:29:43 +0000 2020",
     "id": 1216638444614500353,
     "id_str": "1216638444614500353",
