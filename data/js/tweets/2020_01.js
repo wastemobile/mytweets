@@ -1,5 +1,298 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Sun Jan 19 01:25:08 +0000 2020",
+    "id": 1218705919871053824,
+    "id_str": "1218705919871053824",
+    "text": "日本每5年實施一次的《全國家庭動向調查》顯示，近九成夫妻受訪者會「共進晚餐」，但只有25%有「性行為」。凸顯了日本夫妻間所謂的「朋友以上，戀人未滿」，也就是介於朋友和戀人之間的關係。\n\n辛苦結婚原來只是找飯友。\n\n「朋友以上，戀人… https://t.co/Yezj60q2PM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Yezj60q2PM",
+          "expanded_url": "https://twitter.com/i/web/status/1218705919871053824",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 18 09:22:19 +0000 2020",
+    "id": 1218463617890185217,
+    "id_str": "1218463617890185217",
+    "text": "自從 Millarworld 被 #Netflix 併購後，就一直期待排定新作，《Empress》（星際女帝，看來會被譯成太空女王）雖然遲了，但正式連結已出，指日可待 https://t.co/NTLqN6VMrZ\n\n「米勒世界」… https://t.co/72TkwJBp7f",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            17,
+            25
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NTLqN6VMrZ",
+          "expanded_url": "https://www.netflix.com/title/80217551",
+          "display_url": "netflix.com/title/80217551",
+          "indices": [
+            84,
+            107
+          ]
+        },
+        {
+          "url": "https://t.co/72TkwJBp7f",
+          "expanded_url": "https://twitter.com/i/web/status/1218463617890185217",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 18 08:00:04 +0000 2020",
+    "id": 1218442920979644416,
+    "id_str": "1218442920979644416",
+    "text": "加州居然正式允許輕量無人駕駛車在開放道路上跑了呀！ https://t.co/ZPcS83S4pM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZPcS83S4pM",
+          "expanded_url": "https://twitter.com/marketplace/status/1218323410994040832",
+          "display_url": "twitter.com/marketplace/st…",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1218323410994040832,
+    "quoted_status_id_str": "1218323410994040832",
+    "quoted_status": {
+      "created_at": "Sat Jan 18 00:05:11 +0000 2020",
+      "id": 1218323410994040832,
+      "id_str": "1218323410994040832",
+      "text": "🍕 Driverless pizza delivery, anyone?\n\nAs of today, California is officially allowing light-duty, driverless deliver… https://t.co/DsV1x51CZz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DsV1x51CZz",
+            "expanded_url": "https://twitter.com/i/web/status/1218323410994040832",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 57741304,
+        "id_str": "57741304",
+        "name": "Marketplace",
+        "screen_name": "Marketplace",
+        "location": "United States",
+        "description": "We're here to help you make sense of business and the economy.",
+        "url": "https://t.co/K0woP77MSB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/K0woP77MSB",
+                "expanded_url": "http://www.marketplace.org",
+                "display_url": "marketplace.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 124503,
+        "friends_count": 975,
+        "listed_count": 3625,
+        "created_at": "Fri Jul 17 20:03:10 +0000 2009",
+        "favourites_count": 8174,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 93350,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877636548438577153/G0XLikVb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877636548438577153/G0XLikVb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/57741304/1578617394",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 199,
+      "favorite_count": 391,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jan 16 03:34:21 +0000 2020",
     "id": 1217651273924661248,
     "id_str": "1217651273924661248",
