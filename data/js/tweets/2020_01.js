@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Mon Jan 20 02:24:40 +0000 2020",
+    "id": 1219083290914639872,
+    "id_str": "1219083290914639872",
+    "text": "日本開發昆蟲食品的初創企業Ellie將於1月20日在東京表參道開設以蠶為原料的漢堡店。將富含蛋白質的蠶肉做成糊狀，加上牛肉做成肉餡。據悉味道很香，帶有蝦和螃蟹的風味。\n\nQ. 想嘗嘗蠶肉做的漢堡嗎？… https://t.co/2YRuly3dPE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2YRuly3dPE",
+          "expanded_url": "https://twitter.com/i/web/status/1219083290914639872",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jan 19 01:25:08 +0000 2020",
     "id": 1218705919871053824,
     "id_str": "1218705919871053824",
