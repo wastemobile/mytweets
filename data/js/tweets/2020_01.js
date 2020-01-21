@@ -1,5 +1,180 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Mon Jan 20 15:26:41 +0000 2020",
+    "id": 1219280090996981760,
+    "id_str": "1219280090996981760",
+    "text": "RT @kennaoshi: 韓國電視台專訪匿名港警 證實被自殺、被性侵都是真的 https://t.co/klgmgbbJ0J",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kennaoshi",
+          "name": "ㄎㄋㄕ👨‍🏫",
+          "id": 838937328961761281,
+          "id_str": "838937328961761281",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/klgmgbbJ0J",
+          "expanded_url": "https://www.msn.com/zh-tw/news/world/%E9%9F%93%E5%9C%8B%E9%9B%BB%E8%A6%96%E5%8F%B0%E5%B0%88%E8%A8%AA%E5%8C%BF%E5%90%8D%E6%B8%AF%E8%AD%A6-%E8%AD%89%E5%AF%A6%E8%A2%AB%E8%87%AA%E6%AE%BA%E3%80%81%E8%A2%AB%E6%80%A7%E4%BE%B5%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84/ar-BBWJF09?li=BBqiNIb&item=themed_featuredapps_enable",
+          "display_url": "msn.com/zh-tw/news/wor…",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 20 13:42:36 +0000 2020",
+      "id": 1219253898529181696,
+      "id_str": "1219253898529181696",
+      "text": "韓國電視台專訪匿名港警 證實被自殺、被性侵都是真的 https://t.co/klgmgbbJ0J",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/klgmgbbJ0J",
+            "expanded_url": "https://www.msn.com/zh-tw/news/world/%E9%9F%93%E5%9C%8B%E9%9B%BB%E8%A6%96%E5%8F%B0%E5%B0%88%E8%A8%AA%E5%8C%BF%E5%90%8D%E6%B8%AF%E8%AD%A6-%E8%AD%89%E5%AF%A6%E8%A2%AB%E8%87%AA%E6%AE%BA%E3%80%81%E8%A2%AB%E6%80%A7%E4%BE%B5%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84/ar-BBWJF09?li=BBqiNIb&item=themed_featuredapps_enable",
+            "display_url": "msn.com/zh-tw/news/wor…",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 838937328961761281,
+        "id_str": "838937328961761281",
+        "name": "ㄎㄋㄕ👨‍🏫",
+        "screen_name": "kennaoshi",
+        "location": "Taiwan",
+        "description": "望你平安，台灣。",
+        "url": "https://t.co/0ubjXeZtv2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/0ubjXeZtv2",
+                "expanded_url": "https://www.facebook.com/KensTalking/",
+                "display_url": "facebook.com/KensTalking/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9912,
+        "friends_count": 73,
+        "listed_count": 39,
+        "created_at": "Tue Mar 07 02:20:20 +0000 2017",
+        "favourites_count": 481,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14434,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214773369045835776/5p8hxoGT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214773369045835776/5p8hxoGT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/838937328961761281/1578459516",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": false,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 135,
+      "favorite_count": 214,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 135,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jan 20 02:24:40 +0000 2020",
     "id": 1219083290914639872,
     "id_str": "1219083290914639872",
