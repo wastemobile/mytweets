@@ -1,5 +1,69 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Mon Jan 27 02:36:42 +0000 2020",
+    "id": 1221623034659790848,
+    "id_str": "1221623034659790848",
+    "text": "春節讀物：《被壟斷的心智：谷歌、亞馬遜、臉書、蘋果如何支配我們的生活》 https://t.co/NUuBouiqrL\n\nFranklin Foer 是美國百年老牌雜誌《新共和》（The New Republic）前總編，這篇〈科… https://t.co/jUqI12UkNn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NUuBouiqrL",
+          "expanded_url": "http://bit.ly/2S4y9zZ",
+          "display_url": "bit.ly/2S4y9zZ",
+          "indices": [
+            36,
+            59
+          ]
+        },
+        {
+          "url": "https://t.co/jUqI12UkNn",
+          "expanded_url": "https://twitter.com/i/web/status/1221623034659790848",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jan 23 02:18:46 +0000 2020",
     "id": 1220168969719447552,
     "id_str": "1220168969719447552",
