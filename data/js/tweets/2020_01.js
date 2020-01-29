@@ -1,5 +1,455 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Tue Jan 28 12:59:19 +0000 2020",
+    "id": 1222142109580328961,
+    "id_str": "1222142109580328961",
+    "text": "剛剛才發現 #Netflix 上面居然有地獄梗王子 Anthony Jeselnik 的脫口秀，大推。 #海放博恩五百里\n\nhttps://t.co/w24p6izLJj https://t.co/cDlc0HOKrR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            6,
+            14
+          ]
+        },
+        {
+          "text": "海放博恩五百里",
+          "indices": [
+            52,
+            60
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/w24p6izLJj",
+          "expanded_url": "https://www.netflix.com/title/80227677",
+          "display_url": "netflix.com/title/80227677",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1222142097479782402,
+          "id_str": "1222142097479782402",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPXrwzFVUAI_hwq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPXrwzFVUAI_hwq.jpg",
+          "url": "https://t.co/cDlc0HOKrR",
+          "display_url": "pic.twitter.com/cDlc0HOKrR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1222142109580328961/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 848,
+              "h": 477,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 848,
+              "h": 477,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 294,
+                  "y": 54,
+                  "h": 113,
+                  "w": 113
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 367,
+                  "y": 68,
+                  "h": 142,
+                  "w": 142
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 367,
+                  "y": 68,
+                  "h": 142,
+                  "w": 142
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 367,
+                  "y": 68,
+                  "h": 142,
+                  "w": 142
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1222142097479782402,
+          "id_str": "1222142097479782402",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPXrwzFVUAI_hwq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPXrwzFVUAI_hwq.jpg",
+          "url": "https://t.co/cDlc0HOKrR",
+          "display_url": "pic.twitter.com/cDlc0HOKrR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1222142109580328961/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 848,
+              "h": 477,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 848,
+              "h": 477,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "small": {
+              "faces": [
+                {
+                  "x": 294,
+                  "y": 54,
+                  "h": 113,
+                  "w": 113
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "x": 367,
+                  "y": 68,
+                  "h": 142,
+                  "w": 142
+                }
+              ]
+            },
+            "large": {
+              "faces": [
+                {
+                  "x": 367,
+                  "y": 68,
+                  "h": 142,
+                  "w": 142
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "x": 367,
+                  "y": 68,
+                  "h": 142,
+                  "w": 142
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": 1222142098578628610,
+          "id_str": "1222142098578628610",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPXrw3LUYAIlykR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPXrw3LUYAIlykR.jpg",
+          "url": "https://t.co/cDlc0HOKrR",
+          "display_url": "pic.twitter.com/cDlc0HOKrR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1222142109580328961/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            }
+          },
+          "features": {
+            "large": {
+              "faces": [
+
+              ]
+            },
+            "medium": {
+              "faces": [
+
+              ]
+            },
+            "small": {
+              "faces": [
+
+              ]
+            },
+            "orig": {
+              "faces": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 27 08:49:25 +0000 2020",
+    "id": 1221716828885413888,
+    "id_str": "1221716828885413888",
+    "text": "RT @nightlightchun: 好像有看到有台灣的推友愛吃灣仔碼頭水餃\n請不要吃了\n有來自中國的非洲豬瘟\n\n很抱歉\n中華人民共和國真的把香港這雙白手套用得淋漓盡致\n https://t.co/9pYbBEHWQE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nightlightchun",
+          "name": "麻醬：請即加入麻雀教！🦉✨❨書債台高築❩",
+          "id": 2652652308,
+          "id_str": "2652652308",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9pYbBEHWQE",
+          "expanded_url": "https://www.thestandnews.com/international/%E4%B8%AD%E5%9C%8B%E8%A3%BD%E7%81%A3%E4%BB%94%E7%A2%BC%E9%A0%AD%E6%B0%B4%E9%A4%83-%E8%A2%AB%E9%A9%97%E5%87%BA%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F-%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%8A%B7%E6%AF%80/",
+          "display_url": "thestandnews.com/international/…",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 27 07:13:01 +0000 2020",
+      "id": 1221692570897530880,
+      "id_str": "1221692570897530880",
+      "text": "好像有看到有台灣的推友愛吃灣仔碼頭水餃\n請不要吃了\n有來自中國的非洲豬瘟\n\n很抱歉\n中華人民共和國真的把香港這雙白手套用得淋漓盡致\n https://t.co/9pYbBEHWQE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9pYbBEHWQE",
+            "expanded_url": "https://www.thestandnews.com/international/%E4%B8%AD%E5%9C%8B%E8%A3%BD%E7%81%A3%E4%BB%94%E7%A2%BC%E9%A0%AD%E6%B0%B4%E9%A4%83-%E8%A2%AB%E9%A9%97%E5%87%BA%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F-%E8%8F%B2%E5%BE%8B%E8%B3%93%E9%8A%B7%E6%AF%80/",
+            "display_url": "thestandnews.com/international/…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2652652308,
+        "id_str": "2652652308",
+        "name": "麻醬：請即加入麻雀教！🦉✨❨書債台高築の麻雀國鳥派❩",
+        "screen_name": "nightlightchun",
+        "location": "",
+        "description": "✯茶色腦瓜子裝著雜七雜八的邊緣麻雀✯\n我愛樹麻雀，乃自翊「麻雀教教主」的麻雀教求道者。以壯大麻雀教為己任！凡欣賞麻雀、愛護麻雀即可入教。\n✧麻雀國鳥派✧\n#麻雀推廣←宣揚麻雀❗壯大麻雀教❗\n#增值推←知識tag，歡迎認真學術討論\n#書籍安價←清書債用安價tag\n※與麻雀教切割之個人思想充斥※\n➥間有長推串\n➥認同請RT",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4305,
+        "friends_count": 1390,
+        "listed_count": 7,
+        "created_at": "Thu Jul 17 02:41:54 +0000 2014",
+        "favourites_count": 39550,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18839,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1210540790629335040/txU6Pk0A_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210540790629335040/txU6Pk0A_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2652652308/1576481566",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 589,
+      "favorite_count": 755,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 589,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jan 27 02:36:42 +0000 2020",
     "id": 1221623034659790848,
     "id_str": "1221623034659790848",
