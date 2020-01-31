@@ -1,5 +1,728 @@
 Grailbird.data.tweets_2020_01 = [
   {
+    "created_at": "Fri Jan 31 11:34:15 +0000 2020",
+    "id": 1223207864015056897,
+    "id_str": "1223207864015056897",
+    "text": "RT @nippon_hk: 持續進化的日本酒\n#いまSAKEが世界を熱中させている。その理由は、ニッポンが生んだ酒が、劇的においしく、味も香りもバラエティ豊富に変貌を遂げたからだ。SAKEの世界に革命をもたらしたのは、#日本酒 の外にもさまざまな酒を知る、新世代の造り手たちだ…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "いまSAKEが世界を熱中させている",
+          "indices": [
+            24,
+            42
+          ]
+        },
+        {
+          "text": "日本酒",
+          "indices": [
+            110,
+            114
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nippon_hk",
+          "name": "nippon.com/hk",
+          "id": 352247189,
+          "id_str": "352247189",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 31 11:32:18 +0000 2020",
+      "id": 1223207373226926081,
+      "id_str": "1223207373226926081",
+      "text": "持續進化的日本酒\n#いまSAKEが世界を熱中させている。その理由は、ニッポンが生んだ酒が、劇的においしく、味も香りもバラエティ豊富に変貌を遂げたからだ。SAKEの世界に革命をもたらしたのは、#日本酒 の外にもさまざまな酒を知る、新… https://t.co/FU09KS8gaf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "いまSAKEが世界を熱中させている",
+            "indices": [
+              9,
+              27
+            ]
+          },
+          {
+            "text": "日本酒",
+            "indices": [
+              95,
+              99
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FU09KS8gaf",
+            "expanded_url": "https://twitter.com/i/web/status/1223207373226926081",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 352247189,
+        "id_str": "352247189",
+        "name": "nippon.com/hk",
+        "screen_name": "nippon_hk",
+        "location": "Japan",
+        "description": "「http://t.co/Lj2xgSTtq6日本網」是為海外人士更多了解日本而開設的網站。以6種語言向您展現當今日本的真實面貌。Facebook：http://t.co/qNIpn2GnZ0",
+        "url": "http://t.co/Rjq9iBjn8H",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Rjq9iBjn8H",
+                "expanded_url": "http://www.nippon.com/hk",
+                "display_url": "nippon.com/hk",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/Lj2xgSTtq6",
+                "expanded_url": "http://nippon.com",
+                "display_url": "nippon.com",
+                "indices": [
+                  1,
+                  23
+                ]
+              },
+              {
+                "url": "http://t.co/qNIpn2GnZ0",
+                "expanded_url": "http://on.fb.me/YcvCjw",
+                "display_url": "on.fb.me/YcvCjw",
+                "indices": [
+                  74,
+                  96
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2551,
+        "friends_count": 400,
+        "listed_count": 86,
+        "created_at": "Wed Aug 10 10:34:49 +0000 2011",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9699,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876721148679012352/1tmnclOe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876721148679012352/1tmnclOe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/352247189/1496904382",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jan 31 10:55:49 +0000 2020",
+    "id": 1223198191476035584,
+    "id_str": "1223198191476035584",
+    "text": "等一下⋯⋯體操協會是解散了嗎？ https://t.co/zj5XrTEwsy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zj5XrTEwsy",
+          "expanded_url": "https://twitter.com/dr_hannahc/status/1223167646612344833",
+          "display_url": "twitter.com/dr_hannahc/sta…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1223167646612344833,
+    "quoted_status_id_str": "1223167646612344833",
+    "quoted_status": {
+      "created_at": "Fri Jan 31 08:54:26 +0000 2020",
+      "id": 1223167646612344833,
+      "id_str": "1223167646612344833",
+      "text": "不紅又愛討拍的明星不要理他們了～\n\n轉發自臉書：行走的故事詩 \n\n#瑞莎 助台選手赴美比賽，獲一金三銅\n\n藝人瑞莎無酬義務指導台灣韻律體操選手一年多，在過年期間她帶選手參與「LA lights 2020錦標賽」，前往美國11 天，… https://t.co/CvctyJJhfR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "瑞莎",
+            "indices": [
+              33,
+              36
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CvctyJJhfR",
+            "expanded_url": "https://twitter.com/i/web/status/1223167646612344833",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 30319855,
+        "id_str": "30319855",
+        "name": "Dr. Hannah",
+        "screen_name": "dr_hannahc",
+        "location": "",
+        "description": "《是個婦科中醫師，針灸推拿是強項，兼職醫學會議口譯，同聲傳譯，開始生殖醫學臨床研究 》Specialize in acupuncture for ART, ovarian acupuncture rejuvenation. For more : https://t.co/bQQDYJJjgV",
+        "url": "https://t.co/6E4jz8GX7i",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/6E4jz8GX7i",
+                "expanded_url": "https://www.youtube.com/channel/UCbfW49ebgpdJheDCdqEQ3zw",
+                "display_url": "youtube.com/channel/UCbfW4…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/bQQDYJJjgV",
+                "expanded_url": "https://medium.com/@hannahychang",
+                "display_url": "medium.com/@hannahychang",
+                "indices": [
+                  123,
+                  146
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8285,
+        "friends_count": 1676,
+        "listed_count": 65,
+        "created_at": "Fri Apr 10 21:39:14 +0000 2009",
+        "favourites_count": 40812,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10681,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/958975094885203969/mCxOee4y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/958975094885203969/mCxOee4y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/30319855/1531630009",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": true,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00180402799fed03",
+        "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+        "place_type": "city",
+        "name": "台北市",
+        "full_name": "台北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.457132,
+                24.960508
+              ],
+              [
+                121.66582,
+                24.960508
+              ],
+              [
+                121.66582,
+                25.211004
+              ],
+              [
+                121.457132,
+                25.211004
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 267,
+      "favorite_count": 838,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 31 03:42:16 +0000 2020",
+    "id": 1223089086816083969,
+    "id_str": "1223089086816083969",
+    "text": "完全累格，印象一直停留在悍馬已是中資企業，剛剛才發現「2009年6月2日，通用簽署了諒解備忘錄，把悍馬品牌出售給中國四川騰中重工。2010年2月底，因騰中重工未能按期完成對悍馬的收購，通用宣布此交易失敗」。 #note https://t.co/MX7E7MlzY5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            104,
+            109
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MX7E7MlzY5",
+          "expanded_url": "https://twitter.com/technews_tw/status/1223087655228805120",
+          "display_url": "twitter.com/technews_tw/st…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1223087655228805120,
+    "quoted_status_id_str": "1223087655228805120",
+    "quoted_status": {
+      "created_at": "Fri Jan 31 03:36:35 +0000 2020",
+      "id": 1223087655228805120,
+      "id_str": "1223087655228805120",
+      "text": "「寧靜革命」純電悍馬車將於 5/20 發表，馬力超過 1,000、零百加速低於 3 秒 https://t.co/sdvRT5E6uU https://t.co/52ibD0uMXF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sdvRT5E6uU",
+            "expanded_url": "http://dlvr.it/RP5KRw",
+            "display_url": "dlvr.it/RP5KRw",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1223087653618212865,
+            "id_str": "1223087653618212865",
+            "indices": [
+              68,
+              91
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPlHvaMUYAELxU8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPlHvaMUYAELxU8.jpg",
+            "url": "https://t.co/52ibD0uMXF",
+            "display_url": "pic.twitter.com/52ibD0uMXF",
+            "expanded_url": "https://twitter.com/technews_tw/status/1223087655228805120/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "large": {
+                "faces": [
+
+                ]
+              },
+              "orig": {
+                "faces": [
+
+                ]
+              },
+              "medium": {
+                "faces": [
+
+                ]
+              },
+              "small": {
+                "faces": [
+
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1223087653618212865,
+            "id_str": "1223087653618212865",
+            "indices": [
+              68,
+              91
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPlHvaMUYAELxU8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPlHvaMUYAELxU8.jpg",
+            "url": "https://t.co/52ibD0uMXF",
+            "display_url": "pic.twitter.com/52ibD0uMXF",
+            "expanded_url": "https://twitter.com/technews_tw/status/1223087655228805120/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            },
+            "features": {
+              "large": {
+                "faces": [
+
+                ]
+              },
+              "orig": {
+                "faces": [
+
+                ]
+              },
+              "medium": {
+                "faces": [
+
+                ]
+              },
+              "small": {
+                "faces": [
+
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2799026833,
+        "id_str": "2799026833",
+        "name": "TechNews 科技新報",
+        "screen_name": "technews_tw",
+        "location": "台灣, 台北市",
+        "description": "科技新報 （TechNews）於 2013 年下半年成立，是一群對資訊科技、能源、半導體、行動運算、網際網路、醫療、生物科技具有高度熱忱與興趣的產業與新媒體人士所共同組成的時代新媒體，以產出有觀點與特色的原創文章為主要任務。",
+        "url": "https://t.co/h4mBExv7WV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/h4mBExv7WV",
+                "expanded_url": "https://technews.tw",
+                "display_url": "technews.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1252,
+        "friends_count": 31,
+        "listed_count": 44,
+        "created_at": "Tue Sep 09 01:49:20 +0000 2014",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 59550,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2799026833/1410228878",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jan 30 04:57:45 +0000 2020",
     "id": 1222745694609362945,
     "id_str": "1222745694609362945",
