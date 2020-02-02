@@ -1,5 +1,66 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Sat Feb 01 03:12:14 +0000 2020",
+    "id": 1223443914977206273,
+    "id_str": "1223443914977206273",
+    "text": "2019，自助作者從 KDP（Kindle自助出版）賺得 3億美金，超過千名作者達10萬美金以上。自 Kindle Unlimited 發布以來，Kindle自助作家累計獲得超過11億美金的版權收益。 #note\n\nKDP Aut… https://t.co/iNIlA5v48n",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            101,
+            106
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iNIlA5v48n",
+          "expanded_url": "https://twitter.com/i/web/status/1223443914977206273",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 01 01:23:04 +0000 2020",
     "id": 1223416440503406597,
     "id_str": "1223416440503406597",
