@@ -1,5 +1,157 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Sun Feb 02 08:40:15 +0000 2020",
+    "id": 1223888852638584832,
+    "id_str": "1223888852638584832",
+    "text": "RT @lvxinxin: 三刷蔓生三部曲结束，《神经漫游者》、《零伯爵》和《重启蒙娜丽莎》，不敢说完全读懂了，但是觉得大概明白了威廉吉布森的想法和书中的旨意。这两天在看《乐园放送》等一系列内容，之后看看分享一个文章，主旨是论述克拉克那句话：这些写到最后，和魔法并无两样。 ht…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lvxinxin",
+          "name": "lvxinxin",
+          "id": 864581,
+          "id_str": "864581",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 10 03:08:37 +0000 2020",
+      "id": 1215470471283527682,
+      "id_str": "1215470471283527682",
+      "text": "三刷蔓生三部曲结束，《神经漫游者》、《零伯爵》和《重启蒙娜丽莎》，不敢说完全读懂了，但是觉得大概明白了威廉吉布森的想法和书中的旨意。这两天在看《乐园放送》等一系列内容，之后看看分享一个文章，主旨是论述克拉克那句话：这些写到最后，和… https://t.co/VYUcVL64LZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VYUcVL64LZ",
+            "expanded_url": "https://twitter.com/i/web/status/1215470471283527682",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 864581,
+        "id_str": "864581",
+        "name": "lvxinxin",
+        "screen_name": "lvxinxin",
+        "location": "Tokyo-to, Japan",
+        "description": "中日两头跑，投资了日本动画公司和AV制片公司",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9913,
+        "friends_count": 1208,
+        "listed_count": 95,
+        "created_at": "Sat Mar 10 07:53:22 +0000 2007",
+        "favourites_count": 98,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5990,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1108257529266491392/N4wYF9FX_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1108257529266491392/N4wYF9FX_normal.png",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "can_media_tag": true,
+        "followed_by": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 01 03:12:14 +0000 2020",
     "id": 1223443914977206273,
     "id_str": "1223443914977206273",
