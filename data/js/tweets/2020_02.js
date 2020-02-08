@@ -1,5 +1,136 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Sat Feb 08 04:12:57 +0000 2020",
+    "id": 1225995910997397508,
+    "id_str": "1225995910997397508",
+    "text": "尼爾弗格森：「網絡才能擊敗網絡」。這本書反覆討論叛亂的網絡化特質，從知識傳播、革命、戰爭，一直到科技創新，含金量高、好讀。\n\n#kobo 全站65折啊！買這本太划算了。\n\n《廣場與塔樓：從印刷術誕生到網路社群力爆發，顛覆權力階級，… https://t.co/cmBcz41Gcz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            63,
+            68
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cmBcz41Gcz",
+          "expanded_url": "https://twitter.com/i/web/status/1225995910997397508",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 07 15:26:57 +0000 2020",
+    "id": 1225803139967635456,
+    "id_str": "1225803139967635456",
+    "text": "非常推薦 #Netflix《帝國崛起：鄂圖曼》六集迷你劇，幾乎就是君士坦丁陷落、羅馬帝國終結的歷史教科書，除了少部分加強渲染力的人物塑造與劇情演出，完全照著歷史資料翻演。 https://t.co/o0PFvBWLus\n\n雖然我並… https://t.co/ZFb163vWU8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            5,
+            13
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/o0PFvBWLus",
+          "expanded_url": "http://bit.ly/2tCYUTH",
+          "display_url": "bit.ly/2tCYUTH",
+          "indices": [
+            86,
+            109
+          ]
+        },
+        {
+          "url": "https://t.co/ZFb163vWU8",
+          "expanded_url": "https://twitter.com/i/web/status/1225803139967635456",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Feb 07 02:35:44 +0000 2020",
     "id": 1225609058826108928,
     "id_str": "1225609058826108928",
