@@ -1,5 +1,66 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Sun Feb 09 09:18:39 +0000 2020",
+    "id": 1226435228668813315,
+    "id_str": "1226435228668813315",
+    "text": "紐約時報2019成績頗驚人，一年間增加了一百萬純數位訂閱者，付費總訂閱達到525萬（純數位訂閱440萬）；數位收益超過八億美金，廣告收益減少了10%。 #note\n\nReaders reign supreme, and other… https://t.co/vvinrVEajm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            76,
+            81
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vvinrVEajm",
+          "expanded_url": "https://twitter.com/i/web/status/1226435228668813315",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 08 04:12:57 +0000 2020",
     "id": 1225995910997397508,
     "id_str": "1225995910997397508",
