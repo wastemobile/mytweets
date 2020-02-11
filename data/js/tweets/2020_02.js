@@ -1,5 +1,69 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Mon Feb 10 13:16:26 +0000 2020",
+    "id": 1226857456929632256,
+    "id_str": "1226857456929632256",
+    "text": "「7-11若做咖啡預售寄杯，會造成零售業現金流不穩定，且做不好，負面效益要比正面多很多。」（嗯？）\n\n〈小7為什麼不跟進全家寄杯〉 https://t.co/dVfcyq2UNS =&gt; 〈小7或許是對的，全家才應該回頭檢討咖啡寄杯… https://t.co/ITGZoYlaM3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dVfcyq2UNS",
+          "expanded_url": "http://bit.ly/2SwsFhw",
+          "display_url": "bit.ly/2SwsFhw",
+          "indices": [
+            66,
+            89
+          ]
+        },
+        {
+          "url": "https://t.co/ITGZoYlaM3",
+          "expanded_url": "https://twitter.com/i/web/status/1226857456929632256",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            120,
+            143
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Feb 09 09:18:39 +0000 2020",
     "id": 1226435228668813315,
     "id_str": "1226435228668813315",
