@@ -1,5 +1,459 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Tue Feb 11 16:52:40 +0000 2020",
+    "id": 1227274263872208896,
+    "id_str": "1227274263872208896",
+    "text": "RT @MeowerBark: 譯：\n\nTwitter Books：上一本讓你流淚的書\n\n使用者1：普通物理學第14版\n\n作者本人：無疑是喜悅的淚水\n\n使用者2：我昨晚用這本書壓豆腐，無比喜悅。\n\n作者本人：壓豆腐時你運用了正向力（第4章）和增加對豆腐的體應力（第11章），做得…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "MeowerBark",
+          "name": "高敏人求生日記",
+          "id": 982076571090468869,
+          "id_str": "982076571090468869",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Feb 11 11:40:05 +0000 2020",
+      "id": 1227195599960719361,
+      "id_str": "1227195599960719361",
+      "text": "譯：\n\nTwitter Books：上一本讓你流淚的書\n\n使用者1：普通物理學第14版\n\n作者本人：無疑是喜悅的淚水\n\n使用者2：我昨晚用這本書壓豆腐，無比喜悅。\n\n作者本人：壓豆腐時你運用了正向力（第4章）和增加對豆腐的體應力（… https://t.co/5PjOoIvrTb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5PjOoIvrTb",
+            "expanded_url": "https://twitter.com/i/web/status/1227195599960719361",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 982076571090468869,
+        "id_str": "982076571090468869",
+        "name": "高敏人求生日記",
+        "screen_name": "MeowerBark",
+        "location": "台灣",
+        "description": "HSP｜OCD｜厭世｜既宅且腐｜婚姻平權｜台灣獨立",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1862,
+        "friends_count": 150,
+        "listed_count": 9,
+        "created_at": "Fri Apr 06 02:04:35 +0000 2018",
+        "favourites_count": 13525,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7073,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/982090110068916225/dgGFn7zc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/982090110068916225/dgGFn7zc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/982076571090468869/1578922418",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1227178855460265984,
+      "quoted_status_id_str": "1227178855460265984",
+      "quoted_status": {
+        "created_at": "Tue Feb 11 10:33:33 +0000 2020",
+        "id": 1227178855460265984,
+        "id_str": "1227178855460265984",
+        "text": "笑到瘋掉( https://t.co/5XxaFLU97o",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ],
+          "media": [
+            {
+              "id": 1227178845989507072,
+              "id_str": "1227178845989507072",
+              "indices": [
+                6,
+                29
+              ],
+              "media_url": "http://pbs.twimg.com/media/EQfQqJcUEAArS6A.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EQfQqJcUEAArS6A.jpg",
+              "url": "https://t.co/5XxaFLU97o",
+              "display_url": "pic.twitter.com/5XxaFLU97o",
+              "expanded_url": "https://twitter.com/Zoe_1023/status/1227178855460265984/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 339,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 764,
+                  "h": 1534,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 598,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1227178845989507072,
+              "id_str": "1227178845989507072",
+              "indices": [
+                6,
+                29
+              ],
+              "media_url": "http://pbs.twimg.com/media/EQfQqJcUEAArS6A.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EQfQqJcUEAArS6A.jpg",
+              "url": "https://t.co/5XxaFLU97o",
+              "display_url": "pic.twitter.com/5XxaFLU97o",
+              "expanded_url": "https://twitter.com/Zoe_1023/status/1227178855460265984/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 339,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 764,
+                  "h": 1534,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 598,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4835623303,
+          "id_str": "4835623303",
+          "name": "社恐⁷還沒繳學費",
+          "screen_name": "Zoe_1023",
+          "location": "",
+          "description": "don't follow me if u r under 18",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 191,
+          "friends_count": 681,
+          "listed_count": 4,
+          "created_at": "Sat Jan 30 15:13:14 +0000 2016",
+          "favourites_count": 43733,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 15257,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1224037120316076032/XWsTM_5i_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224037120316076032/XWsTM_5i_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4835623303/1580355142",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 46,
+        "favorite_count": 203,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 86,
+      "favorite_count": 303,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1227178855460265984,
+    "quoted_status_id_str": "1227178855460265984",
+    "retweet_count": 86,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 11 02:52:24 +0000 2020",
+    "id": 1227062801325150209,
+    "id_str": "1227062801325150209",
+    "text": "「評論的部分排在文章後段，沒耐性的讀者若只看前面，就會只留下美好的印象，那樣也很好。」\n\n人物》失憶時代的文學守門人：范銘如談《書評職人》 | Openbook閱讀誌 https://t.co/iY2wLdAL1m https://t.co/dbhNB9vQJG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iY2wLdAL1m",
+          "expanded_url": "http://bit.ly/38gDCu1",
+          "display_url": "bit.ly/38gDCu1",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1227062795188879360,
+          "id_str": "1227062795188879360",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQdnHGhUwAA-_bD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQdnHGhUwAA-_bD.jpg",
+          "url": "https://t.co/dbhNB9vQJG",
+          "display_url": "pic.twitter.com/dbhNB9vQJG",
+          "expanded_url": "https://twitter.com/wastemobile/status/1227062801325150209/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 300,
+              "h": 427,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 300,
+              "h": 427,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 300,
+              "h": 427,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1227062795188879360,
+          "id_str": "1227062795188879360",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQdnHGhUwAA-_bD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQdnHGhUwAA-_bD.jpg",
+          "url": "https://t.co/dbhNB9vQJG",
+          "display_url": "pic.twitter.com/dbhNB9vQJG",
+          "expanded_url": "https://twitter.com/wastemobile/status/1227062801325150209/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 300,
+              "h": 427,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 300,
+              "h": 427,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 300,
+              "h": 427,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Feb 10 13:16:26 +0000 2020",
     "id": 1226857456929632256,
     "id_str": "1226857456929632256",
