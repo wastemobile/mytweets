@@ -1,5 +1,161 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Sat Feb 15 02:08:09 +0000 2020",
+    "id": 1228501219758313473,
+    "id_str": "1228501219758313473",
+    "text": "為什麼 1Password 不能紀錄我在某個網站到底是用Twitter、Google 還是 GitHub 登入的呢？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Feb 15 01:48:15 +0000 2020",
+    "id": 1228496210647896064,
+    "id_str": "1228496210647896064",
+    "text": "我還是沒看懂這間在2018年吸了40億美金的區塊鏈公司要做什麼⋯⋯\n\nThis Social Network Wants to Pay You (in Crypto) to Do Good… https://t.co/aruEZb0PVk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aruEZb0PVk",
+          "expanded_url": "https://twitter.com/i/web/status/1228496210647896064",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 13 03:12:51 +0000 2020",
+    "id": 1227792726478843904,
+    "id_str": "1227792726478843904",
+    "text": "向雜誌《The New Yorker》致敬的新電影啊！可以看電影送海報嗎？\n\n《The French Dispatch》魏斯安德森全新電影作品！集結一票夢幻卡司：「這部片是寫給新聞工作者的一封情書。」… https://t.co/CcOqlNXp7Y",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CcOqlNXp7Y",
+          "expanded_url": "https://twitter.com/i/web/status/1227792726478843904",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Feb 12 09:58:11 +0000 2020",
     "id": 1227532340219371520,
     "id_str": "1227532340219371520",
