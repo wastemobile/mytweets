@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Sat Feb 15 02:53:02 +0000 2020",
+    "id": 1228512512536002560,
+    "id_str": "1228512512536002560",
+    "text": "@superbil 好像也這麼做過，但1Password只有一個「產生密碼」的快速按鍵，手動改成登入資訊、輸入、儲存的流程不太直觀，所以漏了不少⋯⋯（其實就是懶）",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "superbil",
+          "name": "ㄇㄉㄈㄎ",
+          "id": 6134752,
+          "id_str": "6134752",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1228502074456866816,
+    "in_reply_to_status_id_str": "1228502074456866816",
+    "in_reply_to_user_id": 6134752,
+    "in_reply_to_user_id_str": "6134752",
+    "in_reply_to_screen_name": "superbil",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 15 02:08:09 +0000 2020",
     "id": 1228501219758313473,
     "id_str": "1228501219758313473",
