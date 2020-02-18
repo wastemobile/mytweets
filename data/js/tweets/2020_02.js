@@ -1,5 +1,332 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Tue Feb 18 02:36:18 +0000 2020",
+    "id": 1229595467740143616,
+    "id_str": "1229595467740143616",
+    "text": "@kinkinlin 31.2” 單面板$1500美元，V5 System Board控制板$500美元。自行設計組裝，無價。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kinkinlin",
+          "name": "迷失在虛幻的旅人",
+          "id": 28994418,
+          "id_str": "28994418",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1229590273983827968,
+    "in_reply_to_status_id_str": "1229590273983827968",
+    "in_reply_to_user_id": 28994418,
+    "in_reply_to_user_id_str": "28994418",
+    "in_reply_to_screen_name": "kinkinlin",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 18 01:50:35 +0000 2020",
+    "id": 1229583961690533888,
+    "id_str": "1229583961690533888",
+    "text": "擺一片 31.2” 電子墨水在牆上看報紙（嗯？\n\nThis Super-Clean Smart Screen Puts a Newspaper on Your Wall https://t.co/bq4lovynRJ https://t.co/RpyMeUfcNj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bq4lovynRJ",
+          "expanded_url": "http://bit.ly/37BLOnI",
+          "display_url": "bit.ly/37BLOnI",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1229583952358207488,
+          "id_str": "1229583952358207488",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERBcFw3U8AAIh8I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERBcFw3U8AAIh8I.jpg",
+          "url": "https://t.co/RpyMeUfcNj",
+          "display_url": "pic.twitter.com/RpyMeUfcNj",
+          "expanded_url": "https://twitter.com/wastemobile/status/1229583961690533888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1229583952358207488,
+          "id_str": "1229583952358207488",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERBcFw3U8AAIh8I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERBcFw3U8AAIh8I.jpg",
+          "url": "https://t.co/RpyMeUfcNj",
+          "display_url": "pic.twitter.com/RpyMeUfcNj",
+          "expanded_url": "https://twitter.com/wastemobile/status/1229583961690533888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Feb 16 01:57:12 +0000 2020",
+    "id": 1228860852003991552,
+    "id_str": "1228860852003991552",
+    "text": "看起來科瓦奇三部曲之二的繁體中文版譯本是趕不及在 #Netflix 第二季之前上市了⋯⋯\n\n《碳變》第2季2/27上線 https://t.co/CL3dNToWS1 https://t.co/CjiPf4GBM7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            25,
+            33
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CL3dNToWS1",
+          "expanded_url": "http://bit.ly/3bCWA0a",
+          "display_url": "bit.ly/3bCWA0a",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1228860844928188418,
+          "id_str": "1228860844928188418",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQ3KbXxUwAInB1p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQ3KbXxUwAInB1p.jpg",
+          "url": "https://t.co/CjiPf4GBM7",
+          "display_url": "pic.twitter.com/CjiPf4GBM7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1228860852003991552/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1228860844928188418,
+          "id_str": "1228860844928188418",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQ3KbXxUwAInB1p.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQ3KbXxUwAInB1p.jpg",
+          "url": "https://t.co/CjiPf4GBM7",
+          "display_url": "pic.twitter.com/CjiPf4GBM7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1228860852003991552/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 15 02:53:02 +0000 2020",
     "id": 1228512512536002560,
     "id_str": "1228512512536002560",
