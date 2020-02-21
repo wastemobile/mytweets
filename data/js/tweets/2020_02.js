@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Fri Feb 21 02:18:44 +0000 2020",
+    "id": 1230678208904695809,
+    "id_str": "1230678208904695809",
+    "text": "@ching93997421 Kobo 基本算是國際帳號互通制，只要你能連上，信用卡能被接受、可以買書，原則上可以。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ching93997421",
+          "name": "ching",
+          "id": 1166905873228132352,
+          "id_str": "1166905873228132352",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1230675692079071232,
+    "in_reply_to_status_id_str": "1230675692079071232",
+    "in_reply_to_user_id": 1166905873228132352,
+    "in_reply_to_user_id_str": "1166905873228132352",
+    "in_reply_to_screen_name": "ching93997421",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 21 01:58:40 +0000 2020",
+    "id": 1230673160317501440,
+    "id_str": "1230673160317501440",
+    "text": "@ching93997421 是呀",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ching93997421",
+          "name": "ching",
+          "id": 1166905873228132352,
+          "id_str": "1166905873228132352",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1230672775938887680,
+    "in_reply_to_status_id_str": "1230672775938887680",
+    "in_reply_to_user_id": 1166905873228132352,
+    "in_reply_to_user_id_str": "1166905873228132352",
+    "in_reply_to_screen_name": "ching93997421",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Wed Feb 19 08:53:21 +0000 2020",
     "id": 1230052742367858688,
     "id_str": "1230052742367858688",
