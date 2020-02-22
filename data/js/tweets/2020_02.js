@@ -1,5 +1,436 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Sat Feb 22 05:48:55 +0000 2020",
+    "id": 1231093492568342528,
+    "id_str": "1231093492568342528",
+    "text": "好像應該收一下重印的新裝版《一刀傳》。\n\n我們錯過了結局，但可以留下記憶往前進：談《一刀傳》作者陳弘耀 | Openbook閱讀誌 https://t.co/pk0zFmAd6m https://t.co/Wvpe7Bbgwf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pk0zFmAd6m",
+          "expanded_url": "http://bit.ly/2HMVwsM",
+          "display_url": "bit.ly/2HMVwsM",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1231093475057098752,
+          "id_str": "1231093475057098752",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERW4_jIUYAAta19.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERW4_jIUYAAta19.jpg",
+          "url": "https://t.co/Wvpe7Bbgwf",
+          "display_url": "pic.twitter.com/Wvpe7Bbgwf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1231093492568342528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 548,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 548,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 466,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1231093475057098752,
+          "id_str": "1231093475057098752",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERW4_jIUYAAta19.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERW4_jIUYAAta19.jpg",
+          "url": "https://t.co/Wvpe7Bbgwf",
+          "display_url": "pic.twitter.com/Wvpe7Bbgwf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1231093492568342528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 548,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 548,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 466,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1231093476147597312,
+          "id_str": "1231093476147597312",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERW4_nMUEAAWX-C.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERW4_nMUEAAWX-C.jpg",
+          "url": "https://t.co/Wvpe7Bbgwf",
+          "display_url": "pic.twitter.com/Wvpe7Bbgwf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1231093492568342528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 250,
+              "h": 364,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 250,
+              "h": 364,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 250,
+              "h": 364,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1231093477229744128,
+          "id_str": "1231093477229744128",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERW4_rOUUAAjegT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERW4_rOUUAAjegT.jpg",
+          "url": "https://t.co/Wvpe7Bbgwf",
+          "display_url": "pic.twitter.com/Wvpe7Bbgwf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1231093492568342528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 250,
+              "h": 329,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 250,
+              "h": 329,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 250,
+              "h": 329,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 22 05:43:34 +0000 2020",
+    "id": 1231092143923400704,
+    "id_str": "1231092143923400704",
+    "text": "@daitoutuo 就是吃到飽、無限閱讀的訂閱方案。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "daitoutuo",
+          "name": "BigH",
+          "id": 910796670891257857,
+          "id_str": "910796670891257857",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1231088048579829760,
+    "in_reply_to_status_id_str": "1231088048579829760",
+    "in_reply_to_user_id": 910796670891257857,
+    "in_reply_to_user_id_str": "910796670891257857",
+    "in_reply_to_screen_name": "daitoutuo",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 22 03:32:41 +0000 2020",
+    "id": 1231059206058344449,
+    "id_str": "1231059206058344449",
+    "text": "就在瑞典圖書訂閱佔比創驚人新高報告釋出後的幾小時，Storytel 宣布獲得了 9,650萬美金的新一輪資金。 https://t.co/atYBZ3CDX8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/atYBZ3CDX8",
+          "expanded_url": "http://bit.ly/37NxrN6",
+          "display_url": "bit.ly/37NxrN6",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1231057416520753152,
+    "in_reply_to_status_id_str": "1231057416520753152",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 22 03:25:34 +0000 2020",
+    "id": 1231057416520753152,
+    "id_str": "1231057416520753152",
+    "text": "人口一千萬的瑞典圖書市場，默默進行著一場前衛實驗。Storytel 領軍的一小群新創，混合各種元素，讓讀者自由選擇。\n\n2019，瑞典的訂閱圖書串流服務，居然佔了總數量的 48%，約 21% 的銷售金額，逼近實體書店的 27.6%… https://t.co/FifMeYbWg7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FifMeYbWg7",
+          "expanded_url": "https://twitter.com/i/web/status/1231057416520753152",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 26,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 22 02:40:09 +0000 2020",
+    "id": 1231045985788256256,
+    "id_str": "1231045985788256256",
+    "text": "「EVA 極太明朝體」之原型——Matisse-EB（マティス-EB），是來自 Fontworks 的製作，當年庵野監督是參考了 1976 年版本的電影《犬神家之一族》（導演市川崑）的 credit 字體編排。 #note\n\n「E… https://t.co/vro71jPQQm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            106,
+            111
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vro71jPQQm",
+          "expanded_url": "https://twitter.com/i/web/status/1231045985788256256",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Fri Feb 21 02:18:44 +0000 2020",
     "id": 1230678208904695809,
     "id_str": "1230678208904695809",
