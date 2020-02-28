@@ -1,5 +1,344 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Fri Feb 28 03:51:25 +0000 2020",
+    "id": 1233238248752762882,
+    "id_str": "1233238248752762882",
+    "text": "在烏克蘭小鎮3600坪的運動場，重建莫斯科的研究所場景，試鏡35萬人後，招募400多名素人演員在此生活與工作，隨時拍攝，真實楚門的世界。\n\n能這樣拍電影很屌，但剪出的14部長片究竟是什麼啊？\n\n三年裡，上百位無法離開角色的「演員」… https://t.co/6tzDax4KuL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6tzDax4KuL",
+          "expanded_url": "https://twitter.com/i/web/status/1233238248752762882",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 28 03:39:06 +0000 2020",
+    "id": 1233235150030245888,
+    "id_str": "1233235150030245888",
+    "text": "日本推理四大奇書之一《獻給虛無的供物》重出了新譯本。\n\n只剩小知堂已絕版的《匣中的失樂》為林敏生翻譯，其餘三本譯者現在都是詹慕如，搞不好最後四位作家的四大奇書，皆為一人翻譯。\n\n對本格的嘲諷：《獻給虛無的供物》… https://t.co/5OGVFmGkuH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5OGVFmGkuH",
+          "expanded_url": "https://twitter.com/i/web/status/1233235150030245888",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 28 03:28:44 +0000 2020",
+    "id": 1233232539239604224,
+    "id_str": "1233232539239604224",
+    "text": "Bookstore Assistance Robots，據說可以在書店跟著你，讓你擺選好的書、幫忙送到櫃台，或是領你到可閱讀的座位……🤷🏻‍♂️\n\n老實說真沒用，但看它跑來跑去應該蠻療癒的～\n\nMeet AROUND B, the… https://t.co/DzpolENvj5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DzpolENvj5",
+          "expanded_url": "https://twitter.com/i/web/status/1233232539239604224",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 28 02:44:31 +0000 2020",
+    "id": 1233221410509606912,
+    "id_str": "1233221410509606912",
+    "text": "漫畫新作的名字叫做《ぱいどん》（Paidon），以學習了手塚作品的AI創作的故事和角色為基礎，由人類創作者完成。據説主人公是AI學習了6000張角色圖像之後生成的。\n\n一個人類執行 AI 意志的故事⋯⋯\n\n人工智慧創作的手塚治虫漫… https://t.co/ZunZ8gHl3C",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZunZ8gHl3C",
+          "expanded_url": "https://twitter.com/i/web/status/1233221410509606912",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Feb 28 02:39:44 +0000 2020",
+    "id": 1233220209508417536,
+    "id_str": "1233220209508417536",
+    "text": "「松本大洋《羅浮宮的貓》中文版終於出版了！從 2016 在日本羅浮宮漫畫展看過原稿後，一直期待著知道這小白貓在羅浮宮走來走去搞什麼～」\n\n這首刷限量完整典藏版好像可以收一下，NT$1530。\n\n從 2016 到 2020——《羅浮… https://t.co/FDSKLREKCj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FDSKLREKCj",
+          "expanded_url": "https://twitter.com/i/web/status/1233220209508417536",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 28 02:22:30 +0000 2020",
+    "id": 1233215871734013952,
+    "id_str": "1233215871734013952",
+    "text": "每天2分鐘、6個動作，來消肚子⋯⋯\n\n【毎日2分】30日で腹筋を割るトレーニング 2020 https://t.co/rXYr1ut02v 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            73,
+            81
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rXYr1ut02v",
+          "expanded_url": "https://youtu.be/MpR7twC8yAY",
+          "display_url": "youtu.be/MpR7twC8yAY",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Sat Feb 22 08:25:54 +0000 2020",
     "id": 1231132998952570880,
     "id_str": "1231132998952570880",
