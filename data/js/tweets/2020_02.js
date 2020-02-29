@@ -1,5 +1,359 @@
 Grailbird.data.tweets_2020_02 = [
   {
+    "created_at": "Fri Feb 28 16:48:11 +0000 2020",
+    "id": 1233433726090010627,
+    "id_str": "1233433726090010627",
+    "text": "RT @ash_geo100: 【書籍推薦】📚\n建構出一套個人化吸收、內化、產出知識的方法，面對各種古往今來學者作家的趣味獵奇的撇步與疑難雜症。不是堅硬的工具書，反之還寫得相當有人味。 https://t.co/tU0UZkCHMU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ash_geo100",
+          "name": "Ash(灰灰)",
+          "id": 1093801018159030273,
+          "id_str": "1093801018159030273",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1233312100988149760,
+          "id_str": "1233312100988149760",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/ER2a0kyW4AACFiD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ER2a0kyW4AACFiD.jpg",
+          "url": "https://t.co/tU0UZkCHMU",
+          "display_url": "pic.twitter.com/tU0UZkCHMU",
+          "expanded_url": "https://twitter.com/ash_geo100/status/1233312120722219008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1233312120722219008,
+          "source_status_id_str": "1233312120722219008",
+          "source_user_id": 1093801018159030273,
+          "source_user_id_str": "1093801018159030273"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1233312100988149760,
+          "id_str": "1233312100988149760",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/ER2a0kyW4AACFiD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ER2a0kyW4AACFiD.jpg",
+          "url": "https://t.co/tU0UZkCHMU",
+          "display_url": "pic.twitter.com/tU0UZkCHMU",
+          "expanded_url": "https://twitter.com/ash_geo100/status/1233312120722219008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1233312120722219008,
+          "source_status_id_str": "1233312120722219008",
+          "source_user_id": 1093801018159030273,
+          "source_user_id_str": "1093801018159030273"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 28 08:44:58 +0000 2020",
+      "id": 1233312120722219008,
+      "id_str": "1233312120722219008",
+      "text": "【書籍推薦】📚\n建構出一套個人化吸收、內化、產出知識的方法，面對各種古往今來學者作家的趣味獵奇的撇步與疑難雜症。不是堅硬的工具書，反之還寫得相當有人味。 https://t.co/tU0UZkCHMU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1233312100988149760,
+            "id_str": "1233312100988149760",
+            "indices": [
+              77,
+              100
+            ],
+            "media_url": "http://pbs.twimg.com/media/ER2a0kyW4AACFiD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ER2a0kyW4AACFiD.jpg",
+            "url": "https://t.co/tU0UZkCHMU",
+            "display_url": "pic.twitter.com/tU0UZkCHMU",
+            "expanded_url": "https://twitter.com/ash_geo100/status/1233312120722219008/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1233312100988149760,
+            "id_str": "1233312100988149760",
+            "indices": [
+              77,
+              100
+            ],
+            "media_url": "http://pbs.twimg.com/media/ER2a0kyW4AACFiD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ER2a0kyW4AACFiD.jpg",
+            "url": "https://t.co/tU0UZkCHMU",
+            "display_url": "pic.twitter.com/tU0UZkCHMU",
+            "expanded_url": "https://twitter.com/ash_geo100/status/1233312120722219008/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1093801018159030273,
+        "id_str": "1093801018159030273",
+        "name": "Ash(灰灰)",
+        "screen_name": "ash_geo100",
+        "location": "灰色地帶",
+        "description": "哲學出身，噬字而活📚/台派🌈/⚫️⚪️/極簡主義",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 102,
+        "friends_count": 204,
+        "listed_count": 3,
+        "created_at": "Fri Feb 08 09:17:39 +0000 2019",
+        "favourites_count": 1793,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 758,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1104629576058060805/McBy8OD2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104629576058060805/McBy8OD2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1093801018159030273/1553435996",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 28 15:36:33 +0000 2020",
+    "id": 1233415702943453185,
+    "id_str": "1233415702943453185",
+    "text": "世界觀設定已成腦中內建，所以《碳變》第二季少了點新鮮感，看得有點沒勁⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1228860852003991552,
+    "in_reply_to_status_id_str": "1228860852003991552",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Feb 28 03:51:25 +0000 2020",
     "id": 1233238248752762882,
     "id_str": "1233238248752762882",
