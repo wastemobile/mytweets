@@ -1,5 +1,817 @@
 Grailbird.data.tweets_2020_03 = [
   {
+    "created_at": "Wed Mar 11 15:02:55 +0000 2020",
+    "id": 1237755892424036352,
+    "id_str": "1237755892424036352",
+    "text": "RT @techbang: 手機廠商不得「中國台灣」！NCC 通過修正草案，損害尊嚴相關電信終端裝置、韌體、軟體均不給賣！ https://t.co/t16Tma3nMp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "techbang",
+          "name": "T客邦",
+          "id": 69223257,
+          "id_str": "69223257",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t16Tma3nMp",
+          "expanded_url": "https://ift.tt/338GGGT",
+          "display_url": "ift.tt/338GGGT",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Mar 11 10:18:09 +0000 2020",
+      "id": 1237684227723997190,
+      "id_str": "1237684227723997190",
+      "text": "手機廠商不得「中國台灣」！NCC 通過修正草案，損害尊嚴相關電信終端裝置、韌體、軟體均不給賣！ https://t.co/t16Tma3nMp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/t16Tma3nMp",
+            "expanded_url": "https://ift.tt/338GGGT",
+            "display_url": "ift.tt/338GGGT",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 69223257,
+        "id_str": "69223257",
+        "name": "T客邦",
+        "screen_name": "techbang",
+        "location": "",
+        "description": "這是T客邦的twiter分部，提供網站的最新文章",
+        "url": "http://t.co/yyNe6yglfT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yyNe6yglfT",
+                "expanded_url": "http://www.techbang.com/",
+                "display_url": "techbang.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4445,
+        "friends_count": 3,
+        "listed_count": 165,
+        "created_at": "Thu Aug 27 06:42:24 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40234,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1741270761/251301_10150201420910674_161676900673_6904552_317888_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741270761/251301_10150201420910674_161676900673_6904552_317888_n_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 11 12:41:20 +0000 2020",
+    "id": 1237720262281293824,
+    "id_str": "1237720262281293824",
+    "text": "@fatwithfishgoat ISBN的原始設計並沒有區分。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "fatwithfishgoat",
+          "name": "月巴 月半 の 魚羊",
+          "id": 1112014768112431106,
+          "id_str": "1112014768112431106",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1237715774258593792,
+    "in_reply_to_status_id_str": "1237715774258593792",
+    "in_reply_to_user_id": 1112014768112431106,
+    "in_reply_to_user_id_str": "1112014768112431106",
+    "in_reply_to_screen_name": "fatwithfishgoat",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 11 12:22:54 +0000 2020",
+    "id": 1237715620596027394,
+    "id_str": "1237715620596027394",
+    "text": "@uituit 這還真怪，類ERP系統都有所謂的2開頭店內碼原則，區別商品營收並非一定要靠外部申請的ISBN。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "uituit",
+          "name": "uıʇuıʇ",
+          "id": 15844056,
+          "id_str": "15844056",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1237713226751561730,
+    "in_reply_to_status_id_str": "1237713226751561730",
+    "in_reply_to_user_id": 15844056,
+    "in_reply_to_user_id_str": "15844056",
+    "in_reply_to_screen_name": "uituit",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 11 12:10:02 +0000 2020",
+    "id": 1237712382438158337,
+    "id_str": "1237712382438158337",
+    "text": "@fatwithfishgoat 出版社出紙書時申請了ISBN，若有電子書版權，轉製電子書檔後就直接上各通路平台了，很少人再獨立申請，那個數據不反映現狀，失真率太高。\n\n現在出版社多半不排斥出電子書，但有可能版權方不賣、或加價過高… https://t.co/fLy0wnQnxa",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "fatwithfishgoat",
+          "name": "月巴 月半 の 魚羊",
+          "id": 1112014768112431106,
+          "id_str": "1112014768112431106",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fLy0wnQnxa",
+          "expanded_url": "https://twitter.com/i/web/status/1237712382438158337",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1237708118735257600,
+    "in_reply_to_status_id_str": "1237708118735257600",
+    "in_reply_to_user_id": 1112014768112431106,
+    "in_reply_to_user_id_str": "1112014768112431106",
+    "in_reply_to_screen_name": "fatwithfishgoat",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 11 11:53:47 +0000 2020",
+    "id": 1237708292169682945,
+    "id_str": "1237708292169682945",
+    "text": "三個月內必出扭蛋～ https://t.co/oCCK2Pj5Su",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oCCK2Pj5Su",
+          "expanded_url": "https://twitter.com/wandatoneko/status/1237343489865551874",
+          "display_url": "twitter.com/wandatoneko/st…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1237343489865551874,
+    "quoted_status_id_str": "1237343489865551874",
+    "quoted_status": {
+      "created_at": "Tue Mar 10 11:44:11 +0000 2020",
+      "id": 1237343489865551874,
+      "id_str": "1237343489865551874",
+      "text": "流石にこの時は驚いた😦 https://t.co/SmwBwW2919",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1237343483800633345,
+            "id_str": "1237343483800633345",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESvtV8EUwAExhb3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESvtV8EUwAExhb3.jpg",
+            "url": "https://t.co/SmwBwW2919",
+            "display_url": "pic.twitter.com/SmwBwW2919",
+            "expanded_url": "https://twitter.com/wandatoneko/status/1237343489865551874/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 478,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 844,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 900,
+                "h": 1279,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1237343483800633345,
+            "id_str": "1237343483800633345",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESvtV8EUwAExhb3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESvtV8EUwAExhb3.jpg",
+            "url": "https://t.co/SmwBwW2919",
+            "display_url": "pic.twitter.com/SmwBwW2919",
+            "expanded_url": "https://twitter.com/wandatoneko/status/1237343489865551874/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 478,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 844,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 900,
+                "h": 1279,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4859179818,
+        "id_str": "4859179818",
+        "name": "いこねこ",
+        "screen_name": "wandatoneko",
+        "location": "田舎の片隅",
+        "description": "休日はカメラ散歩▪️外猫さんと地域の方に配慮して活動地域、撮影場所は全て伏せております【写真無断転載は×です】https://t.co/8oeZBi4En1",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/8oeZBi4En1",
+                "expanded_url": "https://www.instagram.com/iconekocamera",
+                "display_url": "instagram.com/iconekocamera",
+                "indices": [
+                  55,
+                  78
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12325,
+        "friends_count": 822,
+        "listed_count": 356,
+        "created_at": "Thu Feb 04 14:20:49 +0000 2016",
+        "favourites_count": 24401,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 9780,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/938356452283924480/zo0k8Mqp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/938356452283924480/zo0k8Mqp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4859179818/1579224939",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3611,
+      "favorite_count": 20488,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 11 11:48:25 +0000 2020",
+    "id": 1237706944745328640,
+    "id_str": "1237706944745328640",
+    "text": "「根據國家圖書館上周公布的數據，去年共有210家出版機構申請電子書ISBN，出版新書1591 種，較前年度減少2749種，跌幅高達63.34%⋯⋯」\n\n一般出版社並不會去申請電子書ISBN，這內容、標題與結論完全搭錯線⋯⋯（完） https://t.co/C0LKE0ojEo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/C0LKE0ojEo",
+          "expanded_url": "https://twitter.com/fatwithfishgoat/status/1237538398237159424",
+          "display_url": "twitter.com/fatwithfishgoa…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1237538398237159424,
+    "quoted_status_id_str": "1237538398237159424",
+    "quoted_status": {
+      "created_at": "Wed Mar 11 00:38:41 +0000 2020",
+      "id": 1237538398237159424,
+      "id_str": "1237538398237159424",
+      "text": "#完事問推友\n\n實體轉數位的確會短期會增加成本，但搭配線上線下是不可避免的趨勢，也許多人以為如此找到邏輯而獲利。而電子書也有這個機會嗎？\n\n我很基本的分析以書本基本的動作為閱讀跟接觸，電子設備目前來看接觸的機率是大於門市的\n\n因為… https://t.co/qw2Rekz0f4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "完事問推友",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qw2Rekz0f4",
+            "expanded_url": "https://twitter.com/i/web/status/1237538398237159424",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1112014768112431106,
+        "id_str": "1112014768112431106",
+        "name": "月巴 月半 の 魚羊",
+        "screen_name": "fatwithfishgoat",
+        "location": "",
+        "description": "改變就是好的",
+        "url": "https://t.co/Ms62wNjjOP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Ms62wNjjOP",
+                "expanded_url": "https://www.instagram.com/fish_with_goat/",
+                "display_url": "instagram.com/fish_with_goat/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 397,
+        "friends_count": 16,
+        "listed_count": 2,
+        "created_at": "Sat Mar 30 15:32:35 +0000 2019",
+        "favourites_count": 8351,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3118,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1237698783774822401/WzGlRAL6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237698783774822401/WzGlRAL6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112014768112431106/1583655012",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 11 07:38:01 +0000 2020",
+    "id": 1237643929157132288,
+    "id_str": "1237643929157132288",
+    "text": "科普一下：（我也是今天才知道）\n\n這種巧克力片餅乾（chocolate chip cookies）普遍認為是美國廚師 Ruth Wakefield 在 1930 年代發明的。 https://t.co/VMi9wUFhKs\n\ncc. @faming_wang",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "faming_wang",
+          "name": "上躥下跳的比目魚",
+          "id": 971407301264338944,
+          "id_str": "971407301264338944",
+          "indices": [
+            117,
+            129
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VMi9wUFhKs",
+          "expanded_url": "https://en.wikipedia.org/wiki/Ruth_Graves_Wakefield",
+          "display_url": "en.wikipedia.org/wiki/Ruth_Grav…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1237550141076193280,
+    "in_reply_to_status_id_str": "1237550141076193280",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Mar 11 01:25:20 +0000 2020",
     "id": 1237550141076193280,
     "id_str": "1237550141076193280",
