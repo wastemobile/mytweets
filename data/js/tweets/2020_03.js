@@ -1,5 +1,805 @@
 Grailbird.data.tweets_2020_03 = [
   {
+    "created_at": "Sat Mar 28 01:24:42 +0000 2020",
+    "id": 1243710575558844416,
+    "id_str": "1243710575558844416",
+    "text": "延續上次的話題，英國兩間出版商拿出實際數字比對，Bookstat 電子書排行前十名中的五本，大約超量估算了14,000冊。 https://t.co/RurDZBpVte https://t.co/x395Nqm9Q7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RurDZBpVte",
+          "expanded_url": "https://bit.ly/33To5Pr",
+          "display_url": "bit.ly/33To5Pr",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1243709774073491457,
+          "id_str": "1243709774073491457",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUKLczdU8AEbP-1.png",
+          "media_url_https": "https://pbs.twimg.com/media/EUKLczdU8AEbP-1.png",
+          "url": "https://t.co/x395Nqm9Q7",
+          "display_url": "pic.twitter.com/x395Nqm9Q7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1243710575558844416/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 679,
+              "h": 327,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 679,
+              "h": 327,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 679,
+              "h": 327,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1243709774073491457,
+          "id_str": "1243709774073491457",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUKLczdU8AEbP-1.png",
+          "media_url_https": "https://pbs.twimg.com/media/EUKLczdU8AEbP-1.png",
+          "url": "https://t.co/x395Nqm9Q7",
+          "display_url": "pic.twitter.com/x395Nqm9Q7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1243710575558844416/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 679,
+              "h": 327,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 679,
+              "h": 327,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 679,
+              "h": 327,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1241549365153415168,
+    "in_reply_to_status_id_str": "1241549365153415168",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 28 01:19:55 +0000 2020",
+    "id": 1243709372095541248,
+    "id_str": "1243709372095541248",
+    "text": "妖怪文化歷史悠久的日本，有個形似人魚並象徵著豐收和平息瘟疫消災的妖怪「Amabie」（アマビエ），日本插畫家、漫畫家們紛紛在社群網站上傳自己繪製的 Amabie，向這防疫妖怪祈求這波疫病之災能早日消停。\n\n文化是這樣傳承與演化的。… https://t.co/AIm5ioGewn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AIm5ioGewn",
+          "expanded_url": "https://twitter.com/i/web/status/1243709372095541248",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 27 13:06:00 +0000 2020",
+    "id": 1243524672123072514,
+    "id_str": "1243524672123072514",
+    "text": "真的「超幽默」。 https://t.co/0V1OakFl1T",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0V1OakFl1T",
+          "expanded_url": "https://twitter.com/poooo_chu/status/1243513496832061446",
+          "display_url": "twitter.com/poooo_chu/stat…",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1243513496832061446,
+    "quoted_status_id_str": "1243513496832061446",
+    "quoted_status": {
+      "created_at": "Fri Mar 27 12:21:35 +0000 2020",
+      "id": 1243513496832061446,
+      "id_str": "1243513496832061446",
+      "text": "在 7-11 看到這本，不顧疫情反對，我揉了好幾次眼睛，這個世界，是不是不會好了？ https://t.co/BI6f1MwKw0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1243513479224365057,
+            "id_str": "1243513479224365057",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/EUHY68KUEAE9lRB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EUHY68KUEAE9lRB.jpg",
+            "url": "https://t.co/BI6f1MwKw0",
+            "display_url": "pic.twitter.com/BI6f1MwKw0",
+            "expanded_url": "https://twitter.com/poooo_chu/status/1243513496832061446/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1243513479224365057,
+            "id_str": "1243513479224365057",
+            "indices": [
+              42,
+              65
+            ],
+            "media_url": "http://pbs.twimg.com/media/EUHY68KUEAE9lRB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EUHY68KUEAE9lRB.jpg",
+            "url": "https://t.co/BI6f1MwKw0",
+            "display_url": "pic.twitter.com/BI6f1MwKw0",
+            "expanded_url": "https://twitter.com/poooo_chu/status/1243513496832061446/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 41808461,
+        "id_str": "41808461",
+        "name": "🧹🤺「這個世界怎麼了？」",
+        "screen_name": "poooo_chu",
+        "location": "",
+        "description": "「我不想生活在，善良被當作是弱點的世界。」- Keanu Reeves",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 21847,
+        "friends_count": 1906,
+        "listed_count": 198,
+        "created_at": "Fri May 22 13:12:16 +0000 2009",
+        "favourites_count": 85539,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19266,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3DAFCC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040639825777385472/9tCA5f37_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040639825777385472/9tCA5f37_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41808461/1469629047",
+        "profile_link_color": "5CBED6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "ACB2CD",
+        "profile_text_color": "5A5A6D",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 286,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 27 12:00:46 +0000 2020",
+    "id": 1243508256355397632,
+    "id_str": "1243508256355397632",
+    "text": "RT @wildjcrt: Amazon 開放免費聽的故事有聲書 Audible Stories，經典文學的 27 本書誠意十足欸！快速列表：\n美麗新世界\n簡·愛\n鐘樓怪人\n野性的呼喚\n白鯨記\n與森林共舞\n坎特伯里故事集\n羅密歐與茱麗葉\n悲慘世界\n咆哮山莊\n傲慢與偏見\n班傑明的…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "wildjcrt",
+          "name": "Jerry Lee 🦀",
+          "id": 213189093,
+          "id_str": "213189093",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 27 09:41:43 +0000 2020",
+      "id": 1243473262702542848,
+      "id_str": "1243473262702542848",
+      "text": "Amazon 開放免費聽的故事有聲書 Audible Stories，經典文學的 27 本書誠意十足欸！快速列表：\n美麗新世界\n簡·愛\n鐘樓怪人\n野性的呼喚\n白鯨記\n與森林共舞\n坎特伯里故事集\n羅密歐與茱麗葉\n悲慘世界\n咆哮山莊… https://t.co/TJpwy24hYw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TJpwy24hYw",
+            "expanded_url": "https://twitter.com/i/web/status/1243473262702542848",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 213189093,
+        "id_str": "213189093",
+        "name": "Jerry Lee 🦀",
+        "screen_name": "wildjcrt",
+        "location": "Taipei, Taiwan",
+        "description": "Ruby/Rails Developer since 2010. \nWeb Pioneer at https://t.co/APnxrmTAwC since 2012. \nFrom Kaohsiung and now live in Taipei. \n日本語で勉強しています。言い方や文法が間違っていたら、どうぞ教えてください。",
+        "url": "https://t.co/YnkN3AKhIT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/YnkN3AKhIT",
+                "expanded_url": "http://wildjcrt.pixnet.net/blog",
+                "display_url": "wildjcrt.pixnet.net/blog",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/APnxrmTAwC",
+                "expanded_url": "http://Womany.net",
+                "display_url": "Womany.net",
+                "indices": [
+                  49,
+                  72
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1136,
+        "friends_count": 614,
+        "listed_count": 54,
+        "created_at": "Mon Nov 08 06:36:21 +0000 2010",
+        "favourites_count": 190,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 30112,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287167590/oon_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287167590/oon_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 25,
+      "favorite_count": 45,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 27 03:52:37 +0000 2020",
+    "id": 1243385411625316353,
+    "id_str": "1243385411625316353",
+    "text": "RT @FAPA_HQ: Let #Taiwan into #WHO\n\nA champion against #COVID19 is blocked from the global health body amid #coronavirus pandemic, and that…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Taiwan",
+          "indices": [
+            17,
+            24
+          ]
+        },
+        {
+          "text": "WHO",
+          "indices": [
+            30,
+            34
+          ]
+        },
+        {
+          "text": "COVID19",
+          "indices": [
+            55,
+            63
+          ]
+        },
+        {
+          "text": "coronavirus",
+          "indices": [
+            108,
+            120
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "FAPA_HQ",
+          "name": "Formosan Association",
+          "id": 770071704626421761,
+          "id_str": "770071704626421761",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 27 00:13:03 +0000 2020",
+      "id": 1243330152987271168,
+      "id_str": "1243330152987271168",
+      "text": "Let #Taiwan into #WHO\n\nA champion against #COVID19 is blocked from the global health body amid #coronavirus pandemi… https://t.co/9XKxDExTkx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Taiwan",
+            "indices": [
+              4,
+              11
+            ]
+          },
+          {
+            "text": "WHO",
+            "indices": [
+              17,
+              21
+            ]
+          },
+          {
+            "text": "COVID19",
+            "indices": [
+              42,
+              50
+            ]
+          },
+          {
+            "text": "coronavirus",
+            "indices": [
+              95,
+              107
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9XKxDExTkx",
+            "expanded_url": "https://twitter.com/i/web/status/1243330152987271168",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 770071704626421761,
+        "id_str": "770071704626421761",
+        "name": "Formosan Association",
+        "screen_name": "FAPA_HQ",
+        "location": "Washington, DC",
+        "description": "Founded in 1982, Formosan Association for Public Affairs (FAPA) promotes US-Taiwan relationship and the freedom of Taiwan on the Capitol Hill and across the USA",
+        "url": "https://t.co/Rh6YLyESvs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Rh6YLyESvs",
+                "expanded_url": "http://www.fapa.org",
+                "display_url": "fapa.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1430,
+        "friends_count": 349,
+        "listed_count": 34,
+        "created_at": "Mon Aug 29 01:32:56 +0000 2016",
+        "favourites_count": 269,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 263,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/770073177414365185/TJ5JqaeH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/770073177414365185/TJ5JqaeH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/770071704626421761/1472434897",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Mar 27 02:32:11 +0000 2020",
     "id": 1243365168517492738,
     "id_str": "1243365168517492738",
