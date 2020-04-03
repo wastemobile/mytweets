@@ -1,5 +1,341 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Fri Apr 03 01:21:23 +0000 2020",
+    "id": 1245884065116385280,
+    "id_str": "1245884065116385280",
+    "text": "RT @thecat: Latex, TLA+ 與 vector clock 之父 Leslie Lamport 終身經典著作現正免費下載中唷❤️\n\nhttps://t.co/RPGXhKXwKT https://t.co/LwZ4hox000",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RPGXhKXwKT",
+          "expanded_url": "https://dl.acm.org/doi/book/10.1145/3335772",
+          "display_url": "dl.acm.org/doi/book/10.11…",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1245882499382702080,
+          "id_str": "1245882499382702080",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUpDiD-U8AAxMFy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EUpDiD-U8AAxMFy.jpg",
+          "url": "https://t.co/LwZ4hox000",
+          "display_url": "pic.twitter.com/LwZ4hox000",
+          "expanded_url": "https://twitter.com/thecat/status/1245882514452787200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 954,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1369,
+              "h": 1722,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 541,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1245882514452787200,
+          "source_status_id_str": "1245882514452787200",
+          "source_user_id": 807633,
+          "source_user_id_str": "807633"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1245882499382702080,
+          "id_str": "1245882499382702080",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUpDiD-U8AAxMFy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EUpDiD-U8AAxMFy.jpg",
+          "url": "https://t.co/LwZ4hox000",
+          "display_url": "pic.twitter.com/LwZ4hox000",
+          "expanded_url": "https://twitter.com/thecat/status/1245882514452787200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 954,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1369,
+              "h": 1722,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 541,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1245882514452787200,
+          "source_status_id_str": "1245882514452787200",
+          "source_user_id": 807633,
+          "source_user_id_str": "807633"
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 03 01:15:13 +0000 2020",
+      "id": 1245882514452787200,
+      "id_str": "1245882514452787200",
+      "text": "Latex, TLA+ 與 vector clock 之父 Leslie Lamport 終身經典著作現正免費下載中唷❤️\n\nhttps://t.co/RPGXhKXwKT https://t.co/LwZ4hox000",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RPGXhKXwKT",
+            "expanded_url": "https://dl.acm.org/doi/book/10.1145/3335772",
+            "display_url": "dl.acm.org/doi/book/10.11…",
+            "indices": [
+              63,
+              86
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1245882499382702080,
+            "id_str": "1245882499382702080",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/EUpDiD-U8AAxMFy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EUpDiD-U8AAxMFy.jpg",
+            "url": "https://t.co/LwZ4hox000",
+            "display_url": "pic.twitter.com/LwZ4hox000",
+            "expanded_url": "https://twitter.com/thecat/status/1245882514452787200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 954,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1369,
+                "h": 1722,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 541,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1245882499382702080,
+            "id_str": "1245882499382702080",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/EUpDiD-U8AAxMFy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EUpDiD-U8AAxMFy.jpg",
+            "url": "https://t.co/LwZ4hox000",
+            "display_url": "pic.twitter.com/LwZ4hox000",
+            "expanded_url": "https://twitter.com/thecat/status/1245882514452787200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 954,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1369,
+                "h": 1722,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 541,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807633,
+        "id_str": "807633",
+        "name": "Jeremy Lu",
+        "screen_name": "thecat",
+        "location": "right here, right now",
+        "description": "Fullstack web developer by day, amateur haskeller by night, avid cyclist and swimmer in between. Ask me anything about statechart, react and cycling. λ",
+        "url": "https://t.co/B4B6LlFCdr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/B4B6LlFCdr",
+                "expanded_url": "http://www.stateskit.com",
+                "display_url": "stateskit.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5330,
+        "friends_count": 1574,
+        "listed_count": 90,
+        "created_at": "Sat Mar 03 01:42:09 +0000 2007",
+        "favourites_count": 4126,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 31186,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Apr 02 01:27:05 +0000 2020",
     "id": 1245523114659729409,
     "id_str": "1245523114659729409",
