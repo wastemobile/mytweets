@@ -1,5 +1,402 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Fri Apr 03 08:10:52 +0000 2020",
+    "id": 1245987118112886784,
+    "id_str": "1245987118112886784",
+    "text": "看完這首正式成為 milet 粉絲～～\n\nmilet「us」MUSIC VIDEO（日本テレビ系水曜ドラマ『偽装不倫』主題歌） https://t.co/FXhsmm5ddp 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube #StayHome",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            91,
+            99
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FXhsmm5ddp",
+          "expanded_url": "https://youtu.be/AIMjbleH394",
+          "display_url": "youtu.be/AIMjbleH394",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Apr 03 07:41:56 +0000 2020",
+    "id": 1245979836092317697,
+    "id_str": "1245979836092317697",
+    "text": "這聲音與人之間的反差太迷人了～～\n\nmilet ／Tell me 官方中字MV https://t.co/q8Onhp6fad 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube #StayHome",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            67,
+            75
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q8Onhp6fad",
+          "expanded_url": "https://youtu.be/2HHNF8Tpkcw",
+          "display_url": "youtu.be/2HHNF8Tpkcw",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 03 06:16:46 +0000 2020",
+    "id": 1245958402615869442,
+    "id_str": "1245958402615869442",
+    "text": "RT @yakiyanki: 我是這樣覺得啦，敢用中國開發的軟體的人就不要到時挫賽才在那邊靠腰，是要被騙幾次，中國有好人沒錯，但就沒想過好人頭上有中共政府拿槍指著嗎\n\nhttps://t.co/40rtyKMvf1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yakiyanki",
+          "name": "伊坂蟹太郎🌈",
+          "id": 143025520,
+          "id_str": "143025520",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/40rtyKMvf1",
+          "expanded_url": "https://www.ithome.com.tw/news/136736",
+          "display_url": "ithome.com.tw/news/136736",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Apr 02 19:25:49 +0000 2020",
+      "id": 1245794586833739776,
+      "id_str": "1245794586833739776",
+      "text": "我是這樣覺得啦，敢用中國開發的軟體的人就不要到時挫賽才在那邊靠腰，是要被騙幾次，中國有好人沒錯，但就沒想過好人頭上有中共政府拿槍指著嗎\n\nhttps://t.co/40rtyKMvf1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/40rtyKMvf1",
+            "expanded_url": "https://www.ithome.com.tw/news/136736",
+            "display_url": "ithome.com.tw/news/136736",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 143025520,
+        "id_str": "143025520",
+        "name": "伊坂蟹太郎🌈",
+        "screen_name": "yakiyanki",
+        "location": "Tainan",
+        "description": "人生醒著的時間都在：電影/動畫/電玩/政治/美術館  \n\n多部日劇、廣告中登場，顧客99.99%好評推薦，自家製小田切讓椅購買這邊請 https://t.co/F5mNmbRogG \n商品細節詢問請來信至aki0955@gmail.com",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/F5mNmbRogG",
+                "expanded_url": "http://tinyurl.com/ycmdxtfx",
+                "display_url": "tinyurl.com/ycmdxtfx",
+                "indices": [
+                  67,
+                  90
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3732,
+        "friends_count": 480,
+        "listed_count": 21,
+        "created_at": "Wed May 12 11:22:35 +0000 2010",
+        "favourites_count": 2288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11290,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985049809177358336/nCOS-wGi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985049809177358336/nCOS-wGi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143025520/1461916606",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 121,
+      "favorite_count": 319,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 121,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 03 05:53:59 +0000 2020",
+    "id": 1245952668075425792,
+    "id_str": "1245952668075425792",
+    "text": "大家都知道只要按一下「閱讀器模式」就能看全文吧⋯⋯？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1245942911352451079,
+    "in_reply_to_status_id_str": "1245942911352451079",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 03 05:15:13 +0000 2020",
+    "id": 1245942911352451079,
+    "id_str": "1245942911352451079",
+    "text": "「⋯⋯等於從2013年起，兒盟實際結餘佔收入比都高達47%到54%。」\n\n兒盟的理財之道是運用「公益團體結餘可有40%免稅額度」以及「教育部同意提撥基金當作支出」這兩個「巧門」。\n\n獨家／公益巨獸1】3.7億爭議辦公室入手　揭兒盟… https://t.co/lnAuJemnPo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lnAuJemnPo",
+          "expanded_url": "https://twitter.com/i/web/status/1245942911352451079",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 03 01:21:23 +0000 2020",
     "id": 1245884065116385280,
     "id_str": "1245884065116385280",
