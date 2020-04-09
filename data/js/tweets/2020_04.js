@@ -1,5 +1,344 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Thu Apr 09 02:03:27 +0000 2020",
+    "id": 1248068978942963713,
+    "id_str": "1248068978942963713",
+    "text": "原來平常民航客機都肩負氣象監測的任務啊。 https://t.co/ZTYXyMe5xB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZTYXyMe5xB",
+          "expanded_url": "https://twitter.com/nishuang/status/1248066163424342017",
+          "display_url": "twitter.com/nishuang/statu…",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1248066163424342017,
+    "quoted_status_id_str": "1248066163424342017",
+    "quoted_status": {
+      "created_at": "Thu Apr 09 01:52:15 +0000 2020",
+      "id": 1248066163424342017,
+      "id_str": "1248066163424342017",
+      "text": "新冠病毒怎么会影响天气预报准确度？\n\n气象学家说，现有的天气监测体系，由气象卫星、地面观测站和民航客机共同组成，超过 3500 架客机每年采集 2.5 亿条天气数据\n\n新冠病毒导致多数客机停飞，失去了客机那部分天气数据之后，天气预… https://t.co/xl9onnZXkH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xl9onnZXkH",
+            "expanded_url": "https://twitter.com/i/web/status/1248066163424342017",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20588970,
+        "id_str": "20588970",
+        "name": "倪爽",
+        "screen_name": "nishuang",
+        "location": "United States",
+        "description": "倪爽，设计顾问。超过 15 年设计经验，超过 10 年管理经验。在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计顾问服务。https://t.co/guqrYD9fvg",
+        "url": "https://t.co/ZlbrKxColf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZlbrKxColf",
+                "expanded_url": "https://nishuang.net/",
+                "display_url": "nishuang.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/guqrYD9fvg",
+                "expanded_url": "http://nishuang.net",
+                "display_url": "nishuang.net",
+                "indices": [
+                  95,
+                  118
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 24266,
+        "friends_count": 705,
+        "listed_count": 205,
+        "created_at": "Wed Feb 11 13:17:01 +0000 2009",
+        "favourites_count": 9561,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17423,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "F6F6F6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20588970/1492059842",
+        "profile_link_color": "1199D3",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 46,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 09 00:50:09 +0000 2020",
+    "id": 1248050531743879168,
+    "id_str": "1248050531743879168",
+    "text": "所以 HBO go 只是有線電視訂戶的延伸（付費）服務？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 08 13:05:59 +0000 2020",
+    "id": 1247873325809856513,
+    "id_str": "1247873325809856513",
+    "text": "先準備一下，應該是從 LINE 搜到 ibon便利生活站、點選左下方明顯的領口罩，等明天輸入資料，就會出現條碼、可以直接到櫃檯領去口罩了吧。\n\n小七、全家App口罩領取功能上線！四大超商皆可免領小白單、一支手機就能領口罩… https://t.co/AgGwSIzgCj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AgGwSIzgCj",
+          "expanded_url": "https://twitter.com/i/web/status/1247873325809856513",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 08 11:16:17 +0000 2020",
+    "id": 1247845715432235008,
+    "id_str": "1247845715432235008",
+    "text": "男女如何用正確的方法減脂 (中文字幕) https://t.co/SU4Uh2PV3k 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube at 🏠",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            47,
+            55
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SU4Uh2PV3k",
+          "expanded_url": "https://youtu.be/ctVI70UaZgY",
+          "display_url": "youtu.be/ctVI70UaZgY",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 08 02:48:05 +0000 2020",
     "id": 1247717826351120384,
     "id_str": "1247717826351120384",
