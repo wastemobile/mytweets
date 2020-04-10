@@ -1,5 +1,250 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Fri Apr 10 02:33:05 +0000 2020",
+    "id": 1248438823710679040,
+    "id_str": "1248438823710679040",
+    "text": "這份當代最佳「長」小說清單蠻好的（原文500頁以上），浮亂世道很適合挑一本厚重的紙書慢慢讀；可惜中文譯本相對少些。\n\nThe 50 Best Contemporary Novels Over 500 Pages… https://t.co/vd6eSia8bF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vd6eSia8bF",
+          "expanded_url": "https://twitter.com/i/web/status/1248438823710679040",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 09 14:53:11 +0000 2020",
+    "id": 1248262690436333568,
+    "id_str": "1248262690436333568",
+    "text": "攻擊時可以附上店家座標嗎⋯⋯？ https://t.co/bwGwXzHtj8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1248262678302212098,
+          "id_str": "1248262678302212098",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EVK4StaUwAIwn_D.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVK4StaUwAIwn_D.jpg",
+          "url": "https://t.co/bwGwXzHtj8",
+          "display_url": "pic.twitter.com/bwGwXzHtj8",
+          "expanded_url": "https://twitter.com/wastemobile/status/1248262690436333568/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 324,
+              "h": 320,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 324,
+              "h": 320,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 324,
+              "h": 320,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1248262678302212098,
+          "id_str": "1248262678302212098",
+          "indices": [
+            16,
+            39
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EVK4StaUwAIwn_D.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVK4StaUwAIwn_D.jpg",
+          "url": "https://t.co/bwGwXzHtj8",
+          "display_url": "pic.twitter.com/bwGwXzHtj8",
+          "expanded_url": "https://twitter.com/wastemobile/status/1248262690436333568/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 324,
+              "h": 320,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 324,
+              "h": 320,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 324,
+              "h": 320,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              81,
+              80
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EVK4StaUwAIwn_D.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1248253755033661441,
+    "in_reply_to_status_id_str": "1248253755033661441",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 09 14:17:41 +0000 2020",
+    "id": 1248253755033661441,
+    "id_str": "1248253755033661441",
+    "text": "已經被這個  #ThisAttackComeFromTaiwan 擊倒，完全是傷人三分、損己七分啊！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ThisAttackComeFromTaiwan",
+          "indices": [
+            7,
+            32
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Apr 09 02:03:27 +0000 2020",
     "id": 1248068978942963713,
     "id_str": "1248068978942963713",
