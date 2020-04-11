@@ -1,5 +1,256 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Fri Apr 10 05:25:42 +0000 2020",
+    "id": 1248482266554089478,
+    "id_str": "1248482266554089478",
+    "text": "RT @AMAZlNGSCIENCE: Antique safe made in France around ~1780 / 1810. With three keys and a combination of ordered switches. https://t.co/yP…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AMAZlNGSCIENCE",
+          "name": "Science is Amazing",
+          "id": 1151507736565170177,
+          "id_str": "1151507736565170177",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 10 04:51:29 +0000 2020",
+      "id": 1248473656142921728,
+      "id_str": "1248473656142921728",
+      "text": "Antique safe made in France around ~1780 / 1810. With three keys and a combination of ordered switches. https://t.co/yPXgxdi6m2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1248473559908794374,
+            "id_str": "1248473559908794374",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248473559908794374/pu/img/-iOkpyGhnCpeflS0.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248473559908794374/pu/img/-iOkpyGhnCpeflS0.jpg",
+            "url": "https://t.co/yPXgxdi6m2",
+            "display_url": "pic.twitter.com/yPXgxdi6m2",
+            "expanded_url": "https://twitter.com/AMAZlNGSCIENCE/status/1248473656142921728/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 610,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 610,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 610,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1248473559908794374,
+            "id_str": "1248473559908794374",
+            "indices": [
+              104,
+              127
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248473559908794374/pu/img/-iOkpyGhnCpeflS0.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248473559908794374/pu/img/-iOkpyGhnCpeflS0.jpg",
+            "url": "https://t.co/yPXgxdi6m2",
+            "display_url": "pic.twitter.com/yPXgxdi6m2",
+            "expanded_url": "https://twitter.com/AMAZlNGSCIENCE/status/1248473656142921728/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 610,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 610,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 610,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                64,
+                61
+              ],
+              "duration_millis": 56633,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1248473559908794374/pu/vid/376x360/ZCrCbOIRtPH4BP1t.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1248473559908794374/pu/pl/vS-QpdX_g_9zxRMN.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1248473559908794374/pu/vid/640x610/qKyEUH7LrsU0qitY.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1248473559908794374/pu/vid/282x270/U68eB4UWECyAFqn7.mp4?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1151507736565170177,
+        "id_str": "1151507736565170177",
+        "name": "Science is Amazing",
+        "screen_name": "AMAZlNGSCIENCE",
+        "location": "",
+        "description": "Science! 😇",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 126376,
+        "friends_count": 35670,
+        "listed_count": 323,
+        "created_at": "Wed Jul 17 15:03:33 +0000 2019",
+        "favourites_count": 39,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 508,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1180155384016719873/kQB8cuzq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180155384016719873/kQB8cuzq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 192,
+      "favorite_count": 556,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 192,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Apr 10 02:33:05 +0000 2020",
     "id": 1248438823710679040,
     "id_str": "1248438823710679040",
