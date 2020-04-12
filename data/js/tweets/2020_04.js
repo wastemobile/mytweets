@@ -1,5 +1,75 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Sun Apr 12 03:07:37 +0000 2020",
+    "id": 1249172291663077376,
+    "id_str": "1249172291663077376",
+    "text": "剛看完 #Netflix 上的 “The China Hustle”（中國大騙局），真的推薦大家都看看。 https://t.co/LNRedVAbck\n\n中國不是唯一的問題，真正的難題是「如何在二十一世紀反對資本主義」… https://t.co/i5sgExhzHK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            4,
+            12
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LNRedVAbck",
+          "expanded_url": "https://bit.ly/2y8RFEN",
+          "display_url": "bit.ly/2y8RFEN",
+          "indices": [
+            53,
+            76
+          ]
+        },
+        {
+          "url": "https://t.co/i5sgExhzHK",
+          "expanded_url": "https://twitter.com/i/web/status/1249172291663077376",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 10 05:25:42 +0000 2020",
     "id": 1248482266554089478,
     "id_str": "1248482266554089478",
