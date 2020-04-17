@@ -1,5 +1,501 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Fri Apr 17 04:46:42 +0000 2020",
+    "id": 1251009166660874240,
+    "id_str": "1251009166660874240",
+    "text": "真心佩服。\n\n不爽奸商炒價Switch，DIY達人網購零件自己組一台 https://t.co/SFN6La6NES https://t.co/Wf3U3u8BHJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SFN6La6NES",
+          "expanded_url": "https://bit.ly/3ad6X8Z",
+          "display_url": "bit.ly/3ad6X8Z",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1251009148168228864,
+          "id_str": "1251009148168228864",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVx6MS9U0AAsLWN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVx6MS9U0AAsLWN.jpg",
+          "url": "https://t.co/Wf3U3u8BHJ",
+          "display_url": "pic.twitter.com/Wf3U3u8BHJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1251009166660874240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 402,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 710,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 757,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1251009148168228864,
+          "id_str": "1251009148168228864",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVx6MS9U0AAsLWN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVx6MS9U0AAsLWN.jpg",
+          "url": "https://t.co/Wf3U3u8BHJ",
+          "display_url": "pic.twitter.com/Wf3U3u8BHJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1251009166660874240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 402,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 710,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 757,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1251009149342605315,
+          "id_str": "1251009149342605315",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVx6MXVUYAMrM_i.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVx6MXVUYAMrM_i.jpg",
+          "url": "https://t.co/Wf3U3u8BHJ",
+          "display_url": "pic.twitter.com/Wf3U3u8BHJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1251009166660874240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 583,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 330,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 622,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 92,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 17 04:35:23 +0000 2020",
+    "id": 1251006317663141893,
+    "id_str": "1251006317663141893",
+    "text": "職棒無觀眾比賽根本應該開放雙向直播，最好是可以選陣營，然後在球場兩邊擺擴音喇叭，讓加油聲激勵選手的腎上腺素。\n\n中職》「我們有了新希望」《時代》專文教美球迷看台灣棒球 https://t.co/iHZo7fXkcV https://t.co/g31KU6yGtr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iHZo7fXkcV",
+          "expanded_url": "https://bit.ly/3cqygOF",
+          "display_url": "bit.ly/3cqygOF",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1251006309555716096,
+          "id_str": "1251006309555716096",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVx3nETXQAAfZsO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVx3nETXQAAfZsO.jpg",
+          "url": "https://t.co/g31KU6yGtr",
+          "display_url": "pic.twitter.com/g31KU6yGtr",
+          "expanded_url": "https://twitter.com/wastemobile/status/1251006317663141893/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 532,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 532,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1251006309555716096,
+          "id_str": "1251006309555716096",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVx3nETXQAAfZsO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVx3nETXQAAfZsO.jpg",
+          "url": "https://t.co/g31KU6yGtr",
+          "display_url": "pic.twitter.com/g31KU6yGtr",
+          "expanded_url": "https://twitter.com/wastemobile/status/1251006317663141893/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 532,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 532,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 17 03:59:12 +0000 2020",
+    "id": 1250997211929800704,
+    "id_str": "1250997211929800704",
+    "text": "據說中國數位人民幣五月試營運，公家單位僱員薪資將有部分改以數位人民幣支付。\n\n這是大減薪吧？\n\nChina's digital yuan to go live in May for government employees… https://t.co/oxjMb7WW1S",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oxjMb7WW1S",
+          "expanded_url": "https://twitter.com/i/web/status/1250997211929800704",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 16 15:15:13 +0000 2020",
+    "id": 1250804950319239169,
+    "id_str": "1250804950319239169",
+    "text": "這次，讓我們投給韓國瑜。 #靠北讚\n\n阿滴廣告二創Who Can Help Kaohsiung? 網:韓國瑜躺著也中槍https://t.co/LHoi3pkwPt https://t.co/owtaRyujBc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "靠北讚",
+          "indices": [
+            13,
+            17
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LHoi3pkwPt",
+          "expanded_url": "https://bit.ly/3coGU0e",
+          "display_url": "bit.ly/3coGU0e",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1250804942555590658,
+          "id_str": "1250804942555590658",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVvAd9xUMAI2217.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVvAd9xUMAI2217.jpg",
+          "url": "https://t.co/owtaRyujBc",
+          "display_url": "pic.twitter.com/owtaRyujBc",
+          "expanded_url": "https://twitter.com/wastemobile/status/1250804950319239169/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 526,
+              "h": 958,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 526,
+              "h": 958,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 373,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1250804942555590658,
+          "id_str": "1250804942555590658",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVvAd9xUMAI2217.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVvAd9xUMAI2217.jpg",
+          "url": "https://t.co/owtaRyujBc",
+          "display_url": "pic.twitter.com/owtaRyujBc",
+          "expanded_url": "https://twitter.com/wastemobile/status/1250804950319239169/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 526,
+              "h": 958,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 526,
+              "h": 958,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 373,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1250343515659202560,
+    "in_reply_to_status_id_str": "1250343515659202560",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 37,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 15 08:41:39 +0000 2020",
     "id": 1250343515659202560,
     "id_str": "1250343515659202560",
