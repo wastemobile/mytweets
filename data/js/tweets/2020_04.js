@@ -1,5 +1,298 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Sat Apr 18 06:41:48 +0000 2020",
+    "id": 1251400518057914371,
+    "id_str": "1251400518057914371",
+    "text": "駁斥同行、有不同判斷與意見都很正常，但說一名諾貝爾醫學獎得主犯了「初學者的錯誤」？\n\n巴士德學院教授反駁新冠病毒人造說法判斷錯誤 https://t.co/7sCMQtXXiF https://t.co/d8FM8yF8G1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7sCMQtXXiF",
+          "expanded_url": "https://bit.ly/34Kbw9K",
+          "display_url": "bit.ly/34Kbw9K",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1251400509669249026,
+          "id_str": "1251400509669249026",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/EV3eIiKUEAI74P4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EV3eIiKUEAI74P4.jpg",
+          "url": "https://t.co/d8FM8yF8G1",
+          "display_url": "pic.twitter.com/d8FM8yF8G1",
+          "expanded_url": "https://twitter.com/wastemobile/status/1251400518057914371/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1240,
+              "h": 698,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1251400509669249026,
+          "id_str": "1251400509669249026",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/EV3eIiKUEAI74P4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EV3eIiKUEAI74P4.jpg",
+          "url": "https://t.co/d8FM8yF8G1",
+          "display_url": "pic.twitter.com/d8FM8yF8G1",
+          "expanded_url": "https://twitter.com/wastemobile/status/1251400518057914371/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1240,
+              "h": 698,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 17 16:57:36 +0000 2020",
+    "id": 1251193101303058432,
+    "id_str": "1251193101303058432",
+    "text": "RT @AkidForPrey: 诺贝尔奖又迫害中国zf啦～諾貝爾醫學獎得主法國病毒學家認為冠狀病毒來自武漢實驗室 https://t.co/YHuQ7rPEWw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AkidForPrey",
+          "name": "猛禽 😷",
+          "id": 18325616,
+          "id_str": "18325616",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YHuQ7rPEWw",
+          "expanded_url": "http://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20200417-%E8%AB%BE%E8%B2%9D%E7%88%BE%E9%86%AB%E5%AD%B8%E8%AB%BE%E7%8D%8E%E5%BE%97%E4%B8%BB%E6%B3%95%E5%9C%8B%E7%97%85%E6%AF%92%E5%AD%B8%E5%AE%B6%E8%AA%8D%E7%82%BA%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E4%BE%86%E8%87%AA%E6%AD%A6%E6%BC%A2%E5%AF%A6%E9%A9%97%E5%AE%A4",
+          "display_url": "rfi.fr/tw/%E6%B3%95%E…",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 17 16:35:57 +0000 2020",
+      "id": 1251187656169529349,
+      "id_str": "1251187656169529349",
+      "text": "诺贝尔奖又迫害中国zf啦～諾貝爾醫學獎得主法國病毒學家認為冠狀病毒來自武漢實驗室 https://t.co/YHuQ7rPEWw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YHuQ7rPEWw",
+            "expanded_url": "http://www.rfi.fr/tw/%E6%B3%95%E5%9C%8B/20200417-%E8%AB%BE%E8%B2%9D%E7%88%BE%E9%86%AB%E5%AD%B8%E8%AB%BE%E7%8D%8E%E5%BE%97%E4%B8%BB%E6%B3%95%E5%9C%8B%E7%97%85%E6%AF%92%E5%AD%B8%E5%AE%B6%E8%AA%8D%E7%82%BA%E5%86%A0%E7%8B%80%E7%97%85%E6%AF%92%E4%BE%86%E8%87%AA%E6%AD%A6%E6%BC%A2%E5%AF%A6%E9%A9%97%E5%AE%A4",
+            "display_url": "rfi.fr/tw/%E6%B3%95%E…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18325616,
+        "id_str": "18325616",
+        "name": "猛禽 😷",
+        "screen_name": "AkidForPrey",
+        "location": "",
+        "description": "I am the genius of myself.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 11824,
+        "friends_count": 2385,
+        "listed_count": 199,
+        "created_at": "Tue Dec 23 03:46:48 +0000 2008",
+        "favourites_count": 12329,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37637,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FAF2F2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/478077559867842560/4msQMTxy_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/478077559867842560/4msQMTxy_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18325616/1566582592",
+        "profile_link_color": "E061AB",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "79E633",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 17 04:46:42 +0000 2020",
     "id": 1251009166660874240,
     "id_str": "1251009166660874240",
