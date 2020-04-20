@@ -1,5 +1,184 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Sun Apr 19 03:18:35 +0000 2020",
+    "id": 1251711766104428544,
+    "id_str": "1251711766104428544",
+    "text": "喔，不要亂看線上的，大多數都是《火口（霧中）的二人》。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1251701809422274560,
+    "in_reply_to_status_id_str": "1251701809422274560",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Apr 19 02:39:01 +0000 2020",
+    "id": 1251701809422274560,
+    "id_str": "1251701809422274560",
+    "text": "「有些情感，只能做不能說。」\n\n很好看。\n\n用最少的針線在末日來臨前織一場末日的夢：《火口的二人》 https://t.co/IsT6CcccVC https://t.co/HKwx4myUJo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IsT6CcccVC",
+          "expanded_url": "https://bit.ly/2Vhu3qN",
+          "display_url": "bit.ly/2Vhu3qN",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1251701799817338881,
+          "id_str": "1251701799817338881",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/EV7wJ7bUYAEpFJD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EV7wJ7bUYAEpFJD.jpg",
+          "url": "https://t.co/HKwx4myUJo",
+          "display_url": "pic.twitter.com/HKwx4myUJo",
+          "expanded_url": "https://twitter.com/wastemobile/status/1251701809422274560/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1251701799817338881,
+          "id_str": "1251701799817338881",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/EV7wJ7bUYAEpFJD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EV7wJ7bUYAEpFJD.jpg",
+          "url": "https://t.co/HKwx4myUJo",
+          "display_url": "pic.twitter.com/HKwx4myUJo",
+          "expanded_url": "https://twitter.com/wastemobile/status/1251701809422274560/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Apr 18 06:41:48 +0000 2020",
     "id": 1251400518057914371,
     "id_str": "1251400518057914371",
