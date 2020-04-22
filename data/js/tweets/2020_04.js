@@ -1,5 +1,230 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Wed Apr 22 01:47:48 +0000 2020",
+    "id": 1252776085462253568,
+    "id_str": "1252776085462253568",
+    "text": "《新世紀福音戰士》新劇場版三部：序／破／Q，已可在 YouTube 免費觀賞（可惜沒有中文字幕）。\n\nEVANGELION 新劇場版序／破／Q 官方全片發佈！ https://t.co/Kvkk6GQCW5 https://t.co/6z29fzUCIc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Kvkk6GQCW5",
+          "expanded_url": "https://bit.ly/2xGurGy",
+          "display_url": "bit.ly/2xGurGy",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1252776079103651840,
+          "id_str": "1252776079103651840",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EWLBNNoUcAAkJ31.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EWLBNNoUcAAkJ31.jpg",
+          "url": "https://t.co/6z29fzUCIc",
+          "display_url": "pic.twitter.com/6z29fzUCIc",
+          "expanded_url": "https://twitter.com/wastemobile/status/1252776085462253568/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 524,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 524,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1252776079103651840,
+          "id_str": "1252776079103651840",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EWLBNNoUcAAkJ31.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EWLBNNoUcAAkJ31.jpg",
+          "url": "https://t.co/6z29fzUCIc",
+          "display_url": "pic.twitter.com/6z29fzUCIc",
+          "expanded_url": "https://twitter.com/wastemobile/status/1252776085462253568/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 524,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 524,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 21 12:44:27 +0000 2020",
+    "id": 1252578949093224448,
+    "id_str": "1252578949093224448",
+    "text": "官腔教學演練。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 21 12:37:29 +0000 2020",
+    "id": 1252577195622428673,
+    "id_str": "1252577195622428673",
+    "text": "所以真的是畢業旅行⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Apr 19 03:18:35 +0000 2020",
     "id": 1251711766104428544,
     "id_str": "1251711766104428544",
