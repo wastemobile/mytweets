@@ -1,5 +1,353 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Thu Apr 23 02:05:40 +0000 2020",
+    "id": 1253142966329176064,
+    "id_str": "1253142966329176064",
+    "text": "Bellingcat 用鍵盤查案的過程好精彩～\n\n【CUP 媒體】宅在家　也能查出俄國大陰謀？ https://t.co/3ilXz2T6do",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3ilXz2T6do",
+          "expanded_url": "https://youtu.be/iCo3N2g383w",
+          "display_url": "youtu.be/iCo3N2g383w",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 23 01:56:37 +0000 2020",
+    "id": 1253140692500541440,
+    "id_str": "1253140692500541440",
+    "text": "對彩色電子墨水螢幕興趣缺缺。\n\nOnyx is Developing a Color E-ink eReader https://t.co/fE0sKTUC6v https://t.co/feZ1AA4Lp5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fE0sKTUC6v",
+          "expanded_url": "https://bit.ly/2VJkiAA",
+          "display_url": "bit.ly/2VJkiAA",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1253140684661338113,
+          "id_str": "1253140684661338113",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EWQM0DLUMAEma1X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EWQM0DLUMAEma1X.jpg",
+          "url": "https://t.co/feZ1AA4Lp5",
+          "display_url": "pic.twitter.com/feZ1AA4Lp5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1253140692500541440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 571,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 715,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 715,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1253140684661338113,
+          "id_str": "1253140684661338113",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EWQM0DLUMAEma1X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EWQM0DLUMAEma1X.jpg",
+          "url": "https://t.co/feZ1AA4Lp5",
+          "display_url": "pic.twitter.com/feZ1AA4Lp5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1253140692500541440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 571,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 715,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 715,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Apr 22 17:09:36 +0000 2020",
+    "id": 1253008064111771649,
+    "id_str": "1253008064111771649",
+    "text": "RT @GiveMe_YourMind: 山水米(泉順食品)不是第一次了，這件食品公司跟頂新一樣惡劣!\nhttps://t.co/TzGVdtmQe4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "GiveMe_YourMind",
+          "name": "HardCore工程師",
+          "id": 837110156152315904,
+          "id_str": "837110156152315904",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TzGVdtmQe4",
+          "expanded_url": "https://tw.appledaily.com/new/realtime/20200422/1734826/",
+          "display_url": "tw.appledaily.com/new/realtime/2…",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Apr 22 11:31:45 +0000 2020",
+      "id": 1252923039068459008,
+      "id_str": "1252923039068459008",
+      "text": "山水米(泉順食品)不是第一次了，這件食品公司跟頂新一樣惡劣!\nhttps://t.co/TzGVdtmQe4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TzGVdtmQe4",
+            "expanded_url": "https://tw.appledaily.com/new/realtime/20200422/1734826/",
+            "display_url": "tw.appledaily.com/new/realtime/2…",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 837110156152315904,
+        "id_str": "837110156152315904",
+        "name": "HardCore工程師",
+        "screen_name": "GiveMe_YourMind",
+        "location": "Taipei City, Taiwan",
+        "description": "人家都叫我Hardcore工程師\n但是我只想Hardcore正妹工程師",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 783,
+        "friends_count": 184,
+        "listed_count": 8,
+        "created_at": "Thu Mar 02 01:19:48 +0000 2017",
+        "favourites_count": 337,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16779,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1009715060543971328/iWHgFb_a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009715060543971328/iWHgFb_a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/837110156152315904/1528711497",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 22 01:47:48 +0000 2020",
     "id": 1252776085462253568,
     "id_str": "1252776085462253568",
