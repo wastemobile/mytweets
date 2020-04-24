@@ -1,5 +1,336 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Thu Apr 23 12:11:57 +0000 2020",
+    "id": 1253295546271272961,
+    "id_str": "1253295546271272961",
+    "text": "新的蘋果魔術鍵盤（702g）居然比 iPad Pro 12.9\"（640g）還重！\n\nApple Magic Keyboard: Floating iPad Pro? https://t.co/mwPB0nVlDt 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube at 🏠",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            111,
+            119
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mwPB0nVlDt",
+          "expanded_url": "https://youtu.be/eNWG9KRAbCc",
+          "display_url": "youtu.be/eNWG9KRAbCc",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 23 11:44:29 +0000 2020",
+    "id": 1253288630333796352,
+    "id_str": "1253288630333796352",
+    "text": "RT @garethjms: Transcending CSS Revisited—read this fabulous book from @Malarkey online for free https://t.co/5oAmBs3twD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "garethjms",
+          "name": "Gareth J M Saunders™",
+          "id": 12753272,
+          "id_str": "12753272",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "Malarkey",
+          "name": "Andy Clarke",
+          "id": 34163,
+          "id_str": "34163",
+          "indices": [
+            71,
+            80
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5oAmBs3twD",
+          "expanded_url": "https://www.garethjmsaunders.co.uk/2020/04/23/transcending-css-revisited/",
+          "display_url": "garethjmsaunders.co.uk/2020/04/23/tra…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Apr 23 11:31:13 +0000 2020",
+      "id": 1253285293052092416,
+      "id_str": "1253285293052092416",
+      "text": "Transcending CSS Revisited—read this fabulous book from @Malarkey online for free https://t.co/5oAmBs3twD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Malarkey",
+            "name": "Andy Clarke",
+            "id": 34163,
+            "id_str": "34163",
+            "indices": [
+              56,
+              65
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5oAmBs3twD",
+            "expanded_url": "https://www.garethjmsaunders.co.uk/2020/04/23/transcending-css-revisited/",
+            "display_url": "garethjmsaunders.co.uk/2020/04/23/tra…",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12753272,
+        "id_str": "12753272",
+        "name": "Gareth J M Saunders™",
+        "screen_name": "garethjms",
+        "location": "Crail, Scotland",
+        "description": "father of twins + one, brother, son, sec priest, web, agile pm, geek, mahjong, 195 metal CDs, guitarist, nycgb alumnus, university of st andrews, 4w5, he/him.",
+        "url": "https://t.co/AIlTOJfQyj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/AIlTOJfQyj",
+                "expanded_url": "http://www.garethjmsaunders.co.uk",
+                "display_url": "garethjmsaunders.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1326,
+        "friends_count": 909,
+        "listed_count": 70,
+        "created_at": "Sun Jan 27 16:31:15 +0000 2008",
+        "favourites_count": 17848,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22176,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1229545972490960902/56b79CML_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229545972490960902/56b79CML_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12753272/1398370382",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Apr 23 04:51:26 +0000 2020",
+    "id": 1253184685477228549,
+    "id_str": "1253184685477228549",
+    "text": "@angiesaid @Brecht @purebox 這到底是什麼年齡層的對話，我要裝通通都聽不懂⋯⋯（掩耳",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "angiesaid",
+          "name": "清流吉",
+          "id": 242133,
+          "id_str": "242133",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "Brecht",
+          "name": "天地無用布大叔 😈",
+          "id": 724233,
+          "id_str": "724233",
+          "indices": [
+            11,
+            18
+          ]
+        },
+        {
+          "screen_name": "purebox",
+          "name": "盒",
+          "id": 10144682,
+          "id_str": "10144682",
+          "indices": [
+            19,
+            27
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1253182657082474496,
+    "in_reply_to_status_id_str": "1253182657082474496",
+    "in_reply_to_user_id": 242133,
+    "in_reply_to_user_id_str": "242133",
+    "in_reply_to_screen_name": "angiesaid",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Apr 23 02:05:40 +0000 2020",
     "id": 1253142966329176064,
     "id_str": "1253142966329176064",
