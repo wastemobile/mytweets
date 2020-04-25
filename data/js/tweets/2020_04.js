@@ -1,5 +1,199 @@
 Grailbird.data.tweets_2020_04 = [
   {
+    "created_at": "Sat Apr 25 02:58:50 +0000 2020",
+    "id": 1253881124184403968,
+    "id_str": "1253881124184403968",
+    "text": "這樣算起來最低是72折，但最近好像沒什麼想買的書⋯⋯\n\n#Kobo https://t.co/Oc5lwqPOQk https://t.co/aIBfXn7fgY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kobo",
+          "indices": [
+            28,
+            33
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Oc5lwqPOQk",
+          "expanded_url": "https://www.kobo.com",
+          "display_url": "kobo.com",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1253881110171283457,
+          "id_str": "1253881110171283457",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/EWauOfJU8AEP1at.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EWauOfJU8AEP1at.jpg",
+          "url": "https://t.co/aIBfXn7fgY",
+          "display_url": "pic.twitter.com/aIBfXn7fgY",
+          "expanded_url": "https://twitter.com/wastemobile/status/1253881124184403968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1516,
+              "h": 670,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 301,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1253881110171283457,
+          "id_str": "1253881110171283457",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/EWauOfJU8AEP1at.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EWauOfJU8AEP1at.jpg",
+          "url": "https://t.co/aIBfXn7fgY",
+          "display_url": "pic.twitter.com/aIBfXn7fgY",
+          "expanded_url": "https://twitter.com/wastemobile/status/1253881124184403968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1516,
+              "h": 670,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 301,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 24 02:57:48 +0000 2020",
+    "id": 1253518475521212417,
+    "id_str": "1253518475521212417",
+    "text": "Write Freely v0.12 發布 https://t.co/Cmf8TQDK0U",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Cmf8TQDK0U",
+          "expanded_url": "https://github.com/writeas/writefreely/releases",
+          "display_url": "github.com/writeas/writef…",
+          "indices": [
+            22,
+            45
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1193743895911288832,
+    "in_reply_to_status_id_str": "1193743895911288832",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Apr 23 12:11:57 +0000 2020",
     "id": 1253295546271272961,
     "id_str": "1253295546271272961",
