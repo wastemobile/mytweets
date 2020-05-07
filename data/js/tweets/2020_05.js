@@ -1,5 +1,438 @@
 Grailbird.data.tweets_2020_05 = [
   {
+    "created_at": "Thu May 07 03:09:30 +0000 2020",
+    "id": 1258232461709864960,
+    "id_str": "1258232461709864960",
+    "text": "為何 Snack bar 叫做「陪酒酒吧」？\n\n日本「陪酒酒吧「也開始線上營業了 https://t.co/6d95EkBozU https://t.co/ZOeLDVA7Y4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6d95EkBozU",
+          "expanded_url": "https://bit.ly/3cd6kxY",
+          "display_url": "bit.ly/3cd6kxY",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1258232454223065090,
+          "id_str": "1258232454223065090",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/EXYjwC7VcAIH9bo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EXYjwC7VcAIH9bo.jpg",
+          "url": "https://t.co/ZOeLDVA7Y4",
+          "display_url": "pic.twitter.com/ZOeLDVA7Y4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1258232461709864960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 331,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 331,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 331,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1258232454223065090,
+          "id_str": "1258232454223065090",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/EXYjwC7VcAIH9bo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EXYjwC7VcAIH9bo.jpg",
+          "url": "https://t.co/ZOeLDVA7Y4",
+          "display_url": "pic.twitter.com/ZOeLDVA7Y4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1258232461709864960/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 500,
+              "h": 331,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 500,
+              "h": 331,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 331,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 07 03:06:31 +0000 2020",
+    "id": 1258231711516618752,
+    "id_str": "1258231711516618752",
+    "text": "@Wcw5504 是這樣沒錯，但從劇本或演員表現來看，我覺得是目前 #Netflix 自製台劇中最佳的，有點 Westworld 第二季的感覺。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            34,
+            42
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Wcw5504",
+          "name": "空時雨",
+          "id": 269838003,
+          "id_str": "269838003",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1258229691967664129,
+    "in_reply_to_status_id_str": "1258229691967664129",
+    "in_reply_to_user_id": 269838003,
+    "in_reply_to_user_id_str": "269838003",
+    "in_reply_to_screen_name": "Wcw5504",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed May 06 14:07:00 +0000 2020",
+    "id": 1258035541578182661,
+    "id_str": "1258035541578182661",
+    "text": "老實說，#Netflix 目前能看完第一集的台劇，居然只有《罪夢者》。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            4,
+            12
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed May 06 12:59:42 +0000 2020",
+    "id": 1258018604684939265,
+    "id_str": "1258018604684939265",
+    "text": "好想要！！！ https://t.co/TJ8ugKIhYh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TJ8ugKIhYh",
+          "expanded_url": "https://twitter.com/akimotooo726/status/1258002189487796225",
+          "display_url": "twitter.com/akimotooo726/s…",
+          "indices": [
+            7,
+            30
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1258002189487796225,
+    "quoted_status_id_str": "1258002189487796225",
+    "quoted_status": {
+      "created_at": "Wed May 06 11:54:29 +0000 2020",
+      "id": 1258002189487796225,
+      "id_str": "1258002189487796225",
+      "text": "毎日何か楽しいこと、嬉しい事を一つでも発見しましょ。\n楽しむ事にも努力が必要。（だと思ってる。）\n#stayhomestaysafe\n#stayhome\nLet's try to find something that makes… https://t.co/XtyLvXOHcV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "stayhomestaysafe",
+            "indices": [
+              49,
+              66
+            ]
+          },
+          {
+            "text": "stayhome",
+            "indices": [
+              67,
+              76
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XtyLvXOHcV",
+            "expanded_url": "https://twitter.com/i/web/status/1258002189487796225",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 262419694,
+        "id_str": "262419694",
+        "name": "秋元才加 SAYAKA AKIMOTO",
+        "screen_name": "akimotooo726",
+        "location": "",
+        "description": "2020年穏やかに気持ち良く過ご（せないかもしれないけど努力はする。）なるべく告知と誰かを傷付けないツイートを心掛けたい。 大きな独り言。🕊 🇯🇵🇵🇭https://t.co/WVne7OI9YB",
+        "url": "https://t.co/Kt0nB29YOP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Kt0nB29YOP",
+                "expanded_url": "http://ameblo.jp/akimotoo0726/",
+                "display_url": "ameblo.jp/akimotoo0726/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/WVne7OI9YB",
+                "expanded_url": "https://www.instagram.com/areasayaka/?hl=jaG7IKpiJ",
+                "display_url": "instagram.com/areasayaka/?hl…",
+                "indices": [
+                  75,
+                  98
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 610308,
+        "friends_count": 443,
+        "listed_count": 6890,
+        "created_at": "Tue Mar 08 00:52:21 +0000 2011",
+        "favourites_count": 3425,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 11310,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247167748502781953/RCvqjtIX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247167748502781953/RCvqjtIX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/262419694/1578140570",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 109,
+      "favorite_count": 821,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Wed May 06 02:36:14 +0000 2020",
     "id": 1257861702269300738,
     "id_str": "1257861702269300738",
