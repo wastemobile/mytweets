@@ -1,5 +1,75 @@
 Grailbird.data.tweets_2020_05 = [
   {
+    "created_at": "Mon May 11 15:01:55 +0000 2020",
+    "id": 1259861297790844929,
+    "id_str": "1259861297790844929",
+    "text": "抄襲三年獲利千萬，只用賠2000塊？淺談你可能不知道的中國抄襲簡史 - IC實驗室出品 #note https://t.co/tAPirPCcYh 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            44,
+            49
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            77,
+            85
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tAPirPCcYh",
+          "expanded_url": "https://youtu.be/ZhJTk1u1bmE",
+          "display_url": "youtu.be/ZhJTk1u1bmE",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon May 11 13:02:30 +0000 2020",
     "id": 1259831247766908931,
     "id_str": "1259831247766908931",
