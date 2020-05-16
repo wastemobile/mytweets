@@ -1,5 +1,593 @@
 Grailbird.data.tweets_2020_05 = [
   {
+    "created_at": "Sat May 16 01:34:41 +0000 2020",
+    "id": 1261470089695490048,
+    "id_str": "1261470089695490048",
+    "text": "@zinklink 它多一個在畫面點擊連接或單純充電的程序，若像 Kindle 一樣蓋著保護殼連接，就只會是充電、Mac 不顯示裝置。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "zinklink",
+          "name": "zinklink",
+          "id": 6381102,
+          "id_str": "6381102",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1261468135959310336,
+    "in_reply_to_status_id_str": "1261468135959310336",
+    "in_reply_to_user_id": 6381102,
+    "in_reply_to_user_id_str": "6381102",
+    "in_reply_to_screen_name": "zinklink",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 15 17:13:04 +0000 2020",
+    "id": 1261343856420765696,
+    "id_str": "1261343856420765696",
+    "text": "RT @VOAJiangHe: 一针见血！转 https://t.co/saWFACa4ZM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "VOAJiangHe",
+          "name": "夏昙畅",
+          "id": 508278502,
+          "id_str": "508278502",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1261126524645900289,
+          "id_str": "1261126524645900289",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261126524645900289/pu/img/K71AIsnVyHBuQ8Ju.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261126524645900289/pu/img/K71AIsnVyHBuQ8Ju.jpg",
+          "url": "https://t.co/saWFACa4ZM",
+          "display_url": "pic.twitter.com/saWFACa4ZM",
+          "expanded_url": "https://twitter.com/VOAJiangHe/status/1261126569290072065/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 476,
+              "h": 270,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 476,
+              "h": 270,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 476,
+              "h": 270,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1261126569290072065,
+          "source_status_id_str": "1261126569290072065",
+          "source_user_id": 508278502,
+          "source_user_id_str": "508278502"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1261126524645900289,
+          "id_str": "1261126524645900289",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261126524645900289/pu/img/K71AIsnVyHBuQ8Ju.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261126524645900289/pu/img/K71AIsnVyHBuQ8Ju.jpg",
+          "url": "https://t.co/saWFACa4ZM",
+          "display_url": "pic.twitter.com/saWFACa4ZM",
+          "expanded_url": "https://twitter.com/VOAJiangHe/status/1261126569290072065/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 476,
+              "h": 270,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 476,
+              "h": 270,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 476,
+              "h": 270,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1261126569290072065,
+          "source_status_id_str": "1261126569290072065",
+          "source_user_id": 508278502,
+          "source_user_id_str": "508278502",
+          "video_info": {
+            "aspect_ratio": [
+              238,
+              135
+            ],
+            "duration_millis": 137771,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1261126524645900289/pu/vid/476x270/joE2NXZpEb2Ft0RM.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1261126524645900289/pu/pl/6mS4GQUrLuluyt6D.m3u8?tag=10"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 508278502,
+              "id_str": "508278502",
+              "name": "夏昙畅",
+              "screen_name": "VOAJiangHe",
+              "location": "华盛顿哥伦比亚特区",
+              "description": "欢迎订阅《以史为鉴》https://t.co/MPcUuDOgvg不“倒”长城非好汉！前VOA卫视【火墙内外】主持人、美国之音记者 YouTube：https://t.co/RljCSjz5lA 脸书：https://t.co/XM4orBLHOF",
+              "url": "https://t.co/LW6Ie29ZMa",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/LW6Ie29ZMa",
+                      "expanded_url": "http://www.voachinese.com/archive/error404/latest/1774/1915.html",
+                      "display_url": "voachinese.com/archive/error4…",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/MPcUuDOgvg",
+                      "expanded_url": "https://bit.ly/3dxkrhY",
+                      "display_url": "bit.ly/3dxkrhY",
+                      "indices": [
+                        10,
+                        33
+                      ]
+                    },
+                    {
+                      "url": "https://t.co/RljCSjz5lA",
+                      "expanded_url": "http://bit.ly/Error404-youtube",
+                      "display_url": "bit.ly/Error404-youtu…",
+                      "indices": [
+                        74,
+                        97
+                      ]
+                    },
+                    {
+                      "url": "https://t.co/XM4orBLHOF",
+                      "expanded_url": "http://goo.gl/0h7bWs",
+                      "display_url": "goo.gl/0h7bWs",
+                      "indices": [
+                        101,
+                        124
+                      ]
+                    }
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 44897,
+              "friends_count": 419,
+              "listed_count": 243,
+              "created_at": "Wed Feb 29 02:53:00 +0000 2012",
+              "favourites_count": 499,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": false,
+              "statuses_count": 40192,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1259668398163791873/__8dGyLm_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1259668398163791873/__8dGyLm_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/508278502/1580646522",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": true,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri May 15 02:49:39 +0000 2020",
+      "id": 1261126569290072065,
+      "id_str": "1261126569290072065",
+      "text": "一针见血！转 https://t.co/saWFACa4ZM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1261126524645900289,
+            "id_str": "1261126524645900289",
+            "indices": [
+              7,
+              30
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261126524645900289/pu/img/K71AIsnVyHBuQ8Ju.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261126524645900289/pu/img/K71AIsnVyHBuQ8Ju.jpg",
+            "url": "https://t.co/saWFACa4ZM",
+            "display_url": "pic.twitter.com/saWFACa4ZM",
+            "expanded_url": "https://twitter.com/VOAJiangHe/status/1261126569290072065/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 476,
+                "h": 270,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 476,
+                "h": 270,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 476,
+                "h": 270,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1261126524645900289,
+            "id_str": "1261126524645900289",
+            "indices": [
+              7,
+              30
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261126524645900289/pu/img/K71AIsnVyHBuQ8Ju.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261126524645900289/pu/img/K71AIsnVyHBuQ8Ju.jpg",
+            "url": "https://t.co/saWFACa4ZM",
+            "display_url": "pic.twitter.com/saWFACa4ZM",
+            "expanded_url": "https://twitter.com/VOAJiangHe/status/1261126569290072065/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 476,
+                "h": 270,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 476,
+                "h": 270,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 476,
+                "h": 270,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                238,
+                135
+              ],
+              "duration_millis": 137771,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1261126524645900289/pu/vid/476x270/joE2NXZpEb2Ft0RM.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1261126524645900289/pu/pl/6mS4GQUrLuluyt6D.m3u8?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 508278502,
+        "id_str": "508278502",
+        "name": "夏昙畅",
+        "screen_name": "VOAJiangHe",
+        "location": "华盛顿哥伦比亚特区",
+        "description": "欢迎订阅《以史为鉴》https://t.co/MPcUuDOgvg不“倒”长城非好汉！前VOA卫视【火墙内外】主持人、美国之音记者 YouTube：https://t.co/RljCSjz5lA 脸书：https://t.co/XM4orBLHOF",
+        "url": "https://t.co/LW6Ie29ZMa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LW6Ie29ZMa",
+                "expanded_url": "http://www.voachinese.com/archive/error404/latest/1774/1915.html",
+                "display_url": "voachinese.com/archive/error4…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/MPcUuDOgvg",
+                "expanded_url": "https://bit.ly/3dxkrhY",
+                "display_url": "bit.ly/3dxkrhY",
+                "indices": [
+                  10,
+                  33
+                ]
+              },
+              {
+                "url": "https://t.co/RljCSjz5lA",
+                "expanded_url": "http://bit.ly/Error404-youtube",
+                "display_url": "bit.ly/Error404-youtu…",
+                "indices": [
+                  74,
+                  97
+                ]
+              },
+              {
+                "url": "https://t.co/XM4orBLHOF",
+                "expanded_url": "http://goo.gl/0h7bWs",
+                "display_url": "goo.gl/0h7bWs",
+                "indices": [
+                  101,
+                  124
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 44897,
+        "friends_count": 419,
+        "listed_count": 243,
+        "created_at": "Wed Feb 29 02:53:00 +0000 2012",
+        "favourites_count": 499,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 40192,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1259668398163791873/__8dGyLm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1259668398163791873/__8dGyLm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/508278502/1580646522",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1225,
+      "favorite_count": 2167,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1225,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 15 14:48:29 +0000 2020",
+    "id": 1261307468111466496,
+    "id_str": "1261307468111466496",
+    "text": "看完了中英字幕影集才看原文小說，大致情節都知道、也把 Word Wise 等級調適中，就可以完全不查字典快速讀下去。\n\n或許也是這本小說用詞並不艱難，但覺得這種方法還蠻好的。\n\nNormal People: A Novel… https://t.co/QrsP1NYDO7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QrsP1NYDO7",
+          "expanded_url": "https://twitter.com/i/web/status/1261307468111466496",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1260769074314752000,
+    "in_reply_to_status_id_str": "1260769074314752000",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri May 15 11:36:03 +0000 2020",
     "id": 1261259043571560449,
     "id_str": "1261259043571560449",
