@@ -1,5 +1,404 @@
 Grailbird.data.tweets_2020_05 = [
   {
+    "created_at": "Sun May 17 14:12:47 +0000 2020",
+    "id": 1262023261988118534,
+    "id_str": "1262023261988118534",
+    "text": "RT @swim_shu: 台湾華語版をnoteに公開しました。翻訳は東京自耕農 Lee Leo（@leolee_0610 ）さん、ありがとうございます&lt;(_ _)&gt;\n「發生在我身上的事」‐哈薩克女性的證言「私の身に起きたこと～ とあるカザフ人女性の証言～」台湾華語版｜清水とも…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "swim_shu",
+          "name": "清水ともみ",
+          "id": 2968468362,
+          "id_str": "2968468362",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "leolee_0610",
+          "name": "リオ*台湾人",
+          "id": 3194542130,
+          "id_str": "3194542130",
+          "indices": [
+            49,
+            61
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 17 03:55:10 +0000 2020",
+      "id": 1261867833681534984,
+      "id_str": "1261867833681534984",
+      "text": "台湾華語版をnoteに公開しました。翻訳は東京自耕農 Lee Leo（@leolee_0610 ）さん、ありがとうございます&lt;(_ _)&gt;\n「發生在我身上的事」‐哈薩克女性的證言「私の身に起きたこと～ とあるカザフ人女性の証言～」… https://t.co/kC3JO5pUfq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "leolee_0610",
+            "name": "リオ*台湾人",
+            "id": 3194542130,
+            "id_str": "3194542130",
+            "indices": [
+              35,
+              47
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kC3JO5pUfq",
+            "expanded_url": "https://twitter.com/i/web/status/1261867833681534984",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2968468362,
+        "id_str": "2968468362",
+        "name": "清水ともみ",
+        "screen_name": "swim_shu",
+        "location": "日本",
+        "description": "Shimizu Tomomi🇯🇵過去の主な作品は各電子書籍サイトに。御用向きはDMか→suimi2u0201@gmail.com までお願いします。あまりお返事出来なくてごめんなさい。お茶党。🇯🇵🇵🇼🇭🇰 #台湾 #壱岐 ウイグル漫画多言語https://t.co/dOXasWCZYC",
+        "url": "https://t.co/g8sdBk6FLB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/g8sdBk6FLB",
+                "expanded_url": "https://www.pixiv.net/users/40063519",
+                "display_url": "pixiv.net/users/40063519",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/dOXasWCZYC",
+                "expanded_url": "https://note.com/tomomishimizu",
+                "display_url": "note.com/tomomishimizu",
+                "indices": [
+                  120,
+                  143
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 20235,
+        "friends_count": 453,
+        "listed_count": 153,
+        "created_at": "Fri Jan 09 07:38:38 +0000 2015",
+        "favourites_count": 19360,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5358,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1123476212326850560/9eToo3w0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123476212326850560/9eToo3w0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2968468362/1540602754",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1664,
+      "favorite_count": 1767,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1664,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat May 16 11:56:07 +0000 2020",
+    "id": 1261626479844003840,
+    "id_str": "1261626479844003840",
+    "text": "懲戒病態者是一回事，但他可能終身不覺自己病態，關鍵是那些知情且有能力防阻卻無作為的人，更別說掩蓋事實的校長，能怎樣上綱、能怎樣追究、就要窮盡一切去追，否則保護孩童的責任，永遠會被自私與利益掩埋。 https://t.co/205CnsznP8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/205CnsznP8",
+          "expanded_url": "https://twitter.com/dryadb43738/status/1260907694078087169",
+          "display_url": "twitter.com/dryadb43738/st…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1260907694078087169,
+    "quoted_status_id_str": "1260907694078087169",
+    "quoted_status": {
+      "created_at": "Thu May 14 12:19:55 +0000 2020",
+      "id": 1260907694078087169,
+      "id_str": "1260907694078087169",
+      "text": "指侵女童竟辯「因材施教」！台南駭人校園性侵案　揭「優良教師」變身狼師犯行逾20年手法\n\n狼師：「在她身上做的事情是善意的，而且絕對不是為了我的私慾。在她身上做的，在我看來這叫做『因材施教』，這是我個人的教育理念，我知道這是觸犯法令… https://t.co/L1TWEC2kln",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/L1TWEC2kln",
+            "expanded_url": "https://twitter.com/i/web/status/1260907694078087169",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 299498565,
+        "id_str": "299498565",
+        "name": "最後一哩鹿( ⓛ ω ⓛ🌈)🌸",
+        "screen_name": "dryadb43738",
+        "location": "台灣, Taiwan",
+        "description": "不吃芋頭、香菇：可以站就不要坐；可以放假就不上班；極厭世。 SW-3100-1920-2838。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 16871,
+        "friends_count": 734,
+        "listed_count": 91,
+        "created_at": "Mon May 16 05:58:39 +0000 2011",
+        "favourites_count": 47206,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 73363,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/867891544505929728/ghk1Hirs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/867891544505929728/ghk1Hirs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/299498565/1506701257",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 82,
+      "favorite_count": 200,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 16 08:37:38 +0000 2020",
+    "id": 1261576531018575873,
+    "id_str": "1261576531018575873",
+    "text": "每天都來看看鳳頭蒼鷹一家 https://t.co/zLBu7y32XF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zLBu7y32XF",
+          "expanded_url": "https://youtu.be/kdVdyI6GM3E",
+          "display_url": "youtu.be/kdVdyI6GM3E",
+          "indices": [
+            13,
+            36
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1259391770015617024,
+    "in_reply_to_status_id_str": "1259391770015617024",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat May 16 01:34:41 +0000 2020",
     "id": 1261470089695490048,
     "id_str": "1261470089695490048",
