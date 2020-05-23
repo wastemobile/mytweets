@@ -1,5 +1,498 @@
 Grailbird.data.tweets_2020_05 = [
   {
+    "created_at": "Sat May 23 07:26:59 +0000 2020",
+    "id": 1264095464749580289,
+    "id_str": "1264095464749580289",
+    "text": "「我們來到這世界的目的，是彼此相愛。」\n\nR.I.P. 木村花 https://t.co/kZ4D4YZRa0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kZ4D4YZRa0",
+          "expanded_url": "https://twitter.com/lalachuu/status/1264094705152909314",
+          "display_url": "twitter.com/lalachuu/statu…",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1264094705152909314,
+    "quoted_status_id_str": "1264094705152909314",
+    "quoted_status": {
+      "created_at": "Sat May 23 07:23:58 +0000 2020",
+      "id": 1264094705152909314,
+      "id_str": "1264094705152909314",
+      "text": "本当に悲劇です。木村花さんの心がこの世界の壁を超えた. RIP.\n\n私たちの世界は私たちの言葉と行動とで繋がっている。一つ一つ。アンチを書く人は臆病者だ。この生き方で本当にいいの？Hateで作られた世界がきっと早く崩れる。\n\nこの世界で私たちの目的はお互いを愛することだ。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1285286270,
+        "id_str": "1285286270",
+        "name": "Lauren Tsai",
+        "screen_name": "LaLaChuu",
+        "location": "",
+        "description": "twitter",
+        "url": "https://t.co/zqpIn6Bi9e",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/zqpIn6Bi9e",
+                "expanded_url": "http://Instagram.com/laurentsai",
+                "display_url": "Instagram.com/laurentsai",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 158950,
+        "friends_count": 80,
+        "listed_count": 280,
+        "created_at": "Thu Mar 21 06:59:15 +0000 2013",
+        "favourites_count": 5461,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 3537,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1248318149109223425/WTYdjdpX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248318149109223425/WTYdjdpX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1285286270/1589779209",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 156,
+      "favorite_count": 861,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 23 03:30:35 +0000 2020",
+    "id": 1264035973354016769,
+    "id_str": "1264035973354016769",
+    "text": "RT @msntaiwan: #MSN台灣 美國認錯！白宮報告對中國靜默外交失敗 將加大施壓 https://t.co/UUG62qaQ5P",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MSN台灣",
+          "indices": [
+            15,
+            21
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "msntaiwan",
+          "name": "MSN 台灣",
+          "id": 108271296,
+          "id_str": "108271296",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UUG62qaQ5P",
+          "expanded_url": "http://www.msn.com/zh-tw/news/world/%E7%BE%8E%E5%9C%8B%E8%AA%8D%E9%8C%AF-%E7%99%BD%E5%AE%AE%E5%A0%B1%E5%91%8A%E5%B0%8D%E4%B8%AD%E5%9C%8B%E9%9D%9C%E9%BB%98%E5%A4%96%E4%BA%A4%E5%A4%B1%E6%95%97-%E5%B0%87%E5%8A%A0%E5%A4%A7%E6%96%BD%E5%A3%93/ar-BB14r85s?ocid=ob-tw-zhtw-609",
+          "display_url": "msn.com/zh-tw/news/wor…",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat May 23 01:31:34 +0000 2020",
+      "id": 1264006021850136576,
+      "id_str": "1264006021850136576",
+      "text": "#MSN台灣 美國認錯！白宮報告對中國靜默外交失敗 將加大施壓 https://t.co/UUG62qaQ5P",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "MSN台灣",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UUG62qaQ5P",
+            "expanded_url": "http://www.msn.com/zh-tw/news/world/%E7%BE%8E%E5%9C%8B%E8%AA%8D%E9%8C%AF-%E7%99%BD%E5%AE%AE%E5%A0%B1%E5%91%8A%E5%B0%8D%E4%B8%AD%E5%9C%8B%E9%9D%9C%E9%BB%98%E5%A4%96%E4%BA%A4%E5%A4%B1%E6%95%97-%E5%B0%87%E5%8A%A0%E5%A4%A7%E6%96%BD%E5%A3%93/ar-BB14r85s?ocid=ob-tw-zhtw-609",
+            "display_url": "msn.com/zh-tw/news/wor…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://oxfordblue.azurewebsites.net\" rel=\"nofollow\">OxfordBlue-Twitter</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 108271296,
+        "id_str": "108271296",
+        "name": "MSN 台灣",
+        "screen_name": "msntaiwan",
+        "location": "台灣",
+        "description": "MSN 台灣官方粉絲頁，為你提供全方位即時新聞、深度報導、熱門話題、好吃好玩通通有...MSN 台灣官方網站還有你最需要的Outlook、OneDrive、Skype入口，讓你茫茫網海不迷失，一站就知天下事！",
+        "url": "https://t.co/2D4kFNW2xK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2D4kFNW2xK",
+                "expanded_url": "https://www.msn.com/zh-tw/",
+                "display_url": "msn.com/zh-tw/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5055,
+        "friends_count": 19,
+        "listed_count": 95,
+        "created_at": "Mon Jan 25 11:53:50 +0000 2010",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 95757,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842669100937576448/0iZ84rj-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842669100937576448/0iZ84rj-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108271296/1489744961",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 22 08:56:02 +0000 2020",
+    "id": 1263755488354689029,
+    "id_str": "1263755488354689029",
+    "text": "RT @osaka_kanagawa: 「華裔AI專家李飛飛加盟推特後，一位經濟學者曝料李飛飛背景，其四個推特帳號即遭封殺審查。另有幾人也遭封禁和警告。當事人發起白宮請願，要求查推特及李飛飛。」\n(怎麼覺得不是很妙😟 之後還能好好用推特ㄅ\nhttps://t.co/kdJ2VI…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "osaka_kanagawa",
+          "name": "若緒",
+          "id": 123457196,
+          "id_str": "123457196",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri May 22 03:35:03 +0000 2020",
+      "id": 1263674711793229824,
+      "id_str": "1263674711793229824",
+      "text": "「華裔AI專家李飛飛加盟推特後，一位經濟學者曝料李飛飛背景，其四個推特帳號即遭封殺審查。另有幾人也遭封禁和警告。當事人發起白宮請願，要求查推特及李飛飛。」\n(怎麼覺得不是很妙😟 之後還能好好用推特ㄅ\nhttps://t.co/kdJ2VIckfG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kdJ2VIckfG",
+            "expanded_url": "https://www.rfa.org/cantonese/news/li-05202020094251.html?encoding=None",
+            "display_url": "rfa.org/cantonese/news…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 123457196,
+        "id_str": "123457196",
+        "name": "若緒",
+        "screen_name": "osaka_kanagawa",
+        "location": "台湾, Taiwan",
+        "description": "💡🌹",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2589,
+        "friends_count": 330,
+        "listed_count": 26,
+        "created_at": "Tue Mar 16 04:36:24 +0000 2010",
+        "favourites_count": 11910,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 66089,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1216040392136675331/zRdr1vxh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216040392136675331/zRdr1vxh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/123457196/1355844174",
+        "profile_link_color": "0B37BA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 138,
+      "favorite_count": 237,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 138,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu May 21 13:48:49 +0000 2020",
     "id": 1263466783337525252,
     "id_str": "1263466783337525252",
