@@ -1,5 +1,508 @@
 Grailbird.data.tweets_2020_05 = [
   {
+    "created_at": "Sun May 24 05:49:59 +0000 2020",
+    "id": 1264433442302771201,
+    "id_str": "1264433442302771201",
+    "text": "看到英國尼爾森對封鎖期間的閱讀調查：\n\n- 41% 讀更多、10%讀更少\n- 每週平均閱讀時間從3.5小時上升至6小時\n- 三分之一讀更多紙本書、18%選擇電子書、少於一成聽有聲書\n- 25%買更多、18%買更少 \n\nReadin… https://t.co/s1PGOwspJC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/s1PGOwspJC",
+          "expanded_url": "https://twitter.com/i/web/status/1264433442302771201",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 23 11:35:27 +0000 2020",
+    "id": 1264157994989654016,
+    "id_str": "1264157994989654016",
+    "text": "RT @MissElevena: 這柱子當然是事先種在路上好提供偉大解放軍掩護的啊❤️❤️❤️❤️❤️",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "MissElevena",
+          "name": "不正常能量釋放",
+          "id": 3583426932,
+          "id_str": "3583426932",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat May 23 05:47:59 +0000 2020",
+      "id": 1264070549891715072,
+      "id_str": "1264070549891715072",
+      "text": "這柱子當然是事先種在路上好提供偉大解放軍掩護的啊❤️❤️❤️❤️❤️ https://t.co/1texwYYWPR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1texwYYWPR",
+            "expanded_url": "https://twitter.com/rudis02/status/1263712293897957376",
+            "display_url": "twitter.com/rudis02/status…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3583426932,
+        "id_str": "3583426932",
+        "name": "不正常能量釋放",
+        "screen_name": "MissElevena",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 41,
+        "friends_count": 133,
+        "listed_count": 0,
+        "created_at": "Wed Sep 16 14:21:03 +0000 2015",
+        "favourites_count": 677,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 304,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/644440747010211840/8r_oOmIp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/644440747010211840/8r_oOmIp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3583426932/1442481461",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1263712293897957376,
+      "quoted_status_id_str": "1263712293897957376",
+      "quoted_status": {
+        "created_at": "Fri May 22 06:04:24 +0000 2020",
+        "id": 1263712293897957376,
+        "id_str": "1263712293897957376",
+        "text": "台灣是有哪條馬路中間會出現這種柱子啦！www\n\n先有能力登陸再說好嗎？\n\n中國攻台意淫圖來源：\nhttps://t.co/pPTLBr9JEL? https://t.co/FOnu9AZQRN",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/pPTLBr9JEL",
+              "expanded_url": "https://m.weibo.cn/status/4507168059751260",
+              "display_url": "m.weibo.cn/status/4507168…",
+              "indices": [
+                48,
+                71
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1263712281096933377,
+              "id_str": "1263712281096933377",
+              "indices": [
+                73,
+                96
+              ],
+              "media_url": "http://pbs.twimg.com/media/EYmbn80U0AE8_KS.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EYmbn80U0AE8_KS.jpg",
+              "url": "https://t.co/FOnu9AZQRN",
+              "display_url": "pic.twitter.com/FOnu9AZQRN",
+              "expanded_url": "https://twitter.com/rudis02/status/1263712293897957376/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 342,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 515,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 515,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1263712281096933377,
+              "id_str": "1263712281096933377",
+              "indices": [
+                73,
+                96
+              ],
+              "media_url": "http://pbs.twimg.com/media/EYmbn80U0AE8_KS.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EYmbn80U0AE8_KS.jpg",
+              "url": "https://t.co/FOnu9AZQRN",
+              "display_url": "pic.twitter.com/FOnu9AZQRN",
+              "expanded_url": "https://twitter.com/rudis02/status/1263712293897957376/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 342,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 515,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 515,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2898609674,
+          "id_str": "2898609674",
+          "name": "Ohkawa🇳🇫",
+          "screen_name": "rudis02",
+          "location": "",
+          "description": "hoán chiná. tâioân kiànkok.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 1350,
+          "friends_count": 747,
+          "listed_count": 4,
+          "created_at": "Thu Nov 13 16:00:32 +0000 2014",
+          "favourites_count": 54587,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 13240,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1023603039108653056/Ty93bQOg_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023603039108653056/Ty93bQOg_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2898609674/1578194262",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 50,
+        "favorite_count": 448,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": true,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1263712293897957376,
+    "quoted_status_id_str": "1263712293897957376",
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 23 09:29:19 +0000 2020",
+    "id": 1264126251293274113,
+    "id_str": "1264126251293274113",
+    "text": "「一切都發生得太快了，我彷彿還沒有跟上自己的感覺。我從來沒有這麼開誠布公過。要做張專輯通常都得花上一段時間，還得和它朝夕相處，但這張不是。」\n\nCharli XCX 在武漢肺炎隔離期間，花39天居家製作出她的第四張專輯。\n\n《ho… https://t.co/AE18gLNz5E",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AE18gLNz5E",
+          "expanded_url": "https://twitter.com/i/web/status/1264126251293274113",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 23 07:43:04 +0000 2020",
+    "id": 1264099513167302657,
+    "id_str": "1264099513167302657",
+    "text": "一直等不到 n8n 的推特整合機制 https://t.co/xQ3rEykhQm ，Huginn 蠻早就有了 https://t.co/ZoeaorRQVL ，但架起來好複雜⋯⋯兩難。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xQ3rEykhQm",
+          "expanded_url": "https://n8n.io/integrations",
+          "display_url": "n8n.io/integrations",
+          "indices": [
+            18,
+            41
+          ]
+        },
+        {
+          "url": "https://t.co/ZoeaorRQVL",
+          "expanded_url": "https://bit.ly/3gf3Hy1",
+          "display_url": "bit.ly/3gf3Hy1",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat May 23 07:26:59 +0000 2020",
     "id": 1264095464749580289,
     "id_str": "1264095464749580289",
