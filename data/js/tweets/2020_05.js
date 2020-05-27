@@ -1,5 +1,199 @@
 Grailbird.data.tweets_2020_05 = [
   {
+    "created_at": "Wed May 27 01:51:33 +0000 2020",
+    "id": 1265460603130310657,
+    "id_str": "1265460603130310657",
+    "text": "在 #Netflix 重看了大衛林區視為生涯污點的1984年《沙丘魔堡》（Dune），希望年底由《銀翼殺手2049》導演丹尼維的新版真能成為史詩。\n\n早年貓頭鷹出過系列中譯（但非完整六部曲），有簡中譯本。\n\n參考書介… https://t.co/4pNebJUsno",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            2,
+            10
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4pNebJUsno",
+          "expanded_url": "https://twitter.com/i/web/status/1265460603130310657",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 25 13:46:05 +0000 2020",
+    "id": 1264915645340151808,
+    "id_str": "1264915645340151808",
+    "text": "PS4售出1.1億台，38％訂閱PS Plus，這很厲害呀！\n\nPlaystation Plus 現已坐擁4150萬訂閱用戶 https://t.co/bCcMvK8reX https://t.co/KL3ozcc0rm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bCcMvK8reX",
+          "expanded_url": "https://bit.ly/3gkL1gE",
+          "display_url": "bit.ly/3gkL1gE",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1264915637282861058,
+          "id_str": "1264915637282861058",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/EY3iEf8U8AIFTex.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EY3iEf8U8AIFTex.jpg",
+          "url": "https://t.co/KL3ozcc0rm",
+          "display_url": "pic.twitter.com/KL3ozcc0rm",
+          "expanded_url": "https://twitter.com/wastemobile/status/1264915645340151808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 650,
+              "h": 366,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 650,
+              "h": 366,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 650,
+              "h": 366,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1264915637282861058,
+          "id_str": "1264915637282861058",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/EY3iEf8U8AIFTex.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EY3iEf8U8AIFTex.jpg",
+          "url": "https://t.co/KL3ozcc0rm",
+          "display_url": "pic.twitter.com/KL3ozcc0rm",
+          "expanded_url": "https://twitter.com/wastemobile/status/1264915645340151808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 650,
+              "h": 366,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 650,
+              "h": 366,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 650,
+              "h": 366,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon May 25 13:12:39 +0000 2020",
     "id": 1264907233185288193,
     "id_str": "1264907233185288193",
