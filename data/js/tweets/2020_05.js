@@ -1,5 +1,318 @@
 Grailbird.data.tweets_2020_05 = [
   {
+    "created_at": "Sat May 30 17:30:23 +0000 2020",
+    "id": 1266784029908496385,
+    "id_str": "1266784029908496385",
+    "text": "看了 #Netflix 《銀河騎士傳》，完全明白貳瓶勉與林田球並列的原因了，雖然主軸天差地別，但節奏明快緊湊完全不囉唆，又持續出人意表無法猜透，能這樣用圖像講故事實在是過癮啊！（共同缺點是集數太少了！）\n\n大感謝 @Reder 的… https://t.co/S4xNVvkPoP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Reder",
+          "name": "Reder",
+          "id": 495393,
+          "id_str": "495393",
+          "indices": [
+            107,
+            113
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/S4xNVvkPoP",
+          "expanded_url": "https://twitter.com/i/web/status/1266784029908496385",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1266643088790876160,
+    "in_reply_to_status_id_str": "1266643088790876160",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 30 11:55:06 +0000 2020",
+    "id": 1266699655821180929,
+    "id_str": "1266699655821180929",
+    "text": "RT @purebox: 誠品連收6書店，二手書店是書業最後堡壘？ https://t.co/Zheh0W9j2r 二手書店也是這個產業鏈的一環，而且是書籍流通的最後一個節點，可以說是書業的最後一個堡壘，維繫著最後一群藏書家與愛書人；要知道紙本書在現代這個網路發達的資訊社會中之…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "purebox",
+          "name": "盒",
+          "id": 10144682,
+          "id_str": "10144682",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Zheh0W9j2r",
+          "expanded_url": "https://j.mp/2TSLtsV",
+          "display_url": "j.mp/2TSLtsV",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat May 30 11:40:43 +0000 2020",
+      "id": 1266696036254244864,
+      "id_str": "1266696036254244864",
+      "text": "誠品連收6書店，二手書店是書業最後堡壘？ https://t.co/Zheh0W9j2r 二手書店也是這個產業鏈的一環，而且是書籍流通的最後一個節點，可以說是書業的最後一個堡壘，維繫著最後一群藏書家與愛書人；要知道紙本書在現代這個… https://t.co/ZW13tAx4zR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Zheh0W9j2r",
+            "expanded_url": "https://j.mp/2TSLtsV",
+            "display_url": "j.mp/2TSLtsV",
+            "indices": [
+              21,
+              44
+            ]
+          },
+          {
+            "url": "https://t.co/ZW13tAx4zR",
+            "expanded_url": "https://twitter.com/i/web/status/1266696036254244864",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 10144682,
+        "id_str": "10144682",
+        "name": "盒",
+        "screen_name": "purebox",
+        "location": "台中/台南/蘇州/深圳/泰國大城",
+        "description": "🔰Pokémon GO訓練家代碼 7456 8858 2017 有加請告訴我。 不定時轉推或自己拍的貓圖。 價值投資新手學習中。 一日一集泰劇學泰語。",
+        "url": "https://t.co/t4fFDtUliU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/t4fFDtUliU",
+                "expanded_url": "http://www.purebox.org",
+                "display_url": "purebox.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2835,
+        "friends_count": 363,
+        "listed_count": 87,
+        "created_at": "Sun Nov 11 04:40:49 +0000 2007",
+        "favourites_count": 62587,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 108774,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E1E8ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/865066634766983168/zQjDsOYp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/865066634766983168/zQjDsOYp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10144682/1502027424",
+        "profile_link_color": "4C99D4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 30 08:10:20 +0000 2020",
+    "id": 1266643088790876160,
+    "id_str": "1266643088790876160",
+    "text": "我覺得這部比鬼滅好看。\n\n風格是黑暗奇幻怪誕血腥暴力，漫畫歷經三部漫畫期刊才完結，共18年。網路上常見一個說法：「男有貳瓶勉，女有林田球」，兩人皆以畫風特殊著稱；貳瓶勉在 #Netflix 有《BLAME!探索者》動畫電影可看。… https://t.co/ynt3w9sOPt",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            86,
+            94
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ynt3w9sOPt",
+          "expanded_url": "https://twitter.com/i/web/status/1266643088790876160",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat May 30 02:35:27 +0000 2020",
     "id": 1266558813080915968,
     "id_str": "1266558813080915968",
