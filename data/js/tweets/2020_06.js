@@ -1,5 +1,169 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Wed Jun 10 05:59:36 +0000 2020",
+    "id": 1270596457523843072,
+    "id_str": "1270596457523843072",
+    "text": "RT @puppydad: （引）《紐約時報》發現，Twitter正受到操縱，放大親北京的信息。以色列數據公司Next Dim發現兩條普普通通、讚美中國抗擊病毒的推文，被點讚和轉發數十萬次。\n\n有幾個帳戶發推後，按照固定的時間間隔——9小時49分鐘、19小時34分鐘——反覆轉發…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "puppydad",
+          "name": "黃哲斌",
+          "id": 12320422,
+          "id_str": "12320422",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jun 10 05:30:39 +0000 2020",
+      "id": 1270589170444992512,
+      "id_str": "1270589170444992512",
+      "text": "（引）《紐約時報》發現，Twitter正受到操縱，放大親北京的信息。以色列數據公司Next Dim發現兩條普普通通、讚美中國抗擊病毒的推文，被點讚和轉發數十萬次。\n\n有幾個帳戶發推後，按照固定的時間間隔——9小時49分鐘、19小時… https://t.co/khXogQYwqc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/khXogQYwqc",
+            "expanded_url": "https://twitter.com/i/web/status/1270589170444992512",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12320422,
+        "id_str": "12320422",
+        "name": "黃哲斌",
+        "screen_name": "puppydad",
+        "location": "Taiwan",
+        "description": "一個囉唆歐吉桑",
+        "url": "https://t.co/TRMd36bM6m",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/TRMd36bM6m",
+                "expanded_url": "https://puppydad.weebly.com",
+                "display_url": "puppydad.weebly.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3095,
+        "friends_count": 271,
+        "listed_count": 92,
+        "created_at": "Wed Jan 16 15:19:50 +0000 2008",
+        "favourites_count": 7686,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8162,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/845207182/IMG_2523_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/845207182/IMG_2523_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12320422/1402905000",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 89,
+      "favorite_count": 144,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 89,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jun 08 17:18:21 +0000 2020",
     "id": 1270042493694775296,
     "id_str": "1270042493694775296",
