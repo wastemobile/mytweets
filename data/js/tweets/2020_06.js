@@ -1,5 +1,575 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Fri Jun 12 06:01:35 +0000 2020",
+    "id": 1271321731802689536,
+    "id_str": "1271321731802689536",
+    "text": "蘋果要讓 iBooks Author 和 iTunes U 退役了，接替的工具就是 Pages，除了現有從原稿製書之外，很快也會添加匯入電子書來編輯的功能。 #note\n\nhttps://t.co/jSvvO4Kvo3 https://t.co/SL6NpqlxVD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            79,
+            84
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jSvvO4Kvo3",
+          "expanded_url": "https://bit.ly/3dW93wO",
+          "display_url": "bit.ly/3dW93wO",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1271321722642300932,
+          "id_str": "1271321722642300932",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/EaSkXvlVAAQA4dA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EaSkXvlVAAQA4dA.jpg",
+          "url": "https://t.co/SL6NpqlxVD",
+          "display_url": "pic.twitter.com/SL6NpqlxVD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1271321731802689536/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 568,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 568,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 483,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1271321722642300932,
+          "id_str": "1271321722642300932",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/EaSkXvlVAAQA4dA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EaSkXvlVAAQA4dA.jpg",
+          "url": "https://t.co/SL6NpqlxVD",
+          "display_url": "pic.twitter.com/SL6NpqlxVD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1271321731802689536/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 568,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 568,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 483,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 11 21:51:26 +0000 2020",
+    "id": 1271198381847670784,
+    "id_str": "1271198381847670784",
+    "text": "#PS5 https://t.co/NuQ8WA6G6K",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PS5",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NuQ8WA6G6K",
+          "expanded_url": "https://twitter.com/emuagr/status/1271194999288455168",
+          "display_url": "twitter.com/emuagr/status/…",
+          "indices": [
+            5,
+            28
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1271194999288455168,
+    "quoted_status_id_str": "1271194999288455168",
+    "quoted_status": {
+      "created_at": "Thu Jun 11 21:38:00 +0000 2020",
+      "id": 1271194999288455168,
+      "id_str": "1271194999288455168",
+      "text": "Oh no Sony STOP! #PS5 #Evangelion https://t.co/7vZtcL8L88",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PS5",
+            "indices": [
+              17,
+              21
+            ]
+          },
+          {
+            "text": "Evangelion",
+            "indices": [
+              22,
+              33
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1271194938760400897,
+            "id_str": "1271194938760400897",
+            "indices": [
+              34,
+              57
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaQxD80WkAE2l9G.png",
+            "media_url_https": "https://pbs.twimg.com/media/EaQxD80WkAE2l9G.png",
+            "url": "https://t.co/7vZtcL8L88",
+            "display_url": "pic.twitter.com/7vZtcL8L88",
+            "expanded_url": "https://twitter.com/EmuAGR/status/1271194999288455168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 800,
+                "h": 445,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 378,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 800,
+                "h": 445,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1271194938760400897,
+            "id_str": "1271194938760400897",
+            "indices": [
+              34,
+              57
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaQxD80WkAE2l9G.png",
+            "media_url_https": "https://pbs.twimg.com/media/EaQxD80WkAE2l9G.png",
+            "url": "https://t.co/7vZtcL8L88",
+            "display_url": "pic.twitter.com/7vZtcL8L88",
+            "expanded_url": "https://twitter.com/EmuAGR/status/1271194999288455168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 800,
+                "h": 445,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 378,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 800,
+                "h": 445,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 247059015,
+        "id_str": "247059015",
+        "name": "ÁLVARO@home",
+        "screen_name": "EmuAGR",
+        "location": "Sevilla, España",
+        "description": "Gentilhombre proyecto de Teleco, Brother of Metal. From the sea of thy soul, I come. Puns always intended.「Funyarinpa」「Future Gadgets Dev」 「Spacetime Stargazer」",
+        "url": "https://t.co/CV6qNQvevz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CV6qNQvevz",
+                "expanded_url": "http://www.alvaro.gr",
+                "display_url": "alvaro.gr",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 919,
+        "friends_count": 851,
+        "listed_count": 13,
+        "created_at": "Fri Feb 04 00:41:07 +0000 2011",
+        "favourites_count": 28131,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 65631,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251665751167156229/zbPbNyYO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251665751167156229/zbPbNyYO_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/247059015/1545446030",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 250,
+      "favorite_count": 400,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Thu Jun 11 14:39:45 +0000 2020",
+    "id": 1271089744366075904,
+    "id_str": "1271089744366075904",
+    "text": "RT @darrenlonghk: Buy today’s SCMP newspaper for a full breakdown of the 8,981 arrests related to the Hong Kong protests #HKProtests #HKPol…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "HKProtests",
+          "indices": [
+            121,
+            132
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "darrenlonghk",
+          "name": "Darren Long",
+          "id": 2214083886,
+          "id_str": "2214083886",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jun 10 22:36:50 +0000 2020",
+      "id": 1270847417043128327,
+      "id_str": "1270847417043128327",
+      "text": "Buy today’s SCMP newspaper for a full breakdown of the 8,981 arrests related to the Hong Kong protests #HKProtests… https://t.co/m1pk2U8jlk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "HKProtests",
+            "indices": [
+              103,
+              114
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/m1pk2U8jlk",
+            "expanded_url": "https://twitter.com/i/web/status/1270847417043128327",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2214083886,
+        "id_str": "2214083886",
+        "name": "Darren Long",
+        "screen_name": "darrenlonghk",
+        "location": "Hong Kong",
+        "description": "Creative Director, South China Morning Post.",
+        "url": "https://t.co/EzINsxIzBW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/EzINsxIzBW",
+                "expanded_url": "http://scmp.com",
+                "display_url": "scmp.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1930,
+        "friends_count": 1460,
+        "listed_count": 60,
+        "created_at": "Mon Nov 25 13:38:44 +0000 2013",
+        "favourites_count": 2913,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3390,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1257594169075195904/tzmmJQIl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1257594169075195904/tzmmJQIl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2214083886/1404009406",
+        "profile_link_color": "306375",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 647,
+      "favorite_count": 1010,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 647,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Jun 10 05:59:36 +0000 2020",
     "id": 1270596457523843072,
     "id_str": "1270596457523843072",
