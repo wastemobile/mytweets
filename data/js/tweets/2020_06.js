@@ -1,5 +1,690 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Sat Jun 13 03:18:06 +0000 2020",
+    "id": 1271642978465968128,
+    "id_str": "1271642978465968128",
+    "text": "十年前在 Delicious Monster 論壇就吵過，一直到系統升級、版本過期，一直用來管理英文與日文書目的Delicious Library到還沒有支援 Z39.50 資源，不知目前的新版如何？\n\n不過真的還是有 Amazon比較好啦⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1271641900160741376,
+    "in_reply_to_status_id_str": "1271641900160741376",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 13 03:13:49 +0000 2020",
+    "id": 1271641900160741376,
+    "id_str": "1271641900160741376",
+    "text": "需要付費購買的 Bookpedia (for Mac)，是另一個可以自訂 Z39.50 資源來搜尋並匯入書目的軟體。\n\nBookpedia https://t.co/Rb92eEo1T2 https://t.co/9Upatahlx3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Rb92eEo1T2",
+          "expanded_url": "https://bit.ly/2XWGM3D",
+          "display_url": "bit.ly/2XWGM3D",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1271641889251266560,
+          "id_str": "1271641889251266560",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/EaXHj5JUEAAudke.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EaXHj5JUEAAudke.jpg",
+          "url": "https://t.co/9Upatahlx3",
+          "display_url": "pic.twitter.com/9Upatahlx3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1271641900160741376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 806,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 457,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1376,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1271641889251266560,
+          "id_str": "1271641889251266560",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/EaXHj5JUEAAudke.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EaXHj5JUEAAudke.jpg",
+          "url": "https://t.co/9Upatahlx3",
+          "display_url": "pic.twitter.com/9Upatahlx3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1271641900160741376/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 806,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 457,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1376,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1271635554010980352,
+    "in_reply_to_status_id_str": "1271635554010980352",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 13 02:48:36 +0000 2020",
+    "id": 1271635554010980352,
+    "id_str": "1271635554010980352",
+    "text": "下載免費的 BibDesk，如圖建立 Z39.50 資源，就可以從全國圖書書目資料網的資源中找到書目；詮釋資料欄位雖少、沒有封面，但書目很全。\n\n利用文獻管理軟體抓取書目資料──Z39.50協定… https://t.co/tEMJMAhtod",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tEMJMAhtod",
+          "expanded_url": "https://twitter.com/i/web/status/1271635554010980352",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 12 14:55:36 +0000 2020",
+    "id": 1271456121115389953,
+    "id_str": "1271456121115389953",
+    "text": "覺得在 49-55 擺上「中流砥柱」的公視新聞台滿優的。\n\n喔，其實我早就切掉有線電視了，有數位無線＋YouTube、Netflix 就夠了。\n\n關鍵眼中盯】韓國瑜被逐出高雄，「造王者」中天新聞可能也要離開螢光幕… https://t.co/tDtkpqCBoo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tDtkpqCBoo",
+          "expanded_url": "https://twitter.com/i/web/status/1271456121115389953",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 12 14:35:43 +0000 2020",
+    "id": 1271451117138804737,
+    "id_str": "1271451117138804737",
+    "text": "原來 PS5 這麼大⋯⋯ https://t.co/iz3uVE2yyn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iz3uVE2yyn",
+          "expanded_url": "https://twitter.com/ia/status/1271445318794711044",
+          "display_url": "twitter.com/ia/status/1271…",
+          "indices": [
+            13,
+            36
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1271445318794711044,
+    "quoted_status_id_str": "1271445318794711044",
+    "quoted_status": {
+      "created_at": "Fri Jun 12 14:12:40 +0000 2020",
+      "id": 1271445318794711044,
+      "id_str": "1271445318794711044",
+      "text": "Which design do you like best and why? https://t.co/07kDbi0alZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1271445313925103617,
+            "id_str": "1271445313925103617",
+            "indices": [
+              39,
+              62
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaUUxs_XQAEHkwm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaUUxs_XQAEHkwm.jpg",
+            "url": "https://t.co/07kDbi0alZ",
+            "display_url": "pic.twitter.com/07kDbi0alZ",
+            "expanded_url": "https://twitter.com/iA/status/1271445318794711044/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1440,
+                "h": 1271,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1059,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1271445313925103617,
+            "id_str": "1271445313925103617",
+            "indices": [
+              39,
+              62
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaUUxs_XQAEHkwm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaUUxs_XQAEHkwm.jpg",
+            "url": "https://t.co/07kDbi0alZ",
+            "display_url": "pic.twitter.com/07kDbi0alZ",
+            "expanded_url": "https://twitter.com/iA/status/1271445318794711044/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1440,
+                "h": 1271,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1059,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2087371,
+        "id_str": "2087371",
+        "name": "iA Inc.",
+        "screen_name": "iA",
+        "location": "Tokyo, Zurich, Berlin",
+        "description": "iA designs information systems for international media corporations. We make @iAWriter. Account is managed by @reichenstein.",
+        "url": "https://t.co/xLXadnBbfT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/xLXadnBbfT",
+                "expanded_url": "https://iA.net",
+                "display_url": "iA.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 62272,
+        "friends_count": 292,
+        "listed_count": 4569,
+        "created_at": "Sat Mar 24 06:29:18 +0000 2007",
+        "favourites_count": 16235,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 32561,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EFEFEF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/612988926047985664/TvJw7c-B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/612988926047985664/TvJw7c-B_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087371/1529958627",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "1C1C1C",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 41,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 7,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 12 11:44:06 +0000 2020",
+    "id": 1271407929061568515,
+    "id_str": "1271407929061568515",
+    "text": "RT @bobtung: iBooks Author結束支援，對數位出版象徵著什麼？ https://t.co/sVEH7SuGdB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bobtung",
+          "name": "Bobby",
+          "id": 122619084,
+          "id_str": "122619084",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sVEH7SuGdB",
+          "expanded_url": "https://link.medium.com/NlrWUxfXf7",
+          "display_url": "link.medium.com/NlrWUxfXf7",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 12 11:36:55 +0000 2020",
+      "id": 1271406122650365955,
+      "id_str": "1271406122650365955",
+      "text": "iBooks Author結束支援，對數位出版象徵著什麼？ https://t.co/sVEH7SuGdB",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sVEH7SuGdB",
+            "expanded_url": "https://link.medium.com/NlrWUxfXf7",
+            "display_url": "link.medium.com/NlrWUxfXf7",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 122619084,
+        "id_str": "122619084",
+        "name": "Bobby",
+        "screen_name": "bobtung",
+        "location": "Solaris",
+        "description": "當Google可以解決所有疑問時，我們需要說點廢話來建立關係。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3542,
+        "friends_count": 1987,
+        "listed_count": 87,
+        "created_at": "Sat Mar 13 09:24:16 +0000 2010",
+        "favourites_count": 1570,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 33846,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "800505",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1266793331658391552/JNxjf61y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266793331658391552/JNxjf61y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/122619084/1591863610",
+        "profile_link_color": "444444",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F0F0F0",
+        "profile_text_color": "0A0808",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jun 12 06:01:35 +0000 2020",
     "id": 1271321731802689536,
     "id_str": "1271321731802689536",
