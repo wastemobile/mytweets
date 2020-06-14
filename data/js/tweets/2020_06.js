@@ -1,5 +1,594 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Sat Jun 13 09:19:46 +0000 2020",
+    "id": 1271733993424121856,
+    "id_str": "1271733993424121856",
+    "text": "很抱歉，這個不行✋ https://t.co/COM4S1blQ2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/COM4S1blQ2",
+          "expanded_url": "https://twitter.com/asahi_fanti/status/1271729060926885888",
+          "display_url": "twitter.com/asahi_fanti/st…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1271729060926885888,
+    "quoted_status_id_str": "1271729060926885888",
+    "quoted_status": {
+      "created_at": "Sat Jun 13 09:00:10 +0000 2020",
+      "id": 1271729060926885888,
+      "id_str": "1271729060926885888",
+      "text": "【「EVA」襲來 源自日本的迷你積木重現獨特外型】\n\n玩具公司「KAWADA」，現已推出了全球規模最小級積木「nanoblock」的新商品「Charanano EVA 2號機」。\n\n全文：… https://t.co/1vhAlnZz86",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1vhAlnZz86",
+            "expanded_url": "https://twitter.com/i/web/status/1271729060926885888",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1103580910513872896,
+        "id_str": "1103580910513872896",
+        "name": "朝日新聞中文網（繁）",
+        "screen_name": "asahi_fanti",
+        "location": "",
+        "description": "我們是「朝日新聞中文網」的官方帳號，在此為華語地區及日本讀者傳遞新聞資訊。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4192,
+        "friends_count": 0,
+        "listed_count": 67,
+        "created_at": "Thu Mar 07 08:59:27 +0000 2019",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2945,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1103600611780509697/EUe8is2o_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103600611780509697/EUe8is2o_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1103580910513872896/1557306830",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 13 06:53:27 +0000 2020",
+    "id": 1271697172182913025,
+    "id_str": "1271697172182913025",
+    "text": "Plash Speed! https://t.co/bTp8ty9MWU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bTp8ty9MWU",
+          "expanded_url": "https://twitter.com/SoulKingLives/status/1271194556613234694",
+          "display_url": "twitter.com/SoulKingLives/…",
+          "indices": [
+            13,
+            36
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1271194556613234694,
+    "quoted_status_id_str": "1271194556613234694",
+    "quoted_status": {
+      "created_at": "Thu Jun 11 21:36:14 +0000 2020",
+      "id": 1271194556613234694,
+      "id_str": "1271194556613234694",
+      "text": "My new router! 5ghz WIFI and everything! \n\n#PS5 #PlayStation5 #PS5Reveal https://t.co/iKlkpmwjDY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PS5",
+            "indices": [
+              43,
+              47
+            ]
+          },
+          {
+            "text": "PlayStation5",
+            "indices": [
+              48,
+              61
+            ]
+          },
+          {
+            "text": "PS5Reveal",
+            "indices": [
+              62,
+              72
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1271194230665424897,
+            "id_str": "1271194230665424897",
+            "indices": [
+              73,
+              96
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaQwau9WsAElya4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaQwau9WsAElya4.jpg",
+            "url": "https://t.co/iKlkpmwjDY",
+            "display_url": "pic.twitter.com/iKlkpmwjDY",
+            "expanded_url": "https://twitter.com/SoulKingLives/status/1271194556613234694/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1271194230665424897,
+            "id_str": "1271194230665424897",
+            "indices": [
+              73,
+              96
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaQwau9WsAElya4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaQwau9WsAElya4.jpg",
+            "url": "https://t.co/iKlkpmwjDY",
+            "display_url": "pic.twitter.com/iKlkpmwjDY",
+            "expanded_url": "https://twitter.com/SoulKingLives/status/1271194556613234694/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2952752008,
+        "id_str": "2952752008",
+        "name": "Brother Soul",
+        "screen_name": "SoulKingLives",
+        "location": "Wilmington, DE",
+        "description": "‼️COMMISSION ARE CLOSED‼️",
+        "url": "https://t.co/EZseJb8bZb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/EZseJb8bZb",
+                "expanded_url": "https://form.jotform.com/92661335656160",
+                "display_url": "form.jotform.com/92661335656160",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8373,
+        "friends_count": 1616,
+        "listed_count": 42,
+        "created_at": "Wed Dec 31 07:59:58 +0000 2014",
+        "favourites_count": 30786,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 40117,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268227017813757952/bzp3cc2f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268227017813757952/bzp3cc2f_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2952752008/1548044040",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 171,
+      "favorite_count": 574,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jun 13 06:14:25 +0000 2020",
+    "id": 1271687348208586753,
+    "id_str": "1271687348208586753",
+    "text": "在 Calibre 中自動下載書封的功能，會從 Amazon, Kobo, Google, Open Library 與 Douban（豆瓣）這幾個資源搜尋。 https://t.co/jD4dbjIhH4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1271687340159668224,
+          "id_str": "1271687340159668224",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/EaXw5e-UEAA8mP8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EaXw5e-UEAA8mP8.jpg",
+          "url": "https://t.co/jD4dbjIhH4",
+          "display_url": "pic.twitter.com/jD4dbjIhH4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1271687348208586753/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1687,
+              "h": 1238,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 499,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 881,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1271687340159668224,
+          "id_str": "1271687340159668224",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/EaXw5e-UEAA8mP8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EaXw5e-UEAA8mP8.jpg",
+          "url": "https://t.co/jD4dbjIhH4",
+          "display_url": "pic.twitter.com/jD4dbjIhH4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1271687348208586753/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1687,
+              "h": 1238,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 499,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 881,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1271642978465968128,
+    "in_reply_to_status_id_str": "1271642978465968128",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 13 03:44:33 +0000 2020",
+    "id": 1271649632095883265,
+    "id_str": "1271649632095883265",
+    "text": "@titanypw 去設定中的「安全性與隱私權」開一下就可以了，我就是裝在 10.15 Catalina Mac 上喔。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "titanypw",
+          "name": "Yuan-Ping Wu (Titan)",
+          "id": 21295001,
+          "id_str": "21295001",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1271649212678037504,
+    "in_reply_to_status_id_str": "1271649212678037504",
+    "in_reply_to_user_id": 21295001,
+    "in_reply_to_user_id_str": "21295001",
+    "in_reply_to_screen_name": "titanypw",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jun 13 03:18:06 +0000 2020",
     "id": 1271642978465968128,
     "id_str": "1271642978465968128",
