@@ -1,5 +1,603 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Tue Jun 16 13:16:55 +0000 2020",
+    "id": 1272880839236321283,
+    "id_str": "1272880839236321283",
+    "text": "除了米倉涼子的美腿之外， #Netflix 日劇《勝訴女王》裡講了好多日本各地的火車（電車），還有「火車便當」！\n\n日本好像很愛在故事裡用火車、火車站當梗或背景，有印象的第一本是松本清張《點與線》（推理小說），一直重複被提及被深化… https://t.co/7w0QMBNDKM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            13,
+            21
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7w0QMBNDKM",
+          "expanded_url": "https://twitter.com/i/web/status/1272880839236321283",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 16 07:03:02 +0000 2020",
+    "id": 1272786748481794048,
+    "id_str": "1272786748481794048",
+    "text": "RT @msntaiwan: #MSN台灣 為何要抗議健保？田知學舉急診室為例曝：廉價和扭曲 https://t.co/V1SxAATw9M",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MSN台灣",
+          "indices": [
+            15,
+            21
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "msntaiwan",
+          "name": "MSN 台灣",
+          "id": 108271296,
+          "id_str": "108271296",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/V1SxAATw9M",
+          "expanded_url": "http://www.msn.com/zh-tw/news/living/%E7%82%BA%E4%BD%95%E8%A6%81%E6%8A%97%E8%AD%B0%E5%81%A5%E4%BF%9D-%E7%94%B0%E7%9F%A5%E5%AD%B8%E8%88%89%E6%80%A5%E8%A8%BA%E5%AE%A4%E7%82%BA%E4%BE%8B%E6%9B%9D-%E5%BB%89%E5%83%B9%E5%92%8C%E6%89%AD%E6%9B%B2/ar-BB15xvCP?ocid=ob-tw-zhtw-605",
+          "display_url": "msn.com/zh-tw/news/liv…",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 16 05:20:43 +0000 2020",
+      "id": 1272760997204226048,
+      "id_str": "1272760997204226048",
+      "text": "#MSN台灣 為何要抗議健保？田知學舉急診室為例曝：廉價和扭曲 https://t.co/V1SxAATw9M",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "MSN台灣",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/V1SxAATw9M",
+            "expanded_url": "http://www.msn.com/zh-tw/news/living/%E7%82%BA%E4%BD%95%E8%A6%81%E6%8A%97%E8%AD%B0%E5%81%A5%E4%BF%9D-%E7%94%B0%E7%9F%A5%E5%AD%B8%E8%88%89%E6%80%A5%E8%A8%BA%E5%AE%A4%E7%82%BA%E4%BE%8B%E6%9B%9D-%E5%BB%89%E5%83%B9%E5%92%8C%E6%89%AD%E6%9B%B2/ar-BB15xvCP?ocid=ob-tw-zhtw-605",
+            "display_url": "msn.com/zh-tw/news/liv…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://oxfordblue.azurewebsites.net\" rel=\"nofollow\">OxfordBlue-Twitter</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 108271296,
+        "id_str": "108271296",
+        "name": "MSN 台灣",
+        "screen_name": "msntaiwan",
+        "location": "台灣",
+        "description": "MSN 台灣官方粉絲頁，為你提供全方位即時新聞、深度報導、熱門話題、好吃好玩通通有...MSN 台灣官方網站還有你最需要的Outlook、OneDrive、Skype入口，讓你茫茫網海不迷失，一站就知天下事！",
+        "url": "https://t.co/2D4kFNW2xK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2D4kFNW2xK",
+                "expanded_url": "https://www.msn.com/zh-tw/",
+                "display_url": "msn.com/zh-tw/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5081,
+        "friends_count": 19,
+        "listed_count": 96,
+        "created_at": "Mon Jan 25 11:53:50 +0000 2010",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 97164,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842669100937576448/0iZ84rj-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842669100937576448/0iZ84rj-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108271296/1489744961",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 16 04:19:33 +0000 2020",
+    "id": 1272745606721622016,
+    "id_str": "1272745606721622016",
+    "text": "RT @techbang: 北京疫情傳出與鮭魚有關，一堆餐廳突然跳出來自首「我們賣的生魚片是假鮭魚」 https://t.co/W1fG6L3LAI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "techbang",
+          "name": "T客邦",
+          "id": 69223257,
+          "id_str": "69223257",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W1fG6L3LAI",
+          "expanded_url": "https://ift.tt/2Y67LK2",
+          "display_url": "ift.tt/2Y67LK2",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 16 02:55:14 +0000 2020",
+      "id": 1272724386408288257,
+      "id_str": "1272724386408288257",
+      "text": "北京疫情傳出與鮭魚有關，一堆餐廳突然跳出來自首「我們賣的生魚片是假鮭魚」 https://t.co/W1fG6L3LAI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/W1fG6L3LAI",
+            "expanded_url": "https://ift.tt/2Y67LK2",
+            "display_url": "ift.tt/2Y67LK2",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 69223257,
+        "id_str": "69223257",
+        "name": "T客邦",
+        "screen_name": "techbang",
+        "location": "",
+        "description": "這是T客邦的twiter分部，提供網站的最新文章",
+        "url": "http://t.co/yyNe6yglfT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/yyNe6yglfT",
+                "expanded_url": "http://www.techbang.com/",
+                "display_url": "techbang.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4569,
+        "friends_count": 3,
+        "listed_count": 158,
+        "created_at": "Thu Aug 27 06:42:24 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 42147,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1741270761/251301_10150201420910674_161676900673_6904552_317888_n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1741270761/251301_10150201420910674_161676900673_6904552_317888_n_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "favorite_count": 75,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 15 13:17:34 +0000 2020",
+    "id": 1272518613732331521,
+    "id_str": "1272518613732331521",
+    "text": "@glennsun 一向只有 7-11 夏季才會看到。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "glennsun",
+          "name": "仲達",
+          "id": 7285292,
+          "id_str": "7285292",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1272517532952301568,
+    "in_reply_to_status_id_str": "1272517532952301568",
+    "in_reply_to_user_id": 7285292,
+    "in_reply_to_user_id_str": "7285292",
+    "in_reply_to_screen_name": "glennsun",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 15 10:48:26 +0000 2020",
+    "id": 1272481082835795970,
+    "id_str": "1272481082835795970",
+    "text": "最愛的啤酒又出現啦～～ https://t.co/MvVUm2Aw3U",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1272481070663884800,
+          "id_str": "1272481070663884800",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/EajCyrhUYAArLI6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EajCyrhUYAArLI6.jpg",
+          "url": "https://t.co/MvVUm2Aw3U",
+          "display_url": "pic.twitter.com/MvVUm2Aw3U",
+          "expanded_url": "https://twitter.com/wastemobile/status/1272481082835795970/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1272481070663884800,
+          "id_str": "1272481070663884800",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/EajCyrhUYAArLI6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EajCyrhUYAArLI6.jpg",
+          "url": "https://t.co/MvVUm2Aw3U",
+          "display_url": "pic.twitter.com/MvVUm2Aw3U",
+          "expanded_url": "https://twitter.com/wastemobile/status/1272481082835795970/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jun 13 09:19:46 +0000 2020",
     "id": 1271733993424121856,
     "id_str": "1271733993424121856",
