@@ -1,5 +1,294 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Wed Jun 24 05:38:56 +0000 2020",
+    "id": 1275664685032001539,
+    "id_str": "1275664685032001539",
+    "text": "圖書館友善提醒：「不要用微波爐消毒借來的書，因為書裡可能有裝訂用的金屬釘子，或是 RFID 電子標籤。」\n\nhttps://t.co/v1YVMjln0n https://t.co/0oS8TOpd8M",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/v1YVMjln0n",
+          "expanded_url": "https://bit.ly/3fPRbUO",
+          "display_url": "bit.ly/3fPRbUO",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1275664676488175616,
+          "id_str": "1275664676488175616",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbQSQ7aXYAAsJZd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbQSQ7aXYAAsJZd.jpg",
+          "url": "https://t.co/0oS8TOpd8M",
+          "display_url": "pic.twitter.com/0oS8TOpd8M",
+          "expanded_url": "https://twitter.com/wastemobile/status/1275664685032001539/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 540,
+              "h": 530,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 540,
+              "h": 530,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 540,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1275664676488175616,
+          "id_str": "1275664676488175616",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbQSQ7aXYAAsJZd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbQSQ7aXYAAsJZd.jpg",
+          "url": "https://t.co/0oS8TOpd8M",
+          "display_url": "pic.twitter.com/0oS8TOpd8M",
+          "expanded_url": "https://twitter.com/wastemobile/status/1275664685032001539/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 540,
+              "h": 530,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 540,
+              "h": 530,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 540,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 45,
+    "favorite_count": 122,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 24 04:48:01 +0000 2020",
+    "id": 1275651871349395457,
+    "id_str": "1275651871349395457",
+    "text": "@Reder 理論上是啦，但實際運作還是混成一團了⋯⋯😤",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Reder",
+          "name": "Reder",
+          "id": 495393,
+          "id_str": "495393",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1275587358839074816,
+    "in_reply_to_status_id_str": "1275587358839074816",
+    "in_reply_to_user_id": 495393,
+    "in_reply_to_user_id_str": "495393",
+    "in_reply_to_screen_name": "Reder",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 23 20:11:59 +0000 2020",
+    "id": 1275522010215444480,
+    "id_str": "1275522010215444480",
+    "text": "@Reder 紙筆實踐必然可行，但當研究與閱讀的資源有七、八成皆為數位內容時，就顯然更耗時且更麻煩了。\n\n紙書摘記時撰寫簡短重點與關鍵詞，記下固定的頁數段落行數，卡片參照很順暢；流式電書若不複製段落文字下來管理，翻找就麻煩多了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Reder",
+          "name": "Reder",
+          "id": 495393,
+          "id_str": "495393",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1275501703698149376,
+    "in_reply_to_status_id_str": "1275501703698149376",
+    "in_reply_to_user_id": 495393,
+    "in_reply_to_user_id_str": "495393",
+    "in_reply_to_screen_name": "Reder",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 23 18:25:08 +0000 2020",
+    "id": 1275495120532463617,
+    "id_str": "1275495120532463617",
+    "text": "還醒著。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jun 23 14:16:11 +0000 2020",
     "id": 1275432467160158213,
     "id_str": "1275432467160158213",
