@@ -1,5 +1,519 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Wed Jun 24 14:32:32 +0000 2020",
+    "id": 1275798972007723008,
+    "id_str": "1275798972007723008",
+    "text": "服役中的R8000也在列，前幾天收到 Netgear 的信，建議先關閉 Web 遠端系統管理，等候新韌體釋出，這才看到原來漏洞在1月就已經通報，修正速度有點慢呢。\n\n79款Netgear路由器含有允許駭客執行任意程式的安全漏洞… https://t.co/a8qYbPLtVn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/a8qYbPLtVn",
+          "expanded_url": "https://twitter.com/i/web/status/1275798972007723008",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 24 14:24:19 +0000 2020",
+    "id": 1275796901464399872,
+    "id_str": "1275796901464399872",
+    "text": "RT @yurenju: 苦主 tempo 因為在文章下方評論林務局的區塊鏈標案被廠商奧丁丁告了，也不是什麼謾罵，只是很平常的評論也要告？ \nhttps://t.co/vo081QT86V",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yurenju",
+          "name": "Yuren Ju",
+          "id": 6873232,
+          "id_str": "6873232",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vo081QT86V",
+          "expanded_url": "https://vocus.cc/@facebook-yenwenfeng/5ef1a289fd897800019c6ce0",
+          "display_url": "vocus.cc/@facebook-yenw…",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 23 09:40:23 +0000 2020",
+      "id": 1275363062699012107,
+      "id_str": "1275363062699012107",
+      "text": "苦主 tempo 因為在文章下方評論林務局的區塊鏈標案被廠商奧丁丁告了，也不是什麼謾罵，只是很平常的評論也要告？ \nhttps://t.co/vo081QT86V",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vo081QT86V",
+            "expanded_url": "https://vocus.cc/@facebook-yenwenfeng/5ef1a289fd897800019c6ce0",
+            "display_url": "vocus.cc/@facebook-yenw…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6873232,
+        "id_str": "6873232",
+        "name": "Yuren Ju",
+        "screen_name": "yurenju",
+        "location": "台北市, 台灣",
+        "description": "Blockchain, JavaScript, Coffee & Climbing",
+        "url": "https://t.co/BQGAHU0YLu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/BQGAHU0YLu",
+                "expanded_url": "http://medium.com/@yurenju",
+                "display_url": "medium.com/@yurenju",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 945,
+        "friends_count": 178,
+        "listed_count": 54,
+        "created_at": "Sun Jun 17 16:31:15 +0000 2007",
+        "favourites_count": 145,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2252,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1089718161157455872/wbWNA46v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089718161157455872/wbWNA46v_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6873232/1434500148",
+        "profile_link_color": "884100",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 24 14:00:06 +0000 2020",
+    "id": 1275790810395496448,
+    "id_str": "1275790810395496448",
+    "text": "RT @LiuZhongjing: 與中國的背信和盜竊造成的財務和人力成本相比，中國對世界經濟和科技做出的貢獻更是微不足道的。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "LiuZhongjing",
+          "name": "Zhongjing Liu | 劉仲敬",
+          "id": 768756228570906624,
+          "id_str": "768756228570906624",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jun 24 13:59:16 +0000 2020",
+      "id": 1275790597882875904,
+      "id_str": "1275790597882875904",
+      "text": "與中國的背信和盜竊造成的財務和人力成本相比，中國對世界經濟和科技做出的貢獻更是微不足道的。 https://t.co/JYdwlG9C7P",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JYdwlG9C7P",
+            "expanded_url": "https://twitter.com/usa_china_talk/status/1275720337196490752",
+            "display_url": "twitter.com/usa_china_talk…",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 768756228570906624,
+        "id_str": "768756228570906624",
+        "name": "Zhongjing Liu | 劉仲敬",
+        "screen_name": "LiuZhongjing",
+        "location": "Anglosphere",
+        "description": "",
+        "url": "https://t.co/5fNeku15G2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5fNeku15G2",
+                "expanded_url": "http://medium.com/@LiuZhongjing",
+                "display_url": "medium.com/@LiuZhongjing",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 47323,
+        "friends_count": 150,
+        "listed_count": 369,
+        "created_at": "Thu Aug 25 10:25:42 +0000 2016",
+        "favourites_count": 7716,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 18989,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/769078428150689792/tR-VKqUe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/769078428150689792/tR-VKqUe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1275720337196490752,
+      "quoted_status_id_str": "1275720337196490752",
+      "quoted_status": {
+        "created_at": "Wed Jun 24 09:20:04 +0000 2020",
+        "id": 1275720337196490752,
+        "id_str": "1275720337196490752",
+        "text": "与中国的掩盖造成的财务和人力成本相比，中国为抗击COVID-19大流行做出的贡献是微不足道的. https://t.co/cJBpBQ8FPZ",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/cJBpBQ8FPZ",
+              "expanded_url": "https://twitter.com/SecPompeo/status/1275453160035737607?s=20",
+              "display_url": "twitter.com/SecPompeo/stat…",
+              "indices": [
+                48,
+                71
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 89421672,
+          "id_str": "89421672",
+          "name": "美国驻华使领馆 US MissionCN",
+          "screen_name": "USA_China_Talk",
+          "location": "China",
+          "description": "欢迎来到美国驻华使领馆的“推特”平台！这里是活动文字直播、思想交流、文化分享的开放平台。本帐号的使用条款可在以下链接找到：https://t.co/4uLbZnQhZd 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院的观点或背书。",
+          "url": "https://t.co/B1t6KwzW3m",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/B1t6KwzW3m",
+                  "expanded_url": "https://china.usembassy-china.org.cn/",
+                  "display_url": "china.usembassy-china.org.cn",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/4uLbZnQhZd",
+                  "expanded_url": "http://t.cn/R6HRrV1",
+                  "display_url": "t.cn/R6HRrV1",
+                  "indices": [
+                    61,
+                    84
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 1059357,
+          "friends_count": 380,
+          "listed_count": 2234,
+          "created_at": "Thu Nov 12 10:55:22 +0000 2009",
+          "favourites_count": 6,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 8458,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1212542140720517122/de77ivSJ_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212542140720517122/de77ivSJ_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/89421672/1588646902",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1275453160035737607,
+        "quoted_status_id_str": "1275453160035737607",
+        "retweet_count": 351,
+        "favorite_count": 1330,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 40,
+      "favorite_count": 137,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1275720337196490752,
+    "quoted_status_id_str": "1275720337196490752",
+    "retweet_count": 40,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jun 24 05:38:56 +0000 2020",
     "id": 1275664685032001539,
     "id_str": "1275664685032001539",
