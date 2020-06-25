@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Thu Jun 25 00:44:05 +0000 2020",
+    "id": 1275952870349631498,
+    "id_str": "1275952870349631498",
+    "text": "感謝武漢肺炎的封鎖期，馬丁老爺子終於「有可能」在「明年」寫完下一本《冰與火之歌》⋯⋯\n\n嗯，好難笑的新聞。\n\nThanks to the pandemic, the next Game of Thrones book could… https://t.co/T8ICR3d4ht",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T8ICR3d4ht",
+          "expanded_url": "https://twitter.com/i/web/status/1275952870349631498",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 25 00:39:05 +0000 2020",
+    "id": 1275951612557766656,
+    "id_str": "1275951612557766656",
+    "text": "Google 現在讓所有用戶都能選擇「自動刪除」 3 或 18 個月之前的各種網路與應用程式足跡，趕緊去設定一下，不清楚有多少用處，但這是選擇與表態。\n\n記得，我們並不是谷歌與臉書的「客戶」，而是他們的「商品」，真正的客戶是廣告主… https://t.co/WLCG6sutrc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WLCG6sutrc",
+          "expanded_url": "https://twitter.com/i/web/status/1275951612557766656",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jun 24 14:32:32 +0000 2020",
     "id": 1275798972007723008,
     "id_str": "1275798972007723008",
