@@ -1,5 +1,445 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Fri Jun 26 01:34:25 +0000 2020",
+    "id": 1276327925592125445,
+    "id_str": "1276327925592125445",
+    "text": "雖然影集與小說一樣結束了，但今天在愛爾蘭 RTÉ \n電視台就能看到兩部特集，好想知道這對情侶40年後怎麼樣了？\n\nNormal Older People! https://t.co/aJfO54wZNP https://t.co/KCgmXCqLd3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aJfO54wZNP",
+          "expanded_url": "https://bit.ly/3eENocM",
+          "display_url": "bit.ly/3eENocM",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1276326100361084929,
+          "id_str": "1276326100361084929",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbZr03WVAAEAjM-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbZr03WVAAEAjM-.jpg",
+          "url": "https://t.co/KCgmXCqLd3",
+          "display_url": "pic.twitter.com/KCgmXCqLd3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1276327925592125445/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1276326100361084929,
+          "id_str": "1276326100361084929",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbZr03WVAAEAjM-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbZr03WVAAEAjM-.jpg",
+          "url": "https://t.co/KCgmXCqLd3",
+          "display_url": "pic.twitter.com/KCgmXCqLd3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1276327925592125445/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 533,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1261307468111466496,
+    "in_reply_to_status_id_str": "1261307468111466496",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 26 01:20:28 +0000 2020",
+    "id": 1276324414720634880,
+    "id_str": "1276324414720634880",
+    "text": "雖然《電馭叛客Cyberpunk 2077》又延期到11月上市，但確定要在 #Netflix 製作衍生動畫了！\n\n遊戲 x 動畫！Cyberpunk 2077 x Trigger！ https://t.co/C9DX8KvFIO https://t.co/ESno1841A5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            38,
+            46
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/C9DX8KvFIO",
+          "expanded_url": "https://bit.ly/31ilkrZ",
+          "display_url": "bit.ly/31ilkrZ",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1276324404889178112,
+          "id_str": "1276324404889178112",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbZqSLOU0AAyH73.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbZqSLOU0AAyH73.jpg",
+          "url": "https://t.co/ESno1841A5",
+          "display_url": "pic.twitter.com/ESno1841A5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1276324414720634880/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 674,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 674,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 458,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1276324404889178112,
+          "id_str": "1276324404889178112",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbZqSLOU0AAyH73.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbZqSLOU0AAyH73.jpg",
+          "url": "https://t.co/ESno1841A5",
+          "display_url": "pic.twitter.com/ESno1841A5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1276324414720634880/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 674,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 674,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 458,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 46,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 25 02:29:33 +0000 2020",
+    "id": 1275979415193677824,
+    "id_str": "1275979415193677824",
+    "text": "RT @OOBE: \"東京地鐵「戒指車票」！設計師辻尾一平新提案：讓車票巧妙轉圈可配戴，方便收納 |ShoppingDesign\" ( https://t.co/Mfg2nNH9dR )",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OOBE",
+          "name": "OOBE",
+          "id": 4496321,
+          "id_str": "4496321",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Mfg2nNH9dR",
+          "expanded_url": "http://twitthat.com/KqMt6",
+          "display_url": "twitthat.com/KqMt6",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jun 25 02:03:06 +0000 2020",
+      "id": 1275972757994573826,
+      "id_str": "1275972757994573826",
+      "text": "\"東京地鐵「戒指車票」！設計師辻尾一平新提案：讓車票巧妙轉圈可配戴，方便收納 |ShoppingDesign\" ( https://t.co/Mfg2nNH9dR )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Mfg2nNH9dR",
+            "expanded_url": "http://twitthat.com/KqMt6",
+            "display_url": "twitthat.com/KqMt6",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitthat.com/\" rel=\"nofollow\">twitthat</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4496321,
+        "id_str": "4496321",
+        "name": "OOBE",
+        "screen_name": "OOBE",
+        "location": "Taiwan",
+        "description": "🔰 I am an Oneironaut. 歡迎訂閱「小星星通訊」: https://t.co/b9EHmteoym",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/b9EHmteoym",
+                "expanded_url": "http://oobe.substack.com",
+                "display_url": "oobe.substack.com",
+                "indices": [
+                  35,
+                  58
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14031,
+        "friends_count": 2264,
+        "listed_count": 178,
+        "created_at": "Fri Apr 13 13:16:07 +0000 2007",
+        "favourites_count": 65435,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 102393,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "798058",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245470849299148800/NYl4AVHp_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245470849299148800/NYl4AVHp_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4496321/1506265793",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "AA4D73",
+        "profile_text_color": "F87364",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 26,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jun 25 00:44:05 +0000 2020",
     "id": 1275952870349631498,
     "id_str": "1275952870349631498",
