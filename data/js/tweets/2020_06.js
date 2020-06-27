@@ -1,5 +1,923 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Sat Jun 27 01:16:41 +0000 2020",
+    "id": 1276685850957365254,
+    "id_str": "1276685850957365254",
+    "text": "看到最清楚且最易判斷與操作的 Cookie 設定。 https://t.co/xm8TA4WAt7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1276685839284621312,
+          "id_str": "1276685839284621312",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbezAbRU0AAEUoC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbezAbRU0AAEUoC.jpg",
+          "url": "https://t.co/xm8TA4WAt7",
+          "display_url": "pic.twitter.com/xm8TA4WAt7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1276685850957365254/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1141,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1912,
+              "h": 1818,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 647,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1276685839284621312,
+          "id_str": "1276685839284621312",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbezAbRU0AAEUoC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbezAbRU0AAEUoC.jpg",
+          "url": "https://t.co/xm8TA4WAt7",
+          "display_url": "pic.twitter.com/xm8TA4WAt7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1276685850957365254/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1141,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1912,
+              "h": 1818,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 647,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 27 01:08:50 +0000 2020",
+    "id": 1276683874882338817,
+    "id_str": "1276683874882338817",
+    "text": "RT @tonylu915: kepub 才能接受 Kobo 閱讀器實體按鍵的控制，及一些專有資料的顯示。Calibre 要裝外掛而且必須將閱讀器連接電腦才能將 epub 轉 kepub，想說有沒有指令工具可用，還真的有。\n\nkepubify\nhttps://t.co/Oib8…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tonylu915",
+          "name": "喵⋯⋯喵喵 🐈",
+          "id": 85267144,
+          "id_str": "85267144",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 13 11:30:51 +0000 2020",
+      "id": 1227918049904222208,
+      "id_str": "1227918049904222208",
+      "text": "kepub 才能接受 Kobo 閱讀器實體按鍵的控制，及一些專有資料的顯示。Calibre 要裝外掛而且必須將閱讀器連接電腦才能將 epub 轉 kepub，想說有沒有指令工具可用，還真的有。\n\nkepubify… https://t.co/rupZf44Ik2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rupZf44Ik2",
+            "expanded_url": "https://twitter.com/i/web/status/1227918049904222208",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 85267144,
+        "id_str": "85267144",
+        "name": "喵⋯⋯喵喵 🐈",
+        "screen_name": "tonylu915",
+        "location": "Taichung, Taiwan 🇹🇼",
+        "description": "不管你認為自己可以，或認為自己不可以，你都會成為那樣的人。– 亨利．福特\n\n無法改變想法的人，無法改變任何事。– 喬治‧蕭伯納 (劇作家)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 256,
+        "friends_count": 120,
+        "listed_count": 34,
+        "created_at": "Mon Oct 26 08:14:48 +0000 2009",
+        "favourites_count": 15168,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11784,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/901745748835876864/aS-qDb_6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/901745748835876864/aS-qDb_6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85267144/1592034402",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 27 01:02:23 +0000 2020",
+    "id": 1276682252315852800,
+    "id_str": "1276682252315852800",
+    "text": "原來我忘記樂天在2017就買下了德國 Tolino，Kobo 閱讀器當然會是一樣的。 https://t.co/SQd6Y5e3qn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SQd6Y5e3qn",
+          "expanded_url": "https://twitter.com/wastemobile/status/987182977300877312",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 987182977300877312,
+    "quoted_status_id_str": "987182977300877312",
+    "quoted_status": {
+      "created_at": "Fri Apr 20 04:15:37 +0000 2018",
+      "id": 987182977300877312,
+      "id_str": "987182977300877312",
+      "text": "根據樂天發布的年度報告，Kobo 數位內容銷售去年第四季仍有相當大的成長，主要是來自併購德國電子書雙巨頭之一 Tolino 的貢獻。\n\nTolino 以多款閱讀器及相對開放的閱讀系統（支援多家電子書販售商）著稱。… https://t.co/o0IEH6ujwb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/o0IEH6ujwb",
+            "expanded_url": "https://twitter.com/i/web/status/987182977300877312",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "Taipei",
+        "description": "一隻被廢棄了的舊手機📱",
+        "url": "https://t.co/5LQVtqARrN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LQVtqARrN",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4694,
+        "friends_count": 1165,
+        "listed_count": 134,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3366,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22315,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1573835714",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 27 00:30:41 +0000 2020",
+    "id": 1276674276590944256,
+    "id_str": "1276674276590944256",
+    "text": "終於知道塗導熱膏的正確方法。 https://t.co/17GwAORXq7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/17GwAORXq7",
+          "expanded_url": "https://twitter.com/frankdenneman/status/1275843852230971394",
+          "display_url": "twitter.com/frankdenneman/…",
+          "indices": [
+            15,
+            38
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1275843852230971394,
+    "quoted_status_id_str": "1275843852230971394",
+    "quoted_status": {
+      "created_at": "Wed Jun 24 17:30:53 +0000 2020",
+      "id": 1275843852230971394,
+      "id_str": "1275843852230971394",
+      "text": "I found this on imgur: some ways to apply thermal paste and the result\nBy henriquesantosbr\n#Homelab https://t.co/BT0l4PWQ2b",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homelab",
+            "indices": [
+              91,
+              99
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1275843803992272904,
+            "id_str": "1275843803992272904",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1275843803992272904/pu/img/gB_tBNDgqaH66-dy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1275843803992272904/pu/img/gB_tBNDgqaH66-dy.jpg",
+            "url": "https://t.co/BT0l4PWQ2b",
+            "display_url": "pic.twitter.com/BT0l4PWQ2b",
+            "expanded_url": "https://twitter.com/FrankDenneman/status/1275843852230971394/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1275843803992272904,
+            "id_str": "1275843803992272904",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1275843803992272904/pu/img/gB_tBNDgqaH66-dy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1275843803992272904/pu/img/gB_tBNDgqaH66-dy.jpg",
+            "url": "https://t.co/BT0l4PWQ2b",
+            "display_url": "pic.twitter.com/BT0l4PWQ2b",
+            "expanded_url": "https://twitter.com/FrankDenneman/status/1275843852230971394/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                4,
+                3
+              ],
+              "duration_millis": 28000,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1275843803992272904/pu/vid/360x270/icMCa4Yv7q3Ilrt9.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1275843803992272904/pu/pl/oKbbxJJmZ2Icps46.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1275843803992272904/pu/vid/480x360/l30j3htwv72cpOjB.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1275843803992272904/pu/vid/960x720/UyTGPA4DL-n6r64m.mp4?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 27631707,
+        "id_str": "27631707",
+        "name": "Frank Denneman",
+        "screen_name": "FrankDenneman",
+        "location": "Amsterdam Area",
+        "description": "Chief Technologist at VMware | Resource Management | Author vSphere Deep Dive Series | NUMA-whisperer | Tweet=own views",
+        "url": "https://t.co/YsupHzFs9B",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/YsupHzFs9B",
+                "expanded_url": "http://frankdenneman.nl",
+                "display_url": "frankdenneman.nl",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 20971,
+        "friends_count": 687,
+        "listed_count": 526,
+        "created_at": "Mon Mar 30 13:03:14 +0000 2009",
+        "favourites_count": 13097,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13604,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1038061470930673664/x01qTM2G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1038061470930673664/x01qTM2G_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27631707/1444747912",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 918,
+      "favorite_count": 2818,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 26 15:17:16 +0000 2020",
+    "id": 1276535005162831874,
+    "id_str": "1276535005162831874",
+    "text": "可用書名一次搜尋近20多個圖書館電子書的服務，大概都是用 HyRead（凌網）系統的吧，需要先準備好帳號、閱覽證號。 #ebook\n\n台灣電子書借閱搜尋 https://t.co/Vb0mQ1jOFl https://t.co/KsgAcODjT2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ebook",
+          "indices": [
+            59,
+            65
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Vb0mQ1jOFl",
+          "expanded_url": "https://bit.ly/2ZfzWFR",
+          "display_url": "bit.ly/2ZfzWFR",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1276534995985686528,
+          "id_str": "1276534995985686528",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ebcp0MMU4AAkRb0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ebcp0MMU4AAkRb0.jpg",
+          "url": "https://t.co/KsgAcODjT2",
+          "display_url": "pic.twitter.com/KsgAcODjT2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1276535005162831874/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 475,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 839,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1468,
+              "h": 1026,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1276534995985686528,
+          "id_str": "1276534995985686528",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ebcp0MMU4AAkRb0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ebcp0MMU4AAkRb0.jpg",
+          "url": "https://t.co/KsgAcODjT2",
+          "display_url": "pic.twitter.com/KsgAcODjT2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1276535005162831874/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 475,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 839,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1468,
+              "h": 1026,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 26 14:30:48 +0000 2020",
+    "id": 1276523310772178944,
+    "id_str": "1276523310772178944",
+    "text": "發現用 https://t.co/vNx7b9H56o 比 certbot 更好，可簽 RSA 與 ECC 兩種憑證，支援搭配 Cloudflare DNS API tokens（而不是 Global API Key），能更嚴謹的… https://t.co/U4JJkwcNo1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vNx7b9H56o",
+          "expanded_url": "http://acme.sh",
+          "display_url": "acme.sh",
+          "indices": [
+            4,
+            27
+          ]
+        },
+        {
+          "url": "https://t.co/U4JJkwcNo1",
+          "expanded_url": "https://twitter.com/i/web/status/1276523310772178944",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jun 26 01:34:25 +0000 2020",
     "id": 1276327925592125445,
     "id_str": "1276327925592125445",
