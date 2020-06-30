@@ -1,5 +1,738 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Tue Jun 30 04:16:07 +0000 2020",
+    "id": 1277818172473663488,
+    "id_str": "1277818172473663488",
+    "text": "從香港人的角度看台灣（的交通），總是能喚醒那些我們早已習以為常、或是早已麻痺的感官。\n\n鄭立：在台灣，機車既是人，也是車 https://t.co/7ZycmfwQqL https://t.co/RXkUTfrbEC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7ZycmfwQqL",
+          "expanded_url": "https://bit.ly/2NHihRX",
+          "display_url": "bit.ly/2NHihRX",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1277818161639776256,
+          "id_str": "1277818161639776256",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ebu42QwU4AAs6OQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ebu42QwU4AAs6OQ.jpg",
+          "url": "https://t.co/RXkUTfrbEC",
+          "display_url": "pic.twitter.com/RXkUTfrbEC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1277818172473663488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1277818161639776256,
+          "id_str": "1277818161639776256",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ebu42QwU4AAs6OQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ebu42QwU4AAs6OQ.jpg",
+          "url": "https://t.co/RXkUTfrbEC",
+          "display_url": "pic.twitter.com/RXkUTfrbEC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1277818172473663488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1067,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 29 16:19:57 +0000 2020",
+    "id": 1277637941712392192,
+    "id_str": "1277637941712392192",
+    "text": "好好喔～～有這台就可以獨立裝 macOS Big Sur 玩了。\n\nDevelopers Begin Receiving Mac Mini With A12Z Chip to Prepare Apps for Apple Sili… https://t.co/M4dcqdJhuk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/M4dcqdJhuk",
+          "expanded_url": "https://twitter.com/i/web/status/1277637941712392192",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 29 14:44:05 +0000 2020",
+    "id": 1277613817673863171,
+    "id_str": "1277613817673863171",
+    "text": "RT @purebox: AdGuard Pro for iOS 簡易使用教學 https://t.co/pjwD03Pqb0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "purebox",
+          "name": "盒",
+          "id": 10144682,
+          "id_str": "10144682",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pjwD03Pqb0",
+          "expanded_url": "https://j.mp/2VwA8Q2",
+          "display_url": "j.mp/2VwA8Q2",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 29 10:32:16 +0000 2020",
+      "id": 1277550443254566914,
+      "id_str": "1277550443254566914",
+      "text": "AdGuard Pro for iOS 簡易使用教學 https://t.co/pjwD03Pqb0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pjwD03Pqb0",
+            "expanded_url": "https://j.mp/2VwA8Q2",
+            "display_url": "j.mp/2VwA8Q2",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 10144682,
+        "id_str": "10144682",
+        "name": "盒",
+        "screen_name": "purebox",
+        "location": "台中/台南/蘇州/深圳/泰國大城",
+        "description": "🔰Pokémon GO訓練家代碼 7456 8858 2017 有加請告訴我。 不定時轉推或自己拍的貓圖。 價值投資新手學習中。 一日一集泰劇學泰語。",
+        "url": "https://t.co/t4fFDtUliU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/t4fFDtUliU",
+                "expanded_url": "http://www.purebox.org",
+                "display_url": "purebox.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2838,
+        "friends_count": 347,
+        "listed_count": 86,
+        "created_at": "Sun Nov 11 04:40:49 +0000 2007",
+        "favourites_count": 62900,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 109775,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E1E8ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/865066634766983168/zQjDsOYp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/865066634766983168/zQjDsOYp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10144682/1502027424",
+        "profile_link_color": "4C99D4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 29 10:34:17 +0000 2020",
+    "id": 1277550950832459782,
+    "id_str": "1277550950832459782",
+    "text": "財政部新解釋：「電子雜誌」指的是以電子形式（含網路）發行，具備一定名稱，刊期7日以上3月以下，且按期出版的刊物，其封面、內容刊載足資辨識與紙本雜誌相同且僅供閱讀者。\n\n9月1日起，電子雜誌若可供讀者買斷、永久保存，則免課營業稅；若… https://t.co/N3Ob20PhCI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N3Ob20PhCI",
+          "expanded_url": "https://twitter.com/i/web/status/1277550950832459782",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 29 06:02:49 +0000 2020",
+    "id": 1277482637616013314,
+    "id_str": "1277482637616013314",
+    "text": "獲得Kindle畫線註記的方法，這篇中間說錯了，線上版還在、但位置換成 https://t.co/yE2mXXNVzw（會包含非購買的書）。\n\n下載使用 bookcision https://t.co/J6CjOTfJpM 可選純… https://t.co/P5ppTBjYJL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yE2mXXNVzw",
+          "expanded_url": "http://read.amazon.com/notebook",
+          "display_url": "read.amazon.com/notebook",
+          "indices": [
+            36,
+            59
+          ]
+        },
+        {
+          "url": "https://t.co/J6CjOTfJpM",
+          "expanded_url": "https://bit.ly/2BmBbLt",
+          "display_url": "bit.ly/2BmBbLt",
+          "indices": [
+            88,
+            111
+          ]
+        },
+        {
+          "url": "https://t.co/P5ppTBjYJL",
+          "expanded_url": "https://twitter.com/i/web/status/1277482637616013314",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 28 16:35:30 +0000 2020",
+    "id": 1277279468130717696,
+    "id_str": "1277279468130717696",
+    "text": "替 Obsidian 換上 Cybertron 主題，完全就是《電馭叛客2077》維基的夜城風啊～～😍 https://t.co/rpaL8mttYS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rpaL8mttYS",
+          "expanded_url": "https://twitter.com/obsdmd/status/1277273885449338881",
+          "display_url": "twitter.com/obsdmd/status/…",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1277273885449338881,
+    "quoted_status_id_str": "1277273885449338881",
+    "quoted_status": {
+      "created_at": "Sun Jun 28 16:13:19 +0000 2020",
+      "id": 1277273885449338881,
+      "id_str": "1277273885449338881",
+      "text": "💙 Futuristic \"Cybertron\" community theme by @NickMilo 💛\n\nTo use: simply search for it in \"Settings\" - \"Community th… https://t.co/YndDqo7KV3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "NickMilo",
+            "name": "Nick Milo",
+            "id": 15394487,
+            "id_str": "15394487",
+            "indices": [
+              44,
+              53
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YndDqo7KV3",
+            "expanded_url": "https://twitter.com/i/web/status/1277273885449338881",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1239876481951596545,
+        "id_str": "1239876481951596545",
+        "name": "Obsidian.md",
+        "screen_name": "obsdmd",
+        "location": "",
+        "description": "A second brain, for you, forever. Join our community! https://t.co/F9cLHhN4GR",
+        "url": "https://t.co/BoI54Hk6VB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/BoI54Hk6VB",
+                "expanded_url": "https://obsidian.md",
+                "display_url": "obsidian.md",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/F9cLHhN4GR",
+                "expanded_url": "https://obsidian.md/community",
+                "display_url": "obsidian.md/community",
+                "indices": [
+                  54,
+                  77
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3964,
+        "friends_count": 4,
+        "listed_count": 94,
+        "created_at": "Tue Mar 17 11:29:40 +0000 2020",
+        "favourites_count": 132,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 90,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1269490744609341442/MaweGLMN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269490744609341442/MaweGLMN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239876481951596545/1590695448",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 48,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 28 13:31:46 +0000 2020",
+    "id": 1277233228097613825,
+    "id_str": "1277233228097613825",
+    "text": "有人介紹了這個 #Netflix 評價網站，大概是抓 IMDb, metacritic、爛番茄、豆瓣，偶爾看到 IGN，還有得獎與提名統計，然後計算綜合評分，集思廣益的概念。\n\n避雷針，言簡意賅；網站設計不錯。\n\nawwrated… https://t.co/Br16MnNtVX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            8,
+            16
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Br16MnNtVX",
+          "expanded_url": "https://twitter.com/i/web/status/1277233228097613825",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 83,
+    "favorite_count": 211,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 28 08:37:30 +0000 2020",
     "id": 1277159173872955396,
     "id_str": "1277159173872955396",
