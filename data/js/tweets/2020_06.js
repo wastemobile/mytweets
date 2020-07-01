@@ -1,5 +1,488 @@
 Grailbird.data.tweets_2020_06 = [
   {
+    "created_at": "Tue Jun 30 16:41:48 +0000 2020",
+    "id": 1278005828847460354,
+    "id_str": "1278005828847460354",
+    "text": "在推特罵我的人是小豬。\n\n不在推特上擁有帳號的人在推特以外針對推特上的我開罵時，適用本條。 #第38條 #世界地圖炮條款\n\n（讚，完全無漏洞）",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "第38條",
+          "indices": [
+            46,
+            51
+          ]
+        },
+        {
+          "text": "世界地圖炮條款",
+          "indices": [
+            52,
+            60
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 31,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 30 16:21:09 +0000 2020",
+    "id": 1278000632310280192,
+    "id_str": "1278000632310280192",
+    "text": "RT @benedictrogers: The #NationalSecurityLaw imposed by Beijing on #HongKong is more outrageous than expected\n\nNot only does it impose life…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NationalSecurityLaw",
+          "indices": [
+            24,
+            44
+          ]
+        },
+        {
+          "text": "HongKong",
+          "indices": [
+            67,
+            76
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "benedictrogers",
+          "name": "Benedict Rogers 羅傑斯",
+          "id": 49035671,
+          "id_str": "49035671",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 30 15:48:53 +0000 2020",
+      "id": 1277992512045699072,
+      "id_str": "1277992512045699072",
+      "text": "The #NationalSecurityLaw imposed by Beijing on #HongKong is more outrageous than expected\n\nNot only does it impose… https://t.co/u4XV6VFwY0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "NationalSecurityLaw",
+            "indices": [
+              4,
+              24
+            ]
+          },
+          {
+            "text": "HongKong",
+            "indices": [
+              47,
+              56
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/u4XV6VFwY0",
+            "expanded_url": "https://twitter.com/i/web/status/1277992512045699072",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 49035671,
+        "id_str": "49035671",
+        "name": "Benedict Rogers 羅傑斯",
+        "screen_name": "benedictrogers",
+        "location": "London",
+        "description": "Human rights activist specialising in Asia, writer. CSW; Hong Kong Watch; Conservative Party Human Rights Commission; IPAC. All tweets in personal capacity.",
+        "url": "https://t.co/kjBd7LKAoh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/kjBd7LKAoh",
+                "expanded_url": "https://www.facebook.com/BenedictRogersUK/",
+                "display_url": "facebook.com/BenedictRogers…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 67604,
+        "friends_count": 6856,
+        "listed_count": 380,
+        "created_at": "Sat Jun 20 15:43:49 +0000 2009",
+        "favourites_count": 14721,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 95159,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059142196081971200/XJQX-nfb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059142196081971200/XJQX-nfb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49035671/1592947845",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4030,
+      "favorite_count": 6307,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4030,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 30 14:58:10 +0000 2020",
+    "id": 1277979750913290243,
+    "id_str": "1277979750913290243",
+    "text": "「一國兩制」時效只到今晚，明天起誰再說這個，我就翻臉了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 30 13:13:40 +0000 2020",
+    "id": 1277953448500064261,
+    "id_str": "1277953448500064261",
+    "text": "@bobtung 博客來電子書已經上了，其他應該快了吧。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bobtung",
+          "name": "Bobby",
+          "id": 122619084,
+          "id_str": "122619084",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1277952998639939586,
+    "in_reply_to_status_id_str": "1277952998639939586",
+    "in_reply_to_user_id": 122619084,
+    "in_reply_to_user_id_str": "122619084",
+    "in_reply_to_screen_name": "bobtung",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 30 13:07:02 +0000 2020",
+    "id": 1277951782002409475,
+    "id_str": "1277951782002409475",
+    "text": "Catchplay+ 7月3日上架《正常人》（Normal People）。\n\n《正常人》 https://t.co/CZda50PZS1 https://t.co/dRz3RMpwoZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CZda50PZS1",
+          "expanded_url": "https://bit.ly/2ZoLoPy",
+          "display_url": "bit.ly/2ZoLoPy",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1277951774351978501,
+          "id_str": "1277951774351978501",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbwyXi5UcAUXnIy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbwyXi5UcAUXnIy.jpg",
+          "url": "https://t.co/dRz3RMpwoZ",
+          "display_url": "pic.twitter.com/dRz3RMpwoZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1277951782002409475/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 554,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 519,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 294,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1277951774351978501,
+          "id_str": "1277951774351978501",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbwyXi5UcAUXnIy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbwyXi5UcAUXnIy.jpg",
+          "url": "https://t.co/dRz3RMpwoZ",
+          "display_url": "pic.twitter.com/dRz3RMpwoZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1277951782002409475/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 554,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 519,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 294,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1277159173872955396,
+    "in_reply_to_status_id_str": "1277159173872955396",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Tue Jun 30 04:16:07 +0000 2020",
     "id": 1277818172473663488,
     "id_str": "1277818172473663488",
