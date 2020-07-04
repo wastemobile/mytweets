@@ -1,5 +1,989 @@
 Grailbird.data.tweets_2020_07 = [
   {
+    "created_at": "Fri Jul 03 19:04:41 +0000 2020",
+    "id": 1279128948702507008,
+    "id_str": "1279128948702507008",
+    "text": "剛剛發現，原來之前夜貓時期追隨了不少原文推主，但推文在時間軸上轉瞬即逝，若非失眠還真不易見到。\n\n需要一個機器人在半夜替我讀這些英文推，整理一份摘要給我，再根據我點擊、打心、私藏的記錄，愈來愈精準。\n\n#純做夢",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "純做夢",
+          "indices": [
+            101,
+            105
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 03 16:46:06 +0000 2020",
+    "id": 1279094074264313857,
+    "id_str": "1279094074264313857",
+    "text": "@Brecht @1ImCN 那你要快點看，HBO Now 五月就不支援二、三代 Apple TV 了，HBO Go 被抱怨太兇，說會延後幾個月才終止支援，但現在七月了⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Brecht",
+          "name": "只是一隻布大叔 😈",
+          "id": 724233,
+          "id_str": "724233",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "1ImCN",
+          "name": "奔奔 2.0",
+          "id": 26411610,
+          "id_str": "26411610",
+          "indices": [
+            8,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1279087925297164290,
+    "in_reply_to_status_id_str": "1279087925297164290",
+    "in_reply_to_user_id": 724233,
+    "in_reply_to_user_id_str": "724233",
+    "in_reply_to_screen_name": "Brecht",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 03 16:29:42 +0000 2020",
+    "id": 1279089948499406850,
+    "id_str": "1279089948499406850",
+    "text": "@AlbertHuang314 @JediLin @bobtung 非常少，strange person 一次（strange其他無涉的形容用法19次），unusual x2, peculiar x2, deviant x1，其他… https://t.co/kNK22ScrQD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AlbertHuang314",
+          "name": "Albert Huang",
+          "id": 1013435676,
+          "id_str": "1013435676",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "JediLin",
+          "name": "🌈Jedi🦻",
+          "id": 7780572,
+          "id_str": "7780572",
+          "indices": [
+            16,
+            24
+          ]
+        },
+        {
+          "screen_name": "bobtung",
+          "name": "Bobby",
+          "id": 122619084,
+          "id_str": "122619084",
+          "indices": [
+            25,
+            33
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kNK22ScrQD",
+          "expanded_url": "https://twitter.com/i/web/status/1279089948499406850",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1279087624167145472,
+    "in_reply_to_status_id_str": "1279087624167145472",
+    "in_reply_to_user_id": 1013435676,
+    "in_reply_to_user_id_str": "1013435676",
+    "in_reply_to_screen_name": "AlbertHuang314",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jul 03 16:18:59 +0000 2020",
+    "id": 1279087251712929795,
+    "id_str": "1279087251712929795",
+    "text": "@JediLin @bobtung 「From a young age her life has been abnormal, she knows that.」\n\n全書只出現 abnormal 一次。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JediLin",
+          "name": "🌈Jedi🦻",
+          "id": 7780572,
+          "id_str": "7780572",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "bobtung",
+          "name": "Bobby",
+          "id": 122619084,
+          "id_str": "122619084",
+          "indices": [
+            9,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1279085402536792065,
+    "in_reply_to_status_id_str": "1279085402536792065",
+    "in_reply_to_user_id": 7780572,
+    "in_reply_to_user_id_str": "7780572",
+    "in_reply_to_screen_name": "JediLin",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jul 03 16:07:39 +0000 2020",
+    "id": 1279084396608249858,
+    "id_str": "1279084396608249858",
+    "text": "剛才那個 Thread reader 彙整對話串的頁面，我只跟隨了一個帳號 @threadreaderapp 、從對話串中任一則回個推，機器人立刻就建好頁面了，後續對話串再延長會自動更新，完全就是早期 twitter hack 的… https://t.co/YV44uDtEPD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "threadreaderapp",
+          "name": "Thread Reader App",
+          "id": 895814938995957760,
+          "id_str": "895814938995957760",
+          "indices": [
+            38,
+            54
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YV44uDtEPD",
+          "expanded_url": "https://twitter.com/i/web/status/1279084396608249858",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1279080871857799168,
+    "in_reply_to_status_id_str": "1279080871857799168",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 03 15:53:38 +0000 2020",
+    "id": 1279080871857799168,
+    "id_str": "1279080871857799168",
+    "text": "哈哈哈，酸到爆炸～\n\n「不過，鑑於推特的黑歷史，我打賭對話串革命並不會在推特自身展開，有一半的機率他們會做出蠢事、毀掉它該有的潛力，並且把任何試圖在 Twitter API 這個不安全的附件流沙上建立任何好東西的產品都餓死。」\n\n出自〈文本復興〉一文談推特對話串的段落。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1279075839217242112,
+    "in_reply_to_status_id_str": "1279075839217242112",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 03 15:33:38 +0000 2020",
+    "id": 1279075839217242112,
+    "id_str": "1279075839217242112",
+    "text": "「推特對話串」也被選入天啓四騎士之一還蠻讓我驚訝的，測試一下這個把對話串轉成長文頁面的功能，蠻好玩的。\n\nhttps://t.co/05Se2rqEjl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/05Se2rqEjl",
+          "expanded_url": "https://bit.ly/38txu2z",
+          "display_url": "bit.ly/38txu2z",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1278872840972967936,
+    "in_reply_to_status_id_str": "1278872840972967936",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 03 15:29:35 +0000 2020",
+    "id": 1279074820370530307,
+    "id_str": "1279074820370530307",
+    "text": "@threadreaderapp unroll",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "threadreaderapp",
+          "name": "Thread Reader App",
+          "id": 895814938995957760,
+          "id_str": "895814938995957760",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1279024095867203585,
+    "in_reply_to_status_id_str": "1279024095867203585",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 03 15:25:08 +0000 2020",
+    "id": 1279073697052028928,
+    "id_str": "1279073697052028928",
+    "text": "試了不少，大概就守著 Obsidian 這種 Markdown 純文字檔案方案，瑣碎的片段區塊太複雜，Roam 每個區塊還嵌了個資（電郵），應該是為了後續分享社群大計畫吧，怕。\n\n還是有人搞自架方案，最趨近的是倒數第二段提到的 A… https://t.co/BzRblIHNRM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BzRblIHNRM",
+          "expanded_url": "https://twitter.com/i/web/status/1279073697052028928",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1279070959094263813,
+    "in_reply_to_status_id_str": "1279070959094263813",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 03 15:14:15 +0000 2020",
+    "id": 1279070959094263813,
+    "id_str": "1279070959094263813",
+    "text": "雖說在 Obsidian 功能要求討論區中，觀看熱度與討論度最高的就是類似 Roam Research 的 Block reference，姑且不論能否做到，現在的雙向鏈結功能還是夠用，如這篇所說… https://t.co/7Rm1cwk9ga",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7Rm1cwk9ga",
+          "expanded_url": "https://twitter.com/i/web/status/1279070959094263813",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1279024095867203585,
+    "in_reply_to_status_id_str": "1279024095867203585",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 03 12:49:44 +0000 2020",
+    "id": 1279034592981180416,
+    "id_str": "1279034592981180416",
+    "text": "真的是《政客問答題庫101》標準範本，就已經查到是大麻膏了，還應該送到府簽收嗎？ https://t.co/f2lcl9dMp3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/f2lcl9dMp3",
+          "expanded_url": "https://twitter.com/msntaiwan/status/1279029951618936832",
+          "display_url": "twitter.com/msntaiwan/stat…",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1279029951618936832,
+    "quoted_status_id_str": "1279029951618936832",
+    "quoted_status": {
+      "created_at": "Fri Jul 03 12:31:18 +0000 2020",
+      "id": 1279029951618936832,
+      "id_str": "1279029951618936832",
+      "text": "#MSN台灣 兒子捲入大麻膏郵包案 柯建銘回應了 https://t.co/fJ3DXwbBxT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "MSN台灣",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fJ3DXwbBxT",
+            "expanded_url": "http://www.msn.com/zh-tw/news/national/%E5%85%92%E5%AD%90%E6%8D%B2%E5%85%A5%E5%A4%A7%E9%BA%BB%E8%86%8F%E9%83%B5%E5%8C%85%E6%A1%88-%E6%9F%AF%E5%BB%BA%E9%8A%98%E5%9B%9E%E6%87%89%E4%BA%86/ar-BB16i8gM?ocid=ob-tw-zhtw-608",
+            "display_url": "msn.com/zh-tw/news/nat…",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://oxfordblue.azurewebsites.net\" rel=\"nofollow\">OxfordBlue-Twitter</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 108271296,
+        "id_str": "108271296",
+        "name": "MSN 台灣",
+        "screen_name": "msntaiwan",
+        "location": "台灣",
+        "description": "MSN 台灣官方粉絲頁，為你提供全方位即時新聞、深度報導、熱門話題、好吃好玩通通有...MSN 台灣官方網站還有你最需要的Outlook、OneDrive、Skype入口，讓你茫茫網海不迷失，一站就知天下事！",
+        "url": "https://t.co/2D4kFNW2xK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2D4kFNW2xK",
+                "expanded_url": "https://www.msn.com/zh-tw/",
+                "display_url": "msn.com/zh-tw/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5083,
+        "friends_count": 19,
+        "listed_count": 96,
+        "created_at": "Mon Jan 25 11:53:50 +0000 2010",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 97804,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842669100937576448/0iZ84rj-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842669100937576448/0iZ84rj-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108271296/1489744961",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 03 12:08:02 +0000 2020",
+    "id": 1279024095867203585,
+    "id_str": "1279024095867203585",
+    "text": "槓鈴閱讀法：簡單說就是思考、參考性的重要書籍（通常是非小說），必須讀兩次。\n\n第一次快速線性讀過，通盤知曉主軸概念，畫線、標記、書籤；第二次只從標記的部分深讀，同時寫筆記、建立關聯（Obsidian/Roam）。\n\nThe Bar… https://t.co/oX2655zmz3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oX2655zmz3",
+          "expanded_url": "https://twitter.com/i/web/status/1279024095867203585",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1278358460967473152,
+    "in_reply_to_status_id_str": "1278358460967473152",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 03 08:13:41 +0000 2020",
+    "id": 1278965120140406785,
+    "id_str": "1278965120140406785",
+    "text": "RT @poooo_chu: 從昨天舉白紙的少女，到今天整片無字的連儂牆，我無法控制自己想哭的情緒，想起有人說： #信念是撕不下來的\n\n我想不起來我這輩子看過比這個更勇敢、更創意、更團結、更自嘲、更具張力與強勁的事；\n\n也想不起來我這輩子見過比這個更絕望無力的事。 https:…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "信念是撕不下來的",
+          "indices": [
+            57,
+            66
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "poooo_chu",
+          "name": "「博士，這個世界怎麼了？」🧹🤺",
+          "id": 41808461,
+          "id_str": "41808461",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 03 07:14:23 +0000 2020",
+      "id": 1278950196416663552,
+      "id_str": "1278950196416663552",
+      "text": "從昨天舉白紙的少女，到今天整片無字的連儂牆，我無法控制自己想哭的情緒，想起有人說： #信念是撕不下來的\n\n我想不起來我這輩子看過比這個更勇敢、更創意、更團結、更自嘲、更具張力與強勁的事；\n\n也想不起來我這輩子見過比這個更絕望無力的… https://t.co/paECMnOC9E",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "信念是撕不下來的",
+            "indices": [
+              42,
+              51
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/paECMnOC9E",
+            "expanded_url": "https://twitter.com/i/web/status/1278950196416663552",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 41808461,
+        "id_str": "41808461",
+        "name": "「博士，這個世界怎麼了？」🧹🤺",
+        "screen_name": "poooo_chu",
+        "location": "",
+        "description": "我不想生活在，善良被當作是弱點的世界。- Keanu Reeves",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 25517,
+        "friends_count": 1959,
+        "listed_count": 170,
+        "created_at": "Fri May 22 13:12:16 +0000 2009",
+        "favourites_count": 91220,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 19855,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3DAFCC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040639825777385472/9tCA5f37_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040639825777385472/9tCA5f37_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41808461/1469629047",
+        "profile_link_color": "5CBED6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "ACB2CD",
+        "profile_text_color": "5A5A6D",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 375,
+      "favorite_count": 1120,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 375,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jul 03 04:00:12 +0000 2020",
     "id": 1278901330292150272,
     "id_str": "1278901330292150272",
