@@ -1,5 +1,313 @@
 Grailbird.data.tweets_2020_07 = [
   {
+    "created_at": "Sun Jul 05 12:35:23 +0000 2020",
+    "id": 1279755756711981056,
+    "id_str": "1279755756711981056",
+    "text": "人造肉大爆紅、台灣也買得到！到底在夯什麼？口感跟真肉差多少？｜【Tech觀察站EP 08】 https://t.co/eO8gIIkkqe 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            73,
+            81
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eO8gIIkkqe",
+          "expanded_url": "https://youtu.be/1BQGJV_7n8k",
+          "display_url": "youtu.be/1BQGJV_7n8k",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 05 12:24:06 +0000 2020",
+    "id": 1279752915419230208,
+    "id_str": "1279752915419230208",
+    "text": "所以俄羅斯的公職其實是有任期的，嗯。 https://t.co/7pBCYvN6fm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7pBCYvN6fm",
+          "expanded_url": "https://twitter.com/purebox/status/1279750389349277697",
+          "display_url": "twitter.com/purebox/status…",
+          "indices": [
+            19,
+            42
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1279750389349277697,
+    "quoted_status_id_str": "1279750389349277697",
+    "quoted_status": {
+      "created_at": "Sun Jul 05 12:14:04 +0000 2020",
+      "id": 1279750389349277697,
+      "id_str": "1279750389349277697",
+      "text": "俄羅斯唯一「警犬柯基」服役7年將退休！　緝毒、查槍全靠小短腿 https://t.co/SS49ekXYjZ https://t.co/Y8FMhQC8as",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SS49ekXYjZ",
+            "expanded_url": "https://j.mp/2C3WjWX",
+            "display_url": "j.mp/2C3WjWX",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1279750381266890752,
+            "id_str": "1279750381266890752",
+            "indices": [
+              55,
+              78
+            ],
+            "media_url": "http://pbs.twimg.com/media/EcKWMPyVcAAH4Lj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EcKWMPyVcAAH4Lj.jpg",
+            "url": "https://t.co/Y8FMhQC8as",
+            "display_url": "pic.twitter.com/Y8FMhQC8as",
+            "expanded_url": "https://twitter.com/purebox/status/1279750389349277697/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 533,
+                "h": 450,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 533,
+                "h": 450,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 533,
+                "h": 450,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1279750381266890752,
+            "id_str": "1279750381266890752",
+            "indices": [
+              55,
+              78
+            ],
+            "media_url": "http://pbs.twimg.com/media/EcKWMPyVcAAH4Lj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EcKWMPyVcAAH4Lj.jpg",
+            "url": "https://t.co/Y8FMhQC8as",
+            "display_url": "pic.twitter.com/Y8FMhQC8as",
+            "expanded_url": "https://twitter.com/purebox/status/1279750389349277697/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 533,
+                "h": 450,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 533,
+                "h": 450,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 533,
+                "h": 450,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 10144682,
+        "id_str": "10144682",
+        "name": "盒",
+        "screen_name": "purebox",
+        "location": "台中/台南/蘇州/深圳/泰國大城",
+        "description": "🔰Pokémon GO訓練家代碼 7456 8858 2017 有加請告訴我。 不定時轉推或自己拍的貓圖。 價值投資新手學習中。 一日一集泰劇學泰語。 喜歡閱讀及摘要。",
+        "url": "https://t.co/t4fFDtUliU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/t4fFDtUliU",
+                "expanded_url": "http://www.purebox.org",
+                "display_url": "purebox.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2831,
+        "friends_count": 347,
+        "listed_count": 86,
+        "created_at": "Sun Nov 11 04:40:49 +0000 2007",
+        "favourites_count": 62974,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 109948,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "E1E8ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/865066634766983168/zQjDsOYp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/865066634766983168/zQjDsOYp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10144682/1502027424",
+        "profile_link_color": "4C99D4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jul 04 02:18:18 +0000 2020",
     "id": 1279238074359148545,
     "id_str": "1279238074359148545",
