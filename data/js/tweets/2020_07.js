@@ -1,5 +1,1067 @@
 Grailbird.data.tweets_2020_07 = [
   {
+    "created_at": "Thu Jul 09 07:00:17 +0000 2020",
+    "id": 1281120975795351553,
+    "id_str": "1281120975795351553",
+    "text": "醫院的病毒防護可以讓人更有信心一點嗎⋯⋯🤷‍♂️ https://t.co/2L8tkXoKAt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1281120964550352896,
+          "id_str": "1281120964550352896",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ecd0usZUYAAy_7W.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ecd0usZUYAAy_7W.jpg",
+          "url": "https://t.co/2L8tkXoKAt",
+          "display_url": "pic.twitter.com/2L8tkXoKAt",
+          "expanded_url": "https://twitter.com/wastemobile/status/1281120975795351553/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1281120964550352896,
+          "id_str": "1281120964550352896",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ecd0usZUYAAy_7W.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ecd0usZUYAAy_7W.jpg",
+          "url": "https://t.co/2L8tkXoKAt",
+          "display_url": "pic.twitter.com/2L8tkXoKAt",
+          "expanded_url": "https://twitter.com/wastemobile/status/1281120975795351553/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 37,
+    "favorite_count": 171,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 08 12:45:47 +0000 2020",
+    "id": 1280845535620952064,
+    "id_str": "1280845535620952064",
+    "text": "太想一個人有時會幻聽。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 08 07:53:43 +0000 2020",
+    "id": 1280772035208077313,
+    "id_str": "1280772035208077313",
+    "text": "RT @DonEvansWm: 来自中国的讽刺审查的短片。做得不错。 https://t.co/s6QHFHAVZl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DonEvansWm",
+          "name": "Don Evans",
+          "id": 435954378,
+          "id_str": "435954378",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1280770841299435520,
+          "id_str": "1280770841299435520",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280770841299435520/pu/img/uUaZVZt6_X6dg2YA.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280770841299435520/pu/img/uUaZVZt6_X6dg2YA.jpg",
+          "url": "https://t.co/s6QHFHAVZl",
+          "display_url": "pic.twitter.com/s6QHFHAVZl",
+          "expanded_url": "https://twitter.com/DonEvansWm/status/1280770898509717504/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 852,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 852,
+              "h": 480,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1280770898509717504,
+          "source_status_id_str": "1280770898509717504",
+          "source_user_id": 435954378,
+          "source_user_id_str": "435954378"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1280770841299435520,
+          "id_str": "1280770841299435520",
+          "indices": [
+            35,
+            58
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280770841299435520/pu/img/uUaZVZt6_X6dg2YA.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280770841299435520/pu/img/uUaZVZt6_X6dg2YA.jpg",
+          "url": "https://t.co/s6QHFHAVZl",
+          "display_url": "pic.twitter.com/s6QHFHAVZl",
+          "expanded_url": "https://twitter.com/DonEvansWm/status/1280770898509717504/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 852,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 852,
+              "h": 480,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1280770898509717504,
+          "source_status_id_str": "1280770898509717504",
+          "source_user_id": 435954378,
+          "source_user_id_str": "435954378",
+          "video_info": {
+            "aspect_ratio": [
+              71,
+              40
+            ],
+            "duration_millis": 105125,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1280770841299435520/pu/pl/ZlSFrktpvaJlBFMV.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1280770841299435520/pu/vid/478x270/o4BpiZMibgw-5UfE.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1280770841299435520/pu/vid/852x480/KlBWuQsiuN9QZ4Z3.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1280770841299435520/pu/vid/638x360/l4tlBZ146w5oldTc.mp4?tag=10"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 435954378,
+              "id_str": "435954378",
+              "name": "Don Evans",
+              "screen_name": "DonEvansWm",
+              "location": "everywhere",
+              "description": "#cypherpunk #formercorrespondent #psychology #author Pirate Party\nЗамужем за водкой.",
+              "url": null,
+              "entities": {
+                "description": {
+                  "urls": [
+
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 40369,
+              "friends_count": 381,
+              "listed_count": 352,
+              "created_at": "Tue Dec 13 16:37:12 +0000 2011",
+              "favourites_count": 3917,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": false,
+              "statuses_count": 55355,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "BD4FB6",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/759048817626841094/W34oO705_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/759048817626841094/W34oO705_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/435954378/1517307312",
+              "profile_link_color": "19CF86",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "A8572C",
+              "profile_text_color": "6B5255",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": true,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 08 07:49:12 +0000 2020",
+      "id": 1280770898509717504,
+      "id_str": "1280770898509717504",
+      "text": "来自中国的讽刺审查的短片。做得不错。 https://t.co/s6QHFHAVZl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1280770841299435520,
+            "id_str": "1280770841299435520",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280770841299435520/pu/img/uUaZVZt6_X6dg2YA.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280770841299435520/pu/img/uUaZVZt6_X6dg2YA.jpg",
+            "url": "https://t.co/s6QHFHAVZl",
+            "display_url": "pic.twitter.com/s6QHFHAVZl",
+            "expanded_url": "https://twitter.com/DonEvansWm/status/1280770898509717504/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 852,
+                "h": 480,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 852,
+                "h": 480,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1280770841299435520,
+            "id_str": "1280770841299435520",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280770841299435520/pu/img/uUaZVZt6_X6dg2YA.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280770841299435520/pu/img/uUaZVZt6_X6dg2YA.jpg",
+            "url": "https://t.co/s6QHFHAVZl",
+            "display_url": "pic.twitter.com/s6QHFHAVZl",
+            "expanded_url": "https://twitter.com/DonEvansWm/status/1280770898509717504/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 852,
+                "h": 480,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 852,
+                "h": 480,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                71,
+                40
+              ],
+              "duration_millis": 105125,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1280770841299435520/pu/pl/ZlSFrktpvaJlBFMV.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1280770841299435520/pu/vid/478x270/o4BpiZMibgw-5UfE.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1280770841299435520/pu/vid/852x480/KlBWuQsiuN9QZ4Z3.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1280770841299435520/pu/vid/638x360/l4tlBZ146w5oldTc.mp4?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 435954378,
+        "id_str": "435954378",
+        "name": "Don Evans",
+        "screen_name": "DonEvansWm",
+        "location": "everywhere",
+        "description": "#cypherpunk #formercorrespondent #psychology #author Pirate Party\nЗамужем за водкой.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 40369,
+        "friends_count": 381,
+        "listed_count": 352,
+        "created_at": "Tue Dec 13 16:37:12 +0000 2011",
+        "favourites_count": 3917,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 55355,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BD4FB6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/759048817626841094/W34oO705_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/759048817626841094/W34oO705_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/435954378/1517307312",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "A8572C",
+        "profile_text_color": "6B5255",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 270,
+      "favorite_count": 700,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 270,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 08 04:38:11 +0000 2020",
+    "id": 1280722827964936192,
+    "id_str": "1280722827964936192",
+    "text": "我覺得 Tower 是不錯的軟體，但每人每年 $69 美金的價格是不是有點誇張了？\n\nTower 5 https://t.co/cGC9SFdViP https://t.co/bEPSKPhfDs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cGC9SFdViP",
+          "expanded_url": "https://bit.ly/2zfKtHb",
+          "display_url": "bit.ly/2zfKtHb",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1280722811569373184,
+          "id_str": "1280722811569373184",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/EcYKnI9VAAAUsdK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EcYKnI9VAAAUsdK.jpg",
+          "url": "https://t.co/bEPSKPhfDs",
+          "display_url": "pic.twitter.com/bEPSKPhfDs",
+          "expanded_url": "https://twitter.com/wastemobile/status/1280722827964936192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 1739,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 577,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1019,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1280722811569373184,
+          "id_str": "1280722811569373184",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/EcYKnI9VAAAUsdK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EcYKnI9VAAAUsdK.jpg",
+          "url": "https://t.co/bEPSKPhfDs",
+          "display_url": "pic.twitter.com/bEPSKPhfDs",
+          "expanded_url": "https://twitter.com/wastemobile/status/1280722827964936192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 1739,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 577,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1019,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 08 02:49:49 +0000 2020",
+    "id": 1280695557363654656,
+    "id_str": "1280695557363654656",
+    "text": "看過不少讓純寫作者（非技術開發人員）使用 Git 的方法、流程設計、或是工具軟體，似乎都不算有成功的範例。\n\nThe Ultimate Guide to Collaborative Writing in Ulysses… https://t.co/Zqmc2SHce2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Zqmc2SHce2",
+          "expanded_url": "https://twitter.com/i/web/status/1280695557363654656",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 07 06:15:06 +0000 2020",
+    "id": 1280384828236394497,
+    "id_str": "1280384828236394497",
+    "text": "1988年使用麥金塔HyperCard開發的《全球型錄》（Whole Earth Catalog）光碟版，在 Internet Archive 網站上重現！模擬器會下載430MB的光碟映像到瀏覽器。\n\nWeb 是1989年才出現的… https://t.co/QT7IyglixK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QT7IyglixK",
+          "expanded_url": "https://twitter.com/i/web/status/1280384828236394497",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1280279762691293185,
+    "quoted_status_id_str": "1280279762691293185",
+    "quoted_status": {
+      "created_at": "Mon Jul 06 23:17:36 +0000 2020",
+      "id": 1280279762691293185,
+      "id_str": "1280279762691293185",
+      "text": "Some time ago, there was a thread with Kevin Kelly talking about how he had the Electronic Whole Earth Catalog lyin… https://t.co/Ee4aTHXYTp",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Ee4aTHXYTp",
+            "expanded_url": "https://twitter.com/i/web/status/1280279762691293185",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1465481,
+        "id_str": "1465481",
+        "name": "Jason Scott",
+        "screen_name": "textfiles",
+        "location": "The 1980s",
+        "description": "Proprietor of https://t.co/45hn0aMmeO, historian, filmmaker, archivist, famous cat maintenance staff. Works on/for the Internet Archive. Rank Amateur.",
+        "url": "https://t.co/1f0N0J6W33",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/1f0N0J6W33",
+                "expanded_url": "http://ascii.textfiles.com",
+                "display_url": "ascii.textfiles.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/45hn0aMmeO",
+                "expanded_url": "http://TEXTFILES.COM",
+                "display_url": "TEXTFILES.COM",
+                "indices": [
+                  14,
+                  37
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 36510,
+        "friends_count": 756,
+        "listed_count": 1173,
+        "created_at": "Mon Mar 19 02:55:22 +0000 2007",
+        "favourites_count": 1765,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 99221,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1261898924576686080/NUTg5qVj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1261898924576686080/NUTg5qVj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465481/1398239070",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 298,
+      "favorite_count": 952,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 16,
+    "favorite_count": 28,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 07 04:52:58 +0000 2020",
+    "id": 1280364158861496321,
+    "id_str": "1280364158861496321",
+    "text": "Roam三大核心基礎對應：\n\n1. 雙向鏈結（雙方括號），參照內部文件、多數軟體均已實現。\n\n2. 嵌入包含（transclusion，雙花括號），Obsidian 目前僅用側邊面板實現，如 iA {{TOC}} 做進預覽應該不難… https://t.co/cGYK5iAMNm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cGYK5iAMNm",
+          "expanded_url": "https://twitter.com/i/web/status/1280364158861496321",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1280164848777572353,
+    "in_reply_to_status_id_str": "1280164848777572353",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 07 04:42:19 +0000 2020",
+    "id": 1280361478843850752,
+    "id_str": "1280361478843850752",
+    "text": "@eternallogger 還是跟 Roam 有點差距，只是個人覺得可用。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "eternallogger",
+          "name": "George Huang",
+          "id": 737976592660455427,
+          "id_str": "737976592660455427",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1280352768364957697,
+    "in_reply_to_status_id_str": "1280352768364957697",
+    "in_reply_to_user_id": 737976592660455427,
+    "in_reply_to_user_id_str": "737976592660455427",
+    "in_reply_to_screen_name": "eternallogger",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jul 07 01:28:58 +0000 2020",
     "id": 1280312820714749952,
     "id_str": "1280312820714749952",
