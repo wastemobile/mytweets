@@ -1,5 +1,1059 @@
 Grailbird.data.tweets_2020_07 = [
   {
+    "created_at": "Thu Jul 16 03:56:07 +0000 2020",
+    "id": 1283611345208762368,
+    "id_str": "1283611345208762368",
+    "text": "一切都是套路，但臨演串場收官都表現得不錯，這也算是本事吧。 https://t.co/Fp7NybIm9U",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Fp7NybIm9U",
+          "expanded_url": "https://twitter.com/weihsi/status/1281537114488754176",
+          "display_url": "twitter.com/weihsi/status/…",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1281537114488754176,
+    "quoted_status_id_str": "1281537114488754176",
+    "quoted_status": {
+      "created_at": "Fri Jul 10 10:33:52 +0000 2020",
+      "id": 1281537114488754176,
+      "id_str": "1281537114488754176",
+      "text": "2019年12月時，前立委邱毅曾經拿出個人手機，稱韓國瑜有傳訊給他，但畫面截圖被博恩夜夜秀放大後，找出韓國瑜電話並在節目上直接打給韓國瑜本人，邀請韓上節目。\n\n監察院公布收支明細，韓陣營共有兩筆支出，11月25日已支付9.45萬元… https://t.co/H5rlKS5jvJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/H5rlKS5jvJ",
+            "expanded_url": "https://twitter.com/i/web/status/1281537114488754176",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7343092,
+        "id_str": "7343092",
+        "name": "weihsi",
+        "screen_name": "weihsi",
+        "location": "沒有芋頭與肉桂的事務所",
+        "description": "辯護士 / 執業文字 / 庭旅食記 / 興趣斜槓 / 台灣文史 / 餐酒館 / 選物店 / #歡迎私訊洽詢合作",
+        "url": "https://t.co/tvhGcPFvTa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/tvhGcPFvTa",
+                "expanded_url": "https://peing.net/zh-TW/weihsi",
+                "display_url": "peing.net/zh-TW/weihsi",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 433,
+        "friends_count": 380,
+        "listed_count": 16,
+        "created_at": "Mon Jul 09 09:00:15 +0000 2007",
+        "favourites_count": 79748,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 57128,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1042340552971173888/HwGUzPWX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042340552971173888/HwGUzPWX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7343092/1586860129",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 16 03:02:31 +0000 2020",
+    "id": 1283597855668629505,
+    "id_str": "1283597855668629505",
+    "text": "「根據eMarketer的數據，約有55%書籍經由網上賣出，其中3分之2由亞馬遜銷售。」\n\n「有望在今年獲得亞馬遜2%份額，是最初目標的兩倍。現時每天可帶來25萬美元收入，單日甚至可達到50萬。全美大約2,500家獨立書店中，有7… https://t.co/ooLAzetkUF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ooLAzetkUF",
+          "expanded_url": "https://twitter.com/i/web/status/1283597855668629505",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1254959168332562432,
+    "in_reply_to_status_id_str": "1254959168332562432",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 15 13:54:47 +0000 2020",
+    "id": 1283399616881295361,
+    "id_str": "1283399616881295361",
+    "text": "就是 Kindle Paperwhite 2 等級（212 ppi），有沒有差別？一點點；我的 PW2 也還在用著。\n\n反正電子書就是大眾平裝口袋書嘍（Mass Market Papaerback），便宜入手就會多看多買，不用想太… https://t.co/LB3eQZHL3R",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LB3eQZHL3R",
+          "expanded_url": "https://twitter.com/i/web/status/1283399616881295361",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1283353233839161344,
+    "quoted_status_id_str": "1283353233839161344",
+    "quoted_status": {
+      "created_at": "Wed Jul 15 10:50:29 +0000 2020",
+      "id": 1283353233839161344,
+      "id_str": "1283353233839161344",
+      "text": "Kobo 居然推出一款 $2999 的閱讀器! https://t.co/Z6q7ly6Htb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1283353224091627522,
+            "id_str": "1283353224091627522",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ec9i9TNVcAI-w99.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ec9i9TNVcAI-w99.jpg",
+            "url": "https://t.co/Z6q7ly6Htb",
+            "display_url": "pic.twitter.com/Z6q7ly6Htb",
+            "expanded_url": "https://twitter.com/tzangms/status/1283353233839161344/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1283353224091627522,
+            "id_str": "1283353224091627522",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ec9i9TNVcAI-w99.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ec9i9TNVcAI-w99.jpg",
+            "url": "https://t.co/Z6q7ly6Htb",
+            "display_url": "pic.twitter.com/Z6q7ly6Htb",
+            "expanded_url": "https://twitter.com/tzangms/status/1283353233839161344/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 690663,
+        "id_str": "690663",
+        "name": "海總理",
+        "screen_name": "tzangms",
+        "location": "Taiwan",
+        "description": "衝動型購物",
+        "url": "https://t.co/v5iUzVo0MY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/v5iUzVo0MY",
+                "expanded_url": "http://tzangms.com",
+                "display_url": "tzangms.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 11094,
+        "friends_count": 824,
+        "listed_count": 207,
+        "created_at": "Wed Jan 24 01:55:13 +0000 2007",
+        "favourites_count": 15723,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 143552,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1235063979854057472/xdfrqS5u_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235063979854057472/xdfrqS5u_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/690663/1540657263",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 65,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 15 13:41:30 +0000 2020",
+    "id": 1283396274440400896,
+    "id_str": "1283396274440400896",
+    "text": "RT @jimmy_su: 香港未來就會成為 VPN 公司的照妖鏡了 🧐",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jimmy_su",
+          "name": "Jimmy Su",
+          "id": 1982151,
+          "id_str": "1982151",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 15 13:30:16 +0000 2020",
+      "id": 1283393445478821889,
+      "id_str": "1283393445478821889",
+      "text": "香港未來就會成為 VPN 公司的照妖鏡了 🧐 https://t.co/4PNXL1q40V",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4PNXL1q40V",
+            "expanded_url": "https://twitter.com/charlesmok/status/1283321424040484864",
+            "display_url": "twitter.com/charlesmok/sta…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1982151,
+        "id_str": "1982151",
+        "name": "Jimmy Su",
+        "screen_name": "jimmy_su",
+        "location": "Taipei, Taiwan",
+        "description": "a dumb hipster",
+        "url": "https://t.co/akRrporIl9",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/akRrporIl9",
+                "expanded_url": "https://medium.com/@jimmy_su",
+                "display_url": "medium.com/@jimmy_su",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13940,
+        "friends_count": 834,
+        "listed_count": 190,
+        "created_at": "Fri Mar 23 05:47:02 +0000 2007",
+        "favourites_count": 19292,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 60064,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3D3D3D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/808166830955081728/2Bu-tv4T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/808166830955081728/2Bu-tv4T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982151/1413605285",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "3D3D3D",
+        "profile_sidebar_fill_color": "383838",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1283321424040484864,
+      "quoted_status_id_str": "1283321424040484864",
+      "quoted_status": {
+        "created_at": "Wed Jul 15 08:44:05 +0000 2020",
+        "id": 1283321424040484864,
+        "id_str": "1283321424040484864",
+        "text": "TunnelBear Removes Hong Kong Servers to Safeguard VPN Network Infrastructure\nhttps://t.co/dMCCaGmWSd",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/dMCCaGmWSd",
+              "expanded_url": "https://www.tunnelbear.com/blog/tunnelbear-removes-hong-kong-servers-to-safeguard-vpn-network-infrastructure/",
+              "display_url": "tunnelbear.com/blog/tunnelbea…",
+              "indices": [
+                77,
+                100
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1283321389710061568,
+        "in_reply_to_status_id_str": "1283321389710061568",
+        "in_reply_to_user_id": 11302532,
+        "in_reply_to_user_id_str": "11302532",
+        "in_reply_to_screen_name": "charlesmok",
+        "user": {
+          "id": 11302532,
+          "id_str": "11302532",
+          "name": "Charles Mok 莫乃光",
+          "screen_name": "charlesmok",
+          "location": "Hong Kong",
+          "description": "Hong Kong's IT Legislator, ICT entrepreneur, founder of Internet Society HK and Professional Commons -- uphold rule of law, democracy, and Internet freedom.",
+          "url": "http://t.co/4Z5wUFdH4L",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/4Z5wUFdH4L",
+                  "expanded_url": "http://www.charlesmok.hk",
+                  "display_url": "charlesmok.hk",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 27437,
+          "friends_count": 2839,
+          "listed_count": 487,
+          "created_at": "Tue Dec 18 17:37:03 +0000 2007",
+          "favourites_count": 76,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 48556,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "BADFCD",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/922391551996600320/CCXBgpBx_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/922391551996600320/CCXBgpBx_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/11302532/1593530365",
+          "profile_link_color": "FF0000",
+          "profile_sidebar_border_color": "F2E195",
+          "profile_sidebar_fill_color": "FFF7CC",
+          "profile_text_color": "0C3E53",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 31,
+        "favorite_count": 34,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 13,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1283321424040484864,
+    "quoted_status_id_str": "1283321424040484864",
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 15 12:26:32 +0000 2020",
+    "id": 1283377406636511234,
+    "id_str": "1283377406636511234",
+    "text": "看了一下 iReader 彩色電子墨水，與 Kindle PW4 的並列比較。\n\n要看彩色我選擇買 iPad。\n\nColor e-Ink vs Amazon Kindle Paperwhite 4 https://t.co/HabNJt8X8a 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            126,
+            134
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HabNJt8X8a",
+          "expanded_url": "https://youtu.be/fqSdag_YuzQ",
+          "display_url": "youtu.be/fqSdag_YuzQ",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 15 09:11:32 +0000 2020",
+    "id": 1283328334470889472,
+    "id_str": "1283328334470889472",
+    "text": "我猜病毒防護健保也不給付。 #七日後 https://t.co/klUYP1ml05",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "七日後",
+          "indices": [
+            14,
+            18
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1283328324844969984,
+          "id_str": "1283328324844969984",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ec9MT-SU4AAea4Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ec9MT-SU4AAea4Y.jpg",
+          "url": "https://t.co/klUYP1ml05",
+          "display_url": "pic.twitter.com/klUYP1ml05",
+          "expanded_url": "https://twitter.com/wastemobile/status/1283328334470889472/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1283328324844969984,
+          "id_str": "1283328324844969984",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ec9MT-SU4AAea4Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ec9MT-SU4AAea4Y.jpg",
+          "url": "https://t.co/klUYP1ml05",
+          "display_url": "pic.twitter.com/klUYP1ml05",
+          "expanded_url": "https://twitter.com/wastemobile/status/1283328334470889472/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1283321413378531328,
+    "in_reply_to_status_id_str": "1283321413378531328",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 15 08:44:02 +0000 2020",
+    "id": 1283321413378531328,
+    "id_str": "1283321413378531328",
+    "text": "所以⋯⋯現在看電視是「自費」項目？🤔️ https://t.co/1FI6ywL311",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1283321400552390656,
+          "id_str": "1283321400552390656",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ec9GA7SVAAAqz9S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ec9GA7SVAAAqz9S.jpg",
+          "url": "https://t.co/1FI6ywL311",
+          "display_url": "pic.twitter.com/1FI6ywL311",
+          "expanded_url": "https://twitter.com/wastemobile/status/1283321413378531328/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1283321400552390656,
+          "id_str": "1283321400552390656",
+          "indices": [
+            20,
+            43
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ec9GA7SVAAAqz9S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ec9GA7SVAAAqz9S.jpg",
+          "url": "https://t.co/1FI6ywL311",
+          "display_url": "pic.twitter.com/1FI6ywL311",
+          "expanded_url": "https://twitter.com/wastemobile/status/1283321413378531328/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1281120975795351553,
+    "in_reply_to_status_id_str": "1281120975795351553",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jul 15 05:12:21 +0000 2020",
     "id": 1283268140437172231,
     "id_str": "1283268140437172231",
