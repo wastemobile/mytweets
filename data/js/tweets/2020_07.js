@@ -1,5 +1,536 @@
 Grailbird.data.tweets_2020_07 = [
   {
+    "created_at": "Thu Jul 23 12:06:23 +0000 2020",
+    "id": 1286271437641101312,
+    "id_str": "1286271437641101312",
+    "text": "黑人牙膏廣告？ https://t.co/bjFpYLwyCi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bjFpYLwyCi",
+          "expanded_url": "https://twitter.com/arataito/status/1286124946280734721",
+          "display_url": "twitter.com/arataito/statu…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1286124946280734721,
+    "quoted_status_id_str": "1286124946280734721",
+    "quoted_status": {
+      "created_at": "Thu Jul 23 02:24:16 +0000 2020",
+      "id": 1286124946280734721,
+      "id_str": "1286124946280734721",
+      "text": "なんだこのCM https://t.co/FhwMdU56Xq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1286124922331250688,
+            "id_str": "1286124922331250688",
+            "indices": [
+              8,
+              31
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286124922331250688/pu/img/T11BzWkyQEUoIXX5.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286124922331250688/pu/img/T11BzWkyQEUoIXX5.jpg",
+            "url": "https://t.co/FhwMdU56Xq",
+            "display_url": "pic.twitter.com/FhwMdU56Xq",
+            "expanded_url": "https://twitter.com/arataito/status/1286124946280734721/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 462,
+                "h": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 462,
+                "h": 340,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 462,
+                "h": 340,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1286124922331250688,
+            "id_str": "1286124922331250688",
+            "indices": [
+              8,
+              31
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286124922331250688/pu/img/T11BzWkyQEUoIXX5.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286124922331250688/pu/img/T11BzWkyQEUoIXX5.jpg",
+            "url": "https://t.co/FhwMdU56Xq",
+            "display_url": "pic.twitter.com/FhwMdU56Xq",
+            "expanded_url": "https://twitter.com/arataito/status/1286124946280734721/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 462,
+                "h": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 462,
+                "h": 340,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 462,
+                "h": 340,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                231,
+                170
+              ],
+              "duration_millis": 59667,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286124922331250688/pu/vid/462x340/KGqKWNBHZkvusiNI.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1286124922331250688/pu/pl/LJWKJaCkGNmZMRNR.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286124922331250688/pu/vid/366x270/KSmG9xzzWP3x4F7-.mp4?tag=10"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 39910001,
+        "id_str": "39910001",
+        "name": "🍵",
+        "screen_name": "arataito",
+        "location": "屋内",
+        "description": "厨房を通り抜けて逃げるシーン愛好家",
+        "url": "https://t.co/LCtPYIXGMb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LCtPYIXGMb",
+                "expanded_url": "http://amzn.asia/eRqOoZt",
+                "display_url": "amzn.asia/eRqOoZt",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1462,
+        "friends_count": 638,
+        "listed_count": 52,
+        "created_at": "Thu May 14 02:48:46 +0000 2009",
+        "favourites_count": 48105,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37867,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098905530901229568/R_RJ0iQv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098905530901229568/R_RJ0iQv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39910001/1549684119",
+        "profile_link_color": "FF6912",
+        "profile_sidebar_border_color": "B87018",
+        "profile_sidebar_fill_color": "FFA536",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8296,
+      "favorite_count": 23622,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 23 02:26:49 +0000 2020",
+    "id": 1286125587866640386,
+    "id_str": "1286125587866640386",
+    "text": "詹宏志先生2015年就說過：20年網路發展繳白卷，資策會應該解散。 https://t.co/22asOco4nw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/22asOco4nw",
+          "expanded_url": "https://twitter.com/tw_nextmedia/status/1286121268509474819",
+          "display_url": "twitter.com/tw_nextmedia/s…",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1286121268509474819,
+    "quoted_status_id_str": "1286121268509474819",
+    "quoted_status": {
+      "created_at": "Thu Jul 23 02:09:40 +0000 2020",
+      "id": 1286121268509474819,
+      "id_str": "1286121268509474819",
+      "text": "【實驗失敗1】首例！資策會辦學無預警收攤，母為子掙得「延退」1年\n#蘋果新聞網 #appledailytw #appledaily #資策會 #運算思維實驗教育 #實驗教育 #運思 \n→→… https://t.co/DetyXQgewJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "蘋果新聞網",
+            "indices": [
+              33,
+              39
+            ]
+          },
+          {
+            "text": "appledailytw",
+            "indices": [
+              40,
+              53
+            ]
+          },
+          {
+            "text": "appledaily",
+            "indices": [
+              54,
+              65
+            ]
+          },
+          {
+            "text": "資策會",
+            "indices": [
+              66,
+              70
+            ]
+          },
+          {
+            "text": "運算思維實驗教育",
+            "indices": [
+              71,
+              80
+            ]
+          },
+          {
+            "text": "實驗教育",
+            "indices": [
+              81,
+              86
+            ]
+          },
+          {
+            "text": "運思",
+            "indices": [
+              87,
+              90
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DetyXQgewJ",
+            "expanded_url": "https://twitter.com/i/web/status/1286121268509474819",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 40813384,
+        "id_str": "40813384",
+        "name": "蘋果新聞網 Taiwan News",
+        "screen_name": "TW_nextmedia",
+        "location": "Taipei, Taiwan ROC",
+        "description": "為台灣本地和世界華人帶來最新的新聞娛樂資訊！Apple Daily is the largest news media group in Taiwan with live streaming, breaking news and animated news for local and global readers.",
+        "url": "https://t.co/atmHp4v8k7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/atmHp4v8k7",
+                "expanded_url": "https://tw.appledaily.com/",
+                "display_url": "tw.appledaily.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 991912,
+        "friends_count": 200,
+        "listed_count": 2332,
+        "created_at": "Mon May 18 04:28:58 +0000 2009",
+        "favourites_count": 4371,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 123286,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40813384/1564537596",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 23 02:17:19 +0000 2020",
+    "id": 1286123194261225473,
+    "id_str": "1286123194261225473",
+    "text": "真想要有第二大腦、個人知識庫，自然語言理解與解析應該是必要的，就找影片理解一下最近討論度蠻高的 Loki，第一支影片看到 4:20 就有點信心動搖了⋯⋯\n\n「我想換5萬塊美金，要多少台幣？」這句中的5萬塊美金是「目標貨幣金額」啦，… https://t.co/o84t5HiQQb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/o84t5HiQQb",
+          "expanded_url": "https://twitter.com/i/web/status/1286123194261225473",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jul 22 13:33:34 +0000 2020",
     "id": 1285930990888562688,
     "id_str": "1285930990888562688",
