@@ -1,5 +1,326 @@
 Grailbird.data.tweets_2020_07 = [
   {
+    "created_at": "Sat Jul 25 01:35:41 +0000 2020",
+    "id": 1286837492629385217,
+    "id_str": "1286837492629385217",
+    "text": "該遊戲的創辦人布德金，專攻心理學但後來被學校開除，發明遊戲的目的是宣稱要「清洗」對社會無用的人，目前已經被警方繩之以法，但該洗腦遊戲卻在流傳⋯⋯\n\n第一次聽到，慎防。\n\n「藍鯨遊戲」入侵花蓮！引導青少年輕生，起源手法大公開… https://t.co/KmwDvB0xNc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KmwDvB0xNc",
+          "expanded_url": "https://twitter.com/i/web/status/1286837492629385217",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 24 13:35:58 +0000 2020",
+    "id": 1286656373132910593,
+    "id_str": "1286656373132910593",
+    "text": "Twitter, Telegram, Line or iMessage?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jul 24 12:01:57 +0000 2020",
+    "id": 1286632709641527299,
+    "id_str": "1286632709641527299",
+    "text": "原來早就有人拿 AMD 3990X 64核怪獸裝了黑蘋果啊～\n\nWorld’s Fastest Hackintosh Ever! 32/64 Core - Mac Pro Killer! https://t.co/Lt9wrYVnx9 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            121,
+            129
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Lt9wrYVnx9",
+          "expanded_url": "https://youtu.be/A-1aFfToXzk",
+          "display_url": "youtu.be/A-1aFfToXzk",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 24 05:09:29 +0000 2020",
+    "id": 1286528910155366401,
+    "id_str": "1286528910155366401",
+    "text": "Twitter帳號關閉（暫停）30天就會被永久刪除耶，要記得重啟。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 24 04:59:45 +0000 2020",
+    "id": 1286526461420040192,
+    "id_str": "1286526461420040192",
+    "text": "推薦一個極佳的小工具Boop，一直很希望每天用的Tot有一個頁籤內建這功能。它可以對隨手貼上的一串內容，做文字處理、編解碼、格式轉換⋯⋯，強者還可以自己寫腳本無限擴充。\n\n可以從MAS免費下載，也能從GitHub下載開源版。… https://t.co/k8Y3ceJZmq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/k8Y3ceJZmq",
+          "expanded_url": "https://twitter.com/i/web/status/1286526461420040192",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 39,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 24 02:20:02 +0000 2020",
+    "id": 1286486266989568000,
+    "id_str": "1286486266989568000",
+    "text": "從路由器管理後台檢查、出現的都是無可用更新，今天發現 Netgear 網站其實已經釋出補丁，或許是還掛著beta才檢查不出，趕緊手動安裝了。\n\nR8000 Firmware Version 1.0.4.56 - Hot Fix https://t.co/wtEImpVeO8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wtEImpVeO8",
+          "expanded_url": "https://bit.ly/30IdMMZ",
+          "display_url": "bit.ly/30IdMMZ",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1275798972007723008,
+    "in_reply_to_status_id_str": "1275798972007723008",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jul 23 12:06:23 +0000 2020",
     "id": 1286271437641101312,
     "id_str": "1286271437641101312",
