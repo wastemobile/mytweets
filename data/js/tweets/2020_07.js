@@ -1,5 +1,447 @@
 Grailbird.data.tweets_2020_07 = [
   {
+    "created_at": "Fri Jul 31 01:26:06 +0000 2020",
+    "id": 1289009410816188416,
+    "id_str": "1289009410816188416",
+    "text": "雖然知道日文「弊社」就是謙詞，與我們常用的敝人、敝司一樣，但每次看到都還是忍不住覺得⋯⋯\n\n「你到底在心虛什麼？快把弊案給我交代清楚！」",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 30 23:17:23 +0000 2020",
+    "id": 1288977016478289921,
+    "id_str": "1288977016478289921",
+    "text": "在手足無措的懸崖邊，腦中會出現新世紀福音戰士簡報，我也是很驚訝😦 https://t.co/amdGIRG4fI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1288977009322766339,
+          "id_str": "1288977009322766339",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/EeNdwrxUMAMeG8a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EeNdwrxUMAMeG8a.jpg",
+          "url": "https://t.co/amdGIRG4fI",
+          "display_url": "pic.twitter.com/amdGIRG4fI",
+          "expanded_url": "https://twitter.com/wastemobile/status/1288977016478289921/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 644,
+              "h": 362,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 644,
+              "h": 362,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 644,
+              "h": 362,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1288977009322766339,
+          "id_str": "1288977009322766339",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/EeNdwrxUMAMeG8a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EeNdwrxUMAMeG8a.jpg",
+          "url": "https://t.co/amdGIRG4fI",
+          "display_url": "pic.twitter.com/amdGIRG4fI",
+          "expanded_url": "https://twitter.com/wastemobile/status/1288977016478289921/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 644,
+              "h": 362,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 644,
+              "h": 362,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 644,
+              "h": 362,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 30 07:28:08 +0000 2020",
+    "id": 1288738131768827904,
+    "id_str": "1288738131768827904",
+    "text": "看到這則新聞之前，剛看到特斯拉 Model X 車主抱怨車上系統常當機，尤其使用內建音樂時特別頻繁，行進重啟過程中不能打方向燈什麼的。\n\n看得很遠沒錯，車上系統拜託也穩當些。\n\n人類的時代結束了？馬斯克警告：AI恐在5年內超越人類… https://t.co/2nOCCiimdC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2nOCCiimdC",
+          "expanded_url": "https://twitter.com/i/web/status/1288738131768827904",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 30 07:21:43 +0000 2020",
+    "id": 1288736517284745222,
+    "id_str": "1288736517284745222",
+    "text": "RT @strainerjp: 電子書籍「イーブックイニシアティブジャパン」1Q21決算\n\n・巣篭もり追い風で電子書籍の売上高52.9億円(+47.4%)\n・紙書籍注文ニーズ高まりクロスメディアも売上高17.7億円(+64.5%)\n・GWに大型キャンペーン実施\n\n売上高：70.…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "strainerjp",
+          "name": "Strainer",
+          "id": 804273411325202432,
+          "id_str": "804273411325202432",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 06:00:52 +0000 2020",
+      "id": 1288716167432077315,
+      "id_str": "1288716167432077315",
+      "text": "電子書籍「イーブックイニシアティブジャパン」1Q21決算\n\n・巣篭もり追い風で電子書籍の売上高52.9億円(+47.4%)\n・紙書籍注文ニーズ高まりクロスメディアも売上高17.7億円(+64.5%)\n・GWに大型キャンペーン実施… https://t.co/fqX2WKk4Nt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fqX2WKk4Nt",
+            "expanded_url": "https://twitter.com/i/web/status/1288716167432077315",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 804273411325202432,
+        "id_str": "804273411325202432",
+        "name": "Strainer",
+        "screen_name": "strainerjp",
+        "location": "",
+        "description": "Strainer（ストレイナー）は上場企業の決算を中心に、要点をシンプルに解説する経済メディアです。このアカウントでは、国内外の経済ニュースをウォッチ、注目の話題を要約してお届けします。",
+        "url": "https://t.co/Ig5F0S9JES",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Ig5F0S9JES",
+                "expanded_url": "https://strainer.jp/",
+                "display_url": "strainer.jp",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 67276,
+        "friends_count": 15,
+        "listed_count": 659,
+        "created_at": "Thu Dec 01 10:38:18 +0000 2016",
+        "favourites_count": 9728,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11858,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1235039057429688325/tFrEChx9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235039057429688325/tFrEChx9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/804273411325202432/1560134345",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 18,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Jul 30 04:25:25 +0000 2020",
+    "id": 1288692149026865152,
+    "id_str": "1288692149026865152",
+    "text": "我和妳，\n像極了愛情。\n\n#比悲傷更悲傷的故事",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "比悲傷更悲傷的故事",
+          "indices": [
+            13,
+            23
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jul 30 01:39:37 +0000 2020",
     "id": 1288650423880962050,
     "id_str": "1288650423880962050",
