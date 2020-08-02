@@ -1,5 +1,380 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Sun Aug 02 21:58:56 +0000 2020",
+    "id": 1290044437997871104,
+    "id_str": "1290044437997871104",
+    "text": "這雨下得讓人心焦。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 02 03:42:14 +0000 2020",
+    "id": 1289768445525897216,
+    "id_str": "1289768445525897216",
+    "text": "RT @AndrewDev8383: 網路上的這圖好棒 https://t.co/TDD2z1zWpl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AndrewDev8383",
+          "name": "Andrew 💉",
+          "id": 2581058881,
+          "id_str": "2581058881",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1289536384168914944,
+          "id_str": "1289536384168914944",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/EeVagldUcAAb2wD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EeVagldUcAAb2wD.jpg",
+          "url": "https://t.co/TDD2z1zWpl",
+          "display_url": "pic.twitter.com/TDD2z1zWpl",
+          "expanded_url": "https://twitter.com/AndrewDev8383/status/1289536391664173059/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 391,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 618,
+              "h": 1074,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 618,
+              "h": 1074,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1289536391664173059,
+          "source_status_id_str": "1289536391664173059",
+          "source_user_id": 2581058881,
+          "source_user_id_str": "2581058881"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1289536384168914944,
+          "id_str": "1289536384168914944",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/EeVagldUcAAb2wD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EeVagldUcAAb2wD.jpg",
+          "url": "https://t.co/TDD2z1zWpl",
+          "display_url": "pic.twitter.com/TDD2z1zWpl",
+          "expanded_url": "https://twitter.com/AndrewDev8383/status/1289536391664173059/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 391,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 618,
+              "h": 1074,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 618,
+              "h": 1074,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1289536391664173059,
+          "source_status_id_str": "1289536391664173059",
+          "source_user_id": 2581058881,
+          "source_user_id_str": "2581058881"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Aug 01 12:20:08 +0000 2020",
+      "id": 1289536391664173059,
+      "id_str": "1289536391664173059",
+      "text": "網路上的這圖好棒 https://t.co/TDD2z1zWpl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1289536384168914944,
+            "id_str": "1289536384168914944",
+            "indices": [
+              9,
+              32
+            ],
+            "media_url": "http://pbs.twimg.com/media/EeVagldUcAAb2wD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EeVagldUcAAb2wD.jpg",
+            "url": "https://t.co/TDD2z1zWpl",
+            "display_url": "pic.twitter.com/TDD2z1zWpl",
+            "expanded_url": "https://twitter.com/AndrewDev8383/status/1289536391664173059/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 391,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 618,
+                "h": 1074,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 618,
+                "h": 1074,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1289536384168914944,
+            "id_str": "1289536384168914944",
+            "indices": [
+              9,
+              32
+            ],
+            "media_url": "http://pbs.twimg.com/media/EeVagldUcAAb2wD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EeVagldUcAAb2wD.jpg",
+            "url": "https://t.co/TDD2z1zWpl",
+            "display_url": "pic.twitter.com/TDD2z1zWpl",
+            "expanded_url": "https://twitter.com/AndrewDev8383/status/1289536391664173059/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 391,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 618,
+                "h": 1074,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 618,
+                "h": 1074,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2581058881,
+        "id_str": "2581058881",
+        "name": "Andrew 💉",
+        "screen_name": "AndrewDev8383",
+        "location": "Taiwan",
+        "description": "做你自己便好，如初那樣。\n\n歡迎隨意 fo、RT 但讀了不喜歡請不要勉強自己，\n我發推不是為了讓你看爽而發。 \n\nWindows Insider MVP \n提問箱 https://t.co/FREGygbv8F\n#MicrosoftMVP #WIMVP\n\n小帳 @Andrew8383_EX",
+        "url": "https://t.co/FD4uCI4f9W",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FD4uCI4f9W",
+                "expanded_url": "https://isite.tw/",
+                "display_url": "isite.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/FREGygbv8F",
+                "expanded_url": "https://peing.net/zh-TW/andrewdev8383",
+                "display_url": "peing.net/zh-TW/andrewde…",
+                "indices": [
+                  82,
+                  105
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2955,
+        "friends_count": 396,
+        "listed_count": 19,
+        "created_at": "Sat Jun 21 21:09:54 +0000 2014",
+        "favourites_count": 6466,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14821,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/480458421666185216/vnw52dUV_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/480458421666185216/vnw52dUV_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2581058881/1581117624",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 595,
+      "favorite_count": 1601,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 595,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Aug 01 14:44:06 +0000 2020",
     "id": 1289572619713310721,
     "id_str": "1289572619713310721",
