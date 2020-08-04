@@ -1,5 +1,274 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Tue Aug 04 23:04:59 +0000 2020",
+    "id": 1290785836431077377,
+    "id_str": "1290785836431077377",
+    "text": "「賣不出去的書・展」，很有趣的題目。\n\n但沒興趣去看，我去逛書店就可以了。\n\n永遠都在書架上的陳年老靈魂：「賣不出去的書・展」推出注定賣不掉的「反指標書單」 https://t.co/9oCdh25ydU https://t.co/yO5gGizxSE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9oCdh25ydU",
+          "expanded_url": "https://bit.ly/3frUa5d",
+          "display_url": "bit.ly/3frUa5d",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1290785819314151424,
+          "id_str": "1290785819314151424",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/EenK3SFU4AAZJi3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EenK3SFU4AAZJi3.jpg",
+          "url": "https://t.co/yO5gGizxSE",
+          "display_url": "pic.twitter.com/yO5gGizxSE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1290785836431077377/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 465,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 465,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 264,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1290785819314151424,
+          "id_str": "1290785819314151424",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/EenK3SFU4AAZJi3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EenK3SFU4AAZJi3.jpg",
+          "url": "https://t.co/yO5gGizxSE",
+          "display_url": "pic.twitter.com/yO5gGizxSE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1290785836431077377/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 465,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 465,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 264,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1290785820505280512,
+          "id_str": "1290785820505280512",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/EenK3WhUEAA0ttK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EenK3WhUEAA0ttK.jpg",
+          "url": "https://t.co/yO5gGizxSE",
+          "display_url": "pic.twitter.com/yO5gGizxSE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1290785836431077377/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 469,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 827,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2020,
+              "h": 1392,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 04 22:57:03 +0000 2020",
+    "id": 1290783837929132032,
+    "id_str": "1290783837929132032",
+    "text": "星座運勢與證券分析師報告有一致的特性，拿上一季的資料來對比現狀，準確度跟散彈打鳥差不多，大部分都是鬼扯，直接丟骰子做決定不會更差。\n\n但人們爭先恐後看下一季的預測。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 04 22:22:05 +0000 2020",
+    "id": 1290775039806042112,
+    "id_str": "1290775039806042112",
+    "text": "把用了一陣子的 Spark電郵軟體從各平台都移除，裝了Airmail來試試，操作手感與順暢度略差。\n\n移除的原因是它沒有Rules，就是可自訂複數篩選規則、定義後續動作的功能。\n\n隱約覺得不久後回歸內建電郵軟體的機會很大，正是養成… https://t.co/RPohbPdwTD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RPohbPdwTD",
+          "expanded_url": "https://twitter.com/i/web/status/1290775039806042112",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Aug 04 01:15:44 +0000 2020",
     "id": 1290456350892466180,
     "id_str": "1290456350892466180",
