@@ -1,5 +1,272 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Fri Aug 07 00:24:45 +0000 2020",
+    "id": 1291530685912477698,
+    "id_str": "1291530685912477698",
+    "text": "紐約時報（至少第二季）完全成了「數位、訂閱」主導的媒體，真是厲害。\n\n數位營收1.85億超越實體的1.75億，數位與紙本訂閱佔整體營收81%，幾乎就是由讀者直接付費支撐的媒體，超乎想像。\n\n訂戶破650萬，數位營收首次超越實體！揭… https://t.co/lHmrvdS1Py",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lHmrvdS1Py",
+          "expanded_url": "https://twitter.com/i/web/status/1291530685912477698",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 06 23:55:23 +0000 2020",
+    "id": 1291523295586574337,
+    "id_str": "1291523295586574337",
+    "text": "Sony 終止大尺寸E Ink平板的銷售。\n\n電子墨水設備確實是「過渡」，即使每天用Kindle/Kobo閱讀器，也早習慣儘量以塊狀（整段、甚至包含前後段）模式快速畫線，記事以簡短關鍵字喚起記憶為準，早點移往其他設備處理，不必糾結… https://t.co/2IfCjj7fYr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2IfCjj7fYr",
+          "expanded_url": "https://twitter.com/i/web/status/1291523295586574337",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 06 08:09:58 +0000 2020",
+    "id": 1291285373482541057,
+    "id_str": "1291285373482541057",
+    "text": "這招好像不錯🤔 https://t.co/TGwEkOfOzd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TGwEkOfOzd",
+          "expanded_url": "https://twitter.com/eddiekao/status/1291277255579033600",
+          "display_url": "twitter.com/eddiekao/statu…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1291277255579033600,
+    "quoted_status_id_str": "1291277255579033600",
+    "quoted_status": {
+      "created_at": "Thu Aug 06 07:37:43 +0000 2020",
+      "id": 1291277255579033600,
+      "id_str": "1291277255579033600",
+      "text": "一邊 loop 馬蓋先的主題曲一邊工作，有種覺得自己無所不能的莫名錯覺",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14889410,
+        "id_str": "14889410",
+        "name": "高見龍",
+        "screen_name": "eddiekao",
+        "location": "Taipei, Taiwan",
+        "description": "iOS App/Ruby/Rails Developer and Instructor / Rubyist / 5xRuby Co-Founder.",
+        "url": "https://t.co/UB7Mqz19MN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UB7Mqz19MN",
+                "expanded_url": "https://kaochenlong.com",
+                "display_url": "kaochenlong.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3263,
+        "friends_count": 1067,
+        "listed_count": 56,
+        "created_at": "Sat May 24 08:36:50 +0000 2008",
+        "favourites_count": 2794,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3471,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/868249876600987650/fxNIjxQV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/868249876600987650/fxNIjxQV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14889410/1481910450",
+        "profile_link_color": "D14F2E",
+        "profile_sidebar_border_color": "86A4A6",
+        "profile_sidebar_fill_color": "A0C5C7",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Aug 06 03:25:47 +0000 2020",
     "id": 1291213856174305287,
     "id_str": "1291213856174305287",
