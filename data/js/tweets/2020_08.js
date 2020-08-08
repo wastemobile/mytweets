@@ -1,5 +1,283 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Sat Aug 08 00:49:44 +0000 2020",
+    "id": 1291899358779043842,
+    "id_str": "1291899358779043842",
+    "text": "雖然劇情很扯啦，但還是大推剛在 #netflix 上架的舊片《快克殺手》（CRANK, 2006）。\n\n話說《快克殺手2》也是2009的舊電影了，就不能一起上架嗎？\n\nCRANK https://t.co/OGIvOLSdaR https://t.co/NEcqbQKPn6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "netflix",
+          "indices": [
+            16,
+            24
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OGIvOLSdaR",
+          "expanded_url": "https://bit.ly/2DEFO4h",
+          "display_url": "bit.ly/2DEFO4h",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1291899348976930816,
+          "id_str": "1291899348976930816",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ee2_nPVUEAAsOVv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ee2_nPVUEAAsOVv.jpg",
+          "url": "https://t.co/NEcqbQKPn6",
+          "display_url": "pic.twitter.com/NEcqbQKPn6",
+          "expanded_url": "https://twitter.com/wastemobile/status/1291899358779043842/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1291899348976930816,
+          "id_str": "1291899348976930816",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ee2_nPVUEAAsOVv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ee2_nPVUEAAsOVv.jpg",
+          "url": "https://t.co/NEcqbQKPn6",
+          "display_url": "pic.twitter.com/NEcqbQKPn6",
+          "expanded_url": "https://twitter.com/wastemobile/status/1291899358779043842/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Aug 08 00:32:34 +0000 2020",
+    "id": 1291895040134877186,
+    "id_str": "1291895040134877186",
+    "text": "Static site, dynamic functions. #note\n\nHow to Make Your Static Site Dynamic https://t.co/WjsVoKINv3 https://t.co/b2YOhAImuT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            32,
+            37
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WjsVoKINv3",
+          "expanded_url": "https://bit.ly/30CXR3N",
+          "display_url": "bit.ly/30CXR3N",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1291895033205948416,
+          "id_str": "1291895033205948416",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ee27sB1VAAAUuUk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ee27sB1VAAAUuUk.jpg",
+          "url": "https://t.co/b2YOhAImuT",
+          "display_url": "pic.twitter.com/b2YOhAImuT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1291895040134877186/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 407,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1042,
+              "h": 623,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1042,
+              "h": 623,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1291895033205948416,
+          "id_str": "1291895033205948416",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ee27sB1VAAAUuUk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ee27sB1VAAAUuUk.jpg",
+          "url": "https://t.co/b2YOhAImuT",
+          "display_url": "pic.twitter.com/b2YOhAImuT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1291895040134877186/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 407,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1042,
+              "h": 623,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1042,
+              "h": 623,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Aug 07 00:24:45 +0000 2020",
     "id": 1291530685912477698,
     "id_str": "1291530685912477698",
