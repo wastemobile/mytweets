@@ -1,5 +1,532 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Sun Aug 09 00:38:10 +0000 2020",
+    "id": 1292258839354470400,
+    "id_str": "1292258839354470400",
+    "text": "哇！如果車主沒有在30日內換電或充電，gogoro 「得隨時逕行自使用者或第三人處取回Gogoro Network™ 智慧電池」，這合約還真敢寫啊⋯⋯逕行取回⋯⋯ https://t.co/ZFbUWos7ab",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZFbUWos7ab",
+          "expanded_url": "https://twitter.com/swpave/status/1292256236914618368",
+          "display_url": "twitter.com/swpave/status/…",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1292256236914618368,
+    "quoted_status_id_str": "1292256236914618368",
+    "quoted_status": {
+      "created_at": "Sun Aug 09 00:27:50 +0000 2020",
+      "id": 1292256236914618368,
+      "id_str": "1292256236914618368",
+      "text": "“Gogoro遲早要面對的法律合約_果殼” by 果殼\nhttps://t.co/rLVnLsHcPN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rLVnLsHcPN",
+            "expanded_url": "https://link.medium.com/J6AqO2RrN8",
+            "display_url": "link.medium.com/J6AqO2RrN8",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 133622918,
+        "id_str": "133622918",
+        "name": "豬小草",
+        "screen_name": "swpave",
+        "location": "Taipei",
+        "description": "宅爸。跑者。短髮控",
+        "url": "https://t.co/OTZHaQPo1r",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OTZHaQPo1r",
+                "expanded_url": "http://swalk.blogspot.com",
+                "display_url": "swalk.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4313,
+        "friends_count": 1366,
+        "listed_count": 111,
+        "created_at": "Fri Apr 16 07:08:48 +0000 2010",
+        "favourites_count": 2732,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 121295,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719426387879137281/y8csroLB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719426387879137281/y8csroLB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133622918/1579744000",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Aug 08 23:50:27 +0000 2020",
+    "id": 1292246827467542528,
+    "id_str": "1292246827467542528",
+    "text": "Enjoy before returning. 退貨前盡情享受。\n\n就算品牌調性是「輕鬆、解放」，敢拿這個直接當廣告宣傳還是讓人豎起大拇指啊！\n\n貫徹「做自己」，Diesel替你說出不敢講的「退貨」理由！… https://t.co/W8Zkunc0UE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W8Zkunc0UE",
+          "expanded_url": "https://twitter.com/i/web/status/1292246827467542528",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Aug 08 23:36:23 +0000 2020",
+    "id": 1292243287500140545,
+    "id_str": "1292243287500140545",
+    "text": "AirPods 這個促銷降價幅度 $5290 =&gt; $4090，是表示快出新款、且價格很漂亮嗎？\n\nAirPods 搭配充電盒(不具備無線充電盒款)  https://t.co/S1MRmTpNsB https://t.co/DFQjzjP62x",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/S1MRmTpNsB",
+          "expanded_url": "https://bit.ly/3kql01l",
+          "display_url": "bit.ly/3kql01l",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1292243281372278784,
+          "id_str": "1292243281372278784",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ee74avWUcAAZgGr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ee74avWUcAAZgGr.jpg",
+          "url": "https://t.co/DFQjzjP62x",
+          "display_url": "pic.twitter.com/DFQjzjP62x",
+          "expanded_url": "https://twitter.com/wastemobile/status/1292243287500140545/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1292243281372278784,
+          "id_str": "1292243281372278784",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ee74avWUcAAZgGr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ee74avWUcAAZgGr.jpg",
+          "url": "https://t.co/DFQjzjP62x",
+          "display_url": "pic.twitter.com/DFQjzjP62x",
+          "expanded_url": "https://twitter.com/wastemobile/status/1292243287500140545/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Aug 08 13:00:20 +0000 2020",
+    "id": 1292083223439110146,
+    "id_str": "1292083223439110146",
+    "text": "RT @izensun: 新疆維吾爾模特傳給家人視頻 罕見揭露拘留所內幕－ BBC News 中文 https://t.co/pmFCgWqPK7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "izensun",
+          "name": "Izen Sun",
+          "id": 14139280,
+          "id_str": "14139280",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pmFCgWqPK7",
+          "expanded_url": "https://www.youtube.com/watch?v=Rs1hfmZ80zo",
+          "display_url": "youtube.com/watch?v=Rs1hfm…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Aug 08 09:10:42 +0000 2020",
+      "id": 1292025434561867777,
+      "id_str": "1292025434561867777",
+      "text": "新疆維吾爾模特傳給家人視頻 罕見揭露拘留所內幕－ BBC News 中文 https://t.co/pmFCgWqPK7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pmFCgWqPK7",
+            "expanded_url": "https://www.youtube.com/watch?v=Rs1hfmZ80zo",
+            "display_url": "youtube.com/watch?v=Rs1hfm…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14139280,
+        "id_str": "14139280",
+        "name": "Izen Sun",
+        "screen_name": "izensun",
+        "location": "Taitung, Taiwan",
+        "description": "The originator of You-Che-Jian Renaissance. A special education teacher in Taitung, Taiwan.",
+        "url": "https://t.co/QJ48tiR0sX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/QJ48tiR0sX",
+                "expanded_url": "http://izensun.blogspot.com",
+                "display_url": "izensun.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 594,
+        "friends_count": 96,
+        "listed_count": 17,
+        "created_at": "Thu Mar 13 13:15:12 +0000 2008",
+        "favourites_count": 8,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28154,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1010058088647278592/UV9uyEY__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010058088647278592/UV9uyEY__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14139280/1457005970",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Aug 08 00:49:44 +0000 2020",
     "id": 1291899358779043842,
     "id_str": "1291899358779043842",
