@@ -1,5 +1,124 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Wed Aug 12 00:52:05 +0000 2020",
+    "id": 1293349503823577088,
+    "id_str": "1293349503823577088",
+    "text": "每年都應該看看這份資料，不是什麼報告，就是媒體服務代理商協會（MAA）整理出各種媒體的「廣告牌價」，可以鳥瞰台灣現有閱聽人口、媒體現況、廣告投放類型大戶，一檔或一頁廣告大概的價錢等等。\n\n2020媒體白皮書(=2019資料）… https://t.co/SXJsBxGGOE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SXJsBxGGOE",
+          "expanded_url": "https://twitter.com/i/web/status/1293349503823577088",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 12 00:18:15 +0000 2020",
+    "id": 1293340990606938113,
+    "id_str": "1293340990606938113",
+    "text": "紙上香港一樣迷人。\n\n500 張《號外》封面、香港特色路標號誌收集... 400 本香港經典書刊、雜誌和獨立小誌線上齊聚！ https://t.co/estpjffgFD\n\nPinkoi 宅・讀・樂（直連）… https://t.co/JsatzYdKuA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/estpjffgFD",
+          "expanded_url": "https://bit.ly/3h0wVk8",
+          "display_url": "bit.ly/3h0wVk8",
+          "indices": [
+            62,
+            85
+          ]
+        },
+        {
+          "url": "https://t.co/JsatzYdKuA",
+          "expanded_url": "https://twitter.com/i/web/status/1293340990606938113",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Aug 11 12:33:55 +0000 2020",
     "id": 1293163737289908224,
     "id_str": "1293163737289908224",
