@@ -1,5 +1,809 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Fri Aug 14 00:07:19 +0000 2020",
+    "id": 1294063014480457733,
+    "id_str": "1294063014480457733",
+    "text": "有人質疑《正常人》這影集很言情呀、哪裡好看，但我想每個人都有自己感情投射的對象與方式，對愛與性的感受、需求與理解也大相徑庭。\n\n人雖有可能改變，但人格固著的時機點可能遠比自以為的更早，也更根深蒂固。\n\n林喜兒：Normal Peo… https://t.co/pPpL5ZrG8c",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pPpL5ZrG8c",
+          "expanded_url": "https://twitter.com/i/web/status/1294063014480457733",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1291213856174305287,
+    "in_reply_to_status_id_str": "1291213856174305287",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 13 23:56:37 +0000 2020",
+    "id": 1294060318646087680,
+    "id_str": "1294060318646087680",
+    "text": "這個派對感覺好謎、好有趣喔～\n\n濕地裡的臥房：獨特展演品味，台灣臥室創作人派對 8月15號《濕地 venue 》見 https://t.co/ZkpAXkQhLP https://t.co/UmtL3uxjEL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZkpAXkQhLP",
+          "expanded_url": "https://bit.ly/2YfRr9t",
+          "display_url": "bit.ly/2YfRr9t",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1294060310043570176,
+          "id_str": "1294060310043570176",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/EfVs_uoUMAArrc6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EfVs_uoUMAArrc6.jpg",
+          "url": "https://t.co/UmtL3uxjEL",
+          "display_url": "pic.twitter.com/UmtL3uxjEL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1294060318646087680/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 359,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1101,
+              "h": 581,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1101,
+              "h": 581,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1294060310043570176,
+          "id_str": "1294060310043570176",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/EfVs_uoUMAArrc6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EfVs_uoUMAArrc6.jpg",
+          "url": "https://t.co/UmtL3uxjEL",
+          "display_url": "pic.twitter.com/UmtL3uxjEL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1294060318646087680/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 359,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1101,
+              "h": 581,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1101,
+              "h": 581,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 13 23:51:41 +0000 2020",
+    "id": 1294059079103442944,
+    "id_str": "1294059079103442944",
+    "text": "(3/3) 報告中蠻好玩的是類型觀察的差異。\n\n小說並非封鎖期內成長最多的，反倒是之後的暢銷系列上市、帶起異常高峰；不管什麼機會，讓讀者踏出第一步嘗試電子書都是好事。\n\n兒童與青少年類型則在封鎖期內，因價格促銷被拉抬，正是對價格最… https://t.co/6vySsJQw0T",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6vySsJQw0T",
+          "expanded_url": "https://twitter.com/i/web/status/1294059079103442944",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1294057095361257472,
+    "in_reply_to_status_id_str": "1294057095361257472",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 13 23:43:48 +0000 2020",
+    "id": 1294057095361257472,
+    "id_str": "1294057095361257472",
+    "text": "(2/3) 有聲書在封鎖期內成長了109%，「陪伴感」似乎是聲音媒體一個很重要的元素。\n\n而串流訂閱完全壓倒下載模式（初期還有一波掙扎嘗試），新註冊人數成長37%，封鎖期結束後曲線依舊緩步向上，訂閱制明顯展現威力，符合會員經濟法則… https://t.co/GylLJ0O2Ek",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GylLJ0O2Ek",
+          "expanded_url": "https://twitter.com/i/web/status/1294057095361257472",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1294054264654839808,
+    "in_reply_to_status_id_str": "1294054264654839808",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 13 23:32:33 +0000 2020",
+    "id": 1294054264654839808,
+    "id_str": "1294054264654839808",
+    "text": "(1/3) Bookwire公布一份以德國與澳洲為主、武漢肺炎封鎖期間（3/9-5/10）數位閱讀的數據統計，是一份不意外卻也可以驗證想法的觀察。\n\n電子書成長26%，封鎖期後也比之前略高，這種高速攀升、區段成長符合一般預期。… https://t.co/zh1d0KBuCe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zh1d0KBuCe",
+          "expanded_url": "https://twitter.com/i/web/status/1294054264654839808",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 13 06:08:45 +0000 2020",
+    "id": 1293791581988823041,
+    "id_str": "1293791581988823041",
+    "text": "這就是根本問題解決不了，一直在反覆檢討簡報檔漂不漂亮、會議便當好不好吃 🚬 https://t.co/Zmu2tebciz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Zmu2tebciz",
+          "expanded_url": "https://twitter.com/figarotwo/status/1293776854495764480",
+          "display_url": "twitter.com/figarotwo/stat…",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1293776854495764480,
+    "quoted_status_id_str": "1293776854495764480",
+    "quoted_status": {
+      "created_at": "Thu Aug 13 05:10:13 +0000 2020",
+      "id": 1293776854495764480,
+      "id_str": "1293776854495764480",
+      "text": "\"[爆卦] 警政署草案 臨停與不禮讓行人未來不能檢舉 - 看板 Gossiping - 批踢踢實業坊\" ( https://t.co/Q42NXPfE3c )\n\n//說個政治不正確的：我支持檢舉魔人",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Q42NXPfE3c",
+            "expanded_url": "http://twitthat.com/GrbBJ",
+            "display_url": "twitthat.com/GrbBJ",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitthat.com/\" rel=\"nofollow\">twitthat</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12054952,
+        "id_str": "12054952",
+        "name": "Lucky",
+        "screen_name": "figarotwo",
+        "location": "",
+        "description": "禿頭 / 牡羊座 / 短髮控 / 拖延重症之家院長 / 機掰PM / \n猜不透的海馬迴 / 邏輯迷路中 / 小腹比野心大 / \n不定期清 likes & followers / 歡迎隨意回推互動",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1178,
+        "friends_count": 598,
+        "listed_count": 19,
+        "created_at": "Thu Jan 10 02:29:13 +0000 2008",
+        "favourites_count": 335,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 58428,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1272417138024697861/8Qcq6298_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272417138024697861/8Qcq6298_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12054952/1592202862",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 96,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 13 02:14:21 +0000 2020",
+    "id": 1293732593267912704,
+    "id_str": "1293732593267912704",
+    "text": "看《流浪地球》短篇小說時，大敘事雖荒謬，但存在許多一閃而逝的小細節，關於人性、絕望、希望、愛情，甚至還有叛亂，是不錯的故事；看電影時簡直嚇傻了。\n\n刻意美化的東西，幾乎都是最醜陋的。\n\n《流浪地球》怎麼了？Netflix 慘遭滑鐵… https://t.co/OJz41UWfj4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OJz41UWfj4",
+          "expanded_url": "https://twitter.com/i/web/status/1293732593267912704",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 13 01:26:16 +0000 2020",
+    "id": 1293720493443301376,
+    "id_str": "1293720493443301376",
+    "text": "Whoscall 不能安裝在中華電信機房就好嗎？每週寄給我一份來電與封鎖清單就好，我可以付費訂閱這個服務。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 13 01:00:11 +0000 2020",
+    "id": 1293713931555414018,
+    "id_str": "1293713931555414018",
+    "text": "RT @frozenscreamice: Nick和June是我看過最甜蜜的情侶。\n他們不常在一起，就算一起的時候總是不多話，僅僅靠著眼神溝通，他們會吵架，June遇到很多事情，卻不常和他說，他會察覺然後詢問，而她只是望著窗外沈默，直到無法忍受才發脾氣，他會靜靜的看著她，遞給她…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "frozenscreamice",
+          "name": "淳",
+          "id": 159757519,
+          "id_str": "159757519",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Aug 10 13:25:31 +0000 2020",
+      "id": 1292814335522140164,
+      "id_str": "1292814335522140164",
+      "text": "Nick和June是我看過最甜蜜的情侶。\n他們不常在一起，就算一起的時候總是不多話，僅僅靠著眼神溝通，他們會吵架，June遇到很多事情，卻不常和他說，他會察覺然後詢問，而她只是望著窗外沈默，直到無法忍受才發脾氣，他會靜靜的看著她，… https://t.co/VkT1C3QsbS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VkT1C3QsbS",
+            "expanded_url": "https://twitter.com/i/web/status/1292814335522140164",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 159757519,
+        "id_str": "159757519",
+        "name": "淳",
+        "screen_name": "frozenscreamice",
+        "location": "taipei",
+        "description": "英美劇/podcast迷上/永遠的腐向\n世事洞明皆學問，人情練達即文章。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1287,
+        "friends_count": 970,
+        "listed_count": 20,
+        "created_at": "Sat Jun 26 07:34:05 +0000 2010",
+        "favourites_count": 4846,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24521,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BADDEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/757041513452843009/lGVnooP9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/757041513452843009/lGVnooP9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/159757519/1377306845",
+        "profile_link_color": "50A0B2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "36817C",
+        "profile_text_color": "463E3A",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 13 00:56:41 +0000 2020",
+    "id": 1293713050374004736,
+    "id_str": "1293713050374004736",
+    "text": "菸往肚子裡吞一點，真的有助排便。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Aug 12 23:45:07 +0000 2020",
     "id": 1293695038392688640,
     "id_str": "1293695038392688640",
