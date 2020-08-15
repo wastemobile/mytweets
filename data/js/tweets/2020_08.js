@@ -1,5 +1,457 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Sat Aug 15 00:36:57 +0000 2020",
+    "id": 1294432856630947840,
+    "id_str": "1294432856630947840",
+    "text": "RT @thecat: 這年頭人們缺的不是 to-do 而是 do，同理 note-taking 很多但 active recall 很少，最後都是白搭🤷🏻‍♂️🤷🏻‍♀️",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Aug 15 00:30:56 +0000 2020",
+      "id": 1294431344395612160,
+      "id_str": "1294431344395612160",
+      "text": "這年頭人們缺的不是 to-do 而是 do，同理 note-taking 很多但 active recall 很少，最後都是白搭🤷🏻‍♂️🤷🏻‍♀️",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807633,
+        "id_str": "807633",
+        "name": "Jeremy Lu",
+        "screen_name": "thecat",
+        "location": "right here, right now",
+        "description": "Fullstack web developer by day, amateur haskeller by night, avid cyclist and swimmer in between. Ask me anything about statechart, react and cycling. λ",
+        "url": "https://t.co/LIMOz6hTU8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LIMOz6hTU8",
+                "expanded_url": "https://www.stateskit.com",
+                "display_url": "stateskit.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5511,
+        "friends_count": 1608,
+        "listed_count": 86,
+        "created_at": "Sat Mar 03 01:42:09 +0000 2007",
+        "favourites_count": 5796,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 35604,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Aug 15 00:07:27 +0000 2020",
+    "id": 1294425433341980672,
+    "id_str": "1294425433341980672",
+    "text": "誰是美國最有才華、至關重要，卻又被（市場）低估的作家？ https://t.co/h47oRMDEsG\n\n覺得大學設置一個這樣的獎項，提供不同角度去評選、推介那些小眾冷門的作家與作品，獨具一格，值得好好研究一下。 #note\n\nT… https://t.co/30kUq26S8e",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            107,
+            112
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/h47oRMDEsG",
+          "expanded_url": "https://bit.ly/31OaMzk",
+          "display_url": "bit.ly/31OaMzk",
+          "indices": [
+            28,
+            51
+          ]
+        },
+        {
+          "url": "https://t.co/30kUq26S8e",
+          "expanded_url": "https://twitter.com/i/web/status/1294425433341980672",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 14 09:27:55 +0000 2020",
+    "id": 1294204093343207425,
+    "id_str": "1294204093343207425",
+    "text": "當罪人我已經無所謂。\n\n江靜 Jiang Jing feat. 張震嶽 ayal komod【都挺好的 It's All Good】Official Music Video https://t.co/nLKDqx4FU9 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            114,
+            122
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nLKDqx4FU9",
+          "expanded_url": "https://youtu.be/Ndl8QKr3sOQ",
+          "display_url": "youtu.be/Ndl8QKr3sOQ",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 14 04:48:02 +0000 2020",
+    "id": 1294133656823373825,
+    "id_str": "1294133656823373825",
+    "text": "RT @GetPriceTag: 老牌 RSS 阅读器 Reeder 4 首次限免，它支持本地 RSS 订阅以及 Inoreader、Feedly、Feedbin、 Bazqux 等在线 RSS 阅读服务的帐号同步。通过 RSS 订阅网站新闻是一个非常高效的资讯聚合方式。对了，…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "GetPriceTag",
+          "name": "Price Tag",
+          "id": 812619488579358720,
+          "id_str": "812619488579358720",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Aug 14 02:55:42 +0000 2020",
+      "id": 1294105386463588355,
+      "id_str": "1294105386463588355",
+      "text": "老牌 RSS 阅读器 Reeder 4 首次限免，它支持本地 RSS 订阅以及 Inoreader、Feedly、Feedbin、 Bazqux 等在线 RSS 阅读服务的帐号同步。通过 RSS 订阅网站新闻是一个非常高效的资讯聚… https://t.co/R9gS5MQiyV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/R9gS5MQiyV",
+            "expanded_url": "https://twitter.com/i/web/status/1294105386463588355",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 812619488579358720,
+        "id_str": "812619488579358720",
+        "name": "Price Tag",
+        "screen_name": "GetPriceTag",
+        "location": "People's Republic of China",
+        "description": "推荐 App 限免降价，推送好物好券，公众号➜PriceTag发现好应用",
+        "url": "https://t.co/Gq8TuIIokl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Gq8TuIIokl",
+                "expanded_url": "https://t.me/appfans",
+                "display_url": "t.me/appfans",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7077,
+        "friends_count": 48,
+        "listed_count": 94,
+        "created_at": "Sat Dec 24 11:22:38 +0000 2016",
+        "favourites_count": 42,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2176,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/928872927792992257/OluWGWej_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/928872927792992257/OluWGWej_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/812619488579358720/1482578728",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 77,
+      "favorite_count": 157,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 77,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Aug 14 00:07:19 +0000 2020",
     "id": 1294063014480457733,
     "id_str": "1294063014480457733",
