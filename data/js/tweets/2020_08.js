@@ -1,5 +1,492 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Tue Aug 18 01:18:06 +0000 2020",
+    "id": 1295530379722371073,
+    "id_str": "1295530379722371073",
+    "text": "所以央視把64定調為大規模群眾集會支持政府，那應該每年辦啊 https://t.co/IfiIHhYqyg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IfiIHhYqyg",
+          "expanded_url": "https://twitter.com/flavorycofean/status/1295341077721833472",
+          "display_url": "twitter.com/flavorycofean/…",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1295341077721833472,
+    "quoted_status_id_str": "1295341077721833472",
+    "quoted_status": {
+      "created_at": "Mon Aug 17 12:45:53 +0000 2020",
+      "id": 1295341077721833472,
+      "id_str": "1295341077721833472",
+      "text": "啊！我以为那张白俄罗斯人民支持政府的央视新闻截图是P出来搞笑的。\n\n结果是真的，国内新闻真的是这么放的！！\n中共的宣传比我想象的还要魔幻 https://t.co/QnNvY3vz1g",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1295341058604199937,
+            "id_str": "1295341058604199937",
+            "indices": [
+              69,
+              92
+            ],
+            "media_url": "http://pbs.twimg.com/media/Efn51G0U8AEeq1f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Efn51G0U8AEeq1f.jpg",
+            "url": "https://t.co/QnNvY3vz1g",
+            "display_url": "pic.twitter.com/QnNvY3vz1g",
+            "expanded_url": "https://twitter.com/FlavoryCofean/status/1295341077721833472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1906,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 385,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1295341058604199937,
+            "id_str": "1295341058604199937",
+            "indices": [
+              69,
+              92
+            ],
+            "media_url": "http://pbs.twimg.com/media/Efn51G0U8AEeq1f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Efn51G0U8AEeq1f.jpg",
+            "url": "https://t.co/QnNvY3vz1g",
+            "display_url": "pic.twitter.com/QnNvY3vz1g",
+            "expanded_url": "https://twitter.com/FlavoryCofean/status/1295341077721833472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1906,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 385,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1295341063071121408,
+            "id_str": "1295341063071121408",
+            "indices": [
+              69,
+              92
+            ],
+            "media_url": "http://pbs.twimg.com/media/Efn51XdUwAAHmfL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Efn51XdUwAAHmfL.jpg",
+            "url": "https://t.co/QnNvY3vz1g",
+            "display_url": "pic.twitter.com/QnNvY3vz1g",
+            "expanded_url": "https://twitter.com/FlavoryCofean/status/1295341077721833472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 473,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 751,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1080,
+                "h": 751,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1295341068313964544,
+            "id_str": "1295341068313964544",
+            "indices": [
+              69,
+              92
+            ],
+            "media_url": "http://pbs.twimg.com/media/Efn51q_UMAApuUe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Efn51q_UMAApuUe.jpg",
+            "url": "https://t.co/QnNvY3vz1g",
+            "display_url": "pic.twitter.com/QnNvY3vz1g",
+            "expanded_url": "https://twitter.com/FlavoryCofean/status/1295341077721833472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1080,
+                "h": 553,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 553,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 348,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1295341072818688003,
+            "id_str": "1295341072818688003",
+            "indices": [
+              69,
+              92
+            ],
+            "media_url": "http://pbs.twimg.com/media/Efn517xU0AMsRaK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Efn517xU0AMsRaK.jpg",
+            "url": "https://t.co/QnNvY3vz1g",
+            "display_url": "pic.twitter.com/QnNvY3vz1g",
+            "expanded_url": "https://twitter.com/FlavoryCofean/status/1295341077721833472/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 337,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 535,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 535,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 983932811043205120,
+        "id_str": "983932811043205120",
+        "name": "ѕυгƒιηg ¢σƒєαη.ιηη 🕊️🌏🍻",
+        "screen_name": "FlavoryCofean",
+        "location": "习近平姐夫邓家贵在英属维尔京群岛的离岸公司",
+        "description": "student/civil disobedience/#StandwithHK🇭🇰  /ʕっ•ᴥ•ʔっ/fo你即代表感兴趣，不双向unfo/Spare account:@Crispy_HK",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2915,
+        "friends_count": 1163,
+        "listed_count": 20,
+        "created_at": "Wed Apr 11 05:00:37 +0000 2018",
+        "favourites_count": 20413,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7549,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1294529860874809344/h8lVD1ZE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294529860874809344/h8lVD1ZE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/983932811043205120/1597720737",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1203,
+      "favorite_count": 3117,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 18 00:01:45 +0000 2020",
+    "id": 1295511163602526208,
+    "id_str": "1295511163602526208",
+    "text": "這篇可以當懶人包讀讀。\n\nEpic Games vs 蘋果：一場事先張揚的反壟斷“陰謀” – WONGCW 網誌 https://t.co/gKHFuWBFCF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gKHFuWBFCF",
+          "expanded_url": "https://blog.wongcw.com/2020/08/16/epic-games-vs-%e8%98%8b%e6%9e%9c%ef%bc%9a%e4%b8%80%e5%a0%b4%e4%ba%8b%e5%85%88%e5%bc%b5%e6%8f%9a%e7%9a%84%e5%8f%8d%e5%a3%9f%e6%96%b7%e9%99%b0%e8%ac%80/",
+          "display_url": "blog.wongcw.com/2020/08/16/epi…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 17 22:49:42 +0000 2020",
+    "id": 1295493032444215296,
+    "id_str": "1295493032444215296",
+    "text": "前一天自然起床睜眼是05:59，今天是06:01，這鬧鐘是宇宙幫我設的嗎？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 17 14:19:03 +0000 2020",
+    "id": 1295364523289972736,
+    "id_str": "1295364523289972736",
+    "text": "由於華納集團大裁員，旗下DC娛樂也經歷一場大地震，主要策略將會改為「數位先行（測試）、暢銷才出紙本」。\n\n幾年前日本漫畫雜誌已經這樣做了。\n\nDC Comics迎來重大改變！首席創意官JIM LEE證實旗下漫畫書刊將全面轉向電子書… https://t.co/IxSOt6FROH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IxSOt6FROH",
+          "expanded_url": "https://twitter.com/i/web/status/1295364523289972736",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Aug 16 23:40:40 +0000 2020",
     "id": 1295143470806388736,
     "id_str": "1295143470806388736",
