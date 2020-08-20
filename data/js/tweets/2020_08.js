@@ -1,5 +1,339 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Thu Aug 20 05:37:45 +0000 2020",
+    "id": 1296320497207017472,
+    "id_str": "1296320497207017472",
+    "text": "想要紀錄、追蹤進行中的工作，或是開啟蕃茄鐘來激勵自己，這個免費的 Toggl Desktop 都能做到，可直接在工具列上顯示計時。必要時也能用專案彙整，跨 Mac, Windows 與 Linux 三平台。\n\n可以從MAS免費下載… https://t.co/SK64bG8PZ0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SK64bG8PZ0",
+          "expanded_url": "https://twitter.com/i/web/status/1296320497207017472",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1286526461420040192,
+    "in_reply_to_status_id_str": "1286526461420040192",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 20 00:38:24 +0000 2020",
+    "id": 1296245162406895619,
+    "id_str": "1296245162406895619",
+    "text": "@lovechinamiito Calibre 有一直在用，但主要是管理書目。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lovechinamiito",
+          "name": "dare2live",
+          "id": 349571790,
+          "id_str": "349571790",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1296243815485906944,
+    "in_reply_to_status_id_str": "1296243815485906944",
+    "in_reply_to_user_id": 349571790,
+    "in_reply_to_user_id_str": "349571790",
+    "in_reply_to_screen_name": "lovechinamiito",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Aug 20 00:30:23 +0000 2020",
+    "id": 1296243143407353856,
+    "id_str": "1296243143407353856",
+    "text": "看起來好像真的不錯，但沒有Window可以親身測試。\n\nDAISY-WordToEPUB是一般人免費製作正規電子書的最新救星 https://t.co/tzMlYIDWqL https://t.co/th4wXZP57x",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tzMlYIDWqL",
+          "expanded_url": "https://bit.ly/2Yj7N0P",
+          "display_url": "bit.ly/2Yj7N0P",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1296243127884234753,
+          "id_str": "1296243127884234753",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ef0uQcwUwAEVAWk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ef0uQcwUwAEVAWk.jpg",
+          "url": "https://t.co/th4wXZP57x",
+          "display_url": "pic.twitter.com/th4wXZP57x",
+          "expanded_url": "https://twitter.com/wastemobile/status/1296243143407353856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 628,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 862,
+              "h": 796,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 862,
+              "h": 796,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1296243127884234753,
+          "id_str": "1296243127884234753",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ef0uQcwUwAEVAWk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ef0uQcwUwAEVAWk.jpg",
+          "url": "https://t.co/th4wXZP57x",
+          "display_url": "pic.twitter.com/th4wXZP57x",
+          "expanded_url": "https://twitter.com/wastemobile/status/1296243143407353856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 628,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 862,
+              "h": 796,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 862,
+              "h": 796,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1296243129075417088,
+          "id_str": "1296243129075417088",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ef0uQhMUwAAyGKu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ef0uQhMUwAAyGKu.jpg",
+          "url": "https://t.co/th4wXZP57x",
+          "display_url": "pic.twitter.com/th4wXZP57x",
+          "expanded_url": "https://twitter.com/wastemobile/status/1296243143407353856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 635,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 865,
+              "h": 808,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 865,
+              "h": 808,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 19 23:02:23 +0000 2020",
+    "id": 1296221000447664128,
+    "id_str": "1296221000447664128",
+    "text": "一名在Google工作的軟體工程師，2015年根據各種資訊判斷、推測通用型人工智慧（AGI）可能出現的日子。他剛剛更新了推測：\n\n10%機率出現在2035，50%在2045，90%會在2070。\n\n想起庫茲韋爾拼命延壽、預言奇點會… https://t.co/TP55Z6zpOe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TP55Z6zpOe",
+          "expanded_url": "https://twitter.com/i/web/status/1296221000447664128",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Aug 18 01:18:06 +0000 2020",
     "id": 1295530379722371073,
     "id_str": "1295530379722371073",
