@@ -1,5 +1,241 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Tue Aug 25 03:38:04 +0000 2020",
+    "id": 1298102315396681728,
+    "id_str": "1298102315396681728",
+    "text": "無條件支持KMT自費施打，最好開團去中國打，長住觀察效果，不用回來了 https://t.co/q5ye8LaQF4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q5ye8LaQF4",
+          "expanded_url": "https://twitter.com/jameshsiehtw/status/1298096885740138497",
+          "display_url": "twitter.com/jameshsiehtw/s…",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1298096885740138497,
+    "quoted_status_id_str": "1298096885740138497",
+    "quoted_status": {
+      "created_at": "Tue Aug 25 03:16:29 +0000 2020",
+      "id": 1298096885740138497,
+      "id_str": "1298096885740138497",
+      "text": "一盒270元的疫苗\n\n你給我27萬我也不打\n\n貪小便宜這件事情儘管是人生必修課程\n\n但打進身體的東西，北七才會打這種鬼東西 https://t.co/RAAdtCpsWS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1298096870917472256,
+            "id_str": "1298096870917472256",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/EgPEOfsVAAAc3O4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EgPEOfsVAAAc3O4.jpg",
+            "url": "https://t.co/RAAdtCpsWS",
+            "display_url": "pic.twitter.com/RAAdtCpsWS",
+            "expanded_url": "https://twitter.com/JamesHsiehTW/status/1298096885740138497/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 334,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 471,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 471,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1298096870917472256,
+            "id_str": "1298096870917472256",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/EgPEOfsVAAAc3O4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EgPEOfsVAAAc3O4.jpg",
+            "url": "https://t.co/RAAdtCpsWS",
+            "display_url": "pic.twitter.com/RAAdtCpsWS",
+            "expanded_url": "https://twitter.com/JamesHsiehTW/status/1298096885740138497/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 334,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 471,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 471,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 969585890627473408,
+        "id_str": "969585890627473408",
+        "name": "James Hsieh",
+        "screen_name": "JamesHsiehTW",
+        "location": "台灣",
+        "description": "Hi",
+        "url": "https://t.co/MKuCumr0OE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/MKuCumr0OE",
+                "expanded_url": "http://www.facebook.com/James-Hsieh-382472085554434/",
+                "display_url": "facebook.com/James-Hsieh-38…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5232,
+        "friends_count": 60,
+        "listed_count": 27,
+        "created_at": "Fri Mar 02 14:51:05 +0000 2018",
+        "favourites_count": 778,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14445,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969587369702649857/0H_nshhP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969587369702649857/0H_nshhP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969585890627473408/1520003189",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 33,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Aug 25 00:39:36 +0000 2020",
     "id": 1298057405809299456,
     "id_str": "1298057405809299456",
