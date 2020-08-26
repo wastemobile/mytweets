@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Wed Aug 26 13:54:30 +0000 2020",
+    "id": 1298619833467076609,
+    "id_str": "1298619833467076609",
+    "text": "在VS Code安裝幾個外掛，就可以做到Obsidian的大多數功能（某些略有瑕疵、但能用），這就是開放檔案、本地儲存的優點。\n\nObsidian: Keep Notes for the Long Term - Effective… https://t.co/f4VFMQS5Qd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/f4VFMQS5Qd",
+          "expanded_url": "https://twitter.com/i/web/status/1298619833467076609",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1281419238213775361,
+    "in_reply_to_status_id_str": "1281419238213775361",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Aug 25 03:38:04 +0000 2020",
     "id": 1298102315396681728,
     "id_str": "1298102315396681728",
