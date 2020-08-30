@@ -1,5 +1,229 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Sat Aug 29 14:39:18 +0000 2020",
+    "id": 1299718272112181249,
+    "id_str": "1299718272112181249",
+    "text": "今年上半年依舊是momo以三成增幅傲視群雄，似乎持續擴大領先PChome的差距。\n\n2020上半年台灣零售成績單 https://t.co/mYO5W3PIdn https://t.co/ZvUYQh4nMk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mYO5W3PIdn",
+          "expanded_url": "https://bit.ly/2DaOQ9f",
+          "display_url": "bit.ly/2DaOQ9f",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1299718264386273281,
+          "id_str": "1299718264386273281",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EgmG4BDUwAE_4cn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EgmG4BDUwAE_4cn.jpg",
+          "url": "https://t.co/ZvUYQh4nMk",
+          "display_url": "pic.twitter.com/ZvUYQh4nMk",
+          "expanded_url": "https://twitter.com/wastemobile/status/1299718272112181249/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 830,
+              "h": 509,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 417,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 830,
+              "h": 509,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1299718264386273281,
+          "id_str": "1299718264386273281",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EgmG4BDUwAE_4cn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EgmG4BDUwAE_4cn.jpg",
+          "url": "https://t.co/ZvUYQh4nMk",
+          "display_url": "pic.twitter.com/ZvUYQh4nMk",
+          "expanded_url": "https://twitter.com/wastemobile/status/1299718272112181249/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 830,
+              "h": 509,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 417,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 830,
+              "h": 509,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1299718264386322434,
+          "id_str": "1299718264386322434",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EgmG4BDVgAIHrDd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EgmG4BDVgAIHrDd.jpg",
+          "url": "https://t.co/ZvUYQh4nMk",
+          "display_url": "pic.twitter.com/ZvUYQh4nMk",
+          "expanded_url": "https://twitter.com/wastemobile/status/1299718272112181249/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 882,
+              "h": 537,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 882,
+              "h": 537,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 414,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1299706467830775809,
+    "in_reply_to_status_id_str": "1299706467830775809",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Aug 29 13:52:23 +0000 2020",
+    "id": 1299706467830775809,
+    "id_str": "1299706467830775809",
+    "text": "一直覺得momo能超車PChome成為台灣電商龍頭，是件值得好好研究的事；詹宏志在退休之前，又能不能讓PChome重回寶座，則是另一件更有趣的事。\n\nmomo營收年年漲20%！起步比PChome、東森晚，如何彎道超車成股王？… https://t.co/c462io7sD0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/c462io7sD0",
+          "expanded_url": "https://twitter.com/i/web/status/1299706467830775809",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 35,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Aug 29 13:44:57 +0000 2020",
     "id": 1299704594990116864,
     "id_str": "1299704594990116864",
