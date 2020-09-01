@@ -1,5 +1,121 @@
 Grailbird.data.tweets_2020_08 = [
   {
+    "created_at": "Mon Aug 31 05:14:44 +0000 2020",
+    "id": 1300300969893269505,
+    "id_str": "1300300969893269505",
+    "text": "什麼!?《愛國者法案》被砍了！ #Netflix 你是不當心撞到頭嗎？《周遊記》拿去砍100次也輪不到它！\n\n印度移民二代酸遍全球！哈桑開啟觀眾新視野《愛國者法案》卻遭無故腰斬【TODAY 看世界｜人物放大鏡】… https://t.co/houfeF4cUh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            16,
+            24
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/houfeF4cUh",
+          "expanded_url": "https://twitter.com/i/web/status/1300300969893269505",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 24,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 31 03:12:35 +0000 2020",
+    "id": 1300270230174748673,
+    "id_str": "1300270230174748673",
+    "text": "過去12個月，「股神」巴菲特旗下控股公司「波克夏海瑟威」已收購日本5大商社伊藤忠商事、丸紅、三菱商事、三井物產、住友商事各超過5%的股份，未來還可能進一步增持。\n\n這什麼神操作⋯⋯\n\n巴菲特又有大動作！波克夏宣佈收購日本5大商社各… https://t.co/VvAsisl1Kn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VvAsisl1Kn",
+          "expanded_url": "https://twitter.com/i/web/status/1300270230174748673",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Aug 31 01:12:45 +0000 2020",
     "id": 1300240074571874304,
     "id_str": "1300240074571874304",
