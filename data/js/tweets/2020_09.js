@@ -1,5 +1,403 @@
 Grailbird.data.tweets_2020_09 = [
   {
+    "created_at": "Tue Sep 01 12:18:50 +0000 2020",
+    "id": 1300770085167005701,
+    "id_str": "1300770085167005701",
+    "text": "1995年首部電影之後，2002年播出的TV動畫第一季《攻殼機動隊：Stand Alone Complex》與2004年第二季《攻殼機動隊 S.A.C. 2nd GIG》都在 #Netflix 上架啦！\n\n那時的少佐感覺好溫暖喔～… https://t.co/EBFNyxXHiC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            88,
+            96
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EBFNyxXHiC",
+          "expanded_url": "https://twitter.com/i/web/status/1300770085167005701",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 01 07:32:03 +0000 2020",
+    "id": 1300697914142982144,
+    "id_str": "1300697914142982144",
+    "text": "RT @titanypw: 維特齊立法院演講 用中文說「我是台灣人」[影] | 政治 | 重點新聞 | 中央社 CNA https://t.co/FKJqL2OHwH https://t.co/DRAfeLtysp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "titanypw",
+          "name": "Yuan-Ping Wu (Titan)",
+          "id": 21295001,
+          "id_str": "21295001",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FKJqL2OHwH",
+          "expanded_url": "https://buff.ly/34OvWk0",
+          "display_url": "buff.ly/34OvWk0",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1300693296512151552,
+          "id_str": "1300693296512151552",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/Egz9qWxWsAA4wEY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Egz9qWxWsAA4wEY.jpg",
+          "url": "https://t.co/DRAfeLtysp",
+          "display_url": "pic.twitter.com/DRAfeLtysp",
+          "expanded_url": "https://twitter.com/titanypw/status/1300693297728495616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1300693297728495616,
+          "source_status_id_str": "1300693297728495616",
+          "source_user_id": 21295001,
+          "source_user_id_str": "21295001"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1300693296512151552,
+          "id_str": "1300693296512151552",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/Egz9qWxWsAA4wEY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Egz9qWxWsAA4wEY.jpg",
+          "url": "https://t.co/DRAfeLtysp",
+          "display_url": "pic.twitter.com/DRAfeLtysp",
+          "expanded_url": "https://twitter.com/titanypw/status/1300693297728495616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 315,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1300693297728495616,
+          "source_status_id_str": "1300693297728495616",
+          "source_user_id": 21295001,
+          "source_user_id_str": "21295001"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Sep 01 07:13:42 +0000 2020",
+      "id": 1300693297728495616,
+      "id_str": "1300693297728495616",
+      "text": "維特齊立法院演講 用中文說「我是台灣人」[影] | 政治 | 重點新聞 | 中央社 CNA https://t.co/FKJqL2OHwH https://t.co/DRAfeLtysp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FKJqL2OHwH",
+            "expanded_url": "https://buff.ly/34OvWk0",
+            "display_url": "buff.ly/34OvWk0",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1300693296512151552,
+            "id_str": "1300693296512151552",
+            "indices": [
+              70,
+              93
+            ],
+            "media_url": "http://pbs.twimg.com/media/Egz9qWxWsAA4wEY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Egz9qWxWsAA4wEY.jpg",
+            "url": "https://t.co/DRAfeLtysp",
+            "display_url": "pic.twitter.com/DRAfeLtysp",
+            "expanded_url": "https://twitter.com/titanypw/status/1300693297728495616/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 315,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 600,
+                "h": 315,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 600,
+                "h": 315,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1300693296512151552,
+            "id_str": "1300693296512151552",
+            "indices": [
+              70,
+              93
+            ],
+            "media_url": "http://pbs.twimg.com/media/Egz9qWxWsAA4wEY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Egz9qWxWsAA4wEY.jpg",
+            "url": "https://t.co/DRAfeLtysp",
+            "display_url": "pic.twitter.com/DRAfeLtysp",
+            "expanded_url": "https://twitter.com/titanypw/status/1300693297728495616/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 315,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 600,
+                "h": 315,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 600,
+                "h": 315,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21295001,
+        "id_str": "21295001",
+        "name": "Yuan-Ping Wu (Titan)",
+        "screen_name": "titanypw",
+        "location": "Taipei, Taiwan",
+        "description": "I move text, and love reading & painting.  At the crossroads of technology and liberal arts, I'm eager to know this world, and always reluctant to go to sleep.",
+        "url": "https://t.co/F1hS7kzwIu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/F1hS7kzwIu",
+                "expanded_url": "https://podcast.starrocket.io",
+                "display_url": "podcast.starrocket.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 855,
+        "friends_count": 601,
+        "listed_count": 54,
+        "created_at": "Thu Feb 19 12:48:06 +0000 2009",
+        "favourites_count": 14391,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 39124,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2169797918/sigmund_freud_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2169797918/sigmund_freud_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21295001/1384016751",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Sep 01 03:15:02 +0000 2020",
     "id": 1300633236670787584,
     "id_str": "1300633236670787584",
