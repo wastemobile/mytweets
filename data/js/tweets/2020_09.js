@@ -1,5 +1,257 @@
 Grailbird.data.tweets_2020_09 = [
   {
+    "created_at": "Fri Sep 04 00:42:51 +0000 2020",
+    "id": 1301682102560198656,
+    "id_str": "1301682102560198656",
+    "text": "「桂林路57巷」，台北市地籍上不存在的小巷，多數人稱它「賊仔市」、「二手電器街」，將在拓寬工程後，真正的消失⋯⋯\n\n懷舊者不妨去玩玩吧。\n\n台北市隱藏版市景「賊仔市」萬華電器街拆遷餞別會！「用愛發の電器系市集」週末限定登場… https://t.co/odwZKDd4nN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/odwZKDd4nN",
+          "expanded_url": "https://twitter.com/i/web/status/1301682102560198656",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Sep 04 00:34:04 +0000 2020",
+    "id": 1301679889397895169,
+    "id_str": "1301679889397895169",
+    "text": "希爾的37種基本劇情，居然包含「由於公婆關係導致夫妻之間無法和睦相處」⋯⋯XD\n\n其實電影只有我喜歡和我不喜歡兩種而已。\n\n根據1919年編劇手冊，世界上的劇情只有37種 https://t.co/F6GsDZK3LT https://t.co/TLWVHQHdKx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/F6GsDZK3LT",
+          "expanded_url": "https://bit.ly/2QOLvjw",
+          "display_url": "bit.ly/2QOLvjw",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1301679877364486145,
+          "id_str": "1301679877364486145",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhB-862VkAEa7SB.png",
+          "media_url_https": "https://pbs.twimg.com/media/EhB-862VkAEa7SB.png",
+          "url": "https://t.co/TLWVHQHdKx",
+          "display_url": "pic.twitter.com/TLWVHQHdKx",
+          "expanded_url": "https://twitter.com/wastemobile/status/1301679889397895169/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1301679877364486145,
+          "id_str": "1301679877364486145",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhB-862VkAEa7SB.png",
+          "media_url_https": "https://pbs.twimg.com/media/EhB-862VkAEa7SB.png",
+          "url": "https://t.co/TLWVHQHdKx",
+          "display_url": "pic.twitter.com/TLWVHQHdKx",
+          "expanded_url": "https://twitter.com/wastemobile/status/1301679889397895169/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 563,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 04 00:17:31 +0000 2020",
+    "id": 1301675725800366080,
+    "id_str": "1301675725800366080",
+    "text": "很棒的故事，與《世界是怪咖的》 https://t.co/VtL11weRKH 是相同概念。\n\n兩位大學生，竟敢挑戰「可口可樂」和「百事可樂」！這家汽水品牌教我們善用自己的特色，在市場上突破重圍… https://t.co/8bGX3pPrHd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VtL11weRKH",
+          "expanded_url": "https://bit.ly/2QUNenf",
+          "display_url": "bit.ly/2QUNenf",
+          "indices": [
+            16,
+            39
+          ]
+        },
+        {
+          "url": "https://t.co/8bGX3pPrHd",
+          "expanded_url": "https://twitter.com/i/web/status/1301675725800366080",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Sep 03 00:38:27 +0000 2020",
     "id": 1301318606559481859,
     "id_str": "1301318606559481859",
