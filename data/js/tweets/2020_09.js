@@ -1,5 +1,407 @@
 Grailbird.data.tweets_2020_09 = [
   {
+    "created_at": "Sat Sep 05 00:13:54 +0000 2020",
+    "id": 1302037203183304705,
+    "id_str": "1302037203183304705",
+    "text": "亞馬遜讓終端機指令工具KindleGen退役了，整合進Kindle Previewer裡，可能會影響一些呼叫它來轉製電子書的程序，例如Pandoc。\n\n最簡單的替代應該是安裝Calibre時隨附安裝的ebook-convert指令… https://t.co/4GqRdGClkm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4GqRdGClkm",
+          "expanded_url": "https://twitter.com/i/web/status/1302037203183304705",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 04 13:24:42 +0000 2020",
+    "id": 1301873824376320001,
+    "id_str": "1301873824376320001",
+    "text": "擺靜態網站之Top 5：Firebase, Netlify, Render, Surge &amp; Vercel，該安裝什麼、指令都列出來了。\n\nTop 5 free HOSTING sites with instructions… https://t.co/7fy1uk8ZF3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7fy1uk8ZF3",
+          "expanded_url": "https://twitter.com/i/web/status/1301873824376320001",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            118,
+            141
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 04 07:57:36 +0000 2020",
+    "id": 1301791510938017792,
+    "id_str": "1301791510938017792",
+    "text": "@kayue thanks, deleted.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kayue",
+          "name": "Kayue",
+          "id": 8778802,
+          "id_str": "8778802",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1301790002955743232,
+    "in_reply_to_status_id_str": "1301790002955743232",
+    "in_reply_to_user_id": 8778802,
+    "in_reply_to_user_id_str": "8778802",
+    "in_reply_to_screen_name": "kayue",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Sep 04 07:21:14 +0000 2020",
+    "id": 1301782358413041666,
+    "id_str": "1301782358413041666",
+    "text": "Obsidian 近來更新很快，已經有繁中介面，小缺點是命令與快速開啟欄就只能輸入中文匹配，希望同時也接受英文匹配。\n\n最重要的，內部雙向連結已經支援到「標題」了，打雙方括號、選定文件後、再輸入hash符號，就會自動跳出該文件的眾… https://t.co/63kteBC9ht",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/63kteBC9ht",
+          "expanded_url": "https://twitter.com/i/web/status/1301782358413041666",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1298619833467076609,
+    "in_reply_to_status_id_str": "1298619833467076609",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 04 04:26:55 +0000 2020",
+    "id": 1301738488270737408,
+    "id_str": "1301738488270737408",
+    "text": "Telegram Revenue and Usage Statistics (2020) https://t.co/lROnoG2gME\n\n超謎 #note #study https://t.co/Yds70X5CcR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            73,
+            78
+          ]
+        },
+        {
+          "text": "study",
+          "indices": [
+            79,
+            85
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lROnoG2gME",
+          "expanded_url": "https://bit.ly/3h1JACK",
+          "display_url": "bit.ly/3h1JACK",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1301738475020984320,
+          "id_str": "1301738475020984320",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhC0PwIVoAALXSa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhC0PwIVoAALXSa.jpg",
+          "url": "https://t.co/Yds70X5CcR",
+          "display_url": "pic.twitter.com/Yds70X5CcR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1301738488270737408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1301738475020984320,
+          "id_str": "1301738475020984320",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhC0PwIVoAALXSa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhC0PwIVoAALXSa.jpg",
+          "url": "https://t.co/Yds70X5CcR",
+          "display_url": "pic.twitter.com/Yds70X5CcR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1301738488270737408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1301738476212162561,
+          "id_str": "1301738476212162561",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhC0P0kVkAEolYF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhC0P0kVkAEolYF.jpg",
+          "url": "https://t.co/Yds70X5CcR",
+          "display_url": "pic.twitter.com/Yds70X5CcR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1301738488270737408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 703,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 399,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1450,
+              "h": 850,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Fri Sep 04 00:42:51 +0000 2020",
     "id": 1301682102560198656,
     "id_str": "1301682102560198656",
