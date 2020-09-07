@@ -1,5 +1,304 @@
 Grailbird.data.tweets_2020_09 = [
   {
+    "created_at": "Mon Sep 07 01:07:41 +0000 2020",
+    "id": 1302775511811121152,
+    "id_str": "1302775511811121152",
+    "text": "巴菲特為什麼投資日本商社 https://t.co/IHIueyELoH\n\n1. 「以價值股的股價買入成長股」的巴菲特式投資精髓\n2. 確保現金流的同時、能擴大資源相關的「投資敞口」\n3. 作為波克夏「擺脫過度集中於美國」的合作夥… https://t.co/01YCuG9uFT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IHIueyELoH",
+          "expanded_url": "https://bit.ly/2QYlpdZ",
+          "display_url": "bit.ly/2QYlpdZ",
+          "indices": [
+            13,
+            36
+          ]
+        },
+        {
+          "url": "https://t.co/01YCuG9uFT",
+          "expanded_url": "https://twitter.com/i/web/status/1302775511811121152",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1300270230174748673,
+    "in_reply_to_status_id_str": "1300270230174748673",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 06 14:55:00 +0000 2020",
+    "id": 1302621325219880960,
+    "id_str": "1302621325219880960",
+    "text": "曾經有一種說法，香港是一國兩制的「櫥窗」，向台灣與全世界展示中國也有民主自由的可能，許多人以為這是真的，或期待隨著時間過去，中國有可能轉變。\n\n現在，香港真成了「櫥窗」，讓全世界知道極權暴政真實存在，在資訊更不透明的中國其他角落，… https://t.co/9WdLRzCmd7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9WdLRzCmd7",
+          "expanded_url": "https://twitter.com/i/web/status/1302621325219880960",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1302610030147981314,
+    "quoted_status_id_str": "1302610030147981314",
+    "quoted_status": {
+      "created_at": "Sun Sep 06 14:10:07 +0000 2020",
+      "id": 1302610030147981314,
+      "id_str": "1302610030147981314",
+      "text": "【飛撲畫面曝光】12歲少女買顏料路過遊行，遭港警撞飛壓制指「形跡可疑」\n#蘋果新聞網 #appledailytw #appledaily #蘋果國際 #香港 #港警 #港版國安法 #港區國安法 #港國安法 #九龍大遊行\n→→… https://t.co/ctou3x8aqo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "蘋果新聞網",
+            "indices": [
+              36,
+              42
+            ]
+          },
+          {
+            "text": "appledailytw",
+            "indices": [
+              43,
+              56
+            ]
+          },
+          {
+            "text": "appledaily",
+            "indices": [
+              57,
+              68
+            ]
+          },
+          {
+            "text": "蘋果國際",
+            "indices": [
+              69,
+              74
+            ]
+          },
+          {
+            "text": "香港",
+            "indices": [
+              75,
+              78
+            ]
+          },
+          {
+            "text": "港警",
+            "indices": [
+              79,
+              82
+            ]
+          },
+          {
+            "text": "港版國安法",
+            "indices": [
+              83,
+              89
+            ]
+          },
+          {
+            "text": "港區國安法",
+            "indices": [
+              90,
+              96
+            ]
+          },
+          {
+            "text": "港國安法",
+            "indices": [
+              97,
+              102
+            ]
+          },
+          {
+            "text": "九龍大遊行",
+            "indices": [
+              103,
+              109
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ctou3x8aqo",
+            "expanded_url": "https://twitter.com/i/web/status/1302610030147981314",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 40813384,
+        "id_str": "40813384",
+        "name": "蘋果新聞網 Taiwan News",
+        "screen_name": "TW_nextmedia",
+        "location": "Taipei, Taiwan ROC",
+        "description": "為台灣本地和世界華人帶來最新的新聞娛樂資訊！Apple Daily is the largest news media group in Taiwan with live streaming, breaking news and animated news for local and global readers.",
+        "url": "https://t.co/atmHp4v8k7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/atmHp4v8k7",
+                "expanded_url": "https://tw.appledaily.com/",
+                "display_url": "tw.appledaily.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 995083,
+        "friends_count": 200,
+        "listed_count": 2376,
+        "created_at": "Mon May 18 04:28:58 +0000 2009",
+        "favourites_count": 4518,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 125793,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40813384/1564537596",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 114,
+      "favorite_count": 152,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 88,
+    "favorite_count": 144,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Sep 06 09:45:10 +0000 2020",
     "id": 1302543355079921664,
     "id_str": "1302543355079921664",
