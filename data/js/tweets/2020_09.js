@@ -1,5 +1,299 @@
 Grailbird.data.tweets_2020_09 = [
   {
+    "created_at": "Sun Sep 13 01:08:17 +0000 2020",
+    "id": 1304949990595284992,
+    "id_str": "1304949990595284992",
+    "text": "現在才知道原來韓國電影《下女的誘惑》（2016）是改編自《指匠情挑》（Fingersmith）啊！\n\n書評》一場文化的乾坤大挪移：評莎拉．華特絲《指匠情挑》 | Openbook閱讀誌 https://t.co/uToOWwAa9r https://t.co/CCavH6S6US",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uToOWwAa9r",
+          "expanded_url": "https://bit.ly/2ZzkGV9",
+          "display_url": "bit.ly/2ZzkGV9",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1304949966687748096,
+          "id_str": "1304949966687748096",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhwdFK4UwAAleKQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhwdFK4UwAAleKQ.jpg",
+          "url": "https://t.co/CCavH6S6US",
+          "display_url": "pic.twitter.com/CCavH6S6US",
+          "expanded_url": "https://twitter.com/wastemobile/status/1304949990595284992/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1304949966687748096,
+          "id_str": "1304949966687748096",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhwdFK4UwAAleKQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhwdFK4UwAAleKQ.jpg",
+          "url": "https://t.co/CCavH6S6US",
+          "display_url": "pic.twitter.com/CCavH6S6US",
+          "expanded_url": "https://twitter.com/wastemobile/status/1304949990595284992/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1304949967878979584,
+          "id_str": "1304949967878979584",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhwdFPUVgAAW0XW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhwdFPUVgAAW0XW.jpg",
+          "url": "https://t.co/CCavH6S6US",
+          "display_url": "pic.twitter.com/CCavH6S6US",
+          "expanded_url": "https://twitter.com/wastemobile/status/1304949990595284992/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 12 14:47:18 +0000 2020",
+    "id": 1304793716876484613,
+    "id_str": "1304793716876484613",
+    "text": "這是篇很棒的文章，推薦一讀。 #blockchain \n\n（請先忽略這是簡轉繁、源頭也不知有沒有正式授權的翻譯文，或直接看原文 https://t.co/3T6kypvXZe）\n\n區塊鏈是一個不知道要解決什麼問題的解決方案… https://t.co/h0tegATwiR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "blockchain",
+          "indices": [
+            15,
+            26
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3T6kypvXZe",
+          "expanded_url": "https://bit.ly/2FsSImQ",
+          "display_url": "bit.ly/2FsSImQ",
+          "indices": [
+            64,
+            87
+          ]
+        },
+        {
+          "url": "https://t.co/h0tegATwiR",
+          "expanded_url": "https://twitter.com/i/web/status/1304793716876484613",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 12 13:03:56 +0000 2020",
+    "id": 1304767703844941827,
+    "id_str": "1304767703844941827",
+    "text": "28年以來第一次台北入選！限時48小時內開放50個滿足不對外開放、非公眾區域、免費入場、閒置或秘密場所等 5 個條件其中一項的空間自由參觀。\n\n48小時太短啦！！11/28-29記得保留下來啊！\n\n設計師辦公室、兩廳院後台任你逛！… https://t.co/5ck9kiRHhA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5ck9kiRHhA",
+          "expanded_url": "https://twitter.com/i/web/status/1304767703844941827",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 43,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 12 04:12:29 +0000 2020",
     "id": 1304633960807329793,
     "id_str": "1304633960807329793",
