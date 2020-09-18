@@ -1,5 +1,432 @@
 Grailbird.data.tweets_2020_09 = [
   {
+    "created_at": "Fri Sep 18 02:23:49 +0000 2020",
+    "id": 1306780940375597058,
+    "id_str": "1306780940375597058",
+    "text": "GitHub命令列介面工具蠻快就進入1.0正式版，應該是可以認真用了。\n\nGitHub CLI 1.0 is now available https://t.co/x8bkgAozbu https://t.co/V9XUDLcUqv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/x8bkgAozbu",
+          "expanded_url": "https://bit.ly/3iHQRJH",
+          "display_url": "bit.ly/3iHQRJH",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1306780933685678080,
+          "id_str": "1306780933685678080",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/EiKeVeeWkAAJlhS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EiKeVeeWkAAJlhS.jpg",
+          "url": "https://t.co/V9XUDLcUqv",
+          "display_url": "pic.twitter.com/V9XUDLcUqv",
+          "expanded_url": "https://twitter.com/wastemobile/status/1306780940375597058/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1306780933685678080,
+          "id_str": "1306780933685678080",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/EiKeVeeWkAAJlhS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EiKeVeeWkAAJlhS.jpg",
+          "url": "https://t.co/V9XUDLcUqv",
+          "display_url": "pic.twitter.com/V9XUDLcUqv",
+          "expanded_url": "https://twitter.com/wastemobile/status/1306780940375597058/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Sep 18 01:43:39 +0000 2020",
+    "id": 1306770830697795584,
+    "id_str": "1306770830697795584",
+    "text": "門神都到位了，Google和Facebook應該滿懷恨意吧，呵呵呵 https://t.co/roaWujGTGH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1306770822820814848,
+          "id_str": "1306770822820814848",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/EiKVI8kUYAAtJlx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EiKVI8kUYAAtJlx.jpg",
+          "url": "https://t.co/roaWujGTGH",
+          "display_url": "pic.twitter.com/roaWujGTGH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1306770830697795584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 976,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 553,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 1888,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1306770822820814848,
+          "id_str": "1306770822820814848",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/EiKVI8kUYAAtJlx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EiKVI8kUYAAtJlx.jpg",
+          "url": "https://t.co/roaWujGTGH",
+          "display_url": "pic.twitter.com/roaWujGTGH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1306770830697795584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 976,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 553,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 1888,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1306770822825046016,
+          "id_str": "1306770822825046016",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/EiKVI8lU8AAawDx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EiKVI8lU8AAawDx.jpg",
+          "url": "https://t.co/roaWujGTGH",
+          "display_url": "pic.twitter.com/roaWujGTGH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1306770830697795584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 780,
+              "h": 1228,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 762,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 432,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Sep 18 01:13:06 +0000 2020",
+    "id": 1306763142597287937,
+    "id_str": "1306763142597287937",
+    "text": "我喜歡「輕點背面兩下」截圖這功能，尤其是截鎖定畫面時特別有感。\n\n蘋果iOS 14上線，30個實用功能更新前一次看！自動整理App、子母畫面、還能當車鑰匙？ https://t.co/rD4ztfSJmZ https://t.co/mahTJICX2z",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rD4ztfSJmZ",
+          "expanded_url": "https://bit.ly/32Dn2V1",
+          "display_url": "bit.ly/32Dn2V1",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1306763134380593152,
+          "id_str": "1306763134380593152",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/EiKOJa5U0AA523w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EiKOJa5U0AA523w.jpg",
+          "url": "https://t.co/mahTJICX2z",
+          "display_url": "pic.twitter.com/mahTJICX2z",
+          "expanded_url": "https://twitter.com/wastemobile/status/1306763142597287937/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 486,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 720,
+              "h": 515,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 515,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1306763134380593152,
+          "id_str": "1306763134380593152",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/EiKOJa5U0AA523w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EiKOJa5U0AA523w.jpg",
+          "url": "https://t.co/mahTJICX2z",
+          "display_url": "pic.twitter.com/mahTJICX2z",
+          "expanded_url": "https://twitter.com/wastemobile/status/1306763142597287937/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 486,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 720,
+              "h": 515,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 515,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Sep 17 14:16:04 +0000 2020",
     "id": 1306597796854730757,
     "id_str": "1306597796854730757",
