@@ -1,5 +1,400 @@
 Grailbird.data.tweets_2020_09 = [
   {
+    "created_at": "Fri Sep 18 23:15:26 +0000 2020",
+    "id": 1307095917590441986,
+    "id_str": "1307095917590441986",
+    "text": "RT @minipai: 海賊王來了",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "minipai",
+          "name": "白",
+          "id": 17832756,
+          "id_str": "17832756",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Sep 18 23:11:10 +0000 2020",
+      "id": 1307094846251962368,
+      "id_str": "1307094846251962368",
+      "text": "海賊王來了 https://t.co/fcgMPuc4OS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fcgMPuc4OS",
+            "expanded_url": "https://twitter.com/vuejs/status/1306992969728380930",
+            "display_url": "twitter.com/vuejs/status/1…",
+            "indices": [
+              6,
+              29
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17832756,
+        "id_str": "17832756",
+        "name": "白",
+        "screen_name": "minipai",
+        "location": "Melbourne",
+        "description": "中產階級已婚異性戀男性網頁設計師",
+        "url": "https://t.co/pPYuA9eo90",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pPYuA9eo90",
+                "expanded_url": "http://stylecoder.tw/",
+                "display_url": "stylecoder.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3717,
+        "friends_count": 753,
+        "listed_count": 44,
+        "created_at": "Wed Dec 03 09:05:48 +0000 2008",
+        "favourites_count": 1397,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8509,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1423044804/IMG_7189-2_-_Version_2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1423044804/IMG_7189-2_-_Version_2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17832756/1406626546",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1306992969728380930,
+      "quoted_status_id_str": "1306992969728380930",
+      "quoted_status": {
+        "created_at": "Fri Sep 18 16:26:21 +0000 2020",
+        "id": 1306992969728380930,
+        "id_str": "1306992969728380930",
+        "text": "Vue 3.0 \"One Piece\" is here! https://t.co/jH6FfByDmX",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/jH6FfByDmX",
+              "expanded_url": "https://github.com/vuejs/vue-next/releases/tag/v3.0.0",
+              "display_url": "github.com/vuejs/vue-next…",
+              "indices": [
+                29,
+                52
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2292889800,
+          "id_str": "2292889800",
+          "name": "Vue.js",
+          "screen_name": "vuejs",
+          "location": "The Internet",
+          "description": "Progressive JavaScript framework for building modern web interfaces. Created by @youyuxi, maintained by https://t.co/Tg5wKFNRqc.",
+          "url": "https://t.co/rYXmrQwxXT",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/rYXmrQwxXT",
+                  "expanded_url": "http://vuejs.org",
+                  "display_url": "vuejs.org",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/Tg5wKFNRqc",
+                  "expanded_url": "http://vuejs.org/v2/guide/team",
+                  "display_url": "vuejs.org/v2/guide/team",
+                  "indices": [
+                    104,
+                    127
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 183042,
+          "friends_count": 511,
+          "listed_count": 2405,
+          "created_at": "Wed Jan 15 15:39:47 +0000 2014",
+          "favourites_count": 4289,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3506,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/875996174305472512/upM71pVR_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/875996174305472512/upM71pVR_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2292889800/1538315722",
+          "profile_link_color": "3AA373",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2245,
+        "favorite_count": 5205,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1306992969728380930,
+    "quoted_status_id_str": "1306992969728380930",
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 18 14:46:51 +0000 2020",
+    "id": 1306967928185577474,
+    "id_str": "1306967928185577474",
+    "text": "試了新的測試版 Cerbot beta，雖可用，但仍不及 https://t.co/vNx7b9H56o 強大，沒必要換。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vNx7b9H56o",
+          "expanded_url": "http://acme.sh",
+          "display_url": "acme.sh",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1306959116905013248,
+    "in_reply_to_status_id_str": "1306959116905013248",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 18 14:11:50 +0000 2020",
+    "id": 1306959116905013248,
+    "id_str": "1306959116905013248",
+    "text": "Certbot 更新了使用 snap 安裝 beta 版的操作方式，可以支援 Cloudflare DNS API tokens 較安全的認證模式。\n\nCertbot - Nginx on Ubuntu 20.04 https://t.co/yffWAWA7JR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yffWAWA7JR",
+          "expanded_url": "https://bit.ly/3hJRtgC",
+          "display_url": "bit.ly/3hJRtgC",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1276523310772178944,
+    "in_reply_to_status_id_str": "1276523310772178944",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Fri Sep 18 02:23:49 +0000 2020",
     "id": 1306780940375597058,
     "id_str": "1306780940375597058",
