@@ -1,5 +1,501 @@
 Grailbird.data.tweets_2020_09 = [
   {
+    "created_at": "Sat Sep 26 15:26:54 +0000 2020",
+    "id": 1309877113512632321,
+    "id_str": "1309877113512632321",
+    "text": "RT @OttoHuang120: 環球時報 認為台灣的桌遊「逆統戰」會危害中國國家安全，身為台灣人，還不玩爆它！快推薦大家一起玩！ https://t.co/SM0Re7EQ7X",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OttoHuang120",
+          "name": "Otto Huang ",
+          "id": 4319693115,
+          "id_str": "4319693115",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1309869617989316610,
+          "id_str": "1309869617989316610",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ei2XekJUcAIiO0j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ei2XekJUcAIiO0j.jpg",
+          "url": "https://t.co/SM0Re7EQ7X",
+          "display_url": "pic.twitter.com/SM0Re7EQ7X",
+          "expanded_url": "https://twitter.com/OttoHuang120/status/1309869625740611585/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 657,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 928,
+              "h": 960,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 928,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1309869625740611585,
+          "source_status_id_str": "1309869625740611585",
+          "source_user_id": 4319693115,
+          "source_user_id_str": "4319693115"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1309869617989316610,
+          "id_str": "1309869617989316610",
+          "indices": [
+            67,
+            90
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ei2XekJUcAIiO0j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ei2XekJUcAIiO0j.jpg",
+          "url": "https://t.co/SM0Re7EQ7X",
+          "display_url": "pic.twitter.com/SM0Re7EQ7X",
+          "expanded_url": "https://twitter.com/OttoHuang120/status/1309869625740611585/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 657,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 928,
+              "h": 960,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 928,
+              "h": 960,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1309869625740611585,
+          "source_status_id_str": "1309869625740611585",
+          "source_user_id": 4319693115,
+          "source_user_id_str": "4319693115"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 26 14:57:09 +0000 2020",
+      "id": 1309869625740611585,
+      "id_str": "1309869625740611585",
+      "text": "環球時報 認為台灣的桌遊「逆統戰」會危害中國國家安全，身為台灣人，還不玩爆它！快推薦大家一起玩！ https://t.co/SM0Re7EQ7X",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1309869617989316610,
+            "id_str": "1309869617989316610",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ei2XekJUcAIiO0j.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ei2XekJUcAIiO0j.jpg",
+            "url": "https://t.co/SM0Re7EQ7X",
+            "display_url": "pic.twitter.com/SM0Re7EQ7X",
+            "expanded_url": "https://twitter.com/OttoHuang120/status/1309869625740611585/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 657,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 928,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 928,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1309869617989316610,
+            "id_str": "1309869617989316610",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ei2XekJUcAIiO0j.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ei2XekJUcAIiO0j.jpg",
+            "url": "https://t.co/SM0Re7EQ7X",
+            "display_url": "pic.twitter.com/SM0Re7EQ7X",
+            "expanded_url": "https://twitter.com/OttoHuang120/status/1309869625740611585/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 657,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 928,
+                "h": 960,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 928,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4319693115,
+        "id_str": "4319693115",
+        "name": "Otto Huang ",
+        "screen_name": "OttoHuang120",
+        "location": "Taiwan",
+        "description": "來自台灣新竹市 Taiwan",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 34148,
+        "friends_count": 5182,
+        "listed_count": 159,
+        "created_at": "Sun Nov 29 16:28:56 +0000 2015",
+        "favourites_count": 113119,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 39342,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/972127298760589312/H78zqcRE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/972127298760589312/H78zqcRE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4319693115/1534575997",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 47,
+      "favorite_count": 188,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 47,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 26 02:15:35 +0000 2020",
+    "id": 1309677971171504128,
+    "id_str": "1309677971171504128",
+    "text": "@sekwisd 啊！來不及、已經升級，只能等外掛更新了⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sekwisd",
+          "name": "心遠地自偏",
+          "id": 319543364,
+          "id_str": "319543364",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1309677353061109760,
+    "in_reply_to_status_id_str": "1309677353061109760",
+    "in_reply_to_user_id": 319543364,
+    "in_reply_to_user_id_str": "319543364",
+    "in_reply_to_screen_name": "sekwisd",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 26 02:05:03 +0000 2020",
+    "id": 1309675320090308609,
+    "id_str": "1309675320090308609",
+    "text": "Calibre 升級至版本5，改用Python 3，強化了閱讀軟體（畫線記事、直排閱讀、搜尋），也多了深色模式。\n\nCalibre 5 https://t.co/rNfSlox8g7 https://t.co/CTTLueJNUO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rNfSlox8g7",
+          "expanded_url": "https://bit.ly/2EENUuI",
+          "display_url": "bit.ly/2EENUuI",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1309675313010413568,
+          "id_str": "1309675313010413568",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/EizmwhsVkAA8TxQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EizmwhsVkAA8TxQ.jpg",
+          "url": "https://t.co/CTTLueJNUO",
+          "display_url": "pic.twitter.com/CTTLueJNUO",
+          "expanded_url": "https://twitter.com/wastemobile/status/1309675320090308609/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 581,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1240,
+              "h": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 329,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1309675313010413568,
+          "id_str": "1309675313010413568",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/EizmwhsVkAA8TxQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EizmwhsVkAA8TxQ.jpg",
+          "url": "https://t.co/CTTLueJNUO",
+          "display_url": "pic.twitter.com/CTTLueJNUO",
+          "expanded_url": "https://twitter.com/wastemobile/status/1309675320090308609/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 581,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1240,
+              "h": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 329,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 37,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Sep 25 13:40:47 +0000 2020",
     "id": 1309488020391747584,
     "id_str": "1309488020391747584",
