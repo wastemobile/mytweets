@@ -1,5 +1,267 @@
 Grailbird.data.tweets_2020_09 = [
   {
+    "created_at": "Mon Sep 28 01:56:12 +0000 2020",
+    "id": 1310397868801368065,
+    "id_str": "1310397868801368065",
+    "text": "NextDNS真不錯，台灣機房速度快，每月30萬筆免費查詢，月付$1.99、或年付$19.9無限查詢，完全自訂過濾與篩選規則。\n\n可根據網路環境自動切換，回家用區網內自架的AdGuard Home/PiHole、外出用NextDN… https://t.co/14qX3RVOWt",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/14qX3RVOWt",
+          "expanded_url": "https://twitter.com/i/web/status/1310397868801368065",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1308557534865760256,
+    "in_reply_to_status_id_str": "1308557534865760256",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 27 12:45:37 +0000 2020",
+    "id": 1310198912695721985,
+    "id_str": "1310198912695721985",
+    "text": "為什麼 Docker 與 UFW 的問題到現在都還是一樣，好奇怪。\n\nTo Fix The Docker and UFW Security Flaw Without Disabling Iptables https://t.co/p9WvWmzH3q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/p9WvWmzH3q",
+          "expanded_url": "https://github.com/chaifeng/ufw-docker",
+          "display_url": "github.com/chaifeng/ufw-d…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Sep 27 02:41:27 +0000 2020",
+    "id": 1310046869767168000,
+    "id_str": "1310046869767168000",
+    "text": "天啊天啊！！ https://t.co/sK2l3nKktY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sK2l3nKktY",
+          "expanded_url": "https://twitter.com/leona0909/status/1310043657731407872",
+          "display_url": "twitter.com/leona0909/stat…",
+          "indices": [
+            7,
+            30
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1310043657731407872,
+    "quoted_status_id_str": "1310043657731407872",
+    "quoted_status": {
+      "created_at": "Sun Sep 27 02:28:42 +0000 2020",
+      "id": 1310043657731407872,
+      "id_str": "1310043657731407872",
+      "text": "俳優 竹内結子さん死去 40歳 | おくやみ | NHKニュース https://t.co/pGKh4EGQ8w",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pGKh4EGQ8w",
+            "expanded_url": "https://www3.nhk.or.jp/news/html/20200927/k10012636751000.html",
+            "display_url": "www3.nhk.or.jp/news/html/2020…",
+            "indices": [
+              33,
+              56
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5851612,
+        "id_str": "5851612",
+        "name": "那那",
+        "screen_name": "leona0909",
+        "location": "Taipei, Taiwan",
+        "description": "資深中二病患者",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4786,
+        "friends_count": 408,
+        "listed_count": 58,
+        "created_at": "Tue May 08 03:10:22 +0000 2007",
+        "favourites_count": 7920,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37371,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/59347624/DSCN0005__Small__normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/59347624/DSCN0005__Small__normal.JPG",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 26 15:26:54 +0000 2020",
     "id": 1309877113512632321,
     "id_str": "1309877113512632321",
