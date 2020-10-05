@@ -1,5 +1,538 @@
 Grailbird.data.tweets_2020_10 = [
   {
+    "created_at": "Sun Oct 04 11:47:20 +0000 2020",
+    "id": 1312720957828558848,
+    "id_str": "1312720957828558848",
+    "text": "RT @erwinrxics8: 一如即往地維持高品質\n\n「104人力銀行坦言，今天早上看到媒體報導才知道個資外洩事件」\n\n104人力銀行592萬筆個資外洩暗網\nhttps://t.co/KTigrO45vK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "erwinrxics8",
+          "name": "♥覺羅",
+          "id": 197761892,
+          "id_str": "197761892",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KTigrO45vK",
+          "expanded_url": "https://www.setn.com/News.aspx?NewsID=825367",
+          "display_url": "setn.com/News.aspx?News…",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Oct 04 10:54:48 +0000 2020",
+      "id": 1312707739135569922,
+      "id_str": "1312707739135569922",
+      "text": "一如即往地維持高品質\n\n「104人力銀行坦言，今天早上看到媒體報導才知道個資外洩事件」\n\n104人力銀行592萬筆個資外洩暗網\nhttps://t.co/KTigrO45vK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KTigrO45vK",
+            "expanded_url": "https://www.setn.com/News.aspx?NewsID=825367",
+            "display_url": "setn.com/News.aspx?News…",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 197761892,
+        "id_str": "197761892",
+        "name": "♥覺羅",
+        "screen_name": "erwinrxics8",
+        "location": "福爾摩沙泛亞聯邦共和國 Taiwan",
+        "description": "人人都是自己的聖王。 帝國級警報： 自古以來中國乃大清神聖不可分割的一部份。#MilkTeaAlliance",
+        "url": "https://t.co/MxkMgyto9l",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/MxkMgyto9l",
+                "expanded_url": "https://www.facebook.com/DigitalQianlong/",
+                "display_url": "facebook.com/DigitalQianlon…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5213,
+        "friends_count": 308,
+        "listed_count": 39,
+        "created_at": "Sat Oct 02 11:32:39 +0000 2010",
+        "favourites_count": 5475,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14903,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "001329",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/709756175194005504/vpOMCT0G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/709756175194005504/vpOMCT0G_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/197761892/1458376988",
+        "profile_link_color": "FFC002",
+        "profile_sidebar_border_color": "F7B565",
+        "profile_sidebar_fill_color": "000B17",
+        "profile_text_color": "448668",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 96,
+      "favorite_count": 208,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 96,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 03 08:01:33 +0000 2020",
+    "id": 1312301750951403521,
+    "id_str": "1312301750951403521",
+    "text": "話說看完新聞、順道去瞄了一下「165高風險賣場通報」，發現東森購物、486團購網這兩家也是座上常客呢⋯⋯\n\n內政部警政署165全民防騙網：高風險賣場 https://t.co/XeZlfHGftB https://t.co/Hi7IlMKKoC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XeZlfHGftB",
+          "expanded_url": "https://bit.ly/3cS7ose",
+          "display_url": "bit.ly/3cS7ose",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1312301738897022978,
+          "id_str": "1312301738897022978",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EjY7eokVoAInDnN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EjY7eokVoAInDnN.jpg",
+          "url": "https://t.co/Hi7IlMKKoC",
+          "display_url": "pic.twitter.com/Hi7IlMKKoC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1312301750951403521/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1021,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1021,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1312301738897022978,
+          "id_str": "1312301738897022978",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EjY7eokVoAInDnN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EjY7eokVoAInDnN.jpg",
+          "url": "https://t.co/Hi7IlMKKoC",
+          "display_url": "pic.twitter.com/Hi7IlMKKoC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1312301750951403521/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1021,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1021,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1312301738905329664,
+          "id_str": "1312301738905329664",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EjY7eomUYAAC7fM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EjY7eomUYAAC7fM.jpg",
+          "url": "https://t.co/Hi7IlMKKoC",
+          "display_url": "pic.twitter.com/Hi7IlMKKoC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1312301750951403521/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1021,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1021,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1312301738896969728,
+          "id_str": "1312301738896969728",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EjY7eokU0AAdYBN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EjY7eokU0AAdYBN.jpg",
+          "url": "https://t.co/Hi7IlMKKoC",
+          "display_url": "pic.twitter.com/Hi7IlMKKoC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1312301750951403521/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1312301738896969729,
+          "id_str": "1312301738896969729",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/media/EjY7eokU0AED9Pi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EjY7eokU0AED9Pi.jpg",
+          "url": "https://t.co/Hi7IlMKKoC",
+          "display_url": "pic.twitter.com/Hi7IlMKKoC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1312301750951403521/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1021,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1021,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1312298694855684097,
+    "in_reply_to_status_id_str": "1312298694855684097",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 03 07:49:24 +0000 2020",
+    "id": 1312298694855684097,
+    "id_str": "1312298694855684097",
+    "text": "「今年更和具規模的知名資安公司合作，2個月前提升資安防護，逐一做各種掃瞄、偵測，只是全部工作還沒完成，便發現又有駭客入侵，從防火牆軟體的漏洞進行攻擊，目前已加緊補救中」\n\n原來讀冊是因為反服貿後被駭客頻繁攻擊才這麼多詐騙的啊⋯⋯… https://t.co/wy0tZrmuXq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wy0tZrmuXq",
+          "expanded_url": "https://twitter.com/i/web/status/1312298694855684097",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1294906570132742145,
+    "in_reply_to_status_id_str": "1294906570132742145",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 03 05:16:53 +0000 2020",
+    "id": 1312260310112198656,
+    "id_str": "1312260310112198656",
+    "text": "Learn Vue 3 for Beginners - Full 2020 Tutorial Course https://t.co/AoCA2zOA2k 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            81,
+            89
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AoCA2zOA2k",
+          "expanded_url": "https://youtu.be/ZqgiuPt5QZo",
+          "display_url": "youtu.be/ZqgiuPt5QZo",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Oct 03 04:56:25 +0000 2020",
     "id": 1312255160815550465,
     "id_str": "1312255160815550465",
