@@ -1,5 +1,631 @@
 Grailbird.data.tweets_2020_10 = [
   {
+    "created_at": "Sat Oct 10 03:52:42 +0000 2020",
+    "id": 1314775841490964480,
+    "id_str": "1314775841490964480",
+    "text": "稍微熟悉Docker之後，重新安裝了老Raspberry Pi 2 Model B、所有服務都用容器跑，即使只有1GB記憶體，在沒什麼外部流量的單人實驗環境，真的是很好用啊。\n\n可用於ARMv7l 的各種docker應用映像檔… https://t.co/xbMNn5hIGx",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xbMNn5hIGx",
+          "expanded_url": "https://twitter.com/i/web/status/1314775841490964480",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 10 02:47:55 +0000 2020",
+    "id": 1314759535874064384,
+    "id_str": "1314759535874064384",
+    "text": "瑞典的BookBeat主供吃到飽的電子書與有聲書，今年有近70%的成長、40萬訂閱用戶，預計年營收可達5,700萬美金。 #note\n\n他們每日提供給出版商數據，明瞭書籍如何被閱讀、被完成，這工具被視為關鍵成長要素。\n\n事實上還落… https://t.co/usUaR7Ym2Z",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            61,
+            66
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/usUaR7Ym2Z",
+          "expanded_url": "https://twitter.com/i/web/status/1314759535874064384",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 10 02:23:08 +0000 2020",
+    "id": 1314753299875151873,
+    "id_str": "1314753299875151873",
+    "text": "日本星辰錶時計開發出了利用靜電現象發電和驅動的手錶。只要搖晃手錶，帶靜電的發電渦輪就會旋轉，進而發電。電力可存儲，通過靜電馬達等驅動表針（日經中文） https://t.co/i5hZCspJ2R\n\nvs.\n\nApple Watc… https://t.co/bhfHThVoeI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/i5hZCspJ2R",
+          "expanded_url": "https://bit.ly/33IpFFB",
+          "display_url": "bit.ly/33IpFFB",
+          "indices": [
+            75,
+            98
+          ]
+        },
+        {
+          "url": "https://t.co/bhfHThVoeI",
+          "expanded_url": "https://twitter.com/i/web/status/1314753299875151873",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 10 02:15:45 +0000 2020",
+    "id": 1314751441278394373,
+    "id_str": "1314751441278394373",
+    "text": "中國的「數字人民幣」試驗使用了日式扭蛋自動販賣機。以高頻度多次結算低單價商品非常適合這項試驗。可以説這種結合身邊技術實現創新的做法，非常具有中國特色⋯⋯\n\n雖說是篇正經報導，但就是覺得哪裡不太對。\n\n數字人民幣試驗使用了日式扭蛋機… https://t.co/EZfKiSwGER",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EZfKiSwGER",
+          "expanded_url": "https://twitter.com/i/web/status/1314751441278394373",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 09 01:09:24 +0000 2020",
+    "id": 1314372358715568130,
+    "id_str": "1314372358715568130",
+    "text": "RT @kinkinlin: @wastemobile 我感覺這就跟방탄소년단／防彈少年團類似吧？脫離了年輕人年紀後，完全不能理解為什麼？這女生團體我不知道，不過防彈少年團有很多專訪，特地去看之後，發現背後很多推力，而且是慢慢累積起來的，就跟浪潮一樣，一開始小小的越推越強。現在…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kinkinlin",
+          "name": "迷失在虛幻的旅人",
+          "id": 28994418,
+          "id_str": "28994418",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "wastemobile",
+          "name": "wastemobile",
+          "id": 20709129,
+          "id_str": "20709129",
+          "indices": [
+            15,
+            27
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 09 01:06:57 +0000 2020",
+      "id": 1314371742731661312,
+      "id_str": "1314371742731661312",
+      "text": "@wastemobile 我感覺這就跟방탄소년단／防彈少年團類似吧？脫離了年輕人年紀後，完全不能理解為什麼？這女生團體我不知道，不過防彈少年團有很多專訪，特地去看之後，發現背後很多推力，而且是慢慢累積起來的，就跟浪潮一樣，一開始小小的越推越強。現在韓風已成大浪！",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1313472235894640642,
+      "in_reply_to_status_id_str": "1313472235894640642",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 28994418,
+        "id_str": "28994418",
+        "name": "迷失在虛幻的旅人",
+        "screen_name": "kinkinlin",
+        "location": "Taiwan",
+        "description": "我只是一個迷失在追尋青鳥路途的旅人",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 200,
+        "friends_count": 853,
+        "listed_count": 5,
+        "created_at": "Sun Apr 05 14:24:37 +0000 2009",
+        "favourites_count": 5268,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1666,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/470068223635775488/8ZGe5wA5_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/470068223635775488/8ZGe5wA5_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28994418/1400908003",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 09 01:02:59 +0000 2020",
+    "id": 1314370742557974528,
+    "id_str": "1314370742557974528",
+    "text": "這「雜誌」真是有趣，利用一般正常B1印刷邊邊裁出 1 x 90 公分、印上字體樣本，很搞怪的惡趣味。\n\n雜誌名稱似乎就是指利用上班時間偷閒做的工作，例如秘書在上班時間偷寫情書。\n\nLa Perruque type magazine… https://t.co/tzwoo6r7GM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tzwoo6r7GM",
+          "expanded_url": "https://twitter.com/i/web/status/1314370742557974528",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 09 00:34:25 +0000 2020",
+    "id": 1314363555056025600,
+    "id_str": "1314363555056025600",
+    "text": "這兩則推文比較了Ethereum與Bitcoin的節點分佈。\n\nEthereum 70%節點跑在雲端服務上，其中1/3用的是AWS；Bitcoin看起來更為分散、更多一般個人節點，但居然1/4都是洋蔥路由的隱藏節點，比特幣果然是暗… https://t.co/TiL1QGc7LJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TiL1QGc7LJ",
+          "expanded_url": "https://twitter.com/i/web/status/1314363555056025600",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1314001794046070785,
+    "quoted_status_id_str": "1314001794046070785",
+    "quoted_status": {
+      "created_at": "Thu Oct 08 00:36:55 +0000 2020",
+      "id": 1314001794046070785,
+      "id_str": "1314001794046070785",
+      "text": "Nearly 70% of Ethereum nodes are run on cloud services &amp; 1/3 of those are on AWS. (https://t.co/cRKLibNeHL)\n\nWould… https://t.co/rI1MNGoGhT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cRKLibNeHL",
+            "expanded_url": "http://Ethernodes.org",
+            "display_url": "Ethernodes.org",
+            "indices": [
+              87,
+              110
+            ]
+          },
+          {
+            "url": "https://t.co/rI1MNGoGhT",
+            "expanded_url": "https://twitter.com/i/web/status/1314001794046070785",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 895400381852811266,
+        "id_str": "895400381852811266",
+        "name": "Alex Thorn",
+        "screen_name": "intangiblecoins",
+        "location": "Cambridge, MA",
+        "description": "investing @ avon ventures (fidelity) in boston 🇺🇸",
+        "url": "https://t.co/b19rsONoAR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/b19rsONoAR",
+                "expanded_url": "https://alexthorn.com",
+                "display_url": "alexthorn.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2138,
+        "friends_count": 1227,
+        "listed_count": 54,
+        "created_at": "Wed Aug 09 21:44:21 +0000 2017",
+        "favourites_count": 24442,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2320,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1290487057266032640/koqZa1iE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1290487057266032640/koqZa1iE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/895400381852811266/1601499144",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "favorite_count": 47,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Oct 08 01:24:11 +0000 2020",
     "id": 1314013689469526017,
     "id_str": "1314013689469526017",
