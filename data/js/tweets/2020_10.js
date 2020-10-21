@@ -1,5 +1,587 @@
 Grailbird.data.tweets_2020_10 = [
   {
+    "created_at": "Wed Oct 21 14:19:14 +0000 2020",
+    "id": 1318919781722935296,
+    "id_str": "1318919781722935296",
+    "text": "Obsidian 下一版（0.9.6）即將增加Block Reference、針對「段落」的雙向連結功能。\n\n感覺快成為Markdown語法的進階實驗場了，明明都還是一張張的純文字檔，玩到這樣真是厲害～\n\nhttps://t.co/CPFUMJEp1y",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CPFUMJEp1y",
+          "expanded_url": "https://youtu.be/FJUVSej4YlY",
+          "display_url": "youtu.be/FJUVSej4YlY",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1301782358413041666,
+    "in_reply_to_status_id_str": "1301782358413041666",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 21 03:43:38 +0000 2020",
+    "id": 1318759827334516737,
+    "id_str": "1318759827334516737",
+    "text": "RT @SylviaPlathBot: Exit from a smoking slit\nHer ruby dregs.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SylviaPlathBot",
+          "name": "Sylvia Plath Bot",
+          "id": 975003162053660674,
+          "id_str": "975003162053660674",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Oct 20 16:27:05 +0000 2020",
+      "id": 1318589565398114304,
+      "id_str": "1318589565398114304",
+      "text": "Exit from a smoking slit\nHer ruby dregs.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://niggy.com\" rel=\"nofollow\">sylviaplathbot</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 975003162053660674,
+        "id_str": "975003162053660674",
+        "name": "Sylvia Plath Bot",
+        "screen_name": "SylviaPlathBot",
+        "location": "",
+        "description": "Tweets random bits of Sylvia Plath's poetry every hour",
+        "url": "https://t.co/3LdazNNMcU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3LdazNNMcU",
+                "expanded_url": "https://en.m.wikipedia.org/wiki/Sylvia_Plath",
+                "display_url": "en.m.wikipedia.org/wiki/Sylvia_Pl…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13873,
+        "friends_count": 3194,
+        "listed_count": 116,
+        "created_at": "Sat Mar 17 13:37:23 +0000 2018",
+        "favourites_count": 1170,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22043,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/975055383638179840/cbMXn8xL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/975055383638179840/cbMXn8xL_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/975003162053660674/1521306229",
+        "profile_link_color": "AD795D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 25,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Oct 21 01:28:04 +0000 2020",
+    "id": 1318725707577524224,
+    "id_str": "1318725707577524224",
+    "text": "@kinkinlin @YouTube 後來我才發現，利用unRAID虛擬化技術用一台強力電腦讓多人同時玩遊戲的建構，似乎已經好幾年了，YouTube上找到很多影片；裝黑蘋果來並用倒是第一次看到。\n\nunraid gaming s… https://t.co/Dzrc0HpBoZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kinkinlin",
+          "name": "迷失在虛幻的旅人",
+          "id": 28994418,
+          "id_str": "28994418",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            11,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Dzrc0HpBoZ",
+          "expanded_url": "https://twitter.com/i/web/status/1318725707577524224",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1318723010933575680,
+    "in_reply_to_status_id_str": "1318723010933575680",
+    "in_reply_to_user_id": 28994418,
+    "in_reply_to_user_id_str": "28994418",
+    "in_reply_to_screen_name": "kinkinlin",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 21 01:21:48 +0000 2020",
+    "id": 1318724132175978497,
+    "id_str": "1318724132175978497",
+    "text": "沒有政府干涉的UBI計畫；完全去中心化，時間、空間上都是平等的；相互信任的體系，以貨幣形式來交換彼此的信用；代幣鑄印只會持續到人類生命的終點⋯⋯\n\n「亮點介紹相當簡單明確」!? （這到底是什麼啦）\n\n了解爆紅的Circles UB… https://t.co/jeeYeEQwtg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jeeYeEQwtg",
+          "expanded_url": "https://twitter.com/i/web/status/1318724132175978497",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 21 01:11:37 +0000 2020",
+    "id": 1318721569019981824,
+    "id_str": "1318721569019981824",
+    "text": "這份Bookwire發佈的《Listen &amp; Read》報告聚焦在電子書、有聲書與Podcasts之間的競合關係。\n\n世代差異似乎相當明顯，嬰兒潮世代偏好閱讀，Z世代偏好聽取、也更接受訂閱模式。\n\n注意力爭奪戰… https://t.co/0Vbh0PPFuu",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0Vbh0PPFuu",
+          "expanded_url": "https://twitter.com/i/web/status/1318721569019981824",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 20 00:08:20 +0000 2020",
+    "id": 1318343254123843585,
+    "id_str": "1318343254123843585",
+    "text": "來稍微了解一下Unraid。\n\n【unRAID 技術】Lime Tech unRAID Server OS 6.8.0 消除使用傳統的基於RAID的技術 https://t.co/0IppAosofw https://t.co/GPSCkoGhyT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0IppAosofw",
+          "expanded_url": "https://bit.ly/2FLUboU",
+          "display_url": "bit.ly/2FLUboU",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1318343247886913536,
+          "id_str": "1318343247886913536",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkuyMvZVkAABFlc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkuyMvZVkAABFlc.jpg",
+          "url": "https://t.co/GPSCkoGhyT",
+          "display_url": "pic.twitter.com/GPSCkoGhyT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1318343254123843585/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 678,
+              "h": 277,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 678,
+              "h": 277,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 678,
+              "h": 277,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1318343247886913536,
+          "id_str": "1318343247886913536",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkuyMvZVkAABFlc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkuyMvZVkAABFlc.jpg",
+          "url": "https://t.co/GPSCkoGhyT",
+          "display_url": "pic.twitter.com/GPSCkoGhyT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1318343254123843585/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 678,
+              "h": 277,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 678,
+              "h": 277,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 678,
+              "h": 277,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1318029580825817088,
+    "in_reply_to_status_id_str": "1318029580825817088",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Oct 19 23:25:03 +0000 2020",
+    "id": 1318332363953197056,
+    "id_str": "1318332363953197056",
+    "text": "維吉尼亞‧吳爾芙：「中庸的人不追求單一目標，既不追求藝術本身，也不追求生活本身，而是混雜著金錢、名譽、權力或聲望。它們難以區分，而且相當討人厭。」\n\n近日剛逛了「禽獸不如—2020台灣美術雙年展」，覺得自己也不太高尚。\n\n澳洲研究… https://t.co/SvkLtHyedT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SvkLtHyedT",
+          "expanded_url": "https://twitter.com/i/web/status/1318332363953197056",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Oct 19 03:21:54 +0000 2020",
     "id": 1318029580825817088,
     "id_str": "1318029580825817088",
