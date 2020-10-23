@@ -1,5 +1,608 @@
 Grailbird.data.tweets_2020_10 = [
   {
+    "created_at": "Thu Oct 22 14:41:54 +0000 2020",
+    "id": 1319287873477042186,
+    "id_str": "1319287873477042186",
+    "text": "RT @me_BEE_: 圖片版\n南投旭光高中、南投草屯分局壓案縱容強姦犯\n還能寄密件要巴哈刪文真是好大的官威，我還以為現在是2020不是1960呢 https://t.co/kGrdtMsyiP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "me_BEE_",
+          "name": "Me🐝",
+          "id": 1066396660132020224,
+          "id_str": "1066396660132020224",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 22 03:47:28 +0000 2020",
+      "id": 1319123176962412544,
+      "id_str": "1319123176962412544",
+      "text": "圖片版\n南投旭光高中、南投草屯分局壓案縱容強姦犯\n還能寄密件要巴哈刪文真是好大的官威，我還以為現在是2020不是1960呢 https://t.co/VQddR2AR27 https://t.co/kGrdtMsyiP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VQddR2AR27",
+            "expanded_url": "https://twitter.com/me_BEE_/status/1319120950432911360",
+            "display_url": "twitter.com/me_BEE_/status…",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1319123141075947520,
+            "id_str": "1319123141075947520",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ek53gf7UUAAET-0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ek53gf7UUAAET-0.jpg",
+            "url": "https://t.co/kGrdtMsyiP",
+            "display_url": "pic.twitter.com/kGrdtMsyiP",
+            "expanded_url": "https://twitter.com/me_BEE_/status/1319123176962412544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 810,
+                "h": 970,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 568,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 810,
+                "h": 970,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1319123141075947520,
+            "id_str": "1319123141075947520",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ek53gf7UUAAET-0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ek53gf7UUAAET-0.jpg",
+            "url": "https://t.co/kGrdtMsyiP",
+            "display_url": "pic.twitter.com/kGrdtMsyiP",
+            "expanded_url": "https://twitter.com/me_BEE_/status/1319123176962412544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 810,
+                "h": 970,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 568,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 810,
+                "h": 970,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1319123151121334275,
+            "id_str": "1319123151121334275",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ek53hFWUwAMJzFp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ek53hFWUwAMJzFp.jpg",
+            "url": "https://t.co/kGrdtMsyiP",
+            "display_url": "pic.twitter.com/kGrdtMsyiP",
+            "expanded_url": "https://twitter.com/me_BEE_/status/1319123176962412544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 810,
+                "h": 998,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 810,
+                "h": 998,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 552,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1319123159673565184,
+            "id_str": "1319123159673565184",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ek53hlNVcAAP4SR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ek53hlNVcAAP4SR.jpg",
+            "url": "https://t.co/kGrdtMsyiP",
+            "display_url": "pic.twitter.com/kGrdtMsyiP",
+            "expanded_url": "https://twitter.com/me_BEE_/status/1319123176962412544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 810,
+                "h": 1087,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 810,
+                "h": 1087,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 507,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1319123168573812736,
+            "id_str": "1319123168573812736",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ek53iGXUcAAnhdC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ek53iGXUcAAnhdC.jpg",
+            "url": "https://t.co/kGrdtMsyiP",
+            "display_url": "pic.twitter.com/kGrdtMsyiP",
+            "expanded_url": "https://twitter.com/me_BEE_/status/1319123176962412544/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 810,
+                "h": 627,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 526,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 810,
+                "h": 627,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1066396660132020224,
+        "id_str": "1066396660132020224",
+        "name": "Me🐝",
+        "screen_name": "me_BEE_",
+        "location": "",
+        "description": "我看起來有像是想開學的樣子嗎？",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 560,
+        "friends_count": 99,
+        "listed_count": 3,
+        "created_at": "Sat Nov 24 18:22:31 +0000 2018",
+        "favourites_count": 6831,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10074,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1314120681081061376/5iB7NsP-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314120681081061376/5iB7NsP-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1066396660132020224/1591289995",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1319120950432911360,
+      "quoted_status_id_str": "1319120950432911360",
+      "quoted_status": {
+        "created_at": "Thu Oct 22 03:38:37 +0000 2020",
+        "id": 1319120950432911360,
+        "id_str": "1319120950432911360",
+        "text": "#轉噗浪\n這是別人整理的文字版懶人包\n需要的可以廣傳\n事發歷程\n2018年9月至2019年7月，高一期間，田姓男同學在家中威脅當時與之有些曖昧的被害女同學，若不幫他口交就會要求擔任所長的父親對其被害女同學家人不利，並偷拍相關不雅照片及影片，持續威脅女同學與之發生性行為。\n(續)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "轉噗浪",
+              "indices": [
+                0,
+                4
+              ]
+            }
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1319119747129065473,
+        "in_reply_to_status_id_str": "1319119747129065473",
+        "in_reply_to_user_id": 1066396660132020224,
+        "in_reply_to_user_id_str": "1066396660132020224",
+        "in_reply_to_screen_name": "me_BEE_",
+        "user": {
+          "id": 1066396660132020224,
+          "id_str": "1066396660132020224",
+          "name": "Me🐝",
+          "screen_name": "me_BEE_",
+          "location": "",
+          "description": "我看起來有像是想開學的樣子嗎？",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 560,
+          "friends_count": 99,
+          "listed_count": 3,
+          "created_at": "Sat Nov 24 18:22:31 +0000 2018",
+          "favourites_count": 6831,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 10074,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1314120681081061376/5iB7NsP-_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314120681081061376/5iB7NsP-_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1066396660132020224/1591289995",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 14,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "zh"
+      },
+      "retweet_count": 183,
+      "favorite_count": 164,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1319120950432911360,
+    "quoted_status_id_str": "1319120950432911360",
+    "retweet_count": 183,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 22 03:05:32 +0000 2020",
+    "id": 1319112623925809153,
+    "id_str": "1319112623925809153",
+    "text": "某些網站提供極為完整且詳盡的隱私權設置，卻像極了煙霧彈。一股腦把所有選項攤在用戶面前，造成一種這東西實在太複雜、就像幾十頁同意書的假象，你搞不懂、也懶得細看，多半就胡亂點擊同意了。\n\nhttps://t.co/TUlOyaBYW9 https://t.co/j9AxcOVivy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TUlOyaBYW9",
+          "expanded_url": "https://bit.ly/35l3DZ8",
+          "display_url": "bit.ly/35l3DZ8",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1319111138592784384,
+          "id_str": "1319111138592784384",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ek5sl3MVgAATMRD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ek5sl3MVgAATMRD.jpg",
+          "url": "https://t.co/j9AxcOVivy",
+          "display_url": "pic.twitter.com/j9AxcOVivy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1319112623925809153/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1816,
+              "h": 776,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 513,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 291,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1319111138592784384,
+          "id_str": "1319111138592784384",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ek5sl3MVgAATMRD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ek5sl3MVgAATMRD.jpg",
+          "url": "https://t.co/j9AxcOVivy",
+          "display_url": "pic.twitter.com/j9AxcOVivy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1319112623925809153/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1816,
+              "h": 776,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 513,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 291,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1319111139993612293,
+          "id_str": "1319111139993612293",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ek5sl8aUcAU6qcq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ek5sl8aUcAU6qcq.jpg",
+          "url": "https://t.co/j9AxcOVivy",
+          "display_url": "pic.twitter.com/j9AxcOVivy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1319112623925809153/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 983,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1912,
+              "h": 1566,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 557,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1276710712404873216,
+    "in_reply_to_status_id_str": "1276710712404873216",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Oct 21 14:19:14 +0000 2020",
     "id": 1318919781722935296,
     "id_str": "1318919781722935296",
