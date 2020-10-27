@@ -1,5 +1,473 @@
 Grailbird.data.tweets_2020_10 = [
   {
+    "created_at": "Mon Oct 26 15:59:09 +0000 2020",
+    "id": 1320756862900301825,
+    "id_str": "1320756862900301825",
+    "text": "RT @haohpeggy1996: 你做了一個機器，結果這個機器莫名其妙對周圍市區做無預警都更，你應該要想辦法趕快把它關掉，而不是跟被埋在水泥塊下面的人解釋這個機器的原理。\n臉書做了一個機器學習的審查系統，結果這個審查系統刪文把用戶關禁閉的決定莫名其妙，然後臉書的產品經理跟大…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "haohpeggy1996",
+          "name": "霸王Peggy",
+          "id": 969911075213725696,
+          "id_str": "969911075213725696",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 26 03:56:26 +0000 2020",
+      "id": 1320574986256486401,
+      "id_str": "1320574986256486401",
+      "text": "你做了一個機器，結果這個機器莫名其妙對周圍市區做無預警都更，你應該要想辦法趕快把它關掉，而不是跟被埋在水泥塊下面的人解釋這個機器的原理。\n臉書做了一個機器學習的審查系統，結果這個審查系統刪文把用戶關禁閉的決定莫名其妙，然後臉書的產… https://t.co/KzDsA1nEmb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KzDsA1nEmb",
+            "expanded_url": "https://twitter.com/i/web/status/1320574986256486401",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 969911075213725696,
+        "id_str": "969911075213725696",
+        "name": "霸王Peggy",
+        "screen_name": "haohpeggy1996",
+        "location": "Taiwan",
+        "description": "不要在神桌上做愛",
+        "url": "https://t.co/p7bvptyIvY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/p7bvptyIvY",
+                "expanded_url": "https://www.facebook.com/haoh.peggy/",
+                "display_url": "facebook.com/haoh.peggy/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10756,
+        "friends_count": 156,
+        "listed_count": 35,
+        "created_at": "Sat Mar 03 12:23:15 +0000 2018",
+        "favourites_count": 17482,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8631,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1291371945573793794/rgdfvKil_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291371945573793794/rgdfvKil_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969911075213725696/1520080681",
+        "profile_link_color": "438C89",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 72,
+      "favorite_count": 349,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 72,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 26 01:38:07 +0000 2020",
+    "id": 1320540179849900033,
+    "id_str": "1320540179849900033",
+    "text": "FinCEN和美聯儲聯手提出對「國際轉帳規則」的修改提案，將原先3,000美元即須保留「資金轉移的發送人及收款人」資訊的規定，大幅下修成250美元。 #note\n\n包含數位資產與加密貨幣。\n\n監管趨嚴！FinCEN提案：超過250… https://t.co/RYFNzZbMaS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            75,
+            80
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RYFNzZbMaS",
+          "expanded_url": "https://twitter.com/i/web/status/1320540179849900033",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 26 01:32:47 +0000 2020",
+    "id": 1320538835277639681,
+    "id_str": "1320538835277639681",
+    "text": "很久以前，電子郵件都是拉回到本機郵件程式時，就刪除在伺服器中的存檔，當Gmail提供接近無限空間，教大家只要「封存」、無需刪除，人們只看到可以隨時回溯搜尋的好處，卻忘了Google也能從這些電郵封存裡分析出多少資訊。\n\nHow t… https://t.co/Jel90mVgK2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Jel90mVgK2",
+          "expanded_url": "https://twitter.com/i/web/status/1320538835277639681",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 25 15:21:55 +0000 2020",
+    "id": 1320385105425166336,
+    "id_str": "1320385105425166336",
+    "text": "所以一台夠強的Linux PC能用一行指令就安裝虛擬機macOS，分配夠多的處理器核心與記憶體，還能跑贏白蘋果，這麼好的事我怎麼現在才知道？\n\nThis Linux PC Runs macOS Faster Than a Real… https://t.co/MYN0DADO66",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MYN0DADO66",
+          "expanded_url": "https://twitter.com/i/web/status/1320385105425166336",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1318343254123843585,
+    "in_reply_to_status_id_str": "1318343254123843585",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 25 04:13:05 +0000 2020",
+    "id": 1320216789809197057,
+    "id_str": "1320216789809197057",
+    "text": "Svelte for Sites, React for Apps. Q.E.D. https://t.co/LaPSCFo0lw\n\n是這樣喔，我以為是Alpine JS... https://t.co/7pMgDtLz0s",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LaPSCFo0lw",
+          "expanded_url": "https://bit.ly/3dW2hYA",
+          "display_url": "bit.ly/3dW2hYA",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1320216783261888514,
+          "id_str": "1320216783261888514",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/ElJaK2jVcAI2__Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ElJaK2jVcAI2__Z.jpg",
+          "url": "https://t.co/7pMgDtLz0s",
+          "display_url": "pic.twitter.com/7pMgDtLz0s",
+          "expanded_url": "https://twitter.com/wastemobile/status/1320216789809197057/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 286,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 420,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 420,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1320216783261888514,
+          "id_str": "1320216783261888514",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/ElJaK2jVcAI2__Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ElJaK2jVcAI2__Z.jpg",
+          "url": "https://t.co/7pMgDtLz0s",
+          "display_url": "pic.twitter.com/7pMgDtLz0s",
+          "expanded_url": "https://twitter.com/wastemobile/status/1320216789809197057/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 286,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 420,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 420,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Oct 25 02:04:04 +0000 2020",
     "id": 1320184319743123459,
     "id_str": "1320184319743123459",
