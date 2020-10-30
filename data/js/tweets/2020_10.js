@@ -1,5 +1,748 @@
 Grailbird.data.tweets_2020_10 = [
   {
+    "created_at": "Fri Oct 30 02:32:28 +0000 2020",
+    "id": 1322003407457054720,
+    "id_str": "1322003407457054720",
+    "text": "「來自由前蘇聯解體後的愛沙尼亞遊戲團隊，遊戲主創者原本是寫了一本充滿上述哲理辯證的小說，後來才決定用遊戲的形式，重新辯證這些思想內容⋯⋯」\n\n蒸氣龐克包裝的衰敗城市，實在迷人。\n\nDisco Elysium 評論：新世紀哲學 RP… https://t.co/PcM8ikD03K",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PcM8ikD03K",
+          "expanded_url": "https://twitter.com/i/web/status/1322003407457054720",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1322002031414972416,
+    "in_reply_to_status_id_str": "1322002031414972416",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 30 02:27:00 +0000 2020",
+    "id": 1322002031414972416,
+    "id_str": "1322002031414972416",
+    "text": "今天打開App Store，推薦的遊戲居然是《極樂迪斯可》。\n\nhttps://t.co/D4NIWEb8T2 https://t.co/mY3gmpWTbQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D4NIWEb8T2",
+          "expanded_url": "https://apple.co/31YjQCK",
+          "display_url": "apple.co/31YjQCK",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1322001725738287105,
+          "id_str": "1322001725738287105",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/ElixkLcVgAEiiGX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ElixkLcVgAEiiGX.jpg",
+          "url": "https://t.co/mY3gmpWTbQ",
+          "display_url": "pic.twitter.com/mY3gmpWTbQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1322002031414972416/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 426,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 601,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 601,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1322001725738287105,
+          "id_str": "1322001725738287105",
+          "indices": [
+            56,
+            79
+          ],
+          "media_url": "http://pbs.twimg.com/media/ElixkLcVgAEiiGX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ElixkLcVgAEiiGX.jpg",
+          "url": "https://t.co/mY3gmpWTbQ",
+          "display_url": "pic.twitter.com/mY3gmpWTbQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1322002031414972416/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 426,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 601,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 601,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1261197264690675712,
+    "in_reply_to_status_id_str": "1261197264690675712",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 30 02:11:36 +0000 2020",
+    "id": 1321998155429208065,
+    "id_str": "1321998155429208065",
+    "text": "英國一間專門出版汽機車照顧與維修手冊的出版商Haynes，2019年營收成長7%、利潤增長24%，數位佔比達56%，這或許可以佐證法國的數位出版產值有七成為專業與學術出版的資料。 #note… https://t.co/p5lL3Uga4s",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            90,
+            95
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/p5lL3Uga4s",
+          "expanded_url": "https://twitter.com/i/web/status/1321998155429208065",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1321274154344038400,
+    "in_reply_to_status_id_str": "1321274154344038400",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 30 02:00:58 +0000 2020",
+    "id": 1321995480918683650,
+    "id_str": "1321995480918683650",
+    "text": "RT @xpan_hk: 原來一直想要的就是自己擁有一部… \n「個貓電腦」\n\n😹😹😹😹",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "xpan_hk",
+          "name": "xpan",
+          "id": 1104487159,
+          "id_str": "1104487159",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 30 00:47:42 +0000 2020",
+      "id": 1321977043379052550,
+      "id_str": "1321977043379052550",
+      "text": "原來一直想要的就是自己擁有一部… \n「個貓電腦」\n\n😹😹😹😹 https://t.co/S5dBEMwIky",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/S5dBEMwIky",
+            "expanded_url": "https://twitter.com/gisel_ysbryd/status/1311309896944701440",
+            "display_url": "twitter.com/gisel_ysbryd/s…",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1104487159,
+        "id_str": "1104487159",
+        "name": "xpan",
+        "screen_name": "xpan_hk",
+        "location": "One Country One System",
+        "description": "For lovely eyes, seek out the good in people.\nHong Konger 香港人 Distrust and Verify \n#StandWithHongKong",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 530,
+        "friends_count": 1211,
+        "listed_count": 63,
+        "created_at": "Sat Jan 19 19:35:23 +0000 2013",
+        "favourites_count": 21854,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 62844,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318406238330236929/NI-RcNvy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318406238330236929/NI-RcNvy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1104487159/1600328000",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1311309896944701440,
+      "quoted_status_id_str": "1311309896944701440",
+      "quoted_status": {
+        "created_at": "Wed Sep 30 14:20:17 +0000 2020",
+        "id": 1311309896944701440,
+        "id_str": "1311309896944701440",
+        "text": "Apparently cats are all over your laptop when you're trying to work because they want to mirror your behaviour. My… https://t.co/By3VMqoLLw",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/By3VMqoLLw",
+              "expanded_url": "https://twitter.com/i/web/status/1311309896944701440",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 330343580,
+          "id_str": "330343580",
+          "name": "*",
+          "screen_name": "gisel_ysbryd",
+          "location": "Republic of Wales ",
+          "description": "anifeiliaid ac annibyniaeth\n\ne.g. probably angry about tories, but probably posting kitten videos at the same time\n\n#YesCymru",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 885,
+          "friends_count": 973,
+          "listed_count": 1,
+          "created_at": "Wed Jul 06 13:40:16 +0000 2011",
+          "favourites_count": 21835,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 7433,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1312359418248519680/WGPq72Qh_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312359418248519680/WGPq72Qh_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/330343580/1591192750",
+          "profile_link_color": "94D487",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 27289,
+        "favorite_count": 81271,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1311309896944701440,
+    "quoted_status_id_str": "1311309896944701440",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 30 01:45:33 +0000 2020",
+    "id": 1321991600445140992,
+    "id_str": "1321991600445140992",
+    "text": "這篇Strand書店第三代店主Nancy Bass Wyden的訪談，也將書店的歷史與傳承解釋得蠻清楚。\n\nStrand Book Store: An Interview with Nancy Bass Wyden… https://t.co/Z6PwHLyHPc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z6PwHLyHPc",
+          "expanded_url": "https://twitter.com/i/web/status/1321991600445140992",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1321989760047435776,
+    "in_reply_to_status_id_str": "1321989760047435776",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 30 01:38:14 +0000 2020",
+    "id": 1321989760047435776,
+    "id_str": "1321989760047435776",
+    "text": "紐約最大的獨立書店Strand在推特告急後，湧入25,000筆訂單、癱瘓了網站，書店門外也大排長龍；但因為強迫員工休假、購買Amazon股票等救急行為而飽受抨擊，公會員工抗議中。\n\n難，都難。\n\n屢遭非議的求存方式，是對是錯？… https://t.co/Wwar5CLXPw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Wwar5CLXPw",
+          "expanded_url": "https://twitter.com/i/web/status/1321989760047435776",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 30 01:20:08 +0000 2020",
+    "id": 1321985205435998209,
+    "id_str": "1321985205435998209",
+    "text": "「基本服務」一般定義包含水電、醫療、消防、執法等公共事業，疫情期間通常因其必要性、即使有封鎖令也能（必須）維持開放。\n\n法國人正在爭取將書店也列為基本服務，多麽浪漫的國家。\n\nhttps://t.co/2nBAOsUi3F https://t.co/C6pyPDkyK2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2nBAOsUi3F",
+          "expanded_url": "https://bit.ly/3jMXIRW",
+          "display_url": "bit.ly/3jMXIRW",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1321985191376609280,
+          "id_str": "1321985191376609280",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/EliihwJUYAA4ffu.png",
+          "media_url_https": "https://pbs.twimg.com/media/EliihwJUYAA4ffu.png",
+          "url": "https://t.co/C6pyPDkyK2",
+          "display_url": "pic.twitter.com/C6pyPDkyK2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1321985205435998209/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 359,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 874,
+              "h": 461,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 874,
+              "h": 461,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1321985191376609280,
+          "id_str": "1321985191376609280",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/EliihwJUYAA4ffu.png",
+          "media_url_https": "https://pbs.twimg.com/media/EliihwJUYAA4ffu.png",
+          "url": "https://t.co/C6pyPDkyK2",
+          "display_url": "pic.twitter.com/C6pyPDkyK2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1321985205435998209/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 359,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 874,
+              "h": 461,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 874,
+              "h": 461,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Oct 29 02:00:34 +0000 2020",
     "id": 1321632990192050177,
     "id_str": "1321632990192050177",
