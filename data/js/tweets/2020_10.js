@@ -1,5 +1,629 @@
 Grailbird.data.tweets_2020_10 = [
   {
+    "created_at": "Sat Oct 31 02:00:49 +0000 2020",
+    "id": 1322357831505334277,
+    "id_str": "1322357831505334277",
+    "text": "終於有一搭沒一搭的把 #Netflix 上的《鬼滅之刃》第一季看完了。\n\n於是我終於知道了，劇場版《無限列車》算是接續著的1.5季。\n\n對，就只知道了這個。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            11,
+            19
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1322331156797272064,
+    "in_reply_to_status_id_str": "1322331156797272064",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 31 00:43:42 +0000 2020",
+    "id": 1322338421872889856,
+    "id_str": "1322338421872889856",
+    "text": "今天（10/31）是IFTTT新收費計劃的最後一天優惠，非用不可的趕緊去設定每月扣款價格（當然是$1.99/m），明天開始就會是$3.99/m。 https://t.co/NbOmLSHoku",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NbOmLSHoku",
+          "expanded_url": "https://twitter.com/thecat/status/1322331530207784960",
+          "display_url": "twitter.com/thecat/status/…",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1322331530207784960,
+    "quoted_status_id_str": "1322331530207784960",
+    "quoted_status": {
+      "created_at": "Sat Oct 31 00:16:19 +0000 2020",
+      "id": 1322331530207784960,
+      "id_str": "1322331530207784960",
+      "text": "嗯嗯 所以 IFTTT 大出走潮是真的 (話說最近也在尋找替代方案哩😅\n\nhttps://t.co/KIoukEAL7M",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KIoukEAL7M",
+            "expanded_url": "https://benjamincongdon.me/blog/2020/10/30/Goodbye-IFTTT/",
+            "display_url": "benjamincongdon.me/blog/2020/10/3…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807633,
+        "id_str": "807633",
+        "name": "Jeremy Lu",
+        "screen_name": "thecat",
+        "location": "right here, right now",
+        "description": "Fullstack web developer by day, amateur haskeller by night, avid cyclist and swimmer in between. Ask me anything about statechart, react and cycling. λ",
+        "url": "https://t.co/LIMOz6hTU8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LIMOz6hTU8",
+                "expanded_url": "https://www.stateskit.com",
+                "display_url": "stateskit.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5678,
+        "friends_count": 1665,
+        "listed_count": 88,
+        "created_at": "Sat Mar 03 01:42:09 +0000 2007",
+        "favourites_count": 7017,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 38267,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Oct 31 00:14:50 +0000 2020",
+    "id": 1322331156797272064,
+    "id_str": "1322331156797272064",
+    "text": "日本漫畫編輯光能寶志長期觀察《鬼滅》的漫畫呈現，梳理出一套「CDE」的成功模式，分別為「Cut」、「Drip」、「Emotion」的簡稱⋯⋯ #note\n\n票房有望超過《神隱少女》、漫畫狂賣1億本！《鬼滅之刃》到底紅在哪？解析它的… https://t.co/FyxuYWx2qd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            71,
+            76
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FyxuYWx2qd",
+          "expanded_url": "https://twitter.com/i/web/status/1322331156797272064",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1321621490618441729,
+    "in_reply_to_status_id_str": "1321621490618441729",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Oct 30 06:58:16 +0000 2020",
+    "id": 1322070295872643072,
+    "id_str": "1322070295872643072",
+    "text": "RT @lionbookstore: 講談社の「本」休刊へ　理由の詳細説明は最終・12月号で　76年創刊 - 毎日新聞 https://t.co/FJN2hIuKv4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lionbookstore",
+          "name": "双子のライオン堂（『めんどくさい本屋』発売中！）",
+          "id": 171111814,
+          "id_str": "171111814",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FJN2hIuKv4",
+          "expanded_url": "https://mainichi.jp/articles/20201028/k00/00m/040/312000c",
+          "display_url": "mainichi.jp/articles/20201…",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Oct 30 06:30:43 +0000 2020",
+      "id": 1322063366282645511,
+      "id_str": "1322063366282645511",
+      "text": "講談社の「本」休刊へ　理由の詳細説明は最終・12月号で　76年創刊 - 毎日新聞 https://t.co/FJN2hIuKv4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FJN2hIuKv4",
+            "expanded_url": "https://mainichi.jp/articles/20201028/k00/00m/040/312000c",
+            "display_url": "mainichi.jp/articles/20201…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 171111814,
+        "id_str": "171111814",
+        "name": "双子のライオン堂（『めんどくさい本屋』発売中！）",
+        "screen_name": "lionbookstore",
+        "location": "東京都港区赤坂6-5-21",
+        "description": "選書専門店。水-土15-21時。2003ネット古書店開店、2013白山店開店、2015赤坂移転。文芸誌『草獅子』『しししし』刊行。「本屋入門」「本棚からの便り」「百書店」等企画。単著『めんどくさい本屋』。共著『街灯りとしての本屋』。ラジオ「渋谷で読書会」MC。https://t.co/rfoSkMx1YV 050-5276-8698",
+        "url": "https://t.co/rfoSkMx1YV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/rfoSkMx1YV",
+                "expanded_url": "http://liondo.jp",
+                "display_url": "liondo.jp",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/rfoSkMx1YV",
+                "expanded_url": "http://liondo.jp",
+                "display_url": "liondo.jp",
+                "indices": [
+                  130,
+                  153
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9245,
+        "friends_count": 6309,
+        "listed_count": 289,
+        "created_at": "Mon Jul 26 15:51:41 +0000 2010",
+        "favourites_count": 71560,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 85881,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1303942669559758848/uNUAXO0j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303942669559758848/uNUAXO0j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/171111814/1599719553",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Oct 30 03:26:26 +0000 2020",
+    "id": 1322016988487512064,
+    "id_str": "1322016988487512064",
+    "text": "Steam《極樂迪斯可》價格超便宜！！ https://t.co/S4mAYo8PHk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/S4mAYo8PHk",
+          "expanded_url": "https://twitter.com/denkeni/status/1322015786500726793",
+          "display_url": "twitter.com/denkeni/status…",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1322015786500726793,
+    "quoted_status_id_str": "1322015786500726793",
+    "quoted_status": {
+      "created_at": "Fri Oct 30 03:21:40 +0000 2020",
+      "id": 1322015786500726793,
+      "id_str": "1322015786500726793",
+      "text": "@wastemobile 但這價格比起來😂\n- Mac App Store: NT$1,320\n- Steam (Win+Mac): NT$397 (30% off)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1322002031414972416,
+      "in_reply_to_status_id_str": "1322002031414972416",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 945124819,
+        "id_str": "945124819",
+        "name": "Denken",
+        "screen_name": "denkeni",
+        "location": "",
+        "description": "“Ultimately it comes down to taste.” — Steve Jobs",
+        "url": "https://t.co/gEl9YByuqY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/gEl9YByuqY",
+                "expanded_url": "https://denkeni.org",
+                "display_url": "denkeni.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 297,
+        "friends_count": 409,
+        "listed_count": 12,
+        "created_at": "Tue Nov 13 03:47:36 +0000 2012",
+        "favourites_count": 2367,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2611,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/595614938472718337/qmzDrkNJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/595614938472718337/qmzDrkNJ_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Oct 30 02:32:28 +0000 2020",
     "id": 1322003407457054720,
     "id_str": "1322003407457054720",
