@@ -1,5 +1,374 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Wed Nov 04 02:41:18 +0000 2020",
+    "id": 1323817568310751234,
+    "id_str": "1323817568310751234",
+    "text": "Bloomsbury是疫情以來唯一正常發布財報的英國出版巨商，四月時悲觀預估今年將衰退75%，實際上幾乎持平。 #note\n\n線上販售與電子書飆升了60%，數位內容業績佔比超過30%（去年為19%），「在疫情封鎖的前三個月，電子商… https://t.co/UIdWi4auYM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            56,
+            61
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UIdWi4auYM",
+          "expanded_url": "https://twitter.com/i/web/status/1323817568310751234",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 04 01:57:40 +0000 2020",
+    "id": 1323806589371834368,
+    "id_str": "1323806589371834368",
+    "text": "「終局思維加上善用資本，成就了當前的 Tesla 奇蹟。」\n\nTesla 翻身之道二：常人沒有的「終局思維」 https://t.co/nFwiN7fyA0 https://t.co/A1HDOOAZ20",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nFwiN7fyA0",
+          "expanded_url": "https://bit.ly/32dQQqK",
+          "display_url": "bit.ly/32dQQqK",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1323806579146190849,
+          "id_str": "1323806579146190849",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/El8bEeVVcAE35QR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/El8bEeVVcAE35QR.jpg",
+          "url": "https://t.co/A1HDOOAZ20",
+          "display_url": "pic.twitter.com/A1HDOOAZ20",
+          "expanded_url": "https://twitter.com/wastemobile/status/1323806589371834368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 797,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1063,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1323806579146190849,
+          "id_str": "1323806579146190849",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/El8bEeVVcAE35QR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/El8bEeVVcAE35QR.jpg",
+          "url": "https://t.co/A1HDOOAZ20",
+          "display_url": "pic.twitter.com/A1HDOOAZ20",
+          "expanded_url": "https://twitter.com/wastemobile/status/1323806589371834368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 452,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 797,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1063,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Nov 03 15:28:27 +0000 2020",
+    "id": 1323648238931439617,
+    "id_str": "1323648238931439617",
+    "text": "還是無法判斷中國金融有沒有系統，但確定有風險。 https://t.co/tkWhdt3atl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tkWhdt3atl",
+          "expanded_url": "https://twitter.com/yesonline/status/1323617920098856960",
+          "display_url": "twitter.com/yesonline/stat…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1323617920098856960,
+    "quoted_status_id_str": "1323617920098856960",
+    "quoted_status": {
+      "created_at": "Tue Nov 03 13:27:58 +0000 2020",
+      "id": 1323617920098856960,
+      "id_str": "1323617920098856960",
+      "text": "» 關於暫緩螞蟻科技集團股份有限公司科創板上市的決定 | 上海證券交易所 https://t.co/nmlXC4nTg2 //  你公司實際控制人及董事長、總經理被有關部門聯合進行監管約談，你公司也報告所處的金融科技監管環境發生變… https://t.co/NaDbarOCfZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nmlXC4nTg2",
+            "expanded_url": "http://www.sse.com.cn/disclosure/announcement/general/c/c_20201103_5253315.shtml",
+            "display_url": "sse.com.cn/disclosure/ann…",
+            "indices": [
+              37,
+              60
+            ]
+          },
+          {
+            "url": "https://t.co/NaDbarOCfZ",
+            "expanded_url": "https://twitter.com/i/web/status/1323617920098856960",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 794676,
+        "id_str": "794676",
+        "name": "Jerry Lee⛅",
+        "screen_name": "yesonline",
+        "location": "",
+        "description": "嘲笑せず、嘆かず、呪わず、ただ理解する‧‧‧‧‧",
+        "url": "https://t.co/e8gLRWQ2vw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/e8gLRWQ2vw",
+                "expanded_url": "https://notion.yesonline.me/",
+                "display_url": "notion.yesonline.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 22242,
+        "friends_count": 419,
+        "listed_count": 155,
+        "created_at": "Mon Feb 26 06:16:33 +0000 2007",
+        "favourites_count": 15,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 57848,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "801B80",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1232619559737118720/00l7htCo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232619559737118720/00l7htCo_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/794676/1569310096",
+        "profile_link_color": "0EB9ED",
+        "profile_sidebar_border_color": "343840",
+        "profile_sidebar_fill_color": "0C0917",
+        "profile_text_color": "4F494F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Nov 03 02:29:08 +0000 2020",
     "id": 1323452119446253568,
     "id_str": "1323452119446253568",
