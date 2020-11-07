@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Sat Nov 07 02:22:10 +0000 2020",
+    "id": 1324899918234882049,
+    "id_str": "1324899918234882049",
+    "text": "跟風去看了一下抱怨影片，耐著性子聽到最後那四句模擬配音，嗯，我同意此篇觀點。\n\n管仁健觀點》還好沒讓鍾明軒成為最失敗的聲優吧？ https://t.co/iNm4Z2oDAb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iNm4Z2oDAb",
+          "expanded_url": "https://bit.ly/2TYyohj",
+          "display_url": "bit.ly/2TYyohj",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Nov 06 00:32:08 +0000 2020",
     "id": 1324509839800758275,
     "id_str": "1324509839800758275",
