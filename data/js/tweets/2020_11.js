@@ -1,5 +1,482 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Sat Nov 07 06:33:29 +0000 2020",
+    "id": 1324963162307747840,
+    "id_str": "1324963162307747840",
+    "text": "1935年解開謎題（正確頁序、六名被害者及其兇手）的兩人皆獲得25英鎊的獎金，但1939年作者過世後，正確解法並沒有留下。\n\n直到此書被捐給某信託基金會後，基金會工作人員重新聯繫觀察家報的讀者協助，找到了正確解法，才會有後續的新版… https://t.co/HAFVnNGbRE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HAFVnNGbRE",
+          "expanded_url": "https://twitter.com/i/web/status/1324963162307747840",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1324953593737224192,
+    "in_reply_to_status_id_str": "1324953593737224192",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 07 05:55:27 +0000 2020",
+    "id": 1324953593737224192,
+    "id_str": "1324953593737224192",
+    "text": "搞清楚了，原來〈Cain’s Jawbone〉並非一本書，而是1934年出版的《The Torquemada Puzzle Book》的最後一部份。\n\n該隱的顎骨，是故事中第一位兇手的名字，以及他使用的武器。… https://t.co/zajBNZXDnb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zajBNZXDnb",
+          "expanded_url": "https://twitter.com/i/web/status/1324953593737224192",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1324949837398253568,
+    "in_reply_to_status_id_str": "1324949837398253568",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Nov 07 05:40:32 +0000 2020",
+    "id": 1324949837398253568,
+    "id_str": "1324949837398253568",
+    "text": "找到兩頁比較清晰的照片。\n\n每頁下方的記事欄，是讓讀者解謎過程中使用的，原版書中就有。 https://t.co/T9hXJozp0Q https://t.co/GcsrWizqFN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T9hXJozp0Q",
+          "expanded_url": "https://bit.ly/2GB4rka",
+          "display_url": "bit.ly/2GB4rka",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1324949829324140545,
+          "id_str": "1324949829324140545",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmMq2ZIUcAEaRuO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EmMq2ZIUcAEaRuO.jpg",
+          "url": "https://t.co/GcsrWizqFN",
+          "display_url": "pic.twitter.com/GcsrWizqFN",
+          "expanded_url": "https://twitter.com/wastemobile/status/1324949837398253568/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1324949829324140545,
+          "id_str": "1324949829324140545",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmMq2ZIUcAEaRuO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EmMq2ZIUcAEaRuO.jpg",
+          "url": "https://t.co/GcsrWizqFN",
+          "display_url": "pic.twitter.com/GcsrWizqFN",
+          "expanded_url": "https://twitter.com/wastemobile/status/1324949837398253568/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1324946475474776064,
+    "in_reply_to_status_id_str": "1324946475474776064",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 07 05:27:10 +0000 2020",
+    "id": 1324946475474776064,
+    "id_str": "1324946475474776064",
+    "text": "照理說Cain’s Jawbone已是公有領域（Public Domain），但網上找不到任何資源，很神秘。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1324911007555227649,
+    "in_reply_to_status_id_str": "1324911007555227649",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Nov 07 03:06:14 +0000 2020",
+    "id": 1324911007555227649,
+    "id_str": "1324911007555227649",
+    "text": "眾籌出版商Unbound在2017年以散頁盒裝方式重新出版此書，提供一千英鎊獎勵，近日據說喜劇演員約翰·芬尼莫爾花了六個月解開了謎題。\n\nhttps://t.co/oCsMTXZZfb https://t.co/UzSSSInVJl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oCsMTXZZfb",
+          "expanded_url": "https://bit.ly/3p6SiVu",
+          "display_url": "bit.ly/3p6SiVu",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1324910999263010816,
+          "id_str": "1324910999263010816",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmMHiL4UYAABWR-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EmMHiL4UYAABWR-.jpg",
+          "url": "https://t.co/UzSSSInVJl",
+          "display_url": "pic.twitter.com/UzSSSInVJl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1324911007555227649/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 420,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 420,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1324910999263010816,
+          "id_str": "1324910999263010816",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmMHiL4UYAABWR-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EmMHiL4UYAABWR-.jpg",
+          "url": "https://t.co/UzSSSInVJl",
+          "display_url": "pic.twitter.com/UzSSSInVJl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1324911007555227649/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 420,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 420,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1324909839135330307,
+    "in_reply_to_status_id_str": "1324909839135330307",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 07 03:01:35 +0000 2020",
+    "id": 1324909839135330307,
+    "id_str": "1324909839135330307",
+    "text": "1934年，英國《觀察家報》的填字遊戲作家用筆名出版了一本薄薄的神書，懸疑推理故事的最後100頁，印刷順序完全錯亂！每頁開頭與結尾都是完整句子，但3200萬種組合中只有一個正確版本。\n\n報紙提供15英鎊獎勵，最後有兩名讀者解開謎題… https://t.co/mnlWebT7B3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mnlWebT7B3",
+          "expanded_url": "https://twitter.com/i/web/status/1324909839135330307",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 75,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 07 02:22:10 +0000 2020",
     "id": 1324899918234882049,
     "id_str": "1324899918234882049",
