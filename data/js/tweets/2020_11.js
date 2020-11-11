@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Wed Nov 11 02:48:48 +0000 2020",
+    "id": 1326356172807397376,
+    "id_str": "1326356172807397376",
+    "text": "下架、關店是頗悲情的應付手段。\n\n幾年前PChome也曾狂發折價券促銷書籍，近幾年被momo的線上書籍超車是出版業都清楚的事，一直覺得對詹宏志來說書籍這品項都賣不過momo，面子裡子都掛不住。\n\n出版商憤而撤架momo購物、超過2… https://t.co/usg76hvFJp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/usg76hvFJp",
+          "expanded_url": "https://twitter.com/i/web/status/1326356172807397376",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1319975628410503169,
+    "in_reply_to_status_id_str": "1319975628410503169",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 07 06:33:29 +0000 2020",
     "id": 1324963162307747840,
     "id_str": "1324963162307747840",
