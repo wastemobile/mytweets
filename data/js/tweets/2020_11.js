@@ -1,5 +1,170 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Thu Nov 12 00:33:47 +0000 2020",
+    "id": 1326684581303443457,
+    "id_str": "1326684581303443457",
+    "text": "瑞典有聲書廠商storytel到9月的年中報告蠻有趣的，一千萬出頭人口數的瑞典有超過140萬付費訂戶（它主要是訂閱模式），還說預計今年底瑞典小說市場有50%都是用聽的。（頁尾可下載英文報告PDF）… https://t.co/eL4SsY2egw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eL4SsY2egw",
+          "expanded_url": "https://twitter.com/i/web/status/1326684581303443457",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 12 00:10:25 +0000 2020",
+    "id": 1326678699542933504,
+    "id_str": "1326678699542933504",
+    "text": "Google Photos明年5月開始不再是無限容量，超過15GB就必須付費。\n\n廣告商這麼斤斤計較是合理的嗎？\n\nFree, Unlimited Google Photos Storage Will End Next Year… https://t.co/YK2SjICo3p",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YK2SjICo3p",
+          "expanded_url": "https://twitter.com/i/web/status/1326678699542933504",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 11 14:31:03 +0000 2020",
+    "id": 1326532899395399681,
+    "id_str": "1326532899395399681",
+    "text": "原來《后翼棄兵》除了請來90年代西洋棋冠軍 Garry Kasparov 親自指導演員們，大部分被安雅泰勒喬伊「擊敗」的男人們，也都是如今歐美西洋棋界的好手啊！（當然一個都不認識）\n\nNetflix美劇爆紅原因藏在5大細節裡… https://t.co/pDRPis1zij",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pDRPis1zij",
+          "expanded_url": "https://twitter.com/i/web/status/1326532899395399681",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1321619030323593219,
+    "in_reply_to_status_id_str": "1321619030323593219",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Nov 11 02:48:48 +0000 2020",
     "id": 1326356172807397376,
     "id_str": "1326356172807397376",
