@@ -1,5 +1,494 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Sun Nov 15 04:48:36 +0000 2020",
+    "id": 1327835871882604545,
+    "id_str": "1327835871882604545",
+    "text": "這篇反駁了詹先生專訪中對台哥大與momo間營收「重分配」的「指控」，也提到一些momo優於PChome的差異點。 #note\n\nHey PChome, momo其實早已和你走在不一樣的路上… https://t.co/UQXafi66bt",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            57,
+            62
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UQXafi66bt",
+          "expanded_url": "https://twitter.com/i/web/status/1327835871882604545",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1326356172807397376,
+    "in_reply_to_status_id_str": "1326356172807397376",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 15 03:25:17 +0000 2020",
+    "id": 1327814905588662272,
+    "id_str": "1327814905588662272",
+    "text": "直接升級Big Sur，乾淨重裝再等等。\n\n習慣啦，哪次不習慣了⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 15 01:48:19 +0000 2020",
+    "id": 1327790504017227777,
+    "id_str": "1327790504017227777",
+    "text": "雖然因為媽媽陪讀，讓三男一女的孩子都考上東大醫學部而受媒體追捧、出書，實在還是個功利求學的範例，但我覺得書名倒是一體適用。\n\n花大錢找房搬家、把小孩送進好學區的明星學校，家裡卻沒有間像樣的書房？祝福嘍。… https://t.co/AIrTpsa7ks",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AIrTpsa7ks",
+          "expanded_url": "https://twitter.com/i/web/status/1327790504017227777",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 15 01:30:57 +0000 2020",
+    "id": 1327786131774009345,
+    "id_str": "1327786131774009345",
+    "text": "「相信靈魂存在有可能是人類的第一個信仰，這點似乎很清楚。」\n\n想讀。 #note\n\n宗教首先且根本上是一種神經系統現象：《造神》 https://t.co/IkGYuL8arV https://t.co/XC4M4uxhpg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            35,
+            40
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IkGYuL8arV",
+          "expanded_url": "https://bit.ly/3lL7mGx",
+          "display_url": "bit.ly/3lL7mGx",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1327786125667155968,
+          "id_str": "1327786125667155968",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/Em0-ckYVQAAKAr2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Em0-ckYVQAAKAr2.jpg",
+          "url": "https://t.co/XC4M4uxhpg",
+          "display_url": "pic.twitter.com/XC4M4uxhpg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1327786131774009345/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1327786125667155968,
+          "id_str": "1327786125667155968",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/Em0-ckYVQAAKAr2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Em0-ckYVQAAKAr2.jpg",
+          "url": "https://t.co/XC4M4uxhpg",
+          "display_url": "pic.twitter.com/XC4M4uxhpg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1327786131774009345/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 14 03:18:23 +0000 2020",
+    "id": 1327450781100830721,
+    "id_str": "1327450781100830721",
+    "text": "瀏覽每一個「數位花園」網站，都像在看作者用繩索捆起、因為夾了超量附件而鼓漲著的牛皮筆記本。\n\n由於並沒有什麼方便的軟體（Obsidian算剛起步，還有一段距離），因此大多數都是腦袋超複雜的技客做的，這網站的生成器是Hakyll、頁… https://t.co/XfebgzLM6v",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XfebgzLM6v",
+          "expanded_url": "https://twitter.com/i/web/status/1327450781100830721",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1326915803032281089,
+    "in_reply_to_status_id_str": "1326915803032281089",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 14 02:25:35 +0000 2020",
+    "id": 1327437493419929601,
+    "id_str": "1327437493419929601",
+    "text": "在PS4上安裝了新的Apple TV App，看了一集《德黑蘭行動》，好看。\n\nhttps://t.co/0rVV8oa1Aj https://t.co/KkHNoPVCze",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0rVV8oa1Aj",
+          "expanded_url": "https://apple.co/2IBthRK",
+          "display_url": "apple.co/2IBthRK",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1327437484637097988,
+          "id_str": "1327437484637097988",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmwBW_VVEAQJUw_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EmwBW_VVEAQJUw_.jpg",
+          "url": "https://t.co/KkHNoPVCze",
+          "display_url": "pic.twitter.com/KkHNoPVCze",
+          "expanded_url": "https://twitter.com/wastemobile/status/1327437493419929601/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1327437484637097988,
+          "id_str": "1327437484637097988",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmwBW_VVEAQJUw_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EmwBW_VVEAQJUw_.jpg",
+          "url": "https://t.co/KkHNoPVCze",
+          "display_url": "pic.twitter.com/KkHNoPVCze",
+          "expanded_url": "https://twitter.com/wastemobile/status/1327437493419929601/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Nov 13 02:14:40 +0000 2020",
     "id": 1327072358000066560,
     "id_str": "1327072358000066560",
