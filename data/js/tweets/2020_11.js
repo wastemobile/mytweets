@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Mon Nov 16 01:47:48 +0000 2020",
+    "id": 1328152758541721600,
+    "id_str": "1328152758541721600",
+    "text": "真的很有趣，DeFi要不是高來高去、飄來飄去（從概念到價格），就是駭來駭去，被攻擊已成家常便飯。\n\n最慘打臉！Value DeFi 宣稱「可防閃電貸」隔天被駭600萬，駭客留言：你們真的懂閃電貸？… https://t.co/MijodVj4xM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MijodVj4xM",
+          "expanded_url": "https://twitter.com/i/web/status/1328152758541721600",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Nov 15 04:48:36 +0000 2020",
     "id": 1327835871882604545,
     "id_str": "1327835871882604545",
