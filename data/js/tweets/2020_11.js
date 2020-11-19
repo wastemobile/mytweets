@@ -1,5 +1,980 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Thu Nov 19 03:40:33 +0000 2020",
+    "id": 1329268296059744257,
+    "id_str": "1329268296059744257",
+    "text": "看了一堆評測，現在真的非常期待搭載Apple Silicone 的iMac了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1328898856323465216,
+    "in_reply_to_status_id_str": "1328898856323465216",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 19 02:26:59 +0000 2020",
+    "id": 1329249784478138369,
+    "id_str": "1329249784478138369",
+    "text": "RT @Cod3BobC: @wastemobile 之前看到 youtuber 說明法國封城的樣子，超市的書本販售區被隔離而覺得困惑（因為超市還可以購物），原來真的有這樣的禁令 https://t.co/YgSagZMjOP #影片五分鐘後可見一斑",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "影片五分鐘後可見一斑",
+          "indices": [
+            114,
+            125
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Cod3BobC",
+          "name": "cod3bob 😷",
+          "id": 723317732628787200,
+          "id_str": "723317732628787200",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "wastemobile",
+          "name": "wastemobile",
+          "id": 20709129,
+          "id_str": "20709129",
+          "indices": [
+            14,
+            26
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YgSagZMjOP",
+          "expanded_url": "https://youtu.be/pad7qpCJlNg",
+          "display_url": "youtu.be/pad7qpCJlNg",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 19 02:18:19 +0000 2020",
+      "id": 1329247601384853504,
+      "id_str": "1329247601384853504",
+      "text": "@wastemobile 之前看到 youtuber 說明法國封城的樣子，超市的書本販售區被隔離而覺得困惑（因為超市還可以購物），原來真的有這樣的禁令 https://t.co/YgSagZMjOP #影片五分鐘後可見一斑",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "影片五分鐘後可見一斑",
+            "indices": [
+              100,
+              111
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YgSagZMjOP",
+            "expanded_url": "https://youtu.be/pad7qpCJlNg",
+            "display_url": "youtu.be/pad7qpCJlNg",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1329238378307485697,
+      "in_reply_to_status_id_str": "1329238378307485697",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 723317732628787200,
+        "id_str": "723317732628787200",
+        "name": "cod3bob 😷",
+        "screen_name": "Cod3BobC",
+        "location": "台灣",
+        "description": "宅男主義/健身很好但不要找我出門踏青/特技左右挑眉/電玩/言行不一/心太軟/喜翻跟俺一樣廢廢的老婆（已昏）",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 37,
+        "friends_count": 350,
+        "listed_count": 0,
+        "created_at": "Fri Apr 22 01:09:20 +0000 2016",
+        "favourites_count": 27200,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1961,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/983350116768608256/EBoIgAd7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/983350116768608256/EBoIgAd7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/723317732628787200/1523283914",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 19 01:41:40 +0000 2020",
+    "id": 1329238378307485697,
+    "id_str": "1329238378307485697",
+    "text": "得獎小說家們主動替那些公然抗令、堅持開業的獨立書店承擔罰款，法國政府從 10 月 30 日實施全國封鎖令，書店因不在「必需品」之列而要全面停業直到 12 月 1 日或更久。\n\n法國真的是愛書人的國度。\n\n【法式抗命】何以作家們要為… https://t.co/YbzQi94uUL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YbzQi94uUL",
+          "expanded_url": "https://twitter.com/i/web/status/1329238378307485697",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 19 00:58:16 +0000 2020",
+    "id": 1329227456272711686,
+    "id_str": "1329227456272711686",
+    "text": "RT @tailwindcss: Everything you need to know about Tailwind CSS v2.0 is in the announcement post here 👉\n\nhttps://t.co/wMTCD3iBvn\n\nCheck it…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tailwindcss",
+          "name": "Tailwind CSS",
+          "id": 895273477711769600,
+          "id_str": "895273477711769600",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wMTCD3iBvn",
+          "expanded_url": "https://blog.tailwindcss.com/tailwindcss-v2",
+          "display_url": "blog.tailwindcss.com/tailwindcss-v2",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 18 19:50:02 +0000 2020",
+      "id": 1329149890597957633,
+      "id_str": "1329149890597957633",
+      "text": "Everything you need to know about Tailwind CSS v2.0 is in the announcement post here 👉\n\nhttps://t.co/wMTCD3iBvn\n\nCh… https://t.co/akSicscxx5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wMTCD3iBvn",
+            "expanded_url": "https://blog.tailwindcss.com/tailwindcss-v2",
+            "display_url": "blog.tailwindcss.com/tailwindcss-v2",
+            "indices": [
+              88,
+              111
+            ]
+          },
+          {
+            "url": "https://t.co/akSicscxx5",
+            "expanded_url": "https://twitter.com/i/web/status/1329149890597957633",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329129585024372741,
+      "in_reply_to_status_id_str": "1329129585024372741",
+      "in_reply_to_user_id": 895273477711769600,
+      "in_reply_to_user_id_str": "895273477711769600",
+      "in_reply_to_screen_name": "tailwindcss",
+      "user": {
+        "id": 895273477711769600,
+        "id_str": "895273477711769600",
+        "name": "Tailwind CSS",
+        "screen_name": "tailwindcss",
+        "location": "",
+        "description": "A utility-first CSS framework for rapid UI development. Created by @adamwathan, developed in collaboration with @reinink, @steveschoger, and @davidhemphill.",
+        "url": "https://t.co/hAEYtus8yO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/hAEYtus8yO",
+                "expanded_url": "https://tailwindcss.com",
+                "display_url": "tailwindcss.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 50009,
+        "friends_count": 7,
+        "listed_count": 619,
+        "created_at": "Wed Aug 09 13:20:05 +0000 2017",
+        "favourites_count": 147,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 568,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278691829135876097/I4HKOLJw_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278691829135876097/I4HKOLJw_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/895273477711769600/1593698919",
+        "profile_link_color": "58BFB5",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 79,
+      "favorite_count": 400,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 79,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 18 14:52:56 +0000 2020",
+    "id": 1329075120049045509,
+    "id_str": "1329075120049045509",
+    "text": "RT @puppydad: （長推慎入，想到什麼就寫什麼）\n\n蔡衍明剛買下《中國時報》，與原有編採團隊衝突時，有兩句名言：\n\n一是「我出這麼多錢，難道不能發表意見嗎？」\n\n二是「你們這些博士，講一大堆我聽不懂啦。」\n\n結果，五年換掉四個總編輯，終於把《中時》調教成一份聽話的報紙…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "puppydad",
+          "name": "黃哲斌",
+          "id": 12320422,
+          "id_str": "12320422",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 18 14:44:35 +0000 2020",
+      "id": 1329073019004719109,
+      "id_str": "1329073019004719109",
+      "text": "（長推慎入，想到什麼就寫什麼）\n\n蔡衍明剛買下《中國時報》，與原有編採團隊衝突時，有兩句名言：\n\n一是「我出這麼多錢，難道不能發表意見嗎？」\n\n二是「你們這些博士，講一大堆我聽不懂啦。」\n\n結果，五年換掉四個總編輯，終於把《中時》… https://t.co/N7vmsVeThS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/N7vmsVeThS",
+            "expanded_url": "https://twitter.com/i/web/status/1329073019004719109",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12320422,
+        "id_str": "12320422",
+        "name": "黃哲斌",
+        "screen_name": "puppydad",
+        "location": "Taiwan",
+        "description": "一個囉唆歐吉桑。puppydad@hey.com。",
+        "url": "https://t.co/zn1NtBwexI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/zn1NtBwexI",
+                "expanded_url": "https://www.taiwanogs.com",
+                "display_url": "taiwanogs.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3407,
+        "friends_count": 274,
+        "listed_count": 89,
+        "created_at": "Wed Jan 16 15:19:50 +0000 2008",
+        "favourites_count": 8924,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8359,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/845207182/IMG_2523_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/845207182/IMG_2523_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12320422/1402905000",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 239,
+      "favorite_count": 762,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 239,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 18 08:03:23 +0000 2020",
+    "id": 1328972052875730948,
+    "id_str": "1328972052875730948",
+    "text": "@angiesaid 看那出版年份，有正版電子漫畫的機會極低，過於執著會墮入暗黑界，施主三思，善哉善哉～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "angiesaid",
+          "name": "清流吉",
+          "id": 242133,
+          "id_str": "242133",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1328969300909109248,
+    "in_reply_to_status_id_str": "1328969300909109248",
+    "in_reply_to_user_id": 242133,
+    "in_reply_to_user_id_str": "242133",
+    "in_reply_to_screen_name": "angiesaid",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 18 07:48:21 +0000 2020",
+    "id": 1328968269496156160,
+    "id_str": "1328968269496156160",
+    "text": "@angiesaid 拍賣網站上不到兩千塊可以買全套紙本，看完再開相同價錢賣掉，免費閱讀",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "angiesaid",
+          "name": "清流吉",
+          "id": 242133,
+          "id_str": "242133",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1328908012811997185,
+    "in_reply_to_status_id_str": "1328908012811997185",
+    "in_reply_to_user_id": 242133,
+    "in_reply_to_user_id_str": "242133",
+    "in_reply_to_screen_name": "angiesaid",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 18 07:07:31 +0000 2020",
+    "id": 1328957993359192064,
+    "id_str": "1328957993359192064",
+    "text": "RT @aboutfish: 鱸魚：去年底 PC 雜誌公布了一項數據，那就是網評39%都是假的；也有研究顯示，亞馬遜3C產品評比 61%是假的，美膚產品 63%是假的，運動鞋 59%是假的⋯⋯這麼多假裡面，只有一樣是真的：那就是網路評比完全不可信。但大多數人都不知道，或即使知道…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "aboutfish",
+          "name": "關魚",
+          "id": 3398341,
+          "id_str": "3398341",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 13 10:48:52 +0000 2020",
+      "id": 1327201762214776833,
+      "id_str": "1327201762214776833",
+      "text": "鱸魚：去年底 PC 雜誌公布了一項數據，那就是網評39%都是假的；也有研究顯示，亞馬遜3C產品評比 61%是假的，美膚產品 63%是假的，運動鞋 59%是假的⋯⋯這麼多假裡面，只有一樣是真的：那就是網路評比完全不可信。但大多數人都… https://t.co/FsbovJzsw4",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FsbovJzsw4",
+            "expanded_url": "https://twitter.com/i/web/status/1327201762214776833",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3398341,
+        "id_str": "3398341",
+        "name": "關魚",
+        "screen_name": "aboutfish",
+        "location": "Taiwan",
+        "description": "關於在大千海洋自由自在游泳的魚，也是來自臺灣的地球人。現任台灣好生活電子報總編輯，為所有持續抵抗國家暴力、爭取自由尊嚴的人們打氣 About a free fish who likes to cheer up everyone to fight for freedom",
+        "url": "http://t.co/2XcI9Dm7sC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/2XcI9Dm7sC",
+                "expanded_url": "http://www.taiwangoodlife.org",
+                "display_url": "taiwangoodlife.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8488,
+        "friends_count": 663,
+        "listed_count": 113,
+        "created_at": "Wed Apr 04 06:17:59 +0000 2007",
+        "favourites_count": 5614,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28265,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000553340054/1818c5565f7fb50300e5d91880ec2eba_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000553340054/1818c5565f7fb50300e5d91880ec2eba_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3398341/1568731927",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 28,
+      "favorite_count": 70,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 18 04:18:15 +0000 2020",
+    "id": 1328915397786152960,
+    "id_str": "1328915397786152960",
+    "text": "https://t.co/FbJJswRqq5 以知名軟體或服務為索引，介紹更具隱私保護且易用的替代選擇。\n\n與Alternative等仰賴廣告的服務相比，就是簡單的人選型錄，開源、免費、federated為主，不會給一狗票清單，… https://t.co/FPxTvnDoHk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FbJJswRqq5",
+          "expanded_url": "http://switching.software",
+          "display_url": "switching.software",
+          "indices": [
+            0,
+            23
+          ]
+        },
+        {
+          "url": "https://t.co/FPxTvnDoHk",
+          "expanded_url": "https://twitter.com/i/web/status/1328915397786152960",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 30,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Nov 18 03:12:31 +0000 2020",
     "id": 1328898856323465216,
     "id_str": "1328898856323465216",
