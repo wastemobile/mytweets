@@ -1,5 +1,300 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Thu Nov 19 04:44:27 +0000 2020",
+    "id": 1329284380276113410,
+    "id_str": "1329284380276113410",
+    "text": "RT @aboutfish: 【用詞更正】NCC中天案正確用詞應該是 #不予換照 ，雖然中天將來若訴願被駁回，效果將等同經營電視頻道的執照被撤銷，但為求用詞精確還是特此更正，並向看到此推被誤導的讀者致歉（也請各位協助轉此更正推，謝謝，更正訊息晚上會再發一次）https://t.…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "不予換照",
+          "indices": [
+            35,
+            40
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "aboutfish",
+          "name": "關魚",
+          "id": 3398341,
+          "id_str": "3398341",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 19 04:42:43 +0000 2020",
+      "id": 1329283941837074432,
+      "id_str": "1329283941837074432",
+      "text": "【用詞更正】NCC中天案正確用詞應該是 #不予換照 ，雖然中天將來若訴願被駁回，效果將等同經營電視頻道的執照被撤銷，但為求用詞精確還是特此更正，並向看到此推被誤導的讀者致歉（也請各位協助轉此更正推，謝謝，更正訊息晚上會再發一次）… https://t.co/XSoDtUVRCQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "不予換照",
+            "indices": [
+              20,
+              25
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XSoDtUVRCQ",
+            "expanded_url": "https://twitter.com/i/web/status/1329283941837074432",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3398341,
+        "id_str": "3398341",
+        "name": "關魚",
+        "screen_name": "aboutfish",
+        "location": "Taiwan",
+        "description": "關於在大千海洋自由自在游泳的魚，也是來自臺灣的地球人。現任台灣好生活電子報總編輯，為所有持續抵抗國家暴力、爭取自由尊嚴的人們打氣 About a free fish who likes to cheer up everyone to fight for freedom",
+        "url": "http://t.co/2XcI9Dm7sC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/2XcI9Dm7sC",
+                "expanded_url": "http://www.taiwangoodlife.org",
+                "display_url": "taiwangoodlife.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8522,
+        "friends_count": 663,
+        "listed_count": 114,
+        "created_at": "Wed Apr 04 06:17:59 +0000 2007",
+        "favourites_count": 5618,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28282,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000553340054/1818c5565f7fb50300e5d91880ec2eba_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000553340054/1818c5565f7fb50300e5d91880ec2eba_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3398341/1568731927",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1329083155697963015,
+      "quoted_status_id_str": "1329083155697963015",
+      "quoted_status": {
+        "created_at": "Wed Nov 18 15:24:52 +0000 2020",
+        "id": 1329083155697963015,
+        "id_str": "1329083155697963015",
+        "text": "#中天 撤照個人感言：\n什麼是新聞自由？2002年當記者滿六年後決定發行「關於媒體改革電子報」時我曾在發刊詞寫下：「任何一個媒體報導，都不能用『新聞自由』和保障人民『知的權利』為藉口，去侵害被報導者和相關者的人權。」並質問：究竟是… https://t.co/2Gc5njXlTq",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "中天",
+              "indices": [
+                0,
+                3
+              ]
+            }
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2Gc5njXlTq",
+              "expanded_url": "https://twitter.com/i/web/status/1329083155697963015",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3398341,
+          "id_str": "3398341",
+          "name": "關魚",
+          "screen_name": "aboutfish",
+          "location": "Taiwan",
+          "description": "關於在大千海洋自由自在游泳的魚，也是來自臺灣的地球人。現任台灣好生活電子報總編輯，為所有持續抵抗國家暴力、爭取自由尊嚴的人們打氣 About a free fish who likes to cheer up everyone to fight for freedom",
+          "url": "http://t.co/2XcI9Dm7sC",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/2XcI9Dm7sC",
+                  "expanded_url": "http://www.taiwangoodlife.org",
+                  "display_url": "taiwangoodlife.org",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 8522,
+          "friends_count": 663,
+          "listed_count": 114,
+          "created_at": "Wed Apr 04 06:17:59 +0000 2007",
+          "favourites_count": 5618,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 28282,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C6E2EE",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/378800000553340054/1818c5565f7fb50300e5d91880ec2eba_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000553340054/1818c5565f7fb50300e5d91880ec2eba_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3398341/1568731927",
+          "profile_link_color": "1F98C7",
+          "profile_sidebar_border_color": "C6E2EE",
+          "profile_sidebar_fill_color": "DAECF4",
+          "profile_text_color": "663B12",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 27,
+        "favorite_count": 76,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 6,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1329083155697963015,
+    "quoted_status_id_str": "1329083155697963015",
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Nov 19 03:40:33 +0000 2020",
     "id": 1329268296059744257,
     "id_str": "1329268296059744257",
