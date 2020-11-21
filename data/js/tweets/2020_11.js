@@ -1,5 +1,582 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Sat Nov 21 01:15:50 +0000 2020",
+    "id": 1329956655694417920,
+    "id_str": "1329956655694417920",
+    "text": "使用Oculus Quest 2, 2016 MacBook Pro與Immersed VR軟體，體驗虛擬實境工作環境。\n\n怎麼看都覺得不太舒服⋯⋯，科幻小說還是領先太多了。\n\nWorking in Virtual Reality… https://t.co/gglmam9UkE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gglmam9UkE",
+          "expanded_url": "https://twitter.com/i/web/status/1329956655694417920",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 21 00:58:16 +0000 2020",
+    "id": 1329952233874604033,
+    "id_str": "1329952233874604033",
+    "text": "根據官方說法，以及自己在很舊的Raspberry Pi 2 Mobel B安裝YunoHost的經驗，它適合嚐鮮、測試與研究用途，非容器化，某些應用安裝時會出現相容警語（雖然仍安裝成功且可運作）。\n\n選定後想在正式環境安裝，還是推… https://t.co/dTtkvZ5Zsc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dTtkvZ5Zsc",
+          "expanded_url": "https://twitter.com/i/web/status/1329952233874604033",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1329788163582091264,
+    "in_reply_to_status_id_str": "1329788163582091264",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 20 14:06:19 +0000 2020",
+    "id": 1329788163582091264,
+    "id_str": "1329788163582091264",
+    "text": "架站需要技術，但想玩聯邦網站可用更方便的YunoHost，也很適合想快速自架服務與網站的人使用，下載映像檔、燒進SD卡、裝進樹莓派就搞定（租VPS也行）。\n\n安裝服務、輸入自有網域，連SSL都自動申請好，全網頁介面。\n\n自架推特建… https://t.co/sEaFxhrhdD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sEaFxhrhdD",
+          "expanded_url": "https://twitter.com/i/web/status/1329788163582091264",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1329784910689624065,
+    "in_reply_to_status_id_str": "1329784910689624065",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 20 13:53:23 +0000 2020",
+    "id": 1329784910689624065,
+    "id_str": "1329784910689624065",
+    "text": "這清單中有趣的不是開源免費軟體，而是「聯邦網站」（Federated Sites）。\n\n許多獨立網站彼此之間可以交換內容，用戶在哪註冊都可相互溝通。從數據上可以看到，目前約有8415個各類節點、400多萬用戶，最多的就是去中心化的… https://t.co/vxDkdORCWZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vxDkdORCWZ",
+          "expanded_url": "https://twitter.com/i/web/status/1329784910689624065",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1328915397786152960,
+    "in_reply_to_status_id_str": "1328915397786152960",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 20 03:08:08 +0000 2020",
+    "id": 1329622529196007426,
+    "id_str": "1329622529196007426",
+    "text": "iFixit 終於把M1 Macbook 拆開來讓大家一窺真面目了。\n\nM1 MacBook Teardowns: Something Old, Something New https://t.co/Wwt7D2OLio https://t.co/3MPRsWk4mG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Wwt7D2OLio",
+          "expanded_url": "https://bit.ly/3lIFNxk",
+          "display_url": "bit.ly/3lIFNxk",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1329622521965015040,
+          "id_str": "1329622521965015040",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnPEo5sVcAAXRv5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnPEo5sVcAAXRv5.jpg",
+          "url": "https://t.co/3MPRsWk4mG",
+          "display_url": "pic.twitter.com/3MPRsWk4mG",
+          "expanded_url": "https://twitter.com/wastemobile/status/1329622529196007426/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1329622521965015040,
+          "id_str": "1329622521965015040",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnPEo5sVcAAXRv5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnPEo5sVcAAXRv5.jpg",
+          "url": "https://t.co/3MPRsWk4mG",
+          "display_url": "pic.twitter.com/3MPRsWk4mG",
+          "expanded_url": "https://twitter.com/wastemobile/status/1329622529196007426/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 20 02:34:49 +0000 2020",
+    "id": 1329614142299271170,
+    "id_str": "1329614142299271170",
+    "text": "莎士比亞書店101歲了。\n\nAn unapologetically cheesy ode to Shakespeare and Company on its 101st birthday… https://t.co/vMn2jBArxS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vMn2jBArxS",
+          "expanded_url": "https://twitter.com/i/web/status/1329614142299271170",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 20 02:19:49 +0000 2020",
+    "id": 1329610369409564675,
+    "id_str": "1329610369409564675",
+    "text": "日本真的是二次元國度。\n\n聊天賺1個億，日本虛擬主播成新風口 https://t.co/RQcxR9ioK6 https://t.co/2GXPIxdRSU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RQcxR9ioK6",
+          "expanded_url": "https://bit.ly/36QUd8z",
+          "display_url": "bit.ly/36QUd8z",
+          "indices": [
+            31,
+            54
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1329610363759857664,
+          "id_str": "1329610363759857664",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnO5lM2VkAA5oS_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnO5lM2VkAA5oS_.jpg",
+          "url": "https://t.co/2GXPIxdRSU",
+          "display_url": "pic.twitter.com/2GXPIxdRSU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1329610369409564675/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 450,
+              "h": 497,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 450,
+              "h": 497,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 450,
+              "h": 497,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1329610363759857664,
+          "id_str": "1329610363759857664",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnO5lM2VkAA5oS_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnO5lM2VkAA5oS_.jpg",
+          "url": "https://t.co/2GXPIxdRSU",
+          "display_url": "pic.twitter.com/2GXPIxdRSU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1329610369409564675/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 450,
+              "h": 497,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 450,
+              "h": 497,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 450,
+              "h": 497,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1329610363763998720,
+          "id_str": "1329610363763998720",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnO5lM3UwAAsfW0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnO5lM3UwAAsfW0.jpg",
+          "url": "https://t.co/2GXPIxdRSU",
+          "display_url": "pic.twitter.com/2GXPIxdRSU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1329610369409564675/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 400,
+              "h": 309,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 400,
+              "h": 309,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 400,
+              "h": 309,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Nov 19 04:44:27 +0000 2020",
     "id": 1329284380276113410,
     "id_str": "1329284380276113410",
