@@ -1,5 +1,176 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Sun Nov 22 02:23:48 +0000 2020",
+    "id": 1330336145683619841,
+    "id_str": "1330336145683619841",
+    "text": "Maybe we shouldn't want a fully decentralized web. #note\n\n近來星際檔案系統（IPFS）因其激勵層Filecoin獲得更多關注，IPFS 協議的目標是取代傳統的HTTP協議，… https://t.co/x0QjMMOzbi",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            51,
+            56
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/x0QjMMOzbi",
+          "expanded_url": "https://twitter.com/i/web/status/1330336145683619841",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 22 01:49:29 +0000 2020",
+    "id": 1330327510614044672,
+    "id_str": "1330327510614044672",
+    "text": "「業界預估，今年雙11後，momo和PChome兩大平台的營收差距會再拉大。」\n\n各平台似乎只有momo公布單日業績：30億。2019是21億。\n\nhttps://t.co/XmnXwTw8Ev",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XmnXwTw8Ev",
+          "expanded_url": "https://bit.ly/3704crV",
+          "display_url": "bit.ly/3704crV",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1327835871882604545,
+    "in_reply_to_status_id_str": "1327835871882604545",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 21 02:26:39 +0000 2020",
+    "id": 1329974475962470400,
+    "id_str": "1329974475962470400",
+    "text": "Fediverse Party網站提供目前既存的聯邦網站應用分類清單，屬於什麼類型、基於什麼協定、使用何種技術開發⋯⋯\n\n「邦」的社會化位置很有趣，以家庭為單位太小，學校與公司皆為過渡，興趣取向的卻又可能不穩定，即使技術與費用門檻… https://t.co/67XlUFHyg4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/67XlUFHyg4",
+          "expanded_url": "https://twitter.com/i/web/status/1329974475962470400",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1329952233874604033,
+    "in_reply_to_status_id_str": "1329952233874604033",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 21 01:15:50 +0000 2020",
     "id": 1329956655694417920,
     "id_str": "1329956655694417920",
