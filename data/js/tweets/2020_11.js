@@ -1,5 +1,464 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Sun Nov 22 08:22:17 +0000 2020",
+    "id": 1330426364135051264,
+    "id_str": "1330426364135051264",
+    "text": "RT @thecat: 欸欸 amazon 這時間點推出滿 $75 免運送台灣是要逼死誰啊😂 https://t.co/KxrVwkAurh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1330425340737581056,
+          "id_str": "1330425340737581056",
+          "indices": [
+            47,
+            70
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnaezGrXcAACEEn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnaezGrXcAACEEn.jpg",
+          "url": "https://t.co/KxrVwkAurh",
+          "display_url": "pic.twitter.com/KxrVwkAurh",
+          "expanded_url": "https://twitter.com/thecat/status/1330425356080263169/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1063,
+              "h": 1620,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 787,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 446,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1330425356080263169,
+          "source_status_id_str": "1330425356080263169",
+          "source_user_id": 807633,
+          "source_user_id_str": "807633"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1330425340737581056,
+          "id_str": "1330425340737581056",
+          "indices": [
+            47,
+            70
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnaezGrXcAACEEn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnaezGrXcAACEEn.jpg",
+          "url": "https://t.co/KxrVwkAurh",
+          "display_url": "pic.twitter.com/KxrVwkAurh",
+          "expanded_url": "https://twitter.com/thecat/status/1330425356080263169/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1063,
+              "h": 1620,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 787,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 446,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1330425356080263169,
+          "source_status_id_str": "1330425356080263169",
+          "source_user_id": 807633,
+          "source_user_id_str": "807633"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 22 08:18:17 +0000 2020",
+      "id": 1330425356080263169,
+      "id_str": "1330425356080263169",
+      "text": "欸欸 amazon 這時間點推出滿 $75 免運送台灣是要逼死誰啊😂 https://t.co/KxrVwkAurh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1330425340737581056,
+            "id_str": "1330425340737581056",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnaezGrXcAACEEn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnaezGrXcAACEEn.jpg",
+            "url": "https://t.co/KxrVwkAurh",
+            "display_url": "pic.twitter.com/KxrVwkAurh",
+            "expanded_url": "https://twitter.com/thecat/status/1330425356080263169/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1063,
+                "h": 1620,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 787,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 446,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1330425340737581056,
+            "id_str": "1330425340737581056",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnaezGrXcAACEEn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnaezGrXcAACEEn.jpg",
+            "url": "https://t.co/KxrVwkAurh",
+            "display_url": "pic.twitter.com/KxrVwkAurh",
+            "expanded_url": "https://twitter.com/thecat/status/1330425356080263169/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1063,
+                "h": 1620,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 787,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 446,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807633,
+        "id_str": "807633",
+        "name": "Jeremy Lu",
+        "screen_name": "thecat",
+        "location": "right here, right now",
+        "description": "Fullstack web developer by day, amateur haskeller by night, avid cyclist and swimmer in between. Ask me anything about statechart, react and cycling. λ",
+        "url": "https://t.co/LIMOz6hTU8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LIMOz6hTU8",
+                "expanded_url": "https://www.stateskit.com",
+                "display_url": "stateskit.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5703,
+        "friends_count": 1678,
+        "listed_count": 87,
+        "created_at": "Sat Mar 03 01:42:09 +0000 2007",
+        "favourites_count": 7382,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 39017,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 29,
+      "favorite_count": 124,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 22 04:16:14 +0000 2020",
+    "id": 1330364442996043777,
+    "id_str": "1330364442996043777",
+    "text": "此篇介紹了一些日本出版相關產業的「微轉型」。 #note\n\n持續閱讀，才是恆久不變的真理 https://t.co/88Mfxqd4hr https://t.co/aVP9XG3OaJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            23,
+            28
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/88Mfxqd4hr",
+          "expanded_url": "https://bit.ly/335veND",
+          "display_url": "bit.ly/335veND",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1330364435224006656,
+          "id_str": "1330364435224006656",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnZnZ79XEAAqf0G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnZnZ79XEAAqf0G.jpg",
+          "url": "https://t.co/aVP9XG3OaJ",
+          "display_url": "pic.twitter.com/aVP9XG3OaJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1330364442996043777/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 844,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1330364435224006656,
+          "id_str": "1330364435224006656",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnZnZ79XEAAqf0G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnZnZ79XEAAqf0G.jpg",
+          "url": "https://t.co/aVP9XG3OaJ",
+          "display_url": "pic.twitter.com/aVP9XG3OaJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1330364442996043777/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1500,
+              "h": 844,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Nov 22 02:23:48 +0000 2020",
     "id": 1330336145683619841,
     "id_str": "1330336145683619841",
