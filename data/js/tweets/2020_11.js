@@ -1,5 +1,69 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Tue Nov 24 03:28:50 +0000 2020",
+    "id": 1331077288645910529,
+    "id_str": "1331077288645910529",
+    "text": "日本小七的拉麵店聯名款泡麵為何高人一等？日本7-11，全家，羅森超商市場＆開發秘話。聯名款泡麵賣掉一碗，拉麵店可以收多少錢？【中字】 https://t.co/hN2ab2DXhW 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            94,
+            102
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hN2ab2DXhW",
+          "expanded_url": "https://youtu.be/88scpnajfd0",
+          "display_url": "youtu.be/88scpnajfd0",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Nov 22 08:22:17 +0000 2020",
     "id": 1330426364135051264,
     "id_str": "1330426364135051264",
