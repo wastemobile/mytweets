@@ -1,5 +1,69 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Wed Nov 25 02:40:46 +0000 2020",
+    "id": 1331427578943479808,
+    "id_str": "1331427578943479808",
+    "text": "跟著這篇教學跑了一遍，蠻好玩的。\n\n後來發現它是Facebook的AI公司，年底之後連用GitHub帳戶登入都不行了，應該要找個不是廣告公司提供的服務替換。\n\n使用 https://t.co/OPuht9pn5B 與 Beauti… https://t.co/1xexpcF203",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OPuht9pn5B",
+          "expanded_url": "http://Wit.ai",
+          "display_url": "Wit.ai",
+          "indices": [
+            83,
+            106
+          ]
+        },
+        {
+          "url": "https://t.co/1xexpcF203",
+          "expanded_url": "https://twitter.com/i/web/status/1331427578943479808",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Nov 24 03:28:50 +0000 2020",
     "id": 1331077288645910529,
     "id_str": "1331077288645910529",
