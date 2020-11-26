@@ -1,5 +1,347 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Thu Nov 26 01:04:50 +0000 2020",
+    "id": 1331765825288638464,
+    "id_str": "1331765825288638464",
+    "text": "川普絕對是「最佳視覺素材」得主無誤。\n\nLife after Trump https://t.co/00GgtDD8bq https://t.co/rqwQyk7wqL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/00GgtDD8bq",
+          "expanded_url": "https://bit.ly/2JaMF8u",
+          "display_url": "bit.ly/2JaMF8u",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1331765817361326080,
+          "id_str": "1331765817361326080",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/Enth9HPUYAAalfC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Enth9HPUYAAalfC.jpg",
+          "url": "https://t.co/rqwQyk7wqL",
+          "display_url": "pic.twitter.com/rqwQyk7wqL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1331765825288638464/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1440,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1331765817361326080,
+          "id_str": "1331765817361326080",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/Enth9HPUYAAalfC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Enth9HPUYAAalfC.jpg",
+          "url": "https://t.co/rqwQyk7wqL",
+          "display_url": "pic.twitter.com/rqwQyk7wqL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1331765825288638464/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1440,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1331765817357209600,
+          "id_str": "1331765817357209600",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/Enth9HOVkAA2hcT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Enth9HOVkAA2hcT.jpg",
+          "url": "https://t.co/rqwQyk7wqL",
+          "display_url": "pic.twitter.com/rqwQyk7wqL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1331765825288638464/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1440,
+              "h": 960,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 25 15:26:17 +0000 2020",
+    "id": 1331620227063246862,
+    "id_str": "1331620227063246862",
+    "text": "RT @hhcwt: 我為何將告別Alian電台：兼為所有被欺負的「乙方」請命| by 馬世芳 | 耳目江湖 | Nov, 2020 | Medium https://t.co/HpdkXPT5CC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hhcwt",
+          "name": "✐ Pong Chi",
+          "id": 181851152,
+          "id_str": "181851152",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HpdkXPT5CC",
+          "expanded_url": "https://medium.com/%E6%88%91%E6%98%AF%E9%A6%AC%E4%B8%96%E8%8A%B3/%E6%88%91%E7%82%BA%E4%BD%95%E5%B0%87%E5%91%8A%E5%88%A5alian%E9%9B%BB%E5%8F%B0-%E5%85%BC%E7%82%BA%E6%89%80%E6%9C%89%E8%A2%AB%E6%AC%BA%E8%B2%A0%E7%9A%84-%E4%B9%99%E6%96%B9-%E8%AB%8B%E5%91%BD-6eb42c0ef13a",
+          "display_url": "medium.com/%E6%88%91%E6%9…",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 25 15:14:37 +0000 2020",
+      "id": 1331617292048744448,
+      "id_str": "1331617292048744448",
+      "text": "我為何將告別Alian電台：兼為所有被欺負的「乙方」請命| by 馬世芳 | 耳目江湖 | Nov, 2020 | Medium https://t.co/HpdkXPT5CC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/HpdkXPT5CC",
+            "expanded_url": "https://medium.com/%E6%88%91%E6%98%AF%E9%A6%AC%E4%B8%96%E8%8A%B3/%E6%88%91%E7%82%BA%E4%BD%95%E5%B0%87%E5%91%8A%E5%88%A5alian%E9%9B%BB%E5%8F%B0-%E5%85%BC%E7%82%BA%E6%89%80%E6%9C%89%E8%A2%AB%E6%AC%BA%E8%B2%A0%E7%9A%84-%E4%B9%99%E6%96%B9-%E8%AB%8B%E5%91%BD-6eb42c0ef13a",
+            "display_url": "medium.com/%E6%88%91%E6%9…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 181851152,
+        "id_str": "181851152",
+        "name": "✐ Pong Chi",
+        "screen_name": "hhcwt",
+        "location": "Taiwan",
+        "description": "不承認自己易怒的易怒人",
+        "url": "https://t.co/tMz21EyMAu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/tMz21EyMAu",
+                "expanded_url": "https://youtu.be/X2WH8mHJnhM",
+                "display_url": "youtu.be/X2WH8mHJnhM",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9329,
+        "friends_count": 1883,
+        "listed_count": 60,
+        "created_at": "Mon Aug 23 05:57:33 +0000 2010",
+        "favourites_count": 438301,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11155,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254488812429783040/1lMDoF4q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254488812429783040/1lMDoF4q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/181851152/1605624729",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Nov 25 02:40:46 +0000 2020",
     "id": 1331427578943479808,
     "id_str": "1331427578943479808",
