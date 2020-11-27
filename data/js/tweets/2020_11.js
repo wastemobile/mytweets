@@ -1,5 +1,300 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Fri Nov 27 02:28:33 +0000 2020",
+    "id": 1332149281902395393,
+    "id_str": "1332149281902395393",
+    "text": "每次看到用js鎖右鍵的網站，腦中出現的都是⋯⋯又一個被呼嚨的老闆。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 27 02:06:50 +0000 2020",
+    "id": 1332143815566655490,
+    "id_str": "1332143815566655490",
+    "text": "「讀慢一點就是了。」\n\n這話真的中肯，若不值得慢慢讀、反覆讀的書，多半也不是什麼好書；若書讀來毫無窒礙，連讓你停下來想想都不必，不如去看貓咪影片。\n\n哲學為根、政經為骨，奇幻是她的日常籤詩：唐鳳心中的十大好書… https://t.co/qtniWFTAMJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qtniWFTAMJ",
+          "expanded_url": "https://twitter.com/i/web/status/1332143815566655490",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 27 01:41:22 +0000 2020",
+    "id": 1332137408792457216,
+    "id_str": "1332137408792457216",
+    "text": "仿照吉他音箱電路圖繪製的搖滾史地圖，呈現「1400名音樂家、藝術家、詞曲創作者和製作人，以及對廣義搖滾樂演變所發揮的關鍵作用」。\n\n還有電子舞曲、嘻哈與另類搖滾的版本，問題是我沒有那麼多牆面⋯⋯\n\n搖滾藍圖：搖滾樂如何演變為今天的… https://t.co/2wgTLJp0QN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2wgTLJp0QN",
+          "expanded_url": "https://twitter.com/i/web/status/1332137408792457216",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 27 01:27:10 +0000 2020",
+    "id": 1332133832556908545,
+    "id_str": "1332133832556908545",
+    "text": "「當主宰網路銷售的 #Netflix 在某個地區取得30%的市占率後，當地的百視達就會倒閉，因為剩下70%客戶所提供的獲利，將無法負擔租金、薪資等開銷。」\n\n原來30%是個門檻。\n\nhttps://t.co/ecZbhsy1Yn https://t.co/SJIwICqlw5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            10,
+            18
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ecZbhsy1Yn",
+          "expanded_url": "https://bit.ly/33kCqFz",
+          "display_url": "bit.ly/33kCqFz",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1332133827343388673,
+          "id_str": "1332133827343388673",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnywqHQVkAEriRi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnywqHQVkAEriRi.jpg",
+          "url": "https://t.co/SJIwICqlw5",
+          "display_url": "pic.twitter.com/SJIwICqlw5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1332133832556908545/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 792,
+              "h": 547,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 792,
+              "h": 547,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 470,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1332133827343388673,
+          "id_str": "1332133827343388673",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnywqHQVkAEriRi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnywqHQVkAEriRi.jpg",
+          "url": "https://t.co/SJIwICqlw5",
+          "display_url": "pic.twitter.com/SJIwICqlw5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1332133832556908545/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 792,
+              "h": 547,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 792,
+              "h": 547,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 470,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Nov 26 01:04:50 +0000 2020",
     "id": 1331765825288638464,
     "id_str": "1331765825288638464",
