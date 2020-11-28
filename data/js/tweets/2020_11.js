@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Sat Nov 28 00:58:16 +0000 2020",
+    "id": 1332488950234062849,
+    "id_str": "1332488950234062849",
+    "text": "北歐的數位閱讀市場一直都蠻有趣的，Storytel挪威站是唯一尚未調整為「按時間計價分成」的有聲書服務，主因是當地的圖書定價制。\n\n製作有聲書費用約為13萬至16萬台幣，每本獲1.13美金分成，需3300本才能損平。近日謠傳將改為… https://t.co/ek8sisvkUd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ek8sisvkUd",
+          "expanded_url": "https://twitter.com/i/web/status/1332488950234062849",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1326684581303443457,
+    "in_reply_to_status_id_str": "1326684581303443457",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Nov 27 02:28:33 +0000 2020",
     "id": 1332149281902395393,
     "id_str": "1332149281902395393",
