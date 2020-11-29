@@ -1,5 +1,413 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Sun Nov 29 04:04:57 +0000 2020",
+    "id": 1332898316980371456,
+    "id_str": "1332898316980371456",
+    "text": "《Locus》雜誌永恆經典（Best All-time Novel）書單庫存頁在此，雖說最後更新刊載是在1998年2月號，但清單中最晚的小說出版年是1981。\n\n書單不必盡信，但總有參考價值。\n\nhttps://t.co/Pn7QlPEc0W",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Pn7QlPEc0W",
+          "expanded_url": "https://bit.ly/3lcfI8Q",
+          "display_url": "bit.ly/3lcfI8Q",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1332896049770459136,
+    "in_reply_to_status_id_str": "1332896049770459136",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 29 03:55:56 +0000 2020",
+    "id": 1332896049770459136,
+    "id_str": "1332896049770459136",
+    "text": "No.1 法蘭克・赫伯特《Dune》（1965，沙丘、沙丘魔堡）\n\n據說每個「一生必讀」書單上都有這套六冊的科幻巨作，麻煩的是繁體譯本絕版已久、且只有前三部；簡體中文目前可買到的已是第三個譯本，但讀起來像半文言，不太推薦。\n\n等著… https://t.co/EvPm7BsrgP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EvPm7BsrgP",
+          "expanded_url": "https://twitter.com/i/web/status/1332896049770459136",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1332893093905850368,
+    "in_reply_to_status_id_str": "1332893093905850368",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 29 03:44:12 +0000 2020",
+    "id": 1332893093905850368,
+    "id_str": "1332893093905850368",
+    "text": "No.2 娥蘇拉·勒瑰恩《The Left Hand of Darkness》（1969，黑暗的左手）\n\n講談社文庫出過她寫的童書《飛天貓回家》（Catwings Return），譯者是村上春樹。… https://t.co/w3Px3TXzWh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/w3Px3TXzWh",
+          "expanded_url": "https://twitter.com/i/web/status/1332893093905850368",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1332890643333480448,
+    "in_reply_to_status_id_str": "1332890643333480448",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 29 03:34:27 +0000 2020",
+    "id": 1332890643333480448,
+    "id_str": "1332890643333480448",
+    "text": "要看過《軌跡》雜誌「永恆經典」前三名之後，再看其他科幻小說、甚至是科幻電影。\n\nNo.3 亞瑟克拉克《Childhood’s End》（1953，最後一個地球人、童年末日、童年的終結）… https://t.co/FVrXh6VlOl",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FVrXh6VlOl",
+          "expanded_url": "https://twitter.com/i/web/status/1332890643333480448",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 29 02:05:51 +0000 2020",
+    "id": 1332868344182030338,
+    "id_str": "1332868344182030338",
+    "text": "明顯是反駁前一篇比較文的平衡說法。\n\n（ps. 通常會轉原始出處，但此篇出自臉書，就推轉載文了）\n\nPChome 與 Momo 的線上購物大戰，不只是「搜尋結果」的差異而已 https://t.co/CGVNjdM4Zn https://t.co/ynzbdD9kFm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CGVNjdM4Zn",
+          "expanded_url": "https://bit.ly/3fKeOPP",
+          "display_url": "bit.ly/3fKeOPP",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1332868336590327808,
+          "id_str": "1332868336590327808",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/En9MsLbVEAAmeCt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/En9MsLbVEAAmeCt.jpg",
+          "url": "https://t.co/ynzbdD9kFm",
+          "display_url": "pic.twitter.com/ynzbdD9kFm",
+          "expanded_url": "https://twitter.com/wastemobile/status/1332868344182030338/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 627,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1460,
+              "h": 763,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 355,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1332868336590327808,
+          "id_str": "1332868336590327808",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/En9MsLbVEAAmeCt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/En9MsLbVEAAmeCt.jpg",
+          "url": "https://t.co/ynzbdD9kFm",
+          "display_url": "pic.twitter.com/ynzbdD9kFm",
+          "expanded_url": "https://twitter.com/wastemobile/status/1332868344182030338/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 627,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1460,
+              "h": 763,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 355,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1330327510614044672,
+    "in_reply_to_status_id_str": "1330327510614044672",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 28 02:36:58 +0000 2020",
+    "id": 1332513789074317312,
+    "id_str": "1332513789074317312",
+    "text": "今明兩天其實就是「打開台北」的參觀日，但現在才發現某些地方只限預約參觀，那就只能找找可現場排隊的去看看⋯⋯\n\nhttps://t.co/tB8w4ErqAp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tB8w4ErqAp",
+          "expanded_url": "http://www.opentaipei.org/#roomSites",
+          "display_url": "opentaipei.org/#roomSites",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1317987046946820097,
+    "in_reply_to_status_id_str": "1317987046946820097",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 28 00:58:16 +0000 2020",
     "id": 1332488950234062849,
     "id_str": "1332488950234062849",
