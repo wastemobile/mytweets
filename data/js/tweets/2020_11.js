@@ -1,5 +1,266 @@
 Grailbird.data.tweets_2020_11 = [
   {
+    "created_at": "Mon Nov 30 01:09:12 +0000 2020",
+    "id": 1333216476275171332,
+    "id_str": "1333216476275171332",
+    "text": "RT @eiei_456: 「漢神巨蛋的Jason's Market\n一堆產品明明中國製\n卻在貨架上寫台灣製或德國製\n物品翻過來仔細標籤看產地都是中國\n去年已經反映過一次\n這種標示不實不知道可以跟什麼單位檢舉呢？」\n\n[閒聊] 漢神巨蛋Jason's Market欺騙消費者產地…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "eiei_456",
+          "name": "伊哎伊哎四五六𖠚ᐝ",
+          "id": 2299336976,
+          "id_str": "2299336976",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 29 15:23:01 +0000 2020",
+      "id": 1333068956773486595,
+      "id_str": "1333068956773486595",
+      "text": "「漢神巨蛋的Jason's Market\n一堆產品明明中國製\n卻在貨架上寫台灣製或德國製\n物品翻過來仔細標籤看產地都是中國\n去年已經反映過一次\n這種標示不實不知道可以跟什麼單位檢舉呢？」\n\n[閒聊] 漢神巨蛋Jason's Mar… https://t.co/F3JmoaskrU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/F3JmoaskrU",
+            "expanded_url": "https://twitter.com/i/web/status/1333068956773486595",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2299336976,
+        "id_str": "2299336976",
+        "name": "伊哎伊哎四五六𖠚ᐝ",
+        "screen_name": "eiei_456",
+        "location": "高雄市, 台灣",
+        "description": "雷龍界的貴族，只吃茼蒿。打狗人。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3391,
+        "friends_count": 198,
+        "listed_count": 20,
+        "created_at": "Sun Jan 19 09:08:20 +0000 2014",
+        "favourites_count": 15221,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 78103,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3A8FB7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226885474439983105/Dw1KCBiu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226885474439983105/Dw1KCBiu_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2299336976/1454609668",
+        "profile_link_color": "DB4D6D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 50,
+      "favorite_count": 175,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 30 00:50:29 +0000 2020",
+    "id": 1333211766680031234,
+    "id_str": "1333211766680031234",
+    "text": "@mikeliu93980295 天下文化版《童年末日》二手市場還蠻多的。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mikeliu93980295",
+          "name": "mikeliu",
+          "id": 1178855315539820544,
+          "id_str": "1178855315539820544",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1333208613423181825,
+    "in_reply_to_status_id_str": "1333208613423181825",
+    "in_reply_to_user_id": 1178855315539820544,
+    "in_reply_to_user_id_str": "1178855315539820544",
+    "in_reply_to_screen_name": "mikeliu93980295",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 30 00:28:08 +0000 2020",
+    "id": 1333206139551444992,
+    "id_str": "1333206139551444992",
+    "text": "開發亞馬遜語音助理 Alexa 的工程師 Javier Sanchez 推出了一款翻譯 app MeowTalk，目前可辨識13種貓叫。\n\n比寵物靈媒科學一點？\n\n語音工程師開發出 app 翻譯貓咪「喵喵」之意的 MeowTalk… https://t.co/ysm484xevV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ysm484xevV",
+          "expanded_url": "https://twitter.com/i/web/status/1333206139551444992",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Nov 29 04:04:57 +0000 2020",
     "id": 1332898316980371456,
     "id_str": "1332898316980371456",
