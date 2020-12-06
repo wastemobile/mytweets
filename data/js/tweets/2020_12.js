@@ -1,5 +1,668 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Sun Dec 06 03:08:26 +0000 2020",
+    "id": 1335420811251838978,
+    "id_str": "1335420811251838978",
+    "text": "macFUSE 升級到4.0.4，還得重新開機，才讓VeryCrypt外接加密磁碟在macOS Big Sur上順利運作。\n\nhttps://t.co/1bpaYNOphK https://t.co/oEEKOg7iML",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1bpaYNOphK",
+          "expanded_url": "https://techstuffer.com/veracrypt-macos-bigsur-compatibility/",
+          "display_url": "techstuffer.com/veracrypt-maco…",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1335419880535851009,
+          "id_str": "1335419880535851009",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/EohdTlVVgAEWV9X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EohdTlVVgAEWV9X.jpg",
+          "url": "https://t.co/oEEKOg7iML",
+          "display_url": "pic.twitter.com/oEEKOg7iML",
+          "expanded_url": "https://twitter.com/wastemobile/status/1335420811251838978/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1335419880535851009,
+          "id_str": "1335419880535851009",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/EohdTlVVgAEWV9X.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EohdTlVVgAEWV9X.jpg",
+          "url": "https://t.co/oEEKOg7iML",
+          "display_url": "pic.twitter.com/oEEKOg7iML",
+          "expanded_url": "https://twitter.com/wastemobile/status/1335420811251838978/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1335420300683399171,
+          "id_str": "1335420300683399171",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/EohdsCgUUAMuRbt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EohdsCgUUAMuRbt.jpg",
+          "url": "https://t.co/oEEKOg7iML",
+          "display_url": "pic.twitter.com/oEEKOg7iML",
+          "expanded_url": "https://twitter.com/wastemobile/status/1335420811251838978/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1048,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1544,
+              "h": 1348,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 594,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1335420300763099138,
+          "id_str": "1335420300763099138",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/EohdsCzUcAI6Ac1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EohdsCzUcAI6Ac1.jpg",
+          "url": "https://t.co/oEEKOg7iML",
+          "display_url": "pic.twitter.com/oEEKOg7iML",
+          "expanded_url": "https://twitter.com/wastemobile/status/1335420811251838978/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 296,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 522,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1560,
+              "h": 678,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1082868765228916736,
+    "in_reply_to_status_id_str": "1082868765228916736",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 05 15:06:37 +0000 2020",
+    "id": 1335239157036118016,
+    "id_str": "1335239157036118016",
+    "text": "這天氣真的想吃麻辣臭豆腐⋯⋯\n\n【牛排】麻辣臭豆腐大評比🔥🔥🔥！『宵夜吃什麼？第四集』 https://t.co/fQX3j49mfw 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            71,
+            79
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fQX3j49mfw",
+          "expanded_url": "https://youtu.be/HaY89QWBpEY",
+          "display_url": "youtu.be/HaY89QWBpEY",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 05 12:45:58 +0000 2020",
+    "id": 1335203762089074689,
+    "id_str": "1335203762089074689",
+    "text": "RT @wongmjane: Cloudflare is working on Cloudflare Pages, a cloud platform for deploying and hosting JAMstack websites and more! 🚀\n\n- suppo…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "wongmjane",
+          "name": "Jane Manchun Wong",
+          "id": 337119125,
+          "id_str": "337119125",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Dec 05 12:23:09 +0000 2020",
+      "id": 1335198021131194370,
+      "id_str": "1335198021131194370",
+      "text": "Cloudflare is working on Cloudflare Pages, a cloud platform for deploying and hosting JAMstack websites and more! 🚀… https://t.co/ACi7123jtm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ACi7123jtm",
+            "expanded_url": "https://twitter.com/i/web/status/1335198021131194370",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 337119125,
+        "id_str": "337119125",
+        "name": "Jane Manchun Wong",
+        "screen_name": "wongmjane",
+        "location": "",
+        "description": "the real hidden features are the friends we made along the way 👩‍💻",
+        "url": "https://t.co/EYNlFej5rE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/EYNlFej5rE",
+                "expanded_url": "https://wongmjane.com",
+                "display_url": "wongmjane.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 89858,
+        "friends_count": 994,
+        "listed_count": 1157,
+        "created_at": "Sun Jul 17 13:48:53 +0000 2011",
+        "favourites_count": 97977,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 20119,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1322967903864434688/mr3BXZuT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322967903864434688/mr3BXZuT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/337119125/1604964810",
+        "profile_link_color": "1D709B",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 227,
+      "favorite_count": 1276,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 227,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 03 14:54:23 +0000 2020",
+    "id": 1334511305831624714,
+    "id_str": "1334511305831624714",
+    "text": "RT @gagachi: 澳洲蠻多酒商都是中資（https://t.co/5aoPIXmOe1），想支持澳洲葡萄酒的人可以看Google表單中的\" Non Chinese own\"那一頁確認你不是幫助到中資w  ( https://t.co/s9Cn67Wo2T )\n\n#Sol…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "gagachi",
+          "name": "一人小劇場( ` ω ´ )🥸🤌🦦",
+          "id": 15260932,
+          "id_str": "15260932",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5aoPIXmOe1",
+          "expanded_url": "https://www.facebook.com/vinoeamigos/posts/3852761561440819",
+          "display_url": "facebook.com/vinoeamigos/po…",
+          "indices": [
+            24,
+            47
+          ]
+        },
+        {
+          "url": "https://t.co/s9Cn67Wo2T",
+          "expanded_url": "http://twitthat.com/Y6MD6",
+          "display_url": "twitthat.com/Y6MD6",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 03 06:09:58 +0000 2020",
+      "id": 1334379328906252290,
+      "id_str": "1334379328906252290",
+      "text": "澳洲蠻多酒商都是中資（https://t.co/5aoPIXmOe1），想支持澳洲葡萄酒的人可以看Google表單中的\" Non Chinese own\"那一頁確認你不是幫助到中資w  (… https://t.co/SQpR3t9cfy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5aoPIXmOe1",
+            "expanded_url": "https://www.facebook.com/vinoeamigos/posts/3852761561440819",
+            "display_url": "facebook.com/vinoeamigos/po…",
+            "indices": [
+              11,
+              34
+            ]
+          },
+          {
+            "url": "https://t.co/SQpR3t9cfy",
+            "expanded_url": "https://twitter.com/i/web/status/1334379328906252290",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15260932,
+        "id_str": "15260932",
+        "name": "一人小劇場( ` ω ´ )🥸🤌🦦",
+        "screen_name": "gagachi",
+        "location": "小小多山的國家",
+        "description": "台獨小吉。時常迷妹。腐推。政治廚。髒話bot。暴怒洗版。不接受指教。照三餐問候柯文哲死了沒。看心情封鎖任何人，也不介意被封鎖。請勿截圖抄襲至任何平台轉發。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4380,
+        "friends_count": 796,
+        "listed_count": 37,
+        "created_at": "Sat Jun 28 05:17:09 +0000 2008",
+        "favourites_count": 40746,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 101620,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "666666",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241021590390726656/tBheCHJZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241021590390726656/tBheCHJZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15260932/1543825810",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "6B0C3A",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 129,
+      "favorite_count": 229,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 129,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 03 05:20:03 +0000 2020",
+    "id": 1334366769348112384,
+    "id_str": "1334366769348112384",
+    "text": "原來 #Netflix 要上的《返校》是新拍的影集，不是電影。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Dec 03 03:01:53 +0000 2020",
     "id": 1334331997720702976,
     "id_str": "1334331997720702976",
