@@ -1,5 +1,373 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Tue Dec 08 13:16:41 +0000 2020",
+    "id": 1336298657985961984,
+    "id_str": "1336298657985961984",
+    "text": "這個區分模型還不錯。\n\nWhy Obsidian Will Overtake Roam https://t.co/jhxZmC0Uoh https://t.co/6UWrm1Aiuj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jhxZmC0Uoh",
+          "expanded_url": "https://bit.ly/2JBGcnD",
+          "display_url": "bit.ly/2JBGcnD",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1336298650079641601,
+          "id_str": "1336298650079641601",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eot8is_UwAEqjKv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eot8is_UwAEqjKv.jpg",
+          "url": "https://t.co/6UWrm1Aiuj",
+          "display_url": "pic.twitter.com/6UWrm1Aiuj",
+          "expanded_url": "https://twitter.com/wastemobile/status/1336298657985961984/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 368,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1108,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 649,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1336298650079641601,
+          "id_str": "1336298650079641601",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eot8is_UwAEqjKv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eot8is_UwAEqjKv.jpg",
+          "url": "https://t.co/6UWrm1Aiuj",
+          "display_url": "pic.twitter.com/6UWrm1Aiuj",
+          "expanded_url": "https://twitter.com/wastemobile/status/1336298657985961984/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 368,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1108,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 649,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1326899952640024577,
+    "in_reply_to_status_id_str": "1326899952640024577",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 08 11:42:14 +0000 2020",
+    "id": 1336274885966876672,
+    "id_str": "1336274885966876672",
+    "text": "話說至今書架也都是IKEA，關鍵在務必選窄隔板，即使是便宜的BILLY書架，40cm的就能撐很久很久。 https://t.co/G6Nf9xGsYF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1336274875850215425,
+          "id_str": "1336274875850215425",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eotm63FU0AE9Ekd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eotm63FU0AE9Ekd.jpg",
+          "url": "https://t.co/G6Nf9xGsYF",
+          "display_url": "pic.twitter.com/G6Nf9xGsYF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1336274885966876672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1336274875850215425,
+          "id_str": "1336274875850215425",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eotm63FU0AE9Ekd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eotm63FU0AE9Ekd.jpg",
+          "url": "https://t.co/G6Nf9xGsYF",
+          "display_url": "pic.twitter.com/G6Nf9xGsYF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1336274885966876672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1336111815684550656,
+    "in_reply_to_status_id_str": "1336111815684550656",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 08 01:18:27 +0000 2020",
+    "id": 1336117908326424576,
+    "id_str": "1336117908326424576",
+    "text": "改編並執導《后翼棄兵》的推手Scott Frank在podcast受訪時透露，接續改編自Nabokov的小說《Laughter in The Dark》，女主角當然就是Anya Taylor-Joy，並希望找原班人馬一起合作。… https://t.co/Nh8mUUzbXe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Nh8mUUzbXe",
+          "expanded_url": "https://twitter.com/i/web/status/1336117908326424576",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 08 00:54:15 +0000 2020",
+    "id": 1336111815684550656,
+    "id_str": "1336111815684550656",
+    "text": "倘若IKEA果真如宣告的那樣，在2021最後一期後停止發行紙本型錄，對印刷品來說可視為一個歷史的分水嶺。\n\n2016年達到兩億冊的印行高峰，1951年初次發行、2000年上線數位版，事實上他們打算連數位版都不做了。\n\n以「情境模擬… https://t.co/YCeJVzVh6P",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YCeJVzVh6P",
+          "expanded_url": "https://twitter.com/i/web/status/1336111815684550656",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Dec 06 14:35:20 +0000 2020",
     "id": 1335593672046350336,
     "id_str": "1335593672046350336",
