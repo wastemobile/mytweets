@@ -1,5 +1,290 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Wed Dec 09 02:53:17 +0000 2020",
+    "id": 1336504162297659395,
+    "id_str": "1336504162297659395",
+    "text": "另一個有現貨的HAT（樹莓派附加硬體）也不錯，直接插在Raspberry Pi A+/B+/2/3 上、用USB連接，就可安裝4片Pi Zero W組成叢集。\n\nCluster HAT https://t.co/s7C7GbhsHl https://t.co/vDoQ62DoeL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/s7C7GbhsHl",
+          "expanded_url": "https://clusterhat.com",
+          "display_url": "clusterhat.com",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1336504156949901314,
+          "id_str": "1336504156949901314",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eow3cxvU8AIxUBS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eow3cxvU8AIxUBS.jpg",
+          "url": "https://t.co/vDoQ62DoeL",
+          "display_url": "pic.twitter.com/vDoQ62DoeL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1336504162297659395/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 450,
+              "h": 253,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 450,
+              "h": 253,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 450,
+              "h": 253,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1336504156949901314,
+          "id_str": "1336504156949901314",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eow3cxvU8AIxUBS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eow3cxvU8AIxUBS.jpg",
+          "url": "https://t.co/vDoQ62DoeL",
+          "display_url": "pic.twitter.com/vDoQ62DoeL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1336504162297659395/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 450,
+              "h": 253,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 450,
+              "h": 253,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 450,
+              "h": 253,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1336504156954095617,
+          "id_str": "1336504156954095617",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eow3cxwU8AE0e4B.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eow3cxwU8AE0e4B.jpg",
+          "url": "https://t.co/vDoQ62DoeL",
+          "display_url": "pic.twitter.com/vDoQ62DoeL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1336504162297659395/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 450,
+              "h": 253,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 450,
+              "h": 253,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 450,
+              "h": 253,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1336502933928611840,
+    "in_reply_to_status_id_str": "1336502933928611840",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Dec 09 02:48:25 +0000 2020",
+    "id": 1336502933928611840,
+    "id_str": "1336502933928611840",
+    "text": "可裝7片Pi Compute Module 的Turing Pi 1 叢集主板似乎從來沒有正常供貨，Turing Pi 2 就跳出來了。\n\n在mini ITX 尺寸上安裝4片運算模組，能直接插上兩片SSD這點還不錯。\n\nTurin… https://t.co/Ogn3iAsxPY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ogn3iAsxPY",
+          "expanded_url": "https://twitter.com/i/web/status/1336502933928611840",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1296986849844457472,
+    "in_reply_to_status_id_str": "1296986849844457472",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 09 02:35:31 +0000 2020",
+    "id": 1336499688313253892,
+    "id_str": "1336499688313253892",
+    "text": "一個名為「Marlowe」的人工智慧，只要上傳自己的小說（英文）就可獲得25頁的分析報告，據說它讀過許多暢銷小說、因此可以給出專業建議。 #note\n\n線上可試讀的範例是解析丹布朗的《達文西密碼》，恕我眼拙，除了文本字詞統計之外，… https://t.co/9Nn88BFyHT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            69,
+            74
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9Nn88BFyHT",
+          "expanded_url": "https://twitter.com/i/web/status/1336499688313253892",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Dec 08 13:16:41 +0000 2020",
     "id": 1336298657985961984,
     "id_str": "1336298657985961984",
