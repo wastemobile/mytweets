@@ -1,5 +1,66 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Thu Dec 10 01:38:22 +0000 2020",
+    "id": 1336847693000273924,
+    "id_str": "1336847693000273924",
+    "text": "義大利約2000名書商、包含Santini這位「流動營業員」，聯手成立Bookdealer線上平台，可搜尋書籍、定位最近的書店，或直接購買後由專人送到府。 #note\n\n獨立書店的可能：在米蘭賣書的唐吉訶德… https://t.co/JWNit4sLzX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            78,
+            83
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JWNit4sLzX",
+          "expanded_url": "https://twitter.com/i/web/status/1336847693000273924",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Dec 09 02:53:17 +0000 2020",
     "id": 1336504162297659395,
     "id_str": "1336504162297659395",
