@@ -1,5 +1,239 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Sat Dec 12 03:19:15 +0000 2020",
+    "id": 1337597858350952449,
+    "id_str": "1337597858350952449",
+    "text": "「點數策略」比較像是水面下的隱性動力，但因為沒有較具體的數據、例如在自家平台兌點的佔比，很難看出實質影響力與差異。\n\n封閉與開放，PChome與momo的另一場戰役 https://t.co/OJnUit72bw https://t.co/yj2u1FtlhT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OJnUit72bw",
+          "expanded_url": "https://bit.ly/3mdhPcS",
+          "display_url": "bit.ly/3mdhPcS",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1337597851317112832,
+          "id_str": "1337597851317112832",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/EpAaKKwVEAAmDGP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EpAaKKwVEAAmDGP.jpg",
+          "url": "https://t.co/yj2u1FtlhT",
+          "display_url": "pic.twitter.com/yj2u1FtlhT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1337597858350952449/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1400,
+              "h": 933,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1337597851317112832,
+          "id_str": "1337597851317112832",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/EpAaKKwVEAAmDGP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EpAaKKwVEAAmDGP.jpg",
+          "url": "https://t.co/yj2u1FtlhT",
+          "display_url": "pic.twitter.com/yj2u1FtlhT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1337597858350952449/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1400,
+              "h": 933,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1337278916612874240,
+    "in_reply_to_status_id_str": "1337278916612874240",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 11 13:33:33 +0000 2020",
+    "id": 1337390065719230472,
+    "id_str": "1337390065719230472",
+    "text": "原來《進擊的巨人》最終季，是每週一集、與日本延遲同步播放的，只好先擺著。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 11 06:11:53 +0000 2020",
+    "id": 1337278916612874240,
+    "id_str": "1337278916612874240",
+    "text": "每一年雙11都讓momo持續拉大與PChome的差距。\n\n11月份富邦媒92.6億（較去年同期成長39%），網家52.6億（較去年成長12.2%）。\n\n電商業者公布 11 月營收，雙 11 盛況助 momo 92.6 億破單月紀錄… https://t.co/iNp8R3jdx5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iNp8R3jdx5",
+          "expanded_url": "https://twitter.com/i/web/status/1337278916612874240",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1332868344182030338,
+    "in_reply_to_status_id_str": "1332868344182030338",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Dec 11 02:48:36 +0000 2020",
     "id": 1337227757529395200,
     "id_str": "1337227757529395200",
