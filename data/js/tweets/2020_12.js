@@ -1,5 +1,483 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Sun Dec 13 02:32:44 +0000 2020",
+    "id": 1337948541642129409,
+    "id_str": "1337948541642129409",
+    "text": "非零值的比特幣與以太幣位址數量，32,925,521 與 50,476,989。 #note\n\nhttps://t.co/UWFCKE82ud https://t.co/6GmEEBMOL3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            41,
+            46
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UWFCKE82ud",
+          "expanded_url": "https://bit.ly/3nfCUVF",
+          "display_url": "bit.ly/3nfCUVF",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1337948536999034881,
+          "id_str": "1337948536999034881",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/EpFZGwuUwAE11mS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EpFZGwuUwAE11mS.jpg",
+          "url": "https://t.co/6GmEEBMOL3",
+          "display_url": "pic.twitter.com/6GmEEBMOL3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1337948541642129409/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 300,
+              "h": 188,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 300,
+              "h": 188,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 300,
+              "h": 188,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1337948536999034881,
+          "id_str": "1337948536999034881",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/EpFZGwuUwAE11mS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EpFZGwuUwAE11mS.jpg",
+          "url": "https://t.co/6GmEEBMOL3",
+          "display_url": "pic.twitter.com/6GmEEBMOL3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1337948541642129409/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 300,
+              "h": 188,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 300,
+              "h": 188,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 300,
+              "h": 188,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1337934914608484354,
+    "in_reply_to_status_id_str": "1337934914608484354",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 13 01:47:56 +0000 2020",
+    "id": 1337937267399118853,
+    "id_str": "1337937267399118853",
+    "text": "日本房產公司 at home 與雜誌媒體 Graffiti 聯手創立的居家平台，就頗有IKEA情境範例式型錄的味道，而且更有人味。\n\n小小的家也有大大的品味！跟著日本小資租屋族採集居家佈置靈感！「こだわり部屋 FILE 」的美感生… https://t.co/EUQDc4rph9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EUQDc4rph9",
+          "expanded_url": "https://twitter.com/i/web/status/1337937267399118853",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1336274885966876672,
+    "in_reply_to_status_id_str": "1336274885966876672",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Dec 13 01:38:35 +0000 2020",
+    "id": 1337934914608484354,
+    "id_str": "1337934914608484354",
+    "text": "複製貼上一段HTML即申請完成，入帳不經傳統銀行，提供90%的廣告收益比例。廣告空間是每兩週以智能合約公開招標。\n\n唐吉軻德都需要鼓勵鼓勵。\n\nWordPress廣告賺「以太幣」，新外掛EthereumAds對槓Adsense… https://t.co/fhgtpHSJ5k",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fhgtpHSJ5k",
+          "expanded_url": "https://twitter.com/i/web/status/1337934914608484354",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 12 15:56:44 +0000 2020",
+    "id": 1337788486229737472,
+    "id_str": "1337788486229737472",
+    "text": "日本2020有100多種雜誌停刊了⋯⋯ https://t.co/5h1KKqzSxa",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5h1KKqzSxa",
+          "expanded_url": "https://twitter.com/booknews/status/1337784829673345029",
+          "display_url": "twitter.com/booknews/statu…",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1337784829673345029,
+    "quoted_status_id_str": "1337784829673345029",
+    "quoted_status": {
+      "created_at": "Sat Dec 12 15:42:12 +0000 2020",
+      "id": 1337784829673345029,
+      "id_str": "1337784829673345029",
+      "text": "[はてブ] 今年は100誌以上の雑誌が休刊　コロナ不況の追い討ちで歯止めがかからない雑誌不況 | Japan | SEVENTIE TWOは、世界各地のファッション&amp;ビューティ情報を多言語で毎日配信するインターナショナル・メディア… https://t.co/4M0j1K8FbH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4M0j1K8FbH",
+            "expanded_url": "https://twitter.com/i/web/status/1337784829673345029",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 9826252,
+        "id_str": "9826252",
+        "name": "booknews",
+        "screen_name": "booknews",
+        "location": "日本",
+        "description": "出版関連のニュースを流します。",
+        "url": "http://t.co/gJz5ajsjoO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/gJz5ajsjoO",
+                "expanded_url": "http://twitter.g.hatena.ne.jp/worris/20090814",
+                "display_url": "twitter.g.hatena.ne.jp/worris/20090814",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5125,
+        "friends_count": 87,
+        "listed_count": 623,
+        "created_at": "Wed Oct 31 15:14:17 +0000 2007",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30048,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/707384506/renoir_1890_the_reading_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/707384506/renoir_1890_the_reading_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 12 14:41:50 +0000 2020",
+    "id": 1337769638004883456,
+    "id_str": "1337769638004883456",
+    "text": "關於作者分配收益部分讓人大吃一驚！\n\n鬼滅之刃300億票房，會怎麼分配？原作者，出版社，動畫製作公司，電影院能夠分得多少收益？【中字】 https://t.co/7KhiSQwRut 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            95,
+            103
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7KhiSQwRut",
+          "expanded_url": "https://youtu.be/MglQ3ENpFTU",
+          "display_url": "youtu.be/MglQ3ENpFTU",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1337212536941236225,
+    "in_reply_to_status_id_str": "1337212536941236225",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Dec 12 03:19:15 +0000 2020",
     "id": 1337597858350952449,
     "id_str": "1337597858350952449",
