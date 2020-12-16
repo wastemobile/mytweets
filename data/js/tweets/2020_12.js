@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Wed Dec 16 02:29:55 +0000 2020",
+    "id": 1339034994044329984,
+    "id_str": "1339034994044329984",
+    "text": "與PW4同級300ppi、純平電子墨水屏、7.8寸、32GB容量的多看閱讀器準備上市，終於可以換掉多看韌體PW2啦～\n\n小米推出「小米多看電紙書 Pro」，待機長達 70 天，還限時贈送 VIP 一年使用權… https://t.co/nb9xlITWcK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nb9xlITWcK",
+          "expanded_url": "https://twitter.com/i/web/status/1339034994044329984",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1201688874587545600,
+    "in_reply_to_status_id_str": "1201688874587545600",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 16 01:50:59 +0000 2020",
+    "id": 1339025196238303232,
+    "id_str": "1339025196238303232",
+    "text": "過去近20年以X光分析人體「骨骼」、「肌肉」、「脂肪」3種成分的數據為標準，現改成了分析「脂肪」、「礦物質」、「蛋白質」、「水分」4種成分的新標準與算法。\n\n這應該跟健身中心的機器接近了。\n\n百利達推出新算法的體脂儀，可推測肥胖原… https://t.co/RbFRi5LtCS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RbFRi5LtCS",
+          "expanded_url": "https://twitter.com/i/web/status/1339025196238303232",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Dec 14 03:45:03 +0000 2020",
     "id": 1338329127661682689,
     "id_str": "1338329127661682689",
