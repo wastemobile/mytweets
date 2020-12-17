@@ -1,5 +1,655 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Thu Dec 17 07:02:35 +0000 2020",
+    "id": 1339466003630059520,
+    "id_str": "1339466003630059520",
+    "text": "So, everyone knows drm-free is not “free”. https://t.co/YlD68ImzlT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YlD68ImzlT",
+          "expanded_url": "https://twitter.com/gogcom/status/1339227388438306817",
+          "display_url": "twitter.com/gogcom/status/…",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1339227388438306817,
+    "quoted_status_id_str": "1339227388438306817",
+    "quoted_status": {
+      "created_at": "Wed Dec 16 15:14:25 +0000 2020",
+      "id": 1339227388438306817,
+      "id_str": "1339227388438306817",
+      "text": "Earlier today, it was announced that the game Devotion is coming to GOG. After receiving many messages from gamers,… https://t.co/Wj3hsaMMvv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Wj3hsaMMvv",
+            "expanded_url": "https://twitter.com/i/web/status/1339227388438306817",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18334111,
+        "id_str": "18334111",
+        "name": "GOG.COM",
+        "screen_name": "GOGcom",
+        "location": "",
+        "description": "Truly gamer friendly DRM-free online gaming platform. Classic & new PC games, great offers, friendly staff, awesome community!",
+        "url": "https://t.co/SSBfbXuQVt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/SSBfbXuQVt",
+                "expanded_url": "http://www.GOG.com",
+                "display_url": "GOG.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 365855,
+        "friends_count": 2253,
+        "listed_count": 3273,
+        "created_at": "Tue Dec 23 14:47:11 +0000 2008",
+        "favourites_count": 12198,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 23786,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "2D2D2D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1189934228420644864/XSZ5AoB0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189934228420644864/XSZ5AoB0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18334111/1608127442",
+        "profile_link_color": "8E44AD",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1054,
+      "favorite_count": 2913,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Dec 17 04:42:33 +0000 2020",
+    "id": 1339430761963765761,
+    "id_str": "1339430761963765761",
+    "text": "RT @AmberBeCool: 《唬爛三小》dvd 1000張賣了十年，之前要找都絕版，出版社這個月主動再版500張，導演額頭三粒汗，他說一想到500張又要賣個五年十年就覺得壓力好大。支持了《同學麥娜絲》也一起支持《唬爛三小》好嗎，真的很好看，一起讓他賣到絕版吧 https:…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AmberBeCool",
+          "name": "AmberBeCool🦑",
+          "id": 1976471,
+          "id_str": "1976471",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 17 04:34:48 +0000 2020",
+      "id": 1339428811369156612,
+      "id_str": "1339428811369156612",
+      "text": "《唬爛三小》dvd 1000張賣了十年，之前要找都絕版，出版社這個月主動再版500張，導演額頭三粒汗，他說一想到500張又要賣個五年十年就覺得壓力好大。支持了《同學麥娜絲》也一起支持《唬爛三小》好嗎，真的很好看，一起讓他賣到絕版吧 https://t.co/p7i1CkyR0i",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/p7i1CkyR0i",
+            "expanded_url": "https://www.books.com.tw/products/D020036018",
+            "display_url": "books.com.tw/products/D0200…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1339428514555068417,
+      "in_reply_to_status_id_str": "1339428514555068417",
+      "in_reply_to_user_id": 1976471,
+      "in_reply_to_user_id_str": "1976471",
+      "in_reply_to_screen_name": "AmberBeCool",
+      "user": {
+        "id": 1976471,
+        "id_str": "1976471",
+        "name": "AmberBeCool🦑",
+        "screen_name": "AmberBeCool",
+        "location": "iPhone: 25.168152,121.435333",
+        "description": "過氣雜工，關心國際八卦 與世界不重要新聞。",
+        "url": "https://t.co/2H8NFrd7Kt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2H8NFrd7Kt",
+                "expanded_url": "https://link.medium.com/WK2PdPY0K5",
+                "display_url": "link.medium.com/WK2PdPY0K5",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 11953,
+        "friends_count": 488,
+        "listed_count": 155,
+        "created_at": "Fri Mar 23 04:17:26 +0000 2007",
+        "favourites_count": 3618,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37834,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1284690704988434433/RZTFA_21_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284690704988434433/RZTFA_21_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976471/1595129108",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 17 03:46:20 +0000 2020",
+    "id": 1339416613368414208,
+    "id_str": "1339416613368414208",
+    "text": "相比之下，Kobo似乎未見成長。雖講「年成長50%」，但去年底說營收上看2億，今年還是2億，數字與成長幅度兜不起來。\n\n總之若在年度報告中談些非核心的東西，很容易看明白緣由。\n\n樂天Kobo在台灣營業額年成長50%，成出海東南亞據… https://t.co/VnQQweRKXJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VnQQweRKXJ",
+          "expanded_url": "https://twitter.com/i/web/status/1339416613368414208",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1339409712375234562,
+    "in_reply_to_status_id_str": "1339409712375234562",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 17 03:18:55 +0000 2020",
+    "id": 1339409712375234562,
+    "id_str": "1339409712375234562",
+    "text": "博客來有約900萬會員，根據他們自己的說法，購買紙本書的會員中有一成買過電子書，光這個嚐鮮的人數就遠遠超過其他通路的註冊會員總數。\n\n但閱讀體驗太差的話，能留下多少就難說了。\n\n博客來電子書 2020 年營收上看 2 億，可望拿下… https://t.co/CwoQbrlaLn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CwoQbrlaLn",
+          "expanded_url": "https://twitter.com/i/web/status/1339409712375234562",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1339191760845635585,
+    "in_reply_to_status_id_str": "1339191760845635585",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 17 02:36:08 +0000 2020",
+    "id": 1339398947467509760,
+    "id_str": "1339398947467509760",
+    "text": "Big Sur上Safari崩潰的機率比前一版高出不少，現在許多外掛（延伸功能）升級也都需要重啟Safari。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 17 02:27:36 +0000 2020",
+    "id": 1339396801263091717,
+    "id_str": "1339396801263091717",
+    "text": "莎士比亞書店現任老闆的專訪，好美的照片。\n\n她是已故創始人George Whitman的女兒。\n\nShakespeare &amp; Company , Paris : An Interview with Sylvia Whitman… https://t.co/NNuvRTqhQy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NNuvRTqhQy",
+          "expanded_url": "https://twitter.com/i/web/status/1339396801263091717",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            119,
+            142
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1329614142299271170,
+    "in_reply_to_status_id_str": "1329614142299271170",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 16 14:44:46 +0000 2020",
+    "id": 1339219925794091009,
+    "id_str": "1339219925794091009",
+    "text": "終於看了這部約翰・勒卡雷小說《鍋匠、裁縫、士兵、間諜》的改編電影（台譯諜影行動），很悶卻異常好看，每個細微表情都不能錯過的那種好看。\n\n小說三部曲後兩部《榮譽學生》、《史邁利人馬》都還沒看過，似乎可以補完一下。… https://t.co/qWqV5vFvJN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qWqV5vFvJN",
+          "expanded_url": "https://twitter.com/i/web/status/1339219925794091009",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 16 12:52:51 +0000 2020",
+    "id": 1339191760845635585,
+    "id_str": "1339191760845635585",
+    "text": "根據目前公佈的營收，Readmoo 2.5億、博客來2億、Kobo逼近2億，如果大家的灌水幅度都差不多，由於博客來完全不含硬體營收，所以台灣的電子書內容營收龍頭是博客來耶，這還蠻讓人意外的。\n\n果然讀書買書、不分紙本數位，就是同一… https://t.co/G6JXAYwjP2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/G6JXAYwjP2",
+          "expanded_url": "https://twitter.com/i/web/status/1339191760845635585",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 40,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Dec 16 02:29:55 +0000 2020",
     "id": 1339034994044329984,
     "id_str": "1339034994044329984",
