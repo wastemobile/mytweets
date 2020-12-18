@@ -1,5 +1,271 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Fri Dec 18 01:54:11 +0000 2020",
+    "id": 1339750776776708096,
+    "id_str": "1339750776776708096",
+    "text": "「在網絡世代，勒卡雷的小說會沒落，連同其電影，也連同其深沉的思考與心情。」\n\nhttps://t.co/4cUbTV1WUc https://t.co/7GYgDuMh9Z",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4cUbTV1WUc",
+          "expanded_url": "https://bit.ly/3gY4tjI",
+          "display_url": "bit.ly/3gY4tjI",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1339750767511678985,
+          "id_str": "1339750767511678985",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/EpfAOYkXMAk9xt6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EpfAOYkXMAk9xt6.jpg",
+          "url": "https://t.co/7GYgDuMh9Z",
+          "display_url": "pic.twitter.com/7GYgDuMh9Z",
+          "expanded_url": "https://twitter.com/wastemobile/status/1339750776776708096/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 457,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 802,
+              "h": 539,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 802,
+              "h": 539,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1339750767511678985,
+          "id_str": "1339750767511678985",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/EpfAOYkXMAk9xt6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EpfAOYkXMAk9xt6.jpg",
+          "url": "https://t.co/7GYgDuMh9Z",
+          "display_url": "pic.twitter.com/7GYgDuMh9Z",
+          "expanded_url": "https://twitter.com/wastemobile/status/1339750776776708096/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 457,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 802,
+              "h": 539,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 802,
+              "h": 539,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1339219925794091009,
+    "in_reply_to_status_id_str": "1339219925794091009",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 17 14:15:03 +0000 2020",
+    "id": 1339574834645270531,
+    "id_str": "1339574834645270531",
+    "text": "可惡！我會為了寧靜號去訂Disney+\n\nExclusive: Firefly Reboot Coming To Disney+ https://t.co/JfcZDq8KBg https://t.co/Af08ti01t3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JfcZDq8KBg",
+          "expanded_url": "https://bit.ly/3gW7FMK",
+          "display_url": "bit.ly/3gW7FMK",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1339574574539665409,
+          "id_str": "1339574574539665409",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/Epcf-mmU8AE-syf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Epcf-mmU8AE-syf.jpg",
+          "url": "https://t.co/Af08ti01t3",
+          "display_url": "pic.twitter.com/Af08ti01t3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1339574834645270531/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1400,
+              "h": 1050,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1339574574539665409,
+          "id_str": "1339574574539665409",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/Epcf-mmU8AE-syf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Epcf-mmU8AE-syf.jpg",
+          "url": "https://t.co/Af08ti01t3",
+          "display_url": "pic.twitter.com/Af08ti01t3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1339574834645270531/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1400,
+              "h": 1050,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1093366004946595845,
+    "in_reply_to_status_id_str": "1093366004946595845",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Dec 17 07:02:35 +0000 2020",
     "id": 1339466003630059520,
     "id_str": "1339466003630059520",
