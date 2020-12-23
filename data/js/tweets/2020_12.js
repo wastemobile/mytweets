@@ -1,5 +1,317 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Wed Dec 23 02:02:26 +0000 2020",
+    "id": 1341564792914411520,
+    "id_str": "1341564792914411520",
+    "text": "RT @tenz: Substack 發了一篇文，解釋他們的內容管理原則，同時說明為什麼他們認為訂閱制相較於廣告制，對 internet、整個社會都更好\n\nhttps://t.co/jmMhNWJY8J",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tenz",
+          "name": "Tenz科科笑",
+          "id": 2608241,
+          "id_str": "2608241",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jmMhNWJY8J",
+          "expanded_url": "https://blog.substack.com/p/substacks-view-of-content-moderation",
+          "display_url": "blog.substack.com/p/substacks-vi…",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 23 01:49:38 +0000 2020",
+      "id": 1341561570535505922,
+      "id_str": "1341561570535505922",
+      "text": "Substack 發了一篇文，解釋他們的內容管理原則，同時說明為什麼他們認為訂閱制相較於廣告制，對 internet、整個社會都更好\n\nhttps://t.co/jmMhNWJY8J",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jmMhNWJY8J",
+            "expanded_url": "https://blog.substack.com/p/substacks-view-of-content-moderation",
+            "display_url": "blog.substack.com/p/substacks-vi…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2608241,
+        "id_str": "2608241",
+        "name": "Tenz科科笑",
+        "screen_name": "tenz",
+        "location": "Taipei, Taiwan",
+        "description": "春來也，鳥語花香／秋去矣，山明水秀 歡迎大家來躲，不，Follow。",
+        "url": "https://t.co/usTVcRxYZ3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/usTVcRxYZ3",
+                "expanded_url": "https://medium.com/@tenz",
+                "display_url": "medium.com/@tenz",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7088,
+        "friends_count": 842,
+        "listed_count": 115,
+        "created_at": "Wed Mar 28 03:36:15 +0000 2007",
+        "favourites_count": 10579,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 28630,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/565431343060746240/xqA8YU8D_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/565431343060746240/xqA8YU8D_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2608241/1398224846",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 21 02:32:10 +0000 2020",
+    "id": 1340847501813805056,
+    "id_str": "1340847501813805056",
+    "text": "將LBRY解釋得非常清楚。 #study\n\n下週探討商業模式與商業價值的文章更值得期待。\n\n懶人包｜好和弦說的 LBRY 是什麼？3分鐘帶你學會使用區塊鏈版 YouTube https://t.co/RjwdLXICvR https://t.co/BH7GDLsuOj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "study",
+          "indices": [
+            14,
+            20
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RjwdLXICvR",
+          "expanded_url": "https://bit.ly/2J6ygKG",
+          "display_url": "bit.ly/2J6ygKG",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1340847495262261248,
+          "id_str": "1340847495262261248",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/EpulsV0UUAAtI6z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EpulsV0UUAAtI6z.jpg",
+          "url": "https://t.co/BH7GDLsuOj",
+          "display_url": "pic.twitter.com/BH7GDLsuOj",
+          "expanded_url": "https://twitter.com/wastemobile/status/1340847501813805056/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1340847495262261248,
+          "id_str": "1340847495262261248",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/EpulsV0UUAAtI6z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EpulsV0UUAAtI6z.jpg",
+          "url": "https://t.co/BH7GDLsuOj",
+          "display_url": "pic.twitter.com/BH7GDLsuOj",
+          "expanded_url": "https://twitter.com/wastemobile/status/1340847501813805056/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1340281714665394177,
+    "in_reply_to_status_id_str": "1340281714665394177",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Dec 19 13:03:56 +0000 2020",
     "id": 1340281714665394177,
     "id_str": "1340281714665394177",
