@@ -1,5 +1,239 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Thu Dec 24 03:11:22 +0000 2020",
+    "id": 1341944531030196225,
+    "id_str": "1341944531030196225",
+    "text": "我要把持續追蹤報導那對前補教名師的網站都擋掉。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 24 02:55:50 +0000 2020",
+    "id": 1341940621422956545,
+    "id_str": "1341940621422956545",
+    "text": "澳洲國圖在詩人Andrew Barton 'Banjo' Paterson私人文件底部發現一盒120年的巧克力，還是英國維多利亞女王送的！\n\n拜託大家不要再把食物和書擺在一起了，女王送的也一樣！… https://t.co/P6FQzqEJrP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/P6FQzqEJrP",
+          "expanded_url": "https://twitter.com/i/web/status/1341940621422956545",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1237643929157132288,
+    "in_reply_to_status_id_str": "1237643929157132288",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 24 02:34:43 +0000 2020",
+    "id": 1341935304559628288,
+    "id_str": "1341935304559628288",
+    "text": "來玩巫師3好了⋯⋯\n\nYes, Cyberpunk 2077 Is Buggy. But Mostly, It Has No Heart https://t.co/7qK4Lo4hDw https://t.co/x83fy21zOA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7qK4Lo4hDw",
+          "expanded_url": "https://bit.ly/2KAqeKT",
+          "display_url": "bit.ly/2KAqeKT",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1341935293822222337,
+          "id_str": "1341935293822222337",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ep-DCjPVQAEg1wU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ep-DCjPVQAEg1wU.jpg",
+          "url": "https://t.co/x83fy21zOA",
+          "display_url": "pic.twitter.com/x83fy21zOA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1341935304559628288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1364,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1341935293822222337,
+          "id_str": "1341935293822222337",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ep-DCjPVQAEg1wU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ep-DCjPVQAEg1wU.jpg",
+          "url": "https://t.co/x83fy21zOA",
+          "display_url": "pic.twitter.com/x83fy21zOA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1341935304559628288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1364,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Wed Dec 23 02:02:26 +0000 2020",
     "id": 1341564792914411520,
     "id_str": "1341564792914411520",
