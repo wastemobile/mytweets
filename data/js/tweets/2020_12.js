@@ -1,5 +1,313 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Fri Dec 25 01:39:34 +0000 2020",
+    "id": 1342283812584226816,
+    "id_str": "1342283812584226816",
+    "text": "由於發行加密貨幣Gram不成，Telegram要引入廣告求生存了。 #note\n\nTelegram「無廣告」美夢破滅，為了生存還要開賣貼圖 https://t.co/y9BG9mzpUO https://t.co/g4xnnMMZWz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            34,
+            39
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/y9BG9mzpUO",
+          "expanded_url": "https://bit.ly/3nNVPar",
+          "display_url": "bit.ly/3nNVPar",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1342283804669583360,
+          "id_str": "1342283804669583360",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqDAAjUXIAAJQFx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqDAAjUXIAAJQFx.jpg",
+          "url": "https://t.co/g4xnnMMZWz",
+          "display_url": "pic.twitter.com/g4xnnMMZWz",
+          "expanded_url": "https://twitter.com/wastemobile/status/1342283812584226816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 525,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 900,
+              "h": 525,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 397,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1342283804669583360,
+          "id_str": "1342283804669583360",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqDAAjUXIAAJQFx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqDAAjUXIAAJQFx.jpg",
+          "url": "https://t.co/g4xnnMMZWz",
+          "display_url": "pic.twitter.com/g4xnnMMZWz",
+          "expanded_url": "https://twitter.com/wastemobile/status/1342283812584226816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 525,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 900,
+              "h": 525,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 397,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 24 12:24:00 +0000 2020",
+    "id": 1342083602079748097,
+    "id_str": "1342083602079748097",
+    "text": "RT @tuzzi: 川崎重工2度鞠躬致歉！ 證實中捷斷裂軸心為中國製 明年2月更換法國製升級版-民視新聞網 https://t.co/zxFqfUdJm9 \n\n//川崎重工向美國西屋制動訂購軸心，美國西屋制動供應中國製產品（不清楚是自造還是外包），然後因為組裝不良產生不當應力…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tuzzi",
+          "name": "tuzzi",
+          "id": 17267400,
+          "id_str": "17267400",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zxFqfUdJm9",
+          "expanded_url": "https://www.ftvnews.com.tw/news/detail/2020C21W0065",
+          "display_url": "ftvnews.com.tw/news/detail/20…",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Dec 21 10:25:05 +0000 2020",
+      "id": 1340966514468372482,
+      "id_str": "1340966514468372482",
+      "text": "川崎重工2度鞠躬致歉！ 證實中捷斷裂軸心為中國製 明年2月更換法國製升級版-民視新聞網 https://t.co/zxFqfUdJm9 \n\n//川崎重工向美國西屋制動訂購軸心，美國西屋制動供應中國製產品（不清楚是自造還是外包），然… https://t.co/z3d5FnmWAw",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zxFqfUdJm9",
+            "expanded_url": "https://www.ftvnews.com.tw/news/detail/2020C21W0065",
+            "display_url": "ftvnews.com.tw/news/detail/20…",
+            "indices": [
+              44,
+              67
+            ]
+          },
+          {
+            "url": "https://t.co/z3d5FnmWAw",
+            "expanded_url": "https://twitter.com/i/web/status/1340966514468372482",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17267400,
+        "id_str": "17267400",
+        "name": "tuzzi",
+        "screen_name": "tuzzi",
+        "location": "Taiwan",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5053,
+        "friends_count": 274,
+        "listed_count": 69,
+        "created_at": "Sun Nov 09 11:31:58 +0000 2008",
+        "favourites_count": 31828,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 74088,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245393898068783105/k29ebbqr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245393898068783105/k29ebbqr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17267400/1593653855",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 39,
+      "favorite_count": 130,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Dec 24 03:11:22 +0000 2020",
     "id": 1341944531030196225,
     "id_str": "1341944531030196225",
