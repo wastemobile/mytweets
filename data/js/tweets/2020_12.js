@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Sat Dec 26 03:44:15 +0000 2020",
+    "id": 1342677578084020225,
+    "id_str": "1342677578084020225",
+    "text": "看了美劇《烏托邦》，大魔王意圖散布的病毒能讓三代人不孕，解決地球過於擁擠的問題，這似乎是許多科幻作品反派的終極課題。\n\n查了一下，目前地球人口超過78億，今年死亡5800多萬、出生一億3800多萬，淨成長逾8000萬⋯⋯在這個武漢… https://t.co/Q057kOdqNd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Q057kOdqNd",
+          "expanded_url": "https://twitter.com/i/web/status/1342677578084020225",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Dec 26 02:17:32 +0000 2020",
     "id": 1342655757460807680,
     "id_str": "1342655757460807680",
