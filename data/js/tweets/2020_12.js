@@ -1,5 +1,1066 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Tue Dec 29 01:27:24 +0000 2020",
+    "id": 1343730306268852224,
+    "id_str": "1343730306268852224",
+    "text": "《華爾街》的文章指出，武漢肺炎像時光機器一樣將2030搬來了2020，電子商務年增率47.2%，佔整體零售額從13.4%提升到19.7%。\n\n台灣上半年電子商務佔比則是8.8%。 #note\n\nCovid-19 Propelled… https://t.co/TGOqfjyxvb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            90,
+            95
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TGOqfjyxvb",
+          "expanded_url": "https://twitter.com/i/web/status/1343730306268852224",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 29 01:08:35 +0000 2020",
+    "id": 1343725566915014659,
+    "id_str": "1343725566915014659",
+    "text": "王道之所以被稱作王道，就是因為其可以取悅大部分的人。\n\nMoyashi：在票房榜首上尋找神作是搞錯了甚麼？ https://t.co/PuryLUy80u https://t.co/v1JMtZKdJ5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PuryLUy80u",
+          "expanded_url": "https://bit.ly/3nXWlm2",
+          "display_url": "bit.ly/3nXWlm2",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1343725559403094016,
+          "id_str": "1343725559403094016",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqXfRuPVoAAxPXn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqXfRuPVoAAxPXn.jpg",
+          "url": "https://t.co/v1JMtZKdJ5",
+          "display_url": "pic.twitter.com/v1JMtZKdJ5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1343725566915014659/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1343725559403094016,
+          "id_str": "1343725559403094016",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqXfRuPVoAAxPXn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqXfRuPVoAAxPXn.jpg",
+          "url": "https://t.co/v1JMtZKdJ5",
+          "display_url": "pic.twitter.com/v1JMtZKdJ5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1343725566915014659/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1342808009043427330,
+    "in_reply_to_status_id_str": "1342808009043427330",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 28 13:03:21 +0000 2020",
+    "id": 1343543058667716608,
+    "id_str": "1343543058667716608",
+    "text": "@thecat 長期來看價格差不多，資料還比較近、存取更快速。\n\n2008年買第一台四槽Drobo（DAS），2019才換第二台五槽Drobo NAS，差不多三年才加換一顆硬碟，現在還是壞兩顆都不怕的雙冗餘設置，很安心。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1343517553285496832,
+    "in_reply_to_status_id_str": "1343517553285496832",
+    "in_reply_to_user_id": 807633,
+    "in_reply_to_user_id_str": "807633",
+    "in_reply_to_screen_name": "thecat",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 28 03:42:11 +0000 2020",
+    "id": 1343401837433536512,
+    "id_str": "1343401837433536512",
+    "text": "時光機備份已經受NAS陣列保護（第三重？），但都用於意外回復；若想有另一份更方便使用的照片備份，通常是安裝NAS內建的軟體，我用的是Drobo內建的DroboPix。\n\n當手機連上區網、開啟軟體，照片會自動同步到NAS特定目錄，獨… https://t.co/cvt91aURZm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cvt91aURZm",
+          "expanded_url": "https://twitter.com/i/web/status/1343401837433536512",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1343397661492178944,
+    "in_reply_to_status_id_str": "1343397661492178944",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 28 03:25:36 +0000 2020",
+    "id": 1343397661492178944,
+    "id_str": "1343397661492178944",
+    "text": "Mac的時光機算第二重防護。\n\n區網內常時運轉一台多磁碟的NAS（至少雙磁碟鏡像），掛載到平時使用的電腦；內建小容量電池，斷電時會將記憶體、加速快取中的資料存放到磁碟上，然後安全關機。\n\n目前符合我需求、服役中的是Drobo 5N… https://t.co/EGVS3x02LB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EGVS3x02LB",
+          "expanded_url": "https://twitter.com/i/web/status/1343397661492178944",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1343395981174341632,
+    "in_reply_to_status_id_str": "1343395981174341632",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 28 03:18:55 +0000 2020",
+    "id": 1343395981174341632,
+    "id_str": "1343395981174341632",
+    "text": "對使用蘋果生態系的人來說，記得在某台Mac的照片軟體使用iCloud同步、並勾選「下載原始檔至這台Mac」，離線儲存完整解析度照片。\n\n在Mac的能源節約器中勾選啟用「高效小睡」，睡眠時也都會定期更新iCloud，接固網的桌機幾近… https://t.co/NcaQZxGKbj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NcaQZxGKbj",
+          "expanded_url": "https://twitter.com/i/web/status/1343395981174341632",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1343392183341072385,
+    "in_reply_to_status_id_str": "1343392183341072385",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 28 03:03:50 +0000 2020",
+    "id": 1343392183341072385,
+    "id_str": "1343392183341072385",
+    "text": "買iPhone硬體獲得5GB免費雲端，每月付90元取得200GB額外空間讓家庭帳號共用，買的是「使用便利」、而非「萬無一失」。\n\n不是講風涼話，我也希望能用這麼低廉的價格買到萬無一失，但純屬烏托邦的幻想吧⋯⋯ https://t.co/FCXOQMiAD7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FCXOQMiAD7",
+          "expanded_url": "https://twitter.com/jkgtw/status/1343386878200836096",
+          "display_url": "twitter.com/jkgtw/status/1…",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1343386878200836096,
+    "quoted_status_id_str": "1343386878200836096",
+    "quoted_status": {
+      "created_at": "Mon Dec 28 02:42:45 +0000 2020",
+      "id": 1343386878200836096,
+      "id_str": "1343386878200836096",
+      "text": "各家雲端空間都跟 iCloud 一樣有類似的免責條款，備份出問題的時候他們是不會賠償的，很神奇對嗎？但是目前幾家大公司的條款都是這樣，重要資料自己多做兩份以上備份才是王道 🤣 https://t.co/CHwRGJK3H4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CHwRGJK3H4",
+            "expanded_url": "https://applealmond.com/posts/84134",
+            "display_url": "applealmond.com/posts/84134",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 792526,
+        "id_str": "792526",
+        "name": "Stephen ",
+        "screen_name": "jkgtw",
+        "location": "Taipei, Taiwan",
+        "description": "台灣阿宅、職業奶爸、果粉且喜歡各種 TV Shows 以及 TV Games，因為工作關係 2003-2016 年在中國，目前常駐台北。 PSN ID：jkgtw BattleNet：jkgtw#1447",
+        "url": "https://t.co/ZewaBiqaXi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZewaBiqaXi",
+                "expanded_url": "https://www.jkg.tw/",
+                "display_url": "jkg.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4369,
+        "friends_count": 524,
+        "listed_count": 105,
+        "created_at": "Sat Feb 24 16:20:12 +0000 2007",
+        "favourites_count": 308,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33899,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1265114810317848578/S1I_MXsE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265114810317848578/S1I_MXsE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/792526/1355194040",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          25.12996599,
+          121.501779
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          121.501779,
+          25.12996599
+        ]
+      },
+      "place": {
+        "id": "00180402799fed03",
+        "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+        "place_type": "city",
+        "name": "台北市",
+        "full_name": "台北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.457132,
+                24.960508
+              ],
+              [
+                121.66582,
+                24.960508
+              ],
+              [
+                121.66582,
+                25.211004
+              ],
+              [
+                121.457132,
+                25.211004
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 12,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 28 00:54:56 +0000 2020",
+    "id": 1343359744573108224,
+    "id_str": "1343359744573108224",
+    "text": "對YouTube平台產生高度不滿的不是消費者，而是「上架商品的供應商」。 #note \n\nLBRY風潮反思｜影音串流平台真的適合「去中心化」嗎？LBC代幣分配另有隱憂？ https://t.co/t9z4vF3oEh https://t.co/Mt3xYNw7TE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            37,
+            42
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t9z4vF3oEh",
+          "expanded_url": "https://bit.ly/3aIl3TT",
+          "display_url": "bit.ly/3aIl3TT",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1343359736016588801,
+          "id_str": "1343359736016588801",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqSSj_7U0AEzOTL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqSSj_7U0AEzOTL.jpg",
+          "url": "https://t.co/Mt3xYNw7TE",
+          "display_url": "pic.twitter.com/Mt3xYNw7TE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1343359744573108224/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1343359736016588801,
+          "id_str": "1343359736016588801",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqSSj_7U0AEzOTL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqSSj_7U0AEzOTL.jpg",
+          "url": "https://t.co/Mt3xYNw7TE",
+          "display_url": "pic.twitter.com/Mt3xYNw7TE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1343359744573108224/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1340847501813805056,
+    "in_reply_to_status_id_str": "1340847501813805056",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 27 06:09:10 +0000 2020",
+    "id": 1343076436161175552,
+    "id_str": "1343076436161175552",
+    "text": "後來才發現Amazon這《烏托邦》是翻拍2013年英國的影集；舊版有兩季，而新版大概收視不夠好、亞馬遜不打算續拍，只好回頭看英版。\n\nUtopia(2013) https://t.co/N6sOkBqkqW https://t.co/44yQ0dqiuu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N6sOkBqkqW",
+          "expanded_url": "https://bit.ly/2M6JIHj",
+          "display_url": "bit.ly/2M6JIHj",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1343076427969613825,
+          "id_str": "1343076427969613825",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqOQ5TNUUAE9xZ1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqOQ5TNUUAE9xZ1.jpg",
+          "url": "https://t.co/44yQ0dqiuu",
+          "display_url": "pic.twitter.com/44yQ0dqiuu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1343076436161175552/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 847,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1049,
+              "h": 1487,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 480,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1343076427969613825,
+          "id_str": "1343076427969613825",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/EqOQ5TNUUAE9xZ1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EqOQ5TNUUAE9xZ1.jpg",
+          "url": "https://t.co/44yQ0dqiuu",
+          "display_url": "pic.twitter.com/44yQ0dqiuu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1343076436161175552/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 847,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1049,
+              "h": 1487,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 480,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1342677578084020225,
+    "in_reply_to_status_id_str": "1342677578084020225",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 26 12:22:32 +0000 2020",
+    "id": 1342808009043427330,
+    "id_str": "1342808009043427330",
+    "text": "上映72天，《鬼滅之刃劇場版無限列車篇》正式超越《神隱少女》成為日本影史冠軍。\n\nhttps://t.co/yt051P9cA7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yt051P9cA7",
+          "expanded_url": "https://twitter.com/eigarankingnews/status/1342645342173417472?s=20",
+          "display_url": "twitter.com/eigarankingnew…",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1337769638004883456,
+    "in_reply_to_status_id_str": "1337769638004883456",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1342645342173417472,
+    "quoted_status_id_str": "1342645342173417472",
+    "quoted_status": {
+      "created_at": "Sat Dec 26 01:36:09 +0000 2020",
+      "id": 1342645342173417472,
+      "id_str": "1342645342173417472",
+      "text": "【速報】\n「鬼滅の刃 無限列車編」72日間で\n興収ランキング歴代1位に！(推定)\n\nついに累計興行収入は「千と千尋の神隠し」の316.8億円を越え、歴代1位に！\nこれはなんと“19年ぶり”の快挙です！\nそして、勢いも依然として衰え… https://t.co/yd7BH91RWM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yd7BH91RWM",
+            "expanded_url": "https://twitter.com/i/web/status/1342645342173417472",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4833270445,
+        "id_str": "4833270445",
+        "name": "タロイモ🎬興行収入まとめ",
+        "screen_name": "eigarankingnews",
+        "location": "",
+        "description": "公式ではありません。一時的にですが「鬼滅の刃 無限列車編」の興行収入を主にツイートします！あくまでもツイートするのは推定の数字なので、1〜2億円程の誤差はご容赦下さい。参考サイトは「興行収入を見守りたい！」https://t.co/pUxJnpD3i7ズートピア2全力待機✨主に洋画を見ます！",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/pUxJnpD3i7",
+                "expanded_url": "https://mimorin2014.blog.fc2.com/?pc",
+                "display_url": "mimorin2014.blog.fc2.com/?pc",
+                "indices": [
+                  103,
+                  126
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12506,
+        "friends_count": 1461,
+        "listed_count": 68,
+        "created_at": "Sat Jan 30 03:38:28 +0000 2016",
+        "favourites_count": 16202,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11834,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318587813244203010/bUjMFfAV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318587813244203010/bUjMFfAV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4833270445/1539790722",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10139,
+      "favorite_count": 19576,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Dec 26 03:44:15 +0000 2020",
     "id": 1342677578084020225,
     "id_str": "1342677578084020225",
