@@ -1,5 +1,476 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Wed Dec 30 03:05:17 +0000 2020",
+    "id": 1344117324668792833,
+    "id_str": "1344117324668792833",
+    "text": "雖說「推理小說十誡」已算是過時原則，但「除非先寫出有雙胞胎，否則兇手不準是雙胞胎」這一條絕對是圭臬。\n\n不管是小說或影集，前面搞得諜影幢幢、莫名其妙蹦出個雙胞胎，都立馬放棄。\n\n推理小說十誡  https://t.co/c3iaIjCJQ0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/c3iaIjCJQ0",
+          "expanded_url": "https://bit.ly/3aUmqPs",
+          "display_url": "bit.ly/3aUmqPs",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 30 02:03:14 +0000 2020",
+    "id": 1344101709899919363,
+    "id_str": "1344101709899919363",
+    "text": "最近軟體更新很少，不妨就看看平常在用的究竟會拿哪些資料。 https://t.co/t0WKwv8Zfq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1344101702027210753,
+          "id_str": "1344101702027210753",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eqc1YGtUcAECvGV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eqc1YGtUcAECvGV.jpg",
+          "url": "https://t.co/t0WKwv8Zfq",
+          "display_url": "pic.twitter.com/t0WKwv8Zfq",
+          "expanded_url": "https://twitter.com/wastemobile/status/1344101709899919363/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 986,
+              "h": 676,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 466,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 986,
+              "h": 676,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1344101702027210753,
+          "id_str": "1344101702027210753",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eqc1YGtUcAECvGV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eqc1YGtUcAECvGV.jpg",
+          "url": "https://t.co/t0WKwv8Zfq",
+          "display_url": "pic.twitter.com/t0WKwv8Zfq",
+          "expanded_url": "https://twitter.com/wastemobile/status/1344101709899919363/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 986,
+              "h": 676,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 466,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 986,
+              "h": 676,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1344101702018891778,
+          "id_str": "1344101702018891778",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eqc1YGrVgAI6yFE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eqc1YGrVgAI6yFE.jpg",
+          "url": "https://t.co/t0WKwv8Zfq",
+          "display_url": "pic.twitter.com/t0WKwv8Zfq",
+          "expanded_url": "https://twitter.com/wastemobile/status/1344101709899919363/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 264,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 467,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1970,
+              "h": 766,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1344101702018854913,
+          "id_str": "1344101702018854913",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eqc1YGrU8AE3XbW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eqc1YGrU8AE3XbW.jpg",
+          "url": "https://t.co/t0WKwv8Zfq",
+          "display_url": "pic.twitter.com/t0WKwv8Zfq",
+          "expanded_url": "https://twitter.com/wastemobile/status/1344101709899919363/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 630,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 982,
+              "h": 910,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 982,
+              "h": 910,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 30 01:37:04 +0000 2020",
+    "id": 1344095126109388800,
+    "id_str": "1344095126109388800",
+    "text": "@kinkinlin 這事業也搞太大了⋯⋯你是全台最酷線上藥頭？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kinkinlin",
+          "name": "迷失在虛幻的旅人",
+          "id": 28994418,
+          "id_str": "28994418",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1344079043809792000,
+    "in_reply_to_status_id_str": "1344079043809792000",
+    "in_reply_to_user_id": 28994418,
+    "in_reply_to_user_id_str": "28994418",
+    "in_reply_to_screen_name": "kinkinlin",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 29 15:38:08 +0000 2020",
+    "id": 1343944396857733122,
+    "id_str": "1343944396857733122",
+    "text": "RT @ringshen3_0: 本文以通路角度分析台灣一整年的出版銷售概況，架構為：1.年度出版及圖書銷售數據，2.各大書店通路動態，3.年度暢銷排行榜觀察及4.結語。\n我在書店工作13年後選擇以游離身分留在這裡，可能是極少數可以毫無包袱寫這種文章的人。若你關注台灣出版，歡迎…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ringshen3_0",
+          "name": "Ring",
+          "id": 1267430610584268800,
+          "id_str": "1267430610584268800",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 29 09:13:24 +0000 2020",
+      "id": 1343847578241142784,
+      "id_str": "1343847578241142784",
+      "text": "本文以通路角度分析台灣一整年的出版銷售概況，架構為：1.年度出版及圖書銷售數據，2.各大書店通路動態，3.年度暢銷排行榜觀察及4.結語。\n我在書店工作13年後選擇以游離身分留在這裡，可能是極少數可以毫無包袱寫這種文章的人。若你關注… https://t.co/13NImd6k6C",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/13NImd6k6C",
+            "expanded_url": "https://twitter.com/i/web/status/1343847578241142784",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1267430610584268800,
+        "id_str": "1267430610584268800",
+        "name": "Ring",
+        "screen_name": "ringshen3_0",
+        "location": "",
+        "description": "「人生不過是個圈套，看你是否心甘情願而已。」\n理科生、不自由工作者。主修書店學，副修出版學程，守備範圍：撰稿、編輯、企劃、策展、零售空間規劃，文章散見閱讀相關雜誌及媒體。\n隨時處在人求事狀態，歡迎回推或dm聯繫。\n⚠️歡迎打心。回推轉推隨意，很少回fo回推請見諒。勿將推文轉至其他SNS⚠️",
+        "url": "https://t.co/FSj4K6W007",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FSj4K6W007",
+                "expanded_url": "https://ringshen.medium.com/",
+                "display_url": "ringshen.medium.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 177,
+        "friends_count": 169,
+        "listed_count": 2,
+        "created_at": "Mon Jun 01 12:19:53 +0000 2020",
+        "favourites_count": 3183,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3053,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1297172574506426368/62WhNnzW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297172574506426368/62WhNnzW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267430610584268800/1606656037",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 33,
+      "favorite_count": 74,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Dec 29 01:27:24 +0000 2020",
     "id": 1343730306268852224,
     "id_str": "1343730306268852224",
