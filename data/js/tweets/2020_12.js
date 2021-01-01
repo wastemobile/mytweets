@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2020_12 = [
   {
+    "created_at": "Thu Dec 31 01:48:34 +0000 2020",
+    "id": 1344460405905661952,
+    "id_str": "1344460405905661952",
+    "text": "來聽聽。\n\n黑卡雜誌2020年度十大台灣新生代音樂人 / 將全新世代最有的音樂養分在此一次吸收 https://t.co/jlGdtDnt1r",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jlGdtDnt1r",
+          "expanded_url": "https://bit.ly/34Yb8Wy",
+          "display_url": "bit.ly/34Yb8Wy",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Dec 30 03:05:17 +0000 2020",
     "id": 1344117324668792833,
     "id_str": "1344117324668792833",
