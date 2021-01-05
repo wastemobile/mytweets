@@ -1,5 +1,335 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Tue Jan 05 01:43:36 +0000 2021",
+    "id": 1346271096803217409,
+    "id_str": "1346271096803217409",
+    "text": "「80 年代的日本意象已經過時，『後・後數碼龐克』在遠東的偽共產帝國身上找到最新的養分。」\n\n這是推薦看《環太平洋2》嗎？\n\nMoyashi：數碼龐克與後數碼龐克 https://t.co/0Cy6rIkxr1 https://t.co/bVaRSL9MxP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0Cy6rIkxr1",
+          "expanded_url": "https://bit.ly/2LmboYe",
+          "display_url": "bit.ly/2LmboYe",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1346271088573968385,
+          "id_str": "1346271088573968385",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eq7qbBXUcAEIUJ0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eq7qbBXUcAEIUJ0.jpg",
+          "url": "https://t.co/bVaRSL9MxP",
+          "display_url": "pic.twitter.com/bVaRSL9MxP",
+          "expanded_url": "https://twitter.com/wastemobile/status/1346271096803217409/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 901,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 676,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1346271088573968385,
+          "id_str": "1346271088573968385",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eq7qbBXUcAEIUJ0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eq7qbBXUcAEIUJ0.jpg",
+          "url": "https://t.co/bVaRSL9MxP",
+          "display_url": "pic.twitter.com/bVaRSL9MxP",
+          "expanded_url": "https://twitter.com/wastemobile/status/1346271096803217409/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 901,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 676,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jan 05 01:24:18 +0000 2021",
+    "id": 1346266240231174145,
+    "id_str": "1346266240231174145",
+    "text": "去年11月看到新聞是「投資」，現在則是「收購」。\n\n日本凸版印刷收購了台灣的軟體開發企業iDGate https://t.co/aqFGcWvN4c https://t.co/N9kdBqGtDf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aqFGcWvN4c",
+          "expanded_url": "https://bit.ly/357Wig0",
+          "display_url": "bit.ly/357Wig0",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1346266234074005509,
+          "id_str": "1346266234074005509",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eq7mAc8VgAUNK7E.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eq7mAc8VgAUNK7E.jpg",
+          "url": "https://t.co/N9kdBqGtDf",
+          "display_url": "pic.twitter.com/N9kdBqGtDf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1346266240231174145/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 439,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 439,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 439,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1346266234074005509,
+          "id_str": "1346266234074005509",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eq7mAc8VgAUNK7E.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eq7mAc8VgAUNK7E.jpg",
+          "url": "https://t.co/N9kdBqGtDf",
+          "display_url": "pic.twitter.com/N9kdBqGtDf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1346266240231174145/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 439,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 439,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 439,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 04 13:26:24 +0000 2021",
+    "id": 1346085574222876678,
+    "id_str": "1346085574222876678",
+    "text": "伸展書裡也一直提醒：呼吸很重要！\n\n肩頸痠痛? 腰酸背痛?  讓正確的呼吸來幫助你! https://t.co/1BsBZNhsMN 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            70,
+            78
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1BsBZNhsMN",
+          "expanded_url": "https://youtu.be/UoBuyExMCHM",
+          "display_url": "youtu.be/UoBuyExMCHM",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1345567198144733184,
+    "in_reply_to_status_id_str": "1345567198144733184",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jan 03 04:52:32 +0000 2021",
     "id": 1345593868826230785,
     "id_str": "1345593868826230785",
