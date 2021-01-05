@@ -1,5 +1,190 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Tue Jan 05 02:31:59 +0000 2021",
+    "id": 1346283272909672448,
+    "id_str": "1346283272909672448",
+    "text": "蘋果App隱私權實務真是名符其實的「照妖鏡」。 https://t.co/7QXFpUO1pB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7QXFpUO1pB",
+          "expanded_url": "https://twitter.com/signalapp/status/1346258308496150528",
+          "display_url": "twitter.com/signalapp/stat…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1344101709899919363,
+    "in_reply_to_status_id_str": "1344101709899919363",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1346258308496150528,
+    "quoted_status_id_str": "1346258308496150528",
+    "quoted_status": {
+      "created_at": "Tue Jan 05 00:52:47 +0000 2021",
+      "id": 1346258308496150528,
+      "id_str": "1346258308496150528",
+      "text": "You can make an app used by many millions of people that has no data...Cool chart by @forbes &amp; @UKZak 🙈🙊🙉… https://t.co/0MYkCrkf8B",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Forbes",
+            "name": "Forbes",
+            "id": 91478624,
+            "id_str": "91478624",
+            "indices": [
+              85,
+              92
+            ]
+          },
+          {
+            "screen_name": "UKZak",
+            "name": "Zak Doffman",
+            "id": 296728882,
+            "id_str": "296728882",
+            "indices": [
+              99,
+              105
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0MYkCrkf8B",
+            "expanded_url": "https://twitter.com/i/web/status/1346258308496150528",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 142415193,
+        "id_str": "142415193",
+        "name": "Signal",
+        "screen_name": "signalapp",
+        "location": "",
+        "description": "Say “hello” to privacy.",
+        "url": "https://t.co/PcAHLU7cth",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/PcAHLU7cth",
+                "expanded_url": "http://signal.org",
+                "display_url": "signal.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 153627,
+        "friends_count": 25,
+        "listed_count": 2365,
+        "created_at": "Mon May 10 20:47:35 +0000 2010",
+        "favourites_count": 1366,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 3626,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245828066200276995/gOuxVdfv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245828066200276995/gOuxVdfv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/142415193/1422133327",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1249,
+      "favorite_count": 3096,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 7,
+    "favorite_count": 26,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jan 05 01:43:36 +0000 2021",
     "id": 1346271096803217409,
     "id_str": "1346271096803217409",
