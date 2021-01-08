@@ -1,5 +1,176 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Fri Jan 08 03:25:51 +0000 2021",
+    "id": 1347383993193295882,
+    "id_str": "1347383993193295882",
+    "text": "真沒想到這套三部曲會出繁體中文版。\n\n亞馬遜已經拍了第一部《Tales from the Loop》的影集（环形物语），很悶很慢畫面很美故事很玄，不確定第二部拍攝計畫是否繼續中。\n\n迴環記憶三部曲：迴圈奇譚✕洪水過後✕電幻國度… https://t.co/rKCdHUE7p5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rKCdHUE7p5",
+          "expanded_url": "https://twitter.com/i/web/status/1347383993193295882",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1079280223294640128,
+    "in_reply_to_status_id_str": "1079280223294640128",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 08 02:28:12 +0000 2021",
+    "id": 1347369483447357440,
+    "id_str": "1347369483447357440",
+    "text": "蠻推 #Netflix 這部《冥想正念指南》，大概就是用催眠的輕柔語調、配上催眠的動畫，過程中還會要你閉上眼睛只聽聲音。\n\n明明是第一集後半閉上眼睛的，醒來時第二集已經快播完了，超有效的。（嗯？… https://t.co/IvIJzGSqWz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IvIJzGSqWz",
+          "expanded_url": "https://twitter.com/i/web/status/1347369483447357440",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 08 01:44:42 +0000 2021",
+    "id": 1347358538180354050,
+    "id_str": "1347358538180354050",
+    "text": "三名美國出版產業顧問聯合撰寫了《武漢肺炎與書籍出版：對2021年的影響與洞見》報告，大致梳理了去年與出版相關的各種情境與數據，可下載免費PDF閱讀。\n\n嗯，比較像資訊整理大補帖啦。\n\nCOVID-19 and Book Publi… https://t.co/iiRTdejfiK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iiRTdejfiK",
+          "expanded_url": "https://twitter.com/i/web/status/1347358538180354050",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jan 05 02:31:59 +0000 2021",
     "id": 1346283272909672448,
     "id_str": "1346283272909672448",
