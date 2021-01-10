@@ -1,5 +1,121 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Sat Jan 09 15:20:59 +0000 2021",
+    "id": 1347926349961261056,
+    "id_str": "1347926349961261056",
+    "text": "看到PW介紹美國某間獨立書店時，回想起幾年前發的推。\n\n28坪小書店，擺放8,000種書，是一個人每週讀一本、不間斷讀60年、總數3,120本的2.56倍。\n\n一間獨立書店夠你讀2.5輩子，好大好大。… https://t.co/wVaSUXi94c",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wVaSUXi94c",
+          "expanded_url": "https://twitter.com/i/web/status/1347926349961261056",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 515208437668401153,
+    "in_reply_to_status_id_str": "515208437668401153",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 09 12:25:28 +0000 2021",
+    "id": 1347882178055598081,
+    "id_str": "1347882178055598081",
+    "text": "Overdrive在2020年借出了2億8900萬次電子書、1億3800萬次有聲書，相較2019分別成長了40%與20%。\n\n目前在84國（含台灣）、65,000個圖書館提供服務。 #note… https://t.co/FgUUKwIsRg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            91,
+            96
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FgUUKwIsRg",
+          "expanded_url": "https://twitter.com/i/web/status/1347882178055598081",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jan 09 04:53:44 +0000 2021",
     "id": 1347768494562021376,
     "id_str": "1347768494562021376",
