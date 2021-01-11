@@ -1,5 +1,303 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Mon Jan 11 02:21:56 +0000 2021",
+    "id": 1348455068836614145,
+    "id_str": "1348455068836614145",
+    "text": "加拿大2006創辦的Wattpad閱讀平台，傳言將在本月以5億美金賣給美國的網路公司。\n\n號稱每月有9000萬讀者，以data-backed publishing為核心，讓作者與讀者直接建立關聯；Amazon Write On原本… https://t.co/GFTnYk4Wmv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GFTnYk4Wmv",
+          "expanded_url": "https://twitter.com/i/web/status/1348455068836614145",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 11 02:04:21 +0000 2021",
+    "id": 1348450643543949313,
+    "id_str": "1348450643543949313",
+    "text": "LBC作為「協議幣」，就像是股份的一種，但幾乎沒有收入、卻拼命發放股份⋯⋯\n\n懶人包 2｜LBRY商業模式全解析！ 創作者如何賺錢？持代幣 LBC 有什麼風險？ https://t.co/RnaAK0CJHt https://t.co/LyDF1D3Pee",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RnaAK0CJHt",
+          "expanded_url": "https://bit.ly/3oBV4S3",
+          "display_url": "bit.ly/3oBV4S3",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1348450638129025024,
+          "id_str": "1348450638129025024",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/EraotgLUUAA5dnd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EraotgLUUAA5dnd.jpg",
+          "url": "https://t.co/LyDF1D3Pee",
+          "display_url": "pic.twitter.com/LyDF1D3Pee",
+          "expanded_url": "https://twitter.com/wastemobile/status/1348450643543949313/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 373,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 684,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 684,
+              "h": 375,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1348450638129025024,
+          "id_str": "1348450638129025024",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/EraotgLUUAA5dnd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EraotgLUUAA5dnd.jpg",
+          "url": "https://t.co/LyDF1D3Pee",
+          "display_url": "pic.twitter.com/LyDF1D3Pee",
+          "expanded_url": "https://twitter.com/wastemobile/status/1348450643543949313/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 373,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 684,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 684,
+              "h": 375,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1348158164928118786,
+    "in_reply_to_status_id_str": "1348158164928118786",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 10 06:42:08 +0000 2021",
+    "id": 1348158164928118786,
+    "id_str": "1348158164928118786",
+    "text": "PeerTube剛剛釋出v3新版 https://t.co/pxsD1paOsP ，覺得這種聯邦式網站的去中心化模式更合理些，實際上也是P2P，但各供應節點負擔多些。\n\n若也有類似LBC回饋機制，理論上聯邦網站（提供頻寬）與創作者… https://t.co/NkAVEOUwp7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pxsD1paOsP",
+          "expanded_url": "https://bit.ly/38snmZI",
+          "display_url": "bit.ly/38snmZI",
+          "indices": [
+            17,
+            40
+          ]
+        },
+        {
+          "url": "https://t.co/NkAVEOUwp7",
+          "expanded_url": "https://twitter.com/i/web/status/1348158164928118786",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1343359744573108224,
+    "in_reply_to_status_id_str": "1343359744573108224",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 10 06:13:56 +0000 2021",
+    "id": 1348151067968561153,
+    "id_str": "1348151067968561153",
+    "text": "R.I.P. 沈昌文先生。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Sat Jan 09 15:20:59 +0000 2021",
     "id": 1347926349961261056,
     "id_str": "1347926349961261056",
