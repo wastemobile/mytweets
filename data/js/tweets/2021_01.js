@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Wed Jan 13 02:31:23 +0000 2021",
+    "id": 1349182222184579078,
+    "id_str": "1349182222184579078",
+    "text": "最近買了GoodLinks，一次解決稍後再讀、網頁擷取、儲存簡化後的離線內容。\n\n無需帳號，是已經很少見的通用軟體（買一次各平台可用），iCloud同步，只適用沈浸於蘋果生態系的用戶，非完美，但剛好解決問題。\n\n想起《上班女郎》裏… https://t.co/NVpusLIMlB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NVpusLIMlB",
+          "expanded_url": "https://twitter.com/i/web/status/1349182222184579078",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jan 12 14:50:49 +0000 2021",
+    "id": 1349005920194490368,
+    "id_str": "1349005920194490368",
+    "text": "毫無疑問的，對一間廣告公司來說，什麼都是廣告工具。\n\nhttps://t.co/3QZcL2jMac",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3QZcL2jMac",
+          "expanded_url": "https://www.kocpc.com.tw/archives/364703",
+          "display_url": "kocpc.com.tw/archives/364703",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jan 11 15:56:03 +0000 2021",
     "id": 1348659948192886785,
     "id_str": "1348659948192886785",
