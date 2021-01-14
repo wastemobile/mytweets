@@ -1,5 +1,114 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Thu Jan 14 02:04:44 +0000 2021",
+    "id": 1349537905908224001,
+    "id_str": "1349537905908224001",
+    "text": "GoodLinks不比Pocket更好，但九成一樣。\n\n$4.99可在任何蘋果設備上安裝，簡化擷取後都儲存在自己設備上的離線內容，很輕很快。\n\niOS的功能比桌面多，可自訂操作，開發者寫過1Writer，一個用JS自訂功能的Mar… https://t.co/WqfpsoVfnH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WqfpsoVfnH",
+          "expanded_url": "https://twitter.com/i/web/status/1349537905908224001",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1349182222184579078,
+    "in_reply_to_status_id_str": "1349182222184579078",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 13 05:25:36 +0000 2021",
+    "id": 1349226065252605953,
+    "id_str": "1349226065252605953",
+    "text": "@Nexus76317 其實差不多，就是無需仰賴網路服務、很輕很快，每篇可以寫個小記事；留下更少的數位足跡。\n\n這軟體是1Writer App開發者寫的，感覺還會進化。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Nexus76317",
+          "name": "Unknown",
+          "id": 754685540427968512,
+          "id_str": "754685540427968512",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1349182513214676992,
+    "in_reply_to_status_id_str": "1349182513214676992",
+    "in_reply_to_user_id": 754685540427968512,
+    "in_reply_to_user_id_str": "754685540427968512",
+    "in_reply_to_screen_name": "Nexus76317",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jan 13 02:31:23 +0000 2021",
     "id": 1349182222184579078,
     "id_str": "1349182222184579078",
