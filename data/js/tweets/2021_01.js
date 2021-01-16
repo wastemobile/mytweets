@@ -1,5 +1,193 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Sat Jan 16 01:13:45 +0000 2021",
+    "id": 1350249851175354370,
+    "id_str": "1350249851175354370",
+    "text": "所以雙11依舊是每年momo讓業績持續爬樓梯的關鍵。\n\n【電商營收】2020年富邦媒、網家、創業家兄弟三家電商表現如何？ https://t.co/WLIhuimZRQ https://t.co/Wxy40t59k9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WLIhuimZRQ",
+          "expanded_url": "https://bit.ly/35H1eZG",
+          "display_url": "bit.ly/35H1eZG",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1350249843575275522,
+          "id_str": "1350249843575275522",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/Er0NFCxUwAI1tAt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Er0NFCxUwAI1tAt.jpg",
+          "url": "https://t.co/Wxy40t59k9",
+          "display_url": "pic.twitter.com/Wxy40t59k9",
+          "expanded_url": "https://twitter.com/wastemobile/status/1350249851175354370/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 465,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1321,
+              "h": 903,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 820,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1350249843575275522,
+          "id_str": "1350249843575275522",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/Er0NFCxUwAI1tAt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Er0NFCxUwAI1tAt.jpg",
+          "url": "https://t.co/Wxy40t59k9",
+          "display_url": "pic.twitter.com/Wxy40t59k9",
+          "expanded_url": "https://twitter.com/wastemobile/status/1350249851175354370/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 465,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1321,
+              "h": 903,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 820,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1337597858350952449,
+    "in_reply_to_status_id_str": "1337597858350952449",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 16 00:41:39 +0000 2021",
+    "id": 1350241771234549762,
+    "id_str": "1350241771234549762",
+    "text": "Medium併購了Glose，以社群分享為訴求的電子書與有聲書零售商。\n\n幾年前玩過，還丟了幾本中文書上去試用。2020年中它還成為HarperCollins在北美與英國的電子書直售服務商。\n\nMedium Acquires Di… https://t.co/Jx4DzudvEG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Jx4DzudvEG",
+          "expanded_url": "https://twitter.com/i/web/status/1350241771234549762",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jan 14 03:45:13 +0000 2021",
     "id": 1349563192238768128,
     "id_str": "1349563192238768128",
