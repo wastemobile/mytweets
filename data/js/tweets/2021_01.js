@@ -1,5 +1,170 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Sun Jan 17 02:26:14 +0000 2021",
+    "id": 1350630479582556160,
+    "id_str": "1350630479582556160",
+    "text": "好的桌遊總充滿了讓人癡迷的匠人味，即使是這麼硬核的內容也一樣，不，或許正是因為硬核。\n\n生物迷的燒腦挑戰！踏上達爾文演化論的起點《Darwin’s Journey》桌遊 3 天集資千萬台幣… https://t.co/WDQwxyZZk0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WDQwxyZZk0",
+          "expanded_url": "https://twitter.com/i/web/status/1350630479582556160",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 16 04:27:06 +0000 2021",
+    "id": 1350298508578807814,
+    "id_str": "1350298508578807814",
+    "text": "目前打字手動加上空格的習慣還是無法改，本以為蘋果加入呈現時自動調整間距功能後會有不同，但以目前常用的軟體為例，iA Writer各平台都沒有、Drafts各平台都有，Ulysses最怪，iOS版有套用、但macOS版沒有。\n\n唉。… https://t.co/4zcsB2JsMg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4zcsB2JsMg",
+          "expanded_url": "https://twitter.com/i/web/status/1350298508578807814",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 16 01:50:12 +0000 2021",
+    "id": 1350259023119937537,
+    "id_str": "1350259023119937537",
+    "text": "@MrFriday 一定是因為非本國上櫃上市、財報公開的公司，拿推測數字比較不具意義。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "MrFriday",
+          "name": "Mr.Friday",
+          "id": 7250232,
+          "id_str": "7250232",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1350258592528519168,
+    "in_reply_to_status_id_str": "1350258592528519168",
+    "in_reply_to_user_id": 7250232,
+    "in_reply_to_user_id_str": "7250232",
+    "in_reply_to_screen_name": "MrFriday",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jan 16 01:13:45 +0000 2021",
     "id": 1350249851175354370,
     "id_str": "1350249851175354370",
