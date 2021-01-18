@@ -1,5 +1,303 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Sun Jan 17 16:42:21 +0000 2021",
+    "id": 1350845927016153089,
+    "id_str": "1350845927016153089",
+    "text": "《Cyberpunk 2077》砸鍋後，彭博社訪問20餘名現任、前任工作人員（大多匿名），探究了背後原因。這篇是大致的節譯，原文在此 https://t.co/5hj7iwywpm\n\n《電馭叛客2077》2018的Demo影片「造… https://t.co/zNEMtjlkad",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5hj7iwywpm",
+          "expanded_url": "https://bloom.bg/3ikvaQm",
+          "display_url": "bloom.bg/3ikvaQm",
+          "indices": [
+            67,
+            90
+          ]
+        },
+        {
+          "url": "https://t.co/zNEMtjlkad",
+          "expanded_url": "https://twitter.com/i/web/status/1350845927016153089",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 17 15:12:58 +0000 2021",
+    "id": 1350823435723710469,
+    "id_str": "1350823435723710469",
+    "text": "推特現在的當務之急，絕對是恢復飛不起來的大鯨魚。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 17 08:59:20 +0000 2021",
+    "id": 1350729406231109632,
+    "id_str": "1350729406231109632",
+    "text": "還真沒想到台灣2020年居然賣出近6,000輛特斯拉。\n\nhttps://t.co/E0HqXiKog2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/E0HqXiKog2",
+          "expanded_url": "https://bit.ly/3qst83I",
+          "display_url": "bit.ly/3qst83I",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 17 05:44:34 +0000 2021",
+    "id": 1350680392928399362,
+    "id_str": "1350680392928399362",
+    "text": "在VS Code裝了Foam、以及一些附加優化Markdown的外掛，只要有那個「腦圖」模式看起來就頗高大上（錯覺），而且似乎覆蓋了Obsidian七八成功能。\n\nhttps://t.co/B62fdaOYSs https://t.co/EaJL6U69qh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/B62fdaOYSs",
+          "expanded_url": "https://bit.ly/3oSXJXM",
+          "display_url": "bit.ly/3oSXJXM",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1350680384753729539,
+          "id_str": "1350680384753729539",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/Er6Up1pVgAMC-NE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Er6Up1pVgAMC-NE.jpg",
+          "url": "https://t.co/EaJL6U69qh",
+          "display_url": "pic.twitter.com/EaJL6U69qh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1350680392928399362/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 651,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 369,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2032,
+              "h": 1102,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1350680384753729539,
+          "id_str": "1350680384753729539",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/Er6Up1pVgAMC-NE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Er6Up1pVgAMC-NE.jpg",
+          "url": "https://t.co/EaJL6U69qh",
+          "display_url": "pic.twitter.com/EaJL6U69qh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1350680392928399362/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 651,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 369,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2032,
+              "h": 1102,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1336298657985961984,
+    "in_reply_to_status_id_str": "1336298657985961984",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jan 17 02:26:14 +0000 2021",
     "id": 1350630479582556160,
     "id_str": "1350630479582556160",
