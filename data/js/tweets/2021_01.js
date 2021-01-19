@@ -1,5 +1,353 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Tue Jan 19 01:42:28 +0000 2021",
+    "id": 1351344241335648256,
+    "id_str": "1351344241335648256",
+    "text": "這篇提及Substack與Medium的異同，以及後者近日併購線上閱讀（電子書）平台Glose的整合意義。\n\n先不管其餘周邊收益，廣告與訂閱（直接或間接）就是二選一。\n\nBefore Substack, there was Med… https://t.co/T6MUS1QYHJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T6MUS1QYHJ",
+          "expanded_url": "https://twitter.com/i/web/status/1351344241335648256",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1350241771234549762,
+    "in_reply_to_status_id_str": "1350241771234549762",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 18 15:49:30 +0000 2021",
+    "id": 1351195015540842496,
+    "id_str": "1351195015540842496",
+    "text": "這次中華電信海纜故障似乎影響很大，起碼比之前都有感，據說再兩天就修復了，忍忍。\n\n欣賞一下全球海底光纜系統。\n\nhttps://t.co/l5NdnAFyeF https://t.co/MqBXGf9N7m",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/l5NdnAFyeF",
+          "expanded_url": "https://www.submarinecablemap.com",
+          "display_url": "submarinecablemap.com",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1351195005990400004,
+          "id_str": "1351195005990400004",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsBosvJW8AQ32bH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsBosvJW8AQ32bH.jpg",
+          "url": "https://t.co/MqBXGf9N7m",
+          "display_url": "pic.twitter.com/MqBXGf9N7m",
+          "expanded_url": "https://twitter.com/wastemobile/status/1351195015540842496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1470,
+              "h": 1126,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 521,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 919,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1351195005990400004,
+          "id_str": "1351195005990400004",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsBosvJW8AQ32bH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsBosvJW8AQ32bH.jpg",
+          "url": "https://t.co/MqBXGf9N7m",
+          "display_url": "pic.twitter.com/MqBXGf9N7m",
+          "expanded_url": "https://twitter.com/wastemobile/status/1351195015540842496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1470,
+              "h": 1126,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 521,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 919,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 31,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 18 15:24:50 +0000 2021",
+    "id": 1351188809568972804,
+    "id_str": "1351188809568972804",
+    "text": "RT @SHK_in_TW: 魏德聖《台灣三部曲》計畫，為何對台灣電影產業是「百害一利」？ - The News Lens 關鍵評論網 https://t.co/IrRLAopDE9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SHK_in_TW",
+          "name": "SHK",
+          "id": 46633194,
+          "id_str": "46633194",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IrRLAopDE9",
+          "expanded_url": "https://www.thenewslens.com/article/145929",
+          "display_url": "thenewslens.com/article/145929",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 18 14:18:40 +0000 2021",
+      "id": 1351172155447390212,
+      "id_str": "1351172155447390212",
+      "text": "魏德聖《台灣三部曲》計畫，為何對台灣電影產業是「百害一利」？ - The News Lens 關鍵評論網 https://t.co/IrRLAopDE9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IrRLAopDE9",
+            "expanded_url": "https://www.thenewslens.com/article/145929",
+            "display_url": "thenewslens.com/article/145929",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 46633194,
+        "id_str": "46633194",
+        "name": "SHK",
+        "screen_name": "SHK_in_TW",
+        "location": "Taiwan",
+        "description": "不痛不癢的人生，反而顯的無趣",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 652,
+        "friends_count": 443,
+        "listed_count": 18,
+        "created_at": "Fri Jun 12 11:36:30 +0000 2009",
+        "favourites_count": 730,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23268,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/550500762510323713/vd97CtaP_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/550500762510323713/vd97CtaP_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46633194/1402790867",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jan 17 16:42:21 +0000 2021",
     "id": 1350845927016153089,
     "id_str": "1350845927016153089",
