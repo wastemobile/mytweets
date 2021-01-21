@@ -1,5 +1,270 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Thu Jan 21 01:47:36 +0000 2021",
+    "id": 1352070310212771840,
+    "id_str": "1352070310212771840",
+    "text": "不知是傳言有誤、還是被攔胡，Wattpad閱讀平台居然是被韓國NAVER集團併購，6億美金也高於日前流言。\n\n對，就是LINE母公司。\n\nSouth Korea's Naver to Acquire Wattpad for $60… https://t.co/rbex57C4bm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rbex57C4bm",
+          "expanded_url": "https://twitter.com/i/web/status/1352070310212771840",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1348455068836614145,
+    "in_reply_to_status_id_str": "1348455068836614145",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 20 05:28:10 +0000 2021",
+    "id": 1351763427274878978,
+    "id_str": "1351763427274878978",
+    "text": "米原康正說他的人生課題是「不要被女生討厭」。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jan 19 15:28:00 +0000 2021",
+    "id": 1351551993081331717,
+    "id_str": "1351551993081331717",
+    "text": "RT @aboutfish: 中央社：「半島電視台調查：絆住全世界的3天」特別節目今晚播出，兩名中國記者秘密錄下影片，揭發擁有1100 萬人口的武漢巿如何一夕劇變，從原本對武漢肺炎無動於衷，在數小時內變得驚慌失措而且醫院爆滿。未曾公開的畫面拍攝於2020年1月19至22日。調查…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "aboutfish",
+          "name": "關魚",
+          "id": 3398341,
+          "id_str": "3398341",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 18 14:57:51 +0000 2021",
+      "id": 1351182017610854403,
+      "id_str": "1351182017610854403",
+      "text": "中央社：「半島電視台調查：絆住全世界的3天」特別節目今晚播出，兩名中國記者秘密錄下影片，揭發擁有1100 萬人口的武漢巿如何一夕劇變，從原本對武漢肺炎無動於衷，在數小時內變得驚慌失措而且醫院爆滿。未曾公開的畫面拍攝於2020年1月… https://t.co/SdoOV8qQOE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SdoOV8qQOE",
+            "expanded_url": "https://twitter.com/i/web/status/1351182017610854403",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3398341,
+        "id_str": "3398341",
+        "name": "關魚",
+        "screen_name": "aboutfish",
+        "location": "Taiwan",
+        "description": "關於在大千海洋自由自在游泳的魚，也是來自臺灣的地球人，對任何有趣的人事物都很有興趣。現任台灣好生活電子報總編輯，為所有持續抵抗國家暴力、爭取自由尊嚴的人們打氣 About a free fish who likes to cheer up everyone to fight for freedom",
+        "url": "http://t.co/2XcI9Dm7sC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/2XcI9Dm7sC",
+                "expanded_url": "http://www.taiwangoodlife.org",
+                "display_url": "taiwangoodlife.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8774,
+        "friends_count": 649,
+        "listed_count": 115,
+        "created_at": "Wed Apr 04 06:17:59 +0000 2007",
+        "favourites_count": 6257,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29551,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000553340054/1818c5565f7fb50300e5d91880ec2eba_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000553340054/1818c5565f7fb50300e5d91880ec2eba_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3398341/1568731927",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 119,
+      "favorite_count": 225,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 119,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jan 19 01:42:28 +0000 2021",
     "id": 1351344241335648256,
     "id_str": "1351344241335648256",
