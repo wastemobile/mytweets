@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Fri Jan 22 01:25:15 +0000 2021",
+    "id": 1352427072283500546,
+    "id_str": "1352427072283500546",
+    "text": "韓國NAVER併購加拿大Wattpad，似乎讓歐美出版商對亞洲風行的「線上閱讀」更加迷惑，Naver目前還有捲軸式線上漫畫Webtoon，預期兩者將有加成作用。\n\n原來騰訊也是猜想的併購競爭者，2018年那波5,100萬美金增資時… https://t.co/imvAkJFgTC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/imvAkJFgTC",
+          "expanded_url": "https://twitter.com/i/web/status/1352427072283500546",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1352070310212771840,
+    "in_reply_to_status_id_str": "1352070310212771840",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jan 21 01:47:36 +0000 2021",
     "id": 1352070310212771840,
     "id_str": "1352070310212771840",
