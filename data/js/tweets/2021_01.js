@@ -1,5 +1,392 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Sat Jan 23 01:28:27 +0000 2021",
+    "id": 1352790263299600384,
+    "id_str": "1352790263299600384",
+    "text": "怎麼覺得PS4大概是玩不到了⋯⋯\n\n官方解釋《Cyberpunk 2077》在 PS4、XB1 體驗不佳的主因：硬碟讀寫速度太慢了 https://t.co/R3Y09zvPt3 https://t.co/N8404NPIBZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/R3Y09zvPt3",
+          "expanded_url": "https://bit.ly/3p5iNdD",
+          "display_url": "bit.ly/3p5iNdD",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1352790258077765633,
+          "id_str": "1352790258077765633",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsYTkoRVkAEZy-2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsYTkoRVkAEZy-2.jpg",
+          "url": "https://t.co/N8404NPIBZ",
+          "display_url": "pic.twitter.com/N8404NPIBZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1352790263299600384/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1352790258077765633,
+          "id_str": "1352790258077765633",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsYTkoRVkAEZy-2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsYTkoRVkAEZy-2.jpg",
+          "url": "https://t.co/N8404NPIBZ",
+          "display_url": "pic.twitter.com/N8404NPIBZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1352790263299600384/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1350845927016153089,
+    "in_reply_to_status_id_str": "1350845927016153089",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 23 00:41:55 +0000 2021",
+    "id": 1352778556472889346,
+    "id_str": "1352778556472889346",
+    "text": "什麼時候中本聰才要出來打臉澳本聰啦！\n\nhttps://t.co/5Ae2UFHadh下架了「比特幣白皮書」！澳本聰以版權威脅，引社群眾怒 https://t.co/BuZJcW9oRl https://t.co/fhOaOMlcXJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5Ae2UFHadh",
+          "expanded_url": "http://BitcoinCore.org",
+          "display_url": "BitcoinCore.org",
+          "indices": [
+            20,
+            43
+          ]
+        },
+        {
+          "url": "https://t.co/BuZJcW9oRl",
+          "expanded_url": "https://bit.ly/2MkmJZl",
+          "display_url": "bit.ly/2MkmJZl",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1352778550248525825,
+          "id_str": "1352778550248525825",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsYI7JNU0AE9wCc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsYI7JNU0AE9wCc.jpg",
+          "url": "https://t.co/fhOaOMlcXJ",
+          "display_url": "pic.twitter.com/fhOaOMlcXJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1352778556472889346/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1352778550248525825,
+          "id_str": "1352778550248525825",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsYI7JNU0AE9wCc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsYI7JNU0AE9wCc.jpg",
+          "url": "https://t.co/fhOaOMlcXJ",
+          "display_url": "pic.twitter.com/fhOaOMlcXJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1352778556472889346/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 23 00:16:07 +0000 2021",
+    "id": 1352772062650060801,
+    "id_str": "1352772062650060801",
+    "text": "這到底是太老實、還是太有心機，完全摸不清啊⋯⋯ https://t.co/HAWyCaNiMX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HAWyCaNiMX",
+          "expanded_url": "https://twitter.com/jimmy_su/status/1352769574471524352",
+          "display_url": "twitter.com/jimmy_su/statu…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1352769574471524352,
+    "quoted_status_id_str": "1352769574471524352",
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 22 02:58:35 +0000 2021",
+    "id": 1352450562004901889,
+    "id_str": "1352450562004901889",
+    "text": "裝了這個很可愛的小工具 IntelliDock，當程式視窗需要更大空間、壓到下方區域時，才會自動隱藏 Dock。\n\nbrew install intellidock\n\nhttps://t.co/5Two1zc9Qr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5Two1zc9Qr",
+          "expanded_url": "https://mightymac.app/intellidock/",
+          "display_url": "mightymac.app/intellidock/",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1297080455498407937,
+    "in_reply_to_status_id_str": "1297080455498407937",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jan 22 01:25:15 +0000 2021",
     "id": 1352427072283500546,
     "id_str": "1352427072283500546",
