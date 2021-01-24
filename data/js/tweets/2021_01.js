@@ -1,5 +1,298 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Sun Jan 24 04:01:10 +0000 2021",
+    "id": 1353191085464403973,
+    "id_str": "1353191085464403973",
+    "text": "用了幾年紀錄運動習慣的Productive App，但不覺得這樣的小東西還得每年訂閱，就一直用免費版、僅限紀錄3個。\n\n最近付費NT$170改買了Streaks，能多紀錄幾個了，而且幾乎不用付什麼隱私費，小工具也很方便。\n\n參考介… https://t.co/iZpelOIJn9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iZpelOIJn9",
+          "expanded_url": "https://twitter.com/i/web/status/1353191085464403973",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 24 01:43:40 +0000 2021",
+    "id": 1353156480535416832,
+    "id_str": "1353156480535416832",
+    "text": "@isaac_hsu 遇到立場不同的議題時，任何政府控制的數位邦或許都是最獨裁的。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "isaac_hsu",
+          "name": "Isaac Hsu",
+          "id": 3135344978,
+          "id_str": "3135344978",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1353151456732319744,
+    "in_reply_to_status_id_str": "1353151456732319744",
+    "in_reply_to_user_id": 3135344978,
+    "in_reply_to_user_id_str": "3135344978",
+    "in_reply_to_screen_name": "isaac_hsu",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 24 01:38:18 +0000 2021",
+    "id": 1353155132494495744,
+    "id_str": "1353155132494495744",
+    "text": "關於Gossip Protocol可以看看 @thezelf 35C3 -  Scuttlebutt https://t.co/asRSBSgipO 的解說影片。\n\n也有兩篇中文的參考文章：Gossip Protocol 介紹 (… https://t.co/ZDKpC9i8cJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thezelf",
+          "name": "Zenna Fiscella",
+          "id": 2507375840,
+          "id_str": "2507375840",
+          "indices": [
+            22,
+            30
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/asRSBSgipO",
+          "expanded_url": "https://youtu.be/JSWWkzsHhjk",
+          "display_url": "youtu.be/JSWWkzsHhjk",
+          "indices": [
+            51,
+            74
+          ]
+        },
+        {
+          "url": "https://t.co/ZDKpC9i8cJ",
+          "expanded_url": "https://twitter.com/i/web/status/1353155132494495744",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1353153958198484992,
+    "in_reply_to_status_id_str": "1353153958198484992",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 24 01:33:38 +0000 2021",
+    "id": 1353153958198484992,
+    "id_str": "1353153958198484992",
+    "text": "安裝Patchwork，每個人都獲得唯一的識別，在離線本機也能寫公開與私密的訊息內容。\n\n透過區域網路、小型的room或大型的pub，都可以與其他人交流，同步後資料都離線儲存，根據gossip協議的分散資料庫。… https://t.co/Q0sa80g6su",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Q0sa80g6su",
+          "expanded_url": "https://twitter.com/i/web/status/1353153958198484992",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1353150921128071168,
+    "in_reply_to_status_id_str": "1353150921128071168",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 24 01:21:34 +0000 2021",
+    "id": 1353150921128071168,
+    "id_str": "1353150921128071168",
+    "text": "言論審查造成一波社群（假性）遷徙，但很難想像一個巨大集中化的社群服務、如何只靠賣貼圖、擴大容量付費等手段，在無廣告收益的狀況下長久經營。\n\nMastodon這類聯邦服務則有另一重隱憂，帳號跟著註冊網站，一旦網站關閉（蠻常發生）就很… https://t.co/1E4nHDAWQf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1E4nHDAWQf",
+          "expanded_url": "https://twitter.com/i/web/status/1353150921128071168",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1329974475962470400,
+    "in_reply_to_status_id_str": "1329974475962470400",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jan 23 01:28:27 +0000 2021",
     "id": 1352790263299600384,
     "id_str": "1352790263299600384",
