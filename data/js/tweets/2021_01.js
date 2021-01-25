@@ -1,5 +1,1284 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Mon Jan 25 04:30:19 +0000 2021",
+    "id": 1353560809343860740,
+    "id_str": "1353560809343860740",
+    "text": "RT @new27brigade: 台灣立方衛星「玉山」(YUSAT)和「飛鼠」(IDEASSat)衛星，昨夜成功在美國發射升空，預定今天上午進行首次通聯測試，稍早2枚衛星的研究團隊皆分別證實，已經收到衛星訊號\nhttps://t.co/dqjA01CCvl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "new27brigade",
+          "name": "新‧二七部隊 軍事雜談 (New 27 Brigade)",
+          "id": 1254084570275655680,
+          "id_str": "1254084570275655680",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dqjA01CCvl",
+          "expanded_url": "https://news.ltn.com.tw/news/life/breakingnews/3421406",
+          "display_url": "news.ltn.com.tw/news/life/brea…",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 25 04:18:24 +0000 2021",
+      "id": 1353557810450059264,
+      "id_str": "1353557810450059264",
+      "text": "台灣立方衛星「玉山」(YUSAT)和「飛鼠」(IDEASSat)衛星，昨夜成功在美國發射升空，預定今天上午進行首次通聯測試，稍早2枚衛星的研究團隊皆分別證實，已經收到衛星訊號\nhttps://t.co/dqjA01CCvl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dqjA01CCvl",
+            "expanded_url": "https://news.ltn.com.tw/news/life/breakingnews/3421406",
+            "display_url": "news.ltn.com.tw/news/life/brea…",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1254084570275655680,
+        "id_str": "1254084570275655680",
+        "name": "新‧二七部隊 軍事雜談 (New 27 Brigade)",
+        "screen_name": "new27brigade",
+        "location": "",
+        "description": "本站主旨：戰史研究、戰略安全、軍事科技、政治作戰\n組織本土軍隊意識，建立在地軍事認知\n拒絕黃埔軍閥壟斷，豎立高砂國魂認同",
+        "url": "https://t.co/vDERehHRer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vDERehHRer",
+                "expanded_url": "https://www.facebook.com/New27Brigade/",
+                "display_url": "facebook.com/New27Brigade/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4355,
+        "friends_count": 62,
+        "listed_count": 28,
+        "created_at": "Sat Apr 25 16:27:34 +0000 2020",
+        "favourites_count": 19,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2542,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1279064071636021248/g5IO_iIU_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1279064071636021248/g5IO_iIU_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254084570275655680/1610778121",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 25 01:46:35 +0000 2021",
+    "id": 1353519604258148352,
+    "id_str": "1353519604258148352",
+    "text": "Nextcloud可輕鬆在樹莓派用docker安裝，但使用microSD儲存大量內容檔案並不實際，可以用USB 3連接SSD啟動；但若想提升速度兼顧安全，得用樹莓派運算模組＋擴展板＋SATA卡。… https://t.co/1uV7OUCTyG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1uV7OUCTyG",
+          "expanded_url": "https://twitter.com/i/web/status/1353519604258148352",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1353228797089255424,
+    "in_reply_to_status_id_str": "1353228797089255424",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 24 15:15:12 +0000 2021",
+    "id": 1353360712257609730,
+    "id_str": "1353360712257609730",
+    "text": "RT @SpaceX: Liftoff! https://t.co/js3zVM77rH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SpaceX",
+          "name": "SpaceX",
+          "id": 34743251,
+          "id_str": "34743251",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1353357083211558912,
+          "id_str": "1353357083211558912",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1353357083211558912/img/t1f5WHXGEtk_W6iN.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1353357083211558912/img/t1f5WHXGEtk_W6iN.jpg",
+          "url": "https://t.co/js3zVM77rH",
+          "display_url": "pic.twitter.com/js3zVM77rH",
+          "expanded_url": "https://twitter.com/SpaceX/status/1353357167617732608/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1353357167617732608,
+          "source_status_id_str": "1353357167617732608",
+          "source_user_id": 34743251,
+          "source_user_id_str": "34743251"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1353357083211558912,
+          "id_str": "1353357083211558912",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1353357083211558912/img/t1f5WHXGEtk_W6iN.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1353357083211558912/img/t1f5WHXGEtk_W6iN.jpg",
+          "url": "https://t.co/js3zVM77rH",
+          "display_url": "pic.twitter.com/js3zVM77rH",
+          "expanded_url": "https://twitter.com/SpaceX/status/1353357167617732608/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1353357167617732608,
+          "source_status_id_str": "1353357167617732608",
+          "source_user_id": 34743251,
+          "source_user_id_str": "34743251",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 7601,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1353357083211558912/vid/1280x720/ul1pctuJQ2xMq5YR.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1353357083211558912/vid/640x360/KmpiDGgXxpUZ69Sd.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1353357083211558912/pl/LTLrkRPBBW5YRZ1s.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1353357083211558912/vid/480x270/xyaU9KfXkXdJnJgF.mp4?tag=13"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "id": 34743251,
+              "id_str": "34743251",
+              "name": "SpaceX",
+              "screen_name": "SpaceX",
+              "location": "Hawthorne, CA",
+              "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+              "url": "https://t.co/SDnmlLwwoK",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/SDnmlLwwoK",
+                      "expanded_url": "http://www.spacex.com",
+                      "display_url": "spacex.com",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 14145476,
+              "friends_count": 98,
+              "listed_count": 29008,
+              "created_at": "Thu Apr 23 21:53:30 +0000 2009",
+              "favourites_count": 207,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": true,
+              "statuses_count": 5133,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1082744382585856001/rH_k3PtQ_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082744382585856001/rH_k3PtQ_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/34743251/1596331248",
+              "profile_link_color": "62616B",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "EFEFEF",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": true,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jan 24 15:01:07 +0000 2021",
+      "id": 1353357167617732608,
+      "id_str": "1353357167617732608",
+      "text": "Liftoff! https://t.co/js3zVM77rH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1353357083211558912,
+            "id_str": "1353357083211558912",
+            "indices": [
+              9,
+              32
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1353357083211558912/img/t1f5WHXGEtk_W6iN.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1353357083211558912/img/t1f5WHXGEtk_W6iN.jpg",
+            "url": "https://t.co/js3zVM77rH",
+            "display_url": "pic.twitter.com/js3zVM77rH",
+            "expanded_url": "https://twitter.com/SpaceX/status/1353357167617732608/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1353357083211558912,
+            "id_str": "1353357083211558912",
+            "indices": [
+              9,
+              32
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1353357083211558912/img/t1f5WHXGEtk_W6iN.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1353357083211558912/img/t1f5WHXGEtk_W6iN.jpg",
+            "url": "https://t.co/js3zVM77rH",
+            "display_url": "pic.twitter.com/js3zVM77rH",
+            "expanded_url": "https://twitter.com/SpaceX/status/1353357167617732608/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 7601,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1353357083211558912/vid/1280x720/ul1pctuJQ2xMq5YR.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1353357083211558912/vid/640x360/KmpiDGgXxpUZ69Sd.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1353357083211558912/pl/LTLrkRPBBW5YRZ1s.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1353357083211558912/vid/480x270/xyaU9KfXkXdJnJgF.mp4?tag=13"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "title": "",
+              "description": "",
+              "embeddable": true,
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 34743251,
+        "id_str": "34743251",
+        "name": "SpaceX",
+        "screen_name": "SpaceX",
+        "location": "Hawthorne, CA",
+        "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+        "url": "https://t.co/SDnmlLwwoK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/SDnmlLwwoK",
+                "expanded_url": "http://www.spacex.com",
+                "display_url": "spacex.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14145476,
+        "friends_count": 98,
+        "listed_count": 29008,
+        "created_at": "Thu Apr 23 21:53:30 +0000 2009",
+        "favourites_count": 207,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 5133,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082744382585856001/rH_k3PtQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082744382585856001/rH_k3PtQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/34743251/1596331248",
+        "profile_link_color": "62616B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5491,
+      "favorite_count": 47382,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5491,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jan 24 15:13:24 +0000 2021",
+    "id": 1353360259314716672,
+    "id_str": "1353360259314716672",
+    "text": "剛才已經順利升空了！好振奮～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1353236068053598208,
+    "in_reply_to_status_id_str": "1353236068053598208",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 24 07:13:05 +0000 2021",
+    "id": 1353239384842149888,
+    "id_str": "1353239384842149888",
+    "text": "RT @bschentw: 當初決定要用密碼管理器時，在 1Password 和 Dashlane 和 Bitwarden 之間猶豫了很久，最後看在可以自架服務這點上選了 Bitwarden\n\nBitwarden 官方也有收費服務，價格遠遠比其他家低廉許多",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bschentw",
+          "name": "bschen",
+          "id": 1078446379284946944,
+          "id_str": "1078446379284946944",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jan 24 07:12:04 +0000 2021",
+      "id": 1353239125063655424,
+      "id_str": "1353239125063655424",
+      "text": "當初決定要用密碼管理器時，在 1Password 和 Dashlane 和 Bitwarden 之間猶豫了很久，最後看在可以自架服務這點上選了 Bitwarden\n\nBitwarden 官方也有收費服務，價格遠遠比其他家低廉許多 https://t.co/DRZHSBGRGa",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DRZHSBGRGa",
+            "expanded_url": "https://twitter.com/wastemobile/status/1353228797089255424",
+            "display_url": "twitter.com/wastemobile/st…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1078446379284946944,
+        "id_str": "1078446379284946944",
+        "name": "bschen",
+        "screen_name": "bschentw",
+        "location": "Taiwan",
+        "description": "",
+        "url": "https://t.co/I8MYXXjSB0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/I8MYXXjSB0",
+                "expanded_url": "https://blog.bschen.tw/",
+                "display_url": "blog.bschen.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 38,
+        "friends_count": 66,
+        "listed_count": 1,
+        "created_at": "Fri Dec 28 00:23:48 +0000 2018",
+        "favourites_count": 3010,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 753,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1078609026101870593/q7opyg8B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078609026101870593/q7opyg8B_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078446379284946944/1545995184",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1353228797089255424,
+      "quoted_status_id_str": "1353228797089255424",
+      "quoted_status": {
+        "created_at": "Sun Jan 24 06:31:01 +0000 2021",
+        "id": 1353228797089255424,
+        "id_str": "1353228797089255424",
+        "text": "是第一次聽到Bitwarden這個密碼管理服務，有開源自架版、提供docker映像檔可快速安裝、包含ARM版，也支援一次性密碼（OTP）使用，覺得有機會替換掉1Password。\n\n影片作者另一支在樹莓派上用docker安裝Bit… https://t.co/9cuERztEyb",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/9cuERztEyb",
+              "expanded_url": "https://twitter.com/i/web/status/1353228797089255424",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 1353224776576245761,
+        "in_reply_to_status_id_str": "1353224776576245761",
+        "in_reply_to_user_id": 20709129,
+        "in_reply_to_user_id_str": "20709129",
+        "in_reply_to_screen_name": "wastemobile",
+        "user": {
+          "id": 20709129,
+          "id_str": "20709129",
+          "name": "wastemobile",
+          "screen_name": "wastemobile",
+          "location": "地下城堡",
+          "description": "每塊石頭裡都有一座雕像。",
+          "url": "https://t.co/5LQVtqARrN",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/5LQVtqARrN",
+                  "expanded_url": "https://wastemobile.github.io/mytweets/",
+                  "display_url": "wastemobile.github.io/mytweets/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 4885,
+          "friends_count": 1186,
+          "listed_count": 129,
+          "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+          "favourites_count": 3519,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 23091,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFF04D",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1573835714",
+          "profile_link_color": "0099CC",
+          "profile_sidebar_border_color": "FFF8AD",
+          "profile_sidebar_fill_color": "F6FFD1",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 1,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1353228797089255424,
+    "quoted_status_id_str": "1353228797089255424",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 24 06:59:55 +0000 2021",
+    "id": 1353236068053598208,
+    "id_str": "1353236068053598208",
+    "text": "搭載了兩顆台灣衛星飛鼠與玉山的SpaceX已經連三天延期，沒想到居然是有史以來一次載最多衛星升空部署的火箭，希望今晚能順利發射啊！ https://t.co/2oPQIbzIhu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2oPQIbzIhu",
+          "expanded_url": "https://twitter.com/saunaikitai/status/1353132056444719104",
+          "display_url": "twitter.com/saunaikitai/st…",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1353132056444719104,
+    "quoted_status_id_str": "1353132056444719104",
+    "quoted_status": {
+      "created_at": "Sun Jan 24 00:06:36 +0000 2021",
+      "id": 1353132056444719104,
+      "id_str": "1353132056444719104",
+      "text": "SpaceX、史上最大143機の衛星を載せて宇宙へ\nPlanet: 36\nExolaunch: 30\nD-Orbit: 20\nKepler: 17\nSpaceflight: 14\nStarlink: 10\nNanoracks: 9… https://t.co/7tGKFYkFRr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7tGKFYkFRr",
+            "expanded_url": "https://twitter.com/i/web/status/1353132056444719104",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3299038968,
+        "id_str": "3299038968",
+        "name": "服部雄也 | SPACE WALKER",
+        "screen_name": "saunaikitai",
+        "location": "宇宙",
+        "description": "早稲田男子チアShockers、日本代表として世界一経験 Sansan Sales → 香りIoT Scentee → 宇宙のPR責任者 2029年 日本初の有人宇宙飛行実現を目指し資金調達中。 世界の宇宙開発の最前線を中の人の視点でお届けします Pairs婚 & 初代広告モデル、ベンチ150kg プロサウナー",
+        "url": "https://t.co/fb7h0yQAfr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/fb7h0yQAfr",
+                "expanded_url": "https://www.facebook.com/yuya.hattori.16",
+                "display_url": "facebook.com/yuya.hattori.16",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3294,
+        "friends_count": 87,
+        "listed_count": 38,
+        "created_at": "Tue Jul 28 03:48:23 +0000 2015",
+        "favourites_count": 77215,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1509,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1302778810656387072/EHO3P0MJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1302778810656387072/EHO3P0MJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3299038968/1595020523",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 166,
+      "favorite_count": 486,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 11,
+    "favorite_count": 36,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 24 06:31:01 +0000 2021",
+    "id": 1353228797089255424,
+    "id_str": "1353228797089255424",
+    "text": "是第一次聽到Bitwarden這個密碼管理服務，有開源自架版、提供docker映像檔可快速安裝、包含ARM版，也支援一次性密碼（OTP）使用，覺得有機會替換掉1Password。\n\n影片作者另一支在樹莓派上用docker安裝Bit… https://t.co/9cuERztEyb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9cuERztEyb",
+          "expanded_url": "https://twitter.com/i/web/status/1353228797089255424",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1353224776576245761,
+    "in_reply_to_status_id_str": "1353224776576245761",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 24 06:15:03 +0000 2021",
+    "id": 1353224776576245761,
+    "id_str": "1353224776576245761",
+    "text": "這影片介紹5種使用樹莓派就能自行架設的服務，前3樣每個家庭都該有：\n\n1. Pi-Hole阻擋惡意網站與廣告\n2. Nextcloud檔案存取同步（含照片）\n3. Bitwarden 密碼管理\n\n4. Wallabag儲存文章、稍… https://t.co/FMOobkc2Fq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FMOobkc2Fq",
+          "expanded_url": "https://twitter.com/i/web/status/1353224776576245761",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 76,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jan 24 04:01:10 +0000 2021",
     "id": 1353191085464403973,
     "id_str": "1353191085464403973",
