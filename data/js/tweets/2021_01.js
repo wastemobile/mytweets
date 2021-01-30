@@ -1,5 +1,66 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Sat Jan 30 05:09:20 +0000 2021",
+    "id": 1355382566686126081,
+    "id_str": "1355382566686126081",
+    "text": "應該是看到推友推薦才安裝了Time Machine Editor這個小工具，用了一陣子，相見恨晚、驚為天人！ #mac\n\n時光機每小時整理、備份時，總讓電腦變鈍、影響當下工作，只微調成4小時後，剛剛好都能跳過使用空檔、進行不擾人的… https://t.co/doC8mKKnF7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "mac",
+          "indices": [
+            55,
+            59
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/doC8mKKnF7",
+          "expanded_url": "https://twitter.com/i/web/status/1355382566686126081",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1352450562004901889,
+    "in_reply_to_status_id_str": "1352450562004901889",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jan 30 02:06:03 +0000 2021",
     "id": 1355336444441550850,
     "id_str": "1355336444441550850",
