@@ -1,5 +1,414 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Sat Jan 30 09:48:30 +0000 2021",
+    "id": 1355452820489531393,
+    "id_str": "1355452820489531393",
+    "text": "RT @penk: @wastemobile 中本聰應該更難找, 叫 Satoshi 的都這麼擅長消失嗎 😂",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "penk",
+          "name": "Penk Chen",
+          "id": 10148252,
+          "id_str": "10148252",
+          "indices": [
+            3,
+            8
+          ]
+        },
+        {
+          "screen_name": "wastemobile",
+          "name": "wastemobile",
+          "id": 20709129,
+          "id_str": "20709129",
+          "indices": [
+            10,
+            22
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jan 30 09:47:37 +0000 2021",
+      "id": 1355452601215541265,
+      "id_str": "1355452601215541265",
+      "text": "@wastemobile 中本聰應該更難找, 叫 Satoshi 的都這麼擅長消失嗎 😂",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1355315799821455361,
+      "in_reply_to_status_id_str": "1355315799821455361",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 10148252,
+        "id_str": "10148252",
+        "name": "Penk Chen",
+        "screen_name": "penk",
+        "location": "Koto-ku, Tokyo",
+        "description": "Keep on rockin' in the free world",
+        "url": "https://t.co/0eeLnMB886",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/0eeLnMB886",
+                "expanded_url": "https://cutiepi.io",
+                "display_url": "cutiepi.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 780,
+        "friends_count": 465,
+        "listed_count": 44,
+        "created_at": "Sun Nov 11 09:08:46 +0000 2007",
+        "favourites_count": 2592,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2404,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1354103504223145984/b3CEk92q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354103504223145984/b3CEk92q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10148252/1586109446",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 30 08:59:45 +0000 2021",
+    "id": 1355440554763403264,
+    "id_str": "1355440554763403264",
+    "text": "使用乙太網路供電交換器驅動四片樹莓派 #Pi 叢集，算起來瓦數剛剛好，也簡潔清爽多了。每片都需要額外的PoE HAT https://t.co/1mFhS8DjT3 網路供電擴展板。\n\nDocker for Apple M1發布後… https://t.co/ykPjF3CtKh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Pi",
+          "indices": [
+            19,
+            22
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1mFhS8DjT3",
+          "expanded_url": "https://bit.ly/3owghMt",
+          "display_url": "bit.ly/3owghMt",
+          "indices": [
+            59,
+            82
+          ]
+        },
+        {
+          "url": "https://t.co/ykPjF3CtKh",
+          "expanded_url": "https://twitter.com/i/web/status/1355440554763403264",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1336504162297659395,
+    "in_reply_to_status_id_str": "1336504162297659395",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 30 05:30:10 +0000 2021",
+    "id": 1355387808207106050,
+    "id_str": "1355387808207106050",
+    "text": "這篇真是太專業了。\n\n正念：術業有專攻。\n\n負念：誰准你們創造出這麼多莫名其妙的工具來坑殺散戶的！ https://t.co/RqhYpbGVOU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RqhYpbGVOU",
+          "expanded_url": "https://twitter.com/ijliao/status/1355167620756959239",
+          "display_url": "twitter.com/ijliao/status/…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1355167620756959239,
+    "quoted_status_id_str": "1355167620756959239",
+    "quoted_status": {
+      "created_at": "Fri Jan 29 14:55:13 +0000 2021",
+      "id": 1355167620756959239,
+      "id_str": "1355167620756959239",
+      "text": "quote :\n利用末日期權價格低並且帶有槓桿的特點，散戶們一邊買入正股、一邊大量買入末日價外看漲期權 (OTM call)，讓股價跌不下去，藉此來反擊華爾街的空頭機構。\n\nhttps://t.co/qWEPGui4P6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qWEPGui4P6",
+            "expanded_url": "https://medium.com/trading-mind/3d9a0d1284fb",
+            "display_url": "medium.com/trading-mind/3…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1354836504707698695,
+      "in_reply_to_status_id_str": "1354836504707698695",
+      "in_reply_to_user_id": 2795511,
+      "in_reply_to_user_id_str": "2795511",
+      "in_reply_to_screen_name": "ijliao",
+      "user": {
+        "id": 2795511,
+        "id_str": "2795511",
+        "name": "Ying-Chieh Liao",
+        "screen_name": "ijliao",
+        "location": "Taipei, Taiwan",
+        "description": "阿宅",
+        "url": "http://t.co/8Ox0kmIuST",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/8Ox0kmIuST",
+                "expanded_url": "http://blog.ijliao.info/",
+                "display_url": "blog.ijliao.info",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2840,
+        "friends_count": 445,
+        "listed_count": 85,
+        "created_at": "Thu Mar 29 05:55:33 +0000 2007",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 70230,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712309097069039617/OzSJVPH4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712309097069039617/OzSJVPH4_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jan 30 05:09:20 +0000 2021",
     "id": 1355382566686126081,
     "id_str": "1355382566686126081",
