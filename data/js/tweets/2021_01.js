@@ -1,5 +1,299 @@
 Grailbird.data.tweets_2021_01 = [
   {
+    "created_at": "Sun Jan 31 08:30:32 +0000 2021",
+    "id": 1355795589976363010,
+    "id_str": "1355795589976363010",
+    "text": "發現Simplenote也支援內部連結了，並非雙方括號的維基語法，而是URL Scheme的連結；支援行內自動完成偵測、選擇，或是在清單欄按右鍵、複製內部連結。\n\n還意外發現「發佈」功能，會獲得一個隨機線上網址，本地修改也會同步更… https://t.co/nB9wLKMWHM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nB9wLKMWHM",
+          "expanded_url": "https://twitter.com/i/web/status/1355795589976363010",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1355382566686126081,
+    "in_reply_to_status_id_str": "1355382566686126081",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 31 07:47:14 +0000 2021",
+    "id": 1355784692369244163,
+    "id_str": "1355784692369244163",
+    "text": "@superbil 你有付費訂閱，然後還你錢嗎？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "superbil",
+          "name": "舒特比 Φ ω Φ",
+          "id": 6134752,
+          "id_str": "6134752",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1355783087708196868,
+    "in_reply_to_status_id_str": "1355783087708196868",
+    "in_reply_to_user_id": 6134752,
+    "in_reply_to_user_id_str": "6134752",
+    "in_reply_to_screen_name": "superbil",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 31 07:14:10 +0000 2021",
+    "id": 1355776372250091520,
+    "id_str": "1355776372250091520",
+    "text": "Apple TV+ 免費訂閱優惠已經延長至七月。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 31 07:05:43 +0000 2021",
+    "id": 1355774244265750532,
+    "id_str": "1355774244265750532",
+    "text": "美國BookScan公佈了2020的書籍銷售數量資料，十年來最佳。總數成長9%，達9億4200萬冊；紙本成長8.2%、電子書成長12.6%。 #book\n\n歸因於線上銷售佔比的成長，讓舊書販售比例從2010年的54%，成長到去年的… https://t.co/JPcHQqQlHr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "book",
+          "indices": [
+            71,
+            76
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JPcHQqQlHr",
+          "expanded_url": "https://twitter.com/i/web/status/1355774244265750532",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1354236880477245442,
+    "in_reply_to_status_id_str": "1354236880477245442",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 31 04:00:22 +0000 2021",
+    "id": 1355727597963857920,
+    "id_str": "1355727597963857920",
+    "text": "看到介紹 #lowcode 系列文章〈Mendix介紹與相關資源整理〉 https://t.co/0JbvxpTa0Q\n\n想起在 #Netflix 看過的巴西科幻影集《全知之城》（Omniscient）… https://t.co/MHweIb7jiy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "lowcode",
+          "indices": [
+            5,
+            13
+          ]
+        },
+        {
+          "text": "Netflix",
+          "indices": [
+            65,
+            73
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0JbvxpTa0Q",
+          "expanded_url": "https://bit.ly/2MJvgoT",
+          "display_url": "bit.ly/2MJvgoT",
+          "indices": [
+            36,
+            59
+          ]
+        },
+        {
+          "url": "https://t.co/MHweIb7jiy",
+          "expanded_url": "https://twitter.com/i/web/status/1355727597963857920",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jan 30 09:48:30 +0000 2021",
     "id": 1355452820489531393,
     "id_str": "1355452820489531393",
