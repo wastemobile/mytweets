@@ -1,5 +1,199 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Sat Feb 06 02:10:32 +0000 2021",
+    "id": 1357874283993833475,
+    "id_str": "1357874283993833475",
+    "text": "ABA還經營著電子商務服務的基礎平台，提供獨立書店每月$50的IndieLite與$175的IndieCommerce兩種方案。\n\n有從2019年的3萬美金、成長到30萬的經營範例；1/3的員工在閉店時間處理線上訂單，讓獨立書店存… https://t.co/x2JNcG0DfJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/x2JNcG0DfJ",
+          "expanded_url": "https://twitter.com/i/web/status/1357874283993833475",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1327072358000066560,
+    "in_reply_to_status_id_str": "1327072358000066560",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 05 03:06:29 +0000 2021",
+    "id": 1357525979325861888,
+    "id_str": "1357525979325861888",
+    "text": "居然是使用Kindle回收的 #Eink 9.7” 電子紙螢幕。\n\nInkplate 10電子紙模組，還支援Wi-Fi無線傳輸功能 https://t.co/mEax9xLPbl https://t.co/Q056FYBBVP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Eink",
+          "indices": [
+            15,
+            20
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mEax9xLPbl",
+          "expanded_url": "https://bit.ly/2YJziQT",
+          "display_url": "bit.ly/2YJziQT",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1357525971952308226,
+          "id_str": "1357525971952308226",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/EtbmrdOVkAIApdS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EtbmrdOVkAIApdS.jpg",
+          "url": "https://t.co/Q056FYBBVP",
+          "display_url": "pic.twitter.com/Q056FYBBVP",
+          "expanded_url": "https://twitter.com/wastemobile/status/1357525979325861888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 720,
+              "h": 480,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1357525971952308226,
+          "id_str": "1357525971952308226",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/EtbmrdOVkAIApdS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EtbmrdOVkAIApdS.jpg",
+          "url": "https://t.co/Q056FYBBVP",
+          "display_url": "pic.twitter.com/Q056FYBBVP",
+          "expanded_url": "https://twitter.com/wastemobile/status/1357525979325861888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 720,
+              "h": 480,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Feb 05 01:37:08 +0000 2021",
     "id": 1357503491191672834,
     "id_str": "1357503491191672834",
