@@ -1,5 +1,193 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Sun Feb 07 02:34:22 +0000 2021",
+    "id": 1358242670506745856,
+    "id_str": "1358242670506745856",
+    "text": "喔喔，Twitter + Revue，這次整合速度很快。\n\nhttps://t.co/9AFaA0abhk https://t.co/95Mn7r9vva",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9AFaA0abhk",
+          "expanded_url": "https://twitter.com/i/newsletters",
+          "display_url": "twitter.com/i/newsletters",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1358242663082827783,
+          "id_str": "1358242663082827783",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/EtlygXvVIAcJfwW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EtlygXvVIAcJfwW.jpg",
+          "url": "https://t.co/95Mn7r9vva",
+          "display_url": "pic.twitter.com/95Mn7r9vva",
+          "expanded_url": "https://twitter.com/wastemobile/status/1358242670506745856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1354,
+              "h": 1872,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 492,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 868,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1358242663082827783,
+          "id_str": "1358242663082827783",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/EtlygXvVIAcJfwW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EtlygXvVIAcJfwW.jpg",
+          "url": "https://t.co/95Mn7r9vva",
+          "display_url": "pic.twitter.com/95Mn7r9vva",
+          "expanded_url": "https://twitter.com/wastemobile/status/1358242670506745856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1354,
+              "h": 1872,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 492,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 868,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Feb 07 01:28:39 +0000 2021",
+    "id": 1358226135209791492,
+    "id_str": "1358226135209791492",
+    "text": "不讀報紙不意外，社群或影音網站佔比高也頗正常，但52.7%的17-19歲年輕人以「電視」為主要資訊來源，非常怪異。\n\n《18歲意識調查》：七成人不讀報，通過電視和Twitter獲取資訊… https://t.co/gQnKQ1VFlV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gQnKQ1VFlV",
+          "expanded_url": "https://twitter.com/i/web/status/1358226135209791492",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 06 02:10:32 +0000 2021",
     "id": 1357874283993833475,
     "id_str": "1357874283993833475",
