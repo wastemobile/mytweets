@@ -1,5 +1,340 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Wed Feb 10 01:53:44 +0000 2021",
+    "id": 1359319609669603328,
+    "id_str": "1359319609669603328",
+    "text": "所以臉書也在開發新的電子報工具。 #note\n\nFacebook reportedly plans newsletter tools after explosion in popularity… https://t.co/6pza60robD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            17,
+            22
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6pza60robD",
+          "expanded_url": "https://twitter.com/i/web/status/1359319609669603328",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1358242670506745856,
+    "in_reply_to_status_id_str": "1358242670506745856",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 10 01:19:56 +0000 2021",
+    "id": 1359311102023110656,
+    "id_str": "1359311102023110656",
+    "text": "社會上隨處可見這種無視規則、鑽漏洞、對自己有利時就便宜行事的人，但當他們的工作就是制定法令、監督政府時，毫無疑問就是真正的亂源無誤。 https://t.co/eorRukdkW5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eorRukdkW5",
+          "expanded_url": "https://twitter.com/koyehol567/status/1359297135053664256",
+          "display_url": "twitter.com/koyehol567/sta…",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1359297135053664256,
+    "quoted_status_id_str": "1359297135053664256",
+    "quoted_status": {
+      "created_at": "Wed Feb 10 00:24:26 +0000 2021",
+      "id": 1359297135053664256,
+      "id_str": "1359297135053664256",
+      "text": "對不起！這個真的很難忍，太好笑了.....\n故事大概是這樣：\n\n記者：你們怎麼會兩格停四車？還擋到去路？\n答曰：那是半年前的事了、政敵攻擊！\n記者：可是你們今天兩格停三車耶？\n答曰：不是我、我沒上班、是我同事。\n\nhttps://t.co/utNEL1NCZY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/utNEL1NCZY",
+            "expanded_url": "https://www.storm.mg/article/3465989",
+            "display_url": "storm.mg/article/3465989",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1213036683714654208,
+        "id_str": "1213036683714654208",
+        "name": "Herenow（2020-666）",
+        "screen_name": "koyehol567",
+        "location": "",
+        "description": "666罷！",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 696,
+        "friends_count": 714,
+        "listed_count": 3,
+        "created_at": "Fri Jan 03 09:57:58 +0000 2020",
+        "favourites_count": 51180,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 30267,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1213109324379086850/8qgGwb9Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213109324379086850/8qgGwb9Q_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 7,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 10 00:58:54 +0000 2021",
+    "id": 1359305808169738242,
+    "id_str": "1359305808169738242",
+    "text": "覺得旅人筆記本（Traveler’s #notebook）是最棒的隨身筆記。\n\n能用很久很久的皮革外衣（愈舊愈好看），替換的內頁是日本生產MD Paper，各種收納內頁或塞進去用橡皮圈綁著就好。\n\nHow I Time-Block… https://t.co/pXRw1R8B9Q",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "notebook",
+          "indices": [
+            19,
+            28
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pXRw1R8B9Q",
+          "expanded_url": "https://twitter.com/i/web/status/1359305808169738242",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 10 00:46:52 +0000 2021",
+    "id": 1359302780771471361,
+    "id_str": "1359302780771471361",
+    "text": "數位廣告一直都有「關鍵詞過濾」的機制，原意是不要讓企業品牌在不適當或有爭議的網站上投放，但隨著封鎖清單的擴張、不理解文章語境的篩選機制，確實影響著仰賴廣告的媒體網站，也就是自我過濾。 #web\n\n廣告如何打擊人道危機新聞？… https://t.co/JZpNIkYKtU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "web",
+          "indices": [
+            92,
+            96
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JZpNIkYKtU",
+          "expanded_url": "https://twitter.com/i/web/status/1359302780771471361",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Feb 09 02:12:15 +0000 2021",
     "id": 1358961879704510465,
     "id_str": "1358961879704510465",
