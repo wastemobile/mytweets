@@ -1,5 +1,224 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Thu Feb 11 06:11:24 +0000 2021",
+    "id": 1359746840745242625,
+    "id_str": "1359746840745242625",
+    "text": "@Gorgeoche 對呀，但最後17億美金大概返還投資人70%金額的樣子，還繳給SEC 1,850萬美金罰款。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Gorgeoche",
+          "name": "Gorgeoche",
+          "id": 535527399,
+          "id_str": "535527399",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1359731025488748544,
+    "in_reply_to_status_id_str": "1359731025488748544",
+    "in_reply_to_user_id": 535527399,
+    "in_reply_to_user_id_str": "535527399",
+    "in_reply_to_screen_name": "Gorgeoche",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 11 05:56:20 +0000 2021",
+    "id": 1359743050323353603,
+    "id_str": "1359743050323353603",
+    "text": "現在好像所有摘讀應用都開始有語音內容了。\n\n有聲書太長、需要專注力，稍一分神漏掉就很難搜尋與回聽段落；podcast、聊天室太吵且含金量太低；但若12-15分鐘就能獲得精選摘要，因為短也很容易回聽，想想確實不錯。\n\nWhy are… https://t.co/JnaOWokV35",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JnaOWokV35",
+          "expanded_url": "https://twitter.com/i/web/status/1359743050323353603",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1328888285888872449,
+    "in_reply_to_status_id_str": "1328888285888872449",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 11 04:36:08 +0000 2021",
+    "id": 1359722867072532480,
+    "id_str": "1359722867072532480",
+    "text": "根據Telegram計劃發行加密貨幣TON coin時的資料，使用人數與成本，4.5億用戶時約為1.7億美金。\n\n話說全世界現在有超過4,000種加密貨幣，絕大多數沒有經過 SEC 的准許，當初就應該只退回美國資金、照常發幣，反正… https://t.co/m3M7SYGNp6",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/m3M7SYGNp6",
+          "expanded_url": "https://twitter.com/i/web/status/1359722867072532480",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1359697673121460227,
+    "in_reply_to_status_id_str": "1359697673121460227",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 11 02:56:01 +0000 2021",
+    "id": 1359697673121460227,
+    "id_str": "1359697673121460227",
+    "text": "使用Telegram的人剛剛突破了5億，2021年1月就增加了1億新用戶。7年來持續發展各種新功能與服務，能免費儲存2GB的檔案與影片，還能撥打端到端加密的視訊電話。\n\n對比一下，大約有28億人在用Facebook，20億人使用Y… https://t.co/ao5vZ7GYzw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ao5vZ7GYzw",
+          "expanded_url": "https://twitter.com/i/web/status/1359697673121460227",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 34,
+    "favorite_count": 102,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Feb 11 01:30:23 +0000 2021",
     "id": 1359676122833670148,
     "id_str": "1359676122833670148",
