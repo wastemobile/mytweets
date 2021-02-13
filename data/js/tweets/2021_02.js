@@ -1,5 +1,260 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Sat Feb 13 01:57:00 +0000 2021",
+    "id": 1360407595333292033,
+    "id_str": "1360407595333292033",
+    "text": "據說這期《Wired》用了大部分篇幅印出了一部科幻小說的節選，《2034：A HISTORY OF THE NEXT WORLD WAR》，講的是美中未來一場高科技戰爭。\n\n如此切合時事、吻合雜誌核心觀點、炒起話題，還能休息一整期… https://t.co/wjbhv3dqEc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wjbhv3dqEc",
+          "expanded_url": "https://twitter.com/i/web/status/1360407595333292033",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 13 01:40:26 +0000 2021",
+    "id": 1360403426174111748,
+    "id_str": "1360403426174111748",
+    "text": "CD Projekt Red真是流年不利啊⋯⋯\n\n乾脆就直接開源，讓有能力的玩家協助開發，衍生版直接叫《Cyberpunk 2078》就行了，這關鍵轉折感覺非常吻合遊戲世界觀，蠻酷。 #game\n\n《電馭叛客2077》、《巫師3》… https://t.co/zEgyRJZ6EC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "game",
+          "indices": [
+            92,
+            97
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zEgyRJZ6EC",
+          "expanded_url": "https://twitter.com/i/web/status/1360403426174111748",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1354619828615581696,
+    "in_reply_to_status_id_str": "1354619828615581696",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 13 01:22:10 +0000 2021",
+    "id": 1360398829409890304,
+    "id_str": "1360398829409890304",
+    "text": "看了 #Netflix 《古寶》（The DIG），平實卻深掘人心。\n\n小說改編，彰揚自學出身、被社會階級與學術圈傲慢掩埋的考古挖掘者，若有似無的感情描述也很動人。\n\nhttps://t.co/zkGSDn7btO https://t.co/DusgcstA0N",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zkGSDn7btO",
+          "expanded_url": "https://bbc.in/3jRUSwA",
+          "display_url": "bbc.in/3jRUSwA",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1360398823151947780,
+          "id_str": "1360398823151947780",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuEbhZ7U0AQTYz_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuEbhZ7U0AQTYz_.jpg",
+          "url": "https://t.co/DusgcstA0N",
+          "display_url": "pic.twitter.com/DusgcstA0N",
+          "expanded_url": "https://twitter.com/wastemobile/status/1360398829409890304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1360398823151947780,
+          "id_str": "1360398823151947780",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuEbhZ7U0AQTYz_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuEbhZ7U0AQTYz_.jpg",
+          "url": "https://t.co/DusgcstA0N",
+          "display_url": "pic.twitter.com/DusgcstA0N",
+          "expanded_url": "https://twitter.com/wastemobile/status/1360398829409890304/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Feb 11 06:11:24 +0000 2021",
     "id": 1359746840745242625,
     "id_str": "1359746840745242625",
