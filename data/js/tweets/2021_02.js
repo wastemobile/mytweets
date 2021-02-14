@@ -1,5 +1,121 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Sun Feb 14 02:06:37 +0000 2021",
+    "id": 1360772401697411072,
+    "id_str": "1360772401697411072",
+    "text": "原來日本二手書商Value Books也有提供「本棚スキャン」（書架掃描）功能。上一次看到這功能是加拿大BitLit、後改名Shelfie、2017年初結束，用於比對電子書。 #book\n\n但現在VB建立的是「分散式虛擬二手書店」… https://t.co/awOKkV4VRo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "book",
+          "indices": [
+            88,
+            93
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/awOKkV4VRo",
+          "expanded_url": "https://twitter.com/i/web/status/1360772401697411072",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 651632104430698497,
+    "in_reply_to_status_id_str": "651632104430698497",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Feb 13 08:25:40 +0000 2021",
+    "id": 1360505404380180480,
+    "id_str": "1360505404380180480",
+    "text": "@appleseedTW 查了一下真的有，還是盧卡斯根據史蒂芬·史匹柏的構想開發的，但沒玩過就是了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "appleseedTW",
+          "name": "appleseed",
+          "id": 6102712,
+          "id_str": "6102712",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1360500940307009536,
+    "in_reply_to_status_id_str": "1360500940307009536",
+    "in_reply_to_user_id": 6102712,
+    "in_reply_to_user_id_str": "6102712",
+    "in_reply_to_screen_name": "appleseedTW",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 13 01:57:00 +0000 2021",
     "id": 1360407595333292033,
     "id_str": "1360407595333292033",
