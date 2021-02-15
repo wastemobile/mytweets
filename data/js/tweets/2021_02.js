@@ -1,5 +1,373 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Mon Feb 15 03:33:33 +0000 2021",
+    "id": 1361156667879030784,
+    "id_str": "1361156667879030784",
+    "text": "最值得關注的大概是英國Bloomsbury出版公司，目前數位內容營收已占整體30%、並貢獻60%的利潤，即使在一半實體書店未營業的狀況下，至去年8月的區間數據，紙本書營收還逆勢成長了2%。\n\n他們的財務年結束於每年二月，下一份（年… https://t.co/hyhFJjMPbq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hyhFJjMPbq",
+          "expanded_url": "https://twitter.com/i/web/status/1361156667879030784",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1361120869506904071,
+    "in_reply_to_status_id_str": "1361120869506904071",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 15 02:48:16 +0000 2021",
+    "id": 1361145273293049858,
+    "id_str": "1361145273293049858",
+    "text": "Good Reports的科技替代清單就屬於極簡派，分類不多、每一類幾乎都有（主觀上的）最佳選擇，我喜歡這種武斷。 https://t.co/fhtZqj4LNh\n\n後來才發現站長是幾年前讀過《Bit literacy》的作者。… https://t.co/YC1EaekhZL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fhtZqj4LNh",
+          "expanded_url": "https://bit.ly/2N5wcoh",
+          "display_url": "bit.ly/2N5wcoh",
+          "indices": [
+            58,
+            81
+          ]
+        },
+        {
+          "url": "https://t.co/YC1EaekhZL",
+          "expanded_url": "https://twitter.com/i/web/status/1361145273293049858",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1361143175679668231,
+    "in_reply_to_status_id_str": "1361143175679668231",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 15 02:39:56 +0000 2021",
+    "id": 1361143175679668231,
+    "id_str": "1361143175679668231",
+    "text": "「更合乎道德的替代方案與資源」。\n\n這份數量龐大的分類清單，裡面有好多沒看過的東西，蠻多都是開源與自架的，沒什麼說明與解釋，只能自己去逛逛。\n\nhttps://t.co/Hera5Eu6RW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Hera5Eu6RW",
+          "expanded_url": "https://bit.ly/3ba90Ns",
+          "display_url": "bit.ly/3ba90Ns",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1361141265790689282,
+    "in_reply_to_status_id_str": "1361141265790689282",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 15 02:32:21 +0000 2021",
+    "id": 1361141265790689282,
+    "id_str": "1361141265790689282",
+    "text": "相較switching software來說，No More Google是讓群眾以谷歌每一個服務為標的來投票，列出替代方案。\n\nhttps://t.co/S3iJ5SNO7J https://t.co/d6VkMhozpT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/S3iJ5SNO7J",
+          "expanded_url": "https://bit.ly/3jQcf0B",
+          "display_url": "bit.ly/3jQcf0B",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1361141258928877570,
+          "id_str": "1361141258928877570",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuO-w2uVcAImKF6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuO-w2uVcAImKF6.jpg",
+          "url": "https://t.co/d6VkMhozpT",
+          "display_url": "pic.twitter.com/d6VkMhozpT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1361141265790689282/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 589,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1040,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1686,
+              "h": 1946,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1361141258928877570,
+          "id_str": "1361141258928877570",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuO-w2uVcAImKF6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuO-w2uVcAImKF6.jpg",
+          "url": "https://t.co/d6VkMhozpT",
+          "display_url": "pic.twitter.com/d6VkMhozpT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1361141265790689282/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 589,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1040,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1686,
+              "h": 1946,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1353155132494495744,
+    "in_reply_to_status_id_str": "1353155132494495744",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 15 01:11:18 +0000 2021",
+    "id": 1361120869506904071,
+    "id_str": "1361120869506904071",
+    "text": "「2010年代是電子書與社群網路服務的年代，現在出版業正向著新的數位現實轉型。」美國兒童出版商如是說。 #publishing\n\n當大部分書店都無法營業、活動無法舉辦，出版商被迫尋找並建立新的傳播與販售管道（大多為數位的），這是最… https://t.co/SyeX5epLgh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "publishing",
+          "indices": [
+            52,
+            63
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SyeX5epLgh",
+          "expanded_url": "https://twitter.com/i/web/status/1361120869506904071",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Feb 14 02:06:37 +0000 2021",
     "id": 1360772401697411072,
     "id_str": "1360772401697411072",
