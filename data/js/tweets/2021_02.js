@@ -1,5 +1,121 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Mon Feb 15 11:01:48 +0000 2021",
+    "id": 1361269475924791301,
+    "id_str": "1361269475924791301",
+    "text": "看了紐約時報製作的《Framing Britney Spears》紀錄片。\n\n其共同監管律師向法院申請加薪時居然說「⋯⋯被監管人健康日益良好，參與商業活動能力顯著增強⋯⋯未來幾年將會帶來更多利潤⋯⋯此監管計畫應被視為一種『混合商業… https://t.co/9dcO95GZeU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9dcO95GZeU",
+          "expanded_url": "https://twitter.com/i/web/status/1361269475924791301",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 15 08:59:09 +0000 2021",
+    "id": 1361238608129179653,
+    "id_str": "1361238608129179653",
+    "text": "經過多年的調整，現在從世界最大壓鑄機Giga Press起頭的 #Tesla 超級工廠生產線成熟穩定多了，而且已經複製到很多地方。\n\n造車如搭樂高？特斯拉生產線探秘！特斯拉的造車方式超越你的想象！ https://t.co/vzcALKrak7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Tesla",
+          "indices": [
+            32,
+            38
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vzcALKrak7",
+          "expanded_url": "https://youtu.be/fY2mG9UsDxc",
+          "display_url": "youtu.be/fY2mG9UsDxc",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 575634161714642944,
+    "in_reply_to_status_id_str": "575634161714642944",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Feb 15 03:33:33 +0000 2021",
     "id": 1361156667879030784,
     "id_str": "1361156667879030784",
