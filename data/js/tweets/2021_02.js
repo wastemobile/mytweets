@@ -1,5 +1,627 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Wed Feb 17 13:58:54 +0000 2021",
+    "id": 1362038820523241477,
+    "id_str": "1362038820523241477",
+    "text": "【是誰把特斯拉的生產基地趕出台灣？】 https://t.co/IRFtIYCWbn 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            46,
+            54
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IRFtIYCWbn",
+          "expanded_url": "https://youtu.be/lHAflGh2jRU",
+          "display_url": "youtu.be/lHAflGh2jRU",
+          "indices": [
+            19,
+            42
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 17 00:57:15 +0000 2021",
+    "id": 1361842110857580545,
+    "id_str": "1361842110857580545",
+    "text": "用手機拍書架還能成為「虛擬逛書店」的噱頭呢。\n\n日本奈良無人書店「風船葛」！集結選書、24小時放送、餐飲的新型態獨立書店 https://t.co/PhZaFWp8rk https://t.co/DF3BfjCEC5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PhZaFWp8rk",
+          "expanded_url": "https://bit.ly/3prrjmw",
+          "display_url": "bit.ly/3prrjmw",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1361842103689515012,
+          "id_str": "1361842103689515012",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuY8LY6VkAQWzPF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuY8LY6VkAQWzPF.jpg",
+          "url": "https://t.co/DF3BfjCEC5",
+          "display_url": "pic.twitter.com/DF3BfjCEC5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1361842110857580545/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1361842103689515012,
+          "id_str": "1361842103689515012",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuY8LY6VkAQWzPF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuY8LY6VkAQWzPF.jpg",
+          "url": "https://t.co/DF3BfjCEC5",
+          "display_url": "pic.twitter.com/DF3BfjCEC5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1361842110857580545/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1360772401697411072,
+    "in_reply_to_status_id_str": "1360772401697411072",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 16 15:27:12 +0000 2021",
+    "id": 1361698650854887425,
+    "id_str": "1361698650854887425",
+    "text": "@ringshen3_0 這個爭議，來自圖書經銷長年來仍存在的稅項計算不統一。\n\n經銷商想把7折調成735折，是因為原來交易條件是「7折、稅外加」，約莫等於「735折、税內含」。\n\n搶先下這個手，是想讓所有目前已含稅的折扣維持不動… https://t.co/qDbWxgfZLZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ringshen3_0",
+          "name": "Ring💰要當有錢人",
+          "id": 1267430610584268800,
+          "id_str": "1267430610584268800",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qDbWxgfZLZ",
+          "expanded_url": "https://twitter.com/i/web/status/1361698650854887425",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1361688189342158851,
+    "in_reply_to_status_id_str": "1361688189342158851",
+    "in_reply_to_user_id": 1267430610584268800,
+    "in_reply_to_user_id_str": "1267430610584268800",
+    "in_reply_to_screen_name": "ringshen3_0",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 16 03:53:31 +0000 2021",
+    "id": 1361524083079278592,
+    "id_str": "1361524083079278592",
+    "text": "住實際30坪空間的房子，但管理費是每坪120乘50坪計算，還不含每兩個月攤算外加的公共電費，實際居住成本都不低。 https://t.co/fwplWySBD4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fwplWySBD4",
+          "expanded_url": "https://twitter.com/eternoveritas/status/1360921189057630218",
+          "display_url": "twitter.com/eternoveritas/…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1360921189057630218,
+    "quoted_status_id_str": "1360921189057630218",
+    "quoted_status": {
+      "created_at": "Sun Feb 14 11:57:50 +0000 2021",
+      "id": 1360921189057630218,
+      "id_str": "1360921189057630218",
+      "text": "現在淡水的新建案豪宅質感都很好，裡面有會所可以請客，有游泳池健身房甚至還有溫泉，但是缺點是交通不方便，台北市區往來淡水太麻煩了，而且公共設施太高，大多數都在40%以上。 https://t.co/HWMYdD9z24",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1360921139137024000,
+            "id_str": "1360921139137024000",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/EuL2kMmVEAARPxA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EuL2kMmVEAARPxA.jpg",
+            "url": "https://t.co/HWMYdD9z24",
+            "display_url": "pic.twitter.com/HWMYdD9z24",
+            "expanded_url": "https://twitter.com/eternoveritas/status/1360921189057630218/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1360921139137024000,
+            "id_str": "1360921139137024000",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/EuL2kMmVEAARPxA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EuL2kMmVEAARPxA.jpg",
+            "url": "https://t.co/HWMYdD9z24",
+            "display_url": "pic.twitter.com/HWMYdD9z24",
+            "expanded_url": "https://twitter.com/eternoveritas/status/1360921189057630218/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 573757199,
+        "id_str": "573757199",
+        "name": "Vintage",
+        "screen_name": "eternoveritas",
+        "location": "Formosa",
+        "description": "澳門人在台北，賣鐵的，大齡單身。極愛繁華，好精舍，好美男，好鮮衣，好美食，好佳釀，好駿犬，好華燈，好煙火，好梨園，好鼓吹，好古董，好花鳥，健身，live life to the fullest 🍷     「所有推文請勿轉載置任何社交媒體平台」",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 34982,
+        "friends_count": 762,
+        "listed_count": 207,
+        "created_at": "Mon May 07 16:04:38 +0000 2012",
+        "favourites_count": 912,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 147627,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1232204778010075138/r89UkB6L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232204778010075138/r89UkB6L_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/573757199/1582615561",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 40,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 16 02:39:08 +0000 2021",
+    "id": 1361505361413349381,
+    "id_str": "1361505361413349381",
+    "text": "「我對電影的整體評價跟中國的《流浪地球》差不多。」\n\n秒懂。\n\n《勝利號》— #Netflix 用 2.2 億元購入爛片？ https://t.co/KjgPlfo5El https://t.co/e1KCa4zRtW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            39,
+            47
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KjgPlfo5El",
+          "expanded_url": "https://bit.ly/3jUbu6Y",
+          "display_url": "bit.ly/3jUbu6Y",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1361505354480115720,
+          "id_str": "1361505354480115720",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuUJ6AWUYAgssaV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuUJ6AWUYAgssaV.jpg",
+          "url": "https://t.co/e1KCa4zRtW",
+          "display_url": "pic.twitter.com/e1KCa4zRtW",
+          "expanded_url": "https://twitter.com/wastemobile/status/1361505361413349381/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1361505354480115720,
+          "id_str": "1361505354480115720",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuUJ6AWUYAgssaV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuUJ6AWUYAgssaV.jpg",
+          "url": "https://t.co/e1KCa4zRtW",
+          "display_url": "pic.twitter.com/e1KCa4zRtW",
+          "expanded_url": "https://twitter.com/wastemobile/status/1361505361413349381/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Feb 15 11:01:48 +0000 2021",
     "id": 1361269475924791301,
     "id_str": "1361269475924791301",
