@@ -1,5 +1,290 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Fri Feb 19 02:24:35 +0000 2021",
+    "id": 1362588864599134213,
+    "id_str": "1362588864599134213",
+    "text": "2020年數碼新聞報告指出，37%澳洲受訪者透過社交媒體獲取新聞資訊，直接使用傳媒網站或應用程式只有31%。同時每100澳元（約600港元）數碼廣告開支，平均有81澳元（約490港元）落入Google和Facebook手中。\n\nF… https://t.co/q2VIOTJYnf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q2VIOTJYnf",
+          "expanded_url": "https://twitter.com/i/web/status/1362588864599134213",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1362587492835233793,
+    "in_reply_to_status_id_str": "1362587492835233793",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 19 02:19:08 +0000 2021",
+    "id": 1362587492835233793,
+    "id_str": "1362587492835233793",
+    "text": "這篇應該是說真話。\n\n商業新聞媒體的主要業務是「用內容吸引可賣給廣告商的受眾」，在2000年以前，澳洲平面媒體吸引了將近60％廣告商；但到了2017年，這個比例大幅降為12％。\n\n就算叫Google跟臉書付錢也救不了新聞產業… https://t.co/lYo3KWXnNm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lYo3KWXnNm",
+          "expanded_url": "https://twitter.com/i/web/status/1362587492835233793",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 19 01:30:54 +0000 2021",
+    "id": 1362575353030397955,
+    "id_str": "1362575353030397955",
+    "text": "在網站上用Apple Pay付款，真是最順暢的結帳流程，沒有之一。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 18 12:29:50 +0000 2021",
+    "id": 1362378792564482052,
+    "id_str": "1362378792564482052",
+    "text": "@ringshen3_0 對，5分鐘隨手畫的，請自由取用。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ringshen3_0",
+          "name": "Ring💍電子報創刊預備備",
+          "id": 1267430610584268800,
+          "id_str": "1267430610584268800",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1362378484970967043,
+    "in_reply_to_status_id_str": "1362378484970967043",
+    "in_reply_to_user_id": 1267430610584268800,
+    "in_reply_to_user_id_str": "1267430610584268800",
+    "in_reply_to_screen_name": "ringshen3_0",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 18 12:13:07 +0000 2021",
+    "id": 1362374583525908485,
+    "id_str": "1362374583525908485",
+    "text": "@cd81 @ringshen3_0 我覺得應該沒有。\n\n進銷扣抵狀況很複雜，以100元原價銷售為基礎模型如附圖。經銷商想將7折税外進貨的書店，從A調整到B；書店則說是C。經銷商覺得只拿回0.5的稅，沒漲價。\n\n圖書免稅無法解決「… https://t.co/moSicPEZ6n",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cd81",
+          "name": "cd81",
+          "id": 15610006,
+          "id_str": "15610006",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "screen_name": "ringshen3_0",
+          "name": "Ring💍電子報創刊預備備",
+          "id": 1267430610584268800,
+          "id_str": "1267430610584268800",
+          "indices": [
+            6,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/moSicPEZ6n",
+          "expanded_url": "https://twitter.com/i/web/status/1362374583525908485",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1362234436784250885,
+    "in_reply_to_status_id_str": "1362234436784250885",
+    "in_reply_to_user_id": 15610006,
+    "in_reply_to_user_id_str": "15610006",
+    "in_reply_to_screen_name": "cd81",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Feb 17 13:58:54 +0000 2021",
     "id": 1362038820523241477,
     "id_str": "1362038820523241477",
