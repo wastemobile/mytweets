@@ -1,5 +1,917 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Sat Feb 20 14:51:40 +0000 2021",
+    "id": 1363139262141456388,
+    "id_str": "1363139262141456388",
+    "text": "@youhaveagift 不是，就洗牙，發現有些牙根壞掉、鬆動之類的，就拔掉、縫合牙床之類的小手術。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "youhaveagift",
+          "name": "🌈蛋破崙🌈",
+          "id": 2382210504,
+          "id_str": "2382210504",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1363135164117753860,
+    "in_reply_to_status_id_str": "1363135164117753860",
+    "in_reply_to_user_id": 2382210504,
+    "in_reply_to_user_id_str": "2382210504",
+    "in_reply_to_screen_name": "youhaveagift",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 20 11:07:43 +0000 2021",
+    "id": 1363082904063021058,
+    "id_str": "1363082904063021058",
+    "text": "@arguskao 只跑linux server版本，連螢幕鍵盤都不接的，真不知怎麼跟一般電腦比",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "arguskao",
+          "name": "高藥師",
+          "id": 5522882,
+          "id_str": "5522882",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1363077879194525703,
+    "in_reply_to_status_id_str": "1363077879194525703",
+    "in_reply_to_user_id": 5522882,
+    "in_reply_to_user_id_str": "5522882",
+    "in_reply_to_screen_name": "arguskao",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 20 10:33:03 +0000 2021",
+    "id": 1363074179566739458,
+    "id_str": "1363074179566739458",
+    "text": "@angiesaid 為了長久的健康，得忍一時之痛。\n\n沒問題啦，生龍活虎中～～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "angiesaid",
+          "name": "清流吉",
+          "id": 242133,
+          "id_str": "242133",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1363073703475511297,
+    "in_reply_to_status_id_str": "1363073703475511297",
+    "in_reply_to_user_id": 242133,
+    "in_reply_to_user_id_str": "242133",
+    "in_reply_to_screen_name": "angiesaid",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 20 10:26:45 +0000 2021",
+    "id": 1363072593260138498,
+    "id_str": "1363072593260138498",
+    "text": "@arguskao 雖還沒裝什麼東西，但一般操作，相較SD啟動，確實是有感的快了不少。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "arguskao",
+          "name": "高藥師",
+          "id": 5522882,
+          "id_str": "5522882",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1363069138646822916,
+    "in_reply_to_status_id_str": "1363069138646822916",
+    "in_reply_to_user_id": 5522882,
+    "in_reply_to_user_id_str": "5522882",
+    "in_reply_to_screen_name": "arguskao",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 20 10:18:20 +0000 2021",
+    "id": 1363070474121588738,
+    "id_str": "1363070474121588738",
+    "text": "接下來都是跟著這篇在Mac上處理USB Disk，燒進Ubuntu 20.04 LTS Server映像檔、覆蓋新的硬體驅動、解壓核心檔案，改寫一些意義不明的指令檔⋯⋯XD\n\n終於，拔除SD、插上USB隨身碟，樣子看起來有點怪，但… https://t.co/vhbeDnrufC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vhbeDnrufC",
+          "expanded_url": "https://twitter.com/i/web/status/1363070474121588738",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1363068745699229696,
+    "in_reply_to_status_id_str": "1363068745699229696",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 20 10:11:28 +0000 2021",
+    "id": 1363068745699229696,
+    "id_str": "1363068745699229696",
+    "text": "果然⋯⋯得先用Raspbian SD升級一下韌體。 https://t.co/ocKeVYRHMy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1363068738799505417,
+          "id_str": "1363068738799505417",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuqXy8yVkAk7OJp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuqXy8yVkAk7OJp.jpg",
+          "url": "https://t.co/ocKeVYRHMy",
+          "display_url": "pic.twitter.com/ocKeVYRHMy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1363068745699229696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 222,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 391,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1822,
+              "h": 594,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1363068738799505417,
+          "id_str": "1363068738799505417",
+          "indices": [
+            26,
+            49
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuqXy8yVkAk7OJp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuqXy8yVkAk7OJp.jpg",
+          "url": "https://t.co/ocKeVYRHMy",
+          "display_url": "pic.twitter.com/ocKeVYRHMy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1363068745699229696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 222,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 391,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1822,
+              "h": 594,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1362970655767949316,
+    "in_reply_to_status_id_str": "1362970655767949316",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Feb 20 09:23:45 +0000 2021",
+    "id": 1363056738472103940,
+    "id_str": "1363056738472103940",
+    "text": "拔了3顆牙的小可憐🥺 https://t.co/QpUvJx0zss",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1363056730897190913,
+          "id_str": "1363056730897190913",
+          "indices": [
+            11,
+            34
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuqM3_3VEAE7ztE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuqM3_3VEAE7ztE.jpg",
+          "url": "https://t.co/QpUvJx0zss",
+          "display_url": "pic.twitter.com/QpUvJx0zss",
+          "expanded_url": "https://twitter.com/wastemobile/status/1363056738472103940/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1363056730897190913,
+          "id_str": "1363056730897190913",
+          "indices": [
+            11,
+            34
+          ],
+          "media_url": "http://pbs.twimg.com/media/EuqM3_3VEAE7ztE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EuqM3_3VEAE7ztE.jpg",
+          "url": "https://t.co/QpUvJx0zss",
+          "display_url": "pic.twitter.com/QpUvJx0zss",
+          "expanded_url": "https://twitter.com/wastemobile/status/1363056738472103940/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 20 03:41:41 +0000 2021",
+    "id": 1362970655767949316,
+    "id_str": "1362970655767949316",
+    "text": "案情並不單純⋯⋯\n\n原來2020/09樹莓派才正式釋出Pi 4更新韌體與 bootloader，得先裝Raspbian、完整升級後才能順利安裝，但未來應該是不用同時插著SD卡。\n\nRaspberry Pi 4 Ubuntu 20.… https://t.co/iK4uwVYPa5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iK4uwVYPa5",
+          "expanded_url": "https://twitter.com/i/web/status/1362970655767949316",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1362675507481825282,
+    "in_reply_to_status_id_str": "1362675507481825282",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 19 15:08:52 +0000 2021",
+    "id": 1362781203586162692,
+    "id_str": "1362781203586162692",
+    "text": "烏克蘭一處用蘇聯時期廢鐵建造的戶外健身區域，實在是非常硬核、非常戰鬥民族啊！ https://t.co/lKqyE2s6fM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lKqyE2s6fM",
+          "expanded_url": "https://twitter.com/aeonmag/status/1362779242203926529",
+          "display_url": "twitter.com/aeonmag/status…",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1362779242203926529,
+    "quoted_status_id_str": "1362779242203926529",
+    "quoted_status": {
+      "created_at": "Fri Feb 19 15:01:05 +0000 2021",
+      "id": 1362779242203926529,
+      "id_str": "1362779242203926529",
+      "text": "An open-air gym in Kiev, Ukraine built from Soviet-era scraps is a surprising community hub and creative space. On… https://t.co/wnmMd1BMNu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wnmMd1BMNu",
+            "expanded_url": "https://twitter.com/i/web/status/1362779242203926529",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 481943972,
+        "id_str": "481943972",
+        "name": "Aeon+Psyche",
+        "screen_name": "aeonmag",
+        "location": "",
+        "description": "Aeon is a magazine of ideas and culture. Psyche is our new sister magazine focused on the human condition. Visit https://t.co/dKH9SdpOWn and https://t.co/bZBO9exqKa for more.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/dKH9SdpOWn",
+                "expanded_url": "http://aeon.co",
+                "display_url": "aeon.co",
+                "indices": [
+                  113,
+                  136
+                ]
+              },
+              {
+                "url": "https://t.co/bZBO9exqKa",
+                "expanded_url": "http://psyche.co",
+                "display_url": "psyche.co",
+                "indices": [
+                  141,
+                  164
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 158988,
+        "friends_count": 2597,
+        "listed_count": 4260,
+        "created_at": "Fri Feb 03 10:43:27 +0000 2012",
+        "favourites_count": 18274,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 47126,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1262278554672230401/wuvpECl5_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262278554672230401/wuvpECl5_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/481943972/1601011216",
+        "profile_link_color": "0A4171",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 19 08:21:49 +0000 2021",
+    "id": 1362678765692678144,
+    "id_str": "1362678765692678144",
+    "text": "@penk 感謝🙏，有空來研究一下",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "penk",
+          "name": "Penk Chen",
+          "id": 10148252,
+          "id_str": "10148252",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1362677194112180231,
+    "in_reply_to_status_id_str": "1362677194112180231",
+    "in_reply_to_user_id": 10148252,
+    "in_reply_to_user_id_str": "10148252",
+    "in_reply_to_screen_name": "penk",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 19 08:08:52 +0000 2021",
+    "id": 1362675507481825282,
+    "id_str": "1362675507481825282",
+    "text": "手邊沒有外接SSD，打算拿閒置的三星64GB USB Disk來測試，一堆隨身碟沒在用，速度一定遠超micro SD，就不知道能否撐住長時運行。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1362671331767029767,
+    "in_reply_to_status_id_str": "1362671331767029767",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 19 07:52:17 +0000 2021",
+    "id": 1362671331767029767,
+    "id_str": "1362671331767029767",
+    "text": "今天來替Pi 4 (4GB)安裝64位元Ubuntu 20.04 LTS，還要改用USB Disk當啟動系統碟。 #pi\n\nRaspberry Pi 4 運行 64bit OS+ 外置硬碟… https://t.co/oMQnGADMjK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "pi",
+          "indices": [
+            57,
+            60
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oMQnGADMjK",
+          "expanded_url": "https://twitter.com/i/web/status/1362671331767029767",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Fri Feb 19 02:24:35 +0000 2021",
     "id": 1362588864599134213,
     "id_str": "1362588864599134213",
