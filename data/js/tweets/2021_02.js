@@ -1,5 +1,225 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Tue Feb 23 01:59:27 +0000 2021",
+    "id": 1364032090145050630,
+    "id_str": "1364032090145050630",
+    "text": "1993年成立的法國電子傳奇樂團Daft Punk在發布近8分鐘的全新短片〈Epilogue〉後，宣布解散。\n\n然後，琳賽·蘿涵用$15K的價格出售Daft Punk的NFT，意義不明⋯⋯… https://t.co/ToInSc5Ts7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ToInSc5Ts7",
+          "expanded_url": "https://twitter.com/i/web/status/1364032090145050630",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1358587194143772676,
+    "in_reply_to_status_id_str": "1358587194143772676",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 22 16:13:54 +0000 2021",
+    "id": 1363884733080293383,
+    "id_str": "1363884733080293383",
+    "text": "讓Calibre 5.x能正常安裝使用的DeDRM與Obok外掛終於正式釋出，版號v7.1.0。\n\nhttps://t.co/BWHw3guRUN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BWHw3guRUN",
+          "expanded_url": "https://bit.ly/2NlYFXf",
+          "display_url": "bit.ly/2NlYFXf",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1027917969492307974,
+    "in_reply_to_status_id_str": "1027917969492307974",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 22 15:36:27 +0000 2021",
+    "id": 1363875306998702081,
+    "id_str": "1363875306998702081",
+    "text": "這個DevTerm Kit A06 - 4GB只要$339好像不錯。\n\nClockworkPi v3.14主板、插樹莓派運算模組三代（CM3），6.8” IPS寬螢幕，65%鍵盤，可裝18650充電電池。\n\n這應該就有中文相容保證… https://t.co/Fyrp7gdyyb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Fyrp7gdyyb",
+          "expanded_url": "https://twitter.com/i/web/status/1363875306998702081",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1326737982125035523,
+    "in_reply_to_status_id_str": "1326737982125035523",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 22 08:49:52 +0000 2021",
+    "id": 1363772988949032960,
+    "id_str": "1363772988949032960",
+    "text": "講談社2015-2020，紙本雜誌書籍逐年下滑、總營收持續成長，算轉型成功嗎？\n\n- 2015：854 / 1168（73%）\n- 2016：801 / 1173（68%）\n- 2017：736 / 1180（62%）\n- 201… https://t.co/9XDMOPVo3G",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9XDMOPVo3G",
+          "expanded_url": "https://twitter.com/i/web/status/1363772988949032960",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1363753663907340294,
+    "in_reply_to_status_id_str": "1363753663907340294",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Feb 22 07:33:05 +0000 2021",
     "id": 1363753663907340294,
     "id_str": "1363753663907340294",
