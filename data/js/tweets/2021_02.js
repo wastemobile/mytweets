@@ -1,5 +1,291 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Fri Feb 26 13:23:45 +0000 2021",
+    "id": 1365291463291015177,
+    "id_str": "1365291463291015177",
+    "text": "對 #Netflix 《勝利號》評價實在兩極，決定自己看看。\n\n非常好萊塢的科幻爽片，特效佳、節奏也不錯，從硬科幻角度看當然漏洞擺出、劇情也有不合理之處，但沒到看不下去的程度。\n\n也可說有些人性濫情，但絕對沒有《流浪地球》那種讓人… https://t.co/EHBjDHC87Y",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            2,
+            10
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EHBjDHC87Y",
+          "expanded_url": "https://twitter.com/i/web/status/1365291463291015177",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1361505361413349381,
+    "in_reply_to_status_id_str": "1361505361413349381",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 26 13:09:47 +0000 2021",
+    "id": 1365287950913740801,
+    "id_str": "1365287950913740801",
+    "text": "這影片整理回溯了馬雲當初如何欺瞞日本軟體銀行、雅虎兩大股東，將支付寶拆分成為自己的公司，以及趁著雅虎衰敗之際拿回大部分股權的這段歷史。\n\n支付宝争夺战：手撕协议、贱卖股份，看马云如何一手遮天，偷走支付宝 https://t.co/DcPHcsNWd3 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            129,
+            137
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DcPHcsNWd3",
+          "expanded_url": "https://youtu.be/tk7r7G6k5CM",
+          "display_url": "youtu.be/tk7r7G6k5CM",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Feb 26 04:28:03 +0000 2021",
+    "id": 1365156650051506183,
+    "id_str": "1365156650051506183",
+    "text": "應該是因為在Adguard Home過濾器裡胡亂勾選了一些新的DNS封鎖清單，YouTube的「嚴格篩選模式」會被啟用，就連下方留言也都看不到了。\n\n我的意思是很棒。 https://t.co/MslI3ludeS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1365156642279460867,
+          "id_str": "1365156642279460867",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/EvICu7XVEAMKKCK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EvICu7XVEAMKKCK.jpg",
+          "url": "https://t.co/MslI3ludeS",
+          "display_url": "pic.twitter.com/MslI3ludeS",
+          "expanded_url": "https://twitter.com/wastemobile/status/1365156650051506183/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2024,
+              "h": 838,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 282,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 497,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1365156642279460867,
+          "id_str": "1365156642279460867",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/EvICu7XVEAMKKCK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EvICu7XVEAMKKCK.jpg",
+          "url": "https://t.co/MslI3ludeS",
+          "display_url": "pic.twitter.com/MslI3ludeS",
+          "expanded_url": "https://twitter.com/wastemobile/status/1365156650051506183/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2024,
+              "h": 838,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 282,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 497,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1365156642531106817,
+          "id_str": "1365156642531106817",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/EvICu8TU4AEfJH4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EvICu8TU4AEfJH4.jpg",
+          "url": "https://t.co/MslI3ludeS",
+          "display_url": "pic.twitter.com/MslI3ludeS",
+          "expanded_url": "https://twitter.com/wastemobile/status/1365156650051506183/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 934,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 529,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1644,
+              "h": 1280,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1364916882046771206,
+    "in_reply_to_status_id_str": "1364916882046771206",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Feb 25 12:50:16 +0000 2021",
     "id": 1364920648665944065,
     "id_str": "1364920648665944065",
