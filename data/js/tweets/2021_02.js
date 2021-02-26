@@ -1,5 +1,309 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Thu Feb 25 12:50:16 +0000 2021",
+    "id": 1364920648665944065,
+    "id_str": "1364920648665944065",
+    "text": "這部 #Netflix 紀錄片比電影還精彩，一名西班牙罪犯找一名中國失意畫家繪製一堆仿美國抽象表現主義的作品，簽上羅思科、波洛克、馬瑟韋爾⋯⋯的名字，騙過紐約藝術圈，甚至被列入畫家官方目錄作品，詐騙超過美金八千萬。\n\n《瞞天過海：… https://t.co/HTzbXKmntE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HTzbXKmntE",
+          "expanded_url": "https://twitter.com/i/web/status/1364920648665944065",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 25 12:35:18 +0000 2021",
+    "id": 1364916882046771206,
+    "id_str": "1364916882046771206",
+    "text": "整理舊的Raspberry Pi 2B重新使用Docker安裝Adguard Home，真的是一行指令就搞定。\n\n只在區網內運作，就沒設置 over-HTTPS, over-TLS &amp; over-QUIC等進階功能。… https://t.co/nC8AdsmgzV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nC8AdsmgzV",
+          "expanded_url": "https://twitter.com/i/web/status/1364916882046771206",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1363702395029520386,
+    "in_reply_to_status_id_str": "1363702395029520386",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Feb 25 01:55:03 +0000 2021",
+    "id": 1364755759423053826,
+    "id_str": "1364755759423053826",
+    "text": "雖覺得問卷樣本數有點少，但這份報告還是值得看看。\n\n年輕閱讀者同時也玩遊戲看影視；線上尋找去實體買、或逛實體但在線上買的比例差不多；盜版讀者同時也是消費者。\n\nPanorama Project Releases Immersive… https://t.co/tAyOZeYmin",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tAyOZeYmin",
+          "expanded_url": "https://twitter.com/i/web/status/1364755759423053826",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 24 23:59:14 +0000 2021",
+    "id": 1364726611384229889,
+    "id_str": "1364726611384229889",
+    "text": "刪除帳號的程序終於變簡單了，很棒。\n\nWhatsApp新隱私政策強制於5月上路！不同意的用戶將被「刪除帳號」 https://t.co/fUIgEaNDDf https://t.co/UaYVm16X8o",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fUIgEaNDDf",
+          "expanded_url": "https://bit.ly/3usdPdX",
+          "display_url": "bit.ly/3usdPdX",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1364726605575114752,
+          "id_str": "1364726605575114752",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/EvB7nfzUUAAlj0r.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EvB7nfzUUAAlj0r.jpg",
+          "url": "https://t.co/UaYVm16X8o",
+          "display_url": "pic.twitter.com/UaYVm16X8o",
+          "expanded_url": "https://twitter.com/wastemobile/status/1364726611384229889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 463,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 613,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 613,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1364726605575114752,
+          "id_str": "1364726605575114752",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/EvB7nfzUUAAlj0r.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EvB7nfzUUAAlj0r.jpg",
+          "url": "https://t.co/UaYVm16X8o",
+          "display_url": "pic.twitter.com/UaYVm16X8o",
+          "expanded_url": "https://twitter.com/wastemobile/status/1364726611384229889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 463,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 613,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 613,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Feb 23 01:59:27 +0000 2021",
     "id": 1364032090145050630,
     "id_str": "1364032090145050630",
