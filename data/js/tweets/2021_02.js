@@ -1,5 +1,112 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Sun Feb 28 02:11:11 +0000 2021",
+    "id": 1365846982539943936,
+    "id_str": "1365846982539943936",
+    "text": "「閱讀，就像身體接觸的親密感，是一種完全的沈浸，必須在全面投降與完全主導之間尋找微妙的滲透與平衡。」\n\n卡爾維諾論閱讀就像做愛，文內還提到好多作家如何用激情或戀愛去類比閱讀，真的很棒，閱讀和做愛都是。\n\nItalo Calvino… https://t.co/ZSUtezLBQp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZSUtezLBQp",
+          "expanded_url": "https://twitter.com/i/web/status/1365846982539943936",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 27 09:45:07 +0000 2021",
+    "id": 1365598829085556738,
+    "id_str": "1365598829085556738",
+    "text": "岩井俊二的電影幾乎都看過，小說就只看過一本，這兩天讀了《燕尾蝶》與《情書》。 #book\n\n都是電影比較好看，《燕尾蝶》電影版故事改了不少地方。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "book",
+          "indices": [
+            39,
+            44
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 710869913414422529,
+    "in_reply_to_status_id_str": "710869913414422529",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 27 01:41:15 +0000 2021",
     "id": 1365477061544927235,
     "id_str": "1365477061544927235",
