@@ -1,5 +1,450 @@
 Grailbird.data.tweets_2021_02 = [
   {
+    "created_at": "Sun Feb 28 13:05:07 +0000 2021",
+    "id": 1366011550650167302,
+    "id_str": "1366011550650167302",
+    "text": "沒錯，剛買iPhone時都玩過，很可愛呀⋯⋯ https://t.co/Q2uPjJsRYn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Q2uPjJsRYn",
+          "expanded_url": "https://twitter.com/jeeveswilliams/status/1365727727647674372",
+          "display_url": "twitter.com/jeeveswilliams…",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1365727727647674372,
+    "quoted_status_id_str": "1365727727647674372",
+    "quoted_status": {
+      "created_at": "Sat Feb 27 18:17:18 +0000 2021",
+      "id": 1365727727647674372,
+      "id_str": "1365727727647674372",
+      "text": "you just had to be there https://t.co/42c9HxTu7i",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1365727633233883138,
+            "id_str": "1365727633233883138",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/EvQKC-bXMAIyp-v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EvQKC-bXMAIyp-v.jpg",
+            "url": "https://t.co/42c9HxTu7i",
+            "display_url": "pic.twitter.com/42c9HxTu7i",
+            "expanded_url": "https://twitter.com/jeeveswilliams/status/1365727727647674372/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 480,
+                "h": 320,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 320,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 480,
+                "h": 320,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1365727633233883138,
+            "id_str": "1365727633233883138",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/EvQKC-bXMAIyp-v.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EvQKC-bXMAIyp-v.jpg",
+            "url": "https://t.co/42c9HxTu7i",
+            "display_url": "pic.twitter.com/42c9HxTu7i",
+            "expanded_url": "https://twitter.com/jeeveswilliams/status/1365727727647674372/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 480,
+                "h": 320,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 480,
+                "h": 320,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 480,
+                "h": 320,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1365727633309319168,
+            "id_str": "1365727633309319168",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/EvQKC-tWQAAes2A.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EvQKC-tWQAAes2A.jpg",
+            "url": "https://t.co/42c9HxTu7i",
+            "display_url": "pic.twitter.com/42c9HxTu7i",
+            "expanded_url": "https://twitter.com/jeeveswilliams/status/1365727727647674372/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 390,
+                "h": 218,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 390,
+                "h": 218,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 390,
+                "h": 218,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1365727633435201540,
+            "id_str": "1365727633435201540",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/EvQKC_LXEAQrBQ0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EvQKC_LXEAQrBQ0.jpg",
+            "url": "https://t.co/42c9HxTu7i",
+            "display_url": "pic.twitter.com/42c9HxTu7i",
+            "expanded_url": "https://twitter.com/jeeveswilliams/status/1365727727647674372/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 357,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 764,
+                "h": 401,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 764,
+                "h": 401,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1365727633883996163,
+            "id_str": "1365727633883996163",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/media/EvQKDA2XIAMeSo_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EvQKDA2XIAMeSo_.jpg",
+            "url": "https://t.co/42c9HxTu7i",
+            "display_url": "pic.twitter.com/42c9HxTu7i",
+            "expanded_url": "https://twitter.com/jeeveswilliams/status/1365727727647674372/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 479,
+                "h": 269,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 479,
+                "h": 269,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 479,
+                "h": 269,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1375650072,
+        "id_str": "1375650072",
+        "name": "Jeeves 🇪🇺🇲🇽🏳️‍🌈",
+        "screen_name": "jeeveswilliams",
+        "location": "MTY 🇲🇽 LDN 🇬🇧 TX 🇺🇸",
+        "description": "freelance design, copy, marketing. shorts. web/food culture. meme dealer. twitter og. descriptivist. hydrohomie. human golden retriever/squid. brit in méxico",
+        "url": "https://t.co/4r1qFHbv2T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/4r1qFHbv2T",
+                "expanded_url": "https://www.getrevue.co/profile/jeeveswilliams",
+                "display_url": "getrevue.co/profile/jeeves…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7369,
+        "friends_count": 5666,
+        "listed_count": 155,
+        "created_at": "Tue Apr 23 23:03:28 +0000 2013",
+        "favourites_count": 40655,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 95033,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1363408649549459457/BWUXlVDN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1363408649549459457/BWUXlVDN_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1375650072/1577488806",
+        "profile_link_color": "FDCA01",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 427,
+      "favorite_count": 3310,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Feb 28 06:22:57 +0000 2021",
+    "id": 1365910342526668801,
+    "id_str": "1365910342526668801",
+    "text": "常常在網站註冊時胡亂輸入出生年月日，於是常常收到生日快樂的祝福，覺得蠻好。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Feb 28 04:47:27 +0000 2021",
+    "id": 1365886306958548993,
+    "id_str": "1365886306958548993",
+    "text": "卡爾維諾1981年這篇〈為什麼讀經典〉短文，依舊是此類論述中覺得最好的。\n\n「經典作品是這樣一些書，我們越是道聽途說，以為我們懂了，當我們實際讀它們，我們就越是覺得它們獨特、意想不到和新穎。」… https://t.co/8sPg74ibpf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8sPg74ibpf",
+          "expanded_url": "https://twitter.com/i/web/status/1365886306958548993",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1365846982539943936,
+    "in_reply_to_status_id_str": "1365846982539943936",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Feb 28 02:11:11 +0000 2021",
     "id": 1365846982539943936,
     "id_str": "1365846982539943936",
