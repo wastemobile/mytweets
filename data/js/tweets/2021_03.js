@@ -1,5 +1,442 @@
 Grailbird.data.tweets_2021_03 = [
   {
+    "created_at": "Sat Mar 06 02:28:00 +0000 2021",
+    "id": 1368025540788060160,
+    "id_str": "1368025540788060160",
+    "text": "「⋯⋯Readmoo營收為2.5億，樂天Kobo超過2億（官方更新最新數字為約2.5億）⋯⋯」\n\n非常有趣，前推引用來源（數位時代）做了增補，應該是Kobo來函更正。\n\n由於不知營收比例是否相同，形成一種「誰家閱讀器賣得愈好、佔比… https://t.co/xMoTxwAxU3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xMoTxwAxU3",
+          "expanded_url": "https://twitter.com/i/web/status/1368025540788060160",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1367653732544966657,
+    "in_reply_to_status_id_str": "1367653732544966657",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 06 02:13:11 +0000 2021",
+    "id": 1368021811435171841,
+    "id_str": "1368021811435171841",
+    "text": "大致理解這幾個寫部落格、冷門的軟體或工具，除了寫作之外，還有規劃進度、蒐整點子或靈感等輔助。\n\n例如20年老牌免費的MacJournal，整合月曆、時間軸檢視、編輯詮釋資料都很棒。但是啊，主體編輯界面實在老派。\n\nThe 5 Be… https://t.co/Dkw5BtzrTf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Dkw5BtzrTf",
+          "expanded_url": "https://twitter.com/i/web/status/1368021811435171841",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 05 15:17:14 +0000 2021",
+    "id": 1367856736736931842,
+    "id_str": "1367856736736931842",
+    "text": "所以《尼爾：自動人形》還沒打完的，是應該從升級的威力加強版《尼爾：人工生命 ver.1.22474487139...》重新開始玩才對嗎⋯⋯\n\n覺得等龍背都重製了也看不到盡頭。\n\nPS4『NieR Replicant ver.1.2… https://t.co/ZSVTh1RnJY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZSVTh1RnJY",
+          "expanded_url": "https://twitter.com/i/web/status/1367856736736931842",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 05 09:43:22 +0000 2021",
+    "id": 1367772717701689346,
+    "id_str": "1367772717701689346",
+    "text": "哈哈哈，#Netflix 居然把《瞞天過海》1、2、3（Ocean’s 11, 12 &amp; 13）一次補齊了。\n\n喔我沒看過女生版的Ocean’s 8。\n\nhttps://t.co/BENB34mOWD https://t.co/kyWyazOdkL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            4,
+            12
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BENB34mOWD",
+          "expanded_url": "https://bit.ly/3kNzpVN",
+          "display_url": "bit.ly/3kNzpVN",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1367772711649308675,
+          "id_str": "1367772711649308675",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/EvtOCNNUcAM_3EV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EvtOCNNUcAM_3EV.jpg",
+          "url": "https://t.co/kyWyazOdkL",
+          "display_url": "pic.twitter.com/kyWyazOdkL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1367772717701689346/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1367772711649308675,
+          "id_str": "1367772711649308675",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/EvtOCNNUcAM_3EV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EvtOCNNUcAM_3EV.jpg",
+          "url": "https://t.co/kyWyazOdkL",
+          "display_url": "pic.twitter.com/kyWyazOdkL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1367772717701689346/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1367772711670280195,
+          "id_str": "1367772711670280195",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/EvtOCNSUcAMMgOt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EvtOCNSUcAMMgOt.jpg",
+          "url": "https://t.co/kyWyazOdkL",
+          "display_url": "pic.twitter.com/kyWyazOdkL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1367772717701689346/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1367772711653568513,
+          "id_str": "1367772711653568513",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/EvtOCNOVcAExWZb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EvtOCNOVcAExWZb.jpg",
+          "url": "https://t.co/kyWyazOdkL",
+          "display_url": "pic.twitter.com/kyWyazOdkL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1367772717701689346/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 341,
+              "h": 192,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 05 03:23:23 +0000 2021",
+    "id": 1367677092612083723,
+    "id_str": "1367677092612083723",
+    "text": "「東京都市吞噬、消化了幾千萬人，有個女人卻像是排泄物般被排出了，她的名字是芭波拉。」\n\n已經可以租來看啦，很期待的漫改電影，還是杜可風攝影，不知會不會很像王家衛。 #movie\n\n手塚治虫迷幻少女（Apple TV）… https://t.co/x6b32TSy6g",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "movie",
+          "indices": [
+            82,
+            88
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/x6b32TSy6g",
+          "expanded_url": "https://twitter.com/i/web/status/1367677092612083723",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Mar 05 01:50:34 +0000 2021",
     "id": 1367653732544966657,
     "id_str": "1367653732544966657",
