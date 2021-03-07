@@ -1,5 +1,866 @@
 Grailbird.data.tweets_2021_03 = [
   {
+    "created_at": "Sun Mar 07 04:39:07 +0000 2021",
+    "id": 1368420925729689602,
+    "id_str": "1368420925729689602",
+    "text": "測試重裝時本想跟著之前用的教程再來一次，後來發現根本就有已經做好的 USB Boot Ubuntu 20.04映像檔可用，在Mac下載、燒錄，再修改設置一下網路配置（WI-FI與固定ip），插到Pi 4開機，就可以headless… https://t.co/piGefUneVz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/piGefUneVz",
+          "expanded_url": "https://twitter.com/i/web/status/1368420925729689602",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1368117248028594176,
+    "in_reply_to_status_id_str": "1368117248028594176",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 07 04:12:21 +0000 2021",
+    "id": 1368414189732040705,
+    "id_str": "1368414189732040705",
+    "text": "為了打破2018年巴西創下的「最大的出版漫畫刊物」金氏世界紀錄，《進擊的巨人》以六到七倍的倍率放大單行本第一集，96頁、售價16萬5000日圓，限量100本。 #book\n\n這個操作完全符合情境。… https://t.co/iK4KFMsbJn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "book",
+          "indices": [
+            80,
+            85
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iK4KFMsbJn",
+          "expanded_url": "https://twitter.com/i/web/status/1368414189732040705",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 06 13:10:16 +0000 2021",
+    "id": 1368187172520607745,
+    "id_str": "1368187172520607745",
+    "text": "賽斯‧高汀：「#NFT 是一個危險的陷阱。」\n\n扯到建立數位代幣需要消耗過多電力這點其實有些牽強。\n\nNFTs are a dangerous trap https://t.co/XIylbZVQ40",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NFT",
+          "indices": [
+            7,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XIylbZVQ40",
+          "expanded_url": "https://bit.ly/3uZNVP7",
+          "display_url": "bit.ly/3uZNVP7",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1368186544964595712,
+    "in_reply_to_status_id_str": "1368186544964595712",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 06 13:07:46 +0000 2021",
+    "id": 1368186544964595712,
+    "id_str": "1368186544964595712",
+    "text": "NBA已經賣出超過2億3000萬美金的 #NFT，例如LeBron James的一個「灌籃瞬間」（的數位短視頻），像是源源不絕可轉賣可升值（或貶值）的數位球員卡。\n\n我的想法請見上面Bansky的推。… https://t.co/hP7Wk0Bcm1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NFT",
+          "indices": [
+            20,
+            24
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hP7Wk0Bcm1",
+          "expanded_url": "https://twitter.com/i/web/status/1368186544964595712",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1368086342807085069,
+    "in_reply_to_status_id_str": "1368086342807085069",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 06 08:32:24 +0000 2021",
+    "id": 1368117248028594176,
+    "id_str": "1368117248028594176",
+    "text": "樹莓派3開始是64位元處理器，但4之後才多了兩埠USB 3，所以要當4C4G/8G迷你主機用的話，就別買Pi 4之前的了，用USB Disk/SSD 開機的64-bit系統實在又快又穩。\n\n有看到一個雙網路孔的NanoPi R4S… https://t.co/96DXmZ11YI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/96DXmZ11YI",
+          "expanded_url": "https://twitter.com/i/web/status/1368117248028594176",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1368090332479385600,
+    "in_reply_to_status_id_str": "1368090332479385600",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 06 08:13:08 +0000 2021",
+    "id": 1368112398335315968,
+    "id_str": "1368112398335315968",
+    "text": "RT @jkgtw: @wastemobile 他有個英文版的可以參考下\nhttps://t.co/wWLp10GqzI\n\n另外還有不同作者做的擋廣告測試\nhttps://t.co/GkR5fKUAj1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jkgtw",
+          "name": "Stephen ",
+          "id": 792526,
+          "id_str": "792526",
+          "indices": [
+            3,
+            9
+          ]
+        },
+        {
+          "screen_name": "wastemobile",
+          "name": "wastemobile",
+          "id": 20709129,
+          "id_str": "20709129",
+          "indices": [
+            11,
+            23
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wWLp10GqzI",
+          "expanded_url": "https://adblock-tester.com",
+          "display_url": "adblock-tester.com",
+          "indices": [
+            37,
+            60
+          ]
+        },
+        {
+          "url": "https://t.co/GkR5fKUAj1",
+          "expanded_url": "https://d3ward.github.io/toolz/src/adblock",
+          "display_url": "d3ward.github.io/toolz/src/adbl…",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Mar 06 08:12:12 +0000 2021",
+      "id": 1368112160954482694,
+      "id_str": "1368112160954482694",
+      "text": "@wastemobile 他有個英文版的可以參考下\nhttps://t.co/wWLp10GqzI\n\n另外還有不同作者做的擋廣告測試\nhttps://t.co/GkR5fKUAj1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wWLp10GqzI",
+            "expanded_url": "https://adblock-tester.com",
+            "display_url": "adblock-tester.com",
+            "indices": [
+              26,
+              49
+            ]
+          },
+          {
+            "url": "https://t.co/GkR5fKUAj1",
+            "expanded_url": "https://d3ward.github.io/toolz/src/adblock",
+            "display_url": "d3ward.github.io/toolz/src/adbl…",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1368110823864897537,
+      "in_reply_to_status_id_str": "1368110823864897537",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 792526,
+        "id_str": "792526",
+        "name": "Stephen ",
+        "screen_name": "jkgtw",
+        "location": "Taipei, Taiwan",
+        "description": "台灣阿宅、職業奶爸、榮譽果粉、日旅中毒、歐美戲劇、遊戲苦手、自由工作、樂活生活、常駐台北。\n\n歡迎搜尋加入「台灣蘋果同好交流群」😘",
+        "url": "https://t.co/ZewaBiqaXi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZewaBiqaXi",
+                "expanded_url": "https://www.jkg.tw/",
+                "display_url": "jkg.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4445,
+        "friends_count": 548,
+        "listed_count": 107,
+        "created_at": "Sat Feb 24 16:20:12 +0000 2007",
+        "favourites_count": 310,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 34052,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1265114810317848578/S1I_MXsE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265114810317848578/S1I_MXsE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/792526/1355194040",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00180402799fed03",
+        "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+        "place_type": "city",
+        "name": "台北市",
+        "full_name": "台北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.457132,
+                24.960508
+              ],
+              [
+                121.66582,
+                24.960508
+              ],
+              [
+                121.66582,
+                25.211004
+              ],
+              [
+                121.457132,
+                25.211004
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 06 08:06:53 +0000 2021",
+    "id": 1368110823864897537,
+    "id_str": "1368110823864897537",
+    "text": "連上Check Ad Block 可以檢查目前網路阻擋攔截廣告的能力評等，都是俄文沒錯，快轉到頁尾看分數就好；大致上與篩選規則、DNS優化等有關。\n\nhttps://t.co/aYW3CB7ZZ9\n\n現在瀏覽器多半也有阻擋廣告，因… https://t.co/ImpDo2XC2x",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aYW3CB7ZZ9",
+          "expanded_url": "https://checkadblock.ru",
+          "display_url": "checkadblock.ru",
+          "indices": [
+            75,
+            98
+          ]
+        },
+        {
+          "url": "https://t.co/ImpDo2XC2x",
+          "expanded_url": "https://twitter.com/i/web/status/1368110823864897537",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1365156650051506183,
+    "in_reply_to_status_id_str": "1365156650051506183",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 06 07:09:12 +0000 2021",
+    "id": 1368096307542302721,
+    "id_str": "1368096307542302721",
+    "text": "@Santou_Hong 4種顏色、還有雙風扇款～\n\nNT$390 https://t.co/JZin8YV2zs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Santou_Hong",
+          "name": "三頭才沒有",
+          "id": 581656866,
+          "id_str": "581656866",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JZin8YV2zs",
+          "expanded_url": "https://bit.ly/3rt29WI",
+          "display_url": "bit.ly/3rt29WI",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1368092354654052352,
+    "in_reply_to_status_id_str": "1368092354654052352",
+    "in_reply_to_user_id": 581656866,
+    "in_reply_to_user_id_str": "581656866",
+    "in_reply_to_screen_name": "Santou_Hong",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 06 06:45:27 +0000 2021",
+    "id": 1368090332479385600,
+    "id_str": "1368090332479385600",
+    "text": "真的沒必要這樣玩啦⋯⋯\n\nBuild a Raspberry Pi RAID NAS Server – [UPDATED 2020] https://t.co/QuK0aJEYo9 https://t.co/jbt0zoe5vA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QuK0aJEYo9",
+          "expanded_url": "https://bit.ly/3c5DSiS",
+          "display_url": "bit.ly/3c5DSiS",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1368090325634326530,
+          "id_str": "1368090325634326530",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/Evxu5xgVIAIn22f.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Evxu5xgVIAIn22f.jpg",
+          "url": "https://t.co/jbt0zoe5vA",
+          "display_url": "pic.twitter.com/jbt0zoe5vA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1368090332479385600/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1140,
+              "h": 1140,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1140,
+              "h": 1140,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1368090325634326530,
+          "id_str": "1368090325634326530",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/Evxu5xgVIAIn22f.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Evxu5xgVIAIn22f.jpg",
+          "url": "https://t.co/jbt0zoe5vA",
+          "display_url": "pic.twitter.com/jbt0zoe5vA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1368090332479385600/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1140,
+              "h": 1140,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1140,
+              "h": 1140,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1363335851556564994,
+    "in_reply_to_status_id_str": "1363335851556564994",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 06 06:29:36 +0000 2021",
+    "id": 1368086342807085069,
+    "id_str": "1368086342807085069",
+    "text": "Jack Dorsey於2006/3/21發出的第一則推，被打包成 #NFT 競標販售，目前價格來到 $88,888.88 ETH。但與Bansky焚畫不同，該則推依舊留在時間軸上，買到的只是經原創者簽署認證的數位證明。\n\n媽的這… https://t.co/KRjj5bjqdd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NFT",
+          "indices": [
+            34,
+            38
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KRjj5bjqdd",
+          "expanded_url": "https://twitter.com/i/web/status/1368086342807085069",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1367294855890702337,
+    "in_reply_to_status_id_str": "1367294855890702337",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Mar 06 02:28:00 +0000 2021",
     "id": 1368025540788060160,
     "id_str": "1368025540788060160",
