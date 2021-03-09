@@ -1,5 +1,66 @@
 Grailbird.data.tweets_2021_03 = [
   {
+    "created_at": "Tue Mar 09 01:35:28 +0000 2021",
+    "id": 1369099482877497344,
+    "id_str": "1369099482877497344",
+    "text": "最早的 #Amazon 單按鈕、到可語音可掃描的進階版Dash，其實都已經消失了，不管是一鍵快速補充日用品、到個人購物清單的替代方案，都需要人來驅動。\n\n現在有了偵測重量的智慧型貨架Dash Smart Shelf，似乎主打辦公室… https://t.co/h35hnGnkc2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Amazon",
+          "indices": [
+            4,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/h35hnGnkc2",
+          "expanded_url": "https://twitter.com/i/web/status/1369099482877497344",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Mar 08 03:01:02 +0000 2021",
     "id": 1368758632020504579,
     "id_str": "1368758632020504579",
