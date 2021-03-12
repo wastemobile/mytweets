@@ -1,5 +1,633 @@
 Grailbird.data.tweets_2021_03 = [
   {
+    "created_at": "Fri Mar 12 02:45:00 +0000 2021",
+    "id": 1370204147312590849,
+    "id_str": "1370204147312590849",
+    "text": "重看完村上春樹《聽風的歌》，就想重看王家衛《重慶森林》，播一整天California girls⋯⋯\n\n推薦香港名導經典之最《墮落天使》，王家衛4K數位修復版電影合輯上架 https://t.co/K8ahYxtLLV https://t.co/UxgzdFKQQ6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/K8ahYxtLLV",
+          "expanded_url": "https://bit.ly/3bGr2J0",
+          "display_url": "bit.ly/3bGr2J0",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1370204139741876224,
+          "id_str": "1370204139741876224",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/EwPxZ8sVkAAs4Cg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EwPxZ8sVkAAs4Cg.jpg",
+          "url": "https://t.co/UxgzdFKQQ6",
+          "display_url": "pic.twitter.com/UxgzdFKQQ6",
+          "expanded_url": "https://twitter.com/wastemobile/status/1370204147312590849/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1370204139741876224,
+          "id_str": "1370204139741876224",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/EwPxZ8sVkAAs4Cg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EwPxZ8sVkAAs4Cg.jpg",
+          "url": "https://t.co/UxgzdFKQQ6",
+          "display_url": "pic.twitter.com/UxgzdFKQQ6",
+          "expanded_url": "https://twitter.com/wastemobile/status/1370204147312590849/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1370204139741835265,
+          "id_str": "1370204139741835265",
+          "indices": [
+            110,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/EwPxZ8sU8AEOEPj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EwPxZ8sU8AEOEPj.jpg",
+          "url": "https://t.co/UxgzdFKQQ6",
+          "display_url": "pic.twitter.com/UxgzdFKQQ6",
+          "expanded_url": "https://twitter.com/wastemobile/status/1370204147312590849/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 12 02:32:14 +0000 2021",
+    "id": 1370200932835762177,
+    "id_str": "1370200932835762177",
+    "text": "數位藝術家大豐收。\n\n點進去一看，價格已經是USD 69,346,250，我僅剩的想像力真的追不上這世界的變化。\n\nNFT大熱｜Beeple佳士得拍賣直飆1,325萬鎂！傳a16z欲注資第二大市場Open Sea… https://t.co/lDy4vyH1U1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lDy4vyH1U1",
+          "expanded_url": "https://twitter.com/i/web/status/1370200932835762177",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1368187172520607745,
+    "in_reply_to_status_id_str": "1368187172520607745",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 12 01:49:16 +0000 2021",
+    "id": 1370190121203462145,
+    "id_str": "1370190121203462145",
+    "text": "ARM架構的雲端（VPS）很少也很貴，不太明白。\n\n技嘉這款1U ARM 64位元伺服器，64核、256執行緒，若配上768GB記憶體、10顆Intel企業級1T SSD，差不多台幣45萬，這與目前AMD64架構接近效能的相比，是… https://t.co/CLuZSqWwtc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CLuZSqWwtc",
+          "expanded_url": "https://twitter.com/i/web/status/1370190121203462145",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1369832710324162562,
+    "in_reply_to_status_id_str": "1369832710324162562",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 11 08:30:41 +0000 2021",
+    "id": 1369928755376840708,
+    "id_str": "1369928755376840708",
+    "text": "@Kirin_Lin 有看過幾個影片介紹，有合適硬體可以來試試，感謝🙏",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Kirin_Lin",
+          "name": "0, 70🤪*",
+          "id": 626593,
+          "id_str": "626593",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1369925004733812743,
+    "in_reply_to_status_id_str": "1369925004733812743",
+    "in_reply_to_user_id": 626593,
+    "in_reply_to_user_id_str": "626593",
+    "in_reply_to_screen_name": "Kirin_Lin",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 11 06:01:08 +0000 2021",
+    "id": 1369891116045135879,
+    "id_str": "1369891116045135879",
+    "text": "@oscargong1995 @songma 啊啊啊，那就先插五顆1T磁碟拼個上限試試⋯⋯（硬要",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "oscargong1995",
+          "name": "Oscar Gong",
+          "id": 2333157259,
+          "id_str": "2333157259",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "songma",
+          "name": "Song Ma",
+          "id": 51772613,
+          "id_str": "51772613",
+          "indices": [
+            15,
+            22
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1369885845822447620,
+    "in_reply_to_status_id_str": "1369885845822447620",
+    "in_reply_to_user_id": 2333157259,
+    "in_reply_to_user_id_str": "2333157259",
+    "in_reply_to_screen_name": "oscargong1995",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 11 04:03:20 +0000 2021",
+    "id": 1369861472671592459,
+    "id_str": "1369861472671592459",
+    "text": "@Kirin_Lin 哈哈哈，您說的太高深了，我單純想做到的是能混用各種不同大小、廠牌的多硬碟組成一個安全儲存空間，不管是擴容或替換，都不用考慮太多，只是看到ZFS好像可以，沒實際碰過。\n\n目前就是無腦買Drobo來用，大概就是希望做到那樣。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Kirin_Lin",
+          "name": "0, 70🤪*",
+          "id": 626593,
+          "id_str": "626593",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1369850369946255362,
+    "in_reply_to_status_id_str": "1369850369946255362",
+    "in_reply_to_user_id": 626593,
+    "in_reply_to_user_id_str": "626593",
+    "in_reply_to_screen_name": "Kirin_Lin",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 11 03:40:52 +0000 2021",
+    "id": 1369855820364607489,
+    "id_str": "1369855820364607489",
+    "text": "@5ewNNnwVw8uFJLR @Moeloop 目前ARM VPS或hosting確實還蠻少、價格也不太合理，但希望不久的將來會有轉變。\n\n想想喔，在Apple Mx上開發（必須）用ARMv64的映像，測試運行用4C8G的樹莓派，只要部署的雲端也支援，一切就通了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "5ewNNnwVw8uFJLR",
+          "name": "東雲名乃",
+          "id": 1338120317596618752,
+          "id_str": "1338120317596618752",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "screen_name": "Moeloop",
+          "name": "+Mœ Lⵙ∞⊙0ᴑ⊙ⵙᵒo⊙p (イノチノカガヤキ)",
+          "id": 361089859,
+          "id_str": "361089859",
+          "indices": [
+            17,
+            25
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1369852625894567937,
+    "in_reply_to_status_id_str": "1369852625894567937",
+    "in_reply_to_user_id": 1338120317596618752,
+    "in_reply_to_user_id_str": "1338120317596618752",
+    "in_reply_to_screen_name": "5ewNNnwVw8uFJLR",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 11 02:53:24 +0000 2021",
+    "id": 1369843873363587072,
+    "id_str": "1369843873363587072",
+    "text": "Adguard Home 升級v0.105.2，由於之前改用了docker-compose、比較能一目瞭然設定，因此：\n\n1. docker pull adguard/adguardhome\n2. docker-compose u… https://t.co/8WtvxWNqez",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8WtvxWNqez",
+          "expanded_url": "https://twitter.com/i/web/status/1369843873363587072",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1368110823864897537,
+    "in_reply_to_status_id_str": "1368110823864897537",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 11 02:46:50 +0000 2021",
+    "id": 1369842221420191747,
+    "id_str": "1369842221420191747",
+    "text": "@tzangms 而且就是Nano-ITX規格的主板，感覺買這殼回來之後可以玩很久。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tzangms",
+          "name": "海總理",
+          "id": 690663,
+          "id_str": "690663",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1369840706513084417,
+    "in_reply_to_status_id_str": "1369840706513084417",
+    "in_reply_to_user_id": 690663,
+    "in_reply_to_user_id_str": "690663",
+    "in_reply_to_screen_name": "tzangms",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Mar 11 02:09:03 +0000 2021",
     "id": 1369832710324162562,
     "id_str": "1369832710324162562",
