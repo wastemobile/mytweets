@@ -1,5 +1,263 @@
 Grailbird.data.tweets_2021_03 = [
   {
+    "created_at": "Wed Mar 24 01:57:54 +0000 2021",
+    "id": 1374540948177186818,
+    "id_str": "1374540948177186818",
+    "text": "《時代雜誌》正在進行三代雜誌封面 #NFT 競標，分別是1966、2017以及即將發行的新刊，主題探討加密貨幣應用是否（即將）摧毀法幣。\n\n覺得這三個人類大哉問蠻有意思。\n\nTIME Releases 3 Special Edit… https://t.co/jh67EjWPLp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NFT",
+          "indices": [
+            17,
+            21
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jh67EjWPLp",
+          "expanded_url": "https://twitter.com/i/web/status/1374540948177186818",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1372357090044383232,
+    "in_reply_to_status_id_str": "1372357090044383232",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Mar 23 14:45:20 +0000 2021",
+    "id": 1374371692194111495,
+    "id_str": "1374371692194111495",
+    "text": "即將面對國會的強硬立場，臉書說在三個月內就關禁了13億帳號，表達已對打擊錯誤與虛假資訊做出努力。搜尋一下，facebook約莫有28億個帳號。\n\n這幾乎解開了John Wanamaker提出的廣告界哥特巴赫猜想：「我在廣告上的投資… https://t.co/kx7T6wOrTT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kx7T6wOrTT",
+          "expanded_url": "https://twitter.com/i/web/status/1374371692194111495",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Mar 23 13:46:06 +0000 2021",
+    "id": 1374356783792222209,
+    "id_str": "1374356783792222209",
+    "text": "Ulysses增加了發布到https://t.co/fxNg2J9LSE的功能，但僅是指這個雲端服務，而非像iA Writer那般全面支援Micropub API開放標準。 https://t.co/hO2RAxUQPl https://t.co/3Ea5QmwIRI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fxNg2J9LSE",
+          "expanded_url": "http://Micro.blog",
+          "display_url": "Micro.blog",
+          "indices": [
+            13,
+            36
+          ]
+        },
+        {
+          "url": "https://t.co/hO2RAxUQPl",
+          "expanded_url": "https://bit.ly/2wloE4N",
+          "display_url": "bit.ly/2wloE4N",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1374356777764974592,
+          "id_str": "1374356777764974592",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/ExKyNS1U8AAEyMn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ExKyNS1U8AAEyMn.jpg",
+          "url": "https://t.co/3Ea5QmwIRI",
+          "display_url": "pic.twitter.com/3Ea5QmwIRI",
+          "expanded_url": "https://twitter.com/wastemobile/status/1374356783792222209/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 380,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1134,
+              "h": 634,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1134,
+              "h": 634,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1374356777764974592,
+          "id_str": "1374356777764974592",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/ExKyNS1U8AAEyMn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ExKyNS1U8AAEyMn.jpg",
+          "url": "https://t.co/3Ea5QmwIRI",
+          "display_url": "pic.twitter.com/3Ea5QmwIRI",
+          "expanded_url": "https://twitter.com/wastemobile/status/1374356783792222209/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 380,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1134,
+              "h": 634,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1134,
+              "h": 634,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1260570844234989568,
+    "in_reply_to_status_id_str": "1260570844234989568",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Mar 23 13:02:36 +0000 2021",
     "id": 1374345836327366659,
     "id_str": "1374345836327366659",
