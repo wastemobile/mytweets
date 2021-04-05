@@ -1,5 +1,368 @@
 Grailbird.data.tweets_2021_04 = [
   {
+    "created_at": "Mon Apr 05 01:09:57 +0000 2021",
+    "id": 1378877535417626624,
+    "id_str": "1378877535417626624",
+    "text": "厚得嚇人，但其實才700頁。 #book\n\n第一次知道1989是昭和64年，宇宙到底在玩什麼梗。\n\n64【全球盛讚推崇，橫山秀夫經典鉅作】 https://t.co/Fsd2hgLaHu https://t.co/TNKgTmRCbC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "book",
+          "indices": [
+            15,
+            20
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Fsd2hgLaHu",
+          "expanded_url": "https://bit.ly/3sQTa26",
+          "display_url": "bit.ly/3sQTa26",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1378877513972129792,
+          "id_str": "1378877513972129792",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/EyLByxkVIAAKGXB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EyLByxkVIAAKGXB.jpg",
+          "url": "https://t.co/TNKgTmRCbC",
+          "display_url": "pic.twitter.com/TNKgTmRCbC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1378877535417626624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1378877513972129792,
+          "id_str": "1378877513972129792",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/EyLByxkVIAAKGXB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EyLByxkVIAAKGXB.jpg",
+          "url": "https://t.co/TNKgTmRCbC",
+          "display_url": "pic.twitter.com/TNKgTmRCbC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1378877535417626624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1378877514156699652,
+          "id_str": "1378877514156699652",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/EyLByyQVcAQtvxy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EyLByyQVcAQtvxy.jpg",
+          "url": "https://t.co/TNKgTmRCbC",
+          "display_url": "pic.twitter.com/TNKgTmRCbC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1378877535417626624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Apr 05 00:51:19 +0000 2021",
+    "id": 1378872847427280897,
+    "id_str": "1378872847427280897",
+    "text": "將用戶運算能力分享至「醫療研究、AI 教育學習、影像辨識機器學習或區塊鏈應用等領域」⋯⋯\n\n這種文法通常就「或⋯⋯」部分是真的，前面不重要。\n\n華碩算力共享QuantumCloud遭PTT質疑「挖礦以太坊」，60%平台抽成估已大賺… https://t.co/UIG7tK6zpg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UIG7tK6zpg",
+          "expanded_url": "https://twitter.com/i/web/status/1378872847427280897",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Apr 05 00:42:19 +0000 2021",
+    "id": 1378870581622231040,
+    "id_str": "1378870581622231040",
+    "text": "認真。\n\n海報裡的這艘航空母艦，真的有辦法承受哥吉拉與金鋼的重量嗎？ https://t.co/NvMu6MFwJa https://t.co/HfhR416mu8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NvMu6MFwJa",
+          "expanded_url": "https://bit.ly/31LrPT1",
+          "display_url": "bit.ly/31LrPT1",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1378870573942538242,
+          "id_str": "1378870573942538242",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/EyK7ez8VgAIXWFe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EyK7ez8VgAIXWFe.jpg",
+          "url": "https://t.co/HfhR416mu8",
+          "display_url": "pic.twitter.com/HfhR416mu8",
+          "expanded_url": "https://twitter.com/wastemobile/status/1378870581622231040/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1378870573942538242,
+          "id_str": "1378870573942538242",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/EyK7ez8VgAIXWFe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EyK7ez8VgAIXWFe.jpg",
+          "url": "https://t.co/HfhR416mu8",
+          "display_url": "pic.twitter.com/HfhR416mu8",
+          "expanded_url": "https://twitter.com/wastemobile/status/1378870581622231040/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1377892499574824960,
+    "in_reply_to_status_id_str": "1377892499574824960",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Apr 03 09:18:09 +0000 2021",
     "id": 1378275619830554629,
     "id_str": "1378275619830554629",
