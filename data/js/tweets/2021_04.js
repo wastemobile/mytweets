@@ -1,5 +1,230 @@
 Grailbird.data.tweets_2021_04 = [
   {
+    "created_at": "Sat Apr 10 09:23:38 +0000 2021",
+    "id": 1380813715042299909,
+    "id_str": "1380813715042299909",
+    "text": "RT @PeterWolfTW: 卓騰十週年冷知識之一：\n\nArticut 的識別色是黃色🟨、Loki 的識別色是藍色🟦，而 KeyMoji 的識別色是紅色🟥，這三種顏色的選擇有什麼特別的意義嗎？\n\n有的。就是 Tachikomo 攻殼車的三種顏色 - 黃🟨、藍🟦、紅🟥！\n\n而…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "PeterWolfTW",
+          "name": "PeterWolf (彼得臥夫)",
+          "id": 1495378111,
+          "id_str": "1495378111",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Apr 07 16:00:15 +0000 2021",
+      "id": 1379826361963978752,
+      "id_str": "1379826361963978752",
+      "text": "卓騰十週年冷知識之一：\n\nArticut 的識別色是黃色🟨、Loki 的識別色是藍色🟦，而 KeyMoji 的識別色是紅色🟥，這三種顏色的選擇有什麼特別的意義嗎？\n\n有的。就是 Tachikomo 攻殼車的三種顏色 - 黃🟨、藍🟦… https://t.co/ULDqQpIgeo",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ULDqQpIgeo",
+            "expanded_url": "https://twitter.com/i/web/status/1379826361963978752",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1495378111,
+        "id_str": "1495378111",
+        "name": "PeterWolf (彼得臥夫)",
+        "screen_name": "PeterWolfTW",
+        "location": "Taiwan",
+        "description": "卓騰語言科技執行長工",
+        "url": "https://t.co/Z2GBx3xuDQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Z2GBx3xuDQ",
+                "expanded_url": "https://api.droidtown.co/",
+                "display_url": "api.droidtown.co",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 442,
+        "friends_count": 245,
+        "listed_count": 8,
+        "created_at": "Sun Jun 09 11:32:34 +0000 2013",
+        "favourites_count": 3324,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3101,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DCF1",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/940135876704608256/YCcuAJwf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/940135876704608256/YCcuAJwf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495378111/1512980942",
+        "profile_link_color": "26389E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "1C1C1C",
+        "profile_text_color": "5C91B9",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 34,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Apr 10 04:09:46 +0000 2021",
+    "id": 1380734728668508162,
+    "id_str": "1380734728668508162",
+    "text": "這樹莓派模組方塊看起來完成度很高。 #pi\n\nA small, plug-and-play Linux computer — with Raspberry Pi (Project POCKIT)… https://t.co/zWuI5vyMwV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "pi",
+          "indices": [
+            18,
+            21
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zWuI5vyMwV",
+          "expanded_url": "https://twitter.com/i/web/status/1380734728668508162",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Fri Apr 09 02:06:07 +0000 2021",
     "id": 1380341220799471616,
     "id_str": "1380341220799471616",
