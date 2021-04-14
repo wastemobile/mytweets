@@ -1,5 +1,66 @@
 Grailbird.data.tweets_2021_04 = [
   {
+    "created_at": "Wed Apr 14 02:11:26 +0000 2021",
+    "id": 1382154500744511498,
+    "id_str": "1382154500744511498",
+    "text": "雖然是問卷調查，但相同標準、看久一點，依舊意義鮮明。\n\n加拿大的讀者購書調查，2019 Q4之前，線上購書與實體購書始終糾纏，算上統計誤差、幾乎就是一半一半；但當疫情升溫，線上購書就衝到了65%左右。 #publishing… https://t.co/IcZrRkG6YK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "publishing",
+          "indices": [
+            101,
+            112
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IcZrRkG6YK",
+          "expanded_url": "https://twitter.com/i/web/status/1382154500744511498",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Apr 13 01:42:40 +0000 2021",
     "id": 1381784871169708033,
     "id_str": "1381784871169708033",
