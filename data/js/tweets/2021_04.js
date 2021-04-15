@@ -1,5 +1,127 @@
 Grailbird.data.tweets_2021_04 = [
   {
+    "created_at": "Thu Apr 15 01:48:37 +0000 2021",
+    "id": 1382511147018977280,
+    "id_str": "1382511147018977280",
+    "text": "日本學習研究社在雜誌營收腰斬、停刊之後，居然已轉型成老年住宅業的先驅，在全日本擁有約130個住宅設施據點。\n\n這個關鍵轉型，來自於挨家挨戶推銷教材的業務發現家裡的老年人變多，因此「老年事業蘊含商機」。 #publishing\n\n兒… https://t.co/iXQyIDp8kT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "publishing",
+          "indices": [
+            101,
+            112
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iXQyIDp8kT",
+          "expanded_url": "https://twitter.com/i/web/status/1382511147018977280",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 14 14:56:00 +0000 2021",
+    "id": 1382346910573350914,
+    "id_str": "1382346910573350914",
+    "text": "亞馬遜推出短篇連載小說的付費閱讀平台 #Kindle Vella，故事的第一回免費，之後以預先購買的「點數（Tokens）」支付，平台與作者對分利益。\n\n根據讀者按下的「喜愛（Fave）」數量多寡，決定推薦至平台首頁的排序。\n\nA… https://t.co/iOz78zrEHR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kindle",
+          "indices": [
+            19,
+            26
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iOz78zrEHR",
+          "expanded_url": "https://twitter.com/i/web/status/1382346910573350914",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 14 02:11:26 +0000 2021",
     "id": 1382154500744511498,
     "id_str": "1382154500744511498",
