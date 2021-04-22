@@ -1,5 +1,420 @@
 Grailbird.data.tweets_2021_04 = [
   {
+    "created_at": "Thu Apr 22 02:49:58 +0000 2021",
+    "id": 1385063300472348673,
+    "id_str": "1385063300472348673",
+    "text": "最近點推特上的 #Facebook 文章連過去，沒登入就什麼文字都看不到，以前好像不是這樣的。\n\n然後我就不看了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Facebook",
+          "indices": [
+            8,
+            17
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 22 01:37:54 +0000 2021",
+    "id": 1385045164465430528,
+    "id_str": "1385045164465430528",
+    "text": "所以 #Podcast 創作者每年付NT$570取得相關工具，第一年蘋果拆30%、第二年之後拆15%。\n\n15%這個比例應該是相當合理了。\n\nApple 推出 Apple Podcasts 訂閱制，開啟 Podcast 新篇章… https://t.co/wh9c6oUfF6",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Podcast",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wh9c6oUfF6",
+          "expanded_url": "https://twitter.com/i/web/status/1385045164465430528",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 22 01:24:50 +0000 2021",
+    "id": 1385041875183104001,
+    "id_str": "1385041875183104001",
+    "text": "紐約時報：「我們正在 #NFT 領域創造收藏品。未來我們將在 NFT 領域推行訂閱制，提供購買者專屬的會員資格和獨特體驗。」\n\n這媒體真是會蹭。\n\n百年雜誌搖身一變成為數位貨幣先行者 https://t.co/PnkyIJsrcB https://t.co/im5s5cwlXV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NFT",
+          "indices": [
+            11,
+            15
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PnkyIJsrcB",
+          "expanded_url": "https://bit.ly/3avdVZW",
+          "display_url": "bit.ly/3avdVZW",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1385041867801174018,
+          "id_str": "1385041867801174018",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/EzioPZFVIAIaMfE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EzioPZFVIAIaMfE.jpg",
+          "url": "https://t.co/im5s5cwlXV",
+          "display_url": "pic.twitter.com/im5s5cwlXV",
+          "expanded_url": "https://twitter.com/wastemobile/status/1385041875183104001/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1385041867801174018,
+          "id_str": "1385041867801174018",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/EzioPZFVIAIaMfE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EzioPZFVIAIaMfE.jpg",
+          "url": "https://t.co/im5s5cwlXV",
+          "display_url": "pic.twitter.com/im5s5cwlXV",
+          "expanded_url": "https://twitter.com/wastemobile/status/1385041875183104001/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1383255186852913155,
+    "in_reply_to_status_id_str": "1383255186852913155",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 21 03:17:05 +0000 2021",
+    "id": 1384707736768704515,
+    "id_str": "1384707736768704515",
+    "text": "RT @Pseric: Adobe Fonts 提供五種「文鼎中文字型」免費雲端下載，可個人和商業用途（方新書、明體、晶熙黑、魏碑、圓體） https://t.co/DoG8Rzcq0e",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Pseric",
+          "name": "Pseric",
+          "id": 10292652,
+          "id_str": "10292652",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DoG8Rzcq0e",
+          "expanded_url": "https://free.com.tw/adobe-fonts-arphic-types/",
+          "display_url": "free.com.tw/adobe-fonts-ar…",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Apr 21 02:00:57 +0000 2021",
+      "id": 1384688574151364609,
+      "id_str": "1384688574151364609",
+      "text": "Adobe Fonts 提供五種「文鼎中文字型」免費雲端下載，可個人和商業用途（方新書、明體、晶熙黑、魏碑、圓體） https://t.co/DoG8Rzcq0e",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DoG8Rzcq0e",
+            "expanded_url": "https://free.com.tw/adobe-fonts-arphic-types/",
+            "display_url": "free.com.tw/adobe-fonts-ar…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 10292652,
+        "id_str": "10292652",
+        "name": "Pseric",
+        "screen_name": "Pseric",
+        "location": "Taiwan",
+        "description": "writer, reader, geek, whisky taster, music addict, gamer, contributor of WordPress.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1464,
+        "friends_count": 409,
+        "listed_count": 67,
+        "created_at": "Fri Nov 16 03:10:24 +0000 2007",
+        "favourites_count": 1110,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17941,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "4EB9E6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214368269190123520/tc8GWPyH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214368269190123520/tc8GWPyH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10292652/1578362932",
+        "profile_link_color": "4EB9E6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "102E87",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 36,
+      "favorite_count": 87,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 21 02:32:39 +0000 2021",
     "id": 1384696554515173377,
     "id_str": "1384696554515173377",
