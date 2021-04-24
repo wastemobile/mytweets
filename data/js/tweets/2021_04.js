@@ -1,5 +1,199 @@
 Grailbird.data.tweets_2021_04 = [
   {
+    "created_at": "Sat Apr 24 04:07:05 +0000 2021",
+    "id": 1385807481775943680,
+    "id_str": "1385807481775943680",
+    "text": "奇幻魔法故事在 #Netflix 有一堆，老套無聊僅著墨在瑣碎技法的居多，但剛上的《太陽召喚》蠻好看。\n\n主傳《格里沙三部曲》台灣其實已經絕版，外傳《烏鴉六人組》有點urban fiction味道，影集將主外傳揉合在一起呈現、疊加… https://t.co/dVKU6oR7rY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            8,
+            16
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dVKU6oR7rY",
+          "expanded_url": "https://twitter.com/i/web/status/1385807481775943680",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 23 07:07:48 +0000 2021",
+    "id": 1385490573323247618,
+    "id_str": "1385490573323247618",
+    "text": "前幾天看了《叛逆的麥田捕手》（REBEL in the RYE），就是大概講述了沙林傑的前半生。\n\n該重看《麥田捕手》才是。\n\nhttps://t.co/bTQ15qJWw1 https://t.co/ANNX9ezWBC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bTQ15qJWw1",
+          "expanded_url": "https://apple.co/3dGWHL5",
+          "display_url": "apple.co/3dGWHL5",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1385490568147464195,
+          "id_str": "1385490568147464195",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/EzpAVMIVcAM3QYC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EzpAVMIVcAM3QYC.jpg",
+          "url": "https://t.co/ANNX9ezWBC",
+          "display_url": "pic.twitter.com/ANNX9ezWBC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1385490573323247618/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1385490568147464195,
+          "id_str": "1385490568147464195",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/EzpAVMIVcAM3QYC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EzpAVMIVcAM3QYC.jpg",
+          "url": "https://t.co/ANNX9ezWBC",
+          "display_url": "pic.twitter.com/ANNX9ezWBC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1385490573323247618/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Apr 22 02:49:58 +0000 2021",
     "id": 1385063300472348673,
     "id_str": "1385063300472348673",
