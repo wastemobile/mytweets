@@ -1,5 +1,254 @@
 Grailbird.data.tweets_2021_04 = [
   {
+    "created_at": "Mon Apr 26 02:51:18 +0000 2021",
+    "id": 1386513186812170243,
+    "id_str": "1386513186812170243",
+    "text": "然後歐萊禮創辦人Tim O’Reilly已經發表了一篇名為〈驗算一下貝佐斯的數學〉，替大家從「某個角度」檢視了Bezos最後一篇給股東的信，同時搭配閱讀趣味十足。\n\nChecking Jeff Bezos’s Math https://t.co/OmGfUfBbhc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OmGfUfBbhc",
+          "expanded_url": "https://bit.ly/3dMVzFY",
+          "display_url": "bit.ly/3dMVzFY",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1386511953636433921,
+    "in_reply_to_status_id_str": "1386511953636433921",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Apr 26 02:46:24 +0000 2021",
+    "id": 1386511953636433921,
+    "id_str": "1386511953636433921",
+    "text": "由於Jeff Bezos 將於2021年第三季度辭去亞馬遜執行長（由AWS部門主管接任），因此 #Amazon 年報中「給股東的信」照理也會換人撰寫。\n\n從1997第一封信開始，貝佐斯2020這最後一封給股東的信，值得細看一下。… https://t.co/BVnIhbGppX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Amazon",
+          "indices": [
+            48,
+            55
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BVnIhbGppX",
+          "expanded_url": "https://twitter.com/i/web/status/1386511953636433921",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Apr 26 02:32:14 +0000 2021",
+    "id": 1386508386452135936,
+    "id_str": "1386508386452135936",
+    "text": "原來Pubu還在，而且7個月前改用Adobe DRM了。\n\nhttps://t.co/hEQmpDEFWa https://t.co/ELYoxa6tPA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hEQmpDEFWa",
+          "expanded_url": "https://bit.ly/3dShKdQ",
+          "display_url": "bit.ly/3dShKdQ",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1386508380492029952,
+          "id_str": "1386508380492029952",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ez3eBqlUYAAi_6j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ez3eBqlUYAAi_6j.jpg",
+          "url": "https://t.co/ELYoxa6tPA",
+          "display_url": "pic.twitter.com/ELYoxa6tPA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1386508386452135936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 555,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 992,
+              "h": 810,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 992,
+              "h": 810,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1386508380492029952,
+          "id_str": "1386508380492029952",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ez3eBqlUYAAi_6j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ez3eBqlUYAAi_6j.jpg",
+          "url": "https://t.co/ELYoxa6tPA",
+          "display_url": "pic.twitter.com/ELYoxa6tPA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1386508386452135936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 555,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 992,
+              "h": 810,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 992,
+              "h": 810,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Apr 25 02:38:44 +0000 2021",
     "id": 1386147634499317760,
     "id_str": "1386147634499317760",
