@@ -1,5 +1,908 @@
 Grailbird.data.tweets_2021_04 = [
   {
+    "created_at": "Tue Apr 27 16:11:38 +0000 2021",
+    "id": 1387076983008288768,
+    "id_str": "1387076983008288768",
+    "text": "真沒想到二廠居然出了《銀翼殺手 2019》漫畫。\n\n這部衍生圖像小說是官方承認的銀翼殺手宇宙正史，相同的世界觀，時間設定則與第一部電影相同，主角是洛杉磯的一名女銀翼殺手。\n\n2019年起以12期月刊連載，4集一個故事，再集結成三本… https://t.co/AcZC9EItBw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AcZC9EItBw",
+          "expanded_url": "https://twitter.com/i/web/status/1387076983008288768",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1210496988556353536,
+    "in_reply_to_status_id_str": "1210496988556353536",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 27 14:55:10 +0000 2021",
+    "id": 1387057742594990083,
+    "id_str": "1387057742594990083",
+    "text": "然後時間軸設置為「最新推文」，絕對不要選「首頁」。\n\n「推薦的首頁推文」那就是推特演算法，偶爾覺得沒新東西時轉去看看無妨，沒必要隨時看。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1386578325842268160,
+    "in_reply_to_status_id_str": "1386578325842268160",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 27 13:34:49 +0000 2021",
+    "id": 1387037521331122180,
+    "id_str": "1387037521331122180",
+    "text": "正在讀這本《電波騎士》（The Shockwave Rider），約翰布魯納1975年出版，有些人認為這是第一本寫出賽博龐克 #Cyberpunk 橋段的小說。\n\n但是吼⋯⋯閱讀器無法同步，多看又是升級iOS 14.5後唯一不支援… https://t.co/7RrMbIbFkw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Cyberpunk",
+          "indices": [
+            63,
+            73
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7RrMbIbFkw",
+          "expanded_url": "https://twitter.com/i/web/status/1387037521331122180",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 27 13:11:02 +0000 2021",
+    "id": 1387031535203741700,
+    "id_str": "1387031535203741700",
+    "text": "剛剛看到英文資訊才知，但查了一下這台（小米）墨案Inkpalm 5迷你閱讀器似乎年初就有了。\n\n5.2” E Ink Carta HD, 284 PPI，就像支不能通話的黑白iPhone，可裝安卓應用，預設為多看。\n\nFirst… https://t.co/li9M6RvqT5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/li9M6RvqT5",
+          "expanded_url": "https://twitter.com/i/web/status/1387031535203741700",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1345593868826230785,
+    "in_reply_to_status_id_str": "1345593868826230785",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 27 10:29:50 +0000 2021",
+    "id": 1386990969841590276,
+    "id_str": "1386990969841590276",
+    "text": "@mikejudewaters 不太突出的小品，有那種特殊的對話風格模式，但到正常人才算完成。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mikejudewaters",
+          "name": "有一條鳳凰河🦎",
+          "id": 200117018,
+          "id_str": "200117018",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1386960511904878594,
+    "in_reply_to_status_id_str": "1386960511904878594",
+    "in_reply_to_user_id": 200117018,
+    "in_reply_to_user_id_str": "200117018",
+    "in_reply_to_screen_name": "mikejudewaters",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 27 06:54:01 +0000 2021",
+    "id": 1386936655743918081,
+    "id_str": "1386936655743918081",
+    "text": "看完了簡體版《聊天紀錄》，相較《正常人》對話更年輕、思維更抽離且跳接，大概不會嘗試去讀這個譯本。 https://t.co/ReKvj5krMu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ReKvj5krMu",
+          "expanded_url": "https://twitter.com/mikejudewaters/status/1386865849684750336",
+          "display_url": "twitter.com/mikejudewaters…",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1386865849684750336,
+    "quoted_status_id_str": "1386865849684750336",
+    "quoted_status": {
+      "created_at": "Tue Apr 27 02:12:39 +0000 2021",
+      "id": 1386865849684750336,
+      "id_str": "1386865849684750336",
+      "text": "剛剛查一下，繁體中文版《聊天紀錄》五月四日出版，譯者也是李靜宜 https://t.co/X6xhhm5VnH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/X6xhhm5VnH",
+            "expanded_url": "https://twitter.com/ConvosOnHulu/status/1386741925227769869",
+            "display_url": "twitter.com/ConvosOnHulu/s…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 200117018,
+        "id_str": "200117018",
+        "name": "有一條鳳凰河🦎",
+        "screen_name": "mikejudewaters",
+        "location": "Taiwan",
+        "description": "\"Wherever. Whatever. Have a nice day.\"  \n#Taiwanindependent    #StandwithHongKong   #MilkTeaAlliance  \n#FCBayern    #MiaSanMia",
+        "url": "https://t.co/PYqcGaWzbk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/PYqcGaWzbk",
+                "expanded_url": "https://letterboxd.com/morrisbeck/",
+                "display_url": "letterboxd.com/morrisbeck/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 132,
+        "friends_count": 55,
+        "listed_count": 5,
+        "created_at": "Fri Oct 08 13:54:11 +0000 2010",
+        "favourites_count": 10021,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4642,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1251872492232118272/tCDRXjvb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251872492232118272/tCDRXjvb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/200117018/1612368940",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1386741925227769869,
+      "quoted_status_id_str": "1386741925227769869",
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 27 02:05:56 +0000 2021",
+    "id": 1386864156624625664,
+    "id_str": "1386864156624625664",
+    "text": "但評測都說PS4上體驗依舊很差呀⋯⋯\n\nBug快修完了？《電馭叛客2077》調度6成開發人員製作新內容 https://t.co/U4jWvGy5RP https://t.co/7oEa9aqBXO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/U4jWvGy5RP",
+          "expanded_url": "https://bit.ly/2S8uODx",
+          "display_url": "bit.ly/2S8uODx",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1386864150446370819,
+          "id_str": "1386864150446370819",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ez8hmM8UcAMDXBX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ez8hmM8UcAMDXBX.jpg",
+          "url": "https://t.co/7oEa9aqBXO",
+          "display_url": "pic.twitter.com/7oEa9aqBXO",
+          "expanded_url": "https://twitter.com/wastemobile/status/1386864156624625664/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 760,
+              "h": 427,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 760,
+              "h": 427,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1386864150446370819,
+          "id_str": "1386864150446370819",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ez8hmM8UcAMDXBX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ez8hmM8UcAMDXBX.jpg",
+          "url": "https://t.co/7oEa9aqBXO",
+          "display_url": "pic.twitter.com/7oEa9aqBXO",
+          "expanded_url": "https://twitter.com/wastemobile/status/1386864156624625664/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 760,
+              "h": 427,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 760,
+              "h": 427,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1365477061544927235,
+    "in_reply_to_status_id_str": "1365477061544927235",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 27 01:48:39 +0000 2021",
+    "id": 1386859807227858945,
+    "id_str": "1386859807227858945",
+    "text": "多看安裝在PW2上的韌體，由於透過內建瀏覽器的登入程序再也無法成功，無法同步新的書籍，因此宣告到此為止，紀錄一下。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1302172316751654913,
+    "in_reply_to_status_id_str": "1302172316751654913",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 27 01:42:18 +0000 2021",
+    "id": 1386858209277743106,
+    "id_str": "1386858209277743106",
+    "text": "Wattpad Paid Stories 在過去兩年累積了550名作家、750個故事、超過5億分鐘的閱讀時間，目前每月閱讀平均3,000萬分鐘，支付給作者的版權費超過一百萬美金。 https://t.co/ekyTV6QFhg… https://t.co/sayZ0fW3sa",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ekyTV6QFhg",
+          "expanded_url": "https://bit.ly/3tYTMDl",
+          "display_url": "bit.ly/3tYTMDl",
+          "indices": [
+            90,
+            113
+          ]
+        },
+        {
+          "url": "https://t.co/sayZ0fW3sa",
+          "expanded_url": "https://twitter.com/i/web/status/1386858209277743106",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1374900621287944192,
+    "in_reply_to_status_id_str": "1374900621287944192",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Apr 26 07:10:08 +0000 2021",
+    "id": 1386578325842268160,
+    "id_str": "1386578325842268160",
+    "text": "想看又不想公開的推特帳號追蹤，請自建一個「私人列表」，再設置釘選。\n\n這樣打開推特、隨時都有兩個時間軸可看，一陽一陰。\n\n世界夠吵了，有時安靜一點不是壞事。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 43,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Apr 26 04:58:43 +0000 2021",
+    "id": 1386545251238645763,
+    "id_str": "1386545251238645763",
+    "text": "RT @kyoto_zipsky: 剛剛把 ＃太陽召喚 這部在 ＃Netflex 上追完第一季。才八集，對於喜歡奇幻類美劇的人，這部很推啊。雖然是架空世界觀，但感覺這故事背景應該是在參考東歐俄羅斯與蒙古交界的地方。這美術設計真的對我來說很新奇...粉推啊。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "太陽召喚",
+          "indices": [
+            22,
+            27
+          ]
+        },
+        {
+          "text": "Netflex",
+          "indices": [
+            32,
+            40
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kyoto_zipsky",
+          "name": "㊙京都的蛋☢",
+          "id": 190920291,
+          "id_str": "190920291",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Apr 26 04:45:19 +0000 2021",
+      "id": 1386541881228619782,
+      "id_str": "1386541881228619782",
+      "text": "剛剛把 ＃太陽召喚 這部在 ＃Netflex 上追完第一季。才八集，對於喜歡奇幻類美劇的人，這部很推啊。雖然是架空世界觀，但感覺這故事背景應該是在參考東歐俄羅斯與蒙古交界的地方。這美術設計真的對我來說很新奇...粉推啊。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "太陽召喚",
+            "indices": [
+              4,
+              9
+            ]
+          },
+          {
+            "text": "Netflex",
+            "indices": [
+              14,
+              22
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 190920291,
+        "id_str": "190920291",
+        "name": "㊙京都的蛋☢",
+        "screen_name": "kyoto_zipsky",
+        "location": "",
+        "description": "活在回憶中的行屍走肉",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 659,
+        "friends_count": 434,
+        "listed_count": 13,
+        "created_at": "Wed Sep 15 04:41:00 +0000 2010",
+        "favourites_count": 15393,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14956,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/898110081337671680/2JzwOWra_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/898110081337671680/2JzwOWra_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/190920291/1614149497",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Apr 26 02:51:18 +0000 2021",
     "id": 1386513186812170243,
     "id_str": "1386513186812170243",
