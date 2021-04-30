@@ -1,5 +1,477 @@
 Grailbird.data.tweets_2021_04 = [
   {
+    "created_at": "Fri Apr 30 02:21:36 +0000 2021",
+    "id": 1387955265467604994,
+    "id_str": "1387955265467604994",
+    "text": "失讀症（閱讀障礙）。 https://t.co/tetBhEtsjZ\n\n但我想社會性的閱讀（心理）障礙應該會愈來愈多吧。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tetBhEtsjZ",
+          "expanded_url": "https://bit.ly/3gQXtHl",
+          "display_url": "bit.ly/3gQXtHl",
+          "indices": [
+            11,
+            34
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1387934267359985665,
+    "in_reply_to_status_id_str": "1387934267359985665",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 30 00:58:10 +0000 2021",
+    "id": 1387934267359985665,
+    "id_str": "1387934267359985665",
+    "text": "給成人閱讀障礙者的讀物很少，書店居然成立BOTH Press眾籌來出版，目標金額並不高，看起來達標。 #OpenDyslexia\n\n會使用柔和的米色紙、無襯線字體、更寬鬆的排版，作者們或許不算太知名，但多數也都出過書；也包含電子書… https://t.co/7UdgTdsvEC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "OpenDyslexia",
+          "indices": [
+            51,
+            64
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7UdgTdsvEC",
+          "expanded_url": "https://twitter.com/i/web/status/1387934267359985665",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1387929927798771718,
+    "in_reply_to_status_id_str": "1387929927798771718",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 30 00:40:55 +0000 2021",
+    "id": 1387929927798771718,
+    "id_str": "1387929927798771718",
+    "text": "位於英國克利夫登的Books On The Hill開幕約3年，整個Bristol郡（40餘萬人口），只剩這一家有販售新書的獨立書店。\n\n店主13歲以前都有閱讀障礙，後來拿到考古博士學位，因此特別推薦各種能讓閱讀障礙者進入的書籍。… https://t.co/26a7slG9IU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/26a7slG9IU",
+          "expanded_url": "https://twitter.com/i/web/status/1387929927798771718",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 30 00:14:09 +0000 2021",
+    "id": 1387923190588973065,
+    "id_str": "1387923190588973065",
+    "text": "這無線音箱擺在書架上蠻好看沒錯，但 Bang &amp; Olufsen 出品，價格不會便宜喔⋯⋯\n\nhttps://t.co/iSAYiyocsv https://t.co/X6tUgoFbfl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iSAYiyocsv",
+          "expanded_url": "https://bit.ly/3eHMIVd",
+          "display_url": "bit.ly/3eHMIVd",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1387923185035739136,
+          "id_str": "1387923185035739136",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/E0LkyIOVgAA-NJx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E0LkyIOVgAA-NJx.jpg",
+          "url": "https://t.co/X6tUgoFbfl",
+          "display_url": "pic.twitter.com/X6tUgoFbfl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1387923190588973065/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 433,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 368,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 433,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1387923185035739136,
+          "id_str": "1387923185035739136",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/E0LkyIOVgAA-NJx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E0LkyIOVgAA-NJx.jpg",
+          "url": "https://t.co/X6tUgoFbfl",
+          "display_url": "pic.twitter.com/X6tUgoFbfl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1387923190588973065/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 433,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 368,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 433,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 30 00:05:07 +0000 2021",
+    "id": 1387920918438023170,
+    "id_str": "1387920918438023170",
+    "text": "從 #Spotify 2021第一季季報看來，音樂聽到飽的訂閱制已成日常。\n\n音樂產業自2014年低谷至今成長44%，主要動力就是同期擴張了5倍的串流音樂服務。光2020一年，Spotify付了超過50億美金，約佔全球音樂產值的2… https://t.co/WBJBtqjmEo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Spotify",
+          "indices": [
+            2,
+            10
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WBJBtqjmEo",
+          "expanded_url": "https://twitter.com/i/web/status/1387920918438023170",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 29 02:18:48 +0000 2021",
+    "id": 1387592170018775040,
+    "id_str": "1387592170018775040",
+    "text": "疫情下的2020英國書市 #publishing 逆勢成長2%，紙本衰退6%到34億英鎊，數位成長12%至30億，兩者差距僅4億。\n\n實體書店因封鎖關閉，讓一般消費書市的數位產值大幅提升24%；即使是衰退21%的教育市場，數位還成… https://t.co/UcFwtuMhf4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "publishing",
+          "indices": [
+            13,
+            24
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UcFwtuMhf4",
+          "expanded_url": "https://twitter.com/i/web/status/1387592170018775040",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 28 09:14:17 +0000 2021",
+    "id": 1387334341873704963,
+    "id_str": "1387334341873704963",
+    "text": "認真想想，現在活著的這幾十億人，在100年內會全部死掉，一個也不剩。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Apr 27 16:11:38 +0000 2021",
     "id": 1387076983008288768,
     "id_str": "1387076983008288768",
