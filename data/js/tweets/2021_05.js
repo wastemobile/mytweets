@@ -1,5 +1,689 @@
 Grailbird.data.tweets_2021_05 = [
   {
+    "created_at": "Sat May 08 03:38:09 +0000 2021",
+    "id": 1390873633203974144,
+    "id_str": "1390873633203974144",
+    "text": "推特炎上都不是在推特看到的，真是推特邊緣日常（茶）",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 08 03:14:44 +0000 2021",
+    "id": 1390867740164911105,
+    "id_str": "1390867740164911105",
+    "text": "見城徹曾寫過與鈴木泉美的最後一通電話。\n\n《編輯這種病》：她那些被丈夫揮拳打落的門牙，從來就沒有去補過 https://t.co/ML0CFforPZ https://t.co/e9Jzfk4Wbn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ML0CFforPZ",
+          "expanded_url": "https://bit.ly/2RBLza1",
+          "display_url": "bit.ly/2RBLza1",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1390867734003556352,
+          "id_str": "1390867734003556352",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/E01a1b7VoAACR-S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E01a1b7VoAACR-S.jpg",
+          "url": "https://t.co/e9Jzfk4Wbn",
+          "display_url": "pic.twitter.com/e9Jzfk4Wbn",
+          "expanded_url": "https://twitter.com/wastemobile/status/1390867740164911105/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1174,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 626,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1174,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1390867734003556352,
+          "id_str": "1390867734003556352",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/E01a1b7VoAACR-S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E01a1b7VoAACR-S.jpg",
+          "url": "https://t.co/e9Jzfk4Wbn",
+          "display_url": "pic.twitter.com/e9Jzfk4Wbn",
+          "expanded_url": "https://twitter.com/wastemobile/status/1390867740164911105/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1174,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 626,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1174,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1390866914151309316,
+    "in_reply_to_status_id_str": "1390866914151309316",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 08 03:11:28 +0000 2021",
+    "id": 1390866914151309316,
+    "id_str": "1390866914151309316",
+    "text": "IZUMI,this bad girl. Nobuyoshi Araki+Izumi Suzuki\n\n荒木經惟眼中的bad girl。\n\nhttps://t.co/RQwLdQ8mnI https://t.co/ajjAUz9lNB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RQwLdQ8mnI",
+          "expanded_url": "https://bit.ly/3f6vb9m",
+          "display_url": "bit.ly/3f6vb9m",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1390866908493144065,
+          "id_str": "1390866908493144065",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/E01aFYqUYAES_Vv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E01aFYqUYAES_Vv.jpg",
+          "url": "https://t.co/ajjAUz9lNB",
+          "display_url": "pic.twitter.com/ajjAUz9lNB",
+          "expanded_url": "https://twitter.com/wastemobile/status/1390866914151309316/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 334,
+              "h": 475,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 334,
+              "h": 475,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 334,
+              "h": 475,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1390866908493144065,
+          "id_str": "1390866908493144065",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/E01aFYqUYAES_Vv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E01aFYqUYAES_Vv.jpg",
+          "url": "https://t.co/ajjAUz9lNB",
+          "display_url": "pic.twitter.com/ajjAUz9lNB",
+          "expanded_url": "https://twitter.com/wastemobile/status/1390866914151309316/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 334,
+              "h": 475,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 334,
+              "h": 475,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 334,
+              "h": 475,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1390866908489019395,
+          "id_str": "1390866908489019395",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/E01aFYpVcAMKTL5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E01aFYpVcAMKTL5.jpg",
+          "url": "https://t.co/ajjAUz9lNB",
+          "display_url": "pic.twitter.com/ajjAUz9lNB",
+          "expanded_url": "https://twitter.com/wastemobile/status/1390866914151309316/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 420,
+              "h": 567,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 420,
+              "h": 567,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 420,
+              "h": 567,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1390865705235468292,
+    "in_reply_to_status_id_str": "1390865705235468292",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat May 08 03:06:39 +0000 2021",
+    "id": 1390865705235468292,
+    "id_str": "1390865705235468292",
+    "text": "看到鈴木泉美（鈴木いづみ, Suzuki Izumi）的科幻短篇小說集以英文出版，真是被嚇到。\n\n她的作品其實都沒有中譯，更知名可能是她前衛不羈的視覺形象、悲催的生命終結，但在科幻文學研究中，她怪異的想像確實影響了一些知名作家。… https://t.co/sGE1aNXpJv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sGE1aNXpJv",
+          "expanded_url": "https://twitter.com/i/web/status/1390865705235468292",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri May 07 16:59:34 +0000 2021",
+    "id": 1390712927280271365,
+    "id_str": "1390712927280271365",
+    "text": "連署公投到底是什麼高危險活動？簽名前死亡率也太高了吧！😨 https://t.co/J292XhECrM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/J292XhECrM",
+          "expanded_url": "https://twitter.com/fourtytwo042/status/1390687111636951045",
+          "display_url": "twitter.com/fourtytwo042/s…",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1390687111636951045,
+    "quoted_status_id_str": "1390687111636951045",
+    "quoted_status": {
+      "created_at": "Fri May 07 15:16:59 +0000 2021",
+      "id": 1390687111636951045,
+      "id_str": "1390687111636951045",
+      "text": "轉劉宇\n\n藻礁很明顯就是一堆文青左左看到環保就高潮的當下填的啊~後來應該是很多人後悔但是收不回來\n\n記得八月去投四個不同意 https://t.co/KuOV55Y9PO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1390686140835893252,
+            "id_str": "1390686140835893252",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/E0y1rUqVEAQNFQn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E0y1rUqVEAQNFQn.jpg",
+            "url": "https://t.co/KuOV55Y9PO",
+            "display_url": "pic.twitter.com/KuOV55Y9PO",
+            "expanded_url": "https://twitter.com/fourtytwo042/status/1390687111636951045/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1412,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 462,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 816,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1390686140835893252,
+            "id_str": "1390686140835893252",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/E0y1rUqVEAQNFQn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E0y1rUqVEAQNFQn.jpg",
+            "url": "https://t.co/KuOV55Y9PO",
+            "display_url": "pic.twitter.com/KuOV55Y9PO",
+            "expanded_url": "https://twitter.com/fourtytwo042/status/1390687111636951045/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1412,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 462,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 816,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3011210023,
+        "id_str": "3011210023",
+        "name": "我同事說網友都是笨蛋",
+        "screen_name": "fourtytwo042",
+        "location": "Taiwan",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 577,
+        "friends_count": 19,
+        "listed_count": 4,
+        "created_at": "Fri Feb 06 10:56:59 +0000 2015",
+        "favourites_count": 3422,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2199,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/953233962679201792/cnGPPAJk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/953233962679201792/cnGPPAJk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3011210023/1516103676",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 26,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 3,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 07 12:26:05 +0000 2021",
+    "id": 1390644101687640069,
+    "id_str": "1390644101687640069",
+    "text": "日本1984年的固力果・森永事件（怪人二十一面相事件、森永千面人事件），直接間接已經好多相關解謎故事，這次沒看小說直接看小栗旬、星野源主演的電影。\n\n現實中沒破案，主要就是綜合了幾種推測，包含賣空的股價操縱說。\n\n罪の声… https://t.co/5CFl7iKlVP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5CFl7iKlVP",
+          "expanded_url": "https://twitter.com/i/web/status/1390644101687640069",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Fri May 07 02:36:06 +0000 2021",
     "id": 1390495629915295746,
     "id_str": "1390495629915295746",
