@@ -1,5 +1,176 @@
 Grailbird.data.tweets_2021_05 = [
   {
+    "created_at": "Sun May 09 03:38:09 +0000 2021",
+    "id": 1391236016967622660,
+    "id_str": "1391236016967622660",
+    "text": "LG webOS TV上的CatchPlay某日開始一直是這個怪狀態，但Netflix或YouTube明明都連線正常，研究一下才發現這款電視系統停在webOS 3，大概某天CatchPlay應用升級後就不支援了，訊息如此不明確還真… https://t.co/1qFy3TB1Jd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1qFy3TB1Jd",
+          "expanded_url": "https://twitter.com/i/web/status/1391236016967622660",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun May 09 03:07:16 +0000 2021",
+    "id": 1391228247451398144,
+    "id_str": "1391228247451398144",
+    "text": "「NFT 是利用區塊鏈技術做的一種電子收據，很多人喜歡找明星簽名，但要如何證明這是本人簽的。而 #NFT 就是一種讓人們更靠近數位擁有權 (Digital Ownership) 的事情。」\n\n獨家專訪pplpleasr | 來自台… https://t.co/4aSaE6Rsbc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NFT",
+          "indices": [
+            48,
+            52
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4aSaE6Rsbc",
+          "expanded_url": "https://twitter.com/i/web/status/1391228247451398144",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1390478820780564481,
+    "in_reply_to_status_id_str": "1390478820780564481",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 08 05:00:45 +0000 2021",
+    "id": 1390894417817464835,
+    "id_str": "1390894417817464835",
+    "text": "Amazon從網路賣書開啟的電商時代，對閱讀與出版產業有大到無以復加的影響，但另兩個隱性建構、未來會更加巨大。\n\n其一是已提過的Crossing，用各國家精準銷售數字、交互翻譯出版；其次是Kindle訂閱，2018至今累計發出10… https://t.co/gYFjHOqHJu",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gYFjHOqHJu",
+          "expanded_url": "https://twitter.com/i/web/status/1390894417817464835",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1383965559449022467,
+    "in_reply_to_status_id_str": "1383965559449022467",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat May 08 03:38:09 +0000 2021",
     "id": 1390873633203974144,
     "id_str": "1390873633203974144",
