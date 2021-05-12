@@ -1,5 +1,913 @@
 Grailbird.data.tweets_2021_05 = [
   {
+    "created_at": "Wed May 12 03:39:31 +0000 2021",
+    "id": 1392323527437553665,
+    "id_str": "1392323527437553665",
+    "text": "韓國Kakao娛樂確認一次併購了美國的Radish與Tapas（網路短篇小說與漫畫平台），在日本則是透過其子公司Kakao Japan開發的Piccoma平台提供漫畫訂閱服務。\n\n聲明中提到，下個月就要在台灣與泰國推出網路漫畫平台… https://t.co/qz1LNekD8s",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qz1LNekD8s",
+          "expanded_url": "https://twitter.com/i/web/status/1392323527437553665",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1381784871169708033,
+    "in_reply_to_status_id_str": "1381784871169708033",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue May 11 14:54:38 +0000 2021",
+    "id": 1392131038306918400,
+    "id_str": "1392131038306918400",
+    "text": "科幻分支 #Cyberpunk 的常見設想，未來科技巨商的AI是在賽博空間中對戰的主力，彼此的攻防隨時都在發生。\n\n我很確定 #Netflix 會敗下陣來，那個「隨機推薦」到底用的是什麼笨蛋演算法。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Cyberpunk",
+          "indices": [
+            5,
+            15
+          ]
+        },
+        {
+          "text": "Netflix",
+          "indices": [
+            63,
+            71
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue May 11 01:55:42 +0000 2021",
+    "id": 1391935011335544836,
+    "id_str": "1391935011335544836",
+    "text": "RT @jkgtw: 第三方改寫的 BitWarden_rs 最近改名為 VaultWarden https://t.co/PUgo53J6uR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jkgtw",
+          "name": "Stephen ",
+          "id": 792526,
+          "id_str": "792526",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PUgo53J6uR",
+          "expanded_url": "https://github.com/dani-garcia/vaultwarden",
+          "display_url": "github.com/dani-garcia/va…",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue May 11 01:51:42 +0000 2021",
+      "id": 1391934006791262211,
+      "id_str": "1391934006791262211",
+      "text": "第三方改寫的 BitWarden_rs 最近改名為 VaultWarden https://t.co/PUgo53J6uR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PUgo53J6uR",
+            "expanded_url": "https://github.com/dani-garcia/vaultwarden",
+            "display_url": "github.com/dani-garcia/va…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 792526,
+        "id_str": "792526",
+        "name": "Stephen ",
+        "screen_name": "jkgtw",
+        "location": "Taipei, Taiwan",
+        "description": "台灣阿宅、職業奶爸、榮譽果粉、日旅中毒、歐美戲劇、遊戲苦手、自由工作、樂活生活、常駐台北。\n\n歡迎搜尋加入「台灣蘋果同好交流群」😘",
+        "url": "https://t.co/ZewaBiqaXi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZewaBiqaXi",
+                "expanded_url": "https://www.jkg.tw/",
+                "display_url": "jkg.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4545,
+        "friends_count": 472,
+        "listed_count": 106,
+        "created_at": "Sat Feb 24 16:20:12 +0000 2007",
+        "favourites_count": 310,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 34257,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1265114810317848578/S1I_MXsE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265114810317848578/S1I_MXsE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/792526/1355194040",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00180402799fed03",
+        "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+        "place_type": "city",
+        "name": "台北市",
+        "full_name": "台北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.457132,
+                24.960508
+              ],
+              [
+                121.66582,
+                24.960508
+              ],
+              [
+                121.66582,
+                25.211004
+              ],
+              [
+                121.457132,
+                25.211004
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue May 11 01:55:06 +0000 2021",
+    "id": 1391934859522703364,
+    "id_str": "1391934859522703364",
+    "text": "〈如何在 #Medium 上發布全書長度的小說、或任何書籍？〉\n\n沒有必要。\n\nHow to Publish Your Full-Length Novel or Any Other Book on Medium - A step-… https://t.co/VmyfqzHt9d",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Medium",
+          "indices": [
+            5,
+            12
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VmyfqzHt9d",
+          "expanded_url": "https://twitter.com/i/web/status/1391934859522703364",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue May 11 01:48:25 +0000 2021",
+    "id": 1391933179313868800,
+    "id_str": "1391933179313868800",
+    "text": "5公分厚度、超過3000日圓的紙書《獨學大全》，從去年9月至今狂銷16萬冊；同樣鑽石社出版的《世界標準の経営理論》一樣的厚度與價格，賣超過8萬5000冊。\n\n市場上本就很多大補帖、拾人牙慧、資料整理型的簡易讀物，乾脆一次搜羅、無人… https://t.co/vbQzDZwS6A",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vbQzDZwS6A",
+          "expanded_url": "https://twitter.com/i/web/status/1391933179313868800",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue May 11 01:28:55 +0000 2021",
+    "id": 1391928273840472064,
+    "id_str": "1391928273840472064",
+    "text": "日立製作所出售了日立金屬、日立工機、日立化成等子公司，併購美國GlobalLogic軟體開發系統商，就能轉型成數位企業、擁有全球競爭力？\n\n日立從製作所到IT大廠，追趕西門子 https://t.co/uRSDpFaPDZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uRSDpFaPDZ",
+          "expanded_url": "https://bit.ly/3hfGiPY",
+          "display_url": "bit.ly/3hfGiPY",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 10 15:17:32 +0000 2021",
+    "id": 1391774411112337410,
+    "id_str": "1391774411112337410",
+    "text": "嘗試讀最新、大概也會是最難的一本 #Cyberpunk 賽博龐克（電馭叛客）小說，Pynchon 83歲高齡的作品。\n\n但確實喔⋯⋯電子書實在不適合讀他的小說，起碼重複開始三次了，都無法順利推進，複雜到需要時時來回翻找的讀物，目前… https://t.co/DX328FCVQe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Cyberpunk",
+          "indices": [
+            17,
+            27
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DX328FCVQe",
+          "expanded_url": "https://twitter.com/i/web/status/1391774411112337410",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 10 02:37:46 +0000 2021",
+    "id": 1391583210732019714,
+    "id_str": "1391583210732019714",
+    "text": "UniFi Access Starter Kit + UniFi Dream Machine Pro 好玩耶～\n\nUniFi次世代門禁管制系統︱沒想到門禁系統也可以這麼漂亮又有趣 https://t.co/amNTvcdmGq 來… https://t.co/nuZwJBn2Wv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/amNTvcdmGq",
+          "expanded_url": "https://youtu.be/dX-LjtO3oe8",
+          "display_url": "youtu.be/dX-LjtO3oe8",
+          "indices": [
+            90,
+            113
+          ]
+        },
+        {
+          "url": "https://t.co/nuZwJBn2Wv",
+          "expanded_url": "https://twitter.com/i/web/status/1391583210732019714",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon May 10 02:02:45 +0000 2021",
+    "id": 1391574397639557121,
+    "id_str": "1391574397639557121",
+    "text": "偶爾推些簡化長文到Kindle隨身讀還蠻方便的。\n\nPush to Kindle https://t.co/irx5ndeYL6 https://t.co/mmiggjC6MU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/irx5ndeYL6",
+          "expanded_url": "https://bit.ly/3twJSb1",
+          "display_url": "bit.ly/3twJSb1",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1391574392325361664,
+          "id_str": "1391574392325361664",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/E0_diXUVUAAl-8j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E0_diXUVUAAl-8j.jpg",
+          "url": "https://t.co/mmiggjC6MU",
+          "display_url": "pic.twitter.com/mmiggjC6MU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1391574397639557121/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 482,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1260,
+              "h": 894,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 851,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1391574392325361664,
+          "id_str": "1391574392325361664",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/E0_diXUVUAAl-8j.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E0_diXUVUAAl-8j.jpg",
+          "url": "https://t.co/mmiggjC6MU",
+          "display_url": "pic.twitter.com/mmiggjC6MU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1391574397639557121/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 482,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1260,
+              "h": 894,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 851,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun May 09 13:56:13 +0000 2021",
+    "id": 1391391558612787201,
+    "id_str": "1391391558612787201",
+    "text": "RT @readerscaitlog: 故事由七個人在一個海邊的度假旅店相遇，彼此之間的關係以及個自的發展。說到海，就覺得它是療癒的地方，可是海和海洋之間，有海的溫暖和海洋的深邃，各種不同海洋生物和海洋特性，五彩繽紛也黑不見底的未知，溫柔和血腥並存。Listen on &gt;&gt; h…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "readerscaitlog",
+          "name": "caitlog",
+          "id": 1375122932741988352,
+          "id_str": "1375122932741988352",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 09 13:40:22 +0000 2021",
+      "id": 1391387570618068996,
+      "id_str": "1391387570618068996",
+      "text": "故事由七個人在一個海邊的度假旅店相遇，彼此之間的關係以及個自的發展。說到海，就覺得它是療癒的地方，可是海和海洋之間，有海的溫暖和海洋的深邃，各種不同海洋生物和海洋特性，五彩繽紛也黑不見底的未知，溫柔和血腥並存。Listen on… https://t.co/2vfHoL9u2x",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2vfHoL9u2x",
+            "expanded_url": "https://twitter.com/i/web/status/1391387570618068996",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1375122932741988352,
+        "id_str": "1375122932741988352",
+        "name": "caitlog",
+        "screen_name": "readerscaitlog",
+        "location": "",
+        "description": "We read, we laugh, we jump out of the world!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1,
+        "friends_count": 0,
+        "listed_count": 0,
+        "created_at": "Thu Mar 25 16:30:51 +0000 2021",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1375123274103803904/tfEWu3kO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375123274103803904/tfEWu3kO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun May 09 03:38:09 +0000 2021",
     "id": 1391236016967622660,
     "id_str": "1391236016967622660",
