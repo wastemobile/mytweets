@@ -1,5 +1,425 @@
 Grailbird.data.tweets_2021_05 = [
   {
+    "created_at": "Wed May 12 14:11:48 +0000 2021",
+    "id": 1392482643762053125,
+    "id_str": "1392482643762053125",
+    "text": "RT @JeffreyTW1982: 以色列的鐵穹防空飛彈攔截哈瑪斯發射的火箭，典型的飽和攻擊戰鬥場景。\n\n將來在台海戰爭中很有可能也會見到類似的場景。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JeffreyTW1982",
+          "name": "Jeffrey - Gî-lân gín-á",
+          "id": 814032445032927232,
+          "id_str": "814032445032927232",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed May 12 07:53:01 +0000 2021",
+      "id": 1392387322331623425,
+      "id_str": "1392387322331623425",
+      "text": "以色列的鐵穹防空飛彈攔截哈瑪斯發射的火箭，典型的飽和攻擊戰鬥場景。\n\n將來在台海戰爭中很有可能也會見到類似的場景。 https://t.co/EEu1WGherY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EEu1WGherY",
+            "expanded_url": "https://twitter.com/AskAnshul/status/1392314191818547203",
+            "display_url": "twitter.com/AskAnshul/stat…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 814032445032927232,
+        "id_str": "814032445032927232",
+        "name": "Jeffrey - Gî-lân gín-á",
+        "screen_name": "JeffreyTW1982",
+        "location": "",
+        "description": "Si vis pacem, para bellum.\nWehrhafte Demokratie (physikalisch)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2119,
+        "friends_count": 867,
+        "listed_count": 20,
+        "created_at": "Wed Dec 28 08:57:13 +0000 2016",
+        "favourites_count": 65632,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24983,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/928673322933669889/f5Vld9HW_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/928673322933669889/f5Vld9HW_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/814032445032927232/1548263674",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1392314191818547203,
+      "quoted_status_id_str": "1392314191818547203",
+      "quoted_status": {
+        "created_at": "Wed May 12 03:02:25 +0000 2021",
+        "id": 1392314191818547203,
+        "id_str": "1392314191818547203",
+        "text": "Rockets by Hamas terrorists Vs Interceptors from Israel's Iron Dome (air defense system). https://t.co/lsWW80fnzB",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ],
+          "media": [
+            {
+              "id": 1392314065481977861,
+              "id_str": "1392314065481977861",
+              "indices": [
+                90,
+                113
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392314065481977861/pu/img/QL04ZDiqBN661hLF.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392314065481977861/pu/img/QL04ZDiqBN661hLF.jpg",
+              "url": "https://t.co/lsWW80fnzB",
+              "display_url": "pic.twitter.com/lsWW80fnzB",
+              "expanded_url": "https://twitter.com/AskAnshul/status/1392314191818547203/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 848,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 385,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 848,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1392314065481977861,
+              "id_str": "1392314065481977861",
+              "indices": [
+                90,
+                113
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392314065481977861/pu/img/QL04ZDiqBN661hLF.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392314065481977861/pu/img/QL04ZDiqBN661hLF.jpg",
+              "url": "https://t.co/lsWW80fnzB",
+              "display_url": "pic.twitter.com/lsWW80fnzB",
+              "expanded_url": "https://twitter.com/AskAnshul/status/1392314191818547203/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 480,
+                  "h": 848,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 385,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 480,
+                  "h": 848,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  30,
+                  53
+                ],
+                "duration_millis": 24862,
+                "variants": [
+                  {
+                    "bitrate": 632000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1392314065481977861/pu/vid/320x564/pjIQ8Kh8KQv45joV.mp4?tag=12"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1392314065481977861/pu/pl/8EO-EyTVXo6uZCNX.m3u8?tag=12&container=fmp4"
+                  },
+                  {
+                    "bitrate": 950000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1392314065481977861/pu/vid/480x848/Ol-KL1k4zBG6OHun.mp4?tag=12"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 318673863,
+          "id_str": "318673863",
+          "name": "Anshul Saxena",
+          "screen_name": "AskAnshul",
+          "location": "India",
+          "description": "| News Junkie | Politics | Foreign Affairs | National Security | Observer & Analyst | i tweet informative facts and opinions | https://t.co/3Oprgd1EzC",
+          "url": "https://t.co/t0oUBkuZp4",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/t0oUBkuZp4",
+                  "expanded_url": "http://www.facebook.com/AskAnshul",
+                  "display_url": "facebook.com/AskAnshul",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/3Oprgd1EzC",
+                  "expanded_url": "http://www.youtube.com/AskAnshul",
+                  "display_url": "youtube.com/AskAnshul",
+                  "indices": [
+                    127,
+                    150
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 783100,
+          "friends_count": 455,
+          "listed_count": 657,
+          "created_at": "Thu Jun 16 21:26:09 +0000 2011",
+          "favourites_count": 12600,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 37046,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/952822845452599296/UM8VF4Bt_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/952822845452599296/UM8VF4Bt_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/318673863/1431165340",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3111,
+        "favorite_count": 13317,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 75,
+      "favorite_count": 251,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1392314191818547203,
+    "quoted_status_id_str": "1392314191818547203",
+    "retweet_count": 75,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed May 12 07:00:34 +0000 2021",
+    "id": 1392374122634567686,
+    "id_str": "1392374122634567686",
+    "text": "臺灣社交距離App通通去裝起來啦！\n\n看看足跡確認是多麼麻煩的事，這點小事每個人都可以做啊！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed May 12 03:39:31 +0000 2021",
     "id": 1392323527437553665,
     "id_str": "1392323527437553665",
