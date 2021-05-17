@@ -1,5 +1,355 @@
 Grailbird.data.tweets_2021_05 = [
   {
+    "created_at": "Sun May 16 12:53:47 +0000 2021",
+    "id": 1393912564635996160,
+    "id_str": "1393912564635996160",
+    "text": "RT @TW_nextmedia: 揮淚致敬時代眼淚！最後一間亞藝影音店今起熄燈！\n#蘋果財經 #亞藝影音 #DVD #租片 #蘋果新聞網 #appledailytw #appledaily\n→→ https://t.co/WxmPZIUA4a https://t.co/yUK…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "蘋果財經",
+          "indices": [
+            42,
+            47
+          ]
+        },
+        {
+          "text": "亞藝影音",
+          "indices": [
+            48,
+            53
+          ]
+        },
+        {
+          "text": "DVD",
+          "indices": [
+            54,
+            58
+          ]
+        },
+        {
+          "text": "租片",
+          "indices": [
+            59,
+            62
+          ]
+        },
+        {
+          "text": "蘋果新聞網",
+          "indices": [
+            63,
+            69
+          ]
+        },
+        {
+          "text": "appledailytw",
+          "indices": [
+            70,
+            83
+          ]
+        },
+        {
+          "text": "appledaily",
+          "indices": [
+            84,
+            95
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TW_nextmedia",
+          "name": "蘋果新聞網 Taiwan News",
+          "id": 40813384,
+          "id_str": "40813384",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WxmPZIUA4a",
+          "expanded_url": "https://bit.ly/3olXFAi",
+          "display_url": "bit.ly/3olXFAi",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 16 12:42:58 +0000 2021",
+      "id": 1393909841685467139,
+      "id_str": "1393909841685467139",
+      "text": "揮淚致敬時代眼淚！最後一間亞藝影音店今起熄燈！\n#蘋果財經 #亞藝影音 #DVD #租片 #蘋果新聞網 #appledailytw #appledaily\n→→ https://t.co/WxmPZIUA4a https://t.co/yUK8olbjWS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "蘋果財經",
+            "indices": [
+              24,
+              29
+            ]
+          },
+          {
+            "text": "亞藝影音",
+            "indices": [
+              30,
+              35
+            ]
+          },
+          {
+            "text": "DVD",
+            "indices": [
+              36,
+              40
+            ]
+          },
+          {
+            "text": "租片",
+            "indices": [
+              41,
+              44
+            ]
+          },
+          {
+            "text": "蘋果新聞網",
+            "indices": [
+              45,
+              51
+            ]
+          },
+          {
+            "text": "appledailytw",
+            "indices": [
+              52,
+              65
+            ]
+          },
+          {
+            "text": "appledaily",
+            "indices": [
+              66,
+              77
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WxmPZIUA4a",
+            "expanded_url": "https://bit.ly/3olXFAi",
+            "display_url": "bit.ly/3olXFAi",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1393909831489130509,
+            "id_str": "1393909831489130509",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/E1gpm0LVkA0x6Xs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E1gpm0LVkA0x6Xs.jpg",
+            "url": "https://t.co/yUK8olbjWS",
+            "display_url": "pic.twitter.com/yUK8olbjWS",
+            "expanded_url": "https://twitter.com/TW_nextmedia/status/1393909841685467139/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 357,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 630,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 630,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1393909831489130509,
+            "id_str": "1393909831489130509",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/E1gpm0LVkA0x6Xs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E1gpm0LVkA0x6Xs.jpg",
+            "url": "https://t.co/yUK8olbjWS",
+            "display_url": "pic.twitter.com/yUK8olbjWS",
+            "expanded_url": "https://twitter.com/TW_nextmedia/status/1393909841685467139/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 357,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 630,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 630,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 40813384,
+        "id_str": "40813384",
+        "name": "蘋果新聞網 Taiwan News",
+        "screen_name": "TW_nextmedia",
+        "location": "Taipei, Taiwan ROC",
+        "description": "為台灣本地和世界華人帶來最新的新聞娛樂資訊！Apple Daily is the largest news media group in Taiwan with live streaming, breaking news and animated news for local and global readers.",
+        "url": "https://t.co/atmHp4v8k7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/atmHp4v8k7",
+                "expanded_url": "https://tw.appledaily.com/",
+                "display_url": "tw.appledaily.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 997153,
+        "friends_count": 197,
+        "listed_count": 2488,
+        "created_at": "Mon May 18 04:28:58 +0000 2009",
+        "favourites_count": 4836,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 138003,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40813384/1564537596",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 34,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun May 16 02:46:48 +0000 2021",
     "id": 1393759811829788673,
     "id_str": "1393759811829788673",
