@@ -1,5 +1,667 @@
 Grailbird.data.tweets_2021_05 = [
   {
+    "created_at": "Wed May 19 01:51:21 +0000 2021",
+    "id": 1394833019853185025,
+    "id_str": "1394833019853185025",
+    "text": "Amazon book clubs正式翻譯名稱為「Amazon讀書會」。 https://t.co/mPCTz7nakQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1394833012286640131,
+          "id_str": "1394833012286640131",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/E1txPApVUAM-KdP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E1txPApVUAM-KdP.jpg",
+          "url": "https://t.co/mPCTz7nakQ",
+          "display_url": "pic.twitter.com/mPCTz7nakQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1394833019853185025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1892,
+              "h": 1142,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 410,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 724,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1394833012286640131,
+          "id_str": "1394833012286640131",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/E1txPApVUAM-KdP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E1txPApVUAM-KdP.jpg",
+          "url": "https://t.co/mPCTz7nakQ",
+          "display_url": "pic.twitter.com/mPCTz7nakQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1394833019853185025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1892,
+              "h": 1142,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 410,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 724,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1304599266250219528,
+    "in_reply_to_status_id_str": "1304599266250219528",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue May 18 06:27:28 +0000 2021",
+    "id": 1394540118472499204,
+    "id_str": "1394540118472499204",
+    "text": "RT @TaiwanAlerts: ⚠️ 快訊\n\n教育部宣布5/19-5/28全國停止上課。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TaiwanAlerts",
+          "name": "Taiwan Alerts - 停班停課最新通知",
+          "id": 1234824733457125377,
+          "id_str": "1234824733457125377",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue May 18 06:25:29 +0000 2021",
+      "id": 1394539620969291777,
+      "id_str": "1394539620969291777",
+      "text": "⚠️ 快訊\n\n教育部宣布5/19-5/28全國停止上課。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1234824733457125377,
+        "id_str": "1234824733457125377",
+        "name": "Taiwan Alerts - 停班停課最新通知",
+        "screen_name": "TaiwanAlerts",
+        "location": "Taipei City, Taiwan",
+        "description": "Copyright © 2012-2021 All rights reserved. 🇹🇼 台灣最具指標性的民間災防資訊社群媒體 Taiwan's Non-governmental Disaster Prevention Information Center",
+        "url": "https://t.co/2DQTUT2frW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2DQTUT2frW",
+                "expanded_url": "http://www.facebook.com/tw.alerts",
+                "display_url": "facebook.com/tw.alerts",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 18124,
+        "friends_count": 62,
+        "listed_count": 48,
+        "created_at": "Tue Mar 03 12:55:43 +0000 2020",
+        "favourites_count": 697,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 870,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1384842584355262464/rWNuRV-k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384842584355262464/rWNuRV-k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1234824733457125377/1611589174",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 594,
+      "favorite_count": 2314,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 594,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue May 18 06:17:55 +0000 2021",
+    "id": 1394537716415483905,
+    "id_str": "1394537716415483905",
+    "text": "這醫師公會理事長刷名聲刷過頭了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue May 18 05:13:27 +0000 2021",
+    "id": 1394521490729562112,
+    "id_str": "1394521490729562112",
+    "text": "台灣真的是一日生活（傳染）圈啊⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue May 18 03:45:48 +0000 2021",
+    "id": 1394499433807552512,
+    "id_str": "1394499433807552512",
+    "text": "「鈍器本」？覺得精裝書角還蠻尖銳的說。 https://t.co/qIJ1wDJHSH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qIJ1wDJHSH",
+          "expanded_url": "https://twitter.com/dokugakutaizen/status/1394497418247344130",
+          "display_url": "twitter.com/dokugakutaizen…",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1391933179313868800,
+    "in_reply_to_status_id_str": "1391933179313868800",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1394497418247344130,
+    "quoted_status_id_str": "1394497418247344130",
+    "quoted_status": {
+      "created_at": "Tue May 18 03:37:47 +0000 2021",
+      "id": 1394497418247344130,
+      "id_str": "1394497418247344130",
+      "text": "YouTubeにあったので共有です🐵\n\n重厚感が人気! 「鈍器本」ブーム　活字離れも 異例のベストセラー https://t.co/jExwY1BK0O @YouTubeより https://t.co/dIp7igkPec",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "YouTube",
+            "name": "YouTube",
+            "id": 10228272,
+            "id_str": "10228272",
+            "indices": [
+              77,
+              85
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jExwY1BK0O",
+            "expanded_url": "https://youtu.be/iLPagweJZUU",
+            "display_url": "youtu.be/iLPagweJZUU",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1394497322235490308,
+            "id_str": "1394497322235490308",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1394497322235490308/pu/img/xNiQ6W8kIQIh6fz4.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1394497322235490308/pu/img/xNiQ6W8kIQIh6fz4.jpg",
+            "url": "https://t.co/dIp7igkPec",
+            "display_url": "pic.twitter.com/dIp7igkPec",
+            "expanded_url": "https://twitter.com/dokugakutaizen/status/1394497418247344130/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 555,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 315,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 592,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1394497322235490308,
+            "id_str": "1394497322235490308",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1394497322235490308/pu/img/xNiQ6W8kIQIh6fz4.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1394497322235490308/pu/img/xNiQ6W8kIQIh6fz4.jpg",
+            "url": "https://t.co/dIp7igkPec",
+            "display_url": "pic.twitter.com/dIp7igkPec",
+            "expanded_url": "https://twitter.com/dokugakutaizen/status/1394497418247344130/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 555,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 315,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1280,
+                "h": 592,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                80,
+                37
+              ],
+              "duration_millis": 25663,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1394497322235490308/pu/pl/cX_sEiBriZAqdvZ8.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1394497322235490308/pu/vid/778x360/bJVpOkTX2b2T0YUn.mp4?tag=12"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1394497322235490308/pu/vid/582x270/upkl1TBnOpUpK2I5.mp4?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1394497322235490308/pu/vid/1280x592/WQNar8efTLJEi-SV.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1339059195639787520,
+        "id_str": "1339059195639787520",
+        "name": "『独学大全』公式アカウント@17万部ベストセラー！",
+        "screen_name": "dokugakutaizen",
+        "location": "",
+        "description": "『独学大全』（読書猿・著／ダイヤモンド社）の公式です。 独学者さんを応援するアカウントです！本の中の言葉やお知らせ、制作ウラ話などをつぶやきます。 中の人は無知くんの分身です。",
+        "url": "https://t.co/SAjgft5dEb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/SAjgft5dEb",
+                "expanded_url": "https://www.amazon.co.jp/dp/4478108536/",
+                "display_url": "amazon.co.jp/dp/4478108536/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2819,
+        "friends_count": 0,
+        "listed_count": 23,
+        "created_at": "Wed Dec 16 04:06:42 +0000 2020",
+        "favourites_count": 360,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 724,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1364605152041136128/WCzCVUUw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1364605152041136128/WCzCVUUw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339059195639787520/1619850747",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 29,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue May 18 02:03:52 +0000 2021",
     "id": 1394473782949990401,
     "id_str": "1394473782949990401",
