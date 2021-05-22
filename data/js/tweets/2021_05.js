@@ -1,5 +1,416 @@
 Grailbird.data.tweets_2021_05 = [
   {
+    "created_at": "Sat May 22 04:03:34 +0000 2021",
+    "id": 1395953455705976835,
+    "id_str": "1395953455705976835",
+    "text": "一名編輯打算每週讀一本書，但該如何決定讀哪些書？她寫下一年來的選書歷程，跳接的日記形式（部落格？）。 #關於書的書\n\nBTW，她覺得《最後十四堂星期二的課》一點都不真誠，艾爾邦自己都不相信；《麥迪遜之橋》也矯情得令人難受。\n\n深得… https://t.co/nQM3OrcHsd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            51,
+            57
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nQM3OrcHsd",
+          "expanded_url": "https://twitter.com/i/web/status/1395953455705976835",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1395590747282231297,
+    "in_reply_to_status_id_str": "1395590747282231297",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 22 00:54:13 +0000 2021",
+    "id": 1395905804998373379,
+    "id_str": "1395905804998373379",
+    "text": "《你不必受苦受難，也能上天堂》（The Lazy Man's Guide to Enlightenment），一本反動於新世紀心靈運動的特別書籍，什麼都不用做，已經站在開悟的道路上。\n\n真的美。\n\n人人都想娶的透明系女子：石田百合… https://t.co/lTGUua4QYU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lTGUua4QYU",
+          "expanded_url": "https://twitter.com/i/web/status/1395905804998373379",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 21 08:27:47 +0000 2021",
+    "id": 1395657563786473479,
+    "id_str": "1395657563786473479",
+    "text": "@keeper7478 @zmx 絕版書基本資料頁面還會在，這書應該有特殊狀況。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "keeper7478",
+          "name": "Keeper",
+          "id": 112723516,
+          "id_str": "112723516",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "zmx",
+          "name": "zmx",
+          "id": 14112898,
+          "id_str": "14112898",
+          "indices": [
+            12,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1395654890668498944,
+    "in_reply_to_status_id_str": "1395654890668498944",
+    "in_reply_to_user_id": 112723516,
+    "in_reply_to_user_id_str": "112723516",
+    "in_reply_to_screen_name": "keeper7478",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 21 04:46:25 +0000 2021",
+    "id": 1395601853648293888,
+    "id_str": "1395601853648293888",
+    "text": "剛才發推時完全沒注意，novel-writer 直排外掛的開發者是藤井太洋，科幻小說《軌道之雲》的作者，一舉奪得日本SF大獎、日本星雲獎、「Best SF 2014」第一名的三冠王。\n\n（但似乎在蠻多網路書店下架了，不知發生什麼事… https://t.co/uj9uzbFi0E",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uj9uzbFi0E",
+          "expanded_url": "https://twitter.com/i/web/status/1395601853648293888",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1395541620930482177,
+    "in_reply_to_status_id_str": "1395541620930482177",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1395589875819171841,
+    "quoted_status_id_str": "1395589875819171841",
+    "quoted_status": {
+      "created_at": "Fri May 21 03:58:49 +0000 2021",
+      "id": 1395589875819171841,
+      "id_str": "1395589875819171841",
+      "text": "@wastemobile thanks about your mention.  Yes, it works for traditional Chinese.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1395541620930482177,
+      "in_reply_to_status_id_str": "1395541620930482177",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 4554421,
+        "id_str": "4554421",
+        "name": "藤井 太洋, Taiyo Fujii",
+        "screen_name": "t_trace",
+        "location": "Tokyo Suginami",
+        "description": "writer, auther of ORBITAL CLOUD and Gene Mapper 『オービタル・クラウド』で日本SF大賞と星雲賞、『ハロー・ワールド』で第40回吉川英治文学新人賞を受賞しました。最新刊は2021年3月に講談社文庫から刊行された『ハロー・ワールド』",
+        "url": "https://t.co/YQlriCYgyi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/YQlriCYgyi",
+                "expanded_url": "http://taiyolab.com/",
+                "display_url": "taiyolab.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 11119,
+        "friends_count": 2062,
+        "listed_count": 475,
+        "created_at": "Sat Apr 14 00:22:19 +0000 2007",
+        "favourites_count": 7534,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 96545,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "B2DFDA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/875181058861314049/KRt4nvFx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/875181058861314049/KRt4nvFx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4554421/1616981491",
+        "profile_link_color": "93A644",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 21 04:02:17 +0000 2021",
+    "id": 1395590747282231297,
+    "id_str": "1395590747282231297",
+    "text": "又找出一本個人很喜歡 #關於書的書 ：Book Lust\n\n一本圖書館員寫給圖書館員的書，30年雜誌專欄集結、174個主題，每則一、兩頁篇幅，很像是讀者詢問圖書館員、書店店員時會得到的那種回答，哪些書最重要、從這幾本開始⋯⋯之類的… https://t.co/6DUHeDrA8K",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            11,
+            17
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6DUHeDrA8K",
+          "expanded_url": "https://twitter.com/i/web/status/1395590747282231297",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1395553005785686017,
+    "in_reply_to_status_id_str": "1395553005785686017",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri May 21 01:32:19 +0000 2021",
     "id": 1395553005785686017,
     "id_str": "1395553005785686017",
