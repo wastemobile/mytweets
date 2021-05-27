@@ -1,5 +1,550 @@
 Grailbird.data.tweets_2021_05 = [
   {
+    "created_at": "Thu May 27 02:13:32 +0000 2021",
+    "id": 1397737704444469248,
+    "id_str": "1397737704444469248",
+    "text": "原來全世界經營媒體付費訂閱制，達到10萬訂戶的只有38個。 #note #subscribe\n\nhttps://t.co/CxCXNk1ucT https://t.co/x1TWX7jktr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            30,
+            35
+          ]
+        },
+        {
+          "text": "subscribe",
+          "indices": [
+            36,
+            46
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CxCXNk1ucT",
+          "expanded_url": "https://bit.ly/3bY6k6V",
+          "display_url": "bit.ly/3bY6k6V",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1397737696848617474,
+          "id_str": "1397737696848617474",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/E2XDB53VoAI6abN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E2XDB53VoAI6abN.jpg",
+          "url": "https://t.co/x1TWX7jktr",
+          "display_url": "pic.twitter.com/x1TWX7jktr",
+          "expanded_url": "https://twitter.com/wastemobile/status/1397737704444469248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 389,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1170,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 686,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1397737696848617474,
+          "id_str": "1397737696848617474",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/E2XDB53VoAI6abN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E2XDB53VoAI6abN.jpg",
+          "url": "https://t.co/x1TWX7jktr",
+          "display_url": "pic.twitter.com/x1TWX7jktr",
+          "expanded_url": "https://twitter.com/wastemobile/status/1397737704444469248/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 389,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1170,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 686,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed May 26 14:45:06 +0000 2021",
+    "id": 1397564456234733572,
+    "id_str": "1397564456234733572",
+    "text": "柯P嗆美國不給疫苗、這可以接受啦，但他真的說「⋯⋯硬封城，比照極權國家，快篩陽性的放在『集中營』管理⋯⋯」耶！這樣說方艙不會太直白嗎～～\n\nhttps://t.co/bajMjFNZyM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bajMjFNZyM",
+          "expanded_url": "https://bit.ly/34l0M2k",
+          "display_url": "bit.ly/34l0M2k",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed May 26 08:42:17 +0000 2021",
+    "id": 1397473149432725505,
+    "id_str": "1397473149432725505",
+    "text": "RT @klc_ruoshui: https://t.co/leVZthHwHq\n\nQuote：\n全世界的問題是無法到貨，不是無法買，各國都是下了訂單給了錢但貨沒來，地方政府是有什麼本事覺得自己可以插別國和自己國家中央政府的隊。如果有人和你保證有疫苗現貨，那不是詐騙就是統戰，馬…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "klc_ruoshui",
+          "name": "KC",
+          "id": 2546368524,
+          "id_str": "2546368524",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/leVZthHwHq",
+          "expanded_url": "https://www.upmedia.mg/news_info.php?SerialNo=114246",
+          "display_url": "upmedia.mg/news_info.php?…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed May 26 08:15:48 +0000 2021",
+      "id": 1397466487133118464,
+      "id_str": "1397466487133118464",
+      "text": "https://t.co/leVZthHwHq\n\nQuote：\n全世界的問題是無法到貨，不是無法買，各國都是下了訂單給了錢但貨沒來，地方政府是有什麼本事覺得自己可以插別國和自己國家中央政府的隊。如果有人和你保證有疫苗現貨，那不是詐… https://t.co/pQLI7o1qx6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/leVZthHwHq",
+            "expanded_url": "https://www.upmedia.mg/news_info.php?SerialNo=114246",
+            "display_url": "upmedia.mg/news_info.php?…",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "https://t.co/pQLI7o1qx6",
+            "expanded_url": "https://twitter.com/i/web/status/1397466487133118464",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2546368524,
+        "id_str": "2546368524",
+        "name": "KC",
+        "screen_name": "klc_ruoshui",
+        "location": "Taiwan",
+        "description": "若水是我；厭世系肥宅大叔；不器用な男；廢推及各種轉文注意；幹話上手；沒有音樂和閱讀會死。Shoegaze最高！",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1679,
+        "friends_count": 1506,
+        "listed_count": 4,
+        "created_at": "Wed Jun 04 15:39:19 +0000 2014",
+        "favourites_count": 55036,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 666,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287707262266404864/3H-rrfta_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287707262266404864/3H-rrfta_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2546368524/1553524006",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 50,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed May 26 04:53:41 +0000 2021",
+    "id": 1397415623290867714,
+    "id_str": "1397415623290867714",
+    "text": "RT @in_somewhere: https://t.co/sRSuHWYFgi\n\n【高雄案例總整理：疫調完整防堵病毒擴散】\n\n從5月14日高雄出現第一例本土案例（案1289）以來，至5月25日為止，共累積28例本土案例，我們將這些案例全部繪製成圖，讓大家看一下關聯性，有一些…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "in_somewhere",
+          "name": "金醬厚| 戴口罩 勤洗手 打疫苗",
+          "id": 584930188,
+          "id_str": "584930188",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sRSuHWYFgi",
+          "expanded_url": "https://www.facebook.com/1041234089255951/posts/4129236210455708/?d=n",
+          "display_url": "facebook.com/10412340892559…",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed May 26 04:39:25 +0000 2021",
+      "id": 1397412032853385222,
+      "id_str": "1397412032853385222",
+      "text": "https://t.co/sRSuHWYFgi\n\n【高雄案例總整理：疫調完整防堵病毒擴散】\n\n從5月14日高雄出現第一例本土案例（案1289）以來，至5月25日為止，共累積28例本土案例，我們將這些案例全部繪製成圖，讓大家看一下關… https://t.co/6O314vpvF0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sRSuHWYFgi",
+            "expanded_url": "https://www.facebook.com/1041234089255951/posts/4129236210455708/?d=n",
+            "display_url": "facebook.com/10412340892559…",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "https://t.co/6O314vpvF0",
+            "expanded_url": "https://twitter.com/i/web/status/1397412032853385222",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 584930188,
+        "id_str": "584930188",
+        "name": "金醬厚| 戴口罩 勤洗手 打疫苗",
+        "screen_name": "in_somewhere",
+        "location": "Taiwan",
+        "description": "Anything Is Possible。 也沒什麼特別，平常就是看看書聽聽音樂，吹吹風。黑貓按讚專科。🙌台灣是我的國家🙌。自稱1450。基本禮貌 轉載請標示出處。 「願你能平凡而自由的活著」2021 如常",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2475,
+        "friends_count": 623,
+        "listed_count": 29,
+        "created_at": "Sat May 19 17:03:17 +0000 2012",
+        "favourites_count": 11006,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 37410,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1354409009780932611/ozjwK7pn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1354409009780932611/ozjwK7pn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/584930188/1609853561",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 64,
+      "favorite_count": 144,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 64,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed May 26 01:33:17 +0000 2021",
     "id": 1397365190304296960,
     "id_str": "1397365190304296960",
