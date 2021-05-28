@@ -1,5 +1,464 @@
 Grailbird.data.tweets_2021_05 = [
   {
+    "created_at": "Thu May 27 13:12:51 +0000 2021",
+    "id": 1397903629919477760,
+    "id_str": "1397903629919477760",
+    "text": "RT @KeithOlbermann: How shameful, Cena.\n\nTaiwan is a country - and a democracy. You just apologized to a dictatorship.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "KeithOlbermann",
+          "name": "Keith Olbermann",
+          "id": 130617778,
+          "id_str": "130617778",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue May 25 13:19:34 +0000 2021",
+      "id": 1397180542026665994,
+      "id_str": "1397180542026665994",
+      "text": "How shameful, Cena.\n\nTaiwan is a country - and a democracy. You just apologized to a dictatorship. https://t.co/rBx50uQgF6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rBx50uQgF6",
+            "expanded_url": "https://twitter.com/JoeXu/status/1396910262494457856",
+            "display_url": "twitter.com/JoeXu/status/1…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 130617778,
+        "id_str": "130617778",
+        "name": "Keith Olbermann",
+        "screen_name": "KeithOlbermann",
+        "location": "",
+        "description": "I’ve got to stay here, but there's no reason why you folks shouldn't go out into the lobby until this thing blows over. “Olbermann Vs ____” here and on YouTube.",
+        "url": "https://t.co/MEjciySR3I",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/MEjciySR3I",
+                "expanded_url": "https://www.youtube.com/c/worstperson",
+                "display_url": "youtube.com/c/worstperson",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1001842,
+        "friends_count": 1012,
+        "listed_count": 17682,
+        "created_at": "Wed Apr 07 20:43:27 +0000 2010",
+        "favourites_count": 166,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 131102,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1353517383382654978/wWNz1vxf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1353517383382654978/wWNz1vxf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/130617778/1621986755",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1396910262494457856,
+      "quoted_status_id_str": "1396910262494457856",
+      "quoted_status": {
+        "created_at": "Mon May 24 19:25:34 +0000 2021",
+        "id": 1396910262494457856,
+        "id_str": "1396910262494457856",
+        "text": "John Cena apologized in Chinese on Sina Weibo after calling Taiwan a country during an interview promoting Fast &amp; F… https://t.co/TCLJIre1Lc",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/TCLJIre1Lc",
+              "expanded_url": "https://twitter.com/i/web/status/1396910262494457856",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                121,
+                144
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 20450982,
+          "id_str": "20450982",
+          "name": "Joe Xu",
+          "screen_name": "JoeXu",
+          "location": "Stuck in Hong Kong",
+          "description": "PhD candidate in Media & Cultural Studies @UWCommarts. Former journalist and documentarian. Working (and researching) in the Chinese mobile tech/game industry.",
+          "url": "https://t.co/lbBBJbKacT",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/lbBBJbKacT",
+                  "expanded_url": "https://commarts.wisc.edu/staff/xu-joe/",
+                  "display_url": "commarts.wisc.edu/staff/xu-joe/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2219,
+          "friends_count": 906,
+          "listed_count": 122,
+          "created_at": "Mon Feb 09 17:39:26 +0000 2009",
+          "favourites_count": 1039,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3000,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1390555569174589441/kCJU7xRv_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390555569174589441/kCJU7xRv_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/20450982/1620369258",
+          "profile_link_color": "2FC2EF",
+          "profile_sidebar_border_color": "181A1E",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "666666",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3193,
+        "favorite_count": 11845,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 474,
+      "favorite_count": 1642,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1396910262494457856,
+    "quoted_status_id_str": "1396910262494457856",
+    "retweet_count": 474,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 27 09:58:43 +0000 2021",
+    "id": 1397854774779801602,
+    "id_str": "1397854774779801602",
+    "text": "參照日本圖書館協會的「圖書館自由宣言」第四章第32條：圖書館必須保守使用者的祕密。\n\n請支援《圖書館戰爭》！ https://t.co/t8ZBOIMtiq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t8ZBOIMtiq",
+          "expanded_url": "https://twitter.com/asahi/status/1397812337898246144",
+          "display_url": "twitter.com/asahi/status/1…",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1397812337898246144,
+    "quoted_status_id_str": "1397812337898246144",
+    "quoted_status": {
+      "created_at": "Thu May 27 07:10:06 +0000 2021",
+      "id": 1397812337898246144,
+      "id_str": "1397812337898246144",
+      "text": "図書館の貸し出し履歴、捜査機関に提供　16年間で急増 https://t.co/D0iSiGneiG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/D0iSiGneiG",
+            "expanded_url": "http://www.asahi.com/articles/ASP5V45Q1P5MUTIL03Z.html?ref=tw_asahi",
+            "display_url": "asahi.com/articles/ASP5V…",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hornetcrm.jp/\" rel=\"nofollow\">hornet</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 42816371,
+        "id_str": "42816371",
+        "name": "朝日新聞(asahi shimbun）",
+        "screen_name": "asahi",
+        "location": "東京都中央区",
+        "description": "朝日新聞社が運営する公式ニュースアカウントです。最新のニュース速報や旬の話題を配信します。朝日新聞社からのお知らせやお得な情報も時々流れます。Facebookページは http://t.co/qKDxsI6YnX です。",
+        "url": "http://t.co/KAw1Ty80Mq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/KAw1Ty80Mq",
+                "expanded_url": "http://www.asahi.com",
+                "display_url": "asahi.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/qKDxsI6YnX",
+                "expanded_url": "http://www.facebook.com/asahicom",
+                "display_url": "facebook.com/asahicom",
+                "indices": [
+                  84,
+                  106
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1287966,
+        "friends_count": 316,
+        "listed_count": 41788,
+        "created_at": "Wed May 27 04:37:57 +0000 2009",
+        "favourites_count": 38,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 352268,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278264370623963138/r0QWCaBf_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278264370623963138/r0QWCaBf_normal.png",
+        "profile_link_color": "9D582E",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 982,
+      "favorite_count": 877,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu May 27 02:13:32 +0000 2021",
     "id": 1397737704444469248,
     "id_str": "1397737704444469248",
