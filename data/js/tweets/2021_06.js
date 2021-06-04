@@ -1,5 +1,739 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Fri Jun 04 03:07:28 +0000 2021",
+    "id": 1400650380510302212,
+    "id_str": "1400650380510302212",
+    "text": "RT @AndyLee830914: 起飛 😭😭😭\n\n便名 JL809 Tokyo発 \nhttps://t.co/FzH5fyDKLa https://t.co/QdPPvGpaTE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AndyLee830914",
+          "name": "🌈 Andy Lee",
+          "id": 61830189,
+          "id_str": "61830189",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FzH5fyDKLa",
+          "expanded_url": "https://fr24.com/JAL809/27eea001",
+          "display_url": "fr24.com/JAL809/27eea001",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1400648990270529538,
+          "id_str": "1400648990270529538",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3Aa1fAVoAIbHm_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3Aa1fAVoAIbHm_.jpg",
+          "url": "https://t.co/QdPPvGpaTE",
+          "display_url": "pic.twitter.com/QdPPvGpaTE",
+          "expanded_url": "https://twitter.com/AndyLee830914/status/1400648995064586240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1400648995064586240,
+          "source_status_id_str": "1400648995064586240",
+          "source_user_id": 61830189,
+          "source_user_id_str": "61830189"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1400648990270529538,
+          "id_str": "1400648990270529538",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3Aa1fAVoAIbHm_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3Aa1fAVoAIbHm_.jpg",
+          "url": "https://t.co/QdPPvGpaTE",
+          "display_url": "pic.twitter.com/QdPPvGpaTE",
+          "expanded_url": "https://twitter.com/AndyLee830914/status/1400648995064586240/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1400648995064586240,
+          "source_status_id_str": "1400648995064586240",
+          "source_user_id": 61830189,
+          "source_user_id_str": "61830189"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 04 03:01:57 +0000 2021",
+      "id": 1400648995064586240,
+      "id_str": "1400648995064586240",
+      "text": "起飛 😭😭😭\n\n便名 JL809 Tokyo発 \nhttps://t.co/FzH5fyDKLa https://t.co/QdPPvGpaTE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FzH5fyDKLa",
+            "expanded_url": "https://fr24.com/JAL809/27eea001",
+            "display_url": "fr24.com/JAL809/27eea001",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1400648990270529538,
+            "id_str": "1400648990270529538",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/E3Aa1fAVoAIbHm_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E3Aa1fAVoAIbHm_.jpg",
+            "url": "https://t.co/QdPPvGpaTE",
+            "display_url": "pic.twitter.com/QdPPvGpaTE",
+            "expanded_url": "https://twitter.com/AndyLee830914/status/1400648995064586240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1400648990270529538,
+            "id_str": "1400648990270529538",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/E3Aa1fAVoAIbHm_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E3Aa1fAVoAIbHm_.jpg",
+            "url": "https://t.co/QdPPvGpaTE",
+            "display_url": "pic.twitter.com/QdPPvGpaTE",
+            "expanded_url": "https://twitter.com/AndyLee830914/status/1400648995064586240/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 314,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 554,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 946,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 61830189,
+        "id_str": "61830189",
+        "name": "🌈 Andy Lee",
+        "screen_name": "AndyLee830914",
+        "location": "Kyoto, Japan",
+        "description": "#人好好的為什麼要讀博班",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 768,
+        "friends_count": 637,
+        "listed_count": 18,
+        "created_at": "Fri Jul 31 17:55:41 +0000 2009",
+        "favourites_count": 86147,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 42233,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250336248423567361/hvmRDQgE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250336248423567361/hvmRDQgE_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/61830189/1561184299",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 66,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jun 04 02:56:52 +0000 2021",
+    "id": 1400647712584830984,
+    "id_str": "1400647712584830984",
+    "text": "2006年起Goodreads, aNobii與羽毛網相繼上線測試，逛書架變成了刷網頁，以前可沒這麼容易。\n\n2004《逛書架》、2005《逛逛書架》，這兩本漫遊者總編在邊城時期出版的mook，代讀者潛入許多愛書人的書房、拍攝書架… https://t.co/qsq9uHGkIP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qsq9uHGkIP",
+          "expanded_url": "https://twitter.com/i/web/status/1400647712584830984",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1400301397753491459,
+    "in_reply_to_status_id_str": "1400301397753491459",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 03 13:25:18 +0000 2021",
+    "id": 1400443477192634384,
+    "id_str": "1400443477192634384",
+    "text": "@ijliao 供參 https://t.co/7Pj2tE5j2v",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ijliao",
+          "name": "Ying-Chieh Liao",
+          "id": 2795511,
+          "id_str": "2795511",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7Pj2tE5j2v",
+          "expanded_url": "https://twitter.com/wastemobile/status/658681314430750720",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            11,
+            34
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1400442983850287105,
+    "in_reply_to_status_id_str": "1400442983850287105",
+    "in_reply_to_user_id": 2795511,
+    "in_reply_to_user_id_str": "2795511",
+    "in_reply_to_screen_name": "ijliao",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 658681314430750720,
+    "quoted_status_id_str": "658681314430750720",
+    "quoted_status": {
+      "created_at": "Mon Oct 26 16:27:17 +0000 2015",
+      "id": 658681314430750720,
+      "id_str": "658681314430750720",
+      "text": "研究虛構邪惡企業（Evil corporation/megacorp）時，發現原來台灣真的有這種巨商會議，虛構小說中的企業治國根本就是真的... https://t.co/ZPDPvjsFLx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZPDPvjsFLx",
+            "expanded_url": "https://goo.gl/CJP4xD",
+            "display_url": "goo.gl/CJP4xD",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "每塊石頭裡都有一座雕像。",
+        "url": "https://t.co/5LQVtqARrN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5LQVtqARrN",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4979,
+        "friends_count": 1198,
+        "listed_count": 128,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3560,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 23505,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1573835714",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Jun 03 13:05:49 +0000 2021",
+    "id": 1400438574768480263,
+    "id_str": "1400438574768480263",
+    "text": "這台～\n\n［ WhereJimnyGo ] 一個人│極簡露營│夜景、螢火蟲、美食 https://t.co/3G3xizH7k9 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            68,
+            76
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3G3xizH7k9",
+          "expanded_url": "https://youtu.be/8p-zNYTKf2c",
+          "display_url": "youtu.be/8p-zNYTKf2c",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1400382758392786948,
+    "in_reply_to_status_id_str": "1400382758392786948",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 03 11:19:12 +0000 2021",
+    "id": 1400411741498974209,
+    "id_str": "1400411741498974209",
+    "text": "真的是有被那八大工商團體進府施壓的新聞噁心到，一週後你能買到250萬劑？\n\n民間吵捐買疫苗的就兩類：\n\n第一類是意在中國製或中國分裝疫苗的買辦與掮客，第二類是純刷名聲、搞不清楚狀況的投機者。\n\n所以他們是哪類？\n\nhttps://t.co/BE7AgrpWWX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BE7AgrpWWX",
+          "expanded_url": "https://bit.ly/34HhSay",
+          "display_url": "bit.ly/34HhSay",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1400111448345354241,
+    "in_reply_to_status_id_str": "1400111448345354241",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 03 09:24:02 +0000 2021",
+    "id": 1400382758392786948,
+    "id_str": "1400382758392786948",
+    "text": "也有在YouTube上看過台灣女生開一台白色Jimny上山下海、極簡露營，真是台很好玩的車呢。\n\n展開 Suzuki Jimny 車宿模式，女子 Solo Camp Style 有何不可！… https://t.co/feEFaWfodk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/feEFaWfodk",
+          "expanded_url": "https://twitter.com/i/web/status/1400382758392786948",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jun 03 04:00:44 +0000 2021",
     "id": 1400301397753491459,
     "id_str": "1400301397753491459",
