@@ -1,5 +1,416 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Sun Jun 06 00:25:21 +0000 2021",
+    "id": 1401334358867275776,
+    "id_str": "1401334358867275776",
+    "text": "果然收到伴手禮～ 讚啦 https://t.co/ITDJdbNbBo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ITDJdbNbBo",
+          "expanded_url": "https://twitter.com/tw_nextmedia/status/1401333959661735940",
+          "display_url": "twitter.com/tw_nextmedia/s…",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1400698022548303881,
+    "in_reply_to_status_id_str": "1400698022548303881",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1401333959661735940,
+    "quoted_status_id_str": "1401333959661735940",
+    "quoted_status": {
+      "created_at": "Sun Jun 06 00:23:46 +0000 2021",
+      "id": 1401333959661735940,
+      "id_str": "1401333959661735940",
+      "text": "美跨黨派3參議員帶來好消息！搭軍機抵台比讚　宣布捐贈台灣75萬劑 #疫苗\n#蘋果新聞網 #appledailytw #appledaily #武漢肺炎 #2019新型冠狀病毒 #新型冠狀病毒 #防疫 #疫情… https://t.co/otk9pml3uD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "疫苗",
+            "indices": [
+              33,
+              36
+            ]
+          },
+          {
+            "text": "蘋果新聞網",
+            "indices": [
+              37,
+              43
+            ]
+          },
+          {
+            "text": "appledailytw",
+            "indices": [
+              44,
+              57
+            ]
+          },
+          {
+            "text": "appledaily",
+            "indices": [
+              58,
+              69
+            ]
+          },
+          {
+            "text": "武漢肺炎",
+            "indices": [
+              70,
+              75
+            ]
+          },
+          {
+            "text": "2019新型冠狀病毒",
+            "indices": [
+              76,
+              87
+            ]
+          },
+          {
+            "text": "新型冠狀病毒",
+            "indices": [
+              88,
+              95
+            ]
+          },
+          {
+            "text": "防疫",
+            "indices": [
+              96,
+              99
+            ]
+          },
+          {
+            "text": "疫情",
+            "indices": [
+              100,
+              103
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/otk9pml3uD",
+            "expanded_url": "https://twitter.com/i/web/status/1401333959661735940",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 40813384,
+        "id_str": "40813384",
+        "name": "蘋果新聞網 Taiwan News",
+        "screen_name": "TW_nextmedia",
+        "location": "Taipei, Taiwan ROC",
+        "description": "為台灣本地和世界華人帶來最新的新聞娛樂資訊！Apple Daily is the largest news media group in Taiwan with live streaming, breaking news and animated news for local and global readers.",
+        "url": "https://t.co/atmHp4v8k7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/atmHp4v8k7",
+                "expanded_url": "https://tw.appledaily.com/",
+                "display_url": "tw.appledaily.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 986938,
+        "friends_count": 195,
+        "listed_count": 2496,
+        "created_at": "Mon May 18 04:28:58 +0000 2009",
+        "favourites_count": 4948,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 139400,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40813384/1564537596",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 24,
+      "favorite_count": 116,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 05 08:52:00 +0000 2021",
+    "id": 1401099472281604100,
+    "id_str": "1401099472281604100",
+    "text": "來看看兩大週刊火速整理的疫苗資訊究竟如何。 https://t.co/nDWjMCBQ9U",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1401099458503340038,
+          "id_str": "1401099458503340038",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3G0iL8VcAYgWFR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3G0iL8VcAYgWFR.jpg",
+          "url": "https://t.co/nDWjMCBQ9U",
+          "display_url": "pic.twitter.com/nDWjMCBQ9U",
+          "expanded_url": "https://twitter.com/wastemobile/status/1401099472281604100/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1401099458503340038,
+          "id_str": "1401099458503340038",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3G0iL8VcAYgWFR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3G0iL8VcAYgWFR.jpg",
+          "url": "https://t.co/nDWjMCBQ9U",
+          "display_url": "pic.twitter.com/nDWjMCBQ9U",
+          "expanded_url": "https://twitter.com/wastemobile/status/1401099472281604100/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 05 04:24:04 +0000 2021",
+    "id": 1401032047284551685,
+    "id_str": "1401032047284551685",
+    "text": "看了Kobo Elipsa與Remarkable 2的比較，也讀了使用者指南，雖說它確實可以在從書城購買的ePub做手寫備註，但僅在Elipsa設備上，不會轉移到其他閱讀應用或閱讀器上。\n\n確定能自由同步手寫備註的就是無保護的PD… https://t.co/rBaqKwYfA1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rBaqKwYfA1",
+          "expanded_url": "https://twitter.com/i/web/status/1401032047284551685",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1399926930174996483,
+    "in_reply_to_status_id_str": "1399926930174996483",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jun 04 08:08:44 +0000 2021",
     "id": 1400726198867562496,
     "id_str": "1400726198867562496",
