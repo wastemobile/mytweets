@@ -1,5 +1,647 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Mon Jun 07 05:29:03 +0000 2021",
+    "id": 1401773174178541571,
+    "id_str": "1401773174178541571",
+    "text": "這本《編集時代》我也大推！若在二手書店偶遇千萬別放過。 #關於書的書\n\n若把每頁密密麻麻根本擺不下的註解算進去，根本就是日本現當代文化與次文化的名人百科，知識含量破表。 https://t.co/LYCooZL7Mo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            28,
+            34
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LYCooZL7Mo",
+          "expanded_url": "https://twitter.com/ringshen3_0/status/1400808289319874563",
+          "display_url": "twitter.com/ringshen3_0/st…",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1401764351179034625,
+    "in_reply_to_status_id_str": "1401764351179034625",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1400808289319874563,
+    "quoted_status_id_str": "1400808289319874563",
+    "quoted_status": {
+      "created_at": "Fri Jun 04 13:34:56 +0000 2021",
+      "id": 1400808289319874563,
+      "id_str": "1400808289319874563",
+      "text": "#編集時代 收錄不同領域編輯的訪談，原僅姑且一讀，其中一篇卻大大影響了我：以 #書店編輯 為職稱的幅允孝。他專門幫人規劃書店與選書，我以其概念做了在台灣的最後一個開店提案；換工作後也用過同樣的職稱，惜環境無法配合。至今這仍是我的夢… https://t.co/9n62sD9G2Y",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "編集時代",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "書店編輯",
+            "indices": [
+              39,
+              44
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9n62sD9G2Y",
+            "expanded_url": "https://twitter.com/i/web/status/1400808289319874563",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1400465192497016844,
+      "in_reply_to_status_id_str": "1400465192497016844",
+      "in_reply_to_user_id": 1267430610584268800,
+      "in_reply_to_user_id_str": "1267430610584268800",
+      "in_reply_to_screen_name": "ringshen3_0",
+      "user": {
+        "id": 1267430610584268800,
+        "id_str": "1267430610584268800",
+        "name": "Ring💍",
+        "screen_name": "ringshen3_0",
+        "location": "",
+        "description": "「人生不過是個圈套，看你是否心甘情願而已。」\n理科生、不自由工作者。主修書店學，副修出版學程，守備範圍：撰稿、編輯、企劃、策展、零售空間規劃，文章散見閱讀相關雜誌及媒體。#推特讀。\n#圈套 電子報｜每月雙刊：https://t.co/EJitYzrZrS",
+        "url": "https://t.co/FSj4K6W007",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FSj4K6W007",
+                "expanded_url": "https://ringshen.medium.com/",
+                "display_url": "ringshen.medium.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/EJitYzrZrS",
+                "expanded_url": "http://ringshen.substack.com",
+                "display_url": "ringshen.substack.com",
+                "indices": [
+                  104,
+                  127
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 363,
+        "friends_count": 223,
+        "listed_count": 5,
+        "created_at": "Mon Jun 01 12:19:53 +0000 2020",
+        "favourites_count": 6002,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5779,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400686162839179267/dl3zRf_i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400686162839179267/dl3zRf_i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267430610584268800/1606656037",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 07 04:53:59 +0000 2021",
+    "id": 1401764351179034625,
+    "id_str": "1401764351179034625",
+    "text": "「10年後會留在書架上的100本書」\n\n當初就是被書名吸引，中譯本也買來對照。書選得不差，商管、財經與實用類居多，但也有了解人類與歷史的選書，例如《槍炮、病菌與鋼鐵》。 #關於書的書\n\n諷刺的是，這本書留在書店架上的時間並不太長～～ https://t.co/hiBXrVrOeH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            85,
+            91
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1401764342970785795,
+          "id_str": "1401764342970785795",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3QRPjmVIAMl-Rb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3QRPjmVIAMl-Rb.jpg",
+          "url": "https://t.co/hiBXrVrOeH",
+          "display_url": "pic.twitter.com/hiBXrVrOeH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1401764351179034625/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1401764342970785795,
+          "id_str": "1401764342970785795",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3QRPjmVIAMl-Rb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3QRPjmVIAMl-Rb.jpg",
+          "url": "https://t.co/hiBXrVrOeH",
+          "display_url": "pic.twitter.com/hiBXrVrOeH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1401764351179034625/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1401764342974926848,
+          "id_str": "1401764342974926848",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3QRPjnUUAAbwfp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3QRPjnUUAAbwfp.jpg",
+          "url": "https://t.co/hiBXrVrOeH",
+          "display_url": "pic.twitter.com/hiBXrVrOeH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1401764351179034625/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1400647712584830984,
+    "in_reply_to_status_id_str": "1400647712584830984",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 07 03:54:10 +0000 2021",
+    "id": 1401749296270036992,
+    "id_str": "1401749296270036992",
+    "text": "@Tomky_Wang NCC確實有編簡訊實聯制80億則簡訊、每則0.1元的預算。\n\n政府支付電信商費用其實並沒問題，只是單純相較其他各行各業受到疫情影響的程度來看，這幾個電信業者不僅本就夠大、且又幾乎不受影響（甚至還逆勢成長），… https://t.co/PEqZiouVp1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Tomky_Wang",
+          "name": "Tomky",
+          "id": 8956392,
+          "id_str": "8956392",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PEqZiouVp1",
+          "expanded_url": "https://twitter.com/i/web/status/1401749296270036992",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1401746907513311233,
+    "in_reply_to_status_id_str": "1401746907513311233",
+    "in_reply_to_user_id": 8956392,
+    "in_reply_to_user_id_str": "8956392",
+    "in_reply_to_screen_name": "Tomky_Wang",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 07 03:41:14 +0000 2021",
+    "id": 1401746043159547907,
+    "id_str": "1401746043159547907",
+    "text": "電信產業應該是疫情期間少數能業績持續增長的，五大電信應該趕快宣布吸收簡訊實名制那8億費用，政府編列預算支應沒有錯，但分攤下去這些成本對電信商來說根本是零頭，做個面子給政府和唐鳳，何樂而不為。 https://t.co/sPMHHKIIav",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sPMHHKIIav",
+          "expanded_url": "https://twitter.com/hhcwt/status/1401743884623900675",
+          "display_url": "twitter.com/hhcwt/status/1…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1401743884623900675,
+    "quoted_status_id_str": "1401743884623900675",
+    "quoted_status": {
+      "created_at": "Mon Jun 07 03:32:39 +0000 2021",
+      "id": 1401743884623900675,
+      "id_str": "1401743884623900675",
+      "text": "「根據調查，升速客戶數較停課前成長約10%，觀察整體停課後訊務量，平均下載量（Mbps）較停課前提升10%、上傳量（Mbps）較停課前提升7%。」\n\n//\n\"居家上班 電信高頻寬用戶大增 - 自由財經\" ( https://t.co/Rxe98bnFLf )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Rxe98bnFLf",
+            "expanded_url": "https://ec.ltn.com.tw/article/paper/1453304",
+            "display_url": "ec.ltn.com.tw/article/paper/…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 181851152,
+        "id_str": "181851152",
+        "name": "碰氣",
+        "screen_name": "hhcwt",
+        "location": "Taiwan",
+        "description": "窩偏要。",
+        "url": "https://t.co/jNHJCiPC6O",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/jNHJCiPC6O",
+                "expanded_url": "http://hhcwt.medium.com",
+                "display_url": "hhcwt.medium.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10527,
+        "friends_count": 2066,
+        "listed_count": 61,
+        "created_at": "Mon Aug 23 05:57:33 +0000 2010",
+        "favourites_count": 467691,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 20874,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381854911235690497/UFgWb7lw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381854911235690497/UFgWb7lw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/181851152/1609527284",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 06 11:33:58 +0000 2021",
+    "id": 1401502620691308547,
+    "id_str": "1401502620691308547",
+    "text": "張忠謀說台灣科技業最大優勢是薪資水平（低），原來還包含雇用這麼多移工⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 06 00:25:21 +0000 2021",
     "id": 1401334358867275776,
     "id_str": "1401334358867275776",
