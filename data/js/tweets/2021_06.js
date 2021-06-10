@@ -1,5 +1,504 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Thu Jun 10 02:57:18 +0000 2021",
+    "id": 1402822148436094976,
+    "id_str": "1402822148436094976",
+    "text": "十多年前台灣第一本寺山修司翻譯作品《幻想圖書館》，他的私閱讀與靈感來源，各種怪誕的閱讀主題，絕對印證「你就是你所讀過的書」。 #關於書的書\n\n不知如何介紹這位瘋狂的怪傑，初次看到他全身漆白的舞踏劇場時，下巴快掉下來。\n\n簡體版今年… https://t.co/T4XjjMYcIK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            63,
+            69
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T4XjjMYcIK",
+          "expanded_url": "https://twitter.com/i/web/status/1402822148436094976",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1402482061441572865,
+    "in_reply_to_status_id_str": "1402482061441572865",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 09 15:55:45 +0000 2021",
+    "id": 1402655667379339266,
+    "id_str": "1402655667379339266",
+    "text": "RT @StarRocket: 你還記得 2007 年美國次貸危機以及隨後引發的全球金融海嘯嗎？現在有人主張：支撐網際網路的數位廣告正在醞釀一場次貸危機。《#星箭廣播》再度邀請到 iCook 愛料理共同創辦人兼技術長 @dlackty 來聊聊一本書：《Subprime Atte…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "星箭廣播",
+          "indices": [
+            78,
+            83
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "StarRocket",
+          "name": "三創育成 Star Rocket",
+          "id": 3248407692,
+          "id_str": "3248407692",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "dlackty",
+          "name": "Richard Lee",
+          "id": 6967662,
+          "id_str": "6967662",
+          "indices": [
+            109,
+            117
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jun 09 09:17:16 +0000 2021",
+      "id": 1402555382753480705,
+      "id_str": "1402555382753480705",
+      "text": "你還記得 2007 年美國次貸危機以及隨後引發的全球金融海嘯嗎？現在有人主張：支撐網際網路的數位廣告正在醞釀一場次貸危機。《#星箭廣播》再度邀請到 iCook 愛料理共同創辦人兼技術長 @dlackty 來聊聊一本書：《Subpr… https://t.co/iqk9GVL1fM",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "星箭廣播",
+            "indices": [
+              62,
+              67
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "dlackty",
+            "name": "Richard Lee",
+            "id": 6967662,
+            "id_str": "6967662",
+            "indices": [
+              93,
+              101
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iqk9GVL1fM",
+            "expanded_url": "https://twitter.com/i/web/status/1402555382753480705",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3248407692,
+        "id_str": "3248407692",
+        "name": "三創育成 Star Rocket",
+        "screen_name": "StarRocket",
+        "location": "台北市, 台灣",
+        "description": "我們是非營利的創新育成機構， 以「人」為核心，「科技」為養分，致力成為最開放的創新育成空間，提供創業者一同工作與腦力激盪的舒適環境，並透過自辦課程跟活動策展，活絡台灣創新與技術社群，並培育創新創業人才；同時，也透過內容產製跟資料庫的建立，追蹤紀錄創新故事，啟發人們踏入創新航道。",
+        "url": "https://t.co/lbSAgkMI0I",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/lbSAgkMI0I",
+                "expanded_url": "https://www.starrocket.io/",
+                "display_url": "starrocket.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 977,
+        "friends_count": 0,
+        "listed_count": 18,
+        "created_at": "Thu Jun 18 06:25:58 +0000 2015",
+        "favourites_count": 149,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2582,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167357342721032192/Gxo6UXVc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167357342721032192/Gxo6UXVc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3248407692/1556248260",
+        "profile_link_color": "CA4941",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 09 15:25:07 +0000 2021",
+    "id": 1402647956419874817,
+    "id_str": "1402647956419874817",
+    "text": "這個地方有點維尼，要改一下，呵呵XD\n\n《電馭叛客2077》用代號「小熊維尼」標示中國會審查的遊戲內容 https://t.co/2uSl9QTZ6A https://t.co/6xQs4o2W4R",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2uSl9QTZ6A",
+          "expanded_url": "https://bit.ly/3pzRVUh",
+          "display_url": "bit.ly/3pzRVUh",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1402647950065500162,
+          "id_str": "1402647950065500162",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3c04QiVgAIHAXj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3c04QiVgAIHAXj.jpg",
+          "url": "https://t.co/6xQs4o2W4R",
+          "display_url": "pic.twitter.com/6xQs4o2W4R",
+          "expanded_url": "https://twitter.com/wastemobile/status/1402647956419874817/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 673,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1214,
+              "h": 681,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 381,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1402647950065500162,
+          "id_str": "1402647950065500162",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3c04QiVgAIHAXj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3c04QiVgAIHAXj.jpg",
+          "url": "https://t.co/6xQs4o2W4R",
+          "display_url": "pic.twitter.com/6xQs4o2W4R",
+          "expanded_url": "https://twitter.com/wastemobile/status/1402647956419874817/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 673,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1214,
+              "h": 681,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 381,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1386864156624625664,
+    "in_reply_to_status_id_str": "1386864156624625664",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 09 08:33:23 +0000 2021",
+    "id": 1402544339914354688,
+    "id_str": "1402544339914354688",
+    "text": "妖魔鬼怪現形記。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 09 04:25:54 +0000 2021",
+    "id": 1402482061441572865,
+    "id_str": "1402482061441572865",
+    "text": "談文學當然就會推薦許多讀物，也可以歸入 #關於書的書 。耶魯小歷史系列還有經濟學、科學、哲學等，都很容易讀。\n\n深入淺出其實最難，旁徵博引、且能幾句話點出某本書在當時與對後世的影響，也很適合讓青少年閱讀，學習做出自己的閱讀選擇。… https://t.co/rPfE1gjxh8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            20,
+            26
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rPfE1gjxh8",
+          "expanded_url": "https://twitter.com/i/web/status/1402482061441572865",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1402132781442818048,
+    "in_reply_to_status_id_str": "1402132781442818048",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jun 09 02:15:59 +0000 2021",
     "id": 1402449364597891073,
     "id_str": "1402449364597891073",
