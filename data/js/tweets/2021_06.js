@@ -1,5 +1,325 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Fri Jun 11 03:41:39 +0000 2021",
+    "id": 1403195699399782408,
+    "id_str": "1403195699399782408",
+    "text": "《完美的真空》虛構出十幾本不存在的書，認真替每一本寫書評，再集結成一本真實的 #關於書的書。\n\n就像村上在《聽風的歌》虛構了哈德費爾，這種「虛構撐著虛構」的精巧佈局很讓人著迷。\n\nPs.簡繁是相同譯本。… https://t.co/ZRw6xBAO5A",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            39,
+            45
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZRw6xBAO5A",
+          "expanded_url": "https://twitter.com/i/web/status/1403195699399782408",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1402822148436094976,
+    "in_reply_to_status_id_str": "1402822148436094976",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 11 03:07:21 +0000 2021",
+    "id": 1403187068273004548,
+    "id_str": "1403187068273004548",
+    "text": "認錯，順便精準定位自己是權貴。 https://t.co/VO0ZwiQiYw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VO0ZwiQiYw",
+          "expanded_url": "https://twitter.com/tw_nextmedia/status/1403185223496396803",
+          "display_url": "twitter.com/tw_nextmedia/s…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1402544339914354688,
+    "in_reply_to_status_id_str": "1402544339914354688",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1403185223496396803,
+    "quoted_status_id_str": "1403185223496396803",
+    "quoted_status": {
+      "created_at": "Fri Jun 11 03:00:01 +0000 2021",
+      "id": 1403185223496396803,
+      "id_str": "1403185223496396803",
+      "text": "時力議員廖郁賢也搶打疫苗！遭送紀律委員會　黨主席陳椒華認錯：權貴的命不該優先\n#蘋果政治 #武漢肺炎 #新型冠狀病毒 #新冠肺炎 #防疫 #疫情 #COVID19 #疫苗 #特權 #時代力量 #廖郁賢 #陳椒華 #蘋果新聞網… https://t.co/xoQRUIWN6Z",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "蘋果政治",
+            "indices": [
+              39,
+              44
+            ]
+          },
+          {
+            "text": "武漢肺炎",
+            "indices": [
+              45,
+              50
+            ]
+          },
+          {
+            "text": "新型冠狀病毒",
+            "indices": [
+              51,
+              58
+            ]
+          },
+          {
+            "text": "新冠肺炎",
+            "indices": [
+              59,
+              64
+            ]
+          },
+          {
+            "text": "防疫",
+            "indices": [
+              65,
+              68
+            ]
+          },
+          {
+            "text": "疫情",
+            "indices": [
+              69,
+              72
+            ]
+          },
+          {
+            "text": "COVID19",
+            "indices": [
+              73,
+              81
+            ]
+          },
+          {
+            "text": "疫苗",
+            "indices": [
+              82,
+              85
+            ]
+          },
+          {
+            "text": "特權",
+            "indices": [
+              86,
+              89
+            ]
+          },
+          {
+            "text": "時代力量",
+            "indices": [
+              90,
+              95
+            ]
+          },
+          {
+            "text": "廖郁賢",
+            "indices": [
+              96,
+              100
+            ]
+          },
+          {
+            "text": "陳椒華",
+            "indices": [
+              101,
+              105
+            ]
+          },
+          {
+            "text": "蘋果新聞網",
+            "indices": [
+              106,
+              112
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xoQRUIWN6Z",
+            "expanded_url": "https://twitter.com/i/web/status/1403185223496396803",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 40813384,
+        "id_str": "40813384",
+        "name": "蘋果新聞網 Taiwan News",
+        "screen_name": "TW_nextmedia",
+        "location": "Taipei, Taiwan ROC",
+        "description": "為台灣本地和世界華人帶來最新的新聞娛樂資訊！Apple Daily is the largest news media group in Taiwan with live streaming, breaking news and animated news for local and global readers.",
+        "url": "https://t.co/atmHp4v8k7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/atmHp4v8k7",
+                "expanded_url": "https://tw.appledaily.com/",
+                "display_url": "tw.appledaily.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 983082,
+        "friends_count": 195,
+        "listed_count": 2496,
+        "created_at": "Mon May 18 04:28:58 +0000 2009",
+        "favourites_count": 4970,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 139801,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40813384/1564537596",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jun 10 02:57:18 +0000 2021",
     "id": 1402822148436094976,
     "id_str": "1402822148436094976",
