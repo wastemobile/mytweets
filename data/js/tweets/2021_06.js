@@ -1,5 +1,760 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Sat Jun 12 05:06:17 +0000 2021",
+    "id": 1403579386184355841,
+    "id_str": "1403579386184355841",
+    "text": "2008《阿宅正傳》\n\n漫遊者新版改名《貧民窟宅男的世界末日》（相同譯本），書中充滿著街頭俚語、新世代語言、電玩遊戲與奇幻科幻文學典故，結構與語法新穎且詭異，可以看三遍。\n\n推特曾謠傳主角原型是 @OOBE ，未經當事人證實，無法… https://t.co/7m1tcsTaFG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OOBE",
+          "name": "OOBE",
+          "id": 4496321,
+          "id_str": "4496321",
+          "indices": [
+            98,
+            103
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7m1tcsTaFG",
+          "expanded_url": "https://twitter.com/i/web/status/1403579386184355841",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1403570277078867968,
+    "in_reply_to_status_id_str": "1403570277078867968",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 32672260103864320,
+    "quoted_status_id_str": "32672260103864320",
+    "quoted_status": {
+      "created_at": "Wed Feb 02 05:30:48 +0000 2011",
+      "id": 32672260103864320,
+      "id_str": "32672260103864320",
+      "text": "@Lydia618 我最近在看《貧民窟宅男的世界末日》，其實我懷疑作者是以@OOBE 為男主角原型所寫成的。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Lydia618",
+            "name": "Lydia Lu",
+            "id": 1978941,
+            "id_str": "1978941",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "OOBE",
+            "name": "OOBE",
+            "id": 4496321,
+            "id_str": "4496321",
+            "indices": [
+              37,
+              42
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_status_id": 32671638398959617,
+      "in_reply_to_status_id_str": "32671638398959617",
+      "in_reply_to_user_id": 1978941,
+      "in_reply_to_user_id_str": "1978941",
+      "in_reply_to_screen_name": "Lydia618",
+      "user": {
+        "id": 133622918,
+        "id_str": "133622918",
+        "name": "豬小草",
+        "screen_name": "swpave",
+        "location": "Taipei",
+        "description": "宅爸。跑者。短髮控",
+        "url": "https://t.co/OTZHaQPo1r",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OTZHaQPo1r",
+                "expanded_url": "http://swalk.blogspot.com",
+                "display_url": "swalk.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4457,
+        "friends_count": 1527,
+        "listed_count": 111,
+        "created_at": "Fri Apr 16 07:08:48 +0000 2010",
+        "favourites_count": 3005,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 125924,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719426387879137281/y8csroLB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719426387879137281/y8csroLB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133622918/1579744000",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 12 04:30:05 +0000 2021",
+    "id": 1403570277078867968,
+    "id_str": "1403570277078867968",
+    "text": "2001《卡瓦利與克雷的神奇冒險》\n\n麥可・謝朋被視為沙林傑接班人，這本以美國漫畫史黃金時代為背景，用魔術、漫畫、超級英雄堆砌的暢銷小說，50萬字、700頁，讓他在38歲贏得普立茲小說獎。\n\n前面需要點耐心，中段讓人廢寢忘食。… https://t.co/pac7ULz7a6",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pac7ULz7a6",
+          "expanded_url": "https://twitter.com/i/web/status/1403570277078867968",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1403545762198286338,
+    "in_reply_to_status_id_str": "1403545762198286338",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 12 02:52:40 +0000 2021",
+    "id": 1403545762198286338,
+    "id_str": "1403545762198286338",
+    "text": "這篇列出普立茲小說獎21世紀的20本得獎作品（2012年從缺），大部分都能找到中文譯本。\n\n相當美國視角，深探社會現狀（原住民、黑人、低下階層）或美國觀察（北韓、越南），而且偏厚重；其中有幾本在題材與形式皆非常突出，讀得下去就會想… https://t.co/vFGhxScg1O",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vFGhxScg1O",
+          "expanded_url": "https://twitter.com/i/web/status/1403545762198286338",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1403530105721266179,
+    "in_reply_to_status_id_str": "1403530105721266179",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 12 01:50:28 +0000 2021",
+    "id": 1403530105721266179,
+    "id_str": "1403530105721266179",
+    "text": "2021普立茲獎公布，小說獎由路易絲·厄德里奇的《The Night Watchman》獲得。\n\n應該是得獎最多、最著名的美國印第安女作家，台灣似乎沒翻譯過，但已有好幾部簡體中文版。\n\nhttps://t.co/GHcksmWIXH https://t.co/C27zrTE7HN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GHcksmWIXH",
+          "expanded_url": "https://bit.ly/3cC8b1I",
+          "display_url": "bit.ly/3cC8b1I",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1403530100457369605,
+          "id_str": "1403530100457369605",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3pXMK1UcAUzCRm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3pXMK1UcAUzCRm.jpg",
+          "url": "https://t.co/C27zrTE7HN",
+          "display_url": "pic.twitter.com/C27zrTE7HN",
+          "expanded_url": "https://twitter.com/wastemobile/status/1403530105721266179/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 430,
+              "h": 648,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 430,
+              "h": 648,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 430,
+              "h": 648,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1403530100457369605,
+          "id_str": "1403530100457369605",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3pXMK1UcAUzCRm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3pXMK1UcAUzCRm.jpg",
+          "url": "https://t.co/C27zrTE7HN",
+          "display_url": "pic.twitter.com/C27zrTE7HN",
+          "expanded_url": "https://twitter.com/wastemobile/status/1403530105721266179/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 430,
+              "h": 648,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 430,
+              "h": 648,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 430,
+              "h": 648,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 11 06:51:03 +0000 2021",
+    "id": 1403243363973820416,
+    "id_str": "1403243363973820416",
+    "text": "RT @2000straveler: 這解釋也太好懂了吧 https://t.co/uexrmliIEG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "2000straveler",
+          "name": "米克阿姨偵探事務所",
+          "id": 748958208610361344,
+          "id_str": "748958208610361344",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1403218065374908417,
+          "id_str": "1403218065374908417",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3k7ZVkVEAE-qFs.png",
+          "media_url_https": "https://pbs.twimg.com/media/E3k7ZVkVEAE-qFs.png",
+          "url": "https://t.co/uexrmliIEG",
+          "display_url": "pic.twitter.com/uexrmliIEG",
+          "expanded_url": "https://twitter.com/2000straveler/status/1403218191241801730/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 570,
+              "h": 652,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 570,
+              "h": 652,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 570,
+              "h": 652,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1403218191241801730,
+          "source_status_id_str": "1403218191241801730",
+          "source_user_id": 748958208610361344,
+          "source_user_id_str": "748958208610361344"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1403218065374908417,
+          "id_str": "1403218065374908417",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3k7ZVkVEAE-qFs.png",
+          "media_url_https": "https://pbs.twimg.com/media/E3k7ZVkVEAE-qFs.png",
+          "url": "https://t.co/uexrmliIEG",
+          "display_url": "pic.twitter.com/uexrmliIEG",
+          "expanded_url": "https://twitter.com/2000straveler/status/1403218191241801730/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 570,
+              "h": 652,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 570,
+              "h": 652,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 570,
+              "h": 652,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1403218191241801730,
+          "source_status_id_str": "1403218191241801730",
+          "source_user_id": 748958208610361344,
+          "source_user_id_str": "748958208610361344"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 11 05:11:01 +0000 2021",
+      "id": 1403218191241801730,
+      "id_str": "1403218191241801730",
+      "text": "這解釋也太好懂了吧 https://t.co/uexrmliIEG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1403218065374908417,
+            "id_str": "1403218065374908417",
+            "indices": [
+              10,
+              33
+            ],
+            "media_url": "http://pbs.twimg.com/media/E3k7ZVkVEAE-qFs.png",
+            "media_url_https": "https://pbs.twimg.com/media/E3k7ZVkVEAE-qFs.png",
+            "url": "https://t.co/uexrmliIEG",
+            "display_url": "pic.twitter.com/uexrmliIEG",
+            "expanded_url": "https://twitter.com/2000straveler/status/1403218191241801730/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 570,
+                "h": 652,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 570,
+                "h": 652,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 570,
+                "h": 652,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1403218065374908417,
+            "id_str": "1403218065374908417",
+            "indices": [
+              10,
+              33
+            ],
+            "media_url": "http://pbs.twimg.com/media/E3k7ZVkVEAE-qFs.png",
+            "media_url_https": "https://pbs.twimg.com/media/E3k7ZVkVEAE-qFs.png",
+            "url": "https://t.co/uexrmliIEG",
+            "display_url": "pic.twitter.com/uexrmliIEG",
+            "expanded_url": "https://twitter.com/2000straveler/status/1403218191241801730/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 570,
+                "h": 652,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 570,
+                "h": 652,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 570,
+                "h": 652,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 748958208610361344,
+        "id_str": "748958208610361344",
+        "name": "米克阿姨偵探事務所",
+        "screen_name": "2000straveler",
+        "location": "石之海動畫化的世界",
+        "description": "20↑｜台灣獨立建國｜頭貼阿蛙 @I663080001｜都在講自己ㄉ｜色情帳號不要fo",
+        "url": "https://t.co/UJr67oH5KJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UJr67oH5KJ",
+                "expanded_url": "https://odaibako.net/u/ablue003",
+                "display_url": "odaibako.net/u/ablue003",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 725,
+        "friends_count": 437,
+        "listed_count": 6,
+        "created_at": "Fri Jul 01 19:15:26 +0000 2016",
+        "favourites_count": 73886,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 76153,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1393439173235802116/Cs30Arx9_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393439173235802116/Cs30Arx9_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/748958208610361344/1604254541",
+        "profile_link_color": "3A0088",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 338,
+      "favorite_count": 1112,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 338,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jun 11 03:41:39 +0000 2021",
     "id": 1403195699399782408,
     "id_str": "1403195699399782408",
