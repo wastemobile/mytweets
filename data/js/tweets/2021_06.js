@@ -1,5 +1,237 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Sun Jun 13 02:25:22 +0000 2021",
+    "id": 1403901277965193217,
+    "id_str": "1403901277965193217",
+    "text": "《珥瑪的351本書》評價並不太好，但每次整理書架都還是不忍丟掉⋯⋯\n\n作者意圖透過神秘前女友失蹤、寄來351本精裝書，建構一個「書、愛、性、數學」的懸疑解謎故事，歸在 #關於書的書 沒問題，就是不當心寫太多言情而已。\n\n全書有十幾… https://t.co/21Eg3FVCb9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            84,
+            90
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/21Eg3FVCb9",
+          "expanded_url": "https://twitter.com/i/web/status/1403901277965193217",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1403195699399782408,
+    "in_reply_to_status_id_str": "1403195699399782408",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 12 12:46:18 +0000 2021",
+    "id": 1403695152749707266,
+    "id_str": "1403695152749707266",
+    "text": "以上就是21世紀以來的普立茲文學獎中，我讀過或待讀的，選擇相當偏頗（沒有檢討的意思）。\n\n2013《沒有名字的人》感覺也蠻有趣，是一本以北韓為題材的偽小說，華爾街日報說「這本書的慧黠、天分和病態是文字強大力量下依然存在的證據」，但… https://t.co/XP7dFxGETF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XP7dFxGETF",
+          "expanded_url": "https://twitter.com/i/web/status/1403695152749707266",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1403691858073591809,
+    "in_reply_to_status_id_str": "1403691858073591809",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 12 12:33:12 +0000 2021",
+    "id": 1403691858073591809,
+    "id_str": "1403691858073591809",
+    "text": "2014《金翅雀》\n\n擺在閱讀器裡一直還沒看（ #kobo 特價時買的），這位美國女作家每本長篇都耗時至少十年，當年度也是亞馬遜最佳圖書第一名，但華納和亞馬遜合資拍攝的同名電影票房蠻慘的。\n\n這種大長篇往往需要靜心開個頭，但總是覺… https://t.co/XsaeAILFfl",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            24,
+            29
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XsaeAILFfl",
+          "expanded_url": "https://twitter.com/i/web/status/1403691858073591809",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1403629633573036038,
+    "in_reply_to_status_id_str": "1403629633573036038",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 12 08:25:57 +0000 2021",
+    "id": 1403629633573036038,
+    "id_str": "1403629633573036038",
+    "text": "2011《時間裡的癡人》\n\n如搖滾樂概念專輯，A、B兩面共13章，不同主角、不同敘事技巧，各自獨立為短篇，人物之間有錯綜複雜的關係，評價兩極，但拿下42個文學獎。\n\n讀的是簡轉繁電子書（相同譯本），有種在霧中只聞花香、不見花影的朦… https://t.co/tr14eVkqOt",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tr14eVkqOt",
+          "expanded_url": "https://twitter.com/i/web/status/1403629633573036038",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1403579386184355841,
+    "in_reply_to_status_id_str": "1403579386184355841",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jun 12 05:06:17 +0000 2021",
     "id": 1403579386184355841,
     "id_str": "1403579386184355841",
