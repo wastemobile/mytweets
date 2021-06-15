@@ -1,5 +1,182 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Tue Jun 15 00:56:35 +0000 2021",
+    "id": 1404603710928420866,
+    "id_str": "1404603710928420866",
+    "text": "遙遠的過去，存在過這麼一本無名的書。 #關於書的書\n\n某雜誌是指尖端出版的盜版漫畫雜誌《神奇地帶》。台灣解嚴後、至612大限間，都在搶譯搶出盜版漫畫的出版商們，曾經演出過一齣如黑道劃分市場的地下會議，精彩萬分。\n\n那時的動漫評介資… https://t.co/gYowrLjDaD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            19,
+            25
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gYowrLjDaD",
+          "expanded_url": "https://twitter.com/i/web/status/1404603710928420866",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1404286010540711938,
+    "in_reply_to_status_id_str": "1404286010540711938",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 15 00:35:38 +0000 2021",
+    "id": 1404598437266354177,
+    "id_str": "1404598437266354177",
+    "text": "在美國，2020三月看起來像是出版末日的起點，現在看起來有些不同，至少部分出版商有意願與實際手段，去嘗試混合紙本與數位的出版模式。\n\n台灣雖尚未三級解禁，只要國產疫苗順利，應可期待拼暑假結束、開學時恢復正常，相較歐美算是超速，出版… https://t.co/AKnXZLX4Qr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AKnXZLX4Qr",
+          "expanded_url": "https://twitter.com/i/web/status/1404598437266354177",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 14 03:54:09 +0000 2021",
+    "id": 1404286010540711938,
+    "id_str": "1404286010540711938",
+    "text": "以性愛、社會、宗教、政治因素分四類，整理被禁過的100本書，中譯本近500頁，「刪禁始末」段落彙整起來滿滿是人類愚蠢與封閉的文化史。 #關於書的書\n\n英文原書後來有個120本的增補版，還增加了延伸閱讀書目，但當然就沒有中譯本了。… https://t.co/CbJvxy2HRE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            67,
+            73
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CbJvxy2HRE",
+          "expanded_url": "https://twitter.com/i/web/status/1404286010540711938",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1403901277965193217,
+    "in_reply_to_status_id_str": "1403901277965193217",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 13 02:25:22 +0000 2021",
     "id": 1403901277965193217,
     "id_str": "1403901277965193217",
