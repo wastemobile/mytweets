@@ -1,5 +1,756 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Thu Jun 17 03:20:59 +0000 2021",
+    "id": 1405364826046537728,
+    "id_str": "1405364826046537728",
+    "text": "這書內文長這樣，不適合閱讀器。\n\n《文豪們的私房酒單》 https://t.co/dhcmOLi80n https://t.co/dyykOu3mUh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dhcmOLi80n",
+          "expanded_url": "https://bit.ly/35AHeHz",
+          "display_url": "bit.ly/35AHeHz",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1405364811450306562,
+          "id_str": "1405364811450306562",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4Db2Z5UUAI7XSm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4Db2Z5UUAI7XSm.jpg",
+          "url": "https://t.co/dyykOu3mUh",
+          "display_url": "pic.twitter.com/dyykOu3mUh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1405364826046537728/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 866,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 491,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1477,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1405364811450306562,
+          "id_str": "1405364811450306562",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4Db2Z5UUAI7XSm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4Db2Z5UUAI7XSm.jpg",
+          "url": "https://t.co/dyykOu3mUh",
+          "display_url": "pic.twitter.com/dyykOu3mUh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1405364826046537728/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 866,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 491,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1477,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1405364811446165504,
+          "id_str": "1405364811446165504",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4Db2Z4VIAAu0KF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4Db2Z4VIAAu0KF.jpg",
+          "url": "https://t.co/dyykOu3mUh",
+          "display_url": "pic.twitter.com/dyykOu3mUh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1405364826046537728/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 866,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1477,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 491,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1402446409123569668,
+    "in_reply_to_status_id_str": "1402446409123569668",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 17 01:57:19 +0000 2021",
+    "id": 1405343772292964352,
+    "id_str": "1405343772292964352",
+    "text": "作者可能在訪談、文章、自傳等任何地方，認真或隨意講出某本名著初始靈感的迸發點，這書就是把散落各處的資料搜集起來，202本書，從《巴黎評論》訪談摘出的不少。 #關於書的書\n\n有人覺得這種東西幾乎就像推特，但我蠻喜歡有人整理好這些細瑣… https://t.co/WTNYUBr3sq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            78,
+            84
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WTNYUBr3sq",
+          "expanded_url": "https://twitter.com/i/web/status/1405343772292964352",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1404603710928420866,
+    "in_reply_to_status_id_str": "1404603710928420866",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 16 13:33:23 +0000 2021",
+    "id": 1405156555041824784,
+    "id_str": "1405156555041824784",
+    "text": "喔!? 數位版6月21日重新上架。\n\n睽違半年！《電馭叛客2077》將重回PlayStation商店 https://t.co/Ru6ro8d7h8 https://t.co/uLmS6rXt7V",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ru6ro8d7h8",
+          "expanded_url": "https://bit.ly/3zFpBEH",
+          "display_url": "bit.ly/3zFpBEH",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1405156548138061825,
+          "id_str": "1405156548138061825",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4Aeb4mVUAE-cz7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4Aeb4mVUAE-cz7.jpg",
+          "url": "https://t.co/uLmS6rXt7V",
+          "display_url": "pic.twitter.com/uLmS6rXt7V",
+          "expanded_url": "https://twitter.com/wastemobile/status/1405156555041824784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1405156548138061825,
+          "id_str": "1405156548138061825",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4Aeb4mVUAE-cz7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4Aeb4mVUAE-cz7.jpg",
+          "url": "https://t.co/uLmS6rXt7V",
+          "display_url": "pic.twitter.com/uLmS6rXt7V",
+          "expanded_url": "https://twitter.com/wastemobile/status/1405156555041824784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1402647956419874817,
+    "in_reply_to_status_id_str": "1402647956419874817",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 16 12:11:40 +0000 2021",
+    "id": 1405135989081710603,
+    "id_str": "1405135989081710603",
+    "text": "美食公道伯真的很好笑～\n\n連續七天每天都吃超貴高檔防疫便當！哪一家才是外賣便當的霸主？Day1【美食公道伯】 https://t.co/gDQJxWFJtP 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            82,
+            90
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gDQJxWFJtP",
+          "expanded_url": "https://youtu.be/009fGLi2hOA",
+          "display_url": "youtu.be/009fGLi2hOA",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 16 06:33:12 +0000 2021",
+    "id": 1405050811181273090,
+    "id_str": "1405050811181273090",
+    "text": "RT @hanaschank: Truth. https://t.co/iT9i0lV7xs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hanaschank",
+          "name": "Hana Schank",
+          "id": 236418563,
+          "id_str": "236418563",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1404550589531443206,
+          "id_str": "1404550589531443206",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/E333Uc4WUAYihDQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E333Uc4WUAYihDQ.jpg",
+          "url": "https://t.co/iT9i0lV7xs",
+          "display_url": "pic.twitter.com/iT9i0lV7xs",
+          "expanded_url": "https://twitter.com/hanaschank/status/1404550592375177219/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1404550592375177219,
+          "source_status_id_str": "1404550592375177219",
+          "source_user_id": 236418563,
+          "source_user_id_str": "236418563"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1404550589531443206,
+          "id_str": "1404550589531443206",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/E333Uc4WUAYihDQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E333Uc4WUAYihDQ.jpg",
+          "url": "https://t.co/iT9i0lV7xs",
+          "display_url": "pic.twitter.com/iT9i0lV7xs",
+          "expanded_url": "https://twitter.com/hanaschank/status/1404550592375177219/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1404550592375177219,
+          "source_status_id_str": "1404550592375177219",
+          "source_user_id": 236418563,
+          "source_user_id_str": "236418563"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 14 21:25:31 +0000 2021",
+      "id": 1404550592375177219,
+      "id_str": "1404550592375177219",
+      "text": "Truth. https://t.co/iT9i0lV7xs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1404550589531443206,
+            "id_str": "1404550589531443206",
+            "indices": [
+              7,
+              30
+            ],
+            "media_url": "http://pbs.twimg.com/media/E333Uc4WUAYihDQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E333Uc4WUAYihDQ.jpg",
+            "url": "https://t.co/iT9i0lV7xs",
+            "display_url": "pic.twitter.com/iT9i0lV7xs",
+            "expanded_url": "https://twitter.com/hanaschank/status/1404550592375177219/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1404550589531443206,
+            "id_str": "1404550589531443206",
+            "indices": [
+              7,
+              30
+            ],
+            "media_url": "http://pbs.twimg.com/media/E333Uc4WUAYihDQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E333Uc4WUAYihDQ.jpg",
+            "url": "https://t.co/iT9i0lV7xs",
+            "display_url": "pic.twitter.com/iT9i0lV7xs",
+            "expanded_url": "https://twitter.com/hanaschank/status/1404550592375177219/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 236418563,
+        "id_str": "236418563",
+        "name": "Hana Schank",
+        "screen_name": "hanaschank",
+        "location": "Brooklyn, NY",
+        "description": "Strategy @NewAmericaPIT ; @usds alum. New book: POWER TO THE PUBLIC @princetonUPress - Researcher + designer at heart. Hardcore New Yorker.",
+        "url": "https://t.co/eApXDcCK1c",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/eApXDcCK1c",
+                "expanded_url": "http://hanaschank.com",
+                "display_url": "hanaschank.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2515,
+        "friends_count": 1126,
+        "listed_count": 92,
+        "created_at": "Mon Jan 10 15:04:34 +0000 2011",
+        "favourites_count": 1745,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1908,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979041731630063616/GiIn_s5J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/979041731630063616/GiIn_s5J_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/236418563/1619128395",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2375,
+      "favorite_count": 10235,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2375,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Jun 16 03:18:00 +0000 2021",
     "id": 1405001685437534214,
     "id_str": "1405001685437534214",
