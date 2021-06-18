@@ -1,5 +1,460 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Fri Jun 18 03:29:39 +0000 2021",
+    "id": 1405729392731463680,
+    "id_str": "1405729392731463680",
+    "text": "英國BBC在2003舉辦最愛小說票選，除了還不太流行的網路，許多人是用簡訊與電話投票，近80萬人參與。\n\nDK出版了這本《Book of books》，以全彩印刷、圖文並茂介紹了前100名，前三名分別是魔戒、傲慢與偏見，以及黑暗元… https://t.co/nroMKYqvuJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nroMKYqvuJ",
+          "expanded_url": "https://twitter.com/i/web/status/1405729392731463680",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1405343772292964352,
+    "in_reply_to_status_id_str": "1405343772292964352",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 18 01:50:19 +0000 2021",
+    "id": 1405704395354902529,
+    "id_str": "1405704395354902529",
+    "text": "「哇！我買不到啦！快給我御賜金牌加尚方寶劍、襯托我的數十年功力，但還是不保證買到喔～」\n\n（完） #煩不煩\n\nhttps://t.co/0FGlG7Kqzs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "煩不煩",
+          "indices": [
+            49,
+            53
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0FGlG7Kqzs",
+          "expanded_url": "https://bit.ly/3cSnvHx",
+          "display_url": "bit.ly/3cSnvHx",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 17 11:55:49 +0000 2021",
+    "id": 1405494388902432769,
+    "id_str": "1405494388902432769",
+    "text": "@aboutfish 我都亂喝各種不同的～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "aboutfish",
+          "name": "關魚",
+          "id": 3398341,
+          "id_str": "3398341",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1405477814443266054,
+    "in_reply_to_status_id_str": "1405477814443266054",
+    "in_reply_to_user_id": 3398341,
+    "in_reply_to_user_id_str": "3398341",
+    "in_reply_to_screen_name": "aboutfish",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 17 10:20:31 +0000 2021",
+    "id": 1405470403766542340,
+    "id_str": "1405470403766542340",
+    "text": "「腦子裡還留有少許酒吧的喧鬧，\n穿著落伍時代西裝老人的微笑，\n和布什米爾威士忌的餘味。」\n～村上春樹《如果我們的語言是威士忌》\n\n全聯Bushmills賣399比其他通路低很多喔。\n\n2021年台灣抗疫：全聯399元以下「高性價比… https://t.co/zq9NBdRHgF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zq9NBdRHgF",
+          "expanded_url": "https://twitter.com/i/web/status/1405470403766542340",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1405364826046537728,
+    "in_reply_to_status_id_str": "1405364826046537728",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 17 08:35:15 +0000 2021",
+    "id": 1405443915335929858,
+    "id_str": "1405443915335929858",
+    "text": "從書架後巷通往異世界的感覺～～ https://t.co/iF4cBO1FsY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iF4cBO1FsY",
+          "expanded_url": "https://twitter.com/monde55212068/status/1063647132047958018",
+          "display_url": "twitter.com/monde55212068/…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1398484392499056642,
+    "in_reply_to_status_id_str": "1398484392499056642",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1063647132047958018,
+    "quoted_status_id_str": "1063647132047958018",
+    "quoted_status": {
+      "created_at": "Sat Nov 17 04:16:52 +0000 2018",
+      "id": 1063647132047958018,
+      "id_str": "1063647132047958018",
+      "text": "路地裏bookshelf 文庫本サイズ\nを作りました。\n両面を開くことはできませんが小さくて可愛らしいです。\n電源スイッチを表面につけました。\n\n制作2018年 材質 木\n\n#design #art #bookend #路地裏… https://t.co/gc1OAyI8bx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "design",
+            "indices": [
+              87,
+              94
+            ]
+          },
+          {
+            "text": "art",
+            "indices": [
+              95,
+              99
+            ]
+          },
+          {
+            "text": "bookend",
+            "indices": [
+              100,
+              108
+            ]
+          },
+          {
+            "text": "路地裏",
+            "indices": [
+              109,
+              113
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gc1OAyI8bx",
+            "expanded_url": "https://twitter.com/i/web/status/1063647132047958018",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 919388216913829888,
+        "id_str": "919388216913829888",
+        "name": "monde",
+        "screen_name": "monde55212068",
+        "location": "日本 東京",
+        "description": "大人になっても毎週ワクワクした図工の時間割がほしくて毎年2回新作を制作しております。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 29331,
+        "friends_count": 9,
+        "listed_count": 240,
+        "created_at": "Sun Oct 15 02:23:27 +0000 2017",
+        "favourites_count": 13,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 72,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/919389266802700290/lWiN1xj9_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/919389266802700290/lWiN1xj9_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/919388216913829888/1538098899",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 70811,
+      "favorite_count": 174551,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 1,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 17 06:14:05 +0000 2021",
+    "id": 1405408387605487616,
+    "id_str": "1405408387605487616",
+    "text": "阿中沒來要請李P坐C位呀！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jun 17 03:20:59 +0000 2021",
     "id": 1405364826046537728,
     "id_str": "1405364826046537728",
