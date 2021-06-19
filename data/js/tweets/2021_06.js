@@ -1,5 +1,360 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Sat Jun 19 02:43:38 +0000 2021",
+    "id": 1406080203743322113,
+    "id_str": "1406080203743322113",
+    "text": "《偉大的虛構》介紹96本虛構文學，這類 #關於書的書 多半歸為文學百科（大補帖），從Salon （已滅）年代就看Laura Miller介紹作家與書。\n\n書介不是書評，有點像寫電影或劇場的本事，要能勾引人閱讀的慾望、點出書的重要位… https://t.co/WxOgNRXilu",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            20,
+            26
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WxOgNRXilu",
+          "expanded_url": "https://twitter.com/i/web/status/1406080203743322113",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1405729392731463680,
+    "in_reply_to_status_id_str": "1405729392731463680",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 18 15:40:20 +0000 2021",
+    "id": 1405913277192806403,
+    "id_str": "1405913277192806403",
+    "text": "三次蒸餾，先在美國波本桶中成熟，然後在日本水楢桶中收尾熟化9個月（Japanese Mizunara cask finish），看那迷人的「作家の淚」字樣就醉了～～～ https://t.co/E9XmXyD8sQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1405913263058001924,
+          "id_str": "1405913263058001924",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4LOqfWVIAQK-2w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4LOqfWVIAQK-2w.jpg",
+          "url": "https://t.co/E9XmXyD8sQ",
+          "display_url": "pic.twitter.com/E9XmXyD8sQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1405913277192806403/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 874,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 495,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1492,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1405913263058001924,
+          "id_str": "1405913263058001924",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4LOqfWVIAQK-2w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4LOqfWVIAQK-2w.jpg",
+          "url": "https://t.co/E9XmXyD8sQ",
+          "display_url": "pic.twitter.com/E9XmXyD8sQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1405913277192806403/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 874,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 495,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1492,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1405905607064887302,
+    "in_reply_to_status_id_str": "1405905607064887302",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Jun 18 15:09:51 +0000 2021",
+    "id": 1405905607064887302,
+    "id_str": "1405905607064887302",
+    "text": "就勞勃瑞福在《刺激》中喝的這支。\n\nOld Bushmills Whiskey Drunk by Robert Redford in The Sting (1973)  https://t.co/aFW11jT3j7 https://t.co/2u5igxYTMQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aFW11jT3j7",
+          "expanded_url": "https://bit.ly/2TIpyHF",
+          "display_url": "bit.ly/2TIpyHF",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1405905599590592520,
+          "id_str": "1405905599590592520",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4LHsatUcAggE8F.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4LHsatUcAggE8F.jpg",
+          "url": "https://t.co/2u5igxYTMQ",
+          "display_url": "pic.twitter.com/2u5igxYTMQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1405905607064887302/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1405905599590592520,
+          "id_str": "1405905599590592520",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4LHsatUcAggE8F.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4LHsatUcAggE8F.jpg",
+          "url": "https://t.co/2u5igxYTMQ",
+          "display_url": "pic.twitter.com/2u5igxYTMQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1405905607064887302/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1405905599607443459,
+          "id_str": "1405905599607443459",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4LHsaxVkAM0ndc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4LHsaxVkAM0ndc.jpg",
+          "url": "https://t.co/2u5igxYTMQ",
+          "display_url": "pic.twitter.com/2u5igxYTMQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1405905607064887302/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1040,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 650,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 368,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1405470403766542340,
+    "in_reply_to_status_id_str": "1405470403766542340",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Fri Jun 18 03:29:39 +0000 2021",
     "id": 1405729392731463680,
     "id_str": "1405729392731463680",
