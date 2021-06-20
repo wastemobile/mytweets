@@ -1,5 +1,66 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Sun Jun 20 03:34:26 +0000 2021",
+    "id": 1406455375490994178,
+    "id_str": "1406455375490994178",
+    "text": "一本很可愛的 #關於書的書 ，365間書店店員一頁介紹一本、手寫標語、推薦理由、下一本讀什麼，再附上書店地址（書後有書店地圖），B6變形易拿的尺寸，是心靈與身體雙重適用的達人領航旅遊手冊。\n\n在日本蔦屋買的，衷心期待日本書店用紙包… https://t.co/krBv7zNE2j",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            7,
+            13
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/krBv7zNE2j",
+          "expanded_url": "https://twitter.com/i/web/status/1406455375490994178",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1406080203743322113,
+    "in_reply_to_status_id_str": "1406080203743322113",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jun 19 02:43:38 +0000 2021",
     "id": 1406080203743322113,
     "id_str": "1406080203743322113",
