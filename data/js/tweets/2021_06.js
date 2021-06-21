@@ -1,5 +1,548 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Mon Jun 21 02:57:36 +0000 2021",
+    "id": 1406808491637891078,
+    "id_str": "1406808491637891078",
+    "text": "《枕邊書》是紐約時報專欄By the Book集結，通常以「床頭櫃上現在放著什麼書？」開門提問，持續圍繞著閱讀與書、作家、如何整理、發掘⋯⋯等。 #關於書的書 https://t.co/v0Q3XEslgA\n\n睡前看書是個好習慣喔… https://t.co/K7tp324bzz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            73,
+            79
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/v0Q3XEslgA",
+          "expanded_url": "https://bit.ly/2SdvRCu",
+          "display_url": "bit.ly/2SdvRCu",
+          "indices": [
+            80,
+            103
+          ]
+        },
+        {
+          "url": "https://t.co/K7tp324bzz",
+          "expanded_url": "https://twitter.com/i/web/status/1406808491637891078",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1406791452617674756,
+    "in_reply_to_status_id_str": "1406791452617674756",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 21 02:03:40 +0000 2021",
+    "id": 1406794917725175812,
+    "id_str": "1406794917725175812",
+    "text": "RT @htchien: 洪朝貴老師質疑黃副市長的貼文是有問題的....\nhttps://t.co/uR6LUH6rXO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "htchien",
+          "name": "Ted Chien",
+          "id": 1720801,
+          "id_str": "1720801",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uR6LUH6rXO",
+          "expanded_url": "https://ckhung0.blogspot.com/2021/06/mortality.html",
+          "display_url": "ckhung0.blogspot.com/2021/06/mortal…",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 21 01:23:37 +0000 2021",
+      "id": 1406784841006288896,
+      "id_str": "1406784841006288896",
+      "text": "洪朝貴老師質疑黃副市長的貼文是有問題的....\nhttps://t.co/uR6LUH6rXO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uR6LUH6rXO",
+            "expanded_url": "https://ckhung0.blogspot.com/2021/06/mortality.html",
+            "display_url": "ckhung0.blogspot.com/2021/06/mortal…",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1720801,
+        "id_str": "1720801",
+        "name": "Ted Chien",
+        "screen_name": "htchien",
+        "location": "Taipei, Taiwan",
+        "description": "#Christian; #Android #Engineer (#App / #Security); #GDGTaipei Organizer; #Wikimedia #Taiwan Chair of Supervisors",
+        "url": "https://t.co/AEd34ZrQBx",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/AEd34ZrQBx",
+                "expanded_url": "http://about.me/htchien",
+                "display_url": "about.me/htchien",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1378,
+        "friends_count": 2441,
+        "listed_count": 115,
+        "created_at": "Wed Mar 21 07:20:29 +0000 2007",
+        "favourites_count": 10646,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 69776,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DBE9ED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1068456202785288193/9rl50O12_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068456202785288193/9rl50O12_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720801/1589534156",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 21 01:49:53 +0000 2021",
+    "id": 1406791452617674756,
+    "id_str": "1406791452617674756",
+    "text": "2055年所有書都透過平板隨處可得，卻因父親過世留下的謎題，依循《書房的諫言》尋找線索，重新閱讀。\n\n好玩的是⋯⋯「虛構的書」居然半路出現了！\n\n推廣每個人都該有個被千本書圍繞的書房，是本談閱讀復興的小書，接近日式商普與心理勵志，… https://t.co/ChqjeJ3V8r",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ChqjeJ3V8r",
+          "expanded_url": "https://twitter.com/i/web/status/1406791452617674756",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1406455375490994178,
+    "in_reply_to_status_id_str": "1406455375490994178",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 20 15:25:00 +0000 2021",
+    "id": 1406634193430278144,
+    "id_str": "1406634193430278144",
+    "text": "RT @ringshen3_0: 我因為誤交損友(?)和職業傷害(?)，對東西方推理小說的脈絡算是略懂略懂（不過很久沒更新了），認識的作家比讀過的作品多很多。#血腥謀殺 是推理小說評論家Julian Symons集大成之作，不僅一網打盡歐美推理史，觀點獨到的犀利評論讀來更是過癮…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "血腥謀殺",
+          "indices": [
+            79,
+            84
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ringshen3_0",
+          "name": "Ring💍",
+          "id": 1267430610584268800,
+          "id_str": "1267430610584268800",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 20 14:32:35 +0000 2021",
+      "id": 1406621003166359552,
+      "id_str": "1406621003166359552",
+      "text": "我因為誤交損友(?)和職業傷害(?)，對東西方推理小說的脈絡算是略懂略懂（不過很久沒更新了），認識的作家比讀過的作品多很多。#血腥謀殺 是推理小說評論家Julian Symons集大成之作，不僅一網打盡歐美推理史，觀點獨到的犀利評… https://t.co/oZrEgKncA6",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "血腥謀殺",
+            "indices": [
+              62,
+              67
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oZrEgKncA6",
+            "expanded_url": "https://twitter.com/i/web/status/1406621003166359552",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1406242932844158977,
+      "in_reply_to_status_id_str": "1406242932844158977",
+      "in_reply_to_user_id": 1267430610584268800,
+      "in_reply_to_user_id_str": "1267430610584268800",
+      "in_reply_to_screen_name": "ringshen3_0",
+      "user": {
+        "id": 1267430610584268800,
+        "id_str": "1267430610584268800",
+        "name": "Ring💍",
+        "screen_name": "ringshen3_0",
+        "location": "",
+        "description": "「人生不過是個圈套，看你是否心甘情願而已。」\n理科生、不自由工作者。主修書店學，副修出版學程，守備範圍：撰稿、編輯、企劃、策展、零售空間規劃，文章散見閱讀相關雜誌及媒體。#推特讀。\n#圈套 電子報｜每月雙刊：https://t.co/EJitYzrZrS",
+        "url": "https://t.co/FSj4K6W007",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FSj4K6W007",
+                "expanded_url": "https://ringshen.medium.com/",
+                "display_url": "ringshen.medium.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/EJitYzrZrS",
+                "expanded_url": "http://ringshen.substack.com",
+                "display_url": "ringshen.substack.com",
+                "indices": [
+                  104,
+                  127
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 384,
+        "friends_count": 229,
+        "listed_count": 6,
+        "created_at": "Mon Jun 01 12:19:53 +0000 2020",
+        "favourites_count": 6551,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6130,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1400686162839179267/dl3zRf_i_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400686162839179267/dl3zRf_i_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267430610584268800/1606656037",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 20 06:34:11 +0000 2021",
+    "id": 1406500609663016960,
+    "id_str": "1406500609663016960",
+    "text": "已經好一陣子Mac上只有Safari與Firefox兩種瀏覽器，看到Wired推了剛升上4.0新版的Vivaldi，就再裝來試試。\n\nbrew install --cask vivaldi\n\nYou're Probably Not… https://t.co/VBYTe1KlrZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VBYTe1KlrZ",
+          "expanded_url": "https://twitter.com/i/web/status/1406500609663016960",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 20 03:34:26 +0000 2021",
     "id": 1406455375490994178,
     "id_str": "1406455375490994178",
