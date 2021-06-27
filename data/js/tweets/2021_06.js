@@ -1,5 +1,2016 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Sun Jun 27 01:42:27 +0000 2021",
+    "id": 1408963907339702278,
+    "id_str": "1408963907339702278",
+    "text": "看來黑膠唱片會因為村上這本《古老而絕妙的經典唱片們》再炒一波。\n\n東亞書房》《昭和45年女．1970年女》重現70年代繽紛多彩世界，及其他藝文短訊 | Openbook閱讀誌\" https://t.co/YiEhreZo6Y https://t.co/kas5t0loY2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YiEhreZo6Y",
+          "expanded_url": "https://bit.ly/3jeZX3x",
+          "display_url": "bit.ly/3jeZX3x",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1408963898405834755,
+          "id_str": "1408963898405834755",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/E42lM1nUUAMiMpy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E42lM1nUUAMiMpy.jpg",
+          "url": "https://t.co/kas5t0loY2",
+          "display_url": "pic.twitter.com/kas5t0loY2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408963907339702278/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 737,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 501,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 737,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1408963898405834755,
+          "id_str": "1408963898405834755",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/E42lM1nUUAMiMpy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E42lM1nUUAMiMpy.jpg",
+          "url": "https://t.co/kas5t0loY2",
+          "display_url": "pic.twitter.com/kas5t0loY2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408963907339702278/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 737,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 501,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 737,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1408963898422611972,
+          "id_str": "1408963898422611972",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/E42lM1rUUAQTBlI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E42lM1rUUAQTBlI.jpg",
+          "url": "https://t.co/kas5t0loY2",
+          "display_url": "pic.twitter.com/kas5t0loY2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408963907339702278/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1076,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1076,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 610,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 12:28:37 +0000 2021",
+    "id": 1408764132149501955,
+    "id_str": "1408764132149501955",
+    "text": "BTW 豆瓣上有完整的100 Greatest Graphic Novels of All Time!排名書目，簡體譯本的會優先列出，供參。\n\nhttps://t.co/9vOIM4BrSV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9vOIM4BrSV",
+          "expanded_url": "https://bit.ly/3wUmRRQ",
+          "display_url": "bit.ly/3wUmRRQ",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408703464834699266,
+    "in_reply_to_status_id_str": "1408703464834699266",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 08:27:33 +0000 2021",
+    "id": 1408703464834699266,
+    "id_str": "1408703464834699266",
+    "text": "No.5《蝙蝠俠：黑暗騎士歸來》（簡中） https://t.co/Ps6esEvx5c\n\n還是得補一下這本經典之作，因為1986-1987這本與《守護者》、《鼠族》，被評論認為是讓圖像小說與成人漫畫理念進入主流視野的三大漫畫，而… https://t.co/Y4VYiM7KND",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ps6esEvx5c",
+          "expanded_url": "https://bit.ly/3Aaf1FZ",
+          "display_url": "bit.ly/3Aaf1FZ",
+          "indices": [
+            21,
+            44
+          ]
+        },
+        {
+          "url": "https://t.co/Y4VYiM7KND",
+          "expanded_url": "https://twitter.com/i/web/status/1408703464834699266",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408699220668817410,
+    "in_reply_to_status_id_str": "1408699220668817410",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 08:10:41 +0000 2021",
+    "id": 1408699220668817410,
+    "id_str": "1408699220668817410",
+    "text": "No.74《帶子狼》、No.76《死亡筆記本》都是日漫，前者早已絕版、後者隨處可見。\n\n有（或曾有）繁體中文版的就以上這些，台灣歐美漫畫很難賣也很少人願意出，2019補買2005大辣出版Enki Bilal作品時都還買到初版一刷，… https://t.co/MHUhjHBQWr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MHUhjHBQWr",
+          "expanded_url": "https://twitter.com/i/web/status/1408699220668817410",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408697580704321541,
+    "in_reply_to_status_id_str": "1408697580704321541",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 08:04:10 +0000 2021",
+    "id": 1408697580704321541,
+    "id_str": "1408697580704321541",
+    "text": "No.32《被子》（時報，已絕版） https://t.co/wxdoz1qFPJ\n\n獨立漫畫異數，試圖描繪「初次與人同床共被的感受」，打破傳統手法，試圖創造出「一本帶著小說節奏的漫畫——讓『動作』發生於內在的心靈風景中，大膽以數… https://t.co/CmBVVrkT4L",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wxdoz1qFPJ",
+          "expanded_url": "https://bit.ly/2U203B5",
+          "display_url": "bit.ly/2U203B5",
+          "indices": [
+            18,
+            41
+          ]
+        },
+        {
+          "url": "https://t.co/CmBVVrkT4L",
+          "expanded_url": "https://twitter.com/i/web/status/1408697580704321541",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408696459747205120,
+    "in_reply_to_status_id_str": "1408696459747205120",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 07:59:42 +0000 2021",
+    "id": 1408696459747205120,
+    "id_str": "1408696459747205120",
+    "text": "No.21《歡樂之家》（臉譜） https://t.co/enSkk364KS\n\n名列美國圖書館協會統計2015年最受爭議的十本書，屢次引發各級學校與公共圖書館的查禁下架之爭。\n\n目前好像只有在賣兩冊合售的盒裝版。 https://t.co/Z2TB5N6MEm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/enSkk364KS",
+          "expanded_url": "https://bit.ly/2Sx6yeW",
+          "display_url": "bit.ly/2Sx6yeW",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1408696446363201540,
+          "id_str": "1408696446363201540",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yx9FHVcAQE9AN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yx9FHVcAQE9AN.jpg",
+          "url": "https://t.co/Z2TB5N6MEm",
+          "display_url": "pic.twitter.com/Z2TB5N6MEm",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408696459747205120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1408696446363201540,
+          "id_str": "1408696446363201540",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yx9FHVcAQE9AN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yx9FHVcAQE9AN.jpg",
+          "url": "https://t.co/Z2TB5N6MEm",
+          "display_url": "pic.twitter.com/Z2TB5N6MEm",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408696459747205120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1408696446371598337,
+          "id_str": "1408696446371598337",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yx9FJVkAEIGEx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yx9FJVkAEIGEx.jpg",
+          "url": "https://t.co/Z2TB5N6MEm",
+          "display_url": "pic.twitter.com/Z2TB5N6MEm",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408696459747205120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1492,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 496,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 874,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408695418855116803,
+    "in_reply_to_status_id_str": "1408695418855116803",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 07:55:34 +0000 2021",
+    "id": 1408695418855116803,
+    "id_str": "1408695418855116803",
+    "text": "No.19《漫畫原來要這樣看》（愛米粒） https://t.co/GuXn8qS7Zw\n\n如果從沒看過美漫（圖像小說），那就先讀這本嘍～用漫畫解釋漫畫的發展沿革、藝術語言、表現手法，也算是本工具案頭書。 https://t.co/WDxESHZcvc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GuXn8qS7Zw",
+          "expanded_url": "https://bit.ly/3haWBvM",
+          "display_url": "bit.ly/3haWBvM",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1408695398395387908,
+          "id_str": "1408695398395387908",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yxAFIVoAQlPeF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yxAFIVoAQlPeF.jpg",
+          "url": "https://t.co/WDxESHZcvc",
+          "display_url": "pic.twitter.com/WDxESHZcvc",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408695418855116803/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 456,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 805,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 1410,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1408695398395387908,
+          "id_str": "1408695398395387908",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yxAFIVoAQlPeF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yxAFIVoAQlPeF.jpg",
+          "url": "https://t.co/WDxESHZcvc",
+          "display_url": "pic.twitter.com/WDxESHZcvc",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408695418855116803/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 456,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 805,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 1410,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1408695398382796807,
+          "id_str": "1408695398382796807",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yxAFFVgAcoECG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yxAFFVgAcoECG.jpg",
+          "url": "https://t.co/WDxESHZcvc",
+          "display_url": "pic.twitter.com/WDxESHZcvc",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408695418855116803/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 439,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1324,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 776,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408694158210994176,
+    "in_reply_to_status_id_str": "1408694158210994176",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 07:50:34 +0000 2021",
+    "id": 1408694158210994176,
+    "id_str": "1408694158210994176",
+    "text": "No.16《吉米．科瑞根：地球上最聰明的小子》（時報，已絕版）  https://t.co/Y9RtySFL82\n\n《NewYorker》御用封面畫家Chris Ware花了七年才完成的作品，其實有點接近成人繪本，整本手繪，很感人… https://t.co/PiMY0WHav2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y9RtySFL82",
+          "expanded_url": "https://bit.ly/35TDPnA",
+          "display_url": "bit.ly/35TDPnA",
+          "indices": [
+            33,
+            56
+          ]
+        },
+        {
+          "url": "https://t.co/PiMY0WHav2",
+          "expanded_url": "https://twitter.com/i/web/status/1408694158210994176",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408692019971584007,
+    "in_reply_to_status_id_str": "1408692019971584007",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 07:44:07 +0000 2021",
+    "id": 1408692534834991107,
+    "id_str": "1408692534834991107",
+    "text": "@MadBigg 先只推台灣有譯本的喔～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "MadBigg",
+          "name": "madbigg",
+          "id": 41739881,
+          "id_str": "41739881",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408690596953296902,
+    "in_reply_to_status_id_str": "1408690596953296902",
+    "in_reply_to_user_id": 41739881,
+    "in_reply_to_user_id_str": "41739881",
+    "in_reply_to_screen_name": "MadBigg",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 07:42:04 +0000 2021",
+    "id": 1408692019971584007,
+    "id_str": "1408692019971584007",
+    "text": "No.11《AKIRA阿基拉》（東立） https://t.co/ugk5eS2eJx\n\n這應該是以講談社出的英譯版為標的，日漫與歐美圖像小說有些差異，但這選擇沒有任何問題，電影版也值得看三遍。 https://t.co/O2B1iVLQmD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ugk5eS2eJx",
+          "expanded_url": "https://bit.ly/3qtOe2P",
+          "display_url": "bit.ly/3qtOe2P",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1408691999583076356,
+          "id_str": "1408691999583076356",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yt6PkVgAQg_Ep.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yt6PkVgAQg_Ep.jpg",
+          "url": "https://t.co/O2B1iVLQmD",
+          "display_url": "pic.twitter.com/O2B1iVLQmD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408692019971584007/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1408691999583076356,
+          "id_str": "1408691999583076356",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yt6PkVgAQg_Ep.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yt6PkVgAQg_Ep.jpg",
+          "url": "https://t.co/O2B1iVLQmD",
+          "display_url": "pic.twitter.com/O2B1iVLQmD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408692019971584007/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1408691999587278853,
+          "id_str": "1408691999587278853",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yt6PlVoAUfKxm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yt6PlVoAUfKxm.jpg",
+          "url": "https://t.co/O2B1iVLQmD",
+          "display_url": "pic.twitter.com/O2B1iVLQmD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408692019971584007/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 440,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1326,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 777,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408690382263570435,
+    "in_reply_to_status_id_str": "1408690382263570435",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 07:35:33 +0000 2021",
+    "id": 1408690382263570435,
+    "id_str": "1408690382263570435",
+    "text": "No.10《與神的契約》（百年冥誕紀念版、大辣） https://t.co/QYavfCIFp0\n\n在1978年默默出版，建立了我們現在所知的「圖像小說」類型，也啟發了整個世代的畫家。現今漫畫業最高獎項「埃斯納獎」（Eisner… https://t.co/s2TxxzYws7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QYavfCIFp0",
+          "expanded_url": "https://bit.ly/3jhPpAW",
+          "display_url": "bit.ly/3jhPpAW",
+          "indices": [
+            25,
+            48
+          ]
+        },
+        {
+          "url": "https://t.co/s2TxxzYws7",
+          "expanded_url": "https://twitter.com/i/web/status/1408690382263570435",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408689175692406786,
+    "in_reply_to_status_id_str": "1408689175692406786",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 07:30:46 +0000 2021",
+    "id": 1408689175692406786,
+    "id_str": "1408689175692406786",
+    "text": "No.3《茉莉人生》1&amp;2（愛米粒） https://t.co/NbSYynhjs0\n\n原標題其實是源自古波斯帝國中的首都波斯波利斯（Persepolis），作者自傳體圖像小說，講述在伊斯蘭革命下的伊朗成長歷程，最初是法文。 https://t.co/BholQbgz6D",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NbSYynhjs0",
+          "expanded_url": "https://bit.ly/35U1NiI",
+          "display_url": "bit.ly/35U1NiI",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1408689155643568128,
+          "id_str": "1408689155643568128",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yrUtEUcAAuFq-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yrUtEUcAAuFq-.jpg",
+          "url": "https://t.co/BholQbgz6D",
+          "display_url": "pic.twitter.com/BholQbgz6D",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408689175692406786/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1408689155643568128,
+          "id_str": "1408689155643568128",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yrUtEUcAAuFq-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yrUtEUcAAuFq-.jpg",
+          "url": "https://t.co/BholQbgz6D",
+          "display_url": "pic.twitter.com/BholQbgz6D",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408689175692406786/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1408689155639365632,
+          "id_str": "1408689155639365632",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yrUtDUUAADh7-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yrUtDUUAADh7-.jpg",
+          "url": "https://t.co/BholQbgz6D",
+          "display_url": "pic.twitter.com/BholQbgz6D",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408689175692406786/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1408689155647807495,
+          "id_str": "1408689155647807495",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4yrUtFVIAcWJBk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4yrUtFVIAcWJBk.jpg",
+          "url": "https://t.co/BholQbgz6D",
+          "display_url": "pic.twitter.com/BholQbgz6D",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408689175692406786/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 1325,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 440,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 776,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408687084144009217,
+    "in_reply_to_status_id_str": "1408687084144009217",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 07:22:27 +0000 2021",
+    "id": 1408687084144009217,
+    "id_str": "1408687084144009217",
+    "text": "No.2《鼠族》（臉譜） https://t.co/NMz95wacfw\n\n1992成為首部獲得普立茲獎的圖像小說，建議參考維基百科看看它厲害在哪裡，基本上必收 https://t.co/TzQZlVagJd https://t.co/MNcV4CXjAF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NMz95wacfw",
+          "expanded_url": "https://bit.ly/3A2Gvx9",
+          "display_url": "bit.ly/3A2Gvx9",
+          "indices": [
+            13,
+            36
+          ]
+        },
+        {
+          "url": "https://t.co/TzQZlVagJd",
+          "expanded_url": "https://bit.ly/2SZXu2v",
+          "display_url": "bit.ly/2SZXu2v",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1408687064724344834,
+          "id_str": "1408687064724344834",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4ypa_yVEAIy_7A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4ypa_yVEAIy_7A.jpg",
+          "url": "https://t.co/MNcV4CXjAF",
+          "display_url": "pic.twitter.com/MNcV4CXjAF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408687084144009217/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1408687064724344834,
+          "id_str": "1408687064724344834",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4ypa_yVEAIy_7A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4ypa_yVEAIy_7A.jpg",
+          "url": "https://t.co/MNcV4CXjAF",
+          "display_url": "pic.twitter.com/MNcV4CXjAF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408687084144009217/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 655,
+              "h": 609,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1408687064724303874,
+          "id_str": "1408687064724303874",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4ypa_yUcAIMdIR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4ypa_yUcAIMdIR.jpg",
+          "url": "https://t.co/MNcV4CXjAF",
+          "display_url": "pic.twitter.com/MNcV4CXjAF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408687084144009217/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 1326,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 440,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 777,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408685363720167426,
+    "in_reply_to_status_id_str": "1408685363720167426",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 07:15:37 +0000 2021",
+    "id": 1408685363720167426,
+    "id_str": "1408685363720167426",
+    "text": "2016《The 100 Greatest Graphic Novels Of All Time》就將《Watchmen》列為No.1。\n\n台灣出版的歐美漫畫非常少，簡中出了不少，但異色部分會被打碼或覆蓋。\n\n雖說電影明顯是漫威宇… https://t.co/2GHRFM6lSn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2GHRFM6lSn",
+          "expanded_url": "https://twitter.com/i/web/status/1408685363720167426",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408636878601949186,
+    "in_reply_to_status_id_str": "1408636878601949186",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 04:02:57 +0000 2021",
+    "id": 1408636878601949186,
+    "id_str": "1408636878601949186",
+    "text": "終於看了《守護者》215分鐘終極剪輯版，仿製了八成原著漫畫（圖像小說）分鏡構圖、劇情幾乎一樣，上映版剪掉的書中書《黑貨船傳奇》動畫也加回來了。\n\n《Watchmen》是1988雨果獎Other Forms得主，架空的二戰後歷史時空… https://t.co/ZUd9sD36jR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZUd9sD36jR",
+          "expanded_url": "https://twitter.com/i/web/status/1408636878601949186",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 33,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 01:40:04 +0000 2021",
+    "id": 1408600920951164928,
+    "id_str": "1408600920951164928",
+    "text": "NAVER買下Wattpad後，立即將其與Webtoon製作部門合併，並投入1億美金的預算，目前有100多個專案正在開發與製作中。\n\n「企業花數十億美金獲取過去100年的知識產權，數以億計的新故事將會填滿未來100年的螢幕與書架。… https://t.co/03ukr3p0qy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/03ukr3p0qy",
+          "expanded_url": "https://twitter.com/i/web/status/1408600920951164928",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1386858209277743106,
+    "in_reply_to_status_id_str": "1386858209277743106",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 26 01:22:37 +0000 2021",
+    "id": 1408596529590403076,
+    "id_str": "1408596529590403076",
+    "text": "村上春樹：「我十幾歲的時候覺得世界會變好，而現在十幾歲的孩子好像覺得世界會變壞。必須稍微阻止這種事情。」\n\nhttps://t.co/Vq8XagX706",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Vq8XagX706",
+          "expanded_url": "https://bit.ly/3xSwi4m",
+          "display_url": "bit.ly/3xSwi4m",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 25 04:38:35 +0000 2021",
+    "id": 1408283457449431040,
+    "id_str": "1408283457449431040",
+    "text": "RT @T_T456789: 「安靜閱讀，台灣加油。」 https://t.co/DkFiMp4TCX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "T_T456789",
+          "name": "伊哎伊哎789",
+          "id": 1337360180829278208,
+          "id_str": "1337360180829278208",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1408282399000039427,
+          "id_str": "1408282399000039427",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4s5YWfVEAMujTA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4s5YWfVEAMujTA.jpg",
+          "url": "https://t.co/DkFiMp4TCX",
+          "display_url": "pic.twitter.com/DkFiMp4TCX",
+          "expanded_url": "https://twitter.com/T_T456789/status/1408282416989413384/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 570,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1718,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1007,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1408282416989413384,
+          "source_status_id_str": "1408282416989413384",
+          "source_user_id": 1337360180829278208,
+          "source_user_id_str": "1337360180829278208"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1408282399000039427,
+          "id_str": "1408282399000039427",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/media/E4s5YWfVEAMujTA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E4s5YWfVEAMujTA.jpg",
+          "url": "https://t.co/DkFiMp4TCX",
+          "display_url": "pic.twitter.com/DkFiMp4TCX",
+          "expanded_url": "https://twitter.com/T_T456789/status/1408282416989413384/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 570,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1718,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1007,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1408282416989413384,
+          "source_status_id_str": "1408282416989413384",
+          "source_user_id": 1337360180829278208,
+          "source_user_id_str": "1337360180829278208"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 25 04:34:27 +0000 2021",
+      "id": 1408282416989413384,
+      "id_str": "1408282416989413384",
+      "text": "「安靜閱讀，台灣加油。」 https://t.co/DkFiMp4TCX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1408282399000039427,
+            "id_str": "1408282399000039427",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/media/E4s5YWfVEAMujTA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E4s5YWfVEAMujTA.jpg",
+            "url": "https://t.co/DkFiMp4TCX",
+            "display_url": "pic.twitter.com/DkFiMp4TCX",
+            "expanded_url": "https://twitter.com/T_T456789/status/1408282416989413384/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 570,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1718,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1007,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1408282399000039427,
+            "id_str": "1408282399000039427",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/media/E4s5YWfVEAMujTA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E4s5YWfVEAMujTA.jpg",
+            "url": "https://t.co/DkFiMp4TCX",
+            "display_url": "pic.twitter.com/DkFiMp4TCX",
+            "expanded_url": "https://twitter.com/T_T456789/status/1408282416989413384/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 570,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1718,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1007,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1337360180829278208,
+        "id_str": "1337360180829278208",
+        "name": "伊哎伊哎789",
+        "screen_name": "T_T456789",
+        "location": "",
+        "description": "雷龍界的貴族，只吃茼蒿。前伊哎伊哎四五六。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 802,
+        "friends_count": 186,
+        "listed_count": 5,
+        "created_at": "Fri Dec 11 11:35:01 +0000 2020",
+        "favourites_count": 3512,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13637,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1339114666866352129/zY3OfUUl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339114666866352129/zY3OfUUl_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337360180829278208/1607697754",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 42,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jun 25 03:00:12 +0000 2021",
     "id": 1408258697675960322,
     "id_str": "1408258697675960322",
