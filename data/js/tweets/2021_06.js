@@ -1,5 +1,514 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Mon Jun 28 02:19:19 +0000 2021",
+    "id": 1409335575300116480,
+    "id_str": "1409335575300116480",
+    "text": "逛到雲林二手書店「哲美系」的線上購書網站，是使用全家的開店平台，店到店取貨付款。\n\n在推特關注了一些日本獨立小書店，蠻多也會用類似的簡易電商平台，拍照上傳接點訂單，總是一個渠道。\n\nhttps://t.co/r9Vx1Pe7Jd https://t.co/upV4XQwtSP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/r9Vx1Pe7Jd",
+          "expanded_url": "https://bit.ly/3h01w3P",
+          "display_url": "bit.ly/3h01w3P",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1409335563996389379,
+          "id_str": "1409335563996389379",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/E473On1UYAMPNal.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E473On1UYAMPNal.jpg",
+          "url": "https://t.co/upV4XQwtSP",
+          "display_url": "pic.twitter.com/upV4XQwtSP",
+          "expanded_url": "https://twitter.com/wastemobile/status/1409335575300116480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 583,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1029,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1756,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1409335563996389379,
+          "id_str": "1409335563996389379",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/E473On1UYAMPNal.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E473On1UYAMPNal.jpg",
+          "url": "https://t.co/upV4XQwtSP",
+          "display_url": "pic.twitter.com/upV4XQwtSP",
+          "expanded_url": "https://twitter.com/wastemobile/status/1409335575300116480/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 583,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1029,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1756,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 28 01:17:37 +0000 2021",
+    "id": 1409320047353335813,
+    "id_str": "1409320047353335813",
+    "text": "優秀的一手⋯⋯塔羅牌。\n\n美國「文學塔羅牌」用故事占卜！愛麗絲夢遊仙境、福爾摩斯等文學化身78張命運卡牌 https://t.co/bCNwV00bE9 https://t.co/0Ken9P5PM9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bCNwV00bE9",
+          "expanded_url": "https://bit.ly/3djK7RI",
+          "display_url": "bit.ly/3djK7RI",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1409320041141608451,
+          "id_str": "1409320041141608451",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/E47pHEsVoAMPwwd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E47pHEsVoAMPwwd.jpg",
+          "url": "https://t.co/0Ken9P5PM9",
+          "display_url": "pic.twitter.com/0Ken9P5PM9",
+          "expanded_url": "https://twitter.com/wastemobile/status/1409320047353335813/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1409320041141608451,
+          "id_str": "1409320041141608451",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/E47pHEsVoAMPwwd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E47pHEsVoAMPwwd.jpg",
+          "url": "https://t.co/0Ken9P5PM9",
+          "display_url": "pic.twitter.com/0Ken9P5PM9",
+          "expanded_url": "https://twitter.com/wastemobile/status/1409320047353335813/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 28 01:09:14 +0000 2021",
+    "id": 1409317935999455237,
+    "id_str": "1409317935999455237",
+    "text": "不管哪一種物流倉儲設計，只能支應13.1%的成長就塞到幾乎出不了貨？隱約覺得不對勁。\n\n網購需求奔天高！momo業績已是對手2倍，專家點出2關鍵讓電商平台大者恆大 https://t.co/rklOzQGStH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rklOzQGStH",
+          "expanded_url": "https://bit.ly/3h5z3sk",
+          "display_url": "bit.ly/3h5z3sk",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1350249851175354370,
+    "in_reply_to_status_id_str": "1350249851175354370",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 28 01:00:25 +0000 2021",
+    "id": 1409315715702657034,
+    "id_str": "1409315715702657034",
+    "text": "「我是唱片收藏者，有約1.5萬張唱片。我就是以『有這樣的音樂，大家也聽聽吧』的感覺提出企劃後，各種想法就出來了。（我自己）已經準備好了可以播出兩三年的節目。」\n\n村上春樹專訪談藝術責任 https://t.co/38yZnn41lI https://t.co/0qAR4xS0e7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/38yZnn41lI",
+          "expanded_url": "https://bit.ly/3gZz9mD",
+          "display_url": "bit.ly/3gZz9mD",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1409315709780299776,
+          "id_str": "1409315709780299776",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/E47lK9HVEAAVvKF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E47lK9HVEAAVvKF.jpg",
+          "url": "https://t.co/0qAR4xS0e7",
+          "display_url": "pic.twitter.com/0qAR4xS0e7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1409315715702657034/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 374,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 374,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 374,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1409315709780299776,
+          "id_str": "1409315709780299776",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/E47lK9HVEAAVvKF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E47lK9HVEAAVvKF.jpg",
+          "url": "https://t.co/0qAR4xS0e7",
+          "display_url": "pic.twitter.com/0qAR4xS0e7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1409315715702657034/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 374,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 374,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 374,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408596529590403076,
+    "in_reply_to_status_id_str": "1408596529590403076",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 27 04:24:54 +0000 2021",
+    "id": 1409004787908046848,
+    "id_str": "1409004787908046848",
+    "text": "鮨七海外帶便當獲得超差評⋯⋯🙀\n\n日料外帶壽司賣4500還能吃到超生氣？連續七天每天都吃超貴高檔防疫便當！Day6【美食公道伯】 https://t.co/AiGK6IOlCK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AiGK6IOlCK",
+          "expanded_url": "https://youtu.be/nizFve-0Wyk",
+          "display_url": "youtu.be/nizFve-0Wyk",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1405135989081710603,
+    "in_reply_to_status_id_str": "1405135989081710603",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 27 01:42:27 +0000 2021",
     "id": 1408963907339702278,
     "id_str": "1408963907339702278",
