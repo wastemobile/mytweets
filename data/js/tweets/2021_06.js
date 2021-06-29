@@ -1,5 +1,279 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Tue Jun 29 03:27:50 +0000 2021",
+    "id": 1409715203743260672,
+    "id_str": "1409715203743260672",
+    "text": "根據AAP美國出版商協會的資料，美國書店陸續解封後，4月的書籍銷售相較去年有了35.2%的成長。\n\n精裝書成長49.4%、平裝本成長44%，有聲書不管是數位下載或實體媒材都上升，唯一小幅下降1.2%的是電子書，年度計算仍是成長，就… https://t.co/d3nLddCbUJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d3nLddCbUJ",
+          "expanded_url": "https://twitter.com/i/web/status/1409715203743260672",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 29 02:47:34 +0000 2021",
+    "id": 1409705070938132483,
+    "id_str": "1409705070938132483",
+    "text": "透過新的Play Media Experience Program，google將降低影音與電子書內容的抽成，從30%降到15%。\n\n開發者必須配合新的要求，以有聲書為例，必須同步上Wear OS, Android Auto, A… https://t.co/m8Jh0aM77h",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/m8Jh0aM77h",
+          "expanded_url": "https://twitter.com/i/web/status/1409705070938132483",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 28 03:30:23 +0000 2021",
+    "id": 1409353456050053124,
+    "id_str": "1409353456050053124",
+    "text": "RT @freedomi30201: @wastemobile （內文）講故事就是非常重要的事情。通過講故事，能夠在不知不覺中進入人們心中、理論上無法説明的東西巧妙地表達出來。我希望能創造這樣的一個地方。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "freedomi30201",
+          "name": "木工系のFreeDom",
+          "id": 402561720,
+          "id_str": "402561720",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "wastemobile",
+          "name": "wastemobile",
+          "id": 20709129,
+          "id_str": "20709129",
+          "indices": [
+            19,
+            31
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 28 03:28:57 +0000 2021",
+      "id": 1409353097030225922,
+      "id_str": "1409353097030225922",
+      "text": "@wastemobile （內文）講故事就是非常重要的事情。通過講故事，能夠在不知不覺中進入人們心中、理論上無法説明的東西巧妙地表達出來。我希望能創造這樣的一個地方。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1408596529590403076,
+      "in_reply_to_status_id_str": "1408596529590403076",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 402561720,
+        "id_str": "402561720",
+        "name": "木工系のFreeDom",
+        "screen_name": "freedomi30201",
+        "location": "新竹市, 台灣",
+        "description": "與先生一同，終其一生成為單純的信仰者。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 200,
+        "friends_count": 855,
+        "listed_count": 2,
+        "created_at": "Tue Nov 01 08:05:22 +0000 2011",
+        "favourites_count": 13597,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11861,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1073067187588362241/WcieNaEo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073067187588362241/WcieNaEo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/402561720/1544674282",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jun 28 02:19:19 +0000 2021",
     "id": 1409335575300116480,
     "id_str": "1409335575300116480",
