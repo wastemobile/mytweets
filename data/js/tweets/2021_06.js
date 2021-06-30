@@ -1,5 +1,502 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Wed Jun 30 01:32:08 +0000 2021",
+    "id": 1410048473362157575,
+    "id_str": "1410048473362157575",
+    "text": "BookBeat應該在第二季結束時會跨越50萬訂閱用戶門檻，目前在瑞典、芬蘭以及德國都有超過10萬訂戶。\n\n雖然也在英國市場勉強生存，但持續抱怨英國出版商偏好亞馬遜旗下的Audible（點數兌換制、非吃到飽），甚至預言Audibl… https://t.co/fabPRTmC8X",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fabPRTmC8X",
+          "expanded_url": "https://twitter.com/i/web/status/1410048473362157575",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1314759535874064384,
+    "in_reply_to_status_id_str": "1314759535874064384",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 29 15:40:58 +0000 2021",
+    "id": 1409899703286648834,
+    "id_str": "1409899703286648834",
+    "text": "台灣疫情應該不至於拖那麼久，但現在可以看看，美國在2000萬人失業的2020疫情災年，出版業逆勢成長、實體書店備受打擊的「K型復甦」。\n\n獨立書店十年復興被2020一筆勾銷，數位轉型究竟該怎麼辦？\n\n美國書業2020… https://t.co/pVpMXGuiiw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pVpMXGuiiw",
+          "expanded_url": "https://twitter.com/i/web/status/1409899703286648834",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1355774244265750532,
+    "in_reply_to_status_id_str": "1355774244265750532",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 29 15:09:55 +0000 2021",
+    "id": 1409891889436717059,
+    "id_str": "1409891889436717059",
+    "text": "無法確定作者佐々木俊尚在文中所提，「ABA曾與google合作提振書店、成效不佳⋯⋯」一事，究竟是指什麼。\n\n有印象的是2010年底google曾讓ABA會員書店賣電子書，但兩年後整合play後就停止、改由Kobo接手。\n\n情境有些不合，但找不到其他合作情事。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1409731090537877507,
+    "in_reply_to_status_id_str": "1409731090537877507",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 29 10:06:58 +0000 2021",
+    "id": 1409815649979822085,
+    "id_str": "1409815649979822085",
+    "text": "RT @courselee: 《我喜歡這樣的生活》\n果子離新書預購中\nhttps://t.co/GPkg0cGl1d",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "courselee",
+          "name": "courselee",
+          "id": 400495070,
+          "id_str": "400495070",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GPkg0cGl1d",
+          "expanded_url": "https://www.books.com.tw/products/0010895515",
+          "display_url": "books.com.tw/products/00108…",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 29 10:03:19 +0000 2021",
+      "id": 1409814729262977030,
+      "id_str": "1409814729262977030",
+      "text": "《我喜歡這樣的生活》\n果子離新書預購中\nhttps://t.co/GPkg0cGl1d",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GPkg0cGl1d",
+            "expanded_url": "https://www.books.com.tw/products/0010895515",
+            "display_url": "books.com.tw/products/00108…",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 400495070,
+        "id_str": "400495070",
+        "name": "courselee",
+        "screen_name": "courselee",
+        "location": "台灣，台北",
+        "description": "我的日知錄。流水書影誌。閱微炒糖筆記 。",
+        "url": "https://t.co/UZTHIAxfnH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UZTHIAxfnH",
+                "expanded_url": "https://www.facebook.com/giffword",
+                "display_url": "facebook.com/giffword",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 338,
+        "friends_count": 58,
+        "listed_count": 14,
+        "created_at": "Sat Oct 29 03:56:25 +0000 2011",
+        "favourites_count": 1513,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2390,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1611703709/yyyyyy_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611703709/yyyyyy_normal.JPG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/400495070/1397609388",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 29 09:34:08 +0000 2021",
+    "id": 1409807385724538881,
+    "id_str": "1409807385724538881",
+    "text": "這是在乾涸的水庫中跑Jimny、然後用無人機拍攝的吧～\n\n［ WhereJimnyGo ] 五十年來最大旱災│水荒│曾文水庫、烏山頭水庫 https://t.co/zLlL0kNsyx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zLlL0kNsyx",
+          "expanded_url": "https://youtu.be/UKBigydydO8",
+          "display_url": "youtu.be/UKBigydydO8",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1400438574768480263,
+    "in_reply_to_status_id_str": "1400438574768480263",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 29 05:52:40 +0000 2021",
+    "id": 1409751654199529474,
+    "id_str": "1409751654199529474",
+    "text": "兩週前身處美國的友人，耐著時差替台北市老父親上網預約、找人協助前往，人仰馬翻。\n\n家中長者住桃園，里幹事送通知單、按時間去打，第二位今天收到7/4施打通知，時段分流，安心在家等。\n\n不是桃園厲害，戶政鄰里系統本來就在，台北市是故意… https://t.co/7rvMcJKO5Y",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7rvMcJKO5Y",
+          "expanded_url": "https://twitter.com/i/web/status/1409751654199529474",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1408253540133343236,
+    "in_reply_to_status_id_str": "1408253540133343236",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 43,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 29 04:30:58 +0000 2021",
+    "id": 1409731090537877507,
+    "id_str": "1409731090537877507",
+    "text": "日本有個服務叫Staff Start，提供門市店員DX（數位轉型），有點像店員網紅化、善用社群媒體等，但強調店舖與店員的合作、而非個體戶的自販。\n\n這篇最後兩段說到，其實書店店員最適合也最需要類似的轉型，美國書店協會曾與googl… https://t.co/zrmCtmoWtu",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zrmCtmoWtu",
+          "expanded_url": "https://twitter.com/i/web/status/1409731090537877507",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jun 29 03:27:50 +0000 2021",
     "id": 1409715203743260672,
     "id_str": "1409715203743260672",
