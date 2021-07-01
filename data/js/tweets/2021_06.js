@@ -1,5 +1,668 @@
 Grailbird.data.tweets_2021_06 = [
   {
+    "created_at": "Wed Jun 30 14:17:52 +0000 2021",
+    "id": 1410241178163765249,
+    "id_str": "1410241178163765249",
+    "text": "這裡有一篇「一冊！取引所」週年訪談文章，兩位創辦人解釋了為什麼現在的日本仍然需要一個直接連接出版商與（獨立）書店的雲端服務。\n\nhttps://t.co/i211vwcIe0 https://t.co/VSAzyskz1i",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/i211vwcIe0",
+          "expanded_url": "https://bit.ly/3xbBdxl",
+          "display_url": "bit.ly/3xbBdxl",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1410241171905937412,
+          "id_str": "1410241171905937412",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5Iu38MVgAQ_8Ql.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5Iu38MVgAQ_8Ql.jpg",
+          "url": "https://t.co/VSAzyskz1i",
+          "display_url": "pic.twitter.com/VSAzyskz1i",
+          "expanded_url": "https://twitter.com/wastemobile/status/1410241178163765249/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1410241171905937412,
+          "id_str": "1410241171905937412",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5Iu38MVgAQ_8Ql.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5Iu38MVgAQ_8Ql.jpg",
+          "url": "https://t.co/VSAzyskz1i",
+          "display_url": "pic.twitter.com/VSAzyskz1i",
+          "expanded_url": "https://twitter.com/wastemobile/status/1410241178163765249/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1410237512576946177,
+    "in_reply_to_status_id_str": "1410237512576946177",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 30 14:03:18 +0000 2021",
+    "id": 1410237512576946177,
+    "id_str": "1410237512576946177",
+    "text": "2020年6月使用booksPro資料的「一冊！取引所」開通，就一個工程師 https://t.co/qoDeVcTLN2\n\n至今81家出版社、780間獨立書店使用中，雖然東販、日販約佔日本圖書發行的八成，但強調「一本也能交易」的… https://t.co/6ZfgcIzltH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qoDeVcTLN2",
+          "expanded_url": "https://1satsu.jp",
+          "display_url": "1satsu.jp",
+          "indices": [
+            38,
+            61
+          ]
+        },
+        {
+          "url": "https://t.co/6ZfgcIzltH",
+          "expanded_url": "https://twitter.com/i/web/status/1410237512576946177",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1410232039937232898,
+    "in_reply_to_status_id_str": "1410232039937232898",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 30 13:41:33 +0000 2021",
+    "id": 1410232039937232898,
+    "id_str": "1410232039937232898",
+    "text": "疫情讓日本圖書業認真思考「數位轉型」，但第一步得要有「數位資料」。\n\n2020/3/10日本出版業協會旗下 https://t.co/nlm7aAl7O8 開業，這是出版商、代理商與書店共享的書目資料庫，包含即將出版、各種圖書行銷… https://t.co/r52cQvIkzA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nlm7aAl7O8",
+          "expanded_url": "http://bookspro.jp",
+          "display_url": "bookspro.jp",
+          "indices": [
+            54,
+            77
+          ]
+        },
+        {
+          "url": "https://t.co/r52cQvIkzA",
+          "expanded_url": "https://twitter.com/i/web/status/1410232039937232898",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1409891889436717059,
+    "in_reply_to_status_id_str": "1409891889436717059",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 30 06:25:32 +0000 2021",
+    "id": 1410122310325993474,
+    "id_str": "1410122310325993474",
+    "text": "疫情記者會花30秒報告完確診人數，接下來都在替阿北補課⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1410121305441984513,
+    "in_reply_to_status_id_str": "1410121305441984513",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 30 06:21:32 +0000 2021",
+    "id": 1410121305441984513,
+    "id_str": "1410121305441984513",
+    "text": "哇！已知用火，可喜可賀。 #心真的好累 https://t.co/43GysR8Qmp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "心真的好累",
+          "indices": [
+            13,
+            19
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/43GysR8Qmp",
+          "expanded_url": "https://twitter.com/_firstsnow/status/1410120953275707393",
+          "display_url": "twitter.com/_firstsnow/sta…",
+          "indices": [
+            20,
+            43
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1410120953275707393,
+    "quoted_status_id_str": "1410120953275707393",
+    "quoted_status": {
+      "created_at": "Wed Jun 30 06:20:08 +0000 2021",
+      "id": 1410120953275707393,
+      "id_str": "1410120953275707393",
+      "text": "台北市 (首次) 上傳足跡 https://t.co/94jFyAbeuz https://t.co/Wc5p8dCr3e",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/94jFyAbeuz",
+            "expanded_url": "https://www.cdc.gov.tw/Category/MPage/loop4iOPhf_imhA8Ih6BdA",
+            "display_url": "cdc.gov.tw/Category/MPage…",
+            "indices": [
+              14,
+              37
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1410120894211510273,
+            "id_str": "1410120894211510273",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/E5HBe23VUAEEAlM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E5HBe23VUAEEAlM.jpg",
+            "url": "https://t.co/Wc5p8dCr3e",
+            "display_url": "pic.twitter.com/Wc5p8dCr3e",
+            "expanded_url": "https://twitter.com/_firstsnow/status/1410120953275707393/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1344,
+                "h": 1008,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1410120894211510273,
+            "id_str": "1410120894211510273",
+            "indices": [
+              38,
+              61
+            ],
+            "media_url": "http://pbs.twimg.com/media/E5HBe23VUAEEAlM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E5HBe23VUAEEAlM.jpg",
+            "url": "https://t.co/Wc5p8dCr3e",
+            "display_url": "pic.twitter.com/Wc5p8dCr3e",
+            "expanded_url": "https://twitter.com/_firstsnow/status/1410120953275707393/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1344,
+                "h": 1008,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 514195773,
+        "id_str": "514195773",
+        "name": "첫눈처럼.",
+        "screen_name": "_firstsnow",
+        "location": "",
+        "description": "人們傳說\n一個童話太美麗\n美麗的令人懷疑\n我卻知道它在哪裡",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7073,
+        "friends_count": 197,
+        "listed_count": 70,
+        "created_at": "Sun Mar 04 10:35:01 +0000 2012",
+        "favourites_count": 1184,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 43510,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/729641746833936384/3ABKhteZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/729641746833936384/3ABKhteZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/514195773/1512311431",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 59,
+      "favorite_count": 235,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 30 05:55:39 +0000 2021",
+    "id": 1410114792363159555,
+    "id_str": "1410114792363159555",
+    "text": "確實傳統漫畫刻意設計的跨頁大圖，往往能在翻閱時讓人眼睛一亮、精神一振。\n\n話說那台真的不是聯想ThinkPad X1 Fold（軟性OLED）？\n\n日本漫畫推行電子書恐影響閱讀體驗!?《第一神拳》森川讓次推特發文表示甚感擔憂… https://t.co/FthNN5fn3q",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FthNN5fn3q",
+          "expanded_url": "https://twitter.com/i/web/status/1410114792363159555",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 30 04:48:17 +0000 2021",
+    "id": 1410097839053492228,
+    "id_str": "1410097839053492228",
+    "text": "一本輕鬆的小說，不是文學巨著，但整本圍繞著一間舊書店開展，在一本本書頁中尋寶解謎，逐步挖掘神秘親戚如何堅持文學選書而經營不善、瀕臨倒閉，主角又如何重振這間意外丟到她手上的書店。 #關於書的書\n\n書店與主角名都出自《暴風雨》，要察覺… https://t.co/DBFMda4pKK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            89,
+            95
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DBFMda4pKK",
+          "expanded_url": "https://twitter.com/i/web/status/1410097839053492228",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1407569523444654082,
+    "in_reply_to_status_id_str": "1407569523444654082",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jun 30 01:32:08 +0000 2021",
     "id": 1410048473362157575,
     "id_str": "1410048473362157575",
