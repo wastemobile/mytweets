@@ -1,5 +1,537 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Sat Jul 10 03:01:18 +0000 2021",
+    "id": 1413694794371530752,
+    "id_str": "1413694794371530752",
+    "text": "Substack邀請前Forbes作家出版新書，每週出一篇連載，讀者得用月付$5或年付$50訂閱，復古重現連載成書的老把戲。\n\n據說預付金與傳統出版相當，一般付費訂閱平臺抽10%，預付者第一年抽85%，substack選擇扮演擔風… https://t.co/AJY9D9aVhd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AJY9D9aVhd",
+          "expanded_url": "https://twitter.com/i/web/status/1413694794371530752",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jul 10 02:41:39 +0000 2021",
+    "id": 1413689849027076099,
+    "id_str": "1413689849027076099",
+    "text": "RT @ynsuper1: 今天\n請容許我再提醒大家一下\n我們台灣的防疫團隊已經幫大家多爭取了五百多天的生存空間了\n我不知道\n如果你還有良知的話\n說句謝謝你們大家辛苦了\n真的會有這麼難嗎？\n\n這些人理當是抬頭挺胸昂首闊步地接受大家的歡呼\n而不是被無止盡的嘲諷跟責難\n\n溫馨提醒…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ynsuper1",
+          "name": "蘇怡寧",
+          "id": 2980071871,
+          "id_str": "2980071871",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Jul 10 00:34:46 +0000 2021",
+      "id": 1413657916960243712,
+      "id_str": "1413657916960243712",
+      "text": "今天\n請容許我再提醒大家一下\n我們台灣的防疫團隊已經幫大家多爭取了五百多天的生存空間了\n我不知道\n如果你還有良知的話\n說句謝謝你們大家辛苦了\n真的會有這麼難嗎？\n\n這些人理當是抬頭挺胸昂首闊步地接受大家的歡呼\n而不是被無止盡的嘲諷… https://t.co/weZathNsxq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/weZathNsxq",
+            "expanded_url": "https://twitter.com/i/web/status/1413657916960243712",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2980071871,
+        "id_str": "2980071871",
+        "name": "蘇怡寧",
+        "screen_name": "ynsuper1",
+        "location": "",
+        "description": "一個中年愛碎念的大叔",
+        "url": "https://t.co/Ua1flZ1I3Y",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Ua1flZ1I3Y",
+                "expanded_url": "https://drsu.blog",
+                "display_url": "drsu.blog",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1319,
+        "friends_count": 103,
+        "listed_count": 7,
+        "created_at": "Tue Jan 13 16:15:45 +0000 2015",
+        "favourites_count": 75,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 36,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1413026854479400964/Q9TkbqlM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413026854479400964/Q9TkbqlM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2980071871/1625726830",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 50,
+      "favorite_count": 264,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jul 10 02:33:18 +0000 2021",
+    "id": 1413687745185075207,
+    "id_str": "1413687745185075207",
+    "text": "剛開始看《The Watch》，泰瑞．普萊契爵士大名鼎鼎的「碟形世界」改編影集，在英國被稱為「書店業績救世主」的系列作品，台灣出版過卻不太受注目。\n\n路上的監視器都是小妖精在裡面快速作畫，從一本遺失的圖書館藏書開展的城市奇幻大作，… https://t.co/atItWpYaS7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/atItWpYaS7",
+          "expanded_url": "https://twitter.com/i/web/status/1413687745185075207",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jul 10 02:11:03 +0000 2021",
+    "id": 1413682148159102977,
+    "id_str": "1413682148159102977",
+    "text": "現今仍有200多名雪茄廠裡的朗讀者（Lector）任職國有工廠，有說經典雪茄品牌 Montecristos 和 Romeo y Julieta，名字正是來自工人捲煙時聽過的「基度山恩仇記」和「羅密歐與茱麗葉」。\n\n古巴雪茄文化：聽… https://t.co/TL6spO15Bq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TL6spO15Bq",
+          "expanded_url": "https://twitter.com/i/web/status/1413682148159102977",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 09 13:21:26 +0000 2021",
+    "id": 1413488466520801287,
+    "id_str": "1413488466520801287",
+    "text": "RT @JohnCarreyrou: So... I’ve got some news... In late August, the criminal trial of Elizabeth Holmes will begin and I’ll be there to cover…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JohnCarreyrou",
+          "name": "John Carreyrou",
+          "id": 1968962180,
+          "id_str": "1968962180",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 08 15:08:13 +0000 2021",
+      "id": 1413152952294940679,
+      "id_str": "1413152952294940679",
+      "text": "So... I’ve got some news... In late August, the criminal trial of Elizabeth Holmes will begin and I’ll be there to… https://t.co/TqkhHo9JKR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TqkhHo9JKR",
+            "expanded_url": "https://twitter.com/i/web/status/1413152952294940679",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1968962180,
+        "id_str": "1968962180",
+        "name": "John Carreyrou",
+        "screen_name": "JohnCarreyrou",
+        "location": "Brooklyn, NY",
+        "description": "I make podcasts @3uncanny4. Bestselling author of Bad Blood: Secrets and Lies in a Silicon Valley Startup. Former @WSJ reporter.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 36239,
+        "friends_count": 715,
+        "listed_count": 535,
+        "created_at": "Fri Oct 18 14:14:44 +0000 2013",
+        "favourites_count": 316,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2722,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/860136471835144192/GJs2j4Km_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/860136471835144192/GJs2j4Km_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968962180/1526944823",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 691,
+      "favorite_count": 7118,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 691,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 08 09:43:17 +0000 2021",
+    "id": 1413071178072133633,
+    "id_str": "1413071178072133633",
+    "text": "第一次在三民網站買書，前一週書就到了，然後今天收到詐騙電話⋯⋯😮‍💨",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1407946845679013888,
+    "in_reply_to_status_id_str": "1407946845679013888",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jul 08 09:17:29 +0000 2021",
     "id": 1413064685201489922,
     "id_str": "1413064685201489922",
