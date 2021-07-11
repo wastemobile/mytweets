@@ -1,5 +1,309 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Sun Jul 11 03:38:19 +0000 2021",
+    "id": 1414066496716754949,
+    "id_str": "1414066496716754949",
+    "text": "終於買了《大轉向》，擺在 #關於書的書 清單中蠻久，不知能啃下多少。\n\n主要講述《物性論》被意外發現的過程、受它影響的人們，以及如何觸發人類文明發展的關鍵轉折。\n\n話說2014年版定價380、2019新版510元，買二手書比電子書… https://t.co/HKccOEZ1oq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            13,
+            19
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HKccOEZ1oq",
+          "expanded_url": "https://twitter.com/i/web/status/1414066496716754949",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1410808677741723652,
+    "in_reply_to_status_id_str": "1410808677741723652",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 11 03:01:22 +0000 2021",
+    "id": 1414057196703281156,
+    "id_str": "1414057196703281156",
+    "text": "荷蘭6/26解封後，群聚加上Delta變種病毒傳播，染疫人數持續上升，推特最新消息7/10單日破萬例，而且年輕人居多。\n\n人口比台灣少（1700多萬），疫苗完整接種671萬人（38.8%）、接種一劑1,118萬人（64.7%）。… https://t.co/3Z7efIfcSB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3Z7efIfcSB",
+          "expanded_url": "https://twitter.com/i/web/status/1414057196703281156",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 11 02:50:54 +0000 2021",
+    "id": 1414054562822950912,
+    "id_str": "1414054562822950912",
+    "text": "疫情時期的產業變化，加速了數位應用、訂閱制的影響，雖然日後必然有些拉回，但核心變化還是提前發生了。\n\n居家防疫的消費需求，使「網路」音樂著作權收入超過「廣播」  https://t.co/DT2jbQIMjs https://t.co/cYhkltkXRK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DT2jbQIMjs",
+          "expanded_url": "https://bit.ly/3k56RJ3",
+          "display_url": "bit.ly/3k56RJ3",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1414054556527251457,
+          "id_str": "1414054556527251457",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5-7II7UUAEBMzX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5-7II7UUAEBMzX.jpg",
+          "url": "https://t.co/cYhkltkXRK",
+          "display_url": "pic.twitter.com/cYhkltkXRK",
+          "expanded_url": "https://twitter.com/wastemobile/status/1414054562822950912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 601,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 884,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 884,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1414054556527251457,
+          "id_str": "1414054556527251457",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5-7II7UUAEBMzX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5-7II7UUAEBMzX.jpg",
+          "url": "https://t.co/cYhkltkXRK",
+          "display_url": "pic.twitter.com/cYhkltkXRK",
+          "expanded_url": "https://twitter.com/wastemobile/status/1414054562822950912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 601,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 884,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 884,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jul 10 15:29:10 +0000 2021",
+    "id": 1413883001532928001,
+    "id_str": "1413883001532928001",
+    "text": "@keeper7478 只看了兩集BBC影集，雖然有從其他故事取材（例如新手死神的形象），目前看來還在《來人啊！》這本範圍內，至少隊員登場的順序、企圖召喚龍的反派⋯⋯不知後面走向如何就是了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "keeper7478",
+          "name": "Keeper",
+          "id": 112723516,
+          "id_str": "112723516",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1413799360786173952,
+    "in_reply_to_status_id_str": "1413799360786173952",
+    "in_reply_to_user_id": 112723516,
+    "in_reply_to_user_id_str": "112723516",
+    "in_reply_to_screen_name": "keeper7478",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jul 10 03:01:18 +0000 2021",
     "id": 1413694794371530752,
     "id_str": "1413694794371530752",
