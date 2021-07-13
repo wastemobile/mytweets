@@ -1,5 +1,330 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Tue Jul 13 01:55:20 +0000 2021",
+    "id": 1414765356971741185,
+    "id_str": "1414765356971741185",
+    "text": "日本大型藥廠「第一三共」研發COVID-19疫苗（mRNA），研擬採用「非劣性試驗」（non-inferiority trials），比較施打第一三共疫苗者和已經施打市面疫苗者體內的抗體量。\n\n就是台灣國產疫苗說的「免疫橋接」方式… https://t.co/irn4mvs9oM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/irn4mvs9oM",
+          "expanded_url": "https://twitter.com/i/web/status/1414765356971741185",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1412085297760796677,
+    "in_reply_to_status_id_str": "1412085297760796677",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 13 01:45:03 +0000 2021",
+    "id": 1414762768192786435,
+    "id_str": "1414762768192786435",
+    "text": "德國去年3波疫情，書店關閉、書展與新書發表大多取消，但出版業績維持持平（增加0.1%）。\n\n實體書店的網路銷售成長27%，德國亞馬遜卻只增加7%，平常約佔網路銷售的一半。\n\n對比一下，時報出版2021年6月衰退54.75%。… https://t.co/SyGaHNwIGq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SyGaHNwIGq",
+          "expanded_url": "https://twitter.com/i/web/status/1414762768192786435",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jul 12 12:42:43 +0000 2021",
+    "id": 1414565887055519745,
+    "id_str": "1414565887055519745",
+    "text": "感謝台積電，還有美、日。 https://t.co/U2U8niLuLr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/U2U8niLuLr",
+          "expanded_url": "https://twitter.com/taiwannews_setn/status/1414561639639121928",
+          "display_url": "twitter.com/taiwannews_set…",
+          "indices": [
+            13,
+            36
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1414561639639121928,
+    "quoted_status_id_str": "1414561639639121928",
+    "quoted_status": {
+      "created_at": "Mon Jul 12 12:25:50 +0000 2021",
+      "id": 1414561639639121928,
+      "id_str": "1414561639639121928",
+      "text": "《路透社》報導中提到，中國之所以很難干預這筆交易，主要原因是「台積電的參與」，以及「美國、日本無條件捐贈疫苗」\nhttps://t.co/8DNmndN6z0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/8DNmndN6z0",
+            "expanded_url": "https://www.setn.com/News.aspx?NewsID=966485&utm_source=twitter&utm_medium=tweet",
+            "display_url": "setn.com/News.aspx?News…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1010029591023386627,
+        "id_str": "1010029591023386627",
+        "name": "三立新聞網 SETN.COM",
+        "screen_name": "taiwannews_setn",
+        "location": "Taipei City, Taiwan",
+        "description": "台灣重大突發新聞、全球最新政經脈動、最實用的生活資訊、偶像明星最新話題，快追蹤《#三立新聞網》讓你搶先知道！ #三立新聞 #台灣新聞 #台湾新闻 #娛樂新聞 #新聞 #新闻 #台灣 #台湾 #ニュース #SETN #SETnews #News #TaiwanNews #BreakingNews #Taiwan",
+        "url": "https://t.co/YkwqLNMRbb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/YkwqLNMRbb",
+                "expanded_url": "http://SETN.COM",
+                "display_url": "SETN.COM",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 24615,
+        "friends_count": 369,
+        "listed_count": 184,
+        "created_at": "Fri Jun 22 05:19:54 +0000 2018",
+        "favourites_count": 363,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16255,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1252801345259618304/6Ht90Dbb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252801345259618304/6Ht90Dbb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010029591023386627/1531892740",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 19,
+      "favorite_count": 81,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jul 12 04:51:10 +0000 2021",
+    "id": 1414447216370995200,
+    "id_str": "1414447216370995200",
+    "text": "照這個趨勢看起來，我輕鬆打個三劑AZ應該沒問題（茶～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jul 12 03:35:42 +0000 2021",
     "id": 1414428224239529986,
     "id_str": "1414428224239529986",
