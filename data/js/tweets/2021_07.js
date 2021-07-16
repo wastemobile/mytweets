@@ -1,5 +1,1071 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Fri Jul 16 03:37:40 +0000 2021",
+    "id": 1415878272840192002,
+    "id_str": "1415878272840192002",
+    "text": "排麥當勞🍔得來速的時間，比打疫苗還久。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 16 01:23:11 +0000 2021",
+    "id": 1415844427281563649,
+    "id_str": "1415844427281563649",
+    "text": "@angiesaid 只看過電影的默默飄過～～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "angiesaid",
+          "name": "清流吉",
+          "id": 242133,
+          "id_str": "242133",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415844043867627520,
+    "in_reply_to_status_id_str": "1415844043867627520",
+    "in_reply_to_user_id": 242133,
+    "in_reply_to_user_id_str": "242133",
+    "in_reply_to_screen_name": "angiesaid",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 16 01:12:00 +0000 2021",
+    "id": 1415841612492525574,
+    "id_str": "1415841612492525574",
+    "text": "她匿名在五〇年代寫的小說《鹽的代價》（後改書名為Carol），講述百貨公司售貨員與逛街貴婦間的同性愛戀，改編電影就是 #Netflix 《因為愛你》。\n\n魯妮瑪拉飾演的售貨員，就是海史密斯，在極為保守的年代、以開放結局暗示happ… https://t.co/BCfOyt42E9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            59,
+            67
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BCfOyt42E9",
+          "expanded_url": "https://twitter.com/i/web/status/1415841612492525574",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415838794293547008,
+    "in_reply_to_status_id_str": "1415838794293547008",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 16 01:00:48 +0000 2021",
+    "id": 1415838794293547008,
+    "id_str": "1415838794293547008",
+    "text": "派翠西亞·海史密斯的日記（經編輯篩選整理），即將在11月她的百歲冥誕出版，即創造了天才雷普利角色的作家。\n\nFor the first time, Patricia Highsmith’s diaries will be avai… https://t.co/jcJmDWS98u",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jcJmDWS98u",
+          "expanded_url": "https://twitter.com/i/web/status/1415838794293547008",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 15 14:47:00 +0000 2021",
+    "id": 1415684327489228801,
+    "id_str": "1415684327489228801",
+    "text": "40. Secondhand Time《二手時代》 #kobo\n\n2015年諾貝爾文學獎得主亞歷塞維奇的作品，其延續了杜斯妥也夫斯基晚期複調小說（polyphony），每本作品皆採訪數百人，以一種紀錄片式的文獻文學著稱。\n\n「從來… https://t.co/vpqmlJZEMX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            26,
+            31
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vpqmlJZEMX",
+          "expanded_url": "https://twitter.com/i/web/status/1415684327489228801",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415622169116041217,
+    "in_reply_to_status_id_str": "1415622169116041217",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 15 11:39:41 +0000 2021",
+    "id": 1415637186658013184,
+    "id_str": "1415637186658013184",
+    "text": "RT @swpave: 不知道這篇文章反應如何？ https://t.co/WTBirXgeyK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "swpave",
+          "name": "豬小草",
+          "id": 133622918,
+          "id_str": "133622918",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WTBirXgeyK",
+          "expanded_url": "https://www.thenewslens.com/article/153489",
+          "display_url": "thenewslens.com/article/153489",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 14 21:13:52 +0000 2021",
+      "id": 1415419296197464066,
+      "id_str": "1415419296197464066",
+      "text": "不知道這篇文章反應如何？ https://t.co/WTBirXgeyK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/WTBirXgeyK",
+            "expanded_url": "https://www.thenewslens.com/article/153489",
+            "display_url": "thenewslens.com/article/153489",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 133622918,
+        "id_str": "133622918",
+        "name": "豬小草",
+        "screen_name": "swpave",
+        "location": "Taipei",
+        "description": "宅爸。跑者。短髮控",
+        "url": "https://t.co/OTZHaQPo1r",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OTZHaQPo1r",
+                "expanded_url": "http://swalk.blogspot.com",
+                "display_url": "swalk.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4474,
+        "friends_count": 1535,
+        "listed_count": 113,
+        "created_at": "Fri Apr 16 07:08:48 +0000 2010",
+        "favourites_count": 3033,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 126464,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/719426387879137281/y8csroLB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/719426387879137281/y8csroLB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/133622918/1579744000",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 15 10:40:00 +0000 2021",
+    "id": 1415622169116041217,
+    "id_str": "1415622169116041217",
+    "text": "39. The Satanic Verses《魔鬼詩篇》\n\nPowell’s Books居然選了魯西迪的爭議大作，因本書而懸賞的作者追殺令一直都沒正式撤銷。\n\n其實是很好看的魔幻寫實小說，敘事者是魔鬼本人。… https://t.co/nTVteWOehC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nTVteWOehC",
+          "expanded_url": "https://twitter.com/i/web/status/1415622169116041217",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415619329400340483,
+    "in_reply_to_status_id_str": "1415619329400340483",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 15 10:28:43 +0000 2021",
+    "id": 1415619329400340483,
+    "id_str": "1415619329400340483",
+    "text": "38. The Remains of the Day《長日將盡》\n\n2017年諾貝爾文學獎得主石黑一雄的名作，似乎應該要讀一下，但我一本都沒讀過，無法評論。\n\nhttps://t.co/XiiVIBvW7f https://t.co/yWqR6M8RRp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XiiVIBvW7f",
+          "expanded_url": "https://bit.ly/3r9Ge7x",
+          "display_url": "bit.ly/3r9Ge7x",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1415619323712864256,
+          "id_str": "1415619323712864256",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6VKRk8VgAAd-qi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6VKRk8VgAAd-qi.jpg",
+          "url": "https://t.co/yWqR6M8RRp",
+          "display_url": "pic.twitter.com/yWqR6M8RRp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1415619329400340483/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 400,
+              "h": 617,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 400,
+              "h": 617,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 400,
+              "h": 617,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1415619323712864256,
+          "id_str": "1415619323712864256",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6VKRk8VgAAd-qi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6VKRk8VgAAd-qi.jpg",
+          "url": "https://t.co/yWqR6M8RRp",
+          "display_url": "pic.twitter.com/yWqR6M8RRp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1415619329400340483/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 400,
+              "h": 617,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 400,
+              "h": 617,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 400,
+              "h": 617,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1415619323708645377,
+          "id_str": "1415619323708645377",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6VKRk7VIAEUyJm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6VKRk7VIAEUyJm.jpg",
+          "url": "https://t.co/yWqR6M8RRp",
+          "display_url": "pic.twitter.com/yWqR6M8RRp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1415619329400340483/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415617578970488837,
+    "in_reply_to_status_id_str": "1415617578970488837",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 15 10:21:46 +0000 2021",
+    "id": 1415617578970488837,
+    "id_str": "1415617578970488837",
+    "text": "37. The Princess Bride《公主新娘》（簡中）\n\n威廉・戈德曼以《虎豹小霸王》與《大陰謀》得過奧斯卡最佳劇本，這本似乎也拍過同名電影，像是顛覆童話橋段的喜劇。\n\n讀過幾篇他在《誰謀殺了好萊塢》影評集的文章，相當毒… https://t.co/47bv1DXoQe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/47bv1DXoQe",
+          "expanded_url": "https://twitter.com/i/web/status/1415617578970488837",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415614916644335617,
+    "in_reply_to_status_id_str": "1415614916644335617",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 15 10:11:11 +0000 2021",
+    "id": 1415614916644335617,
+    "id_str": "1415614916644335617",
+    "text": "36. Parable of the Sower《播种者寓言》（簡中）\n\n早逝的非裔美籍女科幻作家巴特勒，時常出現在科幻小說評論與研究文本中，播種與天賦這兩部系列是末日反烏托邦作品，播種者獲星雲獎提名、天賦寓言在1999終於獲得星… https://t.co/VMpUNJVtPj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VMpUNJVtPj",
+          "expanded_url": "https://twitter.com/i/web/status/1415614916644335617",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415611768324325376,
+    "in_reply_to_status_id_str": "1415611768324325376",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 15 09:58:41 +0000 2021",
+    "id": 1415611768324325376,
+    "id_str": "1415611768324325376",
+    "text": "35. Pale Blue Dot《暗淡藍點》（簡中）\n\n台灣智庫1996年以《預約新宇宙：為人類尋找新天地》為名出版過，早已絕版。書名來自航海家1號拍攝的著名地球照片，很好看的科普書，主張人類繼續生存的唯一出路，是遠離地球、尋訪… https://t.co/xqqt0AtfTa",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xqqt0AtfTa",
+          "expanded_url": "https://twitter.com/i/web/status/1415611768324325376",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415609714235252738,
+    "in_reply_to_status_id_str": "1415609714235252738",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 15 09:50:31 +0000 2021",
+    "id": 1415609714235252738,
+    "id_str": "1415609714235252738",
+    "text": "34. Pachinko《柏青哥》 #Kobo\n\n韓裔美籍作家李珉貞2017年在美國引起轟動的小說。據說一群朝鮮人在日本成了二等公民，轉而經營遊走法律邊緣的小鋼珠，在地下稱霸這個灰色產業。\n\nApple TV+改編影集據說今年要上… https://t.co/xDQhGEscme",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kobo",
+          "indices": [
+            18,
+            23
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xDQhGEscme",
+          "expanded_url": "https://twitter.com/i/web/status/1415609714235252738",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415607521780199426,
+    "in_reply_to_status_id_str": "1415607521780199426",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 15 09:41:48 +0000 2021",
+    "id": 1415607521780199426,
+    "id_str": "1415607521780199426",
+    "text": "33. Oranges Are Not the Only Fruit《柳橙不是唯一的水果》 #kobo\n\n一直還沒讀過珍奈．溫特森的小說，她被稱為當代最好也最具爭議的作家，台灣連她的自傳都出了。\n\n柳橙這書被衛報選為「死前必讀百大… https://t.co/ojfK4up2KI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            46,
+            51
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ojfK4up2KI",
+          "expanded_url": "https://twitter.com/i/web/status/1415607521780199426",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415605215458324490,
+    "in_reply_to_status_id_str": "1415605215458324490",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 15 09:32:38 +0000 2021",
+    "id": 1415605215458324490,
+    "id_str": "1415605215458324490",
+    "text": "31. The One-Straw Revolution《一根稻草的革命》\n\n福岡正信是世界知名的「自然農法」創始人，他的農業哲學及對地球生命科學的思考，不墾地／不施肥／無農藥／不除草，在日本與世界各地獲得極大迴響。\n\n在孟山都基… https://t.co/GKntpzoJPx",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GKntpzoJPx",
+          "expanded_url": "https://twitter.com/i/web/status/1415605215458324490",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415255344360525827,
+    "in_reply_to_status_id_str": "1415255344360525827",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 15 03:13:55 +0000 2021",
+    "id": 1415509905918676992,
+    "id_str": "1415509905918676992",
+    "text": "語言能力，包含外國語文與程式語言，小語種國家人民從小到大都應該視為重點學習標的。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1415476904488947712,
+    "in_reply_to_status_id_str": "1415476904488947712",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jul 15 01:52:04 +0000 2021",
     "id": 1415489310984265728,
     "id_str": "1415489310984265728",
