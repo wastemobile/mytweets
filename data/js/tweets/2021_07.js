@@ -1,5 +1,443 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Sun Jul 18 06:45:33 +0000 2021",
+    "id": 1416650328708050951,
+    "id_str": "1416650328708050951",
+    "text": "RT @ameliewu: 《 柏青哥 / Pachinko / #파친코 》全 8 集，改編自韓裔作家李珉貞 (Min Jin Lee) 的同名小說，故事在日治時期的背景下，描述韓國移民身處異鄉努力重新站起的辛酸血淚。從二十世紀初的朝鮮、二戰前後的大阪，最終來到東京和橫濱，乃…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "파친코",
+          "indices": [
+            33,
+            37
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ameliewu",
+          "name": "✞ ldh 迷妹打字機 -ˋˏ ♡ ˎˊ-",
+          "id": 6904132,
+          "id_str": "6904132",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jul 18 06:43:42 +0000 2021",
+      "id": 1416649863840768002,
+      "id_str": "1416649863840768002",
+      "text": "《 柏青哥 / Pachinko / #파친코 》全 8 集，改編自韓裔作家李珉貞 (Min Jin Lee) 的同名小說，故事在日治時期的背景下，描述韓國移民身處異鄉努力重新站起的辛酸血淚。從二十世紀初的朝鮮、二戰前後的大阪，最… https://t.co/eApDBFtEc9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "파친코",
+            "indices": [
+              19,
+              23
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eApDBFtEc9",
+            "expanded_url": "https://twitter.com/i/web/status/1416649863840768002",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6904132,
+        "id_str": "6904132",
+        "name": "✞ ldh 迷妹打字機 -ˋˏ ♡ ˎˊ-",
+        "screen_name": "ameliewu",
+        "location": "",
+        "description": "不可否認我就是一個這麼無聊的人。\n因為喜歡韓國，所以生活變得有點不一樣。\n​(*´д`)~♥ #이도현\n♪ #정재일 #변요한 #박강현 #이규형\n♬ ♫ #헤드윅 #팬레터",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 685,
+        "friends_count": 237,
+        "listed_count": 8,
+        "created_at": "Tue Jun 19 01:11:36 +0000 2007",
+        "favourites_count": 34,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1453,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "474747",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1389569971647258625/5IBGEX2w_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389569971647258625/5IBGEX2w_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6904132/1626655219",
+        "profile_link_color": "397D7A",
+        "profile_sidebar_border_color": "858285",
+        "profile_sidebar_fill_color": "708580",
+        "profile_text_color": "4A354A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1381696395762135049,
+      "quoted_status_id_str": "1381696395762135049",
+      "quoted_status": {
+        "created_at": "Mon Apr 12 19:51:06 +0000 2021",
+        "id": 1381696395762135049,
+        "id_str": "1381696395762135049",
+        "text": "Apple TV+’s Korean-saga Pachinko has wrapped filming in Vancouver 👀 #Pachinko #PACHINKO_Leeminho_HANSU https://t.co/OHjDZuiCZn",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Pachinko",
+              "indices": [
+                68,
+                77
+              ]
+            },
+            {
+              "text": "PACHINKO_Leeminho_HANSU",
+              "indices": [
+                78,
+                102
+              ]
+            }
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ],
+          "media": [
+            {
+              "id": 1381696341999517698,
+              "id_str": "1381696341999517698",
+              "indices": [
+                103,
+                126
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1381696341999517698/pu/img/aUIuxkBN8gXlB3Qd.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1381696341999517698/pu/img/aUIuxkBN8gXlB3Qd.jpg",
+              "url": "https://t.co/OHjDZuiCZn",
+              "display_url": "pic.twitter.com/OHjDZuiCZn",
+              "expanded_url": "https://twitter.com/applecontent/status/1381696395762135049/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 555,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1044,
+                  "h": 1280,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 979,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1381696341999517698,
+              "id_str": "1381696341999517698",
+              "indices": [
+                103,
+                126
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1381696341999517698/pu/img/aUIuxkBN8gXlB3Qd.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1381696341999517698/pu/img/aUIuxkBN8gXlB3Qd.jpg",
+              "url": "https://t.co/OHjDZuiCZn",
+              "display_url": "pic.twitter.com/OHjDZuiCZn",
+              "expanded_url": "https://twitter.com/applecontent/status/1381696395762135049/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 555,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1044,
+                  "h": 1280,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 979,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  261,
+                  320
+                ],
+                "duration_millis": 18005,
+                "variants": [
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1381696341999517698/pu/vid/720x882/vrmlzVMMCfZlyJVI.mp4?tag=12"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/1381696341999517698/pu/pl/MBKcfRtqof6DYRMb.m3u8?tag=12"
+                  },
+                  {
+                    "bitrate": 632000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1381696341999517698/pu/vid/320x392/ZXJfPeWUJMCpF-Ap.mp4?tag=12"
+                  },
+                  {
+                    "bitrate": 950000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/1381696341999517698/pu/vid/480x588/PxVv9da842rOAY_Q.mp4?tag=12"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1352402099993272320,
+          "id_str": "1352402099993272320",
+          "name": "Apple Content",
+          "screen_name": "applecontent",
+          "location": "",
+          "description": "New Shows. New Movies. New Seasons. The latest news on Apple TV+.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 177,
+          "friends_count": 598,
+          "listed_count": 0,
+          "created_at": "Thu Jan 21 23:46:24 +0000 2021",
+          "favourites_count": 902,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 540,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1376551444325789704/xSuMftT7_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1376551444325789704/xSuMftT7_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1352402099993272320/1626268292",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 33,
+        "favorite_count": 128,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1381696395762135049,
+    "quoted_status_id_str": "1381696395762135049",
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 18 01:09:20 +0000 2021",
+    "id": 1416565720486342660,
+    "id_str": "1416565720486342660",
+    "text": "這什麼笨問題，當然是買新iMac再加上4K螢幕。\n\n在家工作選購螢幕的抉擇：要買新iMac還是外接4K螢幕 https://t.co/fmC2i2y983",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fmC2i2y983",
+          "expanded_url": "https://bit.ly/3rjnfaD",
+          "display_url": "bit.ly/3rjnfaD",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jul 17 01:23:50 +0000 2021",
     "id": 1416206979396034561,
     "id_str": "1416206979396034561",
