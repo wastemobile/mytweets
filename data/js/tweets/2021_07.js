@@ -1,5 +1,414 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Tue Jul 20 02:43:29 +0000 2021",
+    "id": 1417314187659780105,
+    "id_str": "1417314187659780105",
+    "text": "由於一年多來歐美日拍攝或上映的新片很少，某bt種子網站不斷釋出懷舊老片，還會把新舊重拍一起出，例如1984、2019《Wの悲劇》（藥師丸博子vs.土屋太鳳），1950、1992《四海本色》⋯⋯\n\n相較網路書店除了出版社折扣書展，沒新書時一片靜默、新書上時一窩蜂，似乎更合理些。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Jul 20 02:03:44 +0000 2021",
+    "id": 1417304184160882709,
+    "id_str": "1417304184160882709",
+    "text": "祈求這些有趣的場所都能撐過疫情三級警戒。\n\n想喝酒還得先解謎：隱身於洋服櫥窗、書櫃中的7家台北秘密酒吧 https://t.co/rpOIe2hOf7 https://t.co/LcAvUsLZKG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rpOIe2hOf7",
+          "expanded_url": "https://bit.ly/3xTXike",
+          "display_url": "bit.ly/3xTXike",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1417304175772274698,
+          "id_str": "1417304175772274698",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6tGo3-VkAot_qy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6tGo3-VkAot_qy.jpg",
+          "url": "https://t.co/LcAvUsLZKG",
+          "display_url": "pic.twitter.com/LcAvUsLZKG",
+          "expanded_url": "https://twitter.com/wastemobile/status/1417304184160882709/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1417304175772274698,
+          "id_str": "1417304175772274698",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6tGo3-VkAot_qy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6tGo3-VkAot_qy.jpg",
+          "url": "https://t.co/LcAvUsLZKG",
+          "display_url": "pic.twitter.com/LcAvUsLZKG",
+          "expanded_url": "https://twitter.com/wastemobile/status/1417304184160882709/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 20 02:00:05 +0000 2021",
+    "id": 1417303265897713669,
+    "id_str": "1417303265897713669",
+    "text": "「中國是全球第二大圖書出版市場；只是規模龐大，市場自由程度則另作別論。」「我不能賭上這本雜誌去說話，我還想繼續活動。」 #publishing \n\n「在美麗新香港裡，我們都無法確定書本哪天無法再流通，但趁仍有這個自由，一同來把握閱… https://t.co/ATxvm9GrdY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "publishing",
+          "indices": [
+            60,
+            71
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ATxvm9GrdY",
+          "expanded_url": "https://twitter.com/i/web/status/1417303265897713669",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 20 01:36:58 +0000 2021",
+    "id": 1417297449471733760,
+    "id_str": "1417297449471733760",
+    "text": "《美麗新世界》與《我們》、《一九八四》並列為西方科幻三大反烏托邦小說，這些看似虛構未來的荒謬，都直指現在人們的愚蠢，因此擺在中國（包含香港）市場看起來就特別有趣。\n\nhttps://t.co/jEEm8PzWPz https://t.co/dkS9EE1gv9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jEEm8PzWPz",
+          "expanded_url": "https://bit.ly/2UwlESG",
+          "display_url": "bit.ly/2UwlESG",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1417297440722489350,
+          "id_str": "1417297440722489350",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6tAg19VkAYVXX3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6tAg19VkAYVXX3.jpg",
+          "url": "https://t.co/dkS9EE1gv9",
+          "display_url": "pic.twitter.com/dkS9EE1gv9",
+          "expanded_url": "https://twitter.com/wastemobile/status/1417297449471733760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 882,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 882,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 463,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1417297440722489350,
+          "id_str": "1417297440722489350",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6tAg19VkAYVXX3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6tAg19VkAYVXX3.jpg",
+          "url": "https://t.co/dkS9EE1gv9",
+          "display_url": "pic.twitter.com/dkS9EE1gv9",
+          "expanded_url": "https://twitter.com/wastemobile/status/1417297449471733760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 882,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 882,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 463,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1417297440722489352,
+          "id_str": "1417297440722489352",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6tAg19VkAgxURA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6tAg19VkAgxURA.jpg",
+          "url": "https://t.co/dkS9EE1gv9",
+          "display_url": "pic.twitter.com/dkS9EE1gv9",
+          "expanded_url": "https://twitter.com/wastemobile/status/1417297449471733760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1662,
+              "h": 1247,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jul 18 06:45:33 +0000 2021",
     "id": 1416650328708050951,
     "id_str": "1416650328708050951",
