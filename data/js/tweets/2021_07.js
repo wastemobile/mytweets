@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Wed Jul 21 01:38:28 +0000 2021",
+    "id": 1417660214388555776,
+    "id_str": "1417660214388555776",
+    "text": "數據罷工、數據下毒、有意的數據貢獻，據說30％的用戶進行數據罷工，系統準確率就會下降50％；之前也提過，虛假帳號比例其實很高，只要讓廣告不那麼有效、墊高成本，就達成目的。\n\n如何在你的數據裡下毒讓科技大公司只能收集到垃圾… https://t.co/bM8OqWhcuV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bM8OqWhcuV",
+          "expanded_url": "https://twitter.com/i/web/status/1417660214388555776",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 21 01:28:46 +0000 2021",
+    "id": 1417657773538439175,
+    "id_str": "1417657773538439175",
+    "text": "用語料庫去分析比對並解謎，是還蠻有趣的，但硬要找出作者是誰，沒有必要。\n\n「我並未選擇匿名，書上有人簽名。我是選擇了缺席。」\n\n當代最具挑戰的謎題：「那不勒斯故事」系列作者艾琳娜．斐蘭德身分之謎… https://t.co/UjmEgU1cri",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UjmEgU1cri",
+          "expanded_url": "https://twitter.com/i/web/status/1417657773538439175",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jul 20 02:43:29 +0000 2021",
     "id": 1417314187659780105,
     "id_str": "1417314187659780105",
