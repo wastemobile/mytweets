@@ -1,5 +1,346 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Thu Jul 22 01:09:41 +0000 2021",
+    "id": 1418015357432844291,
+    "id_str": "1418015357432844291",
+    "text": "RT @tuzzi: 慈濟這500萬劑BNT買的不對。\n\n政府原已準備3000萬劑，加上台積鴻海1000萬劑，還有美日捐贈的將近6百萬劑，台灣已經不缺疫苗了，到貨的時間如果不巧，甚至可能打不完。\n\n地球上還有很多國家疫情緊急極缺疫苗，慈濟的錢是信眾奉獻的，應該用在真正救苦救難的…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tuzzi",
+          "name": "tuzzi",
+          "id": 17267400,
+          "id_str": "17267400",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 21 04:21:28 +0000 2021",
+      "id": 1417701236267094022,
+      "id_str": "1417701236267094022",
+      "text": "慈濟這500萬劑BNT買的不對。\n\n政府原已準備3000萬劑，加上台積鴻海1000萬劑，還有美日捐贈的將近6百萬劑，台灣已經不缺疫苗了，到貨的時間如果不巧，甚至可能打不完。\n\n地球上還有很多國家疫情緊急極缺疫苗，慈濟的錢是信眾奉獻… https://t.co/ced50rmxVG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ced50rmxVG",
+            "expanded_url": "https://twitter.com/i/web/status/1417701236267094022",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17267400,
+        "id_str": "17267400",
+        "name": "tuzzi",
+        "screen_name": "tuzzi",
+        "location": "Taiwan",
+        "description": "疫情當前，請台北市柯市長與指揮中心好好合作，不要一直該該叫，製造紛爭煽動恐慌。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6915,
+        "friends_count": 216,
+        "listed_count": 82,
+        "created_at": "Sun Nov 09 11:31:58 +0000 2008",
+        "favourites_count": 44061,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 81756,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245393898068783105/k29ebbqr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245393898068783105/k29ebbqr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17267400/1624123636",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 48,
+      "favorite_count": 560,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 48,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 22 01:04:34 +0000 2021",
+    "id": 1418014071148875779,
+    "id_str": "1418014071148875779",
+    "text": "Scribd計畫上市，估值10億美金，約2019時的翻倍；瑞典Storytel卻估值16億。\n\n僅次於亞馬遜的美國第二大，因為出版商認為書店不可或缺且需要保護、也刻意維持電子書高價以保護紙本，訂閱制在美國舉步維艱。\n\n但大疫情封鎖… https://t.co/ykucOnu3Rs",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ykucOnu3Rs",
+          "expanded_url": "https://twitter.com/i/web/status/1418014071148875779",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 21 09:39:14 +0000 2021",
+    "id": 1417781203155910656,
+    "id_str": "1417781203155910656",
+    "text": "NOW\nLOADING 載物\n\n完全Instagram化的微出版。\n\nhttps://t.co/ErCAsfHUeu https://t.co/ETEWkzmYNZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ErCAsfHUeu",
+          "expanded_url": "https://bit.ly/2TpMgEt",
+          "display_url": "bit.ly/2TpMgEt",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1417781193269923843,
+          "id_str": "1417781193269923843",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6z4e8oVUAMzAX4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6z4e8oVUAMzAX4.jpg",
+          "url": "https://t.co/ETEWkzmYNZ",
+          "display_url": "pic.twitter.com/ETEWkzmYNZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1417781203155910656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1585,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 929,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 526,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1417781193269923843,
+          "id_str": "1417781193269923843",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6z4e8oVUAMzAX4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6z4e8oVUAMzAX4.jpg",
+          "url": "https://t.co/ETEWkzmYNZ",
+          "display_url": "pic.twitter.com/ETEWkzmYNZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1417781203155910656/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1585,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 929,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 526,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Wed Jul 21 01:38:28 +0000 2021",
     "id": 1417660214388555776,
     "id_str": "1417660214388555776",
