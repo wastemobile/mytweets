@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Fri Jul 23 02:25:57 +0000 2021",
+    "id": 1418396937905074184,
+    "id_str": "1418396937905074184",
+    "text": "看到是資策會伸手籌辦就完全不抱期待，大概跟體協或奧委會差不多結果。\n\n數位發展部端出來的大菜是塑化男子團 https://t.co/4vHQkaiten",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4vHQkaiten",
+          "expanded_url": "https://bit.ly/3kHrYBI",
+          "display_url": "bit.ly/3kHrYBI",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1286125587866640386,
+    "in_reply_to_status_id_str": "1286125587866640386",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 23 02:11:36 +0000 2021",
+    "id": 1418393328651956227,
+    "id_str": "1418393328651956227",
+    "text": "Playdate下週開放預購，但年底才能出貨；有趣的桌架還不能買，遊戲開發介面看起來很有趣。\n\n說實話這真是給geek/nerd玩耍研究用的，美金$179（含第一季所有遊戲）的價格可以買到二手Switch Lite＋薩爾達。… https://t.co/yQvy2TVCcG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yQvy2TVCcG",
+          "expanded_url": "https://twitter.com/i/web/status/1418393328651956227",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1138086093041983491,
+    "in_reply_to_status_id_str": "1138086093041983491",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jul 22 01:09:41 +0000 2021",
     "id": 1418015357432844291,
     "id_str": "1418015357432844291",
