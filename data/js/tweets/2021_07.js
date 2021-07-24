@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Sat Jul 24 02:39:35 +0000 2021",
+    "id": 1418762759039160324,
+    "id_str": "1418762759039160324",
+    "text": "貓王Elvis喜歡讀紀伯倫的《先知》，喜歡手寫註記後贈送給好友們，這本送給美國空手道大師 Ed Parker的書，即將於英國Peter Harrington珍本書商以19,500英鎊販售。\n\n逛了一下PH網站，Paris Hilt… https://t.co/vyruGydbSQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vyruGydbSQ",
+          "expanded_url": "https://twitter.com/i/web/status/1418762759039160324",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jul 23 02:25:57 +0000 2021",
     "id": 1418396937905074184,
     "id_str": "1418396937905074184",
