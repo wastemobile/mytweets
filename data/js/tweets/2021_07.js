@@ -1,5 +1,478 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Tue Jul 27 02:06:37 +0000 2021",
+    "id": 1419841625191116801,
+    "id_str": "1419841625191116801",
+    "text": "布克獎初選名單出爐。\n\nhttps://t.co/Nlk5od4gt6 https://t.co/oGqvO3A6kO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Nlk5od4gt6",
+          "expanded_url": "https://bit.ly/3zyVwWe",
+          "display_url": "bit.ly/3zyVwWe",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1419841617561722884,
+          "id_str": "1419841617561722884",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/E7RKbbQVIAQAlxo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E7RKbbQVIAQAlxo.jpg",
+          "url": "https://t.co/oGqvO3A6kO",
+          "display_url": "pic.twitter.com/oGqvO3A6kO",
+          "expanded_url": "https://twitter.com/wastemobile/status/1419841625191116801/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 294,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1189,
+              "h": 514,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1189,
+              "h": 514,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1419841617561722884,
+          "id_str": "1419841617561722884",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/E7RKbbQVIAQAlxo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E7RKbbQVIAQAlxo.jpg",
+          "url": "https://t.co/oGqvO3A6kO",
+          "display_url": "pic.twitter.com/oGqvO3A6kO",
+          "expanded_url": "https://twitter.com/wastemobile/status/1419841625191116801/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 294,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1189,
+              "h": 514,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1189,
+              "h": 514,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 27 01:40:06 +0000 2021",
+    "id": 1419834950761648131,
+    "id_str": "1419834950761648131",
+    "text": "RT @stupidwz: 多么讽刺！一个国家要多让人憎恨，才会有这种结果！大家不在意是哪队赢，只想中国队输。不少香港民众聚集在观塘的apm购物中心观看中国女排与土耳其女排的赛事转播，每当土耳其队得分，观众们都欢呼，最后确定中国女排落败时，商场响起一片鼓掌庆祝。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "stupidwz",
+          "name": "stupidwz",
+          "id": 3100662583,
+          "id_str": "3100662583",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jul 25 22:35:05 +0000 2021",
+      "id": 1419426004649402368,
+      "id_str": "1419426004649402368",
+      "text": "多么讽刺！一个国家要多让人憎恨，才会有这种结果！大家不在意是哪队赢，只想中国队输。不少香港民众聚集在观塘的apm购物中心观看中国女排与土耳其女排的赛事转播，每当土耳其队得分，观众们都欢呼，最后确定中国女排落败时，商场响起一片鼓掌庆祝。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3100662583,
+        "id_str": "3100662583",
+        "name": "stupidwz",
+        "screen_name": "stupidwz",
+        "location": "",
+        "description": "Keep calm and carry on \n保持冷静，继续前行！https://t.co/4LzN79x8FG?这是我的备用号，跟我的推友，尤其多年的老网友加一下，以备不测！",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/4LzN79x8FG",
+                "expanded_url": "https://mobile.twitter.com/stupidwz1",
+                "display_url": "mobile.twitter.com/stupidwz1",
+                "indices": [
+                  34,
+                  57
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 95061,
+        "friends_count": 66,
+        "listed_count": 571,
+        "created_at": "Sat Mar 21 01:39:52 +0000 2015",
+        "favourites_count": 12288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 22943,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/859981597537320960/TxkWO-oe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/859981597537320960/TxkWO-oe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 648,
+      "favorite_count": 3926,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 648,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jul 26 12:33:02 +0000 2021",
+    "id": 1419636882271469568,
+    "id_str": "1419636882271469568",
+    "text": "這本「卡片索引筆記法」的解析書，也就是Roam與Obsidian引用「維基式內部連結」而掀起一波數位知識管理與筆記風的源頭，已經有了（簡體）中文版。\n\nhttps://t.co/nkrDyex4Nt https://t.co/VOaCjoyA8M",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nkrDyex4Nt",
+          "expanded_url": "https://bit.ly/3i6mPBC",
+          "display_url": "bit.ly/3i6mPBC",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1419636874318995462,
+          "id_str": "1419636874318995462",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/E7OQNzPUYAYPgLI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E7OQNzPUYAYPgLI.jpg",
+          "url": "https://t.co/VOaCjoyA8M",
+          "display_url": "pic.twitter.com/VOaCjoyA8M",
+          "expanded_url": "https://twitter.com/wastemobile/status/1419636882271469568/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 996,
+              "h": 1435,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 472,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 833,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1419636874318995462,
+          "id_str": "1419636874318995462",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/E7OQNzPUYAYPgLI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E7OQNzPUYAYPgLI.jpg",
+          "url": "https://t.co/VOaCjoyA8M",
+          "display_url": "pic.twitter.com/VOaCjoyA8M",
+          "expanded_url": "https://twitter.com/wastemobile/status/1419636882271469568/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 996,
+              "h": 1435,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 472,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 833,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1275432467160158213,
+    "in_reply_to_status_id_str": "1275432467160158213",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jul 26 04:58:04 +0000 2021",
+    "id": 1419522382365032450,
+    "id_str": "1419522382365032450",
+    "text": "Wavemaker是個網頁版（但可離線）小說書寫軟體，從計畫、素材、記事、時間線⋯⋯等等，企圖將各種需要的功能都整合在一起，又隨時隨地能使用，而且完全免費。\n\n差不多等同線上免費版的Scrivener。… https://t.co/XHzWtbxlKc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XHzWtbxlKc",
+          "expanded_url": "https://twitter.com/i/web/status/1419522382365032450",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 79,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jul 24 02:39:35 +0000 2021",
     "id": 1418762759039160324,
     "id_str": "1418762759039160324",
