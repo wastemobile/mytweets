@@ -1,5 +1,421 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Fri Jul 30 04:42:25 +0000 2021",
+    "id": 1420967997120794627,
+    "id_str": "1420967997120794627",
+    "text": "愛雲芬芝（Edwige Fenech），這譯名夠酷。\n\n阿爸阿母的昔日春夢：專訪異色電影研究者詹璇恩，七〇年代的情色觀影 https://t.co/Sqx0Iq8BnU https://t.co/PpvqMQQgq3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Sqx0Iq8BnU",
+          "expanded_url": "https://bit.ly/3f8AUws",
+          "display_url": "bit.ly/3f8AUws",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1420967985972334595,
+          "id_str": "1420967985972334595",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/E7hK2skVUAMsHJ_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E7hK2skVUAMsHJ_.jpg",
+          "url": "https://t.co/PpvqMQQgq3",
+          "display_url": "pic.twitter.com/PpvqMQQgq3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1420967997120794627/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1420967985972334595,
+          "id_str": "1420967985972334595",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/E7hK2skVUAMsHJ_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E7hK2skVUAMsHJ_.jpg",
+          "url": "https://t.co/PpvqMQQgq3",
+          "display_url": "pic.twitter.com/PpvqMQQgq3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1420967997120794627/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 30 01:52:06 +0000 2021",
+    "id": 1420925136769732614,
+    "id_str": "1420925136769732614",
+    "text": "我也覺得「忽然迷」一點問題都沒有，受一時吸引有一點點興趣，十個留下一個持續關注或稍微運動，誰也不知在未來有何影響，「忽然書迷」、「忽然政治迷」都一樣。\n\n過去 30 年的「忽然六四」構成了幾個世代的政治覺醒？都被一人壓下去了吧。… https://t.co/yMMGVjyCNX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yMMGVjyCNX",
+          "expanded_url": "https://twitter.com/i/web/status/1420925136769732614",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 30 01:36:27 +0000 2021",
+    "id": 1420921197273878531,
+    "id_str": "1420921197273878531",
+    "text": "若聽詹先生的官方解釋，從商品組合策略與出貨模式來看，PChome需要的仍是區域大倉、而非小型衛星倉。\n\n「很慚愧疫情中沒做好」PChome衛星倉、A7物流中心啟動，詹宏志：明年開出2倍運能！… https://t.co/BHOE0D06S5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BHOE0D06S5",
+          "expanded_url": "https://twitter.com/i/web/status/1420921197273878531",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1412394422193451019,
+    "in_reply_to_status_id_str": "1412394422193451019",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 28 16:27:04 +0000 2021",
+    "id": 1420420550556491782,
+    "id_str": "1420420550556491782",
+    "text": "RT @Brecht: 敝社一年一度IT界最盛大的技術文分享比賽「 iThome 鐵人賽」即將在下週一（8/2）開始報名了。等進到 9  月開賽後，就又有看不完的好文章可以進補了。\n\n也希望推上的 IT 界的大大們，一起來分享你們今年的所知所學。\n\n#懇請各方廣傳\n\nhttps…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "懇請各方廣傳",
+          "indices": [
+            125,
+            132
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Brecht",
+          "name": "只是布大叔 😈",
+          "id": 724233,
+          "id_str": "724233",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 28 06:48:07 +0000 2021",
+      "id": 1420274853995704321,
+      "id_str": "1420274853995704321",
+      "text": "敝社一年一度IT界最盛大的技術文分享比賽「 iThome 鐵人賽」即將在下週一（8/2）開始報名了。等進到 9  月開賽後，就又有看不完的好文章可以進補了。\n\n也希望推上的 IT 界的大大們，一起來分享你們今年的所知所學。… https://t.co/K0j18afxIk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/K0j18afxIk",
+            "expanded_url": "https://twitter.com/i/web/status/1420274853995704321",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 724233,
+        "id_str": "724233",
+        "name": "只是布大叔 😈",
+        "screen_name": "Brecht",
+        "location": "Taiwan",
+        "description": "40代大叔，每天任務是帶著團隊、坐在電腦前和網站搏鬥，沒有機會拖回大白鯨，但幸好也不會在大海出事。喜歡在慢跑時冥想或亂想。喜歡啤酒，但夏天只有短短一季，幸好也還有威士忌。喜歡閱讀，但越來越少有大段的時間可以窩在沙發上",
+        "url": "https://t.co/3ZPeLRc61y",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3ZPeLRc61y",
+                "expanded_url": "https://blog.brecht.im",
+                "display_url": "blog.brecht.im",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6136,
+        "friends_count": 1322,
+        "listed_count": 102,
+        "created_at": "Mon Jan 29 06:47:34 +0000 2007",
+        "favourites_count": 34381,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 49168,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1295216829917302794/2dTmNcMP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295216829917302794/2dTmNcMP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/724233/1531096188",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jul 27 02:06:37 +0000 2021",
     "id": 1419841625191116801,
     "id_str": "1419841625191116801",
