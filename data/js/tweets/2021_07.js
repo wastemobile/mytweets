@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Sat Jul 31 02:01:19 +0000 2021",
+    "id": 1421289841933705216,
+    "id_str": "1421289841933705216",
+    "text": "Aurora Mattia把她的OnlyFans當作「自助出版」平台發佈新故事，她在其他地方發表過短篇小說，處女作即將出版。\n\n在OnlyFans上架兩天後，獲利超過文學雜誌與出版商等的總和，她說「沒有必要再等待出版界異常緩慢、善… https://t.co/aYCQBXVUMG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aYCQBXVUMG",
+          "expanded_url": "https://twitter.com/i/web/status/1421289841933705216",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jul 31 01:43:09 +0000 2021",
+    "id": 1421285271325200384,
+    "id_str": "1421285271325200384",
+    "text": "《神經喚術士》作為一本開創並定義新科幻類型的經典，至今讀起來仍不覺過時，但僅此一本，即使是蔓生都會三部曲後兩部也顯疲軟，只是勉強延續世界觀。\n\n永恆推薦一讀再讀。\n\n‘Neuromancer’ Is Still Mind-Blow… https://t.co/k8ui58DWtY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/k8ui58DWtY",
+          "expanded_url": "https://twitter.com/i/web/status/1421285271325200384",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1200439005801676800,
+    "in_reply_to_status_id_str": "1200439005801676800",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jul 30 04:42:25 +0000 2021",
     "id": 1420967997120794627,
     "id_str": "1420967997120794627",
