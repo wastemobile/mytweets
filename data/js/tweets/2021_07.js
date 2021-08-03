@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2021_07 = [
   {
+    "created_at": "Sat Jul 31 02:17:09 +0000 2021",
+    "id": 1421293827113951233,
+    "id_str": "1421293827113951233",
+    "text": "這篇摘選一本新書中寫到Elon Musk與Tim Cook電話討論併購，馬斯克說「我要當蘋果的CEO」，庫克回「Fxxk You！」就掛掉了電話。\n\n清楚說明這書完全不值得讀，除非它歸在虛構小說類。… https://t.co/ibAcVCyHWK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ibAcVCyHWK",
+          "expanded_url": "https://twitter.com/i/web/status/1421293827113951233",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jul 31 02:01:19 +0000 2021",
     "id": 1421289841933705216,
     "id_str": "1421289841933705216",
