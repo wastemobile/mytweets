@@ -1,5 +1,197 @@
 Grailbird.data.tweets_2021_08 = [
   {
+    "created_at": "Fri Aug 13 08:32:37 +0000 2021",
+    "id": 1426099357611225091,
+    "id_str": "1426099357611225091",
+    "text": "雖然我已經解完120座神廟，套裝也幾乎都4星，刷龍角、打礦石都效率很好，荷包滿滿，但打萊尼爾還是得補個兩次血才勉強過關⋯⋯唉😮‍💨",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1411291508548923394,
+    "in_reply_to_status_id_str": "1411291508548923394",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 13 03:05:03 +0000 2021",
+    "id": 1426016924912144385,
+    "id_str": "1426016924912144385",
+    "text": "《鬥陣俱樂部》作者帕拉尼克給新手作家的教戰手冊，而且很意外的他非常推薦「寫作工作坊」，認為在別人面前大聲朗讀自己的作品、討論、分享，是很重要的事。\n\n#關於書的書 #Kobo https://t.co/oEhB6E6q1P https://t.co/Ldxi5FAH2W",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "關於書的書",
+          "indices": [
+            75,
+            81
+          ]
+        },
+        {
+          "text": "Kobo",
+          "indices": [
+            82,
+            87
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oEhB6E6q1P",
+          "expanded_url": "https://bit.ly/3g1PYw7",
+          "display_url": "bit.ly/3g1PYw7",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1426016918276743181,
+          "id_str": "1426016918276743181",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/E8o61PGVIA0Ztn7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E8o61PGVIA0Ztn7.jpg",
+          "url": "https://t.co/Ldxi5FAH2W",
+          "display_url": "pic.twitter.com/Ldxi5FAH2W",
+          "expanded_url": "https://twitter.com/wastemobile/status/1426016924912144385/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 900,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 378,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1426016918276743181,
+          "id_str": "1426016918276743181",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/E8o61PGVIA0Ztn7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E8o61PGVIA0Ztn7.jpg",
+          "url": "https://t.co/Ldxi5FAH2W",
+          "display_url": "pic.twitter.com/Ldxi5FAH2W",
+          "expanded_url": "https://twitter.com/wastemobile/status/1426016924912144385/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 900,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 378,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1414066496716754949,
+    "in_reply_to_status_id_str": "1414066496716754949",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Aug 12 02:12:53 +0000 2021",
     "id": 1425641409948704772,
     "id_str": "1425641409948704772",
