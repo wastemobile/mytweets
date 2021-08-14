@@ -1,5 +1,395 @@
 Grailbird.data.tweets_2021_08 = [
   {
+    "created_at": "Sat Aug 14 02:49:35 +0000 2021",
+    "id": 1426375420916633600,
+    "id_str": "1426375420916633600",
+    "text": "美國馬里蘭州已通過2022年1月起生效的法律，電子書商必須以「合理條件」提供圖書館借閱權，目前其圖書館協會認為的合理條件大概是：與紙本價格差不多、25次借出數量限制。（有聲書為55次）… https://t.co/RdzXEeHTGW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RdzXEeHTGW",
+          "expanded_url": "https://twitter.com/i/web/status/1426375420916633600",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1146221871773257728,
+    "in_reply_to_status_id_str": "1146221871773257728",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Aug 14 02:14:56 +0000 2021",
+    "id": 1426366698651676675,
+    "id_str": "1426366698651676675",
+    "text": "全世界最黑的墨水BLINK！大推！\n\n2016英國藝術家卡普爾買斷Vantablack專利，這號稱吸收99.96%光線、世界上最黑的黑色，此舉引發撻伐，另一名英國藝術家Stuart Semple便製造出Black 2.0, 3.0… https://t.co/gy9M1b52Ut",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gy9M1b52Ut",
+          "expanded_url": "https://twitter.com/i/web/status/1426366698651676675",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 13 13:20:59 +0000 2021",
+    "id": 1426171929166192648,
+    "id_str": "1426171929166192648",
+    "text": "RT @poooo_chu: 努力點擊的國家就會被這個選手村（？）廣播祝賀，而因為台灣國籍被誤植，所以今天每當廣播到台灣時，國手們就利用這個機會留言提醒：Taiwa is not part of China.\n\n而創辦人得知這個 issue 後也立刻致歉並做出修正。\n\n這樣的奧…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "poooo_chu",
+          "name": "「會長，這個世界怎麼了？」",
+          "id": 41808461,
+          "id_str": "41808461",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 12 13:27:24 +0000 2021",
+      "id": 1425811157592383490,
+      "id_str": "1425811157592383490",
+      "text": "努力點擊的國家就會被這個選手村（？）廣播祝賀，而因為台灣國籍被誤植，所以今天每當廣播到台灣時，國手們就利用這個機會留言提醒：Taiwa is not part of China.\n\n而創辦人得知這個 issue 後也立刻致歉並做出… https://t.co/6ytAUtpY2U",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6ytAUtpY2U",
+            "expanded_url": "https://twitter.com/i/web/status/1425811157592383490",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 41808461,
+        "id_str": "41808461",
+        "name": "「會長，這個世界怎麼了？」",
+        "screen_name": "poooo_chu",
+        "location": "",
+        "description": "我不想生活在，善良被當作是弱點的世界。- Keanu Reeves",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 34368,
+        "friends_count": 1696,
+        "listed_count": 190,
+        "created_at": "Fri May 22 13:12:16 +0000 2009",
+        "favourites_count": 95545,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22414,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3DAFCC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1040639825777385472/9tCA5f37_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040639825777385472/9tCA5f37_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41808461/1469629047",
+        "profile_link_color": "5CBED6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "ACB2CD",
+        "profile_text_color": "5A5A6D",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1425746584533352452,
+      "quoted_status_id_str": "1425746584533352452",
+      "quoted_status": {
+        "created_at": "Thu Aug 12 09:10:49 +0000 2021",
+        "id": 1425746584533352452,
+        "id_str": "1425746584533352452",
+        "text": "pop pop 🇹🇼 pop ❤️ https://t.co/Y202b1IKHg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Y202b1IKHg",
+              "expanded_url": "https://twitter.com/onfe1/status/1425745820968751104",
+              "display_url": "twitter.com/onfe1/status/1…",
+              "indices": [
+                18,
+                41
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1359220933102366723,
+          "id_str": "1359220933102366723",
+          "name": "popcat.click",
+          "screen_name": "PopCatClick",
+          "location": "pop",
+          "description": "Tweeting pop stats from https://t.co/eeNv3EPQgp",
+          "url": "https://t.co/eeNv3EPQgp",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/eeNv3EPQgp",
+                  "expanded_url": "https://popcat.click",
+                  "display_url": "popcat.click",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/eeNv3EPQgp",
+                  "expanded_url": "https://popcat.click",
+                  "display_url": "popcat.click",
+                  "indices": [
+                    24,
+                    47
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 12861,
+          "friends_count": 8,
+          "listed_count": 1,
+          "created_at": "Tue Feb 09 19:21:52 +0000 2021",
+          "favourites_count": 2824,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 6312,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1370370005141979137/G9Isx3JG_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1370370005141979137/G9Isx3JG_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359220933102366723/1619033384",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1425745820968751104,
+        "quoted_status_id_str": "1425745820968751104",
+        "retweet_count": 76,
+        "favorite_count": 701,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 67,
+      "favorite_count": 503,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1425746584533352452,
+    "quoted_status_id_str": "1425746584533352452",
+    "retweet_count": 67,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Aug 13 08:32:37 +0000 2021",
     "id": 1426099357611225091,
     "id_str": "1426099357611225091",
