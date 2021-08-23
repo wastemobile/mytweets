@@ -1,5 +1,306 @@
 Grailbird.data.tweets_2021_08 = [
   {
+    "created_at": "Mon Aug 23 05:01:18 +0000 2021",
+    "id": 1429670058171666434,
+    "id_str": "1429670058171666434",
+    "text": "台灣5/22爆出史上最高本土確診人數7百多，那時全台僅施打了約30萬劑疫苗，人心惶惶。\n\n三個月後的今天，每日本土已低於10人確診，超過1,000萬人打過至少一劑疫苗；若願意打高端，20歲以上任何人都能打到安全可靠的疫苗。\n\n除了感謝之外，到底還能說什麼。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 30,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 23 01:24:06 +0000 2021",
+    "id": 1429615399285362694,
+    "id_str": "1429615399285362694",
+    "text": "2008 年歐洲議會正式通過決議，把8/23黑絲帶日定為官方紀念日，全名「歐洲史太林主義與納粹主義受害者紀念日」，納粹主義和史太林主義是人類史上兩種最惡劣的極權主義形式。\n\n黑絲帶日：全球反極權運動… https://t.co/IaqhNWAyOB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IaqhNWAyOB",
+          "expanded_url": "https://twitter.com/i/web/status/1429615399285362694",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 22 14:31:06 +0000 2021",
+    "id": 1429451066127511560,
+    "id_str": "1429451066127511560",
+    "text": "RT @readerscaitlog: #0825節目片段\n歐美許多年輕人挑戰 #村上春樹 的作家生活，體驗那樣自律的寫作生活，結果都⋯。\n節目將在8/25（三）8am上架，知名科技雜誌記者Fafa也介紹文青書目，如《第二性》、《日安憂鬱》、《熱戀》、《為什麼要睡覺》、《明日是…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "0825節目片段",
+          "indices": [
+            20,
+            29
+          ]
+        },
+        {
+          "text": "村上春樹",
+          "indices": [
+            40,
+            45
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "readerscaitlog",
+          "name": "caitlog",
+          "id": 1375122932741988352,
+          "id_str": "1375122932741988352",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Aug 22 12:37:40 +0000 2021",
+      "id": 1429422516682969089,
+      "id_str": "1429422516682969089",
+      "text": "#0825節目片段\n歐美許多年輕人挑戰 #村上春樹 的作家生活，體驗那樣自律的寫作生活，結果都⋯。\n節目將在8/25（三）8am上架，知名科技雜誌記者Fafa也介紹文青書目，如《第二性》、《日安憂鬱》、《熱戀》、《為什麼要睡覺》、… https://t.co/uC8RLgzV0G",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "0825節目片段",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "村上春樹",
+            "indices": [
+              20,
+              25
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uC8RLgzV0G",
+            "expanded_url": "https://twitter.com/i/web/status/1429422516682969089",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1375122932741988352,
+        "id_str": "1375122932741988352",
+        "name": "caitlog",
+        "screen_name": "readerscaitlog",
+        "location": "",
+        "description": "We read, we laugh, we jump out of the world! 對Podcast節目有任何想法、對哪本書有什麼感想好的壞的，透過語音留言，將在未來節目中播放討論：https://t.co/BBKAZOBnqX",
+        "url": "https://t.co/y860pF2fr3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/y860pF2fr3",
+                "expanded_url": "https://caitchang.tumblr.com/",
+                "display_url": "caitchang.tumblr.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/BBKAZOBnqX",
+                "expanded_url": "https://bit.ly/caitlog-voicemail",
+                "display_url": "bit.ly/caitlog-voicem…",
+                "indices": [
+                  94,
+                  117
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 70,
+        "friends_count": 1,
+        "listed_count": 2,
+        "created_at": "Thu Mar 25 16:30:51 +0000 2021",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 52,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1375123274103803904/tfEWu3kO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375123274103803904/tfEWu3kO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Aug 22 02:42:24 +0000 2021",
     "id": 1429272713470779392,
     "id_str": "1429272713470779392",
