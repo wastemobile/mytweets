@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2021_08 = [
   {
+    "created_at": "Tue Aug 24 01:33:28 +0000 2021",
+    "id": 1429980142273667103,
+    "id_str": "1429980142273667103",
+    "text": "坎伯這本對談合集《神話的力量》要出繁中新版了啊，很適合作為閱讀《千面英雄》與《千面女神》的導讀本。\n\n話題》找回你和神話的連結：耿一偉談《神話的力量》 https://t.co/PLpxT8wxDE https://t.co/4hmmZhchQl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PLpxT8wxDE",
+          "expanded_url": "https://bit.ly/2WjZ94r",
+          "display_url": "bit.ly/2WjZ94r",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1429980134283505669,
+          "id_str": "1429980134283505669",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/E9hPWxPVcAUv6DL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9hPWxPVcAUv6DL.jpg",
+          "url": "https://t.co/4hmmZhchQl",
+          "display_url": "pic.twitter.com/4hmmZhchQl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1429980142273667103/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1429980134283505669,
+          "id_str": "1429980134283505669",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/E9hPWxPVcAUv6DL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E9hPWxPVcAUv6DL.jpg",
+          "url": "https://t.co/4hmmZhchQl",
+          "display_url": "pic.twitter.com/4hmmZhchQl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1429980142273667103/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Aug 23 05:01:18 +0000 2021",
     "id": 1429670058171666434,
     "id_str": "1429670058171666434",
