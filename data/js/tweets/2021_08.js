@@ -1,5 +1,469 @@
 Grailbird.data.tweets_2021_08 = [
   {
+    "created_at": "Sat Aug 28 01:19:57 +0000 2021",
+    "id": 1431426294537879554,
+    "id_str": "1431426294537879554",
+    "text": "拜內克古籍善本圖書館，是世界上最大的專為保存珍貴書籍和手稿的建築，位於耶魯大學校園中心。\n\n超過百萬的珍本內容已數位化，新的藏書平台未來還會蒐整其他耶魯各個圖書館的數位內容。\n\nhttps://t.co/xgPtn6KxnN https://t.co/OvrqGoGNQe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xgPtn6KxnN",
+          "expanded_url": "https://bit.ly/38jQf9r",
+          "display_url": "bit.ly/38jQf9r",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1431426283733274625,
+          "id_str": "1431426283733274625",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/E91ynvwUUAERt9d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E91ynvwUUAERt9d.jpg",
+          "url": "https://t.co/OvrqGoGNQe",
+          "display_url": "pic.twitter.com/OvrqGoGNQe",
+          "expanded_url": "https://twitter.com/wastemobile/status/1431426294537879554/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1316,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 771,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 437,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1431426283733274625,
+          "id_str": "1431426283733274625",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/E91ynvwUUAERt9d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E91ynvwUUAERt9d.jpg",
+          "url": "https://t.co/OvrqGoGNQe",
+          "display_url": "pic.twitter.com/OvrqGoGNQe",
+          "expanded_url": "https://twitter.com/wastemobile/status/1431426294537879554/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1316,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 771,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 437,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Aug 28 01:10:07 +0000 2021",
+    "id": 1431423818392739845,
+    "id_str": "1431423818392739845",
+    "text": "走跳網路世界最重要的事，果然還是註冊一個好記的網域名稱啊！\n\n之前看IndieWeb聯盟，讓站主能以域名當登入識別；現在以太坊域名服務擴大與DNS整合，所有域名都變成收錢標的，這應該很有用吧～\n\n以太坊域名ENS宣布整合DNS，.… https://t.co/yaDh3wBgCG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yaDh3wBgCG",
+          "expanded_url": "https://twitter.com/i/web/status/1431423818392739845",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Aug 28 00:07:22 +0000 2021",
+    "id": 1431408027354079233,
+    "id_str": "1431408027354079233",
+    "text": "RT @LiuZhongjing: 大多數共產黨的公開身份就是國民黨，尤其是負責剿共的國民黨軍官。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "LiuZhongjing",
+          "name": "Zhongjing Liu | 劉仲敬",
+          "id": 768756228570906624,
+          "id_str": "768756228570906624",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Aug 27 23:56:03 +0000 2021",
+      "id": 1431405177534390277,
+      "id_str": "1431405177534390277",
+      "text": "大多數共產黨的公開身份就是國民黨，尤其是負責剿共的國民黨軍官。 https://t.co/bVXVsndjY6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bVXVsndjY6",
+            "expanded_url": "https://twitter.com/amrullahsaleh2/status/1431078856207785984",
+            "display_url": "twitter.com/amrullahsaleh2…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 768756228570906624,
+        "id_str": "768756228570906624",
+        "name": "Zhongjing Liu | 劉仲敬",
+        "screen_name": "LiuZhongjing",
+        "location": "Anglosphere",
+        "description": "大蜀民國流亡政府  https://t.co/pk36QtbpGF",
+        "url": "https://t.co/umc5N421fn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/umc5N421fn",
+                "expanded_url": "http://medium.com/@LiuZhongjing",
+                "display_url": "medium.com/@LiuZhongjing",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/pk36QtbpGF",
+                "expanded_url": "https://freebasuria.org/",
+                "display_url": "freebasuria.org",
+                "indices": [
+                  10,
+                  33
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 52264,
+        "friends_count": 162,
+        "listed_count": 391,
+        "created_at": "Thu Aug 25 10:25:42 +0000 2016",
+        "favourites_count": 11121,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26985,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/769078428150689792/tR-VKqUe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/769078428150689792/tR-VKqUe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1431078856207785984,
+      "quoted_status_id_str": "1431078856207785984",
+      "quoted_status": {
+        "created_at": "Fri Aug 27 02:19:22 +0000 2021",
+        "id": 1431078856207785984,
+        "id_str": "1431078856207785984",
+        "text": "Every evidence we have in hand shows that IS-K cells have their roots in Talibs &amp; Haqqani network particularly the… https://t.co/j0zIJfQTuw",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/j0zIJfQTuw",
+              "expanded_url": "https://twitter.com/i/web/status/1431078856207785984",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                120,
+                143
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 622868850,
+          "id_str": "622868850",
+          "name": "Amrullah Saleh",
+          "screen_name": "AmrullahSaleh2",
+          "location": "Kabul Afghanistan",
+          "description": "Acting President - Islamic Republic of Afghanistan\n\"If you know the enemy and know yourself, you need not fear the result of a hundred battles\".",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 861334,
+          "friends_count": 622,
+          "listed_count": 897,
+          "created_at": "Sat Jun 30 12:46:44 +0000 2012",
+          "favourites_count": 1949,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2427,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/985106835391827968/0CaNbyXh_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/985106835391827968/0CaNbyXh_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/622868850/1546092751",
+          "profile_link_color": "E81C4F",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5431,
+        "favorite_count": 20019,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 8,
+      "favorite_count": 70,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1431078856207785984,
+    "quoted_status_id_str": "1431078856207785984",
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Aug 27 06:45:45 +0000 2021",
     "id": 1431145897128185856,
     "id_str": "1431145897128185856",
