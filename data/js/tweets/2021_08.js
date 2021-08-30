@@ -1,5 +1,138 @@
 Grailbird.data.tweets_2021_08 = [
   {
+    "created_at": "Sun Aug 29 06:01:16 +0000 2021",
+    "id": 1431859475263094785,
+    "id_str": "1431859475263094785",
+    "text": "網路付費媒體有400名記者、每年獲利達30%，是很厲害的意思對吧？\n\n「獲利達30%」這句有些意義不明⋯⋯\n\n德媒體巨擘收購Politico 轟動歐美新聞界 https://t.co/mpuq70yehv https://t.co/BIX3B8YoNv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mpuq70yehv",
+          "expanded_url": "https://bit.ly/3ysvQtk",
+          "display_url": "bit.ly/3ysvQtk",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1431859469793726465,
+          "id_str": "1431859469793726465",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/E978mflVkAEiOAg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E978mflVkAEiOAg.jpg",
+          "url": "https://t.co/BIX3B8YoNv",
+          "display_url": "pic.twitter.com/BIX3B8YoNv",
+          "expanded_url": "https://twitter.com/wastemobile/status/1431859475263094785/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1431859469793726465,
+          "id_str": "1431859469793726465",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/E978mflVkAEiOAg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E978mflVkAEiOAg.jpg",
+          "url": "https://t.co/BIX3B8YoNv",
+          "display_url": "pic.twitter.com/BIX3B8YoNv",
+          "expanded_url": "https://twitter.com/wastemobile/status/1431859475263094785/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Aug 29 02:19:21 +0000 2021",
     "id": 1431803629623599105,
     "id_str": "1431803629623599105",
