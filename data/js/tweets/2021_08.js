@@ -1,5 +1,476 @@
 Grailbird.data.tweets_2021_08 = [
   {
+    "created_at": "Tue Aug 31 02:04:30 +0000 2021",
+    "id": 1432524669576302593,
+    "id_str": "1432524669576302593",
+    "text": "「一直有一個封閉的藝術世界，它的觀眾人數正在激增。」佩斯畫廊總裁 Marc Glimcher 說，「我們認為商業模式中最具變革性的變化是數百萬人正在花費幾美元，而不是幾個人花費數百萬美元。」\n\n這個角度值得深思。\n\nNFT 浪潮來… https://t.co/iuIv2p1qJp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iuIv2p1qJp",
+          "expanded_url": "https://twitter.com/i/web/status/1432524669576302593",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1432522353557135365,
+    "in_reply_to_status_id_str": "1432522353557135365",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 31 01:55:18 +0000 2021",
+    "id": 1432522353557135365,
+    "id_str": "1432522353557135365",
+    "text": "走進《一級玩家》的世界，虛擬的創作殿堂 ── 三個台灣優秀 NFT 平台 https://t.co/mOPl8zNT7z https://t.co/MLDEajyACE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mOPl8zNT7z",
+          "expanded_url": "https://bit.ly/3DxoXdZ",
+          "display_url": "bit.ly/3DxoXdZ",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1432522344958881792,
+          "id_str": "1432522344958881792",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-FXe6AVcAAq89b.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-FXe6AVcAAq89b.jpg",
+          "url": "https://t.co/MLDEajyACE",
+          "display_url": "pic.twitter.com/MLDEajyACE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1432522353557135365/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 820,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 820,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 299,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1432522344958881792,
+          "id_str": "1432522344958881792",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-FXe6AVcAAq89b.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-FXe6AVcAAq89b.jpg",
+          "url": "https://t.co/MLDEajyACE",
+          "display_url": "pic.twitter.com/MLDEajyACE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1432522353557135365/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 820,
+              "h": 360,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 820,
+              "h": 360,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 299,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1432522344950472705,
+          "id_str": "1432522344950472705",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-FXe5-VIAE2gvI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-FXe5-VIAE2gvI.jpg",
+          "url": "https://t.co/MLDEajyACE",
+          "display_url": "pic.twitter.com/MLDEajyACE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1432522353557135365/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 686,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 389,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1170,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1432522344958861313,
+          "id_str": "1432522344958861313",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-FXe6AVIAE7v7Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-FXe6AVIAE7v7Z.jpg",
+          "url": "https://t.co/MLDEajyACE",
+          "display_url": "pic.twitter.com/MLDEajyACE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1432522353557135365/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 267,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 472,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 806,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 30 10:41:36 +0000 2021",
+    "id": 1432292414446727168,
+    "id_str": "1432292414446727168",
+    "text": "@ryo6 個案狀況不知道，也可能只是沒選上而惱羞成怒。\n\n從另一個角度看，若被評鑑為一星，餐廳可不可以拒絕被列表、被刊登出去呢？如果有這個拒絕機制，那就勉強存在平衡。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ryo6",
+          "name": "Tokio",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1432286638000852992,
+    "in_reply_to_status_id_str": "1432286638000852992",
+    "in_reply_to_user_id": 19586444,
+    "in_reply_to_user_id_str": "19586444",
+    "in_reply_to_screen_name": "ryo6",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 30 10:12:45 +0000 2021",
+    "id": 1432285152047075330,
+    "id_str": "1432285152047075330",
+    "text": "網站若不想被Google搜尋引擎建立索引，可以寫robot.txt拒絕，表明不要被列在搜尋結果中。\n\n雖不知這兩間餐廳理由為何，但米其林評鑑只是一間賣評鑑結果的商業公司，任何餐廳都有拒絕被其評鑑的權利，與它好吃不好吃、服務好不好無… https://t.co/bvD17bRGlJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bvD17bRGlJ",
+          "expanded_url": "https://twitter.com/i/web/status/1432285152047075330",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1432265071657291778,
+    "quoted_status_id_str": "1432265071657291778",
+    "quoted_status": {
+      "created_at": "Mon Aug 30 08:52:57 +0000 2021",
+      "id": 1432265071657291778,
+      "id_str": "1432265071657291778",
+      "text": "2餐廳提告米其林 米其林總部委任律師：不便回應 ｜ 公視新聞網 PNN https://t.co/ibOtPad8wj \n真的以為會有秘密客上自己的店一樣，未免太好笑",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ibOtPad8wj",
+            "expanded_url": "https://news.pts.org.tw/article/542093?fbclid=IwAR0X4nusU5iZ5OGqD2NS312KcPhQTpKrKNBqZBH-f9DAbGnQC9wwkTaxTlo",
+            "display_url": "news.pts.org.tw/article/542093…",
+            "indices": [
+              36,
+              59
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19586444,
+        "id_str": "19586444",
+        "name": "Tokio",
+        "screen_name": "ryo6",
+        "location": "三小南村夏角里",
+        "description": "No Coffee, No Working. 在哪裡跌倒，就在那裏躺好，休息夠了再說。不欠指教。 KOL ( King of Losers )",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5659,
+        "friends_count": 867,
+        "listed_count": 76,
+        "created_at": "Tue Jan 27 10:54:22 +0000 2009",
+        "favourites_count": 9280,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 62092,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1432179669105725444/MVdp2XyQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1432179669105725444/MVdp2XyQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19586444/1630293241",
+        "profile_link_color": "003473",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFADAD",
+        "profile_text_color": "EDC8AB",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 4,
+    "favorite_count": 39,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Aug 29 06:01:16 +0000 2021",
     "id": 1431859475263094785,
     "id_str": "1431859475263094785",
