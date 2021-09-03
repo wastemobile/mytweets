@@ -1,5 +1,444 @@
 Grailbird.data.tweets_2021_08 = [
   {
+    "created_at": "Tue Aug 31 14:31:26 +0000 2021",
+    "id": 1432712641441632257,
+    "id_str": "1432712641441632257",
+    "text": "不太懂「中正大學經濟系教授陳和全指出，新聞媒體是內容產業、不是廣告產業」這句，不論廣告收入的依賴度多少、都能這樣定義嗎？ https://t.co/1UOgv7KJCI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1UOgv7KJCI",
+          "expanded_url": "https://twitter.com/hhcwt/status/1432707586915242004",
+          "display_url": "twitter.com/hhcwt/status/1…",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1432707586915242004,
+    "quoted_status_id_str": "1432707586915242004",
+    "quoted_status": {
+      "created_at": "Tue Aug 31 14:11:21 +0000 2021",
+      "id": 1432707586915242004,
+      "id_str": "1432707586915242004",
+      "text": "「報導者文化基金會執行長何榮幸表示，政府應先進行新聞媒體產業受到數位平台的影響調查報告，內容包含傳統媒體受科技巨擘影響的廣告流失量，以及原生內容受數位平台影響而受損的價值，藉由量化與質化的評估，衡量科技巨擘對民主社會發展產生的衝擊… https://t.co/gbb8Llra28",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gbb8Llra28",
+            "expanded_url": "https://twitter.com/i/web/status/1432707586915242004",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 181851152,
+        "id_str": "181851152",
+        "name": "碰氣",
+        "screen_name": "hhcwt",
+        "location": "Taiwan",
+        "description": "我喜歡這個特效 @hhcwt",
+        "url": "https://t.co/0uDHZGFWfq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/0uDHZGFWfq",
+                "expanded_url": "https://t.me/hhcwt_seat",
+                "display_url": "t.me/hhcwt_seat",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 11883,
+        "friends_count": 2132,
+        "listed_count": 65,
+        "created_at": "Mon Aug 23 05:57:33 +0000 2010",
+        "favourites_count": 490724,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 33690,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1381854911235690497/UFgWb7lw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381854911235690497/UFgWb7lw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/181851152/1609527284",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 31 06:49:36 +0000 2021",
+    "id": 1432596416631771140,
+    "id_str": "1432596416631771140",
+    "text": "音感超強的貓咪～～ https://t.co/lAPNrRQcIL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lAPNrRQcIL",
+          "expanded_url": "https://twitter.com/satooyanokai/status/1391223852412203008",
+          "display_url": "twitter.com/satooyanokai/s…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1391223852412203008,
+    "quoted_status_id_str": "1391223852412203008",
+    "quoted_status": {
+      "created_at": "Sun May 09 02:49:48 +0000 2021",
+      "id": 1391223852412203008,
+      "id_str": "1391223852412203008",
+      "text": "歌う猫\nソラちゃん\n動画第二弾！\n本当にお上手！\nさすがトップスターね https://t.co/KelrpLOe2M",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1391223827426729988,
+            "id_str": "1391223827426729988",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1391223827426729988/pu/img/FJppczSMy7P-u_S5.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1391223827426729988/pu/img/FJppczSMy7P-u_S5.jpg",
+            "url": "https://t.co/KelrpLOe2M",
+            "display_url": "pic.twitter.com/KelrpLOe2M",
+            "expanded_url": "https://twitter.com/satooyanokai/status/1391223852412203008/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 540,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 540,
+                "h": 960,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1391223827426729988,
+            "id_str": "1391223827426729988",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1391223827426729988/pu/img/FJppczSMy7P-u_S5.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1391223827426729988/pu/img/FJppczSMy7P-u_S5.jpg",
+            "url": "https://t.co/KelrpLOe2M",
+            "display_url": "pic.twitter.com/KelrpLOe2M",
+            "expanded_url": "https://twitter.com/satooyanokai/status/1391223852412203008/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 540,
+                "h": 960,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 540,
+                "h": 960,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 15897,
+              "variants": [
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1391223827426729988/pu/vid/320x568/YSdtRhsYm3xMT8Il.mp4?tag=12"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1391223827426729988/pu/vid/480x852/QkTOWzCdCFiMIvA8.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1391223827426729988/pu/pl/srqHjpVGD5y-QrWk.m3u8?tag=12"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1391223827426729988/pu/vid/540x960/enhl5S_QoJ4xiZTT.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1186607475811766273,
+        "id_str": "1186607475811766273",
+        "name": "里親の会 川口",
+        "screen_name": "satooyanokai",
+        "location": "埼玉県川口市",
+        "description": "埼玉県川口市を中心に飼い主のいない猫のTNR活動や、里親探しの活動をしています。 譲渡会は毎週土曜日、日曜日の13時～16時、JR川口駅東口デッキ通路で開催しています。子猫から大人猫、ブリーダ―から救われたブランド猫まで様々な猫がいます。 ペットショップに行く前に、どうぞ、譲渡会へ足をお運びください。",
+        "url": "https://t.co/7XTZ7mAphh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/7XTZ7mAphh",
+                "expanded_url": "https://www.facebook.com/satooyakawaguchi/",
+                "display_url": "facebook.com/satooyakawaguc…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1249,
+        "friends_count": 8,
+        "listed_count": 12,
+        "created_at": "Tue Oct 22 11:37:39 +0000 2019",
+        "favourites_count": 346,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 314,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186608851711184897/I_cArd2I_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186608851711184897/I_cArd2I_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1186607475811766273/1571750796",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 985,
+      "favorite_count": 2555,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Aug 31 02:04:30 +0000 2021",
     "id": 1432524669576302593,
     "id_str": "1432524669576302593",
