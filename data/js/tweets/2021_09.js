@@ -1,5 +1,306 @@
 Grailbird.data.tweets_2021_09 = [
   {
+    "created_at": "Sun Sep 05 02:35:55 +0000 2021",
+    "id": 1434344512399183872,
+    "id_str": "1434344512399183872",
+    "text": "《反智：不願說理的人是偏執，不會說理的人是愚蠢，不敢說理的人是奴隸》 #kobo\n\n副書名很長但夠清晰。原文副書名則是：為什麼邏輯謬誤讓我們身陷危險？批判性思考又如何能拯救世界。\n\nhttps://t.co/5IWXAPT2YC https://t.co/zLfuWO7CiP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            35,
+            40
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5IWXAPT2YC",
+          "expanded_url": "https://bit.ly/3zMn7nv",
+          "display_url": "bit.ly/3zMn7nv",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1434344507458215937,
+          "id_str": "1434344507458215937",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-fQuuSUYAE_xos.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-fQuuSUYAE_xos.jpg",
+          "url": "https://t.co/zLfuWO7CiP",
+          "display_url": "pic.twitter.com/zLfuWO7CiP",
+          "expanded_url": "https://twitter.com/wastemobile/status/1434344512399183872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 353,
+              "h": 468,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 353,
+              "h": 468,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 468,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1434344507458215937,
+          "id_str": "1434344507458215937",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-fQuuSUYAE_xos.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-fQuuSUYAE_xos.jpg",
+          "url": "https://t.co/zLfuWO7CiP",
+          "display_url": "pic.twitter.com/zLfuWO7CiP",
+          "expanded_url": "https://twitter.com/wastemobile/status/1434344512399183872/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 353,
+              "h": 468,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 353,
+              "h": 468,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 468,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1433652091092824065,
+    "in_reply_to_status_id_str": "1433652091092824065",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 04 11:55:10 +0000 2021",
+    "id": 1434122864051949572,
+    "id_str": "1434122864051949572",
+    "text": "RT @tseng_weichen: 波蘭外交部證實送台灣40萬AZ疫苗\n\n波蘭政府感謝台灣去年送100萬個口罩、5000套防護衣、2萬套手術衣。今年5月回贈台灣1500套防護衣，還促成包機從華沙直飛台灣。\n\n這就回想到，去年台灣送口罩時，在野黨與統媒是怎麼罵的？\n\n然後，波蘭…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tseng_weichen",
+          "name": "曾韋禎",
+          "id": 1389894205892296705,
+          "id_str": "1389894205892296705",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 04 11:43:28 +0000 2021",
+      "id": 1434119919579254787,
+      "id_str": "1434119919579254787",
+      "text": "波蘭外交部證實送台灣40萬AZ疫苗\n\n波蘭政府感謝台灣去年送100萬個口罩、5000套防護衣、2萬套手術衣。今年5月回贈台灣1500套防護衣，還促成包機從華沙直飛台灣。\n\n這就回想到，去年台灣送口罩時，在野黨與統媒是怎麼罵的？… https://t.co/6JlMaN2YHm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6JlMaN2YHm",
+            "expanded_url": "https://twitter.com/i/web/status/1434119919579254787",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1389894205892296705,
+        "id_str": "1389894205892296705",
+        "name": "曾韋禎",
+        "screen_name": "tseng_weichen",
+        "location": "",
+        "description": "台灣三害：左派、環團、勞團\n台灣當代政治家典範：柯建銘\n台灣政壇三敗類：韓、昌、柯\nhttps://t.co/3l5SK5lraz",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/3l5SK5lraz",
+                "expanded_url": "https://www.facebook.com/grant0516",
+                "display_url": "facebook.com/grant0516",
+                "indices": [
+                  42,
+                  65
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1613,
+        "friends_count": 20,
+        "listed_count": 6,
+        "created_at": "Wed May 05 10:46:37 +0000 2021",
+        "favourites_count": 20,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 109,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1389894563121143810/MHap5hSf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1389894563121143810/MHap5hSf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1389894205892296705/1626509208",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 208,
+      "favorite_count": 1436,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 208,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 04 02:13:01 +0000 2021",
     "id": 1433976363782791171,
     "id_str": "1433976363782791171",
