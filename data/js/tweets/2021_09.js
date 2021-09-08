@@ -1,5 +1,287 @@
 Grailbird.data.tweets_2021_09 = [
   {
+    "created_at": "Wed Sep 08 02:06:27 +0000 2021",
+    "id": 1435424259740889091,
+    "id_str": "1435424259740889091",
+    "text": "「我們的重大發現是，每個網路的邊緣都有一些默默無聞的社交集群，它完全可以把一個新思想的傳播增加數百倍。這些社交集群是觸發社會轉折的起點。」\n\n這篇節譯文呼應了這期《數位時代》的本土網紅觀察：奈米網紅、與強調互動的新趨勢。\n\n想要改… https://t.co/K2QHMDRqDX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/K2QHMDRqDX",
+          "expanded_url": "https://twitter.com/i/web/status/1435424259740889091",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Sep 08 01:33:39 +0000 2021",
+    "id": 1435416007120543744,
+    "id_str": "1435416007120543744",
+    "text": "新新聞主義代表人物Gay Talese，收到一位汽車旅館老闆的來信與手稿，詳細記錄他多年在旅館閣樓偷窺住房客的情事。根據這些資料與訪談，蓋伊寫成《偷窺狂的汽旅》、並在出版前於《紐約客》發表⋯⋯結果知名記者與紐約客事實查核團隊，幾乎… https://t.co/xtpMJz1vLF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xtpMJz1vLF",
+          "expanded_url": "https://twitter.com/i/web/status/1435416007120543744",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1075617358054490112,
+    "in_reply_to_status_id_str": "1075617358054490112",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 07 05:33:05 +0000 2021",
+    "id": 1435113872608796674,
+    "id_str": "1435113872608796674",
+    "text": "RT @MadsDM_BC: 推一下同學的集資出版專案\nhttps://t.co/E16tt2vQKw\n\n其實我只跟她同窗一年就休學了哈哈 ，她後來也轉去南藝大\n\n我很佩服她能一直堅持走在藝術創作這條路上 ，因為走起來很辛苦\n\n她不但持續下去 ，畫風和技術也是不停精進 ，是個我…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "MadsDM_BC",
+          "name": "小野寺布布與神明對話",
+          "id": 14210971,
+          "id_str": "14210971",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/E16tt2vQKw",
+          "expanded_url": "https://publish.flipermag.com/projects/the-elves/",
+          "display_url": "publish.flipermag.com/projects/the-e…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Sep 07 05:12:02 +0000 2021",
+      "id": 1435108577824313346,
+      "id_str": "1435108577824313346",
+      "text": "推一下同學的集資出版專案\nhttps://t.co/E16tt2vQKw\n\n其實我只跟她同窗一年就休學了哈哈 ，她後來也轉去南藝大\n\n我很佩服她能一直堅持走在藝術創作這條路上 ，因為走起來很辛苦\n\n她不但持續下去 ，畫風和技術也是… https://t.co/fhQ3BTt80V",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/E16tt2vQKw",
+            "expanded_url": "https://publish.flipermag.com/projects/the-elves/",
+            "display_url": "publish.flipermag.com/projects/the-e…",
+            "indices": [
+              13,
+              36
+            ]
+          },
+          {
+            "url": "https://t.co/fhQ3BTt80V",
+            "expanded_url": "https://twitter.com/i/web/status/1435108577824313346",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14210971,
+        "id_str": "14210971",
+        "name": "小野寺布布與神明對話",
+        "screen_name": "MadsDM_BC",
+        "location": "",
+        "description": "台灣人｜討厭左蠢｜廢推｜負能量肥肥｜SKZ｜\n\n\n★推文請勿擅轉載至推特以外的地方 ★",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 355,
+        "friends_count": 519,
+        "listed_count": 3,
+        "created_at": "Mon Mar 24 21:38:15 +0000 2008",
+        "favourites_count": 37847,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5464,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1385407033768177664/uKf6qS8y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1385407033768177664/uKf6qS8y_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14210971/1520363148",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 40,
+      "favorite_count": 303,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 40,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Sep 07 02:02:55 +0000 2021",
     "id": 1435060984809353218,
     "id_str": "1435060984809353218",
