@@ -1,5 +1,587 @@
 Grailbird.data.tweets_2021_09 = [
   {
+    "created_at": "Thu Sep 09 01:49:15 +0000 2021",
+    "id": 1435782319894237189,
+    "id_str": "1435782319894237189",
+    "text": "這Low-tech Magazine數位雜誌是完全以太陽能支撐的微型網站，樹莓派、太陽能充電控制器、太陽能板、電池，好像可以來玩耍一下。\n\nhttps://t.co/dj15xf4XQa https://t.co/1txbXejcG2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dj15xf4XQa",
+          "expanded_url": "https://bit.ly/38THmUg",
+          "display_url": "bit.ly/38THmUg",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1435782311396593665,
+          "id_str": "1435782311396593665",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-zsZ7WVUAEMQXg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-zsZ7WVUAEMQXg.jpg",
+          "url": "https://t.co/1txbXejcG2",
+          "display_url": "pic.twitter.com/1txbXejcG2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1435782319894237189/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1435782311396593665,
+          "id_str": "1435782311396593665",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-zsZ7WVUAEMQXg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-zsZ7WVUAEMQXg.jpg",
+          "url": "https://t.co/1txbXejcG2",
+          "display_url": "pic.twitter.com/1txbXejcG2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1435782319894237189/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1435782311396577282,
+          "id_str": "1435782311396577282",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-zsZ7WVEAIPexg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-zsZ7WVEAIPexg.jpg",
+          "url": "https://t.co/1txbXejcG2",
+          "display_url": "pic.twitter.com/1txbXejcG2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1435782319894237189/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 314,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 267,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 314,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 09 01:42:52 +0000 2021",
+    "id": 1435780716294336518,
+    "id_str": "1435780716294336518",
+    "text": "RT @heaveninchina11: 翁啟惠訪談：如何對抗Delta病毒？「這兩重點」是新冠疫情落幕的關鍵\n\n答：首先要透過防疫跟接種疫苗，降低傳播率，讓病毒不易突變。病毒繼續傳播就會繼續突變，現在我們還沒控制住，病毒一直突變，Delta、Lambda、Mu都出來了。疫苗要…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "heaveninchina11",
+          "name": "🪓🐯🛡放空貓生———疫苗科普請點閱網址———秒懂家醫科臉書的研究員專業編寫",
+          "id": 1042070984663162880,
+          "id_str": "1042070984663162880",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 08 23:55:32 +0000 2021",
+      "id": 1435753701830901762,
+      "id_str": "1435753701830901762",
+      "text": "翁啟惠訪談：如何對抗Delta病毒？「這兩重點」是新冠疫情落幕的關鍵\n\n答：首先要透過防疫跟接種疫苗，降低傳播率，讓病毒不易突變。病毒繼續傳播就會繼續突變，現在我們還沒控制住，病毒一直突變，Delta、Lambda、Mu都出來了。… https://t.co/DD1EdEVPM1",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DD1EdEVPM1",
+            "expanded_url": "https://twitter.com/i/web/status/1435753701830901762",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1042070984663162880,
+        "id_str": "1042070984663162880",
+        "name": "🪓🐯🛡放空貓生———疫苗科普請點閱網址———秒懂家醫科臉書的研究員專業編寫",
+        "screen_name": "heaveninchina11",
+        "location": "台灣",
+        "description": "男性。去個人化。轉推仔。不是貓帳。\n\n#疫苗觀念\n#疾管署\n#疫苗謠言與破解\n不要fo我，會被洗版。\n\n資料擺在釘選推文串裡面，能不能從認知作戰的洗腦中覺醒，是你自己的課題與選擇，與我無關。\n\n被我討厭，封鎖。\n鎖推、五毛、推文低於100，靜音。\n\n⬇️疫苗科普⬇️秒懂家醫科臉書專業編寫。",
+        "url": "https://t.co/Zr3F24rrcV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Zr3F24rrcV",
+                "expanded_url": "https://m.facebook.com/story.php?story_fbid=2945656705656666&id=1624140681141615&m_entstream_source=",
+                "display_url": "m.facebook.com/story.php?stor…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 166,
+        "friends_count": 292,
+        "listed_count": 2,
+        "created_at": "Tue Sep 18 15:20:58 +0000 2018",
+        "favourites_count": 50013,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11396,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1412077338456514563/jkwidguz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1412077338456514563/jkwidguz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1042070984663162880/1631125569",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 46,
+      "favorite_count": 176,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 46,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 09 01:22:08 +0000 2021",
+    "id": 1435775496818606081,
+    "id_str": "1435775496818606081",
+    "text": "小甜甜布蘭妮終於算是脫離被父親不當監管13年的厄運了，祝福她。\n\nhttps://t.co/kaMRX90hT9",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kaMRX90hT9",
+          "expanded_url": "https://bbc.in/3E0Ecwf",
+          "display_url": "bbc.in/3E0Ecwf",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1361269475924791301,
+    "in_reply_to_status_id_str": "1361269475924791301",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 09 01:14:43 +0000 2021",
+    "id": 1435773631104098304,
+    "id_str": "1435773631104098304",
+    "text": "RT @Chillylin: 站在課長的角度就會理解攻殼機動隊 無辜 和 SSS 的設定。\n\n課長的工作是 management 所以基本不會插手前線的安排，他給自己設定的角色是給機動隊資源（情報、預算、合法性、其他組織對九課的支持），以及給機動隊設定 mission （ 而不…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Chillylin",
+          "name": "Chilly 🦫 the Linear",
+          "id": 119991125,
+          "id_str": "119991125",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Sep 09 00:00:47 +0000 2021",
+      "id": 1435755022558515202,
+      "id_str": "1435755022558515202",
+      "text": "站在課長的角度就會理解攻殼機動隊 無辜 和 SSS 的設定。\n\n課長的工作是 management 所以基本不會插手前線的安排，他給自己設定的角色是給機動隊資源（情報、預算、合法性、其他組織對九課的支持），以及給機動隊設定 mis… https://t.co/lgYzN5WWVR",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lgYzN5WWVR",
+            "expanded_url": "https://twitter.com/i/web/status/1435755022558515202",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 119991125,
+        "id_str": "119991125",
+        "name": "Chilly 🦫 the Linear",
+        "screen_name": "Chillylin",
+        "location": "Auckland, Auckland",
+        "description": "#戯言 遣い / Accountant / PhD student / Par @lemonci / \nChannels:\nProf'n:  https://t.co/L6sDpT4Uqh // \nAccounting: https://t.co/nikUoLntB8 // \nMISC: https://t.co/E2eE2DVRln",
+        "url": "https://t.co/UeH8v5Ch0n",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UeH8v5Ch0n",
+                "expanded_url": "http://www.LinAccountant.Pro",
+                "display_url": "LinAccountant.Pro",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/L6sDpT4Uqh",
+                "expanded_url": "http://t.me/s/beaverpro",
+                "display_url": "t.me/s/beaverpro",
+                "indices": [
+                  71,
+                  94
+                ]
+              },
+              {
+                "url": "https://t.co/nikUoLntB8",
+                "expanded_url": "http://t.me/s/linaccountant",
+                "display_url": "t.me/s/linaccountant",
+                "indices": [
+                  111,
+                  134
+                ]
+              },
+              {
+                "url": "https://t.co/E2eE2DVRln",
+                "expanded_url": "http://t.me/s/chillylin",
+                "display_url": "t.me/s/chillylin",
+                "indices": [
+                  145,
+                  168
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3773,
+        "friends_count": 540,
+        "listed_count": 76,
+        "created_at": "Fri Mar 05 04:37:58 +0000 2010",
+        "favourites_count": 4002,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 67452,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1355100039438168064/dvVM6T_g_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1355100039438168064/dvVM6T_g_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/119991125/1611972332",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Sep 08 02:06:27 +0000 2021",
     "id": 1435424259740889091,
     "id_str": "1435424259740889091",
