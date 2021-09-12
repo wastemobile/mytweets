@@ -1,5 +1,456 @@
 Grailbird.data.tweets_2021_09 = [
   {
+    "created_at": "Sat Sep 11 07:57:16 +0000 2021",
+    "id": 1436599709032845312,
+    "id_str": "1436599709032845312",
+    "text": "這種時候買電子書的退貨似乎方便一點。（是吧？ https://t.co/lyQPGYPKzo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lyQPGYPKzo",
+          "expanded_url": "https://twitter.com/tw_nextmedia/status/1436586149175201795",
+          "display_url": "twitter.com/tw_nextmedia/s…",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1436586149175201795,
+    "quoted_status_id_str": "1436586149175201795",
+    "quoted_status": {
+      "created_at": "Sat Sep 11 07:03:23 +0000 2021",
+      "id": 1436586149175201795,
+      "id_str": "1436586149175201795",
+      "text": "連出版社都怒了！寶瓶痛斥「條子鴿」杜撰經歷　宣布下架接受退書\n#蘋果新聞網 #appledailytw #appledaily #蘋果生活 #條子鴿 #寶瓶文化\n→→https://t.co/1pxXjASfA3 https://t.co/6AWVgxvPWg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "蘋果新聞網",
+            "indices": [
+              31,
+              37
+            ]
+          },
+          {
+            "text": "appledailytw",
+            "indices": [
+              38,
+              51
+            ]
+          },
+          {
+            "text": "appledaily",
+            "indices": [
+              52,
+              63
+            ]
+          },
+          {
+            "text": "蘋果生活",
+            "indices": [
+              64,
+              69
+            ]
+          },
+          {
+            "text": "條子鴿",
+            "indices": [
+              70,
+              74
+            ]
+          },
+          {
+            "text": "寶瓶文化",
+            "indices": [
+              75,
+              80
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1pxXjASfA3",
+            "expanded_url": "https://bit.ly/3A51w9R",
+            "display_url": "bit.ly/3A51w9R",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1436586138379042816,
+            "id_str": "1436586138379042816",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-_He0NVQAAJemY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-_He0NVQAAJemY.jpg",
+            "url": "https://t.co/6AWVgxvPWg",
+            "display_url": "pic.twitter.com/6AWVgxvPWg",
+            "expanded_url": "https://twitter.com/TW_nextmedia/status/1436586149175201795/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 630,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 357,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 630,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1436586138379042816,
+            "id_str": "1436586138379042816",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-_He0NVQAAJemY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-_He0NVQAAJemY.jpg",
+            "url": "https://t.co/6AWVgxvPWg",
+            "display_url": "pic.twitter.com/6AWVgxvPWg",
+            "expanded_url": "https://twitter.com/TW_nextmedia/status/1436586149175201795/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 630,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 357,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 630,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 40813384,
+        "id_str": "40813384",
+        "name": "蘋果新聞網 Taiwan News",
+        "screen_name": "TW_nextmedia",
+        "location": "Taipei, Taiwan ROC",
+        "description": "為台灣本地和世界華人帶來最新的新聞娛樂資訊！Apple Daily is the largest news media group in Taiwan with live streaming, breaking news and animated news for local and global readers.",
+        "url": "https://t.co/atmHp4v8k7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/atmHp4v8k7",
+                "expanded_url": "https://tw.appledaily.com/",
+                "display_url": "tw.appledaily.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 992212,
+        "friends_count": 193,
+        "listed_count": 2529,
+        "created_at": "Mon May 18 04:28:58 +0000 2009",
+        "favourites_count": 5362,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 147222,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40813384/1564537596",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 10 06:32:35 +0000 2021",
+    "id": 1436216011301163021,
+    "id_str": "1436216011301163021",
+    "text": "RT @ryo6: 雅賊柏尼‧羅登拔系列（全十一冊） https://t.co/dnzhS5WeBa \n勞倫斯卜洛克，完整收錄寫於1977～2013年間的十一段雅賊歷險，一次就可以徹底打盡，同樣輸入周年慶代碼 5HBD 再 75折，看不完也先買起來...",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ryo6",
+          "name": "Tokio",
+          "id": 19586444,
+          "id_str": "19586444",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dnzhS5WeBa",
+          "expanded_url": "https://www.kobo.com/tw/zh/ebook/amFlBsImLjmzs_Fn7KIZug",
+          "display_url": "kobo.com/tw/zh/ebook/am…",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Sep 10 06:17:03 +0000 2021",
+      "id": 1436212102910275584,
+      "id_str": "1436212102910275584",
+      "text": "雅賊柏尼‧羅登拔系列（全十一冊） https://t.co/dnzhS5WeBa \n勞倫斯卜洛克，完整收錄寫於1977～2013年間的十一段雅賊歷險，一次就可以徹底打盡，同樣輸入周年慶代碼 5HBD 再 75折，看不完也先買起來...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dnzhS5WeBa",
+            "expanded_url": "https://www.kobo.com/tw/zh/ebook/amFlBsImLjmzs_Fn7KIZug",
+            "display_url": "kobo.com/tw/zh/ebook/am…",
+            "indices": [
+              17,
+              40
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19586444,
+        "id_str": "19586444",
+        "name": "Tokio",
+        "screen_name": "ryo6",
+        "location": "三小南村夏角里",
+        "description": "No Coffee, No Working. 在哪裡跌倒，就在那裏躺好，休息夠了再說。不欠指教。 KOL ( King of Losers )",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5675,
+        "friends_count": 867,
+        "listed_count": 76,
+        "created_at": "Tue Jan 27 10:54:22 +0000 2009",
+        "favourites_count": 9309,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 62228,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1432179669105725444/MVdp2XyQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1432179669105725444/MVdp2XyQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19586444/1630293241",
+        "profile_link_color": "003473",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFADAD",
+        "profile_text_color": "EDC8AB",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Sep 10 02:58:45 +0000 2021",
     "id": 1436162200062738460,
     "id_str": "1436162200062738460",
