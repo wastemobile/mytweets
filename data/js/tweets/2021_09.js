@@ -1,5 +1,996 @@
 Grailbird.data.tweets_2021_09 = [
   {
+    "created_at": "Mon Sep 13 01:32:36 +0000 2021",
+    "id": 1437227683109167107,
+    "id_str": "1437227683109167107",
+    "text": "認為別的時代比自己現在生活的時代更好，這是那些無法應對當前生活的人，所產生的浪漫主義缺陷 — 伍迪·艾倫《午夜巴黎》\n\n第一次知道有Twee pop（童稚流行樂）這種風格定義，有趣。\n\n港式文藝的夜間獨白 My Little Ai… https://t.co/yNsH8Lg3IQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yNsH8Lg3IQ",
+          "expanded_url": "https://twitter.com/i/web/status/1437227683109167107",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 13 01:15:37 +0000 2021",
+    "id": 1437223409482485761,
+    "id_str": "1437223409482485761",
+    "text": "紀錄一下。\n\n自由廣場》為什麼國圖可以持續霸凌數位出版產業？ https://t.co/IvBHSbYpUP\n\n被控霸凌數位出版業 國圖：不實指控 https://t.co/hH01PWdiJk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IvBHSbYpUP",
+          "expanded_url": "https://bit.ly/3nr2CJz",
+          "display_url": "bit.ly/3nr2CJz",
+          "indices": [
+            31,
+            54
+          ]
+        },
+        {
+          "url": "https://t.co/hH01PWdiJk",
+          "expanded_url": "https://bit.ly/3hreBTT",
+          "display_url": "bit.ly/3hreBTT",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 13 01:02:12 +0000 2021",
+    "id": 1437220032346411008,
+    "id_str": "1437220032346411008",
+    "text": "RT @everyhouranya: something about anya taylor-joy smoking on a balcony in venice https://t.co/idXQ9OD7lq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "everyhouranya",
+          "name": "hourly anya taylor-joy",
+          "id": 1328847403881877504,
+          "id_str": "1328847403881877504",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1435844615005900801,
+          "id_str": "1435844615005900801",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-0lEeYVkAEF_D6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-0lEeYVkAEF_D6.jpg",
+          "url": "https://t.co/idXQ9OD7lq",
+          "display_url": "pic.twitter.com/idXQ9OD7lq",
+          "expanded_url": "https://twitter.com/everyhouranya/status/1435844632168972288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 508,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 897,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 945,
+              "h": 1264,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1435844632168972288,
+          "source_status_id_str": "1435844632168972288",
+          "source_user_id": 1328847403881877504,
+          "source_user_id_str": "1328847403881877504"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1435844615005900801,
+          "id_str": "1435844615005900801",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-0lEeYVkAEF_D6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-0lEeYVkAEF_D6.jpg",
+          "url": "https://t.co/idXQ9OD7lq",
+          "display_url": "pic.twitter.com/idXQ9OD7lq",
+          "expanded_url": "https://twitter.com/everyhouranya/status/1435844632168972288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 508,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 897,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 945,
+              "h": 1264,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1435844632168972288,
+          "source_status_id_str": "1435844632168972288",
+          "source_user_id": 1328847403881877504,
+          "source_user_id_str": "1328847403881877504"
+        },
+        {
+          "id": 1435844615005892609,
+          "id_str": "1435844615005892609",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-0lEeYVcAEPsst.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-0lEeYVcAEPsst.jpg",
+          "url": "https://t.co/idXQ9OD7lq",
+          "display_url": "pic.twitter.com/idXQ9OD7lq",
+          "expanded_url": "https://twitter.com/everyhouranya/status/1435844632168972288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1233,
+              "h": 1233,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1435844632168972288,
+          "source_status_id_str": "1435844632168972288",
+          "source_user_id": 1328847403881877504,
+          "source_user_id_str": "1328847403881877504"
+        },
+        {
+          "id": 1435844615005818880,
+          "id_str": "1435844615005818880",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-0lEeYUUAACTQg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-0lEeYUUAACTQg.jpg",
+          "url": "https://t.co/idXQ9OD7lq",
+          "display_url": "pic.twitter.com/idXQ9OD7lq",
+          "expanded_url": "https://twitter.com/everyhouranya/status/1435844632168972288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 1198,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 679,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1242,
+              "h": 1240,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1435844632168972288,
+          "source_status_id_str": "1435844632168972288",
+          "source_user_id": 1328847403881877504,
+          "source_user_id_str": "1328847403881877504"
+        },
+        {
+          "id": 1435844615005880327,
+          "id_str": "1435844615005880327",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-0lEeYVQAcUbSY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-0lEeYVQAcUbSY.jpg",
+          "url": "https://t.co/idXQ9OD7lq",
+          "display_url": "pic.twitter.com/idXQ9OD7lq",
+          "expanded_url": "https://twitter.com/everyhouranya/status/1435844632168972288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 764,
+              "h": 764,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 764,
+              "h": 764,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1435844632168972288,
+          "source_status_id_str": "1435844632168972288",
+          "source_user_id": 1328847403881877504,
+          "source_user_id_str": "1328847403881877504"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Sep 09 05:56:51 +0000 2021",
+      "id": 1435844632168972288,
+      "id_str": "1435844632168972288",
+      "text": "something about anya taylor-joy smoking on a balcony in venice https://t.co/idXQ9OD7lq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1435844615005900801,
+            "id_str": "1435844615005900801",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-0lEeYVkAEF_D6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-0lEeYVkAEF_D6.jpg",
+            "url": "https://t.co/idXQ9OD7lq",
+            "display_url": "pic.twitter.com/idXQ9OD7lq",
+            "expanded_url": "https://twitter.com/everyhouranya/status/1435844632168972288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 508,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 897,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 945,
+                "h": 1264,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1435844615005900801,
+            "id_str": "1435844615005900801",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-0lEeYVkAEF_D6.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-0lEeYVkAEF_D6.jpg",
+            "url": "https://t.co/idXQ9OD7lq",
+            "display_url": "pic.twitter.com/idXQ9OD7lq",
+            "expanded_url": "https://twitter.com/everyhouranya/status/1435844632168972288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 508,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 897,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 945,
+                "h": 1264,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1435844615005892609,
+            "id_str": "1435844615005892609",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-0lEeYVcAEPsst.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-0lEeYVcAEPsst.jpg",
+            "url": "https://t.co/idXQ9OD7lq",
+            "display_url": "pic.twitter.com/idXQ9OD7lq",
+            "expanded_url": "https://twitter.com/everyhouranya/status/1435844632168972288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1233,
+                "h": 1233,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1435844615005818880,
+            "id_str": "1435844615005818880",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-0lEeYUUAACTQg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-0lEeYUUAACTQg.jpg",
+            "url": "https://t.co/idXQ9OD7lq",
+            "display_url": "pic.twitter.com/idXQ9OD7lq",
+            "expanded_url": "https://twitter.com/everyhouranya/status/1435844632168972288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 1198,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 679,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1242,
+                "h": 1240,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1435844615005880327,
+            "id_str": "1435844615005880327",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/E-0lEeYVQAcUbSY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E-0lEeYVQAcUbSY.jpg",
+            "url": "https://t.co/idXQ9OD7lq",
+            "display_url": "pic.twitter.com/idXQ9OD7lq",
+            "expanded_url": "https://twitter.com/everyhouranya/status/1435844632168972288/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 764,
+                "h": 764,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 764,
+                "h": 764,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1328847403881877504,
+        "id_str": "1328847403881877504",
+        "name": "hourly anya taylor-joy",
+        "screen_name": "everyhouranya",
+        "location": "",
+        "description": "— anya content every hour!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3145,
+        "friends_count": 6,
+        "listed_count": 24,
+        "created_at": "Tue Nov 17 23:48:26 +0000 2020",
+        "favourites_count": 685,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 625,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1435811352308682758/R21nyYHF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1435811352308682758/R21nyYHF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1328847403881877504/1631159079",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 162,
+      "favorite_count": 1088,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 162,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 12 07:58:38 +0000 2021",
+    "id": 1436962444899880961,
+    "id_str": "1436962444899880961",
+    "text": "這本我看完了，不需要視為「套公式」寫作的參考書，更像是一個村上迷大量排比解析他的寫法，蠻多有趣的觸發，可以當成文案下標、世界觀設定、或找靈感時隨手翻翻的刺激，含跳跳糖的感受。\n\n寫出你的村上春樹FU：用47個村上式造梗技巧，找出自… https://t.co/Umj2ab527P",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Umj2ab527P",
+          "expanded_url": "https://twitter.com/i/web/status/1436962444899880961",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1436959269824335876,
+    "in_reply_to_status_id_str": "1436959269824335876",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 12 07:46:01 +0000 2021",
+    "id": 1436959269824335876,
+    "id_str": "1436959269824335876",
+    "text": "這本小說的設定蠻詭異的⋯⋯ 一個融合民俗、黑暗迷信與女性力量的故事，來嚐嚐。\n\n食罪者 #kobo https://t.co/varkLTxkSh https://t.co/ZqZdswW6y8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            44,
+            49
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/varkLTxkSh",
+          "expanded_url": "https://bit.ly/3k45SIY",
+          "display_url": "bit.ly/3k45SIY",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1436959264107499524,
+          "id_str": "1436959264107499524",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_Ea1l3VkAQNugQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_Ea1l3VkAQNugQ.jpg",
+          "url": "https://t.co/ZqZdswW6y8",
+          "display_url": "pic.twitter.com/ZqZdswW6y8",
+          "expanded_url": "https://twitter.com/wastemobile/status/1436959269824335876/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1436959264107499524,
+          "id_str": "1436959264107499524",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_Ea1l3VkAQNugQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_Ea1l3VkAQNugQ.jpg",
+          "url": "https://t.co/ZqZdswW6y8",
+          "display_url": "pic.twitter.com/ZqZdswW6y8",
+          "expanded_url": "https://twitter.com/wastemobile/status/1436959269824335876/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1436956989234442245,
+    "in_reply_to_status_id_str": "1436956989234442245",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 12 07:36:58 +0000 2021",
+    "id": 1436956989234442245,
+    "id_str": "1436956989234442245",
+    "text": "《上帝的指紋》作者葛瑞姆‧漢卡克於2019年出版的新書，就是以考古學與各種其他研究，「推論」地球失落文明之謎。\n\n諸神的足跡：失落文明的關鍵 #kobo https://t.co/mKWNOTGMma https://t.co/xpL3CG0zqJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            71,
+            76
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mKWNOTGMma",
+          "expanded_url": "https://bit.ly/3k1QXib",
+          "display_url": "bit.ly/3k1QXib",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1436956983467274240,
+          "id_str": "1436956983467274240",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_EYw10VcAA0DZr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_EYw10VcAA0DZr.jpg",
+          "url": "https://t.co/xpL3CG0zqJ",
+          "display_url": "pic.twitter.com/xpL3CG0zqJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1436956989234442245/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 353,
+              "h": 478,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 478,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 353,
+              "h": 478,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1436956983467274240,
+          "id_str": "1436956983467274240",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_EYw10VcAA0DZr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_EYw10VcAA0DZr.jpg",
+          "url": "https://t.co/xpL3CG0zqJ",
+          "display_url": "pic.twitter.com/xpL3CG0zqJ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1436956989234442245/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 353,
+              "h": 478,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 478,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 353,
+              "h": 478,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1436162200062738460,
+    "in_reply_to_status_id_str": "1436162200062738460",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 11 07:57:16 +0000 2021",
     "id": 1436599709032845312,
     "id_str": "1436599709032845312",
