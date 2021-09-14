@@ -1,5 +1,339 @@
 Grailbird.data.tweets_2021_09 = [
   {
+    "created_at": "Tue Sep 14 03:44:51 +0000 2021",
+    "id": 1437623353968263173,
+    "id_str": "1437623353968263173",
+    "text": "美國參議員助手在Amazon上搜尋與Covid-19或疫苗相關資訊時，發現結果排行上充斥著陰謀論、以及錯誤或誤導的書籍。\n\n亞馬遜的回應約莫是：「演算法不會殺人，容易上當的陰謀論者才會」。\n\n沈思。… https://t.co/DOZutanBlM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DOZutanBlM",
+          "expanded_url": "https://twitter.com/i/web/status/1437623353968263173",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 14 03:25:40 +0000 2021",
+    "id": 1437618524738912258,
+    "id_str": "1437618524738912258",
+    "text": "感覺是本散發特殊氣味的書，封面很漂亮。\n\n奇怪怎麼前兩天 #Kobo 特價時沒遇到，這才發現原來新經典文化的書都沒在樂天Kobo上架，那就是無緣嘍。\n\n書評》暗中造物的愉悅與痛苦：讀布克國際獎得獎作《無法平靜的夜晚》… https://t.co/nXoZnRG6qm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kobo",
+          "indices": [
+            29,
+            34
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nXoZnRG6qm",
+          "expanded_url": "https://twitter.com/i/web/status/1437618524738912258",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 14 03:11:37 +0000 2021",
+    "id": 1437614989691424773,
+    "id_str": "1437614989691424773",
+    "text": "讓他名聲大噪的，是1974年11月期《文藝春秋》上刊登的紀實作品《田中角榮研究——其錢脈和人脈》，掌權的田中內閣於12月集體辭職，立花隆用筆桿子的力量擊潰了一屆政府。\n\n這樣的記者作家與作品，或是會認錯下台的政府，好像都很少了。… https://t.co/NmaJOBqTqL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NmaJOBqTqL",
+          "expanded_url": "https://twitter.com/i/web/status/1437614989691424773",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 14 01:13:01 +0000 2021",
+    "id": 1437585140780134400,
+    "id_str": "1437585140780134400",
+    "text": "RT @zhusee2: Apple 修正了可以讓你被安裝間諜軟體的漏洞，所以趕快把你手邊的系統都更新一輪。\n\n這個漏洞是由研究機構 Citizen Lab 發現的，他們在 6 天前把分析完的檔案交給 Apple，促成了這次修正。\nhttps://t.co/yBJgwf9swH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "zhusee2",
+          "name": "Zhusee🏳️‍🌈",
+          "id": 7748892,
+          "id_str": "7748892",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yBJgwf9swH",
+          "expanded_url": "https://www.theverge.com/2021/9/13/22672352/apple-spyware-gateway-iphone-software-update-nso-pegasus",
+          "display_url": "theverge.com/2021/9/13/2267…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Sep 14 00:10:20 +0000 2021",
+      "id": 1437569368716558342,
+      "id_str": "1437569368716558342",
+      "text": "Apple 修正了可以讓你被安裝間諜軟體的漏洞，所以趕快把你手邊的系統都更新一輪。\n\n這個漏洞是由研究機構 Citizen Lab 發現的，他們在 6 天前把分析完的檔案交給 Apple，促成了這次修正。\nhttps://t.co/yBJgwf9swH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yBJgwf9swH",
+            "expanded_url": "https://www.theverge.com/2021/9/13/22672352/apple-spyware-gateway-iphone-software-update-nso-pegasus",
+            "display_url": "theverge.com/2021/9/13/2267…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7748892,
+        "id_str": "7748892",
+        "name": "Zhusee🏳️‍🌈",
+        "screen_name": "zhusee2",
+        "location": "Taiwan",
+        "description": "　    提　供\n🇯🇵🇺🇸🇱🇹🇸🇰🇨🇿🇵🇱\n\n感謝以上乾爹乾媽抖內武漢肺炎疫苗\n\n新試劑服英戰士 #Evangelion\n奶茶聯盟 #MilkTeaAlliance",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2019,
+        "friends_count": 465,
+        "listed_count": 37,
+        "created_at": "Fri Jul 27 00:32:19 +0000 2007",
+        "favourites_count": 7509,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23538,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "020812",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149554022333812742/onyiCkPY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149554022333812742/onyiCkPY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7748892/1562910014",
+        "profile_link_color": "225699",
+        "profile_sidebar_border_color": "2280A9",
+        "profile_sidebar_fill_color": "020812",
+        "profile_text_color": "2280A9",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Sep 13 01:32:36 +0000 2021",
     "id": 1437227683109167107,
     "id_str": "1437227683109167107",
