@@ -1,5 +1,383 @@
 Grailbird.data.tweets_2021_09 = [
   {
+    "created_at": "Wed Sep 15 02:12:02 +0000 2021",
+    "id": 1437962383587115008,
+    "id_str": "1437962383587115008",
+    "text": "原來每天走一萬步和中秋節烤肉一樣，只是個美麗的誤會。\n\n日行 1 萬步：是日本公司生產出來的偽科學？ https://t.co/3Qfmc7OAhC https://t.co/4zXbWr0x40",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3Qfmc7OAhC",
+          "expanded_url": "https://bit.ly/3nvfqih",
+          "display_url": "bit.ly/3nvfqih",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1437962377794711554,
+          "id_str": "1437962377794711554",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_SrKfjUcAI2JUE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_SrKfjUcAI2JUE.jpg",
+          "url": "https://t.co/4zXbWr0x40",
+          "display_url": "pic.twitter.com/4zXbWr0x40",
+          "expanded_url": "https://twitter.com/wastemobile/status/1437962383587115008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1437962377794711554,
+          "id_str": "1437962377794711554",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_SrKfjUcAI2JUE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_SrKfjUcAI2JUE.jpg",
+          "url": "https://t.co/4zXbWr0x40",
+          "display_url": "pic.twitter.com/4zXbWr0x40",
+          "expanded_url": "https://twitter.com/wastemobile/status/1437962383587115008/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 24,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 14 05:06:45 +0000 2021",
+    "id": 1437643962886418441,
+    "id_str": "1437643962886418441",
+    "text": "住桃園要打第二劑的家中長者，10號開放預約前就收到施打通知單了，自然不需要上網預約，所以台北市是之前沒造冊通知、現在才在補發？ https://t.co/QlxPXJ3zBh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QlxPXJ3zBh",
+          "expanded_url": "https://twitter.com/tw_nextmedia/status/1437640437930422274",
+          "display_url": "twitter.com/tw_nextmedia/s…",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1437640437930422274,
+    "quoted_status_id_str": "1437640437930422274",
+    "quoted_status": {
+      "created_at": "Tue Sep 14 04:52:45 +0000 2021",
+      "id": 1437640437930422274,
+      "id_str": "1437640437930422274",
+      "text": "3.5萬天龍人疫苗被外縣市搶走　北市府要中央補貨！宣布「後天通知、下周開打\n#台北市 #疫苗 #蔡炳坤 #武漢肺炎 #新冠病毒 #防疫 #疫情 #Coronavirus #COVID19 #蘋果新聞網 #appledailytw… https://t.co/rPFmKLJIU5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "台北市",
+            "indices": [
+              38,
+              42
+            ]
+          },
+          {
+            "text": "疫苗",
+            "indices": [
+              43,
+              46
+            ]
+          },
+          {
+            "text": "蔡炳坤",
+            "indices": [
+              47,
+              51
+            ]
+          },
+          {
+            "text": "武漢肺炎",
+            "indices": [
+              52,
+              57
+            ]
+          },
+          {
+            "text": "新冠病毒",
+            "indices": [
+              58,
+              63
+            ]
+          },
+          {
+            "text": "防疫",
+            "indices": [
+              64,
+              67
+            ]
+          },
+          {
+            "text": "疫情",
+            "indices": [
+              68,
+              71
+            ]
+          },
+          {
+            "text": "Coronavirus",
+            "indices": [
+              72,
+              84
+            ]
+          },
+          {
+            "text": "COVID19",
+            "indices": [
+              85,
+              93
+            ]
+          },
+          {
+            "text": "蘋果新聞網",
+            "indices": [
+              94,
+              100
+            ]
+          },
+          {
+            "text": "appledailytw",
+            "indices": [
+              101,
+              114
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rPFmKLJIU5",
+            "expanded_url": "https://twitter.com/i/web/status/1437640437930422274",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 40813384,
+        "id_str": "40813384",
+        "name": "蘋果新聞網 Taiwan News",
+        "screen_name": "TW_nextmedia",
+        "location": "Taipei, Taiwan ROC",
+        "description": "為台灣本地和世界華人帶來最新的新聞娛樂資訊！Apple Daily is the largest news media group in Taiwan with live streaming, breaking news and animated news for local and global readers.",
+        "url": "https://t.co/atmHp4v8k7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/atmHp4v8k7",
+                "expanded_url": "https://tw.appledaily.com/",
+                "display_url": "tw.appledaily.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 992371,
+        "friends_count": 193,
+        "listed_count": 2528,
+        "created_at": "Mon May 18 04:28:58 +0000 2009",
+        "favourites_count": 5366,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 147468,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40813384/1564537596",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 4,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Sep 14 03:44:51 +0000 2021",
     "id": 1437623353968263173,
     "id_str": "1437623353968263173",
