@@ -1,5 +1,492 @@
 Grailbird.data.tweets_2021_09 = [
   {
+    "created_at": "Mon Sep 20 03:42:53 +0000 2021",
+    "id": 1439797182719152133,
+    "id_str": "1439797182719152133",
+    "text": "覺得 NFT 最大的問題，是對「獨一無二＝價值」的誤解。\n\n元宇宙搧風點火 NFT熱度再竄升 https://t.co/0WhoGgnmqW https://t.co/rqIs1a3Ll1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0WhoGgnmqW",
+          "expanded_url": "https://bit.ly/3tTtmDO",
+          "display_url": "bit.ly/3tTtmDO",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1439797177677586436,
+          "id_str": "1439797177677586436",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_sv55wVIAQBhoD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_sv55wVIAQBhoD.jpg",
+          "url": "https://t.co/rqIs1a3Ll1",
+          "display_url": "pic.twitter.com/rqIs1a3Ll1",
+          "expanded_url": "https://twitter.com/wastemobile/status/1439797182719152133/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1439797177677586436,
+          "id_str": "1439797177677586436",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_sv55wVIAQBhoD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_sv55wVIAQBhoD.jpg",
+          "url": "https://t.co/rqIs1a3Ll1",
+          "display_url": "pic.twitter.com/rqIs1a3Ll1",
+          "expanded_url": "https://twitter.com/wastemobile/status/1439797182719152133/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1000,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1391228247451398144,
+    "in_reply_to_status_id_str": "1391228247451398144",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 18 13:39:23 +0000 2021",
+    "id": 1439222522612883461,
+    "id_str": "1439222522612883461",
+    "text": "看不懂這所謂的佈局之說，表面拿進10億、實際之後要拿出21.6億＋拍付國際股份，一來一往把中華開發原本就有投資的公司作出了高價，確定不是遇到＿＿嗎？\n\n【圖解】PChome引進中華電、中華開發資金，擬募資10億！一張圖看策略合作佈局 https://t.co/CdBuIOHfYS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CdBuIOHfYS",
+          "expanded_url": "https://bit.ly/2VX39b2",
+          "display_url": "bit.ly/2VX39b2",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1420921197273878531,
+    "in_reply_to_status_id_str": "1420921197273878531",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 18 08:47:34 +0000 2021",
+    "id": 1439149085861187585,
+    "id_str": "1439149085861187585",
+    "text": "RT @TragedyInChina: “社会主义好！社会主义好！社会主义国家人民地位高，反动派被打倒，帝国主义夹着尾巴逃跑了！”#中国 #共产党 #China #CCP #NewsBreak #ChinaStory #全运会 #社会主义 #Communism \n\n9月15日晚…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "中国",
+          "indices": [
+            65,
+            68
+          ]
+        },
+        {
+          "text": "共产党",
+          "indices": [
+            69,
+            73
+          ]
+        },
+        {
+          "text": "China",
+          "indices": [
+            74,
+            80
+          ]
+        },
+        {
+          "text": "CCP",
+          "indices": [
+            81,
+            85
+          ]
+        },
+        {
+          "text": "NewsBreak",
+          "indices": [
+            86,
+            96
+          ]
+        },
+        {
+          "text": "ChinaStory",
+          "indices": [
+            97,
+            108
+          ]
+        },
+        {
+          "text": "全运会",
+          "indices": [
+            109,
+            113
+          ]
+        },
+        {
+          "text": "社会主义",
+          "indices": [
+            114,
+            119
+          ]
+        },
+        {
+          "text": "Communism",
+          "indices": [
+            120,
+            130
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TragedyInChina",
+          "name": "中国悲剧档案",
+          "id": 1398697461040828417,
+          "id_str": "1398697461040828417",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Sep 16 04:48:40 +0000 2021",
+      "id": 1438364187307114499,
+      "id_str": "1438364187307114499",
+      "text": "“社会主义好！社会主义好！社会主义国家人民地位高，反动派被打倒，帝国主义夹着尾巴逃跑了！”#中国 #共产党 #China #CCP #NewsBreak #ChinaStory #全运会 #社会主义 #Communism \n\n9月… https://t.co/LQWGAvGGND",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "中国",
+            "indices": [
+              45,
+              48
+            ]
+          },
+          {
+            "text": "共产党",
+            "indices": [
+              49,
+              53
+            ]
+          },
+          {
+            "text": "China",
+            "indices": [
+              54,
+              60
+            ]
+          },
+          {
+            "text": "CCP",
+            "indices": [
+              61,
+              65
+            ]
+          },
+          {
+            "text": "NewsBreak",
+            "indices": [
+              66,
+              76
+            ]
+          },
+          {
+            "text": "ChinaStory",
+            "indices": [
+              77,
+              88
+            ]
+          },
+          {
+            "text": "全运会",
+            "indices": [
+              89,
+              93
+            ]
+          },
+          {
+            "text": "社会主义",
+            "indices": [
+              94,
+              99
+            ]
+          },
+          {
+            "text": "Communism",
+            "indices": [
+              100,
+              110
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LQWGAvGGND",
+            "expanded_url": "https://twitter.com/i/web/status/1438364187307114499",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1398697461040828417,
+        "id_str": "1398697461040828417",
+        "name": "中国悲剧档案",
+        "screen_name": "TragedyInChina",
+        "location": "",
+        "description": "旨在记录追踪中国发生的各种悲剧事件！欢迎推友们私信供稿爆料【图片或视频，加文字】！不私聊！\n#中国 #大陆 #中国新闻 #中國 #大陸 #中國新聞 #CCP #共产党 #中国共产党 #China\nTelegram电报群：https://t.co/mv6ees15Yo",
+        "url": "https://t.co/2xi5rbBmR2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2xi5rbBmR2",
+                "expanded_url": "https://www.youtube.com/channel/UCWD4yMVAIzNB8mCnCnBiTbg",
+                "display_url": "youtube.com/channel/UCWD4y…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/mv6ees15Yo",
+                "expanded_url": "http://t.me/TragedyInChinaGroup",
+                "display_url": "t.me/TragedyInChina…",
+                "indices": [
+                  110,
+                  133
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 16530,
+        "friends_count": 197,
+        "listed_count": 78,
+        "created_at": "Sat May 29 17:47:38 +0000 2021",
+        "favourites_count": 55,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7917,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1398697682022006784/P8ML_wV-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1398697682022006784/P8ML_wV-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1398697461040828417/1626075271",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Sep 15 02:12:02 +0000 2021",
     "id": 1437962383587115008,
     "id_str": "1437962383587115008",
