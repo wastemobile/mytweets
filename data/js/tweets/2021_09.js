@@ -1,5 +1,198 @@
 Grailbird.data.tweets_2021_09 = [
   {
+    "created_at": "Sun Sep 26 09:55:00 +0000 2021",
+    "id": 1442065158558212099,
+    "id_str": "1442065158558212099",
+    "text": "RT @thschee: 從aNobiian到Goodreader一隻書蟲的網路書櫃十年觀察 https://t.co/GanO6FWC6N",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thschee",
+          "name": "T.H. 徐",
+          "id": 18190649,
+          "id_str": "18190649",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GanO6FWC6N",
+          "expanded_url": "https://hou26.org/zeta/bookshelves.htm",
+          "display_url": "hou26.org/zeta/bookshelv…",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 25 04:24:47 +0000 2021",
+      "id": 1441619668800733186,
+      "id_str": "1441619668800733186",
+      "text": "從aNobiian到Goodreader一隻書蟲的網路書櫃十年觀察 https://t.co/GanO6FWC6N",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GanO6FWC6N",
+            "expanded_url": "https://hou26.org/zeta/bookshelves.htm",
+            "display_url": "hou26.org/zeta/bookshelv…",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18190649,
+        "id_str": "18190649",
+        "name": "T.H. 徐",
+        "screen_name": "thschee",
+        "location": "",
+        "description": "運動員體質 | 個人帳號 | @scheeinfo for tweets in English | https://t.co/U63OODRdce | https://t.co/ujZn0HaVJg",
+        "url": "https://t.co/ntDgrbnRyq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ntDgrbnRyq",
+                "expanded_url": "https://blog.schee.info",
+                "display_url": "blog.schee.info",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/U63OODRdce",
+                "expanded_url": "https://t.me/scheeinfo",
+                "display_url": "t.me/scheeinfo",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "url": "https://t.co/ujZn0HaVJg",
+                "expanded_url": "https://scheeinfo.substack.com/",
+                "display_url": "scheeinfo.substack.com",
+                "indices": [
+                  76,
+                  99
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 205,
+        "friends_count": 3,
+        "listed_count": 6,
+        "created_at": "Wed Dec 17 15:11:57 +0000 2008",
+        "favourites_count": 472,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1657,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1331992602917257216/VjHsluys_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1331992602917257216/VjHsluys_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18190649/1632326517",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 25,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Sep 26 02:26:16 +0000 2021",
     "id": 1441952228667891714,
     "id_str": "1441952228667891714",
