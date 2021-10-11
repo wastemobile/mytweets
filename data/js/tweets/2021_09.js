@@ -1,5 +1,574 @@
 Grailbird.data.tweets_2021_09 = [
   {
+    "created_at": "Thu Sep 30 16:33:00 +0000 2021",
+    "id": 1443614867504582659,
+    "id_str": "1443614867504582659",
+    "text": "看了科幻電影《Zone 414》，像小品版的《銀翼殺手》，確實覺得有些地方沒講清楚、不夠順暢，但故事與視覺並不太差，沒想到IMDb居然只有4.9分。\n\n搜尋後發現不僅是導演的處女作，居然還是預算僅500萬美金的小型獨立電影!? 若… https://t.co/zNFUoodfWR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zNFUoodfWR",
+          "expanded_url": "https://twitter.com/i/web/status/1443614867504582659",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 30 14:55:51 +0000 2021",
+    "id": 1443590420017991682,
+    "id_str": "1443590420017991682",
+    "text": "如果你討厭電子書，那不是你的錯。\n\n電子書有持續在進化，但只深耕在現有的利基市場，也僅限於各自封閉的平台內；電子書市場沒做到的是擴張。\n\n這篇《大西洋月刊》專欄文章還蠻有趣的，作者是媒體與數位傳播教授，大致都沒說錯。\n\n中文… https://t.co/L0iLiVDE1Q",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/L0iLiVDE1Q",
+          "expanded_url": "https://twitter.com/i/web/status/1443590420017991682",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 30 06:18:27 +0000 2021",
+    "id": 1443460211876925440,
+    "id_str": "1443460211876925440",
+    "text": "RT @jenniferatntd: 世界首次，震撼爆料！「停車場堆了1000多具屍體！」\n來自 #武漢 大學 #中南醫院 的一線醫務人員首次公開他在武漢 #疫情 高峯期間所見所聞，所思所感！\n中文字幕在一天內趕出來了，打開字幕鍵，就能看到中英雙語字幕，請大家幫忙廣傳！\n#中共…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "武漢",
+          "indices": [
+            49,
+            52
+          ]
+        },
+        {
+          "text": "中南醫院",
+          "indices": [
+            56,
+            61
+          ]
+        },
+        {
+          "text": "疫情",
+          "indices": [
+            78,
+            81
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jenniferatntd",
+          "name": "Jennifer Zeng 曾錚",
+          "id": 2313027666,
+          "id_str": "2313027666",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Sep 30 01:20:53 +0000 2021",
+      "id": 1443385326324654083,
+      "id_str": "1443385326324654083",
+      "text": "世界首次，震撼爆料！「停車場堆了1000多具屍體！」\n來自 #武漢 大學 #中南醫院 的一線醫務人員首次公開他在武漢 #疫情 高峯期間所見所聞，所思所感！\n中文字幕在一天內趕出來了，打開字幕鍵，就能看到中英雙語字幕，請大家幫忙廣傳… https://t.co/Dk5cOJrfL3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "武漢",
+            "indices": [
+              30,
+              33
+            ]
+          },
+          {
+            "text": "中南醫院",
+            "indices": [
+              37,
+              42
+            ]
+          },
+          {
+            "text": "疫情",
+            "indices": [
+              59,
+              62
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Dk5cOJrfL3",
+            "expanded_url": "https://twitter.com/i/web/status/1443385326324654083",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2313027666,
+        "id_str": "2313027666",
+        "name": "Jennifer Zeng 曾錚",
+        "screen_name": "jenniferatntd",
+        "location": "New York, USA 美国纽约",
+        "description": "Video creator at https://t.co/AVm2MiVW2N & https://t.co/uURNldMUga, Writer at https://t.co/FNsfRs8rbm 自媒體人，網站及油管频道網址如前。Backup account 備用帳號：@JenniferZeng15",
+        "url": "https://t.co/DVUmHwyaie",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/DVUmHwyaie",
+                "expanded_url": "https://www.jenniferzengblog.com",
+                "display_url": "jenniferzengblog.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/AVm2MiVW2N",
+                "expanded_url": "https://bit.ly/3BXzVYT",
+                "display_url": "bit.ly/3BXzVYT",
+                "indices": [
+                  17,
+                  40
+                ]
+              },
+              {
+                "url": "https://t.co/uURNldMUga",
+                "expanded_url": "http://youtube.com/c/JenniferZeng",
+                "display_url": "youtube.com/c/JenniferZeng",
+                "indices": [
+                  43,
+                  66
+                ]
+              },
+              {
+                "url": "https://t.co/FNsfRs8rbm",
+                "expanded_url": "http://jenniferzengblog.com",
+                "display_url": "jenniferzengblog.com",
+                "indices": [
+                  78,
+                  101
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 166817,
+        "friends_count": 467,
+        "listed_count": 1064,
+        "created_at": "Mon Jan 27 04:58:03 +0000 2014",
+        "favourites_count": 29119,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21727,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1336689846409175043/PvMdO7Cr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336689846409175043/PvMdO7Cr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2313027666/1593194338",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 330,
+      "favorite_count": 691,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 330,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Sep 29 15:28:01 +0000 2021",
+    "id": 1443236125888315392,
+    "id_str": "1443236125888315392",
+    "text": "英國衛報9/25（六）居然新出了一本大開數雜誌《週六》，標準為112頁，也採用了較為新穎大膽的視覺風格；四大區塊分別為：Cuttings, Features, Culture以及Lifestyle。\n\n有點酷。… https://t.co/SFHDAblJdY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SFHDAblJdY",
+          "expanded_url": "https://twitter.com/i/web/status/1443236125888315392",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 28 01:31:34 +0000 2021",
+    "id": 1442663242011009026,
+    "id_str": "1442663242011009026",
+    "text": "喔喔喔，#Netflix 釋出《睡魔》（Sandman）預告，而且經網友比對，相當程度還原了 Neil Gaiman 1989 圖像小說第一集。 https://t.co/KRBO0Jxsrk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            4,
+            12
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KRBO0Jxsrk",
+          "expanded_url": "https://twitter.com/NetflixGeeked/status/1441815015342891008",
+          "display_url": "twitter.com/NetflixGeeked/…",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1441815015342891008,
+    "quoted_status_id_str": "1441815015342891008",
+    "quoted_status": {
+      "created_at": "Sat Sep 25 17:21:01 +0000 2021",
+      "id": 1441815015342891008,
+      "id_str": "1441815015342891008",
+      "text": "the first look at Netflix's THE SANDMAN (@Netflix_Sandman) is almost a perfect shot-by-shot recreation of the first… https://t.co/YkiAE2SA6w",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Netflix_Sandman",
+            "name": "The Sandman",
+            "id": 1415171630330900480,
+            "id_str": "1415171630330900480",
+            "indices": [
+              41,
+              57
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YkiAE2SA6w",
+            "expanded_url": "https://twitter.com/i/web/status/1441815015342891008",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 999720386014019584,
+        "id_str": "999720386014019584",
+        "name": "Netflix Geeked",
+        "screen_name": "NetflixGeeked",
+        "location": "Los Angeles, CA",
+        "description": "Sae-Byeok stan account ✨ welcome to our worlds",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 466403,
+        "friends_count": 894,
+        "listed_count": 1204,
+        "created_at": "Thu May 24 18:34:48 +0000 2018",
+        "favourites_count": 11424,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 13597,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1384234872999354370/eOwUWP3o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1384234872999354370/eOwUWP3o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/999720386014019584/1632765223",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1389,
+      "favorite_count": 4876,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Sep 26 09:55:00 +0000 2021",
     "id": 1442065158558212099,
     "id_str": "1442065158558212099",
