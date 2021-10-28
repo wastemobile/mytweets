@@ -1,5 +1,372 @@
 Grailbird.data.tweets_2021_10 = [
   {
+    "created_at": "Thu Oct 28 16:13:22 +0000 2021",
+    "id": 1453756787283292164,
+    "id_str": "1453756787283292164",
+    "text": "Maestral 是用Python寫的開源Dropbox客戶端，不支援Paper, teams或從Finder快速設定分享，但因為自己使用率已經蠻低，就安裝來玩玩。\n\n非常輕巧快速，佔用記憶體也低；命令列介面蠻有趣的，還可以安裝在… https://t.co/D5AEc3qvQb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D5AEc3qvQb",
+          "expanded_url": "https://twitter.com/i/web/status/1453756787283292164",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1453694915599159298,
+    "in_reply_to_status_id_str": "1453694915599159298",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 28 12:07:30 +0000 2021",
+    "id": 1453694915599159298,
+    "id_str": "1453694915599159298",
+    "text": "因為macOS Monterey預設刪除了 PHP 執行程式，讓PopClip好多方便的插件失效了。\n\n果然水土不服的還很多。\n\nhttps://t.co/JVrDlgw8fl https://t.co/BCNWcoxja4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JVrDlgw8fl",
+          "expanded_url": "https://pilotmoon.com/blog/2021/09/15/popclip-macos-monterey",
+          "display_url": "pilotmoon.com/blog/2021/09/1…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1453694910196973574,
+          "id_str": "1453694910196973574",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCyP0Z4VgAYmGyu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCyP0Z4VgAYmGyu.jpg",
+          "url": "https://t.co/BCNWcoxja4",
+          "display_url": "pic.twitter.com/BCNWcoxja4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1453694915599159298/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 449,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1996,
+              "h": 747,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 254,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1453694910196973574,
+          "id_str": "1453694910196973574",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCyP0Z4VgAYmGyu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCyP0Z4VgAYmGyu.jpg",
+          "url": "https://t.co/BCNWcoxja4",
+          "display_url": "pic.twitter.com/BCNWcoxja4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1453694915599159298/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 449,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1996,
+              "h": 747,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 254,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1453694321211834372,
+    "in_reply_to_status_id_str": "1453694321211834372",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Oct 28 12:05:09 +0000 2021",
+    "id": 1453694321211834372,
+    "id_str": "1453694321211834372",
+    "text": "升級後才發現Powerlevel9k居然已經退役很久，換裝新版Powerlevel10k。\n\nhttps://t.co/u3moCj9mz3 https://t.co/w7zodf2rvF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/u3moCj9mz3",
+          "expanded_url": "https://github.com/romkatv/powerlevel10k#manual",
+          "display_url": "github.com/romkatv/powerl…",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1453694316103147523,
+          "id_str": "1453694316103147523",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCyPR0tVIAMRVwH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCyPR0tVIAMRVwH.jpg",
+          "url": "https://t.co/w7zodf2rvF",
+          "display_url": "pic.twitter.com/w7zodf2rvF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1453694321211834372/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 765,
+              "h": 516,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 765,
+              "h": 516,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 459,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1453694316103147523,
+          "id_str": "1453694316103147523",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCyPR0tVIAMRVwH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCyPR0tVIAMRVwH.jpg",
+          "url": "https://t.co/w7zodf2rvF",
+          "display_url": "pic.twitter.com/w7zodf2rvF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1453694321211834372/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 765,
+              "h": 516,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 765,
+              "h": 516,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 459,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1453665473988489216,
+    "in_reply_to_status_id_str": "1453665473988489216",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 28 10:10:31 +0000 2021",
+    "id": 1453665473988489216,
+    "id_str": "1453665473988489216",
+    "text": "換了新SSD乾淨安裝macOS Monterey，重新設置。\n\n可能還是太多人在升級安裝，感覺與Apple ID相關的操作都爆慢。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Oct 28 01:59:40 +0000 2021",
     "id": 1453541945741963264,
     "id_str": "1453541945741963264",
