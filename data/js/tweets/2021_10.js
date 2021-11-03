@@ -1,5 +1,283 @@
 Grailbird.data.tweets_2021_10 = [
   {
+    "created_at": "Sun Oct 31 12:30:18 +0000 2021",
+    "id": 1454787814755737613,
+    "id_str": "1454787814755737613",
+    "text": "RT @tuzzi: 必須用台北通的地方我都不會去。只希望這個人快快下台，這種濫用行政權力硬推電子認証的行為監察院也應該調查。\n\n台北通就像人類版ETC，是用電子方式立即辨識你的身分。本來使用各種都市服務、進出公共場所，是不用揭露身分的。台北通就是要儘可能電子辨識你是誰。台北通…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tuzzi",
+          "name": "tuzzi",
+          "id": 17267400,
+          "id_str": "17267400",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Oct 31 05:46:25 +0000 2021",
+      "id": 1454686174824386565,
+      "id_str": "1454686174824386565",
+      "text": "必須用台北通的地方我都不會去。只希望這個人快快下台，這種濫用行政權力硬推電子認証的行為監察院也應該調查。\n\n台北通就像人類版ETC，是用電子方式立即辨識你的身分。本來使用各種都市服務、進出公共場所，是不用揭露身分的。台北通就是要儘… https://t.co/Xgb7WoKdVm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Xgb7WoKdVm",
+            "expanded_url": "https://twitter.com/i/web/status/1454686174824386565",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17267400,
+        "id_str": "17267400",
+        "name": "tuzzi",
+        "screen_name": "tuzzi",
+        "location": "Taiwan",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7903,
+        "friends_count": 231,
+        "listed_count": 90,
+        "created_at": "Sun Nov 09 11:31:58 +0000 2008",
+        "favourites_count": 49683,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 84588,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245393898068783105/k29ebbqr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245393898068783105/k29ebbqr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17267400/1633882626",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1454306112010801156,
+      "quoted_status_id_str": "1454306112010801156",
+      "quoted_status": {
+        "created_at": "Sat Oct 30 04:36:11 +0000 2021",
+        "id": 1454306112010801156,
+        "id_str": "1454306112010801156",
+        "text": "\"柯文哲：北市疫苗護照很快會上線 綁台北通、進餐廳分流坐\" ( https://t.co/XbwUNc7qhI )\n\n「柯說，疫苗護照很快會上線，將結合台北通APP，打滿2劑疫苗的顯示綠色、一劑的顯示黃色、未接種就是紅色，進餐廳時… https://t.co/aSkR5vCUPF",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/XbwUNc7qhI",
+              "expanded_url": "http://twitthat.com/UWZgD",
+              "display_url": "twitthat.com/UWZgD",
+              "indices": [
+                32,
+                55
+              ]
+            },
+            {
+              "url": "https://t.co/aSkR5vCUPF",
+              "expanded_url": "https://twitter.com/i/web/status/1454306112010801156",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 88960222,
+          "id_str": "88960222",
+          "name": "2QT2BSTR8®️",
+          "screen_name": "attraittw",
+          "location": "Tâi-lâm, Formosa",
+          "description": "偏執狂，喜歡男生。 A sociopath guy who loves guys. 🏳️‍🌈 SW-7774-4607-9683 #深夜相談室",
+          "url": "https://t.co/mJMRG1itXv",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/mJMRG1itXv",
+                  "expanded_url": "https://medium.com/@calvintw/",
+                  "display_url": "medium.com/@calvintw/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 2660,
+          "friends_count": 378,
+          "listed_count": 44,
+          "created_at": "Tue Nov 10 16:14:45 +0000 2009",
+          "favourites_count": 538,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 160031,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1394915727321157638/dCgGVY0M_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394915727321157638/dCgGVY0M_normal.jpg",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 11,
+        "favorite_count": 44,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 139,
+      "favorite_count": 585,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1454306112010801156,
+    "quoted_status_id_str": "1454306112010801156",
+    "retweet_count": 139,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Oct 31 02:28:14 +0000 2021",
     "id": 1454636301840359426,
     "id_str": "1454636301840359426",
