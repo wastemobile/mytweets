@@ -1,5 +1,377 @@
 Grailbird.data.tweets_2021_11 = [
   {
+    "created_at": "Fri Nov 05 02:09:42 +0000 2021",
+    "id": 1456443574325690372,
+    "id_str": "1456443574325690372",
+    "text": "RT @insideCyberbuzz: Google 發現，在台灣曾遭個人資料外洩的比例高達 70%，另外有 50% 的人密碼設計太過簡易，以及有 86% 的人會將單一密碼重複用於多個網站。\n\n#個資外洩 #Google #密碼安全意識 \nhttps://t.co/V7ZCY…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "個資外洩",
+          "indices": [
+            98,
+            103
+          ]
+        },
+        {
+          "text": "Google",
+          "indices": [
+            104,
+            111
+          ]
+        },
+        {
+          "text": "密碼安全意識",
+          "indices": [
+            112,
+            119
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "insideCyberbuzz",
+          "name": "INSIDE的網路趨勢觀察",
+          "id": 134829820,
+          "id_str": "134829820",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Nov 05 01:55:06 +0000 2021",
+      "id": 1456439899503022081,
+      "id_str": "1456439899503022081",
+      "text": "Google 發現，在台灣曾遭個人資料外洩的比例高達 70%，另外有 50% 的人密碼設計太過簡易，以及有 86% 的人會將單一密碼重複用於多個網站。\n\n#個資外洩 #Google #密碼安全意識 \nhttps://t.co/V7ZCY6bJWd",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "個資外洩",
+            "indices": [
+              77,
+              82
+            ]
+          },
+          {
+            "text": "Google",
+            "indices": [
+              83,
+              90
+            ]
+          },
+          {
+            "text": "密碼安全意識",
+            "indices": [
+              91,
+              98
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/V7ZCY6bJWd",
+            "expanded_url": "https://www.inside.com.tw/article/25456-google-3-step-protect-privacy-shopping-online",
+            "display_url": "inside.com.tw/article/25456-…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 134829820,
+        "id_str": "134829820",
+        "name": "INSIDE的網路趨勢觀察",
+        "screen_name": "insideCyberbuzz",
+        "location": "Taipei, Taiwan",
+        "description": "We focus on social media and mobile internet related topics from business, marketing and technical perspectives.",
+        "url": "http://t.co/adLsviL9mz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/adLsviL9mz",
+                "expanded_url": "http://www.inside.com.tw/",
+                "display_url": "inside.com.tw",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9622,
+        "friends_count": 34,
+        "listed_count": 249,
+        "created_at": "Mon Apr 19 15:25:57 +0000 2010",
+        "favourites_count": 102,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21802,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/872364292930195456/bf_K0OgX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/872364292930195456/bf_K0OgX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134829820/1630492331",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 05 01:15:22 +0000 2021",
+    "id": 1456429902639468545,
+    "id_str": "1456429902639468545",
+    "text": "喔，美國政府已提出反壟斷訴訟，企圖阻止ViacomCBS將其出版部門Simon &amp; Schuster以20億美元賣給企鵝蘭登書屋，因為可能會控制整體市場的2/3。\n\nhttps://t.co/mn5xrjeJ2W",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mn5xrjeJ2W",
+          "expanded_url": "https://bit.ly/3ELGzCN",
+          "display_url": "bit.ly/3ELGzCN",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 05 01:03:39 +0000 2021",
+    "id": 1456426952835747847,
+    "id_str": "1456426952835747847",
+    "text": "猝不及防，Kobo 在義大利發布 all-you-can-enjoy 的 Kobo Plus 服務，包含有聲書在內。\n\nhttps://t.co/KarPhaKU26",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KarPhaKU26",
+          "expanded_url": "https://bit.ly/2ZSt9X7",
+          "display_url": "bit.ly/2ZSt9X7",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1456108484328521729,
+    "in_reply_to_status_id_str": "1456108484328521729",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 04 03:58:10 +0000 2021",
+    "id": 1456108484328521729,
+    "id_str": "1456108484328521729",
+    "text": "Kobo Plus 近日擴展到澳洲與紐西蘭，繼荷蘭、比利時、葡萄牙和加拿大之後。\n\n消息都是低調地在Kobo Writing Life中公布，這與Kindle Unlimited走相同路徑，除了北歐之外，吃到飽電子書主要是搭著新興… https://t.co/ZwxSMDwxd6",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZwxSMDwxd6",
+          "expanded_url": "https://twitter.com/i/web/status/1456108484328521729",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1424559914983170050,
+    "in_reply_to_status_id_str": "1424559914983170050",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Nov 03 01:17:03 +0000 2021",
     "id": 1455705549543133184,
     "id_str": "1455705549543133184",
