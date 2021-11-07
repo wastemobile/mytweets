@@ -1,5 +1,667 @@
 Grailbird.data.tweets_2021_11 = [
   {
+    "created_at": "Sun Nov 07 08:35:11 +0000 2021",
+    "id": 1457265361351430152,
+    "id_str": "1457265361351430152",
+    "text": "RT @himarilee: 誰…擺…的…… https://t.co/aC8Ffpworz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "himarilee",
+          "name": "🐈‍⬛劭玄淵 (Agatha)🐈‍⬛遠離世間一切紛爭，1+1=5",
+          "id": 834755526391001089,
+          "id_str": "834755526391001089",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1457218643302182912,
+          "id_str": "1457218643302182912",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/FDkUoqoacAAnZKY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FDkUoqoacAAnZKY.jpg",
+          "url": "https://t.co/aC8Ffpworz",
+          "display_url": "pic.twitter.com/aC8Ffpworz",
+          "expanded_url": "https://twitter.com/himarilee/status/1457218646049124355/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 958,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 958,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 679,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1457218646049124355,
+          "source_status_id_str": "1457218646049124355",
+          "source_user_id": 834755526391001089,
+          "source_user_id_str": "834755526391001089"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1457218643302182912,
+          "id_str": "1457218643302182912",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/FDkUoqoacAAnZKY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FDkUoqoacAAnZKY.jpg",
+          "url": "https://t.co/aC8Ffpworz",
+          "display_url": "pic.twitter.com/aC8Ffpworz",
+          "expanded_url": "https://twitter.com/himarilee/status/1457218646049124355/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 960,
+              "h": 958,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 958,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 679,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1457218646049124355,
+          "source_status_id_str": "1457218646049124355",
+          "source_user_id": 834755526391001089,
+          "source_user_id_str": "834755526391001089"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 07 05:29:33 +0000 2021",
+      "id": 1457218646049124355,
+      "id_str": "1457218646049124355",
+      "text": "誰…擺…的…… https://t.co/aC8Ffpworz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1457218643302182912,
+            "id_str": "1457218643302182912",
+            "indices": [
+              8,
+              31
+            ],
+            "media_url": "http://pbs.twimg.com/media/FDkUoqoacAAnZKY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FDkUoqoacAAnZKY.jpg",
+            "url": "https://t.co/aC8Ffpworz",
+            "display_url": "pic.twitter.com/aC8Ffpworz",
+            "expanded_url": "https://twitter.com/himarilee/status/1457218646049124355/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 960,
+                "h": 958,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 960,
+                "h": 958,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 679,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1457218643302182912,
+            "id_str": "1457218643302182912",
+            "indices": [
+              8,
+              31
+            ],
+            "media_url": "http://pbs.twimg.com/media/FDkUoqoacAAnZKY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FDkUoqoacAAnZKY.jpg",
+            "url": "https://t.co/aC8Ffpworz",
+            "display_url": "pic.twitter.com/aC8Ffpworz",
+            "expanded_url": "https://twitter.com/himarilee/status/1457218646049124355/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 960,
+                "h": 958,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 960,
+                "h": 958,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 679,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 834755526391001089,
+        "id_str": "834755526391001089",
+        "name": "🐈‍⬛劭玄淵 (Agatha)🐈‍⬛遠離世間一切紛爭，1+1=5",
+        "screen_name": "himarilee",
+        "location": "Taiwan",
+        "description": "生まれて、すみません/精神病患思維廣/厭世仔/1+1=5/台灣人/廢推/噁爛留言直接封鎖/不露點不約砲不聊色/撒旦主義聖殿聖女＆祭壇＆MD/五貓一狗/私訊保持禮貌/不要硬來尬聊啦幹/回訊不是義務不讀不回常態就擲筊吧 _(:3」∠ )_\n\n/FB:https://t.co/x6L18S6ZLW",
+        "url": "https://t.co/2UtKDUrq6c",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2UtKDUrq6c",
+                "expanded_url": "https://www.instagram.com/himarilee/",
+                "display_url": "instagram.com/himarilee/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/x6L18S6ZLW",
+                "expanded_url": "http://facebook.com/himari0527",
+                "display_url": "facebook.com/himari0527",
+                "indices": [
+                  123,
+                  146
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 15387,
+        "friends_count": 360,
+        "listed_count": 21,
+        "created_at": "Thu Feb 23 13:23:21 +0000 2017",
+        "favourites_count": 12943,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12884,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1454999833249722368/mf2MU3F__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1454999833249722368/mf2MU3F__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/834755526391001089/1606287784",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 103,
+      "favorite_count": 797,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 103,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 07 08:13:27 +0000 2021",
+    "id": 1457259891928670222,
+    "id_str": "1457259891928670222",
+    "text": "Obsidian Hypothesis 外掛則是受 Obsidian Kindle 外掛觸發的，這外掛可以持續自動將 Kindle 畫線註記同步到 Obsidian 製成純文字 markdown，同樣可自己寫模板呈現。\n\n若Kin… https://t.co/zRkYGch8Ze",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zRkYGch8Ze",
+          "expanded_url": "https://twitter.com/i/web/status/1457259891928670222",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1457257586609188868,
+    "in_reply_to_status_id_str": "1457257586609188868",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 07 08:04:17 +0000 2021",
+    "id": 1457257586609188868,
+    "id_str": "1457257586609188868",
+    "text": "真正的大魔王是 Hypothesis Highlights 外掛啦！\n\n安裝設置好後，hypothesis 內容就可以同步到 Obsidian 裡，每篇自成一檔、自動手動皆可、異動添加，甚至能自己寫呈現模板。\n\n讀任何文章的畫線註… https://t.co/BomrNnsvcC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BomrNnsvcC",
+          "expanded_url": "https://twitter.com/i/web/status/1457257586609188868",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1457254158436757511,
+    "in_reply_to_status_id_str": "1457254158436757511",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 07 07:50:40 +0000 2021",
+    "id": 1457254158436757511,
+    "id_str": "1457254158436757511",
+    "text": "有了 hypothesis 帳號後，網頁文章都改用 Outline 開啟，就會獲得去除廣告與頁面雜料的極簡內容，閱讀時可以直接畫線註記，除存在雲端。\n\nOutline網址後直接加上目標網址就能開啟，設置Alfred或其他工具快捷很… https://t.co/aYpZMZRMM4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aYpZMZRMM4",
+          "expanded_url": "https://twitter.com/i/web/status/1457254158436757511",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1457252579243544579,
+    "in_reply_to_status_id_str": "1457252579243544579",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 07 07:44:23 +0000 2021",
+    "id": 1457252579243544579,
+    "id_str": "1457252579243544579",
+    "text": "Quotebacks 能嵌入帶情境連結的摘文很不錯，但由於沒有Safari 外掛、還得特別開Firefox來讀，資料又都存在瀏覽器，便利性還是差了些。\n\n希望在閱讀任何網頁文章時都能畫線註記，能方便的儲存（雲端），最重要的是能更便… https://t.co/cvTsk5HF7W",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cvTsk5HF7W",
+          "expanded_url": "https://twitter.com/i/web/status/1457252579243544579",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1282875793618505730,
+    "in_reply_to_status_id_str": "1282875793618505730",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 07 03:22:36 +0000 2021",
+    "id": 1457186698475958276,
+    "id_str": "1457186698475958276",
+    "text": "2019年10月，美國證交所認定 Telegram ICO 獲得的17億美金是「非法吸金」，Telegram 只能宣告放棄。\n\n衍生出的開源 Free TON Network 運作中。\n\n然後，Telegram 開放了廣告投放。\n\nhttps://t.co/OiKv1ByuON",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OiKv1ByuON",
+          "expanded_url": "https://bit.ly/3CUTrG7",
+          "display_url": "bit.ly/3CUTrG7",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1359722867072532480,
+    "in_reply_to_status_id_str": "1359722867072532480",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 07 01:38:24 +0000 2021",
+    "id": 1457160474487709696,
+    "id_str": "1457160474487709696",
+    "text": "雖然在非蘋果晶片的老 iMac 上無法完全體驗 macOS Monterey 的所有能力，但「原況文字」（辨識拷貝圖片上的文字）與「全系統翻譯」是立即能融入平日工作流的有感升級。\n\nhttps://t.co/ZHyyAEFp7k",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZHyyAEFp7k",
+          "expanded_url": "https://www.apple.com/tw/macos/monterey/features/",
+          "display_url": "apple.com/tw/macos/monte…",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1455697870095458309,
+    "in_reply_to_status_id_str": "1455697870095458309",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 06 12:45:24 +0000 2021",
     "id": 1456965944291463171,
     "id_str": "1456965944291463171",
