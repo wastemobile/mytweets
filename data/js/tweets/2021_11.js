@@ -1,5 +1,144 @@
 Grailbird.data.tweets_2021_11 = [
   {
+    "created_at": "Tue Nov 09 01:35:54 +0000 2021",
+    "id": 1457884620880429058,
+    "id_str": "1457884620880429058",
+    "text": "這個計畫根據美國圖書館使用OverDrive服務的資料，根據3大分類、9個區域，每一季列出借閱最多的前25名電子書。 #study\n\nPANORAMA PICKS https://t.co/bk9aTFm8lm https://t.co/CuLThFNdD4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "study",
+          "indices": [
+            59,
+            65
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bk9aTFm8lm",
+          "expanded_url": "https://bit.ly/3H7xGpo",
+          "display_url": "bit.ly/3H7xGpo",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1457884614941626368,
+          "id_str": "1457884614941626368",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/FDtyVUUaUAAUgRA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FDtyVUUaUAAUgRA.jpg",
+          "url": "https://t.co/CuLThFNdD4",
+          "display_url": "pic.twitter.com/CuLThFNdD4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1457884620880429058/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 750,
+              "h": 335,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 304,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 335,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1457884614941626368,
+          "id_str": "1457884614941626368",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/FDtyVUUaUAAUgRA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FDtyVUUaUAAUgRA.jpg",
+          "url": "https://t.co/CuLThFNdD4",
+          "display_url": "pic.twitter.com/CuLThFNdD4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1457884620880429058/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 750,
+              "h": 335,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 304,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 335,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Nov 07 08:35:11 +0000 2021",
     "id": 1457265361351430152,
     "id_str": "1457265361351430152",
