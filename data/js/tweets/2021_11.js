@@ -1,5 +1,418 @@
 Grailbird.data.tweets_2021_11 = [
   {
+    "created_at": "Thu Nov 11 11:19:54 +0000 2021",
+    "id": 1458756365074112516,
+    "id_str": "1458756365074112516",
+    "text": "《Jodorowsky’s Dune》紀錄片說這磚頭分鏡故事集只有兩本，現在要用2.5～3.5萬歐元的價格拍賣一本。\n\n紀錄片很有趣，那瘋狂組合若拍成會邪到極致。\n\n導演說雷托公爵是閹人，潔西卡是用公爵的一滴血轉化成精子才懷上保羅… https://t.co/iJKvc2yHsP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iJKvc2yHsP",
+          "expanded_url": "https://twitter.com/i/web/status/1458756365074112516",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 11 11:04:23 +0000 2021",
+    "id": 1458752462228058116,
+    "id_str": "1458752462228058116",
+    "text": "擴延喬治馬丁老爺子說作家有「建築師」與「園丁」兩種的說法，再加上「圖書館員」，根據這三類分別推薦不同的筆記軟體。\n\n〈如何選擇合適的筆記軟體〉 https://t.co/DUqzKNyx2U https://t.co/1MDCNuj1RR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DUqzKNyx2U",
+          "expanded_url": "https://bit.ly/30igNY8",
+          "display_url": "bit.ly/30igNY8",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1458752456700329984,
+          "id_str": "1458752456700329984",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/FD6HoWzaAAA_8td.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FD6HoWzaAAA_8td.jpg",
+          "url": "https://t.co/1MDCNuj1RR",
+          "display_url": "pic.twitter.com/1MDCNuj1RR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1458752462228058116/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 195,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 343,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1209,
+              "h": 346,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1458752456700329984,
+          "id_str": "1458752456700329984",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/FD6HoWzaAAA_8td.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FD6HoWzaAAA_8td.jpg",
+          "url": "https://t.co/1MDCNuj1RR",
+          "display_url": "pic.twitter.com/1MDCNuj1RR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1458752462228058116/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 195,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 343,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1209,
+              "h": 346,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 11 01:09:27 +0000 2021",
+    "id": 1458602739550748672,
+    "id_str": "1458602739550748672",
+    "text": "記得《基地》小說裡有一句話，說在篩選要蒐錄的文章時，都必須嚴謹分辨是「事實、臆測、或是想像」，這其實過於簡化且理想。\n\n現實狀況往往是一篇資訊裡有50%事實、30%臆測、以及20%的想像，如何分辨已屬不易，還得再讀出文章真實目的為何、想將讀者引導到哪個方向去，或只是單純亂入。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 10 10:26:21 +0000 2021",
+    "id": 1458380499953414153,
+    "id_str": "1458380499953414153",
+    "text": "唉",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Nov 09 03:07:14 +0000 2021",
+    "id": 1457907603816673281,
+    "id_str": "1457907603816673281",
+    "text": "發現日常簡單的檔案加密需求，使用免費的 Encrypto App 就可以了，不必動用到 VeraCrypt + macFUSE 的終極組合。\n\nhttps://t.co/zVgchvXqKY https://t.co/NPUiHCvmbF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zVgchvXqKY",
+          "expanded_url": "https://bit.ly/3od4Qew",
+          "display_url": "bit.ly/3od4Qew",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1457907598540574720,
+          "id_str": "1457907598540574720",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/FDuHPI5akAA7w6T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FDuHPI5akAA7w6T.jpg",
+          "url": "https://t.co/NPUiHCvmbF",
+          "display_url": "pic.twitter.com/NPUiHCvmbF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1457907603816673281/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 696,
+              "h": 942,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 502,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 696,
+              "h": 942,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1457907598540574720,
+          "id_str": "1457907598540574720",
+          "indices": [
+            96,
+            119
+          ],
+          "media_url": "http://pbs.twimg.com/media/FDuHPI5akAA7w6T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FDuHPI5akAA7w6T.jpg",
+          "url": "https://t.co/NPUiHCvmbF",
+          "display_url": "pic.twitter.com/NPUiHCvmbF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1457907603816673281/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 696,
+              "h": 942,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 502,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 696,
+              "h": 942,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1335420811251838978,
+    "in_reply_to_status_id_str": "1335420811251838978",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Nov 09 01:35:54 +0000 2021",
     "id": 1457884620880429058,
     "id_str": "1457884620880429058",
