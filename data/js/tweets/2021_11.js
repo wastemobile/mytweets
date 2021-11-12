@@ -1,5 +1,560 @@
 Grailbird.data.tweets_2021_11 = [
   {
+    "created_at": "Fri Nov 12 02:01:02 +0000 2021",
+    "id": 1458978108460072960,
+    "id_str": "1458978108460072960",
+    "text": "Spotify併購Findaway（預計在年底前完成），一間提供製作與分發的有聲書技術服務商，可以擴增不少有聲書品項。\n\nSpotify is acquiring an audiobook company https://t.co/nYnNiQqbxM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nYnNiQqbxM",
+          "expanded_url": "https://bit.ly/30fIbWo",
+          "display_url": "bit.ly/30fIbWo",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1296636240389763072,
+    "in_reply_to_status_id_str": "1296636240389763072",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 12 01:50:15 +0000 2021",
+    "id": 1458975396091731971,
+    "id_str": "1458975396091731971",
+    "text": "FTX快訊》由社群繼承的 Telegram 區塊鏈，TON 幣明日登上交易所 https://t.co/NiLKO7ydml https://t.co/IsB0kjEjUf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NiLKO7ydml",
+          "expanded_url": "https://bit.ly/30fn5bn",
+          "display_url": "bit.ly/30fn5bn",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1458975391105040385,
+          "id_str": "1458975391105040385",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/FD9SY2LaQAEdoyb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FD9SY2LaQAEdoyb.jpg",
+          "url": "https://t.co/IsB0kjEjUf",
+          "display_url": "pic.twitter.com/IsB0kjEjUf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1458975396091731971/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1458975391105040385,
+          "id_str": "1458975391105040385",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/FD9SY2LaQAEdoyb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FD9SY2LaQAEdoyb.jpg",
+          "url": "https://t.co/IsB0kjEjUf",
+          "display_url": "pic.twitter.com/IsB0kjEjUf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1458975396091731971/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1457186698475958276,
+    "in_reply_to_status_id_str": "1457186698475958276",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 11 14:33:15 +0000 2021",
+    "id": 1458805021311569923,
+    "id_str": "1458805021311569923",
+    "text": "說實話，我並不理解需要額外下載電子書檔的 NFT 銷售方式，英譯電子書直接上架一般平台（即使以作者名義）似乎更合理。\n\n但小野美由紀確實有在文章中提到，未來計劃使用 NFT 販售（除了義大利語）以外的翻譯權，以及影視拍攝或其他改編權，這就回到智能合約的主軸了，可以後續觀察看看。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1458801967581384704,
+    "in_reply_to_status_id_str": "1458801967581384704",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 11 14:21:06 +0000 2021",
+    "id": 1458801967581384704,
+    "id_str": "1458801967581384704",
+    "text": "她在note寫了一篇很詳細的文章（日文），闡釋為何使用NFT販售短篇小說《純淨》與兩篇未出版過的英譯版本。\n\nhttps://t.co/oEOhAXe1ne",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oEOhAXe1ne",
+          "expanded_url": "https://bit.ly/30dUl1Y",
+          "display_url": "bit.ly/30dUl1Y",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1458800488510418951,
+    "in_reply_to_status_id_str": "1458800488510418951",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 11 14:15:14 +0000 2021",
+    "id": 1458800488510418951,
+    "id_str": "1458800488510418951",
+    "text": "小野美由紀更重視的可能是另外兩個英譯版本NFT。\n\n小說找了不同的兩位譯者翻成英文，但始終還沒有找到願意出版的廠商，她在說明中提及這樣的英譯無法當成吃飯的工具，似乎傳統出版業也沒有更好的解法，她想透過發布NFT替翻譯界嘗試一種新的… https://t.co/SjSbqQQG3S",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SjSbqQQG3S",
+          "expanded_url": "https://twitter.com/i/web/status/1458800488510418951",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1458798519460843521,
+    "in_reply_to_status_id_str": "1458798519460843521",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 11 14:07:24 +0000 2021",
+    "id": 1458798519460843521,
+    "id_str": "1458798519460843521",
+    "text": "日本科幻小說家小野美由紀發布了可能是世上第一篇、以NFT形式販售的短篇小說：《純淨》\n\n事實上此小說2019在早川書房（日本最大的科幻小說出版商）網站上發布，2020集結5部短篇以同名出版書籍。\n\n購買後作者會傳送ePub下載連結… https://t.co/7GgdfBAXRQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7GgdfBAXRQ",
+          "expanded_url": "https://twitter.com/i/web/status/1458798519460843521",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 11 12:32:56 +0000 2021",
+    "id": 1458774746061950984,
+    "id_str": "1458774746061950984",
+    "text": "這個讚，推！ https://t.co/0obssoQ0xx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0obssoQ0xx",
+          "expanded_url": "https://twitter.com/afailedman/status/1458770868734074886",
+          "display_url": "twitter.com/afailedman/sta…",
+          "indices": [
+            7,
+            30
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1458770868734074886,
+    "quoted_status_id_str": "1458770868734074886",
+    "quoted_status": {
+      "created_at": "Thu Nov 11 12:17:32 +0000 2021",
+      "id": 1458770868734074886,
+      "id_str": "1458770868734074886",
+      "text": "@wastemobile 一人一信懇請Taschen標下來印製出版。\n\n會選Taschen是因為他們很擅常作這種舊書精印重出，從15世紀的手繪本到庫柏力克未能拍成的《拿破崙》構思資料手稿。《拿破崙》也被說成是「世界上最偉大的未成電影之一」。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1458756365074112516,
+      "in_reply_to_status_id_str": "1458756365074112516",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 742885902364479488,
+        "id_str": "742885902364479488",
+        "name": "weipeng",
+        "screen_name": "afailedman",
+        "location": "Purgatory",
+        "description": "40歲｜生理男｜bi｜台派｜憂鬱症｜工作跟書相關",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1796,
+        "friends_count": 148,
+        "listed_count": 13,
+        "created_at": "Wed Jun 15 01:06:16 +0000 2016",
+        "favourites_count": 655,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3069,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/742886544441102336/iQegAZ1L_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/742886544441102336/iQegAZ1L_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/742885902364479488/1465953613",
+        "profile_link_color": "666666",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Nov 11 11:19:54 +0000 2021",
     "id": 1458756365074112516,
     "id_str": "1458756365074112516",
