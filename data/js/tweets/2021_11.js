@@ -1,5 +1,688 @@
 Grailbird.data.tweets_2021_11 = [
   {
+    "created_at": "Sat Nov 13 06:09:57 +0000 2021",
+    "id": 1459403137660243971,
+    "id_str": "1459403137660243971",
+    "text": "很多年沒裝過 Stats 這小工具，在蘋果釋出記憶體管理修正更新前，還是聊表關心一下好了。\n\n一行指令搞定 brew install --cask stats\n\nhttps://t.co/t9xa8AdVJy https://t.co/oNJoPSmDoV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t9xa8AdVJy",
+          "expanded_url": "https://bit.ly/3wGs949",
+          "display_url": "bit.ly/3wGs949",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1459403131792818176,
+          "id_str": "1459403131792818176",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEDXaoaagAARA6Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEDXaoaagAARA6Y.jpg",
+          "url": "https://t.co/oNJoPSmDoV",
+          "display_url": "pic.twitter.com/oNJoPSmDoV",
+          "expanded_url": "https://twitter.com/wastemobile/status/1459403137660243971/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 352,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 1352,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 621,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1459403131792818176,
+          "id_str": "1459403131792818176",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEDXaoaagAARA6Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEDXaoaagAARA6Y.jpg",
+          "url": "https://t.co/oNJoPSmDoV",
+          "display_url": "pic.twitter.com/oNJoPSmDoV",
+          "expanded_url": "https://twitter.com/wastemobile/status/1459403137660243971/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 352,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 1352,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 621,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1459167223445000195,
+    "in_reply_to_status_id_str": "1459167223445000195",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 13 01:41:24 +0000 2021",
+    "id": 1459335558686072835,
+    "id_str": "1459335558686072835",
+    "text": "哇！瑞典有聲書服務 Storytel 直接併購 https://t.co/QgxbOkZSTj 進入美國市場。\n\nhttps://t.co/KeIhJOTazA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QgxbOkZSTj",
+          "expanded_url": "http://Audiobooks.com",
+          "display_url": "Audiobooks.com",
+          "indices": [
+            24,
+            47
+          ]
+        },
+        {
+          "url": "https://t.co/KeIhJOTazA",
+          "expanded_url": "https://bit.ly/3DdHThA",
+          "display_url": "bit.ly/3DdHThA",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1447387438607863812,
+    "in_reply_to_status_id_str": "1447387438607863812",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 13 01:24:01 +0000 2021",
+    "id": 1459331182412271619,
+    "id_str": "1459331182412271619",
+    "text": "如果有超頻過的 Pi 4 擺著沒用，可以拿來挖門羅幣（當然是參與雲端礦池），讓4個CPU核心全速運轉還蠻療癒的，記得散熱與防火牆安全；其實與「挖礦綁架」是類似架構。\n\nCryptocurrency Mining on a Rasp… https://t.co/BeyaptpAOy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BeyaptpAOy",
+          "expanded_url": "https://twitter.com/i/web/status/1459331182412271619",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1459197934780571651,
+    "in_reply_to_status_id_str": "1459197934780571651",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 12 16:34:32 +0000 2021",
+    "id": 1459197934780571651,
+    "id_str": "1459197934780571651",
+    "text": "樹莓派官方說升級到 Bullseye 的額外好處是⋯⋯任何一款 Pi 4 都能穩定超頻到 1.8GHz，只需要修改 /boot/config.txt 內一行設定，最新的韌體甚至會自動搭配工作電壓。\n\nBullseye bonus:… https://t.co/0sMj5U15iH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0sMj5U15iH",
+          "expanded_url": "https://twitter.com/i/web/status/1459197934780571651",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1459095024314904576,
+    "in_reply_to_status_id_str": "1459095024314904576",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 12 14:57:35 +0000 2021",
+    "id": 1459173534157000705,
+    "id_str": "1459173534157000705",
+    "text": "@imknight 我這台也算相容機型的極限了，但乾淨安裝、使用至今兩週，非常順暢，新的小功能如翻譯、圖文辨識等也真的好用。\n\n加過的實體記憶體不可能不夠用，大概要等系統更新修正這記憶體管理的大問題。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "imknight",
+          "name": "Knight ",
+          "id": 1569331,
+          "id_str": "1569331",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1459169303068962819,
+    "in_reply_to_status_id_str": "1459169303068962819",
+    "in_reply_to_user_id": 1569331,
+    "in_reply_to_user_id_str": "1569331",
+    "in_reply_to_screen_name": "imknight",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 12 14:36:46 +0000 2021",
+    "id": 1459168295593005060,
+    "id_str": "1459168295593005060",
+    "text": "@imknight Retina 5K Late 2015 27”，但有自己換過 SATA SSD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "imknight",
+          "name": "Knight ",
+          "id": 1569331,
+          "id_str": "1569331",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1459167870244384772,
+    "in_reply_to_status_id_str": "1459167870244384772",
+    "in_reply_to_user_id": 1569331,
+    "in_reply_to_user_id_str": "1569331",
+    "in_reply_to_screen_name": "imknight",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 12 14:32:30 +0000 2021",
+    "id": 1459167223445000195,
+    "id_str": "1459167223445000195",
+    "text": "老 Intel iMac 剛才跳出什麼「已用盡應用記憶體」的視窗，沒管它一會兒就動不了、顯示多國語言，然後自動重開機。\n\n24GB 實體記憶體、歷經幾代系統都沒事，一定是 macOS Monterey 砸的鍋。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1457160474487709696,
+    "in_reply_to_status_id_str": "1457160474487709696",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 12 09:45:37 +0000 2021",
+    "id": 1459095024314904576,
+    "id_str": "1459095024314904576",
+    "text": "Raspberry Pi Imager 在 Mac 上叫出進階設定選單的指令，是 CTRL + Shift + X。\n\n主要是在不連結螢幕鍵盤、僅使用網路安裝時，可以省去自行啟用ssh、設定無線網路等的麻煩。\n\n然後應該是要下載這… https://t.co/ocJ9g7rDg3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ocJ9g7rDg3",
+          "expanded_url": "https://twitter.com/i/web/status/1459095024314904576",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1459025698912227328,
+    "in_reply_to_status_id_str": "1459025698912227328",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 12 05:10:08 +0000 2021",
+    "id": 1459025698912227328,
+    "id_str": "1459025698912227328",
+    "text": "將現有運行 buster 的樹莓派無痛升級至 bullseye 新版的指令步驟。\n\nhttps://t.co/fQNSJeWgj7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fQNSJeWgj7",
+          "expanded_url": "https://bit.ly/3wIdnK7",
+          "display_url": "bit.ly/3wIdnK7",
+          "indices": [
+            42,
+            65
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1459017306361647108,
+    "in_reply_to_status_id_str": "1459017306361647108",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 12 04:36:47 +0000 2021",
+    "id": 1459017306361647108,
+    "id_str": "1459017306361647108",
+    "text": "原來使用官方 Raspberry Pi Imager 可以這麼方便的將 Pi OS Lite ARM64 安裝到 USB Disk 上，這個讚。\n\nHeadless Raspberry Pi OS Lite ARM64 with… https://t.co/Z2cFTp1WmV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z2cFTp1WmV",
+          "expanded_url": "https://twitter.com/i/web/status/1459017306361647108",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1459011141426814984,
+    "in_reply_to_status_id_str": "1459011141426814984",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Nov 12 04:12:17 +0000 2021",
+    "id": 1459011141426814984,
+    "id_str": "1459011141426814984",
+    "text": "Raspberry Pi OS 正式釋出基於 Debian version 11 (bullseye) 的新版，一般網站下載的還是 32-bit，但其實同步也釋出了 arm64 的版本，可從這裡下載… https://t.co/HtLzJ9b06e",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HtLzJ9b06e",
+          "expanded_url": "https://twitter.com/i/web/status/1459011141426814984",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Nov 12 02:01:02 +0000 2021",
     "id": 1458978108460072960,
     "id_str": "1458978108460072960",
