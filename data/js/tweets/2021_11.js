@@ -1,5 +1,719 @@
 Grailbird.data.tweets_2021_11 = [
   {
+    "created_at": "Tue Nov 23 00:52:53 +0000 2021",
+    "id": 1462947223587594240,
+    "id_str": "1462947223587594240",
+    "text": "將 Pi 4 之前比較麻煩的補丁型 Ubuntu 20.04 改成官方 64位元 Pi OS Bullseye，組裝完塞在超商物流近一週的小玩意，給它自己獨立的微型 UPS。\n\nGeekworm 附加版都看起來不錯。… https://t.co/TtoWklZGsp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TtoWklZGsp",
+          "expanded_url": "https://twitter.com/i/web/status/1462947223587594240",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1459451900097482753,
+    "in_reply_to_status_id_str": "1459451900097482753",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Nov 23 00:37:02 +0000 2021",
+    "id": 1462943236910051330,
+    "id_str": "1462943236910051330",
+    "text": "每一種加密貨幣都爭著當「數位黃金」，到底哪一個才會成為適合日常交易的「數位貨幣」？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 22 15:36:25 +0000 2021",
+    "id": 1462807188284395527,
+    "id_str": "1462807188284395527",
+    "text": "剛剛才知道 macOS Monterey 密碼管理功能已經支援 2FA 雙重驗證，測試設定後發現，在 Safari 的輸入流程比曾用過的其他軟體都還順暢。\n\nhttps://t.co/yMvcN12QJ8 https://t.co/e12mTOJfAU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yMvcN12QJ8",
+          "expanded_url": "https://bit.ly/3xjUe1C",
+          "display_url": "bit.ly/3xjUe1C",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1462807181389340675,
+          "id_str": "1462807181389340675",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEzvYZWaIAMqZYh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEzvYZWaIAMqZYh.jpg",
+          "url": "https://t.co/e12mTOJfAU",
+          "display_url": "pic.twitter.com/e12mTOJfAU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1462807188284395527/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1838,
+              "h": 1412,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 522,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 922,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1462807181389340675,
+          "id_str": "1462807181389340675",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEzvYZWaIAMqZYh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEzvYZWaIAMqZYh.jpg",
+          "url": "https://t.co/e12mTOJfAU",
+          "display_url": "pic.twitter.com/e12mTOJfAU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1462807188284395527/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1838,
+              "h": 1412,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 522,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 922,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1462076329449312263,
+    "in_reply_to_status_id_str": "1462076329449312263",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 22 13:20:00 +0000 2021",
+    "id": 1462772853997068296,
+    "id_str": "1462772853997068296",
+    "text": "@mjwoorg 居然!? 我買過一批確實都是原出租片，許多上面還有店別的貼紙。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mjwoorg",
+          "name": "MJ",
+          "id": 468879796,
+          "id_str": "468879796",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1462768596296232964,
+    "in_reply_to_status_id_str": "1462768596296232964",
+    "in_reply_to_user_id": 468879796,
+    "in_reply_to_user_id_str": "468879796",
+    "in_reply_to_screen_name": "mjwoorg",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 22 12:56:41 +0000 2021",
+    "id": 1462766989517070336,
+    "id_str": "1462766989517070336",
+    "text": "不管露天或蝦皮，蠻多出租店倒店貨DVD或藍光在賣（有點灰色地帶），有時價格比線上租片還便宜，而且很多線上根本租不到。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 22 02:22:11 +0000 2021",
+    "id": 1462607312137293826,
+    "id_str": "1462607312137293826",
+    "text": "企鵝藍燈書屋執行長最近一次訪談蠻有意思的，主要強調預計用21.7億美金併購 S&amp;S 的合理與必要性，卻稱 Storytel 併購 Audiobooks 的1.35億美金是「鉅資」。\n\n「抵禦 Amazon 的市場支配論」、「通路不… https://t.co/JnlEuyI592",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JnlEuyI592",
+          "expanded_url": "https://twitter.com/i/web/status/1462607312137293826",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1459335558686072835,
+    "in_reply_to_status_id_str": "1459335558686072835",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 21 10:26:59 +0000 2021",
+    "id": 1462366927947325443,
+    "id_str": "1462366927947325443",
+    "text": "RT @vickyking180: 公投切記四個不同意\n\n平常不是很愛轉^^轉啊 https://t.co/oFpInj8QKQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "vickyking180",
+          "name": "預約去官方LINE❗️捲媽🌈坦哥戀愛bot feat.小嘎紅茶還沒寶亨🐍爬爬咪咪大集合",
+          "id": 2656598322,
+          "id_str": "2656598322",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1462042659959287813,
+          "id_str": "1462042659959287813",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEo4DZFXMAU5aHK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEo4DZFXMAU5aHK.jpg",
+          "url": "https://t.co/oFpInj8QKQ",
+          "display_url": "pic.twitter.com/oFpInj8QKQ",
+          "expanded_url": "https://twitter.com/vickyking180/status/1462042668402311168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1462042668402311168,
+          "source_status_id_str": "1462042668402311168",
+          "source_user_id": 2656598322,
+          "source_user_id_str": "2656598322"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1462042659959287813,
+          "id_str": "1462042659959287813",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEo4DZFXMAU5aHK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEo4DZFXMAU5aHK.jpg",
+          "url": "https://t.co/oFpInj8QKQ",
+          "display_url": "pic.twitter.com/oFpInj8QKQ",
+          "expanded_url": "https://twitter.com/vickyking180/status/1462042668402311168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1462042668402311168,
+          "source_status_id_str": "1462042668402311168",
+          "source_user_id": 2656598322,
+          "source_user_id_str": "2656598322"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 20 12:58:30 +0000 2021",
+      "id": 1462042668402311168,
+      "id_str": "1462042668402311168",
+      "text": "公投切記四個不同意\n\n平常不是很愛轉^^轉啊 https://t.co/oFpInj8QKQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1462042659959287813,
+            "id_str": "1462042659959287813",
+            "indices": [
+              23,
+              46
+            ],
+            "media_url": "http://pbs.twimg.com/media/FEo4DZFXMAU5aHK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FEo4DZFXMAU5aHK.jpg",
+            "url": "https://t.co/oFpInj8QKQ",
+            "display_url": "pic.twitter.com/oFpInj8QKQ",
+            "expanded_url": "https://twitter.com/vickyking180/status/1462042668402311168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1462042659959287813,
+            "id_str": "1462042659959287813",
+            "indices": [
+              23,
+              46
+            ],
+            "media_url": "http://pbs.twimg.com/media/FEo4DZFXMAU5aHK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FEo4DZFXMAU5aHK.jpg",
+            "url": "https://t.co/oFpInj8QKQ",
+            "display_url": "pic.twitter.com/oFpInj8QKQ",
+            "expanded_url": "https://twitter.com/vickyking180/status/1462042668402311168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2656598322,
+        "id_str": "2656598322",
+        "name": "預約去官方LINE❗️捲媽🌈坦哥戀愛bot feat.小嘎紅茶還沒寶亨🐍爬爬咪咪大集合",
+        "screen_name": "vickyking180",
+        "location": "Taiwan",
+        "description": "私訊哈囉一律封鎖/勿轉推／推特頭目／塔羅工作者／水晶編繩滴膠木工／原創oc放置處／仇噁男／台東海岸阿美／永遠18歲／絕不友善討厭笨蛋／噁拒肉帳與屌照／抖內占卜收款（700）0261182 0246537／預約移步官LINE感恩❤️",
+        "url": "https://t.co/e37hkGMRs4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/e37hkGMRs4",
+                "expanded_url": "https://lin.ee/tCXOZz9",
+                "display_url": "lin.ee/tCXOZz9",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5233,
+        "friends_count": 256,
+        "listed_count": 7,
+        "created_at": "Fri Jul 18 12:15:12 +0000 2014",
+        "favourites_count": 3085,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7464,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191241870044626944/DbI8ylJg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191241870044626944/DbI8ylJg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2656598322/1635733420",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 116,
+      "favorite_count": 1187,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 116,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Nov 21 05:27:55 +0000 2021",
     "id": 1462291665385779203,
     "id_str": "1462291665385779203",
