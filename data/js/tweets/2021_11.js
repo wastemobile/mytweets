@@ -1,5 +1,603 @@
 Grailbird.data.tweets_2021_11 = [
   {
+    "created_at": "Wed Nov 24 02:25:52 +0000 2021",
+    "id": 1463333015111622660,
+    "id_str": "1463333015111622660",
+    "text": "Unbound 復刻的這本《Cain’s Jawbone》解謎書，因為一則超過420萬觀看的 TikTok 短影片再度爆紅，美國收到超過10萬本的訂購量，出版商於庫存售鑿後緊急加印一萬冊，預計在聖誕節前上市。\n\n據說也收到許多海外… https://t.co/N3OKt5Ro1m",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N3OKt5Ro1m",
+          "expanded_url": "https://twitter.com/i/web/status/1463333015111622660",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1324963162307747840,
+    "in_reply_to_status_id_str": "1324963162307747840",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 24 02:00:07 +0000 2021",
+    "id": 1463326534756753411,
+    "id_str": "1463326534756753411",
+    "text": "超簡單搞懂AR/VR/MR/XR這麼多RRRR。\n\n把社群平台的濾鏡歸入 AR 蠻有創意的，合理。\n\nhttps://t.co/Xkex5MvFFO https://t.co/kKZ3qfnJb2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Xkex5MvFFO",
+          "expanded_url": "https://bit.ly/3nL2ogb",
+          "display_url": "bit.ly/3nL2ogb",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1463326528650215424,
+          "id_str": "1463326528650215424",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/FE7HuYqaAAAL1Md.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FE7HuYqaAAAL1Md.jpg",
+          "url": "https://t.co/kKZ3qfnJb2",
+          "display_url": "pic.twitter.com/kKZ3qfnJb2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1463326534756753411/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 820,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 272,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1463326528650215424,
+          "id_str": "1463326528650215424",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/FE7HuYqaAAAL1Md.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FE7HuYqaAAAL1Md.jpg",
+          "url": "https://t.co/kKZ3qfnJb2",
+          "display_url": "pic.twitter.com/kKZ3qfnJb2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1463326534756753411/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 820,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 272,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Nov 24 00:54:08 +0000 2021",
+    "id": 1463309928408309762,
+    "id_str": "1463309928408309762",
+    "text": "看到 Vercel 公布的 C 輪融資 1.5億美金、估值 25億，才發現 Svelte 之父 Rich Harris 才剛剛到 Vercel 全職工作。\n\nhttps://t.co/BEr4DFn3iB https://t.co/U7qUBvCUTu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BEr4DFn3iB",
+          "expanded_url": "https://bit.ly/3nLkYET",
+          "display_url": "bit.ly/3nLkYET",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1463309922419212288,
+          "id_str": "1463309922419212288",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/FE64nxoaAAAj6Tv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FE64nxoaAAAj6Tv.jpg",
+          "url": "https://t.co/U7qUBvCUTu",
+          "display_url": "pic.twitter.com/U7qUBvCUTu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1463309928408309762/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 545,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1157,
+              "h": 927,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1157,
+              "h": 927,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1463309922419212288,
+          "id_str": "1463309922419212288",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/FE64nxoaAAAj6Tv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FE64nxoaAAAj6Tv.jpg",
+          "url": "https://t.co/U7qUBvCUTu",
+          "display_url": "pic.twitter.com/U7qUBvCUTu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1463309928408309762/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 545,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1157,
+              "h": 927,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1157,
+              "h": 927,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Nov 23 14:08:52 +0000 2021",
+    "id": 1463147543194312711,
+    "id_str": "1463147543194312711",
+    "text": "測試後發現 Raspberry PI Imager 的便利進階設定對 Ubuntu 不生效，燒完映像檔後依舊需要手動修改 network-config 加入網路設定，然後第一次接電啟動時網路不會接通，在 headless 狀態安裝… https://t.co/t3n1q1VOA8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t3n1q1VOA8",
+          "expanded_url": "https://twitter.com/i/web/status/1463147543194312711",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1462947223587594240,
+    "in_reply_to_status_id_str": "1462947223587594240",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Nov 23 09:12:26 +0000 2021",
+    "id": 1463072941575262209,
+    "id_str": "1463072941575262209",
+    "text": "現在 iCloud 付費升級後都叫 iCloud+，其中一項很棒的功能，就是能設置最多5個自訂網域、每個網域上限3個電郵地址（好像有點少），每月30元的50GB方案就可以使用。\n\nhttps://t.co/954ITwy5ku",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/954ITwy5ku",
+          "expanded_url": "https://apple.co/3HMy2Sr",
+          "display_url": "apple.co/3HMy2Sr",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1462807188284395527,
+    "in_reply_to_status_id_str": "1462807188284395527",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Nov 23 09:01:20 +0000 2021",
+    "id": 1463070147153850369,
+    "id_str": "1463070147153850369",
+    "text": "RT @plainlaw_me: 【藝文工作者的痛：創作被公部門整碗捧走】\n\n多年來，藝文工作者與公部門與簽約後，相關創作都會被整碗捧走，甚至雪藏，而且對外還不能隨便主張這是自己創作。\n\n為什麼會發生這種事？政府做了什麼改變？對藝文工作者有何具體影響？\n\nhttps://t.c…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "plainlaw_me",
+          "name": "法律白話文運動 Plain Law Movement",
+          "id": 902002134815719424,
+          "id_str": "902002134815719424",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Nov 23 08:32:03 +0000 2021",
+      "id": 1463062779389267970,
+      "id_str": "1463062779389267970",
+      "text": "【藝文工作者的痛：創作被公部門整碗捧走】\n\n多年來，藝文工作者與公部門與簽約後，相關創作都會被整碗捧走，甚至雪藏，而且對外還不能隨便主張這是自己創作。\n\n為什麼會發生這種事？政府做了什麼改變？對藝文工作者有何具體影響？… https://t.co/6NBpX6cmFj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6NBpX6cmFj",
+            "expanded_url": "https://twitter.com/i/web/status/1463062779389267970",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 902002134815719424,
+        "id_str": "902002134815719424",
+        "name": "法律白話文運動 Plain Law Movement",
+        "screen_name": "plainlaw_me",
+        "location": "Taiwan",
+        "description": "🧞‍♀️全知全能的法白大神也在 Twitter 幫你長知識💡 但是這邊其實會有很多幹話， 想去學知識，最好去網站。 想了解簡單一點，就去法白臉書。 就知道更簡單的，就去ig。 這邊，就跟你聊聊幹話，不要審查我，這邊請允許我兇一點。",
+        "url": "https://t.co/REIQPHea3p",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/REIQPHea3p",
+                "expanded_url": "http://plainlaw.me",
+                "display_url": "plainlaw.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 12698,
+        "friends_count": 114,
+        "listed_count": 45,
+        "created_at": "Mon Aug 28 02:57:22 +0000 2017",
+        "favourites_count": 903,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1325,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1268552819403116546/AqXrlo7v_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268552819403116546/AqXrlo7v_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/902002134815719424/1634232045",
+        "profile_link_color": "4E748B",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 19,
+      "favorite_count": 54,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Nov 23 00:52:53 +0000 2021",
     "id": 1462947223587594240,
     "id_str": "1462947223587594240",
