@@ -1,5 +1,291 @@
 Grailbird.data.tweets_2021_11 = [
   {
+    "created_at": "Tue Nov 30 04:55:02 +0000 2021",
+    "id": 1465544879795097600,
+    "id_str": "1465544879795097600",
+    "text": "RT @futurenote2040: 創作者經濟的新組織型態 - Workweek\n\n打破傳統雜誌框架，從最基本的作者跟隨開始。像是紐約時報與太平洋日報等等，大型新聞媒體紛紛邀請創作者製作電子報以吸引更多年輕閱聽族群\n\nhttps://t.co/2eLilTpdCu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "futurenote2040",
+          "name": "未來手帖",
+          "id": 1237747327672057856,
+          "id_str": "1237747327672057856",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2eLilTpdCu",
+          "expanded_url": "https://tungjen.designband.org/%e5%89%b5%e4%bd%9c%e8%80%85%e7%b6%93%e6%bf%9f%e7%9a%84%e6%96%b0%e7%b5%84%e7%b9%94%e5%9e%8b%e6%85%8b-workweek/",
+          "display_url": "tungjen.designband.org/%e5%89%b5%e4%b…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Nov 30 01:01:37 +0000 2021",
+      "id": 1465486140190773250,
+      "id_str": "1465486140190773250",
+      "text": "創作者經濟的新組織型態 - Workweek\n\n打破傳統雜誌框架，從最基本的作者跟隨開始。像是紐約時報與太平洋日報等等，大型新聞媒體紛紛邀請創作者製作電子報以吸引更多年輕閱聽族群\n\nhttps://t.co/2eLilTpdCu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2eLilTpdCu",
+            "expanded_url": "https://tungjen.designband.org/%e5%89%b5%e4%bd%9c%e8%80%85%e7%b6%93%e6%bf%9f%e7%9a%84%e6%96%b0%e7%b5%84%e7%b9%94%e5%9e%8b%e6%85%8b-workweek/",
+            "display_url": "tungjen.designband.org/%e5%89%b5%e4%b…",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1237747327672057856,
+        "id_str": "1237747327672057856",
+        "name": "未來手帖",
+        "screen_name": "futurenote2040",
+        "location": "Taipei",
+        "description": "原型以文化、商業、社會與設計為基礎，提供不同面向的世界訊息。最新關注設計管理、工作改革、普遍基本收入UBI、COVID-19、現代主義設計、網路數位運算、深圳學等等。 作者為長期備課漢",
+        "url": "https://t.co/r7DSW1cE8U",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/r7DSW1cE8U",
+                "expanded_url": "http://tungjen.designband.org",
+                "display_url": "tungjen.designband.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 340,
+        "friends_count": 214,
+        "listed_count": 9,
+        "created_at": "Wed Mar 11 14:29:06 +0000 2020",
+        "favourites_count": 365,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1172,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1316937315734880256/6EpAlQNJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316937315734880256/6EpAlQNJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1237747327672057856/1585708519",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 29 16:19:04 +0000 2021",
+    "id": 1465354635372163082,
+    "id_str": "1465354635372163082",
+    "text": "在 macOS Monterey 設定=&gt;語言與地區=&gt;翻譯語言中，可以勾選預先下載來離線翻譯的多種語言，使用右鍵圈選翻譯時速度就極快。\n\n有看到網路文章說，Safari 其實已內建網頁全文翻譯，但還不支援繁中；若在「偏好的語言」… https://t.co/h2Pk7QnxJ2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/h2Pk7QnxJ2",
+          "expanded_url": "https://twitter.com/i/web/status/1465354635372163082",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            123,
+            146
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1462807188284395527,
+    "in_reply_to_status_id_str": "1462807188284395527",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Nov 29 14:33:37 +0000 2021",
+    "id": 1465328099164241925,
+    "id_str": "1465328099164241925",
+    "text": "讀了《The Atlantic》封面長文，主要兩個敘事是白俄羅斯的專制、以及中國對新疆維吾爾人的壓迫，進而論述目前這些以強化個人權力與財富的「統治者俱樂部」，如何利用西方日益軟弱的民主力量耍流氓，也認為國際普遍存在的「懦弱與貪婪」… https://t.co/QdKQ0wrrCm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QdKQ0wrrCm",
+          "expanded_url": "https://twitter.com/i/web/status/1465328099164241925",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Nov 29 02:25:04 +0000 2021",
     "id": 1465144751921852426,
     "id_str": "1465144751921852426",
