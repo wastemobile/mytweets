@@ -1,5 +1,625 @@
 Grailbird.data.tweets_2021_12 = [
   {
+    "created_at": "Thu Dec 02 04:27:27 +0000 2021",
+    "id": 1466262712313270273,
+    "id_str": "1466262712313270273",
+    "text": "Oracle 雲端可以開一個「永久免費」的 ARM 虛擬主機，4核、24GB 記憶體，系統除了 Oracle Linux 也能選常用的 Ubuntu 20.04 LTS。\n\n可惜沒台灣主機，只能選日本或新加坡，當玩耍用的雲端樹莓派… https://t.co/1zq1IPH2Kj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1zq1IPH2Kj",
+          "expanded_url": "https://twitter.com/i/web/status/1466262712313270273",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 26,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 02 01:21:01 +0000 2021",
+    "id": 1466215797131337731,
+    "id_str": "1466215797131337731",
+    "text": "可以去玩耍一下，但好像很久沒提筆了。\n\n物外YSTUDIO書寫實驗室 －文具控不可缺席的十週年紀念快閃實體店面 https://t.co/YFbMYoYP9h https://t.co/fWeM5me6Dn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YFbMYoYP9h",
+          "expanded_url": "https://bit.ly/3DemKTA",
+          "display_url": "bit.ly/3DemKTA",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1466215786226216960,
+          "id_str": "1466215786226216960",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/FFkLfT4VcAAHoEh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FFkLfT4VcAAHoEh.jpg",
+          "url": "https://t.co/fWeM5me6Dn",
+          "display_url": "pic.twitter.com/fWeM5me6Dn",
+          "expanded_url": "https://twitter.com/wastemobile/status/1466215797131337731/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1366,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1466215786226216960,
+          "id_str": "1466215786226216960",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/FFkLfT4VcAAHoEh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FFkLfT4VcAAHoEh.jpg",
+          "url": "https://t.co/fWeM5me6Dn",
+          "display_url": "pic.twitter.com/fWeM5me6Dn",
+          "expanded_url": "https://twitter.com/wastemobile/status/1466215797131337731/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1366,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 01 09:37:10 +0000 2021",
+    "id": 1465978269409234946,
+    "id_str": "1465978269409234946",
+    "text": "RT @kenworker: \"經典科幻小說進軍小銀幕！HBO Max 即將製作 Cyberpunk 小說《潰雪》影集 | SCREEN FANDOM - 玩具人Toy People News\" ( https://t.co/fquaBCAHTv )",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kenworker",
+          "name": "Ken Worker",
+          "id": 632443,
+          "id_str": "632443",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fquaBCAHTv",
+          "expanded_url": "https://geek-base.toy-people.com/?p=9210",
+          "display_url": "geek-base.toy-people.com/?p=9210",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Dec 01 09:33:11 +0000 2021",
+      "id": 1465977265255297028,
+      "id_str": "1465977265255297028",
+      "text": "\"經典科幻小說進軍小銀幕！HBO Max 即將製作 Cyberpunk 小說《潰雪》影集 | SCREEN FANDOM - 玩具人Toy People News\" ( https://t.co/fquaBCAHTv )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fquaBCAHTv",
+            "expanded_url": "https://geek-base.toy-people.com/?p=9210",
+            "display_url": "geek-base.toy-people.com/?p=9210",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitthat.com/\" rel=\"nofollow\">twitthat</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 632443,
+        "id_str": "632443",
+        "name": "Ken Worker",
+        "screen_name": "kenworker",
+        "location": "Taipei, Taiwan",
+        "description": "工頭 堅。旅科大叔、三導遊記夫、酒吧說書人。台湾のカリスマブロガーと旅行達人、株式会社「米飯旅行社」（ライスツアー）、「旅飯」の旅行長。台湾、日本、中国の旅行交流を目指し。／台湾资深网路人暨旅游人，现任米饭旅行社「旅行长」。早年常在推特碎念，目前做為避世空間。",
+        "url": "https://t.co/vAvaGzpUbX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/vAvaGzpUbX",
+                "expanded_url": "https://pantravel.life/",
+                "display_url": "pantravel.life",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 43503,
+        "friends_count": 4283,
+        "listed_count": 373,
+        "created_at": "Sun Jan 14 07:49:38 +0000 2007",
+        "favourites_count": 31611,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 41490,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/810566611136495616/11zcBE7d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/810566611136495616/11zcBE7d_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/632443/1482089079",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 01 02:30:03 +0000 2021",
+    "id": 1465870783046057984,
+    "id_str": "1465870783046057984",
+    "text": "看到有趣的網站會用 https://t.co/tmnp5OukzJ 偷瞄一下是用什麼做的，發現這個 Wappalyzer 好像偷窺能力更強⋯⋯ https://t.co/mdUEdAcMc2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tmnp5OukzJ",
+          "expanded_url": "http://whatcms.org",
+          "display_url": "whatcms.org",
+          "indices": [
+            10,
+            33
+          ]
+        },
+        {
+          "url": "https://t.co/mdUEdAcMc2",
+          "expanded_url": "https://twitter.com/shinchven/status/1465865468535709696",
+          "display_url": "twitter.com/shinchven/stat…",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1465865468535709696,
+    "quoted_status_id_str": "1465865468535709696",
+    "quoted_status": {
+      "created_at": "Wed Dec 01 02:08:56 +0000 2021",
+      "id": 1465865468535709696,
+      "id_str": "1465865468535709696",
+      "text": "Find out what websites are built with - Wappalyzer https://t.co/ijk5YGcvLp https://t.co/IG4zIaSnIm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ijk5YGcvLp",
+            "expanded_url": "https://www.wappalyzer.com/",
+            "display_url": "wappalyzer.com",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1465865453964705795,
+            "id_str": "1465865453964705795",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFfM3SgVQAMxsE3.png",
+            "media_url_https": "https://pbs.twimg.com/media/FFfM3SgVQAMxsE3.png",
+            "url": "https://t.co/IG4zIaSnIm",
+            "display_url": "pic.twitter.com/IG4zIaSnIm",
+            "expanded_url": "https://twitter.com/ShinChven/status/1465865468535709696/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 506,
+                "h": 554,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 506,
+                "h": 554,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 506,
+                "h": 554,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1465865453964705795,
+            "id_str": "1465865453964705795",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFfM3SgVQAMxsE3.png",
+            "media_url_https": "https://pbs.twimg.com/media/FFfM3SgVQAMxsE3.png",
+            "url": "https://t.co/IG4zIaSnIm",
+            "display_url": "pic.twitter.com/IG4zIaSnIm",
+            "expanded_url": "https://twitter.com/ShinChven/status/1465865468535709696/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 506,
+                "h": 554,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 506,
+                "h": 554,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 506,
+                "h": 554,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 43090999,
+        "id_str": "43090999",
+        "name": "𝓢𝓱𝓲𝓷𝓒𝓱𝓿𝓮𝓷 🍥",
+        "screen_name": "ShinChven",
+        "location": "Ashenvale",
+        "description": "#Developer #PlayStation #YouTubePremium #RestoreTheSnyderVerse",
+        "url": "https://t.co/QsKGJZKDl6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/QsKGJZKDl6",
+                "expanded_url": "https://atlassc.net/",
+                "display_url": "atlassc.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1056,
+        "friends_count": 1746,
+        "listed_count": 15,
+        "created_at": "Thu May 28 11:25:06 +0000 2009",
+        "favourites_count": 7271,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17064,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1462019258662096897/Iqt8ZxnA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1462019258662096897/Iqt8ZxnA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/43090999/1632225583",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 3,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Dec 01 02:21:01 +0000 2021",
     "id": 1465868507602579457,
     "id_str": "1465868507602579457",
