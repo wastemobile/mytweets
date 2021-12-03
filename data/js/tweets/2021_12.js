@@ -1,5 +1,335 @@
 Grailbird.data.tweets_2021_12 = [
   {
+    "created_at": "Fri Dec 03 03:10:43 +0000 2021",
+    "id": 1466605793084846084,
+    "id_str": "1466605793084846084",
+    "text": "1984年竹內瑪莉亞在復出專輯《VARIETY》中的名曲《Plastic Love》，36年後終於拍了官方MV，酷。\n\n竹内まりや -  Plastic Love (Official Music Video) https://t.co/pKEhjwoD1Q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pKEhjwoD1Q",
+          "expanded_url": "https://youtu.be/T_lC2O1oIew",
+          "display_url": "youtu.be/T_lC2O1oIew",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Dec 03 02:59:52 +0000 2021",
+    "id": 1466603060894244864,
+    "id_str": "1466603060894244864",
+    "text": "瑞典商 Nextory 在10月併購法商 Youboox，推出一種結合電子書與有聲書的新格式：Switch，看起來像是閱讀時會有音樂音效什麼的，要等明年有更多內容才會明朗。\n\n當電子書明顯落為傳統出版一種新的平裝本，有點新嘗試還是… https://t.co/x9IJEXYVdp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/x9IJEXYVdp",
+          "expanded_url": "https://twitter.com/i/web/status/1466603060894244864",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1389437156871995393,
+    "in_reply_to_status_id_str": "1389437156871995393",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 03 02:39:56 +0000 2021",
+    "id": 1466598044334702592,
+    "id_str": "1466598044334702592",
+    "text": "AV Yacht Club（AVYC）元宇宙 AV 樂園看起來是還蠻好玩的。\n\n永恆的第34條法則：「如果某物存在，它一定可以跟色情扯上關係，沒有例外」。\n\n漫談 NFT 與元宇宙（上）想像過三上悠亞 NFT、AVYC 虛擬成人樂… https://t.co/ETegLme5yW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ETegLme5yW",
+          "expanded_url": "https://twitter.com/i/web/status/1466598044334702592",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1465144751921852426,
+    "in_reply_to_status_id_str": "1465144751921852426",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 03 02:27:24 +0000 2021",
+    "id": 1466594890956283910,
+    "id_str": "1466594890956283910",
+    "text": "@yllan 居然！感謝提醒～\n\n爬文後發現有人實測並沒有被刪除，但還是會小心一點，默默等候一個月到期觀察。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yllan",
+          "name": "宇宙漂流井底之蛙🐸",
+          "id": 7610792,
+          "id_str": "7610792",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1466592766830727169,
+    "in_reply_to_status_id_str": "1466592766830727169",
+    "in_reply_to_user_id": 7610792,
+    "in_reply_to_user_id_str": "7610792",
+    "in_reply_to_screen_name": "yllan",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 03 01:02:24 +0000 2021",
+    "id": 1466573497678036992,
+    "id_str": "1466573497678036992",
+    "text": "原來早就有清晰的申請教學文，所以我算 lag 很久。\n\n東京確實是搶不到的，但大阪還有。它的防火牆蠻複雜的，想改個 ssh port 一直不太成功。\n\n【情報】教你如何使用甲骨文雲架設超高性能的免費伺服器！(圖多注意)… https://t.co/LSbZFBFTGl",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LSbZFBFTGl",
+          "expanded_url": "https://twitter.com/i/web/status/1466573497678036992",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1466262712313270273,
+    "in_reply_to_status_id_str": "1466262712313270273",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 02 15:24:13 +0000 2021",
+    "id": 1466427994721947659,
+    "id_str": "1466427994721947659",
+    "text": "詹姆斯·卡麥隆2018年在amc製作主持了一部6集迷你影集《Story of Science Fiction》，星光熠熠，最有趣的是看到很多科幻小說家，以及許多影響力作品。\n\n數位技術已長足進步，但科幻小說仍是想像力無盡的引擎。… https://t.co/991jo3X6eh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/991jo3X6eh",
+          "expanded_url": "https://twitter.com/i/web/status/1466427994721947659",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Dec 02 04:27:27 +0000 2021",
     "id": 1466262712313270273,
     "id_str": "1466262712313270273",
