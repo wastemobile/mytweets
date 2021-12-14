@@ -1,5 +1,476 @@
 Grailbird.data.tweets_2021_12 = [
   {
+    "created_at": "Tue Dec 14 01:01:54 +0000 2021",
+    "id": 1470559638307622912,
+    "id_str": "1470559638307622912",
+    "text": "真人版《星際牛仔》果然被 #Netflix 砍了。\n\nSee you no more.\n\nMoyashi：See You Space Cowboy https://t.co/nJwaIEjLz8 https://t.co/1xZzJrGWnA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            13,
+            21
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nJwaIEjLz8",
+          "expanded_url": "https://bit.ly/31UJhbs",
+          "display_url": "bit.ly/31UJhbs",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1470559631361515526,
+          "id_str": "1470559631361515526",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGh6MYBVIAYbmbx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGh6MYBVIAYbmbx.jpg",
+          "url": "https://t.co/1xZzJrGWnA",
+          "display_url": "pic.twitter.com/1xZzJrGWnA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1470559638307622912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1470559631361515526,
+          "id_str": "1470559631361515526",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGh6MYBVIAYbmbx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGh6MYBVIAYbmbx.jpg",
+          "url": "https://t.co/1xZzJrGWnA",
+          "display_url": "pic.twitter.com/1xZzJrGWnA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1470559638307622912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1469119145031925760,
+    "in_reply_to_status_id_str": "1469119145031925760",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Dec 13 06:50:07 +0000 2021",
+    "id": 1470284884589842433,
+    "id_str": "1470284884589842433",
+    "text": "RT @FradSer: 剑桥出版社出版的的VR设计相关书籍，目前读过的最全最好的免费VR设计指南。\n\n这本免费的VR书籍涵盖了虚拟现实系统的基础知识，包括几何建模、变换、图形渲染、光学、人类视觉、听觉和前庭系统、跟踪系统、界面设计、人为因素、开发者建议和技术问题。\n\nhttp…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "FradSer",
+          "name": "Frad",
+          "id": 284965609,
+          "id_str": "284965609",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Dec 12 07:08:11 +0000 2021",
+      "id": 1469927043471392768,
+      "id_str": "1469927043471392768",
+      "text": "剑桥出版社出版的的VR设计相关书籍，目前读过的最全最好的免费VR设计指南。\n\n这本免费的VR书籍涵盖了虚拟现实系统的基础知识，包括几何建模、变换、图形渲染、光学、人类视觉、听觉和前庭系统、跟踪系统、界面设计、人为因素、开发者建议和… https://t.co/yeve7OKR4p",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yeve7OKR4p",
+            "expanded_url": "https://twitter.com/i/web/status/1469927043471392768",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 284965609,
+        "id_str": "284965609",
+        "name": "Frad",
+        "screen_name": "FradSer",
+        "location": "Beijing",
+        "description": "NOT Designer @ Mars.",
+        "url": "https://t.co/sjsyxh4WFM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/sjsyxh4WFM",
+                "expanded_url": "http://frad.me",
+                "display_url": "frad.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2075,
+        "friends_count": 674,
+        "listed_count": 42,
+        "created_at": "Wed Apr 20 08:49:25 +0000 2011",
+        "favourites_count": 20637,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9919,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "796657",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1309149063120642051/BKmpWP-l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1309149063120642051/BKmpWP-l_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/284965609/1363142699",
+        "profile_link_color": "BF9B7B",
+        "profile_sidebar_border_color": "0B6285",
+        "profile_sidebar_fill_color": "002F4F",
+        "profile_text_color": "002130",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 113,
+      "favorite_count": 404,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 113,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 13 06:47:19 +0000 2021",
+    "id": 1470284179980324866,
+    "id_str": "1470284179980324866",
+    "text": "德國法院裁定，一名在家工作（遠距辦公職位）的男子，下床後到家庭辦公室上工途中，於樓梯滑倒、背摔斷了，職災保險必須理賠。\n\n判決還特別指出「他通常不吃早餐、直接開始工作」，若開工後又離開去吃早餐，這樣的理賠就有可能被駁回。\n\n有點酷… https://t.co/Ch6tjuTXHu",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ch6tjuTXHu",
+          "expanded_url": "https://twitter.com/i/web/status/1470284179980324866",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 13 01:19:14 +0000 2021",
+    "id": 1470201614120394752,
+    "id_str": "1470201614120394752",
+    "text": "國師開示，「雙子本週稍微賣萌示弱，更能贏得桃花」。\n\n賣呀賣呀，哪週不賣了⋯⋯\n\nhttps://t.co/KbAsfMRGXC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KbAsfMRGXC",
+          "expanded_url": "https://bit.ly/3ym0aYv",
+          "display_url": "bit.ly/3ym0aYv",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 12 15:19:29 +0000 2021",
+    "id": 1470050680836886529,
+    "id_str": "1470050680836886529",
+    "text": "第3集高潮就是這場短短僅唱了5首歌的「屋頂演唱會」啦～\n\n十幾台（膠片）攝影機拍攝，還街訪只聞其聲、不見其影的樓下路人，四周屋頂也有跑出來免費欣賞的觀眾，英國人真的很習慣正裝戴帽子。\n\n最終當然是被警察中斷，影片居然還替每位匆匆跑… https://t.co/NF2fJS1iti",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NF2fJS1iti",
+          "expanded_url": "https://twitter.com/i/web/status/1470050680836886529",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1469850754743947274,
+    "in_reply_to_status_id_str": "1469850754743947274",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Dec 12 03:20:23 +0000 2021",
     "id": 1469869714851889154,
     "id_str": "1469869714851889154",
