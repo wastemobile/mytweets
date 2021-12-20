@@ -1,5 +1,309 @@
 Grailbird.data.tweets_2021_12 = [
   {
+    "created_at": "Mon Dec 20 00:58:12 +0000 2021",
+    "id": 1472733036538392577,
+    "id_str": "1472733036538392577",
+    "text": "維基百科真的是現代網路最不可或缺、也最重要的資產。\n\n即使正在進行中的八卦新聞事件，也接近即時、簡潔又完整、必列來源出處，完全是群策群力的新典範。\n\n我只看這一頁就好，大家請繼續正常發揮。\n\nhttps://t.co/2CIaoG4Dwl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2CIaoG4Dwl",
+          "expanded_url": "https://bit.ly/3e7RtYh",
+          "display_url": "bit.ly/3e7RtYh",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "favorite_count": 66,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 19 08:38:12 +0000 2021",
+    "id": 1472486411677106178,
+    "id_str": "1472486411677106178",
+    "text": "啟明出版真的很有趣。\n\n任何出版社新書出版後都會緊盯著博客來排行榜，卻也沒聽說什麼大中小集團資訊部門開發工具、儲存記錄、量化曲線，啟明大概寫了機器人持續爬資料存下來，還做了個介面可以輕鬆查詢觀看。\n\nMonster101 博客來排… https://t.co/9fNrtgsXNc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9fNrtgsXNc",
+          "expanded_url": "https://twitter.com/i/web/status/1472486411677106178",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 47,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 19 03:54:59 +0000 2021",
+    "id": 1472415135658815488,
+    "id_str": "1472415135658815488",
+    "text": "DeDRM 原開發倉儲累積數百問題未解、包含與新版 Calibre 不合的小麻煩，有人等不及開了個版號較遠的外部分岔，難說會不會反客為主，加個書籤。\n\n除了修正部分問題，主要支援了 Readium LCP，但這機制常會傳遞一個隱性… https://t.co/mWuF7O20Q0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mWuF7O20Q0",
+          "expanded_url": "https://twitter.com/i/web/status/1472415135658815488",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1363884733080293383,
+    "in_reply_to_status_id_str": "1363884733080293383",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 19 03:43:19 +0000 2021",
+    "id": 1472412200749105160,
+    "id_str": "1472412200749105160",
+    "text": "《吃貨與阿毛的逍遙遊》這檔 #Netflix 騎重機公路之旅，重點全擺在美食上，看到吃生醃螃蟹、醬蟹拌飯、拌麵，還有生吃鮮蝦，真的是口水流滿地。\n\nhttps://t.co/GyJrNCZb5M https://t.co/nS52DLJxin",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            14,
+            22
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GyJrNCZb5M",
+          "expanded_url": "https://bit.ly/3J26V6p",
+          "display_url": "bit.ly/3J26V6p",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1472412194080161794,
+          "id_str": "1472412194080161794",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/FG8PFt8aAAIjLIT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FG8PFt8aAAIjLIT.jpg",
+          "url": "https://t.co/nS52DLJxin",
+          "display_url": "pic.twitter.com/nS52DLJxin",
+          "expanded_url": "https://twitter.com/wastemobile/status/1472412200749105160/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1472412194080161794,
+          "id_str": "1472412194080161794",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/FG8PFt8aAAIjLIT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FG8PFt8aAAIjLIT.jpg",
+          "url": "https://t.co/nS52DLJxin",
+          "display_url": "pic.twitter.com/nS52DLJxin",
+          "expanded_url": "https://twitter.com/wastemobile/status/1472412200749105160/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Dec 18 13:17:36 +0000 2021",
     "id": 1472194337161510927,
     "id_str": "1472194337161510927",
