@@ -1,5 +1,1045 @@
 Grailbird.data.tweets_2021_12 = [
   {
+    "created_at": "Fri Dec 31 13:27:50 +0000 2021",
+    "id": 1476907953491873799,
+    "id_str": "1476907953491873799",
+    "text": "哇！ Sharedrop 是純網頁任意系統互通的 AirDrop 耶～\n連應用程式都不用裝，這個第一名！\n\n可以印個「檔案交換」的 QR Code 在牆上，\n一手交錢、一手交檔案⋯⋯XD… https://t.co/kAL8jbQJkt",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kAL8jbQJkt",
+          "expanded_url": "https://twitter.com/i/web/status/1476907953491873799",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1476842060242374664,
+    "in_reply_to_status_id_str": "1476842060242374664",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1476901810162253829,
+    "quoted_status_id_str": "1476901810162253829",
+    "quoted_status": {
+      "created_at": "Fri Dec 31 13:03:25 +0000 2021",
+      "id": 1476901810162253829,
+      "id_str": "1476901810162253829",
+      "text": "@wastemobile 臨時, 單一檔案的傳輸, 首推 #sharedrop 啦~\np2p 架構, #opensource , 走 #webrtc , 安全可靠 !\n\nhttps://t.co/5EdS9kHAm6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "sharedrop",
+            "indices": [
+              29,
+              39
+            ]
+          },
+          {
+            "text": "opensource",
+            "indices": [
+              51,
+              62
+            ]
+          },
+          {
+            "text": "webrtc",
+            "indices": [
+              67,
+              74
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5EdS9kHAm6",
+            "expanded_url": "https://www.sharedrop.io",
+            "display_url": "sharedrop.io",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1476842060242374664,
+      "in_reply_to_status_id_str": "1476842060242374664",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 2795511,
+        "id_str": "2795511",
+        "name": "Ying-Chieh Liao",
+        "screen_name": "ijliao",
+        "location": "Taipei, Taiwan",
+        "description": "阿宅",
+        "url": "http://t.co/8Ox0kmIuST",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/8Ox0kmIuST",
+                "expanded_url": "http://blog.ijliao.info/",
+                "display_url": "blog.ijliao.info",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2968,
+        "friends_count": 471,
+        "listed_count": 88,
+        "created_at": "Thu Mar 29 05:55:33 +0000 2007",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 88786,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712309097069039617/OzSJVPH4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712309097069039617/OzSJVPH4_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 35,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 18,
+    "favorite_count": 52,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 31 09:35:38 +0000 2021",
+    "id": 1476849518214000642,
+    "id_str": "1476849518214000642",
+    "text": "用 Pelican 防爆箱攜帶能跑算圖或遊戲引擎的電腦，感覺真的蠻硬核，讓我想到《神經喚術士》凱斯使用的「斧仙台網際空間七號（Ono-Sendai Cyberspace 7）」，保坂（Hosaka）電腦製造，沒它進不了元宇宙。… https://t.co/L9RQsSowkk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/L9RQsSowkk",
+          "expanded_url": "https://twitter.com/i/web/status/1476849518214000642",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 31 09:06:00 +0000 2021",
+    "id": 1476842060242374664,
+    "id_str": "1476842060242374664",
+    "text": "LANDrop 專注於區網內、臨時、單一檔案的傳輸，這樣很好。\n\n之前用蠻久 Send Anywhere，免費、無須登入註冊、可傳輸檔案到任何地方、幾乎任何系統，還可在限期48小時內分享給多人，是好用的。但是⋯⋯App隱私揭露後，… https://t.co/SpCP3jtTZa",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SpCP3jtTZa",
+          "expanded_url": "https://twitter.com/i/web/status/1476842060242374664",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1476439557398994948,
+    "in_reply_to_status_id_str": "1476439557398994948",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 527150901748715520,
+    "quoted_status_id_str": "527150901748715520",
+    "quoted_status": {
+      "created_at": "Tue Oct 28 17:32:23 +0000 2014",
+      "id": 527150901748715520,
+      "id_str": "527150901748715520",
+      "text": "自從 bump 被 Google 併了，又遲遲不見後繼服務，跨平台臨時性傳檔案，就改用 SendAnywhere http://t.co/8LysJZ3ct0 若是多檔、大量又會擺一段時間給多人取用，最好的則是 Bit Sync http://t.co/BVUHVNeMGp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/8LysJZ3ct0",
+            "expanded_url": "http://cl.ly/YFcL",
+            "display_url": "cl.ly/YFcL",
+            "indices": [
+              57,
+              79
+            ]
+          },
+          {
+            "url": "http://t.co/BVUHVNeMGp",
+            "expanded_url": "http://cl.ly/YFNV",
+            "display_url": "cl.ly/YFNV",
+            "indices": [
+              115,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "Cyberpunk wasteland.",
+        "url": "https://t.co/sVeRURaD3d",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/sVeRURaD3d",
+                "expanded_url": "https://wastemobile.github.io/mytweets/",
+                "display_url": "wastemobile.github.io/mytweets/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5286,
+        "friends_count": 1212,
+        "listed_count": 130,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3639,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24228,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1573835714",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 31 03:33:52 +0000 2021",
+    "id": 1476758478618501124,
+    "id_str": "1476758478618501124",
+    "text": "RT @yongqianme: @wastemobile 如果這個配上 @omniedgeio 的p2p 私有網絡，邀請一下朋友就可以把大文件通过 LANDrop 丟給遠在南非的小夥伴了",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yongqianme",
+          "name": "Yong QIAN 钱涌",
+          "id": 14200560,
+          "id_str": "14200560",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "wastemobile",
+          "name": "wastemobile",
+          "id": 20709129,
+          "id_str": "20709129",
+          "indices": [
+            16,
+            28
+          ]
+        },
+        {
+          "screen_name": "omniedgeio",
+          "name": "OmniEdge Inc",
+          "id": 1328931183590338562,
+          "id_str": "1328931183590338562",
+          "indices": [
+            36,
+            47
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Dec 30 14:33:13 +0000 2021",
+      "id": 1476562020279349248,
+      "id_str": "1476562020279349248",
+      "text": "@wastemobile 如果這個配上 @omniedgeio 的p2p 私有網絡，邀請一下朋友就可以把大文件通过 LANDrop 丟給遠在南非的小夥伴了",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "omniedgeio",
+            "name": "OmniEdge Inc",
+            "id": 1328931183590338562,
+            "id_str": "1328931183590338562",
+            "indices": [
+              20,
+              31
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1476439557398994948,
+      "in_reply_to_status_id_str": "1476439557398994948",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 14200560,
+        "id_str": "14200560",
+        "name": "Yong QIAN 钱涌",
+        "screen_name": "yongqianme",
+        "location": "Bring intranet in internet ➡️",
+        "description": "Running @omniedgeio | 中文/English | Tweet about Startups, robotics, private network, photography, and cooking. Personal account & own views.",
+        "url": "https://t.co/e9A5rnbUNf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/e9A5rnbUNf",
+                "expanded_url": "https://omniedge.io",
+                "display_url": "omniedge.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5167,
+        "friends_count": 1544,
+        "listed_count": 81,
+        "created_at": "Sun Mar 23 03:57:34 +0000 2008",
+        "favourites_count": 5763,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22921,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1452082567226609664/KMOecAjy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1452082567226609664/KMOecAjy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14200560/1589863523",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 31 01:18:37 +0000 2021",
+    "id": 1476724438834253824,
+    "id_str": "1476724438834253824",
+    "text": "這則推已經蠻多新聞報導，大意就是亞馬遜 Alexa 建議10歲小朋友嘗試危險的「硬幣挑戰」：用硬幣碰觸露出一半的電源插頭。Amazon 已緊急進行系統更新。\n\n我想，人工智慧才不會遵守什麼「機器人三大法則」，會遵守的就表示還沒有真… https://t.co/b2phYtuLaj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/b2phYtuLaj",
+          "expanded_url": "https://twitter.com/i/web/status/1476724438834253824",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1475220450598924297,
+    "quoted_status_id_str": "1475220450598924297",
+    "quoted_status": {
+      "created_at": "Sun Dec 26 21:42:18 +0000 2021",
+      "id": 1475220450598924297,
+      "id_str": "1475220450598924297",
+      "text": "OMFG My 10 year old just asked Alexa on our Echo for a challenge and this is what she said. https://t.co/HgGgrLbdS8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1475220446983376899,
+            "id_str": "1475220446983376899",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/FHkJLjPWUAMjRsJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FHkJLjPWUAMjRsJ.jpg",
+            "url": "https://t.co/HgGgrLbdS8",
+            "display_url": "pic.twitter.com/HgGgrLbdS8",
+            "expanded_url": "https://twitter.com/klivdahl/status/1475220450598924297/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1475220446983376899,
+            "id_str": "1475220446983376899",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/FHkJLjPWUAMjRsJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FHkJLjPWUAMjRsJ.jpg",
+            "url": "https://t.co/HgGgrLbdS8",
+            "display_url": "pic.twitter.com/HgGgrLbdS8",
+            "expanded_url": "https://twitter.com/klivdahl/status/1475220450598924297/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 24259819,
+        "id_str": "24259819",
+        "name": "Kristin Livdahl",
+        "screen_name": "klivdahl",
+        "location": "",
+        "description": "Writing, publishing, foster kittens, animal welfare and other random stuff",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 330,
+        "friends_count": 517,
+        "listed_count": 7,
+        "created_at": "Fri Mar 13 21:34:47 +0000 2009",
+        "favourites_count": 3119,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1550,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/811733404370739200/oWDVBcY__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/811733404370739200/oWDVBcY__normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3847,
+      "favorite_count": 18910,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 25,
+    "favorite_count": 60,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 31 00:57:42 +0000 2021",
+    "id": 1476719178287828992,
+    "id_str": "1476719178287828992",
+    "text": "如果復仇者或者神盾局可以「發佈煽動刊物」的罪名，凍結「號角日報」的資產，把詹姆森行政拘留，這可能會成為漫威宇宙最黑暗的一天。\n\n好直接的暗喻。\n\nMoyashi：作為煽動刊物的「號角日報」… https://t.co/AOhrh2tsUV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AOhrh2tsUV",
+          "expanded_url": "https://twitter.com/i/web/status/1476719178287828992",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            96,
+            119
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 31 00:45:57 +0000 2021",
+    "id": 1476716221316087811,
+    "id_str": "1476716221316087811",
+    "text": "Matter 同步畫線註記到 Obsidian，安裝外掛後、產生 QR code、拿手機應用拍一下就行了。\n\nhttps://t.co/1B8y02Poc4 https://t.co/derFha3bsA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1B8y02Poc4",
+          "expanded_url": "https://bit.ly/3eAJjrF",
+          "display_url": "bit.ly/3eAJjrF",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1476716214475182080,
+          "id_str": "1476716214475182080",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/FH5ZkrXaUAAp_Wi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FH5ZkrXaUAAp_Wi.jpg",
+          "url": "https://t.co/derFha3bsA",
+          "display_url": "pic.twitter.com/derFha3bsA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1476716221316087811/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 368,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 650,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 650,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1476716214475182080,
+          "id_str": "1476716214475182080",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/FH5ZkrXaUAAp_Wi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FH5ZkrXaUAAp_Wi.jpg",
+          "url": "https://t.co/derFha3bsA",
+          "display_url": "pic.twitter.com/derFha3bsA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1476716221316087811/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 368,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 650,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 650,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1452829300487426048,
+    "in_reply_to_status_id_str": "1452829300487426048",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Dec 30 09:49:01 +0000 2021",
     "id": 1476490498869465091,
     "id_str": "1476490498869465091",
