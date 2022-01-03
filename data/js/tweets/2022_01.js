@@ -1,5 +1,321 @@
 Grailbird.data.tweets_2022_01 = [
   {
+    "created_at": "Mon Jan 03 12:28:35 +0000 2022",
+    "id": 1477980205029670912,
+    "id_str": "1477980205029670912",
+    "text": "RT @ijliao: #冤獄 #冤案\n#種族歧視\n\nhttps://t.co/ARDJaht2v0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "冤獄",
+          "indices": [
+            12,
+            15
+          ]
+        },
+        {
+          "text": "冤案",
+          "indices": [
+            16,
+            19
+          ]
+        },
+        {
+          "text": "種族歧視",
+          "indices": [
+            20,
+            25
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ijliao",
+          "name": "Ying-Chieh Liao",
+          "id": 2795511,
+          "id_str": "2795511",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ARDJaht2v0",
+          "expanded_url": "https://global.udn.com/global_vision/story/8664/5980685",
+          "display_url": "global.udn.com/global_vision/…",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 03 12:22:41 +0000 2022",
+      "id": 1477978720166375425,
+      "id_str": "1477978720166375425",
+      "text": "#冤獄 #冤案\n#種族歧視\n\nhttps://t.co/ARDJaht2v0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "冤獄",
+            "indices": [
+              0,
+              3
+            ]
+          },
+          {
+            "text": "冤案",
+            "indices": [
+              4,
+              7
+            ]
+          },
+          {
+            "text": "種族歧視",
+            "indices": [
+              8,
+              13
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ARDJaht2v0",
+            "expanded_url": "https://global.udn.com/global_vision/story/8664/5980685",
+            "display_url": "global.udn.com/global_vision/…",
+            "indices": [
+              15,
+              38
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://github.com/TwidereProject\" rel=\"nofollow\">Twidere for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2795511,
+        "id_str": "2795511",
+        "name": "Ying-Chieh Liao",
+        "screen_name": "ijliao",
+        "location": "Taipei, Taiwan",
+        "description": "阿宅",
+        "url": "http://t.co/8Ox0kmIuST",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/8Ox0kmIuST",
+                "expanded_url": "http://blog.ijliao.info/",
+                "display_url": "blog.ijliao.info",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2969,
+        "friends_count": 470,
+        "listed_count": 88,
+        "created_at": "Thu Mar 29 05:55:33 +0000 2007",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 88886,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712309097069039617/OzSJVPH4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712309097069039617/OzSJVPH4_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Mon Jan 03 09:48:09 +0000 2022",
+    "id": 1477939832555188228,
+    "id_str": "1477939832555188228",
+    "text": "哇哇哇！大地震！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jan 02 03:47:09 +0000 2022",
+    "id": 1477486594047488000,
+    "id_str": "1477486594047488000",
+    "text": "隔一年多終於又看到 Turing Pi 2 的進度資訊，竟然變成可混插 NVIDIA Jetson 與 Raspberry Pi Compute module 4 模式。\n\nMeet the Turing Pi 2 - Mix P… https://t.co/ZO85ck3dDQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZO85ck3dDQ",
+          "expanded_url": "https://twitter.com/i/web/status/1477486594047488000",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1336502933928611840,
+    "in_reply_to_status_id_str": "1336502933928611840",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jan 02 01:55:08 +0000 2022",
     "id": 1477458405208248325,
     "id_str": "1477458405208248325",
