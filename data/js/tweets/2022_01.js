@@ -1,5 +1,447 @@
 Grailbird.data.tweets_2022_01 = [
   {
+    "created_at": "Tue Jan 04 13:01:11 +0000 2022",
+    "id": 1478350799617294342,
+    "id_str": "1478350799617294342",
+    "text": "RT @aral: web0 = web3 − bullshit\n\nhttps://t.co/Z1TWFsZxyC\n\n#web0 https://t.co/lBPDwD5EhN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "web0",
+          "indices": [
+            59,
+            64
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "aral",
+          "name": "Aral Balkan, a screeching voice of the minority",
+          "id": 48903,
+          "id_str": "48903",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z1TWFsZxyC",
+          "expanded_url": "https://web0.small-web.org",
+          "display_url": "web0.small-web.org",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1478266830678642689,
+          "id_str": "1478266830678642689",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/FIPb2a3X0AEKvHl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FIPb2a3X0AEKvHl.jpg",
+          "url": "https://t.co/lBPDwD5EhN",
+          "display_url": "pic.twitter.com/lBPDwD5EhN",
+          "expanded_url": "https://twitter.com/aral/status/1478266835221069824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 436,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1463,
+              "h": 938,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 769,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1478266835221069824,
+          "source_status_id_str": "1478266835221069824",
+          "source_user_id": 48903,
+          "source_user_id_str": "48903"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1478266830678642689,
+          "id_str": "1478266830678642689",
+          "indices": [
+            65,
+            88
+          ],
+          "media_url": "http://pbs.twimg.com/media/FIPb2a3X0AEKvHl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FIPb2a3X0AEKvHl.jpg",
+          "url": "https://t.co/lBPDwD5EhN",
+          "display_url": "pic.twitter.com/lBPDwD5EhN",
+          "expanded_url": "https://twitter.com/aral/status/1478266835221069824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 436,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1463,
+              "h": 938,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 769,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1478266835221069824,
+          "source_status_id_str": "1478266835221069824",
+          "source_user_id": 48903,
+          "source_user_id_str": "48903"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jan 04 07:27:33 +0000 2022",
+      "id": 1478266835221069824,
+      "id_str": "1478266835221069824",
+      "text": "web0 = web3 − bullshit\n\nhttps://t.co/Z1TWFsZxyC\n\n#web0 https://t.co/lBPDwD5EhN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "web0",
+            "indices": [
+              49,
+              54
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Z1TWFsZxyC",
+            "expanded_url": "https://web0.small-web.org",
+            "display_url": "web0.small-web.org",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1478266830678642689,
+            "id_str": "1478266830678642689",
+            "indices": [
+              55,
+              78
+            ],
+            "media_url": "http://pbs.twimg.com/media/FIPb2a3X0AEKvHl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FIPb2a3X0AEKvHl.jpg",
+            "url": "https://t.co/lBPDwD5EhN",
+            "display_url": "pic.twitter.com/lBPDwD5EhN",
+            "expanded_url": "https://twitter.com/aral/status/1478266835221069824/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 436,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1463,
+                "h": 938,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 769,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1478266830678642689,
+            "id_str": "1478266830678642689",
+            "indices": [
+              55,
+              78
+            ],
+            "media_url": "http://pbs.twimg.com/media/FIPb2a3X0AEKvHl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FIPb2a3X0AEKvHl.jpg",
+            "url": "https://t.co/lBPDwD5EhN",
+            "display_url": "pic.twitter.com/lBPDwD5EhN",
+            "expanded_url": "https://twitter.com/aral/status/1478266835221069824/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 436,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1463,
+                "h": 938,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 769,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://moa.party\" rel=\"nofollow\">Moa Bridge</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 48903,
+        "id_str": "48903",
+        "name": "Aral Balkan, a screeching voice of the minority",
+        "screen_name": "aral",
+        "location": "Elsewhere",
+        "description": "I make small tech.\n\nPosts forwarded from https://t.co/P8gz2HIWAI\nJoin the fediverse/reply at https://t.co/bX9t8v6SwK\n\nWork: https://t.co/fbGP3AnAgN\nRSS: https://t.co/G0IFg36aBr",
+        "url": "https://t.co/MH5qjWg2mi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/MH5qjWg2mi",
+                "expanded_url": "https://ar.al",
+                "display_url": "ar.al",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/P8gz2HIWAI",
+                "expanded_url": "http://mastodon.ar.al/@aral",
+                "display_url": "mastodon.ar.al/@aral",
+                "indices": [
+                  41,
+                  64
+                ]
+              },
+              {
+                "url": "https://t.co/bX9t8v6SwK",
+                "expanded_url": "http://joinmastodon.org",
+                "display_url": "joinmastodon.org",
+                "indices": [
+                  93,
+                  116
+                ]
+              },
+              {
+                "url": "https://t.co/fbGP3AnAgN",
+                "expanded_url": "http://small-tech.org",
+                "display_url": "small-tech.org",
+                "indices": [
+                  124,
+                  147
+                ]
+              },
+              {
+                "url": "https://t.co/G0IFg36aBr",
+                "expanded_url": "http://ar.al/index.xml",
+                "display_url": "ar.al/index.xml",
+                "indices": [
+                  153,
+                  176
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 43034,
+        "friends_count": 0,
+        "listed_count": 2437,
+        "created_at": "Thu Dec 07 19:55:38 +0000 2006",
+        "favourites_count": 147901,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 178386,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "AAAAAA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1137974076281163777/vcH7I1I3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1137974076281163777/vcH7I1I3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48903/1628425015",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 98,
+      "favorite_count": 263,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 98,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 04 07:01:15 +0000 2022",
+    "id": 1478260218002014208,
+    "id_str": "1478260218002014208",
+    "text": "2022/1/1 其實也是第一次有大量（預估40萬張）錄音作品成為公有領域版權，因為錄音作品蠻晚才被加入版權法保護，中間也有相當程度的混淆。總之 1923 年之前的錄音作品今年起都算公有領域版權了。\n\n除了自由聽聽老音樂外，拍影片… https://t.co/blLJeEVfPs",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/blLJeEVfPs",
+          "expanded_url": "https://twitter.com/i/web/status/1478260218002014208",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1477451946726670339,
+    "in_reply_to_status_id_str": "1477451946726670339",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jan 03 12:28:35 +0000 2022",
     "id": 1477980205029670912,
     "id_str": "1477980205029670912",
