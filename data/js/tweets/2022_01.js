@@ -1,5 +1,317 @@
 Grailbird.data.tweets_2022_01 = [
   {
+    "created_at": "Thu Jan 06 14:08:35 +0000 2022",
+    "id": 1479092536409231360,
+    "id_str": "1479092536409231360",
+    "text": "檢測發現內建的7個App，會從「https://t.co/I1sGZqbgtM」伺服器下載針對關於政府、宗教、政治團體、社會運動和政治人物姓名等簡體中文、繁體中文和英文詞彙，阻絕連網，或回傳相關瀏覽行為。\n\n小米手機真的會文字審查… https://t.co/RxG5mqHAFf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/I1sGZqbgtM",
+          "expanded_url": "http://globalapi.ad.xiaomi.com",
+          "display_url": "globalapi.ad.xiaomi.com",
+          "indices": [
+            16,
+            39
+          ]
+        },
+        {
+          "url": "https://t.co/RxG5mqHAFf",
+          "expanded_url": "https://twitter.com/i/web/status/1479092536409231360",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1441059826780434440,
+    "in_reply_to_status_id_str": "1441059826780434440",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 06 13:39:59 +0000 2022",
+    "id": 1479085338530582531,
+    "id_str": "1479085338530582531",
+    "text": "RT @sherritheeditor: 分享一個堪稱出版業的怪異竊盜案，精采程度簡直可以拍成影集XD\n\n有人不斷用假帳號（或假冒身分）到處向版權代理公司以及出版社要書稿，犯罪時間長達五年，幾乎全球都有受害者，包含台灣，詭異的是，這個竊盜案幾乎沒有作者或出版社權益受損——也就是…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sherritheeditor",
+          "name": "雪莉☾",
+          "id": 543434301,
+          "id_str": "543434301",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 06 11:20:24 +0000 2022",
+      "id": 1479050210987102213,
+      "id_str": "1479050210987102213",
+      "text": "分享一個堪稱出版業的怪異竊盜案，精采程度簡直可以拍成影集XD\n\n有人不斷用假帳號（或假冒身分）到處向版權代理公司以及出版社要書稿，犯罪時間長達五年，幾乎全球都有受害者，包含台灣，詭異的是，這個竊盜案幾乎沒有作者或出版社權益受損——… https://t.co/1GRzmF0Pl2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/1GRzmF0Pl2",
+            "expanded_url": "https://twitter.com/i/web/status/1479050210987102213",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 543434301,
+        "id_str": "543434301",
+        "name": "雪莉☾",
+        "screen_name": "sherritheeditor",
+        "location": "Taipei City, Taiwan",
+        "description": "I’m just a sad and exhausted editor. 📖 某社編輯/臺灣出版社日常/話很多/迷妹/#timotheechalamet",
+        "url": "https://t.co/1RfnSGV3oD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/1RfnSGV3oD",
+                "expanded_url": "https://instagram.com/tingtingting_c?igshid=285ahuhik94d",
+                "display_url": "instagram.com/tingtingting_c…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 64,
+        "friends_count": 71,
+        "listed_count": 2,
+        "created_at": "Mon Apr 02 11:49:53 +0000 2012",
+        "favourites_count": 1530,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 425,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "94D487",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1473924667031564288/jpOkJNwp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1473924667031564288/jpOkJNwp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/543434301/1635927767",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00180402799fed03",
+        "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+        "place_type": "city",
+        "name": "台北市",
+        "full_name": "台北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.457132,
+                24.960508
+              ],
+              [
+                121.66582,
+                24.960508
+              ],
+              [
+                121.66582,
+                25.211004
+              ],
+              [
+                121.457132,
+                25.211004
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 78,
+      "favorite_count": 263,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 78,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 06 07:00:56 +0000 2022",
+    "id": 1478984913034838016,
+    "id_str": "1478984913034838016",
+    "text": "這些拼死命要將美國列為重點高風險國家的媒體，即刻起皆改列為「重點高風險媒體」，請大家有意識地避免接觸，不當心接觸者也請避免傳播，謝謝。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jan 06 04:17:54 +0000 2022",
     "id": 1478943887540768775,
     "id_str": "1478943887540768775",
