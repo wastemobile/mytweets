@@ -1,5 +1,349 @@
 Grailbird.data.tweets_2022_01 = [
   {
+    "created_at": "Fri Jan 14 01:31:04 +0000 2022",
+    "id": 1481801004722966528,
+    "id_str": "1481801004722966528",
+    "text": "RT @ChasonDailey: Was reclassifying Taiwan as a \"province of China\" requisite for this partnership, @moleskine? https://t.co/w2WTpObHYz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ChasonDailey",
+          "name": "Chason Dailey",
+          "id": 205488145,
+          "id_str": "205488145",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "moleskine",
+          "name": "Moleskine",
+          "id": 92366022,
+          "id_str": "92366022",
+          "indices": [
+            100,
+            110
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jan 12 15:32:40 +0000 2022",
+      "id": 1481288023161847808,
+      "id_str": "1481288023161847808",
+      "text": "Was reclassifying Taiwan as a \"province of China\" requisite for this partnership, @moleskine?… https://t.co/DObSgdvd3O",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "moleskine",
+            "name": "Moleskine",
+            "id": 92366022,
+            "id_str": "92366022",
+            "indices": [
+              82,
+              92
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DObSgdvd3O",
+            "expanded_url": "https://twitter.com/i/web/status/1481288023161847808",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 205488145,
+        "id_str": "205488145",
+        "name": "Chason Dailey",
+        "screen_name": "ChasonDailey",
+        "location": "Taipei, Taiwan",
+        "description": "HR/social media for Taiwan’s largest private ESL company. Recovering China-based education consultant. Rode the online ESL wave. Often confused for journalist.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1363,
+        "friends_count": 604,
+        "listed_count": 49,
+        "created_at": "Thu Oct 21 00:22:13 +0000 2010",
+        "favourites_count": 69227,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 41951,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/987963502898823168/0kDjrq2E_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/987963502898823168/0kDjrq2E_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/205488145/1638536653",
+        "profile_link_color": "800000",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1376929431223160836,
+      "quoted_status_id_str": "1376929431223160836",
+      "quoted_status": {
+        "created_at": "Tue Mar 30 16:08:53 +0000 2021",
+        "id": 1376929431223160836,
+        "id_str": "1376929431223160836",
+        "text": "Moleskine is proud to partner with TEDxShanghai 2021 to collectively celebrate the transformative power of handwrit… https://t.co/iWCOso0Ozt",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/iWCOso0Ozt",
+              "expanded_url": "https://twitter.com/i/web/status/1376929431223160836",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 92366022,
+          "id_str": "92366022",
+          "name": "Moleskine",
+          "screen_name": "moleskine",
+          "location": "Global",
+          "description": "Put pen to paper and unleash your unique voice.\n\nFor our customer service, please contact @moleskine_care.",
+          "url": "https://t.co/6tJW0MdlFr",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/6tJW0MdlFr",
+                  "expanded_url": "http://www.moleskine.com",
+                  "display_url": "moleskine.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 50869,
+          "friends_count": 2022,
+          "listed_count": 1304,
+          "created_at": "Tue Nov 24 21:08:35 +0000 2009",
+          "favourites_count": 4895,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": true,
+          "statuses_count": 16364,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "022330",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1140522839893839872/mmMAiCwi_normal.png",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140522839893839872/mmMAiCwi_normal.png",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/92366022/1641998760",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "A8C7F7",
+          "profile_sidebar_fill_color": "C0DFEC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 473,
+      "favorite_count": 1667,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1376929431223160836,
+    "quoted_status_id_str": "1376929431223160836",
+    "retweet_count": 473,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Jan 14 01:26:39 +0000 2022",
+    "id": 1481799894071320577,
+    "id_str": "1481799894071320577",
+    "text": "「我們認為紀錄片不是表現類型，而是一種方法。」\n\n2012年創刊的《neoneo》雜誌，一直以各種角度探索以各種媒材呈現與實驗的「紀錄片」，一年兩刊＋網站＋實體企劃展演等。\n\n「日雜控」必看！紀錄片文化雜誌《neoneo》：從媒體… https://t.co/IlrOHSOG4E",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IlrOHSOG4E",
+          "expanded_url": "https://twitter.com/i/web/status/1481799894071320577",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jan 13 12:56:49 +0000 2022",
     "id": 1481611191399051267,
     "id_str": "1481611191399051267",
