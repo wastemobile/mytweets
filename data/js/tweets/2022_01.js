@@ -1,5 +1,850 @@
 Grailbird.data.tweets_2022_01 = [
   {
+    "created_at": "Sat Jan 15 03:51:44 +0000 2022",
+    "id": 1482198792044617732,
+    "id_str": "1482198792044617732",
+    "text": "以遊戲為例，平時交易的金幣是同質代幣；買的專屬武器或防具是非同質代幣 NFT；購買未來某場副本戰役的門票，開打前可同質交易、結束後變成該場戰役獨一無二的紀念券，是半同質代幣 SFTs。\n\n想體驗這些、應該要在同鏈上比較方便，改用… https://t.co/LyGAECFut8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LyGAECFut8",
+          "expanded_url": "https://twitter.com/i/web/status/1482198792044617732",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1482184908860575744,
+    "in_reply_to_status_id_str": "1482184908860575744",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 15 02:56:34 +0000 2022",
+    "id": 1482184908860575744,
+    "id_str": "1482184908860575744",
+    "text": "玩耍過上推的自建虛擬代幣了嗎？接著來玩 NFT。\n\n在 Polygon 交易市場創建和銷售 NFT，無需支付任何礦工費或 ETH。創建的是一種「半同質化代幣 SFTs」沒錯，但可以無成本的理解版稅設定、販售、錢包鏈結等，所有操作皆… https://t.co/FiNNfBtPiR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FiNNfBtPiR",
+          "expanded_url": "https://twitter.com/i/web/status/1482184908860575744",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1469869714851889154,
+    "in_reply_to_status_id_str": "1469869714851889154",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 15 02:28:20 +0000 2022",
+    "id": 1482177803202170882,
+    "id_str": "1482177803202170882",
+    "text": "大學時去松蘿湖露營過一次，兩天一夜的行程，感覺那時湖面大很多呀⋯⋯\n\n推薦給新手的第一座高山湖泊：松蘿湖登山攻略 https://t.co/8z3KQX3JF7 https://t.co/Rtn4e7ifbS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8z3KQX3JF7",
+          "expanded_url": "https://bit.ly/3A3j4Ux",
+          "display_url": "bit.ly/3A3j4Ux",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1482177796612837378,
+          "id_str": "1482177796612837378",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/FJHA2mUUUAIrZR7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FJHA2mUUUAIrZR7.jpg",
+          "url": "https://t.co/Rtn4e7ifbS",
+          "display_url": "pic.twitter.com/Rtn4e7ifbS",
+          "expanded_url": "https://twitter.com/wastemobile/status/1482177803202170882/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 503,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 456,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 503,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1482177796612837378,
+          "id_str": "1482177796612837378",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/FJHA2mUUUAIrZR7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FJHA2mUUUAIrZR7.jpg",
+          "url": "https://t.co/Rtn4e7ifbS",
+          "display_url": "pic.twitter.com/Rtn4e7ifbS",
+          "expanded_url": "https://twitter.com/wastemobile/status/1482177803202170882/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 503,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 456,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 503,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jan 15 01:18:54 +0000 2022",
+    "id": 1482160331166085120,
+    "id_str": "1482160331166085120",
+    "text": "這兩天 macOS 持續跳出 iCloud 條款與約定的提醒，不但是幾個月前的2021年9月20日版本，點擊後還永遠遇到伺服器錯誤，反覆出現。\n\n雖然 iCloud 貌似運作正常，就是頗擾人。 #macOS https://t.co/i7QkUfnC6G",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "macOS",
+          "indices": [
+            97,
+            103
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1482160323872260098,
+          "id_str": "1482160323872260098",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/FJGw9jSVgAI7Viw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FJGw9jSVgAI7Viw.jpg",
+          "url": "https://t.co/i7QkUfnC6G",
+          "display_url": "pic.twitter.com/i7QkUfnC6G",
+          "expanded_url": "https://twitter.com/wastemobile/status/1482160331166085120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 692,
+              "h": 222,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 218,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 692,
+              "h": 222,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1482160323872260098,
+          "id_str": "1482160323872260098",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/FJGw9jSVgAI7Viw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FJGw9jSVgAI7Viw.jpg",
+          "url": "https://t.co/i7QkUfnC6G",
+          "display_url": "pic.twitter.com/i7QkUfnC6G",
+          "expanded_url": "https://twitter.com/wastemobile/status/1482160331166085120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 692,
+              "h": 222,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 218,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 692,
+              "h": 222,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1482160323968704513,
+          "id_str": "1482160323968704513",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/FJGw9jpVIAEoBds.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FJGw9jpVIAEoBds.jpg",
+          "url": "https://t.co/i7QkUfnC6G",
+          "display_url": "pic.twitter.com/i7QkUfnC6G",
+          "expanded_url": "https://twitter.com/wastemobile/status/1482160331166085120/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 959,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 544,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1276,
+              "h": 1020,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 14 09:43:21 +0000 2022",
+    "id": 1481924889007169546,
+    "id_str": "1481924889007169546",
+    "text": "RT @ccJYCcc: [請支援注射]\n在 #屏東 想打 #高端 的噴優們！！\n請趕快去陳昱和診所接受吹箭！！！\n不用預約！(因為所有診所都忙線中\n而且是珍貴的單劑裝\n不想被收回！需要趕快打完！\n辛苦了護理師醫師們❤️",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "屏東",
+          "indices": [
+            23,
+            26
+          ]
+        },
+        {
+          "text": "高端",
+          "indices": [
+            30,
+            33
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ccJYCcc",
+          "name": "靕",
+          "id": 316212796,
+          "id_str": "316212796",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jan 13 11:17:00 +0000 2022",
+      "id": 1481586070316023815,
+      "id_str": "1481586070316023815",
+      "text": "[請支援注射]\n在 #屏東 想打 #高端 的噴優們！！\n請趕快去陳昱和診所接受吹箭！！！\n不用預約！(因為所有診所都忙線中\n而且是珍貴的單劑裝\n不想被收回！需要趕快打完！\n辛苦了護理師醫師們❤️",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "屏東",
+            "indices": [
+              10,
+              13
+            ]
+          },
+          {
+            "text": "高端",
+            "indices": [
+              17,
+              20
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 316212796,
+        "id_str": "316212796",
+        "name": "靕",
+        "screen_name": "ccJYCcc",
+        "location": "台湾です대만ไต้หวัน ❤️",
+        "description": "勇敢自信高端仔 新試劑服英戰士🖖🏻 🏳️‍🌈辣台派💪🏻喵英大統領腦粉😍",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 286,
+        "friends_count": 1816,
+        "listed_count": 2,
+        "created_at": "Mon Jun 13 03:22:38 +0000 2011",
+        "favourites_count": 32602,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3279,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1185216526829281280/RcrNBH28_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185216526829281280/RcrNBH28_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/316212796/1572532651",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 82,
+      "favorite_count": 403,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 82,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 14 04:50:01 +0000 2022",
+    "id": 1481851071660056579,
+    "id_str": "1481851071660056579",
+    "text": "Auth0 提供的這個測試網頁很棒，以動畫演示瀏覽器、伺服器、與驗證器之間的溝通，具體呈現了使用一顆可觸碰的 USB 驗證器在網站註冊、登入的所有流程。\n\n（使用 Yubikey 4 在 Firefox 瀏覽器中測試）… https://t.co/h5kZdQTKXC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/h5kZdQTKXC",
+          "expanded_url": "https://twitter.com/i/web/status/1481851071660056579",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1481611191399051267,
+    "in_reply_to_status_id_str": "1481611191399051267",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 14 02:12:15 +0000 2022",
+    "id": 1481811367589912576,
+    "id_str": "1481811367589912576",
+    "text": "關於柯文哲現在只在意這一則，倒數345天。 https://t.co/OufldL0oPz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OufldL0oPz",
+          "expanded_url": "https://twitter.com/KP_Countdown/status/1481657576026632194",
+          "display_url": "twitter.com/KP_Countdown/s…",
+          "indices": [
+            22,
+            45
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1481657576026632194,
+    "quoted_status_id_str": "1481657576026632194",
+    "quoted_status": {
+      "created_at": "Thu Jan 13 16:01:08 +0000 2022",
+      "id": 1481657576026632194,
+      "id_str": "1481657576026632194",
+      "text": "今天是 2022-01-14。\n\n距離柯文哲台北市長任期最後一日 2022-12-25，還有 345 天。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft Power Platform</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1407190594733084675,
+        "id_str": "1407190594733084675",
+        "name": "柯文哲任期結束倒數計時bot",
+        "screen_name": "KP_Countdown",
+        "location": "",
+        "description": "柯文哲任期結束倒數計時bot。\n　\n鼓勵開發者，請他喝杯咖啡：https://t.co/53dw0akLKm",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/53dw0akLKm",
+                "expanded_url": "https://buymeacoffee.com/yehchihtao",
+                "display_url": "buymeacoffee.com/yehchihtao",
+                "indices": [
+                  31,
+                  54
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1644,
+        "friends_count": 1,
+        "listed_count": 8,
+        "created_at": "Tue Jun 22 04:16:07 +0000 2021",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 217,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1407191509095661574/WRJS0Key_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407191509095661574/WRJS0Key_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 109,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 14 01:59:48 +0000 2022",
+    "id": 1481808234943946756,
+    "id_str": "1481808234943946756",
+    "text": "Obsidian v13 之後，編輯器支援 Live Preview，就是在跳段後讓某些 markdown 樣式在編輯器中直接套用呈現。試了一下，表現還不錯。\n\n雖說這功能已在蠻多 markdown 書寫工具中實踐，但應該還是見仁… https://t.co/uNpEmX0wTh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uNpEmX0wTh",
+          "expanded_url": "https://twitter.com/i/web/status/1481808234943946756",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jan 14 01:31:04 +0000 2022",
     "id": 1481801004722966528,
     "id_str": "1481801004722966528",
