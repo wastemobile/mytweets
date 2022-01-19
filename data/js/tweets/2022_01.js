@@ -1,5 +1,468 @@
 Grailbird.data.tweets_2022_01 = [
   {
+    "created_at": "Wed Jan 19 03:03:06 +0000 2022",
+    "id": 1483636102720229380,
+    "id_str": "1483636102720229380",
+    "text": "Tokenary 介面非常簡單（或說原始），是 macOS 上開源免費、且具備 Safari Extension 的加密貨幣錢包應用，使用私鑰或助記詞即可匯入帳戶，實測可以讓 Safari 執行網站連結錢包的動作，畢竟 MetaM… https://t.co/CO8XsDiFNv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CO8XsDiFNv",
+          "expanded_url": "https://twitter.com/i/web/status/1483636102720229380",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1466184760292687877,
+    "quoted_status_id_str": "1466184760292687877",
+    "quoted_status": {
+      "created_at": "Wed Dec 01 23:17:41 +0000 2021",
+      "id": 1466184760292687877,
+      "id_str": "1466184760292687877",
+      "text": "Tokenary wallet is back with a brand new Safari extension! It is open-source and available on the App Store. https://t.co/wOQFL9GtpD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1466184689333510145,
+            "id_str": "1466184689333510145",
+            "indices": [
+              109,
+              132
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFjvNO7XIAE-NLa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFjvNO7XIAE-NLa.jpg",
+            "url": "https://t.co/wOQFL9GtpD",
+            "display_url": "pic.twitter.com/wOQFL9GtpD",
+            "expanded_url": "https://twitter.com/tokenary_app/status/1466184760292687877/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 750,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 425,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1466184689333510145,
+            "id_str": "1466184689333510145",
+            "indices": [
+              109,
+              132
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFjvNO7XIAE-NLa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFjvNO7XIAE-NLa.jpg",
+            "url": "https://t.co/wOQFL9GtpD",
+            "display_url": "pic.twitter.com/wOQFL9GtpD",
+            "expanded_url": "https://twitter.com/tokenary_app/status/1466184760292687877/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 750,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 425,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 924580036266614784,
+        "id_str": "924580036266614784",
+        "name": "Tokenary",
+        "screen_name": "tokenary_app",
+        "location": "",
+        "description": "Open-source crypto wallet for iOS and macOS. Enter Web3 with Safari extension.",
+        "url": "https://t.co/JWG0HLnDiR",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/JWG0HLnDiR",
+                "expanded_url": "http://tokenary.io/get",
+                "display_url": "tokenary.io/get",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 972,
+        "friends_count": 533,
+        "listed_count": 21,
+        "created_at": "Sun Oct 29 10:13:53 +0000 2017",
+        "favourites_count": 116,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 97,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1466117858233098241/it9yfuog_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1466117858233098241/it9yfuog_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/924580036266614784/1638385252",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 41,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 19 02:49:58 +0000 2022",
+    "id": 1483632799118725125,
+    "id_str": "1483632799118725125",
+    "text": "賽斯高汀做了個生動的比喻。\n\n若區塊鏈是印刷機，比特幣就是它印出的紙幣（NFT則是拍賣品證書）。印刷機改變了世界，紙幣甚至排不上它重要產出的前一百名。\n\n即使處在如此奇怪而扭曲的現實，人們仍應該理解區塊鏈的重要，以及未來可能的轉變… https://t.co/1dOny7JCeh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1dOny7JCeh",
+          "expanded_url": "https://twitter.com/i/web/status/1483632799118725125",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 19 00:13:44 +0000 2022",
+    "id": 1483593481524170754,
+    "id_str": "1483593481524170754",
+    "text": "著作裡的新名詞被他人使用，作者可以用著作權法提告？🤨🤔 https://t.co/cLFfgJkHxw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cLFfgJkHxw",
+          "expanded_url": "https://twitter.com/futurenote2040/status/1482886615055822850",
+          "display_url": "twitter.com/futurenote2040…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1482886615055822850,
+    "quoted_status_id_str": "1482886615055822850",
+    "quoted_status": {
+      "created_at": "Mon Jan 17 01:24:54 +0000 2022",
+      "id": 1482886615055822850,
+      "id_str": "1482886615055822850",
+      "text": "Kevin Kelly 認為創意屬於公共財，越分享價值越高的真意\n\nKevin Kelly 以本身為例，著作裡使用到的新名詞或是概念都不斷有人引用，不屬於私人擁有，但是也沒有對任何人以著作權法提告過。因為越多人討論新創意，代表創意… https://t.co/0BKfpdbLPT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0BKfpdbLPT",
+            "expanded_url": "https://twitter.com/i/web/status/1482886615055822850",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1237747327672057856,
+        "id_str": "1237747327672057856",
+        "name": "未來手帖",
+        "screen_name": "futurenote2040",
+        "location": "Taipei",
+        "description": "原型以文化、商業、社會與設計為基礎，提供不同面向的世界訊息。最新關注設計管理、工作改革、普遍基本收入UBI、COVID-19、現代主義設計、網路數位運算、深圳學等等。 作者為長期備課漢",
+        "url": "https://t.co/r7DSW1cE8U",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/r7DSW1cE8U",
+                "expanded_url": "http://tungjen.designband.org",
+                "display_url": "tungjen.designband.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 431,
+        "friends_count": 232,
+        "listed_count": 12,
+        "created_at": "Wed Mar 11 14:29:06 +0000 2020",
+        "favourites_count": 454,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1303,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1316937315734880256/6EpAlQNJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316937315734880256/6EpAlQNJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1237747327672057856/1585708519",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jan 18 06:05:39 +0000 2022",
     "id": 1483319655414439936,
     "id_str": "1483319655414439936",
