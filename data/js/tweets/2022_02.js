@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2022_02 = [
   {
+    "created_at": "Tue Feb 01 23:56:11 +0000 2022",
+    "id": 1488662496546152450,
+    "id_str": "1488662496546152450",
+    "text": "可以用 $118.77 買到全新大尺寸平裝紙書《Cool Tools》，以及 $4.99 買到數位PDF檔案，也在 Kindle unlimited 閱讀書目內。\n\n買實體全彩紙書應該要送數位檔案才對。… https://t.co/A7tmAM5LlN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/A7tmAM5LlN",
+          "expanded_url": "https://twitter.com/i/web/status/1488662496546152450",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1088464531716624384,
+    "in_reply_to_status_id_str": "1088464531716624384",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Feb 01 07:54:09 +0000 2022",
     "id": 1488420390523203585,
     "id_str": "1488420390523203585",
