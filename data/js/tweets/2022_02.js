@@ -1,5 +1,1331 @@
 Grailbird.data.tweets_2022_02 = [
   {
+    "created_at": "Tue Feb 08 15:25:23 +0000 2022",
+    "id": 1491070664346062848,
+    "id_str": "1491070664346062848",
+    "text": "Cryptomator 這個開源免費的目錄加密軟體看起來也不錯。\n\n有趣的是它教大家搭配 Dropbox 使用，也就是同步的都是加密過的檔案櫃（vault），這樣就不會讓雲端服務看到你的檔案，隱私大加分，這麼簡單的事我怎麼沒有想到… https://t.co/PxXDBsa3Wv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PxXDBsa3Wv",
+          "expanded_url": "https://twitter.com/i/web/status/1491070664346062848",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1457907603816673281,
+    "in_reply_to_status_id_str": "1457907603816673281",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 08 15:15:35 +0000 2022",
+    "id": 1491068198934163458,
+    "id_str": "1491068198934163458",
+    "text": "RT @TutanotaTeam: It's February already. Time to check your #NewYearsResolution. What privacy-friendly services have you switched to recent…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NewYearsResolution",
+          "indices": [
+            60,
+            79
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TutanotaTeam",
+          "name": "Tutanota",
+          "id": 430306392,
+          "id_str": "430306392",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 06 15:39:03 +0000 2022",
+      "id": 1490349327037906945,
+      "id_str": "1490349327037906945",
+      "text": "It's February already. Time to check your #NewYearsResolution. What privacy-friendly services have you switched to… https://t.co/aU4A27B5Gb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "NewYearsResolution",
+            "indices": [
+              42,
+              61
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/aU4A27B5Gb",
+            "expanded_url": "https://twitter.com/i/web/status/1490349327037906945",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 430306392,
+        "id_str": "430306392",
+        "name": "Tutanota",
+        "screen_name": "TutanotaTeam",
+        "location": "Hanover (Germany)",
+        "description": "Tutanota is secure email with automatic encryption. Private by design, open source & free. Imprint: https://t.co/MXBhKsNdAT.\nhttps://t.co/XBJel5uP94",
+        "url": "https://t.co/07QLgYXiuk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/07QLgYXiuk",
+                "expanded_url": "https://tutanota.com",
+                "display_url": "tutanota.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/MXBhKsNdAT",
+                "expanded_url": "http://tutanota.com",
+                "display_url": "tutanota.com",
+                "indices": [
+                  100,
+                  123
+                ]
+              },
+              {
+                "url": "https://t.co/XBJel5uP94",
+                "expanded_url": "http://mastodon.social/@Tutanota",
+                "display_url": "mastodon.social/@Tutanota",
+                "indices": [
+                  125,
+                  148
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 57301,
+        "friends_count": 29662,
+        "listed_count": 807,
+        "created_at": "Wed Dec 07 00:46:19 +0000 2011",
+        "favourites_count": 4036,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 10368,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "4FBDF0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/637223529268793344/Ir-r44R8_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/637223529268793344/Ir-r44R8_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/430306392/1509965165",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 72,
+      "favorite_count": 330,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 72,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Feb 08 14:59:04 +0000 2022",
+    "id": 1491064041355509762,
+    "id_str": "1491064041355509762",
+    "text": "@weakish 感謝～\n\n蠻酷的，還有埃及、拉脫維亞的服務商。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "weakish",
+          "name": "Jang Rush",
+          "id": 74484770,
+          "id_str": "74484770",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1491056730662264843,
+    "in_reply_to_status_id_str": "1491056730662264843",
+    "in_reply_to_user_id": 74484770,
+    "in_reply_to_user_id_str": "74484770",
+    "in_reply_to_screen_name": "weakish",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 08 08:22:51 +0000 2022",
+    "id": 1490964329448886274,
+    "id_str": "1490964329448886274",
+    "text": "@ptntp @ijliao @ProtonMail 了解，感謝。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ptntp",
+          "name": "艸原",
+          "id": 10144222,
+          "id_str": "10144222",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "screen_name": "ijliao",
+          "name": "Ying-Chieh Liao",
+          "id": 2795511,
+          "id_str": "2795511",
+          "indices": [
+            7,
+            14
+          ]
+        },
+        {
+          "screen_name": "ProtonMail",
+          "name": "ProtonMail",
+          "id": 1927923236,
+          "id_str": "1927923236",
+          "indices": [
+            15,
+            26
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1490963704963543041,
+    "in_reply_to_status_id_str": "1490963704963543041",
+    "in_reply_to_user_id": 10144222,
+    "in_reply_to_user_id_str": "10144222",
+    "in_reply_to_screen_name": "ptntp",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Feb 08 08:14:07 +0000 2022",
+    "id": 1490962132275724288,
+    "id_str": "1490962132275724288",
+    "text": "@ptntp @ijliao 敢問是指免費版或付費版？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ptntp",
+          "name": "艸原",
+          "id": 10144222,
+          "id_str": "10144222",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "screen_name": "ijliao",
+          "name": "Ying-Chieh Liao",
+          "id": 2795511,
+          "id_str": "2795511",
+          "indices": [
+            7,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1490959921948803078,
+    "in_reply_to_status_id_str": "1490959921948803078",
+    "in_reply_to_user_id": 10144222,
+    "in_reply_to_user_id_str": "10144222",
+    "in_reply_to_screen_name": "ptntp",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 08 05:42:25 +0000 2022",
+    "id": 1490923955774889984,
+    "id_str": "1490923955774889984",
+    "text": "@cafebug @izensun 感謝推薦～",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cafebug",
+          "name": "Geooooorge",
+          "id": 14357946,
+          "id_str": "14357946",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "izensun",
+          "name": "Izen Sun",
+          "id": 14139280,
+          "id_str": "14139280",
+          "indices": [
+            9,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1490922899267813376,
+    "in_reply_to_status_id_str": "1490922899267813376",
+    "in_reply_to_user_id": 14357946,
+    "in_reply_to_user_id_str": "14357946",
+    "in_reply_to_screen_name": "cafebug",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 08 05:23:16 +0000 2022",
+    "id": 1490919137526546432,
+    "id_str": "1490919137526546432",
+    "text": "@izensun 居然是這種理由⋯⋯😎\n\n目前判斷是偏向 Tutanota，大多數功能皆與 ProtonMail 相當，但一個人起手的價格很輕鬆，後續自由添加用戶的價格則比較便宜，許多付費擴增功能也能自由搭配。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "izensun",
+          "name": "Izen Sun",
+          "id": 14139280,
+          "id_str": "14139280",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1490914326894366722,
+    "in_reply_to_status_id_str": "1490914326894366722",
+    "in_reply_to_user_id": 14139280,
+    "in_reply_to_user_id_str": "14139280",
+    "in_reply_to_screen_name": "izensun",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 08 04:39:40 +0000 2022",
+    "id": 1490908164207693827,
+    "id_str": "1490908164207693827",
+    "text": "ProtonMail 也是選項之一。\n\n1 個自訂網域、5 個信箱、5GB 共用空間，每月 4 美金（年付），若五個人一起租用，每人均攤價格甚至比 Tutanota 低一點點。\n\n它有自製一個特殊的 ProtonMail Bridge 軟體，安裝後也能搭配一般郵件客戶端使用。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1490875888400961537,
+    "in_reply_to_status_id_str": "1490875888400961537",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 08 02:31:25 +0000 2022",
+    "id": 1490875888400961537,
+    "id_str": "1490875888400961537",
+    "text": "電郵替換之旅有了新發現。\n\n這間德國公司提供符合 GDPR 的端到端加密安全電郵，可先註冊 1GB 空間的免費信箱，升級自訂網域單人付費信箱一年只要12歐（380台幣）。\n\n不支援IMAP、意即無法使用一般電郵軟體，但有各種系統的… https://t.co/dXQrb05XRr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dXQrb05XRr",
+          "expanded_url": "https://twitter.com/i/web/status/1490875888400961537",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1490700406917197829,
+    "in_reply_to_status_id_str": "1490700406917197829",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Feb 08 02:18:39 +0000 2022",
+    "id": 1490872675426013186,
+    "id_str": "1490872675426013186",
+    "text": "美國出版商協會 AAP 2021 的統計還是蠻有意思的。精裝紙本成長13.1%、平裝紙本成長4.9%，電子書衰退 8%。\n\n這通常能顯示參與協會的傳統出版商的現況，而非完整市場；例如前推亞馬遜吃到飽服務的版稅支付，就可能大部分沒流… https://t.co/FLcvsPtCKD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FLcvsPtCKD",
+          "expanded_url": "https://twitter.com/i/web/status/1490872675426013186",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1468398624619233281,
+    "in_reply_to_status_id_str": "1468398624619233281",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 07 22:52:43 +0000 2022",
+    "id": 1490820852308275200,
+    "id_str": "1490820852308275200",
+    "text": "春季無望⋯⋯\n\nhttps://t.co/EZueEYV5Zb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EZueEYV5Zb",
+          "expanded_url": "https://www.lifewire.com/imac-with-promotion-display-5209249",
+          "display_url": "lifewire.com/imac-with-prom…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1455365564625395713,
+    "in_reply_to_status_id_str": "1455365564625395713",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Feb 07 21:44:34 +0000 2022",
+    "id": 1490803698833903617,
+    "id_str": "1490803698833903617",
+    "text": "RT @ringshen: 【叮咚】歡～光臨～！\n我要去 #讀字便利店 當店長啦\n飲料櫃直接變書櫃沒看過吧，一定要來逛逛買買的啊，只有六天錯過可惜喔！\n推友想要相認也沒問題，我至少中午之後都會在😊\n活動資訊：https://t.co/6VhdVXi3tf\n#讀字公民書展 htt…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "讀字便利店",
+          "indices": [
+            29,
+            35
+          ]
+        },
+        {
+          "text": "讀字公民書展",
+          "indices": [
+            128,
+            135
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ringshen",
+          "name": "Ring💍",
+          "id": 1267430610584268800,
+          "id_str": "1267430610584268800",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6VhdVXi3tf",
+          "expanded_url": "https://indiepublisher.tw/zh-hant/project/1467",
+          "display_url": "indiepublisher.tw/zh-hant/projec…",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Feb 07 15:11:23 +0000 2022",
+      "id": 1490704751000195073,
+      "id_str": "1490704751000195073",
+      "text": "【叮咚】歡～光臨～！\n我要去 #讀字便利店 當店長啦\n飲料櫃直接變書櫃沒看過吧，一定要來逛逛買買的啊，只有六天錯過可惜喔！\n推友想要相認也沒問題，我至少中午之後都會在😊\n活動資訊：https://t.co/6VhdVXi3tf… https://t.co/YkS4S7CO1A",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "讀字便利店",
+            "indices": [
+              15,
+              21
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6VhdVXi3tf",
+            "expanded_url": "https://indiepublisher.tw/zh-hant/project/1467",
+            "display_url": "indiepublisher.tw/zh-hant/projec…",
+            "indices": [
+              90,
+              113
+            ]
+          },
+          {
+            "url": "https://t.co/YkS4S7CO1A",
+            "expanded_url": "https://twitter.com/i/web/status/1490704751000195073",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1267430610584268800,
+        "id_str": "1267430610584268800",
+        "name": "Ring💍",
+        "screen_name": "ringshen",
+        "location": "",
+        "description": "「人生不過是個圈套，看你是否心甘情願而已。」\n理科生、偏食的電影觀眾、書店與出版產業邊緣人，喜歡寫字和手工藝。工作守備範圍：撰稿、編輯、企劃、策展、零售空間規劃，文章散見報章媒體。#北車達人 #推特讀。\n#圈套 電子報｜每月雙刊：https://t.co/EJitYzK8G0",
+        "url": "https://t.co/kPuAJuiGCc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/kPuAJuiGCc",
+                "expanded_url": "https://ringshen.medium.com/",
+                "display_url": "ringshen.medium.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/EJitYzK8G0",
+                "expanded_url": "http://ringshen.substack.com",
+                "display_url": "ringshen.substack.com",
+                "indices": [
+                  115,
+                  138
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 680,
+        "friends_count": 237,
+        "listed_count": 10,
+        "created_at": "Mon Jun 01 12:19:53 +0000 2020",
+        "favourites_count": 10950,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10830,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1457929693743976448/loW9mONi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457929693743976448/loW9mONi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267430610584268800/1637855552",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1467845095961800713,
+      "quoted_status_id_str": "1467845095961800713",
+      "quoted_status": {
+        "created_at": "Mon Dec 06 13:15:16 +0000 2021",
+        "id": 1467845095961800713,
+        "id_str": "1467845095961800713",
+        "text": "⬅️明年二月要去當超商店長？！\n\n囊道出版業邊緣人終於要轉行了嗎！揪～竟花黑噴？請大家繼續看下去～（揮手下降）",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1267430610584268800,
+          "id_str": "1267430610584268800",
+          "name": "Ring💍",
+          "screen_name": "ringshen",
+          "location": "",
+          "description": "「人生不過是個圈套，看你是否心甘情願而已。」\n理科生、偏食的電影觀眾、書店與出版產業邊緣人，喜歡寫字和手工藝。工作守備範圍：撰稿、編輯、企劃、策展、零售空間規劃，文章散見報章媒體。#北車達人 #推特讀。\n#圈套 電子報｜每月雙刊：https://t.co/EJitYzK8G0",
+          "url": "https://t.co/kPuAJuiGCc",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/kPuAJuiGCc",
+                  "expanded_url": "https://ringshen.medium.com/",
+                  "display_url": "ringshen.medium.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/EJitYzK8G0",
+                  "expanded_url": "http://ringshen.substack.com",
+                  "display_url": "ringshen.substack.com",
+                  "indices": [
+                    115,
+                    138
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 680,
+          "friends_count": 237,
+          "listed_count": 10,
+          "created_at": "Mon Jun 01 12:19:53 +0000 2020",
+          "favourites_count": 10950,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 10830,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1457929693743976448/loW9mONi_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1457929693743976448/loW9mONi_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1267430610584268800/1637855552",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": true,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "zh"
+      },
+      "retweet_count": 6,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1467845095961800713,
+    "quoted_status_id_str": "1467845095961800713",
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 07 14:54:07 +0000 2022",
+    "id": 1490700406917197829,
+    "id_str": "1490700406917197829",
+    "text": "探尋過程中看到這篇 2015 的文章〈Why Email Will Be Obsolete by 2020〉，回想起早期人們進入網路世界的第一件事，申請電子郵件、印在名片上、整理通訊錄，能寫長文、附加檔案，也是至今未被普遍取代的功… https://t.co/1Lq3ULSVUN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1Lq3ULSVUN",
+          "expanded_url": "https://twitter.com/i/web/status/1490700406917197829",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1489770413890555906,
+    "in_reply_to_status_id_str": "1489770413890555906",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 07 13:54:48 +0000 2022",
+    "id": 1490685479015964672,
+    "id_str": "1490685479015964672",
+    "text": "RT @TfTHacker: Obsidian: Understanding its Core Design Principles \n\nI just published an article about Obsidian and its design goals\n\n+ Data…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TfTHacker",
+          "name": "TfT Hacker - Exploring Tools for Thought and PKM",
+          "id": 1175846517808226305,
+          "id_str": "1175846517808226305",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Feb 06 15:56:17 +0000 2022",
+      "id": 1490353665026269185,
+      "id_str": "1490353665026269185",
+      "text": "Obsidian: Understanding its Core Design Principles \n\nI just published an article about Obsidian and its design goal… https://t.co/YZFenleK5w",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YZFenleK5w",
+            "expanded_url": "https://twitter.com/i/web/status/1490353665026269185",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1175846517808226305,
+        "id_str": "1175846517808226305",
+        "name": "TfT Hacker - Exploring Tools for Thought and PKM",
+        "screen_name": "TfTHacker",
+        "location": "",
+        "description": "Exploring Tools for Thought space and PKM, with focus on tools like Obsidian, Craft, LogSeq, RemNote, AthensResearch, etc.",
+        "url": "https://t.co/zscDSS70BM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/zscDSS70BM",
+                "expanded_url": "https://tfthacker.com",
+                "display_url": "tfthacker.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8469,
+        "friends_count": 329,
+        "listed_count": 493,
+        "created_at": "Sun Sep 22 18:57:43 +0000 2019",
+        "favourites_count": 14729,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6157,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1279439639221321728/w7ulmTh7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1279439639221321728/w7ulmTh7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1175846517808226305/1619165638",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "favorite_count": 120,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
     "created_at": "Sun Feb 06 13:54:54 +0000 2022",
     "id": 1490323116639219718,
     "id_str": "1490323116639219718",
