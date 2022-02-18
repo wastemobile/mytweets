@@ -1,5 +1,707 @@
 Grailbird.data.tweets_2022_02 = [
   {
+    "created_at": "Thu Feb 17 03:55:48 +0000 2022",
+    "id": 1494158613719371779,
+    "id_str": "1494158613719371779",
+    "text": "RT @gagachi: \"烏干達學生淪學工！教育部祭重罰：中州科大「全面停招」 | 生活 | 三立新聞網 \" ( https://t.co/bDygsFXreD )\n\n讚啊\n辦個學比萬惡外勞仲介還無恥\n上上下下都值得浸豬籠",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "gagachi",
+          "name": "一人小劇場( ` ω ´ )🐯不要煩",
+          "id": 15260932,
+          "id_str": "15260932",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bDygsFXreD",
+          "expanded_url": "http://twitthat.com/UB7lh",
+          "display_url": "twitthat.com/UB7lh",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 17 02:54:27 +0000 2022",
+      "id": 1494143176709271553,
+      "id_str": "1494143176709271553",
+      "text": "\"烏干達學生淪學工！教育部祭重罰：中州科大「全面停招」 | 生活 | 三立新聞網 \" ( https://t.co/bDygsFXreD )\n\n讚啊\n辦個學比萬惡外勞仲介還無恥\n上上下下都值得浸豬籠",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bDygsFXreD",
+            "expanded_url": "http://twitthat.com/UB7lh",
+            "display_url": "twitthat.com/UB7lh",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15260932,
+        "id_str": "15260932",
+        "name": "一人小劇場( ` ω ´ )🐯不要煩",
+        "screen_name": "gagachi",
+        "location": "Taiwan , 臺灣國",
+        "description": "魔胎轉生🍼台獨路人👶🏻常封鎖「引用推文」者🤖歡迎報復性封鎖🦭柯文哲死了沒🎂",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6944,
+        "friends_count": 788,
+        "listed_count": 45,
+        "created_at": "Sat Jun 28 05:17:09 +0000 2008",
+        "favourites_count": 55489,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 117109,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "666666",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241021590390726656/tBheCHJZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241021590390726656/tBheCHJZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15260932/1608441684",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "6B0C3A",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 48,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 17 02:45:43 +0000 2022",
+    "id": 1494140978566819840,
+    "id_str": "1494140978566819840",
+    "text": "RT @adunisi: https://t.co/BTsI3en6NX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "adunisi",
+          "name": "萌面超人",
+          "id": 4439348233,
+          "id_str": "4439348233",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1493444747331248129,
+          "id_str": "1493444747331248129",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLnIFchaIAEwx8B.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLnIFchaIAEwx8B.jpg",
+          "url": "https://t.co/BTsI3en6NX",
+          "display_url": "pic.twitter.com/BTsI3en6NX",
+          "expanded_url": "https://twitter.com/adunisi/status/1493444750527332354/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 672,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 672,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 672,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1493444750527332354,
+          "source_status_id_str": "1493444750527332354",
+          "source_user_id": 4439348233,
+          "source_user_id_str": "4439348233"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1493444747331248129,
+          "id_str": "1493444747331248129",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLnIFchaIAEwx8B.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLnIFchaIAEwx8B.jpg",
+          "url": "https://t.co/BTsI3en6NX",
+          "display_url": "pic.twitter.com/BTsI3en6NX",
+          "expanded_url": "https://twitter.com/adunisi/status/1493444750527332354/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 672,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 672,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 672,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1493444750527332354,
+          "source_status_id_str": "1493444750527332354",
+          "source_user_id": 4439348233,
+          "source_user_id_str": "4439348233"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Feb 15 04:39:10 +0000 2022",
+      "id": 1493444750527332354,
+      "id_str": "1493444750527332354",
+      "text": "https://t.co/BTsI3en6NX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1493444747331248129,
+            "id_str": "1493444747331248129",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/FLnIFchaIAEwx8B.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FLnIFchaIAEwx8B.jpg",
+            "url": "https://t.co/BTsI3en6NX",
+            "display_url": "pic.twitter.com/BTsI3en6NX",
+            "expanded_url": "https://twitter.com/adunisi/status/1493444750527332354/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 600,
+                "h": 672,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 672,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 672,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1493444747331248129,
+            "id_str": "1493444747331248129",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/FLnIFchaIAEwx8B.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FLnIFchaIAEwx8B.jpg",
+            "url": "https://t.co/BTsI3en6NX",
+            "display_url": "pic.twitter.com/BTsI3en6NX",
+            "expanded_url": "https://twitter.com/adunisi/status/1493444750527332354/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 600,
+                "h": 672,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 672,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 672,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4439348233,
+        "id_str": "4439348233",
+        "name": "萌面超人",
+        "screen_name": "adunisi",
+        "location": "People's Republic of China",
+        "description": "慢热，沉默，喜欢独处，三观正，比你想象的深情，也比你以为的冷漠",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4171,
+        "friends_count": 734,
+        "listed_count": 15,
+        "created_at": "Thu Dec 03 06:43:54 +0000 2015",
+        "favourites_count": 29296,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9580,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1487048274745847809/OhOKoFsm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1487048274745847809/OhOKoFsm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4439348233/1636998576",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 170,
+      "favorite_count": 1252,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "is_quote_status": false,
+    "retweet_count": 170,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Wed Feb 16 15:11:22 +0000 2022",
+    "id": 1493966237428117506,
+    "id_str": "1493966237428117506",
+    "text": "RT @sapphobooks: 小小二月即將開課的讀書會、課程最後催催))))))\n\n明晚的夢藝工作坊，最後兩位名額，即將額滿\nhttps://t.co/JeszUFg3fK\n\n下週二，心理學讀書會《與狼同奔的女人》，同樣最後兩位名額\nhttps://t.co/rq8AKXD…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sapphobooks",
+          "name": "書店店員招募中（詳釘文）",
+          "id": 2241887532,
+          "id_str": "2241887532",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JeszUFg3fK",
+          "expanded_url": "https://bit.ly/36cv7UJ",
+          "display_url": "bit.ly/36cv7UJ",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 16 14:52:52 +0000 2022",
+      "id": 1493961581088051200,
+      "id_str": "1493961581088051200",
+      "text": "小小二月即將開課的讀書會、課程最後催催))))))\n\n明晚的夢藝工作坊，最後兩位名額，即將額滿\nhttps://t.co/JeszUFg3fK\n\n下週二，心理學讀書會《與狼同奔的女人》，同樣最後兩位名額… https://t.co/N3DTKAytIs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JeszUFg3fK",
+            "expanded_url": "https://bit.ly/36cv7UJ",
+            "display_url": "bit.ly/36cv7UJ",
+            "indices": [
+              48,
+              71
+            ]
+          },
+          {
+            "url": "https://t.co/N3DTKAytIs",
+            "expanded_url": "https://twitter.com/i/web/status/1493961581088051200",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2241887532,
+        "id_str": "2241887532",
+        "name": "書店店員招募中（詳釘文）",
+        "screen_name": "sapphobooks",
+        "location": "YungHo. Taiwan",
+        "description": "一隻貓。a cat (=ↀωↀ=)\n訂閱貓掌選書：https://t.co/j3FKxcGWJb 線上購書https://t.co/LGz1wNSx1m // 書店https://t.co/fC1jEeBPnS 加入小小藝文公播頻道 https://t.co/p4fWua2EMm //  格子 https://t.co/KfBx75uU7P",
+        "url": "https://t.co/liMbscehz7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/liMbscehz7",
+                "expanded_url": "https://t.me/smallbookshare",
+                "display_url": "t.me/smallbookshare",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/j3FKxcGWJb",
+                "expanded_url": "http://vocus.cc/smallreading",
+                "display_url": "vocus.cc/smallreading",
+                "indices": [
+                  25,
+                  48
+                ]
+              },
+              {
+                "url": "https://t.co/LGz1wNSx1m",
+                "expanded_url": "http://bit.ly/3gkCYRt",
+                "display_url": "bit.ly/3gkCYRt",
+                "indices": [
+                  53,
+                  76
+                ]
+              },
+              {
+                "url": "https://t.co/fC1jEeBPnS",
+                "expanded_url": "http://smallbooks.com.tw",
+                "display_url": "smallbooks.com.tw",
+                "indices": [
+                  82,
+                  105
+                ]
+              },
+              {
+                "url": "https://t.co/p4fWua2EMm",
+                "expanded_url": "http://t.me/smallbookshare",
+                "display_url": "t.me/smallbookshare",
+                "indices": [
+                  117,
+                  140
+                ]
+              },
+              {
+                "url": "https://t.co/KfBx75uU7P",
+                "expanded_url": "http://vocus.cc/user/@sapphocat",
+                "display_url": "vocus.cc/user/@sapphocat",
+                "indices": [
+                  148,
+                  171
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2564,
+        "friends_count": 452,
+        "listed_count": 20,
+        "created_at": "Thu Dec 12 06:05:22 +0000 2013",
+        "favourites_count": 10185,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6272,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226092574303084545/28N39bJV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226092574303084545/28N39bJV_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Feb 16 00:29:03 +0000 2022",
     "id": 1493744194472460289,
     "id_str": "1493744194472460289",
