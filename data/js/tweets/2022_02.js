@@ -1,5 +1,329 @@
 Grailbird.data.tweets_2022_02 = [
   {
+    "created_at": "Tue Feb 22 03:06:38 +0000 2022",
+    "id": 1495958181184425984,
+    "id_str": "1495958181184425984",
+    "text": "RT @thecat: 照這結果看來 VDOM 被拋棄是大勢所趨啦~😚 https://t.co/WGglS4IvcS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1495922446427299840,
+          "id_str": "1495922446427299840",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMKVig7VIAAUnja.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMKVig7VIAAUnja.jpg",
+          "url": "https://t.co/WGglS4IvcS",
+          "display_url": "pic.twitter.com/WGglS4IvcS",
+          "expanded_url": "https://twitter.com/thecat/status/1495922463884021760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1458,
+              "h": 1404,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 655,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1156,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1495922463884021760,
+          "source_status_id_str": "1495922463884021760",
+          "source_user_id": 807633,
+          "source_user_id_str": "807633"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1495922446427299840,
+          "id_str": "1495922446427299840",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMKVig7VIAAUnja.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMKVig7VIAAUnja.jpg",
+          "url": "https://t.co/WGglS4IvcS",
+          "display_url": "pic.twitter.com/WGglS4IvcS",
+          "expanded_url": "https://twitter.com/thecat/status/1495922463884021760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1458,
+              "h": 1404,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 655,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1156,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1495922463884021760,
+          "source_status_id_str": "1495922463884021760",
+          "source_user_id": 807633,
+          "source_user_id_str": "807633"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Feb 22 00:44:42 +0000 2022",
+      "id": 1495922463884021760,
+      "id_str": "1495922463884021760",
+      "text": "照這結果看來 VDOM 被拋棄是大勢所趨啦~😚 https://t.co/WGglS4IvcS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1495922446427299840,
+            "id_str": "1495922446427299840",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/FMKVig7VIAAUnja.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FMKVig7VIAAUnja.jpg",
+            "url": "https://t.co/WGglS4IvcS",
+            "display_url": "pic.twitter.com/WGglS4IvcS",
+            "expanded_url": "https://twitter.com/thecat/status/1495922463884021760/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1458,
+                "h": 1404,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 655,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1156,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1495922446427299840,
+            "id_str": "1495922446427299840",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/FMKVig7VIAAUnja.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FMKVig7VIAAUnja.jpg",
+            "url": "https://t.co/WGglS4IvcS",
+            "display_url": "pic.twitter.com/WGglS4IvcS",
+            "expanded_url": "https://twitter.com/thecat/status/1495922463884021760/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1458,
+                "h": 1404,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 655,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1156,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807633,
+        "id_str": "807633",
+        "name": "Jeremy Lu",
+        "screen_name": "thecat",
+        "location": "right here, right now",
+        "description": "Fullstack web developer by day, amateur haskeller by night, avid cyclist and swimmer in between. Ask me anything about statechart, react and cycling. λ",
+        "url": "https://t.co/FhWiwLHxkV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FhWiwLHxkV",
+                "expanded_url": "https://www.stateskit.com",
+                "display_url": "stateskit.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6510,
+        "friends_count": 1552,
+        "listed_count": 91,
+        "created_at": "Sat Mar 03 01:42:09 +0000 2007",
+        "favourites_count": 21770,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 60146,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807633/1633176429",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Feb 21 00:47:57 +0000 2022",
     "id": 1495560893861564425,
     "id_str": "1495560893861564425",
