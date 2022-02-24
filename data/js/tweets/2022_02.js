@@ -1,5 +1,448 @@
 Grailbird.data.tweets_2022_02 = [
   {
+    "created_at": "Thu Feb 24 01:03:42 +0000 2022",
+    "id": 1496652020358389760,
+    "id_str": "1496652020358389760",
+    "text": "〈紙漿雜誌的黃金年代〉（Mike Ashley’s ‘The Golden Age of Pulp Fiction’）\n\n第一本紙漿雜誌是1896年改版而成的《The Argosy》，1907年時發行量為 50 萬。據說首刊還是用… https://t.co/oh6zBXpUqS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oh6zBXpUqS",
+          "expanded_url": "https://twitter.com/i/web/status/1496652020358389760",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1496649452425121792,
+    "in_reply_to_status_id_str": "1496649452425121792",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 24 00:53:30 +0000 2022",
+    "id": 1496649452425121792,
+    "id_str": "1496649452425121792",
+    "text": "紙漿雜誌（pulp magazine）的庫藏很有趣。\n\n1896 年到 1950 年代後期的廉價小說雜誌，衍生了低俗小說一詞，指的是俗氣的低品質文學作品。後繼者包括平裝書、文摘雜誌和男性冒險雜誌，現代超級英雄漫畫有時也被認為是「英… https://t.co/bYOtGzNgtY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bYOtGzNgtY",
+          "expanded_url": "https://twitter.com/i/web/status/1496649452425121792",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 23 02:01:23 +0000 2022",
+    "id": 1496304148748414979,
+    "id_str": "1496304148748414979",
+    "text": "RT @wujimacha: 時隔40期播客之後，WūJīMāChā Essay+ 第一期發佈：\n\n《屏幕與痕跡》\n《思考，在數字媒介中》\n《論身體的整體感知》\n《死亡，身體和舞臺》\n《浴恩館的小憩》\n\n爲配合文章內容，我們推出「縱書卷軸」排版設計。\n\n詳情：https://t…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "wujimacha",
+          "name": "WūJīMāChā",
+          "id": 1221763002879184896,
+          "id_str": "1221763002879184896",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 20 02:08:23 +0000 2021",
+      "id": 1461879061421047812,
+      "id_str": "1461879061421047812",
+      "text": "時隔40期播客之後，WūJīMāChā Essay+ 第一期發佈：\n\n《屏幕與痕跡》\n《思考，在數字媒介中》\n《論身體的整體感知》\n《死亡，身體和舞臺》\n《浴恩館的小憩》\n\n爲配合文章內容，我們推出「縱書卷軸」排版設計。\n\n詳情：… https://t.co/X4rxhFw6mO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/X4rxhFw6mO",
+            "expanded_url": "https://twitter.com/i/web/status/1461879061421047812",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1221763002879184896,
+        "id_str": "1221763002879184896",
+        "name": "WūJīMāChā",
+        "screen_name": "wujimacha",
+        "location": "Asia",
+        "description": "We respond to the present age through dialogue, essay+, and various projects to come | 我們通過對話，寫作+，以及未來的更多項目來回應當今時代",
+        "url": "https://t.co/qP0qM5pzIC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/qP0qM5pzIC",
+                "expanded_url": "https://www.wujimacha.com/",
+                "display_url": "wujimacha.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 454,
+        "friends_count": 4,
+        "listed_count": 12,
+        "created_at": "Mon Jan 27 11:53:55 +0000 2020",
+        "favourites_count": 5,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 90,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1449763753503776768/BIkPLRke_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1449763753503776768/BIkPLRke_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 23 00:26:29 +0000 2022",
+    "id": 1496280264229675009,
+    "id_str": "1496280264229675009",
+    "text": "RT @thecat: 嘿 在這快時尚當道的時代居然還有人願意辦 Delayed Gratification 這種深度報導過去三個月重大事件而非搶快的新聞刊物，他們的 slogan 正是 Proud to be ‘Last to Breaking News’ since 201…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Feb 23 00:24:27 +0000 2022",
+      "id": 1496279755309658112,
+      "id_str": "1496279755309658112",
+      "text": "嘿 在這快時尚當道的時代居然還有人願意辦 Delayed Gratification 這種深度報導過去三個月重大事件而非搶快的新聞刊物，他們的 slogan 正是 Proud to be ‘Last to Breaking New… https://t.co/uiDUqIap1e",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uiDUqIap1e",
+            "expanded_url": "https://twitter.com/i/web/status/1496279755309658112",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807633,
+        "id_str": "807633",
+        "name": "Jeremy Lu",
+        "screen_name": "thecat",
+        "location": "right here, right now",
+        "description": "Fullstack web developer by day, amateur haskeller by night, avid cyclist and swimmer in between. Ask me anything about statechart, react and cycling. λ",
+        "url": "https://t.co/FhWiwLHxkV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FhWiwLHxkV",
+                "expanded_url": "https://www.stateskit.com",
+                "display_url": "stateskit.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6518,
+        "friends_count": 1551,
+        "listed_count": 91,
+        "created_at": "Sat Mar 03 01:42:09 +0000 2007",
+        "favourites_count": 21818,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 60223,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807633/1633176429",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Feb 22 03:06:38 +0000 2022",
     "id": 1495958181184425984,
     "id_str": "1495958181184425984",
