@@ -1,5 +1,719 @@
 Grailbird.data.tweets_2022_02 = [
   {
+    "created_at": "Fri Feb 25 01:37:21 +0000 2022",
+    "id": 1497022875559022593,
+    "id_str": "1497022875559022593",
+    "text": "@emisjerry 使用 Logseq 能更有意識的濃縮思緒，會更快進入自己是在建立「知識卡片資料庫」的情境。\n\n但兩者都是好工具，每個人都能依照自己的習慣去變化應用。\n\n「跑到哪都行，你應該先跑起來再説。」",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "emisjerry",
+          "name": "簡睿",
+          "id": 5810732,
+          "id_str": "5810732",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1497019831417454593,
+    "in_reply_to_status_id_str": "1497019831417454593",
+    "in_reply_to_user_id": 5810732,
+    "in_reply_to_user_id_str": "5810732",
+    "in_reply_to_screen_name": "emisjerry",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 25 01:15:05 +0000 2022",
+    "id": 1497017270236712996,
+    "id_str": "1497017270236712996",
+    "text": "RT @FSNotesApp: My city under fire from the Russian army. FSNotes development has been suspended indefinitely. We are in a bomb shelter. I…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "FSNotesApp",
+          "name": "FSNotes",
+          "id": 988541920552144896,
+          "id_str": "988541920552144896",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 24 15:12:22 +0000 2022",
+      "id": 1496865592242016259,
+      "id_str": "1496865592242016259",
+      "text": "My city under fire from the Russian army. FSNotes development has been suspended indefinitely. We are in a bomb she… https://t.co/pbvPPdvZa9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pbvPPdvZa9",
+            "expanded_url": "https://twitter.com/i/web/status/1496865592242016259",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 988541920552144896,
+        "id_str": "988541920552144896",
+        "name": "FSNotes",
+        "screen_name": "FSNotesApp",
+        "location": "App Store & Mac App Store",
+        "description": "Modern notes manager for macOS/iOS",
+        "url": "https://t.co/CSq9GwiCg0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CSq9GwiCg0",
+                "expanded_url": "https://fsnot.es",
+                "display_url": "fsnot.es",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2136,
+        "friends_count": 2358,
+        "listed_count": 47,
+        "created_at": "Mon Apr 23 22:15:34 +0000 2018",
+        "favourites_count": 385,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 358,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1425393530499915779/x22PLCg7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1425393530499915779/x22PLCg7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/988541920552144896/1642704681",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "favorite_count": 88,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 30,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 25 00:48:33 +0000 2022",
+    "id": 1497010594485997576,
+    "id_str": "1497010594485997576",
+    "text": "個人卡片盒筆記的最佳數位工具是 Logseq。\n\n已有人倡議添加 longform:: true 指示，使其能書寫整篇長文，便利的引入分散的小塊、做腳註等，但我無法確定這是不是好主意。\n\nLogseq卡片盒=&gt;Obsidian長文… https://t.co/XxuLZRihu2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XxuLZRihu2",
+          "expanded_url": "https://twitter.com/i/web/status/1497010594485997576",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            120,
+            143
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1497006315020816384,
+    "in_reply_to_status_id_str": "1497006315020816384",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 25 00:31:33 +0000 2022",
+    "id": 1497006315020816384,
+    "id_str": "1497006315020816384",
+    "text": "Luhmann 這樣說：「要想寫好論文，你只需要對一篇好的草稿加以修改；要想寫出好草稿，你只需要把一系列的筆記變成連貫的文字；為了獲得連貫的文字，你只需要重新整理卡片盒裡已有的筆記；所以，你真正要做的就是在閱讀的時候手裡有一支筆。」",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1497001226734505993,
+    "in_reply_to_status_id_str": "1497001226734505993",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 25 00:11:20 +0000 2022",
+    "id": 1497001226734505993,
+    "id_str": "1497001226734505993",
+    "text": "風靡歐美的卡片盒筆記法是什麼？12個法則和重點整理。《How to Take Smart Notes》讀後心得：所有的知識都從筆記開始\n\nhttps://t.co/PxMSe04eoo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PxMSe04eoo",
+          "expanded_url": "https://bit.ly/357wX9p",
+          "display_url": "bit.ly/357wX9p",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1419636882271469568,
+    "in_reply_to_status_id_str": "1419636882271469568",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 24 15:53:20 +0000 2022",
+    "id": 1496875904772968452,
+    "id_str": "1496875904772968452",
+    "text": "RT @haohpeggy1996: \"看看烏克蘭，我就說要簽和平協議啊\"\n\"烏克蘭簽過了\"",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "haohpeggy1996",
+          "name": "霸王Peggy",
+          "id": 969911075213725696,
+          "id_str": "969911075213725696",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Feb 24 14:32:20 +0000 2022",
+      "id": 1496855518190600193,
+      "id_str": "1496855518190600193",
+      "text": "\"看看烏克蘭，我就說要簽和平協議啊\"\n\"烏克蘭簽過了\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 969911075213725696,
+        "id_str": "969911075213725696",
+        "name": "霸王Peggy",
+        "screen_name": "haohpeggy1996",
+        "location": "Taiwan",
+        "description": "不要在神桌上做愛",
+        "url": "https://t.co/p7bvptyIvY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/p7bvptyIvY",
+                "expanded_url": "https://www.facebook.com/haoh.peggy/",
+                "display_url": "facebook.com/haoh.peggy/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 25797,
+        "friends_count": 240,
+        "listed_count": 59,
+        "created_at": "Sat Mar 03 12:23:15 +0000 2018",
+        "favourites_count": 26675,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12239,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1291371945573793794/rgdfvKil_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291371945573793794/rgdfvKil_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/969911075213725696/1520080681",
+        "profile_link_color": "438C89",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 417,
+      "favorite_count": 3074,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 417,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 24 07:26:02 +0000 2022",
+    "id": 1496748234823266305,
+    "id_str": "1496748234823266305",
+    "text": "統派，須立即正名為「內奸」，是一種會與敵人裡應外合、引發戰爭的生物，範例見正在進行中的俄烏戰爭。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 42,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 24 06:53:39 +0000 2022",
+    "id": 1496740086657925122,
+    "id_str": "1496740086657925122",
+    "text": "下載試用 Mem beta（還沒看到付費選項），有筆記軟體的樣子，但感覺像是主打團隊協作生產力空間，比較先進的 basecamp\n\nhttps://t.co/8elt2t346o https://t.co/agEcQl3gdp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8elt2t346o",
+          "expanded_url": "https://get.mem.ai",
+          "display_url": "get.mem.ai",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1496740078739083265,
+          "id_str": "1496740078739083265",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMV9K-pVUAEgPFW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMV9K-pVUAEgPFW.jpg",
+          "url": "https://t.co/agEcQl3gdp",
+          "display_url": "pic.twitter.com/agEcQl3gdp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1496740086657925122/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1528,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 895,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 507,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1496740078739083265,
+          "id_str": "1496740078739083265",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMV9K-pVUAEgPFW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMV9K-pVUAEgPFW.jpg",
+          "url": "https://t.co/agEcQl3gdp",
+          "display_url": "pic.twitter.com/agEcQl3gdp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1496740086657925122/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1528,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 895,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 507,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Feb 24 01:03:42 +0000 2022",
     "id": 1496652020358389760,
     "id_str": "1496652020358389760",
