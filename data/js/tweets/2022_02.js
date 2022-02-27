@@ -1,5 +1,2349 @@
 Grailbird.data.tweets_2022_02 = [
   {
+    "created_at": "Sun Feb 27 03:22:57 +0000 2022",
+    "id": 1497774225741910016,
+    "id_str": "1497774225741910016",
+    "text": "真實電視被駭的播出畫面，好帥！ https://t.co/bYHWGIZXLc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bYHWGIZXLc",
+          "expanded_url": "https://twitter.com/youranontv/status/1497678663046905863",
+          "display_url": "twitter.com/youranontv/sta…",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1497760799799930882,
+    "in_reply_to_status_id_str": "1497760799799930882",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1497678663046905863,
+    "quoted_status_id_str": "1497678663046905863",
+    "quoted_status": {
+      "created_at": "Sat Feb 26 21:03:13 +0000 2022",
+      "id": 1497678663046905863,
+      "id_str": "1497678663046905863",
+      "text": "JUST IN: #Russian state TV channels have been hacked by #Anonymous to broadcast the truth about what happens in… https://t.co/V0JVq6D0XS",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Russian",
+            "indices": [
+              9,
+              17
+            ]
+          },
+          {
+            "text": "Anonymous",
+            "indices": [
+              56,
+              66
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/V0JVq6D0XS",
+            "expanded_url": "https://twitter.com/i/web/status/1497678663046905863",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3972812140,
+        "id_str": "3972812140",
+        "name": "Anonymous TV 🇺🇦",
+        "screen_name": "YourAnonTV",
+        "location": "Internet ",
+        "description": "We are #Anonymous, internet-based, international team from literally all around the world | #OpRussia #OpKremlin #FckPutin #FreeUkraine #FreeAnons #FreeAssange",
+        "url": "https://t.co/RiL2Fszm7d",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/RiL2Fszm7d",
+                "expanded_url": "https://youtube.com/channel/UCV4mgUnJbuXVVTFAZ7WndcQ",
+                "display_url": "youtube.com/channel/UCV4mg…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 209538,
+        "friends_count": 299,
+        "listed_count": 608,
+        "created_at": "Fri Oct 16 14:55:06 +0000 2015",
+        "favourites_count": 1573,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6108,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497716002364301320/oAlQDd-M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497716002364301320/oAlQDd-M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3972812140/1639154698",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 42538,
+      "favorite_count": 162818,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Feb 27 03:05:24 +0000 2022",
+    "id": 1497769809697591297,
+    "id_str": "1497769809697591297",
+    "text": "樂天執行長三木谷浩史捐 10 億日圓支持烏克蘭，我也只能趕緊清空 #Kobo 電子書購物車聊表敬意。\n\nhttps://t.co/4F1LdQnjRP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kobo",
+          "indices": [
+            33,
+            38
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4F1LdQnjRP",
+          "expanded_url": "https://bit.ly/3HuwAmm",
+          "display_url": "bit.ly/3HuwAmm",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Feb 27 02:29:36 +0000 2022",
+    "id": 1497760799799930882,
+    "id_str": "1497760799799930882",
+    "text": "匿名者組織駭入俄國電視頻道，改播烏克蘭的真實現況。\n\n影視小說常看到駭客駭進電視廣播頻道、替換播出內容的橋段，但還是第一次在現實中看到（也許有過）。 https://t.co/LC7YWYCy7Q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LC7YWYCy7Q",
+          "expanded_url": "https://twitter.com/agencynews27/status/1497706310984474632",
+          "display_url": "twitter.com/agencynews27/s…",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1497706310984474632,
+    "quoted_status_id_str": "1497706310984474632",
+    "quoted_status": {
+      "created_at": "Sat Feb 26 22:53:05 +0000 2022",
+      "id": 1497706310984474632,
+      "id_str": "1497706310984474632",
+      "text": "They have been hacked by Anonymous. Well done and stand with Ukraine. RT for Respect #StopPutin #russia #war… https://t.co/tYUch6tyls",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "StopPutin",
+            "indices": [
+              85,
+              95
+            ]
+          },
+          {
+            "text": "russia",
+            "indices": [
+              96,
+              103
+            ]
+          },
+          {
+            "text": "war",
+            "indices": [
+              104,
+              108
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tYUch6tyls",
+            "expanded_url": "https://twitter.com/i/web/status/1497706310984474632",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1497151329374031872,
+        "id_str": "1497151329374031872",
+        "name": "Update Ukraine Situation",
+        "screen_name": "AgencyNews27",
+        "location": "",
+        "description": "The last news for Ukraine Situation\n\nFollow us",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1668,
+        "friends_count": 121,
+        "listed_count": 9,
+        "created_at": "Fri Feb 25 10:08:01 +0000 2022",
+        "favourites_count": 112,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 108,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497342213222711303/Ns0_IMMv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497342213222711303/Ns0_IMMv_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497151329374031872/1645843240",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 156,
+      "favorite_count": 958,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 23,
+    "favorite_count": 63,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 26 13:36:18 +0000 2022",
+    "id": 1497566192243904513,
+    "id_str": "1497566192243904513",
+    "text": "一直以為 Signal 確實比 Telegram 安全，所以馬斯克在說什麼？\n\nhttps://t.co/hWcKd57eda",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hWcKd57eda",
+          "expanded_url": "https://bit.ly/3vqcR4S",
+          "display_url": "bit.ly/3vqcR4S",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 26 07:24:23 +0000 2022",
+    "id": 1497472595246993411,
+    "id_str": "1497472595246993411",
+    "text": "RT @sapphobooks: 莫斯科一位十八歲的女孩，在公寓窗口掛了反戰海報，就被帶走了。抗議普丁對烏的戰爭，在俄羅斯全境都會受到管控，但人們還是站出來反對。\nhttps://t.co/GbRnwh7KNw\n\n我希望這可以喚醒俄羅斯人們推倒普丁的專政，一位修改憲法以符合自己…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sapphobooks",
+          "name": "IStandWithUkraine/ Taiwan independent bookstore",
+          "id": 2241887532,
+          "id_str": "2241887532",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GbRnwh7KNw",
+          "expanded_url": "https://bit.ly/3pfpBr1",
+          "display_url": "bit.ly/3pfpBr1",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Feb 26 06:40:40 +0000 2022",
+      "id": 1497461596771127299,
+      "id_str": "1497461596771127299",
+      "text": "莫斯科一位十八歲的女孩，在公寓窗口掛了反戰海報，就被帶走了。抗議普丁對烏的戰爭，在俄羅斯全境都會受到管控，但人們還是站出來反對。\nhttps://t.co/GbRnwh7KNw\n\n我希望這可以喚醒俄羅斯人們推倒普丁的專政，一位修改… https://t.co/a3V1hRWEQh",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GbRnwh7KNw",
+            "expanded_url": "https://bit.ly/3pfpBr1",
+            "display_url": "bit.ly/3pfpBr1",
+            "indices": [
+              65,
+              88
+            ]
+          },
+          {
+            "url": "https://t.co/a3V1hRWEQh",
+            "expanded_url": "https://twitter.com/i/web/status/1497461596771127299",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497460492083728385,
+      "in_reply_to_status_id_str": "1497460492083728385",
+      "in_reply_to_user_id": 2241887532,
+      "in_reply_to_user_id_str": "2241887532",
+      "in_reply_to_screen_name": "sapphobooks",
+      "user": {
+        "id": 2241887532,
+        "id_str": "2241887532",
+        "name": "IStandWithUkraine/ Taiwan independent bookstore",
+        "screen_name": "sapphobooks",
+        "location": "YungHo. Taiwan",
+        "description": "小小書房沙貓貓/一隻貓。a cat (=ↀωↀ=)\n訂閱貓掌選書：https://t.co/j3FKxcYy7L 線上購書https://t.co/LGz1wOa8pW // 書店https://t.co/fC1jEeTqMs 加入小小藝文公播頻道 https://t.co/p4fWuakgaW //  格子 http:",
+        "url": "https://t.co/liMbsbWGHz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/liMbsbWGHz",
+                "expanded_url": "https://t.me/smallbookshare",
+                "display_url": "t.me/smallbookshare",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/j3FKxcYy7L",
+                "expanded_url": "http://vocus.cc/smallreading",
+                "display_url": "vocus.cc/smallreading",
+                "indices": [
+                  33,
+                  56
+                ]
+              },
+              {
+                "url": "https://t.co/LGz1wOa8pW",
+                "expanded_url": "http://bit.ly/3gkCYRt",
+                "display_url": "bit.ly/3gkCYRt",
+                "indices": [
+                  61,
+                  84
+                ]
+              },
+              {
+                "url": "https://t.co/fC1jEeTqMs",
+                "expanded_url": "http://smallbooks.com.tw",
+                "display_url": "smallbooks.com.tw",
+                "indices": [
+                  90,
+                  113
+                ]
+              },
+              {
+                "url": "https://t.co/p4fWuakgaW",
+                "expanded_url": "http://t.me/smallbookshare",
+                "display_url": "t.me/smallbookshare",
+                "indices": [
+                  125,
+                  148
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2609,
+        "friends_count": 470,
+        "listed_count": 20,
+        "created_at": "Thu Dec 12 06:05:22 +0000 2013",
+        "favourites_count": 10483,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6380,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226092574303084545/28N39bJV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226092574303084545/28N39bJV_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 26 06:35:45 +0000 2022",
+    "id": 1497460357849227267,
+    "id_str": "1497460357849227267",
+    "text": "RT @nippon_hk: 漫畫銷售的新高。\n\n日本漫畫銷售額再創新高 佔出版市場四成份額 https://t.co/UHmREKN2pe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nippon_hk",
+          "name": "nippon.com/hk",
+          "id": 352247189,
+          "id_str": "352247189",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UHmREKN2pe",
+          "expanded_url": "https://www.nippon.com/hk/news/kd869828414588190720/#.YhnJLxDhb-w.twitter",
+          "display_url": "nippon.com/hk/news/kd8698…",
+          "indices": [
+            47,
+            70
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Feb 26 06:31:33 +0000 2022",
+      "id": 1497459300385824768,
+      "id_str": "1497459300385824768",
+      "text": "漫畫銷售的新高。\n\n日本漫畫銷售額再創新高 佔出版市場四成份額 https://t.co/UHmREKN2pe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/UHmREKN2pe",
+            "expanded_url": "https://www.nippon.com/hk/news/kd869828414588190720/#.YhnJLxDhb-w.twitter",
+            "display_url": "nippon.com/hk/news/kd8698…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 352247189,
+        "id_str": "352247189",
+        "name": "nippon.com/hk",
+        "screen_name": "nippon_hk",
+        "location": "Japan",
+        "description": "「http://t.co/Lj2xgSTtq6日本網」是為海外人士更多了解日本而開設的網站。以6種語言向您展現當今日本的真實面貌。Facebook：http://t.co/qNIpn2GnZ0",
+        "url": "http://t.co/Rjq9iBjn8H",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/Rjq9iBjn8H",
+                "expanded_url": "http://www.nippon.com/hk",
+                "display_url": "nippon.com/hk",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/Lj2xgSTtq6",
+                "expanded_url": "http://nippon.com",
+                "display_url": "nippon.com",
+                "indices": [
+                  1,
+                  23
+                ]
+              },
+              {
+                "url": "http://t.co/qNIpn2GnZ0",
+                "expanded_url": "http://on.fb.me/YcvCjw",
+                "display_url": "on.fb.me/YcvCjw",
+                "indices": [
+                  74,
+                  96
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2997,
+        "friends_count": 394,
+        "listed_count": 87,
+        "created_at": "Wed Aug 10 10:34:49 +0000 2011",
+        "favourites_count": 25,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16580,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/876721148679012352/1tmnclOe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/876721148679012352/1tmnclOe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/352247189/1496904382",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 26 06:32:04 +0000 2022",
+    "id": 1497459429599440899,
+    "id_str": "1497459429599440899",
+    "text": "享受了一下午久違陽光☀️（的胖胖）。 https://t.co/Ou5c5HNWIB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1497459416622190592,
+          "id_str": "1497459416622190592",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMgLZ9FUUAAE0FY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMgLZ9FUUAAE0FY.jpg",
+          "url": "https://t.co/Ou5c5HNWIB",
+          "display_url": "pic.twitter.com/Ou5c5HNWIB",
+          "expanded_url": "https://twitter.com/wastemobile/status/1497459429599440899/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1497459416622190592,
+          "id_str": "1497459416622190592",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMgLZ9FUUAAE0FY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMgLZ9FUUAAE0FY.jpg",
+          "url": "https://t.co/Ou5c5HNWIB",
+          "display_url": "pic.twitter.com/Ou5c5HNWIB",
+          "expanded_url": "https://twitter.com/wastemobile/status/1497459429599440899/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Feb 26 05:36:16 +0000 2022",
+    "id": 1497445386809593861,
+    "id_str": "1497445386809593861",
+    "text": "RT @yesonline: » Flexbox Froggy - A #game for learning #CSS flexbox https://t.co/Tk9VXn1vy2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "game",
+          "indices": [
+            36,
+            41
+          ]
+        },
+        {
+          "text": "CSS",
+          "indices": [
+            55,
+            59
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yesonline",
+          "name": "Yes!Online⛅",
+          "id": 794676,
+          "id_str": "794676",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Tk9VXn1vy2",
+          "expanded_url": "https://flexboxfroggy.com/",
+          "display_url": "flexboxfroggy.com",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Feb 26 05:26:19 +0000 2022",
+      "id": 1497442885230538753,
+      "id_str": "1497442885230538753",
+      "text": "» Flexbox Froggy - A #game for learning #CSS flexbox https://t.co/Tk9VXn1vy2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "game",
+            "indices": [
+              21,
+              26
+            ]
+          },
+          {
+            "text": "CSS",
+            "indices": [
+              40,
+              44
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Tk9VXn1vy2",
+            "expanded_url": "https://flexboxfroggy.com/",
+            "display_url": "flexboxfroggy.com",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 794676,
+        "id_str": "794676",
+        "name": "Yes!Online⛅",
+        "screen_name": "yesonline",
+        "location": "Taipei, Taiwan.",
+        "description": "嘲笑せず、嘆かず、呪わず、ただ理解する‧‧‧‧‧",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 21116,
+        "friends_count": 396,
+        "listed_count": 153,
+        "created_at": "Mon Feb 26 06:16:33 +0000 2007",
+        "favourites_count": 13,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 64177,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "801B80",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1232619559737118720/00l7htCo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232619559737118720/00l7htCo_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/794676/1569310096",
+        "profile_link_color": "0EB9ED",
+        "profile_sidebar_border_color": "343840",
+        "profile_sidebar_fill_color": "0C0917",
+        "profile_text_color": "4F494F",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 26 05:22:43 +0000 2022",
+    "id": 1497441977645735940,
+    "id_str": "1497441977645735940",
+    "text": "終於準備來拆封時，發現⋯⋯\n\nps4光碟版的2077\n已經發現更新1.5有問題\n如果是光碟版的要等下次更新了\n\nhttps://t.co/iMPYlm4Qpu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iMPYlm4Qpu",
+          "expanded_url": "https://bit.ly/3ItHgTB",
+          "display_url": "bit.ly/3ItHgTB",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1451751928753315840,
+    "in_reply_to_status_id_str": "1451751928753315840",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 26 01:55:23 +0000 2022",
+    "id": 1497389801825206275,
+    "id_str": "1497389801825206275",
+    "text": "為了要看電影，還是耐著性子把接續的兩本代筆作看完了。終曲《終結狩獵的女孩》堪稱爛中之爛，劇情毫無吸引力、關聯鬆散就算了，最重要的一場動作戲寫得還不如三流小說或電影。\n\n建議停在三部曲就好，後三本不值得浪費錢。\n\nhttps://t.co/SRYEymWxUY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SRYEymWxUY",
+          "expanded_url": "https://bit.ly/3t8p2AF",
+          "display_url": "bit.ly/3t8p2AF",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1467509063022182401,
+    "in_reply_to_status_id_str": "1467509063022182401",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 26 01:29:58 +0000 2022",
+    "id": 1497383405394165760,
+    "id_str": "1497383405394165760",
+    "text": "Amazon 對旗下漫畫閱讀服務進行了大升級，遭遇用戶的大反彈。\n\n企圖整合資源與閱讀軟體，但 Kindle Cloud Reader 無法滿足對漫畫等圖像出版品的習慣操作，品項似乎也有所減損。\n\nhttps://t.co/wJHhGmRMNM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wJHhGmRMNM",
+          "expanded_url": "https://bit.ly/3InwYVd",
+          "display_url": "bit.ly/3InwYVd",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 25 22:43:11 +0000 2022",
+    "id": 1497341433681829894,
+    "id_str": "1497341433681829894",
+    "text": "RT @sapphobooks: Lyudmila Ulitskaya，我很喜歡的當代俄國作家，在俄媒《新報》上說：\n「痛苦、恐懼、羞恥是今天的感覺。\n\n痛苦是因為戰爭襲擊了活人——草木、動物及其後代、人類及其子女。\n\n恐懼是因為有一種普遍的生物本能，旨在拯救自己的生命和後代的…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sapphobooks",
+          "name": "IStandWithUkraine/ Taiwan independent bookstore",
+          "id": 2241887532,
+          "id_str": "2241887532",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 25 14:47:43 +0000 2022",
+      "id": 1497221775867846660,
+      "id_str": "1497221775867846660",
+      "text": "Lyudmila Ulitskaya，我很喜歡的當代俄國作家，在俄媒《新報》上說：\n「痛苦、恐懼、羞恥是今天的感覺。\n\n痛苦是因為戰爭襲擊了活人——草木、動物及其後代、人類及其子女。\n\n恐懼是因為有一種普遍的生物本能，旨在拯救自己… https://t.co/kug14kALmi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kug14kALmi",
+            "expanded_url": "https://twitter.com/i/web/status/1497221775867846660",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2241887532,
+        "id_str": "2241887532",
+        "name": "IStandWithUkraine/ Taiwan independent bookstore",
+        "screen_name": "sapphobooks",
+        "location": "YungHo. Taiwan",
+        "description": "小小書房沙貓貓/一隻貓。a cat (=ↀωↀ=)\n訂閱貓掌選書：https://t.co/j3FKxcYy7L 線上購書https://t.co/LGz1wOa8pW // 書店https://t.co/fC1jEeTqMs 加入小小藝文公播頻道 https://t.co/p4fWuakgaW //  格子 http:",
+        "url": "https://t.co/liMbsbWGHz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/liMbsbWGHz",
+                "expanded_url": "https://t.me/smallbookshare",
+                "display_url": "t.me/smallbookshare",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/j3FKxcYy7L",
+                "expanded_url": "http://vocus.cc/smallreading",
+                "display_url": "vocus.cc/smallreading",
+                "indices": [
+                  33,
+                  56
+                ]
+              },
+              {
+                "url": "https://t.co/LGz1wOa8pW",
+                "expanded_url": "http://bit.ly/3gkCYRt",
+                "display_url": "bit.ly/3gkCYRt",
+                "indices": [
+                  61,
+                  84
+                ]
+              },
+              {
+                "url": "https://t.co/fC1jEeTqMs",
+                "expanded_url": "http://smallbooks.com.tw",
+                "display_url": "smallbooks.com.tw",
+                "indices": [
+                  90,
+                  113
+                ]
+              },
+              {
+                "url": "https://t.co/p4fWuakgaW",
+                "expanded_url": "http://t.me/smallbookshare",
+                "display_url": "t.me/smallbookshare",
+                "indices": [
+                  125,
+                  148
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2609,
+        "friends_count": 470,
+        "listed_count": 20,
+        "created_at": "Thu Dec 12 06:05:22 +0000 2013",
+        "favourites_count": 10483,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6380,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226092574303084545/28N39bJV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226092574303084545/28N39bJV_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 22,
+      "favorite_count": 54,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 25 14:55:19 +0000 2022",
+    "id": 1497223692400562178,
+    "id_str": "1497223692400562178",
+    "text": "衛報這篇文讓我想到《金牌特務：金士曼起源》那個沙皇身旁的妖僧拉斯普京⋯⋯\n\nhttps://t.co/UzggTdpDDh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UzggTdpDDh",
+          "expanded_url": "https://bit.ly/3sgepfP",
+          "display_url": "bit.ly/3sgepfP",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 25 13:41:43 +0000 2022",
+    "id": 1497205167736774661,
+    "id_str": "1497205167736774661",
+    "text": "RT @visegrad24: Ukrainian President. 🇺🇦 https://t.co/OHe7lZFz6T",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "visegrad24",
+          "name": "Visegrád 24 🇨🇿🇭🇺🇵🇱🇸🇰",
+          "id": 1222773302441148416,
+          "id_str": "1222773302441148416",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1497200131103469569,
+          "id_str": "1497200131103469569",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMcfljQXMAExzpw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMcfljQXMAExzpw.jpg",
+          "url": "https://t.co/OHe7lZFz6T",
+          "display_url": "pic.twitter.com/OHe7lZFz6T",
+          "expanded_url": "https://twitter.com/visegrad24/status/1497200136522448909/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 749,
+              "h": 738,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 749,
+              "h": 738,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 670,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1497200136522448909,
+          "source_status_id_str": "1497200136522448909",
+          "source_user_id": 1222773302441148416,
+          "source_user_id_str": "1222773302441148416"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1497200131103469569,
+          "id_str": "1497200131103469569",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMcfljQXMAExzpw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMcfljQXMAExzpw.jpg",
+          "url": "https://t.co/OHe7lZFz6T",
+          "display_url": "pic.twitter.com/OHe7lZFz6T",
+          "expanded_url": "https://twitter.com/visegrad24/status/1497200136522448909/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 749,
+              "h": 738,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 749,
+              "h": 738,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 670,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1497200136522448909,
+          "source_status_id_str": "1497200136522448909",
+          "source_user_id": 1222773302441148416,
+          "source_user_id_str": "1222773302441148416"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 25 13:21:43 +0000 2022",
+      "id": 1497200136522448909,
+      "id_str": "1497200136522448909",
+      "text": "Ukrainian President. 🇺🇦 https://t.co/OHe7lZFz6T",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1497200131103469569,
+            "id_str": "1497200131103469569",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/FMcfljQXMAExzpw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FMcfljQXMAExzpw.jpg",
+            "url": "https://t.co/OHe7lZFz6T",
+            "display_url": "pic.twitter.com/OHe7lZFz6T",
+            "expanded_url": "https://twitter.com/visegrad24/status/1497200136522448909/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 749,
+                "h": 738,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 749,
+                "h": 738,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 670,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1497200131103469569,
+            "id_str": "1497200131103469569",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/FMcfljQXMAExzpw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FMcfljQXMAExzpw.jpg",
+            "url": "https://t.co/OHe7lZFz6T",
+            "display_url": "pic.twitter.com/OHe7lZFz6T",
+            "expanded_url": "https://twitter.com/visegrad24/status/1497200136522448909/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 749,
+                "h": 738,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 749,
+                "h": 738,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 670,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1222773302441148416,
+        "id_str": "1222773302441148416",
+        "name": "Visegrád 24",
+        "screen_name": "visegrad24",
+        "location": "Visegrad",
+        "description": "News, politics, current affairs, history and culture from the Visegrad countries. 🇨🇿🇭🇺🇵🇱🇸🇰",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 131194,
+        "friends_count": 461,
+        "listed_count": 871,
+        "created_at": "Thu Jan 30 06:48:04 +0000 2020",
+        "favourites_count": 2892,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6960,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1496244011044155402/2l00Uki5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496244011044155402/2l00Uki5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222773302441148416/1645556779",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3056,
+      "favorite_count": 35294,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3056,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 25 11:56:57 +0000 2022",
+    "id": 1497178804086734850,
+    "id_str": "1497178804086734850",
+    "text": "下一個是台灣嗎？ https://t.co/KWrsb88ZlL\n\n這篇新文章幾乎延續著那期雜誌，將普丁入侵烏克蘭視為「獨裁者的反擊」，相對上世紀90年代起美國及其盟友在全球驅逐獨裁者的一系列勝利。\n\n但說俄羅斯已是夕陽國，獨裁侵… https://t.co/w16Or6g8ko",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KWrsb88ZlL",
+          "expanded_url": "https://bit.ly/3JULyDP",
+          "display_url": "bit.ly/3JULyDP",
+          "indices": [
+            9,
+            32
+          ]
+        },
+        {
+          "url": "https://t.co/w16Or6g8ko",
+          "expanded_url": "https://twitter.com/i/web/status/1497178804086734850",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1497082701395857412,
+    "in_reply_to_status_id_str": "1497082701395857412",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 25 05:50:15 +0000 2022",
+    "id": 1497086518208253952,
+    "id_str": "1497086518208253952",
+    "text": "RT @digidiploTaiwan: 【聲援烏克蘭就在今天！】\n今天一群在台烏克蘭、白羅斯、哈薩克、俄羅斯人等會聚集在莫北協駐台代表處前，抗議俄羅斯入侵，並聲援烏克蘭人民。\n如果您不能到場，也歡迎將訊息分享出去。謝謝！\n📌台北市信義路五段 2 號（莫斯科駐台北代表處）\n⏲️…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "digidiploTaiwan",
+          "name": "Taiwan Digital Diplomacy Association",
+          "id": 1224910336643325954,
+          "id_str": "1224910336643325954",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 25 05:19:10 +0000 2022",
+      "id": 1497078697186103300,
+      "id_str": "1497078697186103300",
+      "text": "【聲援烏克蘭就在今天！】\n今天一群在台烏克蘭、白羅斯、哈薩克、俄羅斯人等會聚集在莫北協駐台代表處前，抗議俄羅斯入侵，並聲援烏克蘭人民。\n如果您不能到場，也歡迎將訊息分享出去。謝謝！\n📌台北市信義路五段 2 號（莫斯科駐台北代表處）… https://t.co/mYlHoB7lBj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mYlHoB7lBj",
+            "expanded_url": "https://twitter.com/i/web/status/1497078697186103300",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1224910336643325954,
+        "id_str": "1224910336643325954",
+        "name": "Taiwan Digital Diplomacy Association",
+        "screen_name": "digidiploTaiwan",
+        "location": "Taipei, Taiwan",
+        "description": "Non-partisan NGO dedicating to #DigitalDiplomacy and #CitizenDiplomacy for #Taiwan. Facebook: https://t.co/YpDDNWSr80. IG: https://t.co/LcY3ydsJWs. RTs ≠ endorsements",
+        "url": "https://t.co/Rord6ocBCf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Rord6ocBCf",
+                "expanded_url": "https://www.linkedin.com/company/taiwan-digital-diplomacy-association",
+                "display_url": "linkedin.com/company/taiwan…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/YpDDNWSr80",
+                "expanded_url": "http://pse.is/3p7w8b",
+                "display_url": "pse.is/3p7w8b",
+                "indices": [
+                  94,
+                  117
+                ]
+              },
+              {
+                "url": "https://t.co/LcY3ydsJWs",
+                "expanded_url": "https://pse.is/3muccy",
+                "display_url": "pse.is/3muccy",
+                "indices": [
+                  123,
+                  146
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 11841,
+        "friends_count": 1414,
+        "listed_count": 54,
+        "created_at": "Wed Feb 05 04:19:32 +0000 2020",
+        "favourites_count": 5642,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 2676,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1225713339898064896/CatJRNn3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225713339898064896/CatJRNn3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1224910336643325954/1627033012",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 627,
+      "favorite_count": 1301,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 627,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 25 05:35:05 +0000 2022",
+    "id": 1497082701395857412,
+    "id_str": "1497082701395857412",
+    "text": "回想起這期雜誌的一段：「2014烏克蘭的反腐敗民主示威推翻了 Viktor Yanukovych 總統的政府，普丁非常憤怒烏克蘭開了先例。畢竟，如果烏克蘭人可以擺脫他們腐敗的獨裁者，為什麼俄羅斯人不想這麼做？」\n\nThe Bad… https://t.co/RWobv0ic4l",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RWobv0ic4l",
+          "expanded_url": "https://twitter.com/i/web/status/1497082701395857412",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1465328099164241925,
+    "in_reply_to_status_id_str": "1465328099164241925",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 22,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 25 04:20:38 +0000 2022",
+    "id": 1497063968040370178,
+    "id_str": "1497063968040370178",
+    "text": "@arguskao 單純偶遇。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "arguskao",
+          "name": "高藥師",
+          "id": 5522882,
+          "id_str": "5522882",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1497059321586532359,
+    "in_reply_to_status_id_str": "1497059321586532359",
+    "in_reply_to_user_id": 5522882,
+    "in_reply_to_user_id_str": "5522882",
+    "in_reply_to_screen_name": "arguskao",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 25 03:52:18 +0000 2022",
+    "id": 1497056836918251521,
+    "id_str": "1497056836918251521",
+    "text": "開源可自架的 Airtable 替代方案 NocoDB 看起來蠻可口的，開個 docker 來試試。\n\nhttps://t.co/4k8bZbzBoF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4k8bZbzBoF",
+          "expanded_url": "https://bit.ly/3sjU0Xu",
+          "display_url": "bit.ly/3sjU0Xu",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Feb 25 01:37:21 +0000 2022",
     "id": 1497022875559022593,
     "id_str": "1497022875559022593",
