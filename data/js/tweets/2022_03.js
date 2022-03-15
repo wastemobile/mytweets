@@ -1,5 +1,479 @@
 Grailbird.data.tweets_2022_03 = [
   {
+    "created_at": "Tue Mar 15 12:50:33 +0000 2022",
+    "id": 1503715272879865859,
+    "id_str": "1503715272879865859",
+    "text": "俄國侵略烏克蘭之後，記者好像都直接上 Twitter 找新聞了吼⋯⋯\n\nhttps://t.co/xu6ToYzqid",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xu6ToYzqid",
+          "expanded_url": "https://www.ettoday.net/news/20220315/2208500.htm",
+          "display_url": "ettoday.net/news/20220315/…",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Mar 15 01:42:13 +0000 2022",
+    "id": 1503547080261832704,
+    "id_str": "1503547080261832704",
+    "text": "RT @Takehiro_Wei: 轉噗 WBㄉ觀察: https://t.co/EFFXI9k2uY\n【這次柯文哲用公帑宴請中國黨委商銀代表，名單中赫然發現「妙管家」，查詢之下原來這家老... https://t.co/G5vN7nQumu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Takehiro_Wei",
+          "name": "Takehiro🌈威",
+          "id": 242588305,
+          "id_str": "242588305",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EFFXI9k2uY",
+          "expanded_url": "https://twitter.com/Leetasizan/status/1503414978870603777",
+          "display_url": "twitter.com/Leetasizan/sta…",
+          "indices": [
+            28,
+            51
+          ]
+        },
+        {
+          "url": "https://t.co/G5vN7nQumu",
+          "expanded_url": "https://plurk.com/p/os2s21",
+          "display_url": "plurk.com/p/os2s21",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 15 00:28:05 +0000 2022",
+      "id": 1503528426241765380,
+      "id_str": "1503528426241765380",
+      "text": "轉噗 WBㄉ觀察: https://t.co/EFFXI9k2uY\n【這次柯文哲用公帑宴請中國黨委商銀代表，名單中赫然發現「妙管家」，查詢之下原來這家老... https://t.co/G5vN7nQumu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EFFXI9k2uY",
+            "expanded_url": "https://twitter.com/Leetasizan/status/1503414978870603777",
+            "display_url": "twitter.com/Leetasizan/sta…",
+            "indices": [
+              10,
+              33
+            ]
+          },
+          {
+            "url": "https://t.co/G5vN7nQumu",
+            "expanded_url": "https://plurk.com/p/os2s21",
+            "display_url": "plurk.com/p/os2s21",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.plurk.com\" rel=\"nofollow\">Plurk</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 242588305,
+        "id_str": "242588305",
+        "name": "Takehiro🌈威",
+        "screen_name": "Takehiro_Wei",
+        "location": "Taiwan",
+        "description": "程式開發就像下山一樣，\r\n你可以選擇從階梯穩健踏實地往下步行，\r\n也許會有點麻煩也慢了一些；\r\n或是你也可以選擇從懸崖毅然決然地縱身一跳，\r\n則會非常輕鬆也快了很多...............\r\n不過死得也滿快的就是。",
+        "url": "https://t.co/tg4w22vzpU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/tg4w22vzpU",
+                "expanded_url": "http://www.plurk.com/nonoway72/invite",
+                "display_url": "plurk.com/nonoway72/invi…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 672,
+        "friends_count": 1214,
+        "listed_count": 3,
+        "created_at": "Tue Jan 25 03:43:12 +0000 2011",
+        "favourites_count": 16648,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25353,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1225195615/7432981-big2_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225195615/7432981-big2_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/242588305/1552896023",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1503414978870603777,
+      "quoted_status_id_str": "1503414978870603777",
+      "quoted_status": {
+        "created_at": "Mon Mar 14 16:57:17 +0000 2022",
+        "id": 1503414978870603777,
+        "id_str": "1503414978870603777",
+        "text": "這次柯文哲用公帑宴請中國黨委商銀代表，名單中赫然發現「妙管家」，查詢之下原來這家老牌清潔劑早在 2014 年就被中資100%收購。\n#百分百中資拒買無懸念 https://t.co/oluKnl38lH",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "百分百中資拒買無懸念",
+              "indices": [
+                66,
+                77
+              ]
+            }
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ],
+          "media": [
+            {
+              "id": 1503414603048357888,
+              "id_str": "1503414603048357888",
+              "indices": [
+                78,
+                101
+              ],
+              "media_url": "http://pbs.twimg.com/media/FN0znbTVEAAbxJ0.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FN0znbTVEAAbxJ0.jpg",
+              "url": "https://t.co/oluKnl38lH",
+              "display_url": "pic.twitter.com/oluKnl38lH",
+              "expanded_url": "https://twitter.com/Leetasizan/status/1503414978870603777/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 828,
+                  "h": 908,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 620,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 828,
+                  "h": 908,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1503414603048357888,
+              "id_str": "1503414603048357888",
+              "indices": [
+                78,
+                101
+              ],
+              "media_url": "http://pbs.twimg.com/media/FN0znbTVEAAbxJ0.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FN0znbTVEAAbxJ0.jpg",
+              "url": "https://t.co/oluKnl38lH",
+              "display_url": "pic.twitter.com/oluKnl38lH",
+              "expanded_url": "https://twitter.com/Leetasizan/status/1503414978870603777/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 828,
+                  "h": 908,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 620,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 828,
+                  "h": 908,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1503356183796539398,
+        "in_reply_to_status_id_str": "1503356183796539398",
+        "in_reply_to_user_id": 965843561106165760,
+        "in_reply_to_user_id_str": "965843561106165760",
+        "in_reply_to_screen_name": "Leetasizan",
+        "user": {
+          "id": 965843561106165760,
+          "id_str": "965843561106165760",
+          "name": "Li+Li",
+          "screen_name": "Leetasizan",
+          "location": "台北市, 台灣",
+          "description": "反任何平台被中國化反抗軍",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 8129,
+          "friends_count": 1959,
+          "listed_count": 47,
+          "created_at": "Tue Feb 20 07:00:24 +0000 2018",
+          "favourites_count": 74626,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 11955,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/965895704810934272/igLRp6bD_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/965895704810934272/igLRp6bD_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/965843561106165760/1520504026",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 207,
+        "favorite_count": 542,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 5,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1503414978870603777,
+    "quoted_status_id_str": "1503414978870603777",
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Mar 15 01:15:35 +0000 2022",
+    "id": 1503540379139784704,
+    "id_str": "1503540379139784704",
+    "text": "莫名其妙的意外頻傳，到底⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Mar 15 00:23:56 +0000 2022",
     "id": 1503527381524377600,
     "id_str": "1503527381524377600",
