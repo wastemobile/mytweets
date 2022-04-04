@@ -1,5 +1,860 @@
 Grailbird.data.tweets_2022_04 = [
   {
+    "created_at": "Mon Apr 04 01:36:43 +0000 2022",
+    "id": 1510793454535778312,
+    "id_str": "1510793454535778312",
+    "text": "一個台灣立法院外交國防委員會委員，上敵國媒體討論入侵台灣時什麼戰略比較有用。\n\n這真的太扯了。 https://t.co/BwTXi9ViZN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BwTXi9ViZN",
+          "expanded_url": "https://twitter.com/voacantonese/status/1510784218292359169",
+          "display_url": "twitter.com/voacantonese/s…",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1510784218292359169,
+    "quoted_status_id_str": "1510784218292359169",
+    "quoted_status": {
+      "created_at": "Mon Apr 04 01:00:01 +0000 2022",
+      "id": 1510784218292359169,
+      "id_str": "1510784218292359169",
+      "text": "台灣軍方借鑒烏克蘭抵抗俄軍模式研究全民皆兵打巷戰。前解放軍海軍司令部中校姚誠在海峽論談節目中分析，解放軍登陸後不會在台灣打巷戰，但可能會像圍困基輔或長春圍城那樣長期包圍台北和高雄，從中間切斷台灣、配合海上封鎖，以武逼降。完整節目：… https://t.co/y4DyEwpgrT",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/y4DyEwpgrT",
+            "expanded_url": "https://twitter.com/i/web/status/1510784218292359169",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 302347065,
+        "id_str": "302347065",
+        "name": "美國之音粵語網",
+        "screen_name": "voacantonese",
+        "location": "Washington DC (美國首都華盛頓)",
+        "description": "美國之音粵語網提供可靠新聞資訊及評論，著眼美國政經大事， 報導中港台消息，並聚焦國際要聞 － 係你嘅重要消息來源\nhttps://t.co/EBmc4Cfzs7 | https://t.co/4p28GaR5AI | https://t.co/x98zjGGbWk",
+        "url": "https://t.co/OPPzFiRRpF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OPPzFiRRpF",
+                "expanded_url": "http://voacantonese.com",
+                "display_url": "voacantonese.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/EBmc4Cfzs7",
+                "expanded_url": "http://facebook.com/voacantonese/",
+                "display_url": "facebook.com/voacantonese/",
+                "indices": [
+                  57,
+                  80
+                ]
+              },
+              {
+                "url": "https://t.co/4p28GaR5AI",
+                "expanded_url": "http://instagram.com/voacantonese/",
+                "display_url": "instagram.com/voacantonese/",
+                "indices": [
+                  83,
+                  106
+                ]
+              },
+              {
+                "url": "https://t.co/x98zjGGbWk",
+                "expanded_url": "http://youtube.com/voacantonese",
+                "display_url": "youtube.com/voacantonese",
+                "indices": [
+                  109,
+                  132
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 38819,
+        "friends_count": 228,
+        "listed_count": 343,
+        "created_at": "Sat May 21 01:28:12 +0000 2011",
+        "favourites_count": 32,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 94469,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186704970319650820/LNf93TZ8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186704970319650820/LNf93TZ8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/302347065/1622115678",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 18,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Apr 03 23:37:15 +0000 2022",
+    "id": 1510763390381150210,
+    "id_str": "1510763390381150210",
+    "text": "紐約公共圖書館系統廢除逾期罰款，回訪率增加9%～15%、數以萬計消失已久的書回籠，還收到一堆道歉信。大多數皆採郵寄或丟入還書箱。\n\n【Soul Monday】遲還不罰錢：讀者回來了，失書也出現了 https://t.co/zDJBPkJiir",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zDJBPkJiir",
+          "expanded_url": "https://bit.ly/3qZgdZy",
+          "display_url": "bit.ly/3qZgdZy",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Apr 03 16:19:42 +0000 2022",
+    "id": 1510653277767045126,
+    "id_str": "1510653277767045126",
+    "text": "RT @horsezhanbin: 他是一位乌克兰战地摄影师。他的Facebook停更于3.13，Instagram停更于3.11，4.1日发现尸体。死于战争，据说是两次枪击。他一直致力于人道主义摄影，说过「那个摄影师都希望拍到一张能阻止战争的照片」，战争开始时就呼吁让摄影师和…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "horsezhanbin",
+          "name": "horse",
+          "id": 750713,
+          "id_str": "750713",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Apr 03 11:42:30 +0000 2022",
+      "id": 1510583518643974144,
+      "id_str": "1510583518643974144",
+      "text": "他是一位乌克兰战地摄影师。他的Facebook停更于3.13，Instagram停更于3.11，4.1日发现尸体。死于战争，据说是两次枪击。他一直致力于人道主义摄影，说过「那个摄影师都希望拍到一张能阻止战争的照片」，战争开始时就呼… https://t.co/EUuKXfmffe",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EUuKXfmffe",
+            "expanded_url": "https://twitter.com/i/web/status/1510583518643974144",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 750713,
+        "id_str": "750713",
+        "name": "horse",
+        "screen_name": "horsezhanbin",
+        "location": "Tokyo-to, Japan",
+        "description": "七线公知。“每个人都闪耀独特光芒”。https://t.co/rfJeLW64Mw",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/rfJeLW64Mw",
+                "expanded_url": "https://opensea.io/collection/zhanbin-collection",
+                "display_url": "opensea.io/collection/zha…",
+                "indices": [
+                  18,
+                  41
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 18863,
+        "friends_count": 1012,
+        "listed_count": 211,
+        "created_at": "Sat Feb 03 07:25:33 +0000 2007",
+        "favourites_count": 3398,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 37817,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1499426930050801688/AIJjw09j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499426930050801688/AIJjw09j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/750713/1612353471",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1510576496548536327,
+      "quoted_status_id_str": "1510576496548536327",
+      "quoted_status": {
+        "created_at": "Sun Apr 03 11:14:36 +0000 2022",
+        "id": 1510576496548536327,
+        "id_str": "1510576496548536327",
+        "text": "Maksim Levin 在 instagram 照片里有一些很打动人，因为黑白，所以人物的动作很清晰，动作本身在对两个人的关系、情感做表达。此外，存在两个眼神，能看到更多的温柔，以及更深切的情感。 https://t.co/pgYv0iIeRh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+
+          ],
+          "media": [
+            {
+              "id": 1510576486570364930,
+              "id_str": "1510576486570364930",
+              "indices": [
+                100,
+                123
+              ],
+              "media_url": "http://pbs.twimg.com/media/FPalT6gVkAIwJF9.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FPalT6gVkAIwJF9.jpg",
+              "url": "https://t.co/pgYv0iIeRh",
+              "display_url": "pic.twitter.com/pgYv0iIeRh",
+              "expanded_url": "https://twitter.com/horsezhanbin/status/1510576496548536327/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 533,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1125,
+                  "h": 1434,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 941,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1510576486570364930,
+              "id_str": "1510576486570364930",
+              "indices": [
+                100,
+                123
+              ],
+              "media_url": "http://pbs.twimg.com/media/FPalT6gVkAIwJF9.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FPalT6gVkAIwJF9.jpg",
+              "url": "https://t.co/pgYv0iIeRh",
+              "display_url": "pic.twitter.com/pgYv0iIeRh",
+              "expanded_url": "https://twitter.com/horsezhanbin/status/1510576496548536327/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 533,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1125,
+                  "h": 1434,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 941,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1510576486574530565,
+              "id_str": "1510576486574530565",
+              "indices": [
+                100,
+                123
+              ],
+              "media_url": "http://pbs.twimg.com/media/FPalT6hVIAU8085.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FPalT6hVIAU8085.jpg",
+              "url": "https://t.co/pgYv0iIeRh",
+              "display_url": "pic.twitter.com/pgYv0iIeRh",
+              "expanded_url": "https://twitter.com/horsezhanbin/status/1510576496548536327/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 572,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1125,
+                  "h": 946,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1125,
+                  "h": 946,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1510576486599696393,
+              "id_str": "1510576486599696393",
+              "indices": [
+                100,
+                123
+              ],
+              "media_url": "http://pbs.twimg.com/media/FPalT6nVIAkviLY.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FPalT6nVIAkviLY.jpg",
+              "url": "https://t.co/pgYv0iIeRh",
+              "display_url": "pic.twitter.com/pgYv0iIeRh",
+              "expanded_url": "https://twitter.com/horsezhanbin/status/1510576496548536327/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1015,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1125,
+                  "h": 1330,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 575,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1510576486578679810,
+              "id_str": "1510576486578679810",
+              "indices": [
+                100,
+                123
+              ],
+              "media_url": "http://pbs.twimg.com/media/FPalT6iUcAIvUbK.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FPalT6iUcAIvUbK.jpg",
+              "url": "https://t.co/pgYv0iIeRh",
+              "display_url": "pic.twitter.com/pgYv0iIeRh",
+              "expanded_url": "https://twitter.com/horsezhanbin/status/1510576496548536327/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1047,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1125,
+                  "h": 1290,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 593,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 750713,
+          "id_str": "750713",
+          "name": "horse",
+          "screen_name": "horsezhanbin",
+          "location": "Tokyo-to, Japan",
+          "description": "七线公知。“每个人都闪耀独特光芒”。https://t.co/rfJeLW64Mw",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/rfJeLW64Mw",
+                  "expanded_url": "https://opensea.io/collection/zhanbin-collection",
+                  "display_url": "opensea.io/collection/zha…",
+                  "indices": [
+                    18,
+                    41
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 18863,
+          "friends_count": 1012,
+          "listed_count": 211,
+          "created_at": "Sat Feb 03 07:25:33 +0000 2007",
+          "favourites_count": 3398,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 37817,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "022330",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1499426930050801688/AIJjw09j_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499426930050801688/AIJjw09j_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/750713/1612353471",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "A8C7F7",
+          "profile_sidebar_fill_color": "C0DFEC",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 32,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 122,
+      "favorite_count": 250,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1510576496548536327,
+    "quoted_status_id_str": "1510576496548536327",
+    "retweet_count": 122,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Apr 03 16:19:03 +0000 2022",
+    "id": 1510653111857135619,
+    "id_str": "1510653111857135619",
+    "text": "RT @SpectatorTw: 【老梗玩不膩】\n看到雙北市長今天又在靠杯陳時中，白眼翻到腳踝，去年到現在，不知道是第幾次，這兩位滿腦只想當總統的人，又打算把爛攤，丟回去給CDC收拾善後\n.\n還記得去年雙北自己在那邊自作聰明的準四級封城嗎 ?\n.\n眼不眼熟 ? \n前天，侯友宜呼…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SpectatorTw",
+          "name": "TWSpectator",
+          "id": 1414775323330105344,
+          "id_str": "1414775323330105344",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Apr 03 14:03:16 +0000 2022",
+      "id": 1510618944129802246,
+      "id_str": "1510618944129802246",
+      "text": "【老梗玩不膩】\n看到雙北市長今天又在靠杯陳時中，白眼翻到腳踝，去年到現在，不知道是第幾次，這兩位滿腦只想當總統的人，又打算把爛攤，丟回去給CDC收拾善後\n.\n還記得去年雙北自己在那邊自作聰明的準四級封城嗎 ?\n.\n眼不眼熟 ?… https://t.co/Dam7SgJ1Y2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Dam7SgJ1Y2",
+            "expanded_url": "https://twitter.com/i/web/status/1510618944129802246",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1414775323330105344,
+        "id_str": "1414775323330105344",
+        "name": "TWSpectator",
+        "screen_name": "SpectatorTw",
+        "location": "Taiwan , Taipei city",
+        "description": "Group of Taiwanese , hoping our nation can be better by introducing ourselves from Tweets to international friends , fighting for freedom and democracy.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3769,
+        "friends_count": 125,
+        "listed_count": 22,
+        "created_at": "Tue Jul 13 02:35:31 +0000 2021",
+        "favourites_count": 1042,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 293,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414775589735600131/ClVHKxEX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414775589735600131/ClVHKxEX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414775323330105344/1647071929",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 71,
+      "favorite_count": 383,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 71,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Apr 03 04:50:46 +0000 2022",
     "id": 1510479901933010945,
     "id_str": "1510479901933010945",
