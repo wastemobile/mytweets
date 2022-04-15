@@ -1,5 +1,563 @@
 Grailbird.data.tweets_2022_04 = [
   {
+    "created_at": "Fri Apr 15 00:31:15 +0000 2022",
+    "id": 1514763246821027862,
+    "id_str": "1514763246821027862",
+    "text": "你這新瀏覽器也太貪婪了吧⋯⋯\n\nhttps://t.co/g5M8VoHRzT https://t.co/ozfER7pauB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g5M8VoHRzT",
+          "expanded_url": "https://www.mightyapp.com",
+          "display_url": "mightyapp.com",
+          "indices": [
+            16,
+            39
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1514763240068198432,
+          "id_str": "1514763240068198432",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQWFJCsVsCAM4uL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQWFJCsVsCAM4uL.jpg",
+          "url": "https://t.co/ozfER7pauB",
+          "display_url": "pic.twitter.com/ozfER7pauB",
+          "expanded_url": "https://twitter.com/wastemobile/status/1514763246821027862/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 643,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1134,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1270,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1514763240068198432,
+          "id_str": "1514763240068198432",
+          "indices": [
+            40,
+            63
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQWFJCsVsCAM4uL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQWFJCsVsCAM4uL.jpg",
+          "url": "https://t.co/ozfER7pauB",
+          "display_url": "pic.twitter.com/ozfER7pauB",
+          "expanded_url": "https://twitter.com/wastemobile/status/1514763246821027862/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 643,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1134,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1270,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 15 00:17:34 +0000 2022",
+    "id": 1514759802223702035,
+    "id_str": "1514759802223702035",
+    "text": "RT @serpentza: When the government lies to you and says it'll just be a 5 day lockdown and then locks everyone down indefinitely with no wa…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "serpentza",
+          "name": "Winston Sterzel",
+          "id": 223459075,
+          "id_str": "223459075",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Apr 12 22:12:13 +0000 2022",
+      "id": 1514003482268688385,
+      "id_str": "1514003482268688385",
+      "text": "When the government lies to you and says it'll just be a 5 day lockdown and then locks everyone down indefinitely w… https://t.co/S6grC0vf23",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/S6grC0vf23",
+            "expanded_url": "https://twitter.com/i/web/status/1514003482268688385",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 223459075,
+        "id_str": "223459075",
+        "name": "Winston Sterzel",
+        "screen_name": "serpentza",
+        "location": "Shenzhen, China",
+        "description": "China, Adventure, Bikes and Beer",
+        "url": "https://t.co/CvB2hZxg3R",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/CvB2hZxg3R",
+                "expanded_url": "http://www.advchina.net",
+                "display_url": "advchina.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 25312,
+        "friends_count": 138,
+        "listed_count": 162,
+        "created_at": "Mon Dec 06 13:08:21 +0000 2010",
+        "favourites_count": 6516,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6948,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000860482238/Ips1ssCz_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000860482238/Ips1ssCz_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/223459075/1634583868",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 77,
+      "favorite_count": 272,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 77,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Apr 14 23:58:14 +0000 2022",
+    "id": 1514754938957557760,
+    "id_str": "1514754938957557760",
+    "text": "很好看的一篇文章。\n\n您今天的 Uber Eats 訂單將由 修澤 外送──專訪音樂人／外送員陳修澤，關於那團，關於脆弱 https://t.co/eFbllyhZco https://t.co/d94k7h6tjD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eFbllyhZco",
+          "expanded_url": "https://bit.ly/3EfWfPK",
+          "display_url": "bit.ly/3EfWfPK",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1514754931911143425,
+          "id_str": "1514754931911143425",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQV9lcZVsAEAIi7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQV9lcZVsAEAIi7.jpg",
+          "url": "https://t.co/d94k7h6tjD",
+          "display_url": "pic.twitter.com/d94k7h6tjD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1514754938957557760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1514754931911143425,
+          "id_str": "1514754931911143425",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/FQV9lcZVsAEAIi7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FQV9lcZVsAEAIi7.jpg",
+          "url": "https://t.co/d94k7h6tjD",
+          "display_url": "pic.twitter.com/d94k7h6tjD",
+          "expanded_url": "https://twitter.com/wastemobile/status/1514754938957557760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 14 20:04:00 +0000 2022",
+    "id": 1514695989990363137,
+    "id_str": "1514695989990363137",
+    "text": "https://t.co/iY1lAJAOhQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1493354944006553603,
+          "id_str": "1493354944006553603",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLl2aNEVgAMI1hY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLl2aNEVgAMI1hY.jpg",
+          "url": "https://t.co/iY1lAJAOhQ",
+          "display_url": "pic.twitter.com/iY1lAJAOhQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1514695989990363137/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 495,
+              "h": 680,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 495,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 495,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1493354944006553603,
+          "id_str": "1493354944006553603",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/FLl2aNEVgAMI1hY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FLl2aNEVgAMI1hY.jpg",
+          "url": "https://t.co/iY1lAJAOhQ",
+          "display_url": "pic.twitter.com/iY1lAJAOhQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1514695989990363137/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 495,
+              "h": 680,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 495,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 495,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
     "created_at": "Thu Apr 14 12:39:17 +0000 2022",
     "id": 1514584074010042368,
     "id_str": "1514584074010042368",
