@@ -1,5 +1,475 @@
 Grailbird.data.tweets_2022_04 = [
   {
+    "created_at": "Sat Apr 30 00:02:36 +0000 2022",
+    "id": 1520191852212670464,
+    "id_str": "1520191852212670464",
+    "text": "RT @KHeresy: 駭客戳破謊言，大疆承認旗下產品資料傳輸沒加密\nhttps://t.co/muH5EySh2v\n&gt; 該公司發言人 Adam Liseberg 聲明指出，先前位於深圳總部的工程團隊向他聲明，無人機與 AeroSpace 之間的傳輸具有加密功能，但經內部調查…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "KHeresy",
+          "name": "KHeresy",
+          "id": 16665512,
+          "id_str": "16665512",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/muH5EySh2v",
+          "expanded_url": "https://technews.tw/2022/04/29/dji-admitted-its-drones-are-not-encrypted/",
+          "display_url": "technews.tw/2022/04/29/dji…",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 29 03:50:57 +0000 2022",
+      "id": 1519886934012661760,
+      "id_str": "1519886934012661760",
+      "text": "駭客戳破謊言，大疆承認旗下產品資料傳輸沒加密\nhttps://t.co/muH5EySh2v\n&gt; 該公司發言人 Adam Liseberg 聲明指出，先前位於深圳總部的工程團隊向他聲明，無人機與 AeroSpace 之間的傳輸具有… https://t.co/rAHqfrojig",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/muH5EySh2v",
+            "expanded_url": "https://technews.tw/2022/04/29/dji-admitted-its-drones-are-not-encrypted/",
+            "display_url": "technews.tw/2022/04/29/dji…",
+            "indices": [
+              23,
+              46
+            ]
+          },
+          {
+            "url": "https://t.co/rAHqfrojig",
+            "expanded_url": "https://twitter.com/i/web/status/1519886934012661760",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16665512,
+        "id_str": "16665512",
+        "name": "KHeresy",
+        "screen_name": "KHeresy",
+        "location": "Taiwan",
+        "description": "",
+        "url": "https://t.co/hMR5e3yCZM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/hMR5e3yCZM",
+                "expanded_url": "http://kheresy.wordpress.com/",
+                "display_url": "kheresy.wordpress.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 459,
+        "friends_count": 99,
+        "listed_count": 26,
+        "created_at": "Thu Oct 09 12:53:07 +0000 2008",
+        "favourites_count": 2488,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 57953,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1057181124827373568/ZVnJ6TRg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057181124827373568/ZVnJ6TRg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16665512/1643177774",
+        "profile_link_color": "661166",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 34,
+      "favorite_count": 46,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 34,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 29 23:27:00 +0000 2022",
+    "id": 1520182894114738176,
+    "id_str": "1520182894114738176",
+    "text": "今天（4/30）是美國的「獨立書店日」，2015年才開始的一個行銷派對日吧，但有任何機會去小獨立書店逛逛都很好。\n\n據說位於葡萄牙里斯本的 Livraria Bertrand 是目前最古老、仍在運營的書店。\n\nIndependen… https://t.co/oGZvJIR8qB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oGZvJIR8qB",
+          "expanded_url": "https://twitter.com/i/web/status/1520182894114738176",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 29 23:09:25 +0000 2022",
+    "id": 1520178470449410049,
+    "id_str": "1520178470449410049",
+    "text": "電視新聞採訪猶豫給兒童打莫德納的家長，說「因為馬上要進BNT兒童疫苗了嘛，所以再想一下」。\n\n兩者公布兒童打疫苗三期實驗結果只差一個月；輝瑞另以橘瓶包裝，讓大家直接以兒童疫苗稱呼，但就是劑量不同的現有疫苗。\n\n不得不說輝瑞比較會做… https://t.co/8kYuqza8XN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8kYuqza8XN",
+          "expanded_url": "https://twitter.com/i/web/status/1520178470449410049",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 29 15:31:14 +0000 2022",
+    "id": 1520063163630178305,
+    "id_str": "1520063163630178305",
+    "text": "RT @dw_chinese: 近日台湾单日新冠确诊数破万，虽然超过99%都是轻症，仍引起民众恐惧心理，快筛供不应求。\n\n台湾有民意代表呼吁进口“台币30元的德国唾液快筛”，并称德国人“几乎每天快筛才出门”，但这与事实似乎有一定差距。\n\nhttps://t.co/OB5AvPm…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dw_chinese",
+          "name": "DW 中文- 德国之声",
+          "id": 143810986,
+          "id_str": "143810986",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Apr 29 04:08:32 +0000 2022",
+      "id": 1519891357191520256,
+      "id_str": "1519891357191520256",
+      "text": "近日台湾单日新冠确诊数破万，虽然超过99%都是轻症，仍引起民众恐惧心理，快筛供不应求。\n\n台湾有民意代表呼吁进口“台币30元的德国唾液快筛”，并称德国人“几乎每天快筛才出门”，但这与事实似乎有一定差距。\n\nhttps://t.co/OB5AvPmsrb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OB5AvPmsrb",
+            "expanded_url": "https://p.dw.com/p/4Aaw0",
+            "display_url": "p.dw.com/p/4Aaw0",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 143810986,
+        "id_str": "143810986",
+        "name": "DW 中文- 德国之声",
+        "screen_name": "dw_chinese",
+        "location": "德国 波恩",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3b5BX",
+        "url": "https://t.co/MJXQ2XnZSu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/MJXQ2XnZSu",
+                "expanded_url": "http://www.dw.com/chinese",
+                "display_url": "dw.com/chinese",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/sd6bL3b5BX",
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "display_url": "bit.ly/dwlegalnotice",
+                "indices": [
+                  83,
+                  106
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 681350,
+        "friends_count": 12,
+        "listed_count": 3608,
+        "created_at": "Fri May 14 13:16:33 +0000 2010",
+        "favourites_count": 118,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 61324,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F4F2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/905053498173214721/3PZLD_5D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/905053498173214721/3PZLD_5D_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143810986/1635513807",
+        "profile_link_color": "0099FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E8E8E8",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 25,
+      "favorite_count": 90,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 29 03:54:46 +0000 2022",
     "id": 1519887894369869825,
     "id_str": "1519887894369869825",
