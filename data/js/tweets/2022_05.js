@@ -1,5 +1,675 @@
 Grailbird.data.tweets_2022_05 = [
   {
+    "created_at": "Sat May 07 01:23:57 +0000 2022",
+    "id": 1522749040823209984,
+    "id_str": "1522749040823209984",
+    "text": "查一下附近的社區篩檢站（診所）先記下來，以應不時之需。 https://t.co/c8lrar4mrR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/c8lrar4mrR",
+          "expanded_url": "https://twitter.com/tw_nextmedia/status/1522748147356684288",
+          "display_url": "twitter.com/tw_nextmedia/s…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1522748147356684288,
+    "quoted_status_id_str": "1522748147356684288",
+    "quoted_status": {
+      "created_at": "Sat May 07 01:20:24 +0000 2022",
+      "id": 1522748147356684288,
+      "id_str": "1522748147356684288",
+      "text": "懶人包｜快篩陽別慌！PCR採檢站全台地圖上線　190家診所一鍵查　\n#PCR #採檢站 # #懶人包 #蘋果生活 #新型冠狀病毒 #新冠肺炎 #防疫 #疫情 #COVID19 #蘋果新聞網 #appledailytw… https://t.co/mOTCTv9d0e",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PCR",
+            "indices": [
+              34,
+              38
+            ]
+          },
+          {
+            "text": "採檢站",
+            "indices": [
+              39,
+              43
+            ]
+          },
+          {
+            "text": "懶人包",
+            "indices": [
+              46,
+              50
+            ]
+          },
+          {
+            "text": "蘋果生活",
+            "indices": [
+              51,
+              56
+            ]
+          },
+          {
+            "text": "新型冠狀病毒",
+            "indices": [
+              57,
+              64
+            ]
+          },
+          {
+            "text": "新冠肺炎",
+            "indices": [
+              65,
+              70
+            ]
+          },
+          {
+            "text": "防疫",
+            "indices": [
+              71,
+              74
+            ]
+          },
+          {
+            "text": "疫情",
+            "indices": [
+              75,
+              78
+            ]
+          },
+          {
+            "text": "COVID19",
+            "indices": [
+              79,
+              87
+            ]
+          },
+          {
+            "text": "蘋果新聞網",
+            "indices": [
+              88,
+              94
+            ]
+          },
+          {
+            "text": "appledailytw",
+            "indices": [
+              95,
+              108
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mOTCTv9d0e",
+            "expanded_url": "https://twitter.com/i/web/status/1522748147356684288",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 40813384,
+        "id_str": "40813384",
+        "name": "蘋果新聞網 Taiwan News",
+        "screen_name": "TW_nextmedia",
+        "location": "Taipei, Taiwan ROC",
+        "description": "為台灣本地和世界華人帶來最新的新聞娛樂資訊！Apple Daily is the largest news media group in Taiwan with live streaming, breaking news and animated news for local and global readers.",
+        "url": "https://t.co/atmHp4v8k7",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/atmHp4v8k7",
+                "expanded_url": "https://tw.appledaily.com/",
+                "display_url": "tw.appledaily.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1118758,
+        "friends_count": 193,
+        "listed_count": 2737,
+        "created_at": "Mon May 18 04:28:58 +0000 2009",
+        "favourites_count": 5646,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 164392,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112587213059944449/Rh90ddXN_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/40813384/1564537596",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 07 00:55:28 +0000 2022",
+    "id": 1522741873550381056,
+    "id_str": "1522741873550381056",
+    "text": "不允許小學生閱讀（類似分級、適齡），與「禁書」是截然不同的概念，這篇報導、以及事件本身，都有打混戰之嫌。 https://t.co/wzHgyCypQ8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wzHgyCypQ8",
+          "expanded_url": "https://twitter.com/thenewslens/status/1522739319425073152",
+          "display_url": "twitter.com/thenewslens/st…",
+          "indices": [
+            53,
+            76
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1522739319425073152,
+    "quoted_status_id_str": "1522739319425073152",
+    "quoted_status": {
+      "created_at": "Sat May 07 00:45:19 +0000 2022",
+      "id": 1522739319425073152,
+      "id_str": "1522739319425073152",
+      "text": "#學校不給你看的這裡都有 這張特別的借書證，上面用黃底紅字斗大的寫著「我讀禁書」，為的是回擊不斷升級的圖書審查，其中一本《鼠族》被禁的理由是，是書中出現八句髒話和裸女繪畫，但田納西州只是全美禁書運動的冰山一角……..\n\n#美國… https://t.co/4v50HOsbdD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "學校不給你看的這裡都有",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "text": "美國",
+            "indices": [
+              110,
+              113
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4v50HOsbdD",
+            "expanded_url": "https://twitter.com/i/web/status/1522739319425073152",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1565291311,
+        "id_str": "1565291311",
+        "name": "The News Lens",
+        "screen_name": "thenewslens",
+        "location": "Taiwan",
+        "description": "The News Lens 是一個媒體實驗。希望能夠提供多元、不同面向的觀點，讓一個事件有不同的切入角度，並讓社交網路世代的使用者，能夠更輕鬆的分享、討論和參與他們有興趣的議題。",
+        "url": "https://t.co/iH8E1UJF3L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/iH8E1UJF3L",
+                "expanded_url": "https://www.thenewslens.com/",
+                "display_url": "thenewslens.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 16130,
+        "friends_count": 79,
+        "listed_count": 277,
+        "created_at": "Wed Jul 03 08:54:12 +0000 2013",
+        "favourites_count": 939,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 53984,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1260743228975837189/uTNpuiIx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260743228975837189/uTNpuiIx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565291311/1583117228",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 06 15:26:20 +0000 2022",
+    "id": 1522598646973313025,
+    "id_str": "1522598646973313025",
+    "text": "其實我只是想看 Morena Baccarin，但發現《終局（The Endgame）》還蠻好看的～\n\nhttps://t.co/dRWzjpP3H6 https://t.co/LsvnKeBxY6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dRWzjpP3H6",
+          "expanded_url": "https://imdb.to/3w2tMJm",
+          "display_url": "imdb.to/3w2tMJm",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1522598639549382658,
+          "id_str": "1522598639549382658",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/FSFbZUXVgAIifps.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FSFbZUXVgAIifps.jpg",
+          "url": "https://t.co/LsvnKeBxY6",
+          "display_url": "pic.twitter.com/LsvnKeBxY6",
+          "expanded_url": "https://twitter.com/wastemobile/status/1522598646973313025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1350,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1522598639549382658,
+          "id_str": "1522598639549382658",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/FSFbZUXVgAIifps.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FSFbZUXVgAIifps.jpg",
+          "url": "https://t.co/LsvnKeBxY6",
+          "display_url": "pic.twitter.com/LsvnKeBxY6",
+          "expanded_url": "https://twitter.com/wastemobile/status/1522598646973313025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1350,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 06 09:57:01 +0000 2022",
+    "id": 1522515770856550400,
+    "id_str": "1522515770856550400",
+    "text": "@thecat 是給種子喔，得下載才能驗證⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1522515418908602368,
+    "in_reply_to_status_id_str": "1522515418908602368",
+    "in_reply_to_user_id": 807633,
+    "in_reply_to_user_id_str": "807633",
+    "in_reply_to_screen_name": "thecat",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 06 09:54:20 +0000 2022",
+    "id": 1522515096416571394,
+    "id_str": "1522515096416571394",
+    "text": "《德黑蘭行動》第二季在 Apple TV+ 上線了，只有前面兩集，之後似乎是每週更新。\n\n但看到盜版網站居然一次釋出全季 8 集!? 為何？？？\n\nhttps://t.co/Cv967femJQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Cv967femJQ",
+          "expanded_url": "https://apple.co/3vP7gFd",
+          "display_url": "apple.co/3vP7gFd",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1327437493419929601,
+    "in_reply_to_status_id_str": "1327437493419929601",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri May 06 02:01:02 +0000 2022",
     "id": 1522395985418235904,
     "id_str": "1522395985418235904",
