@@ -1,5 +1,161 @@
 Grailbird.data.tweets_2022_05 = [
   {
+    "created_at": "Fri May 13 00:52:33 +0000 2022",
+    "id": 1524915467814547456,
+    "id_str": "1524915467814547456",
+    "text": "主要負責 Coinbase NFT 平台開發的產品長  Surojit Chatterjee 在 2020 年的薪資為 6.26 億美元。\n\n這平台絕對會有超乎想像的割韭菜速率對吧？\n\nCoinbase Q1 虧損原因速覽：「對不… https://t.co/vuy5i4Y1Gi",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vuy5i4Y1Gi",
+          "expanded_url": "https://twitter.com/i/web/status/1524915467814547456",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 12 06:48:58 +0000 2022",
+    "id": 1524642775039287296,
+    "id_str": "1524642775039287296",
+    "text": "唉，中央徵求診所提供 PCR 檢測、降低去大醫院塞急診的必要與風險，結果之前查詢到的地區診所被鄰居抗議，現在已經取消，地圖上找不到了。\n\n同島一命個屁，這是同歸於盡吧。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "favorite_count": 228,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 12 03:19:17 +0000 2022",
+    "id": 1524590007570235394,
+    "id_str": "1524590007570235394",
+    "text": "所以國際書展參展廠商若超過 6 成表示希望延期或停辦，文化部就會順從大家意見。\n\n然後大家第一個詢問的其實是「停辦有沒有補助？」去年有廠商拿完補助後發現書展沒辦成、居然還小賺一點⋯⋯XD\n\nhttps://t.co/pB61PZfPvL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pB61PZfPvL",
+          "expanded_url": "https://bit.ly/3PdNVFk",
+          "display_url": "bit.ly/3PdNVFk",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu May 12 02:02:14 +0000 2022",
     "id": 1524570615230844929,
     "id_str": "1524570615230844929",
