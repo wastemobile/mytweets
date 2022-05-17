@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2022_05 = [
   {
+    "created_at": "Tue May 17 01:32:59 +0000 2022",
+    "id": 1526375194259910657,
+    "id_str": "1526375194259910657",
+    "text": "Regolith 2.0 Linux 發行版還沒釋出，但可以先將系統 sudo do-release-upgrade 升級、添加 Regolith 套件倉儲，安裝 Regolith 2.0 Desktop beta 套件，重啟後就… https://t.co/qKcViwodhO",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qKcViwodhO",
+          "expanded_url": "https://twitter.com/i/web/status/1526375194259910657",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun May 15 01:46:11 +0000 2022",
     "id": 1525653741428281344,
     "id_str": "1525653741428281344",
