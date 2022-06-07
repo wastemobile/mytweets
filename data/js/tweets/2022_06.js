@@ -1,5 +1,1324 @@
 Grailbird.data.tweets_2022_06 = [
   {
+    "created_at": "Tue Jun 07 22:49:46 +0000 2022",
+    "id": 1534306652173656064,
+    "id_str": "1534306652173656064",
+    "text": "英國 18 世紀哲人大衛．休謨著名的「無賴假設原則」：\n「在設計政府制度，並修正使其平衡與制約的時候，必須把每一個人都假設為無賴。無賴所有的行動，除謀私利，別無他求。」\n\n#knave\n\n唐明：令人摸不著頭腦的無賴邏輯 https://t.co/9aJyXcpO5B",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "knave",
+          "indices": [
+            86,
+            92
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9aJyXcpO5B",
+          "expanded_url": "https://bit.ly/3mogCSD",
+          "display_url": "bit.ly/3mogCSD",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 07 22:34:56 +0000 2022",
+    "id": 1534302919918493698,
+    "id_str": "1534302919918493698",
+    "text": "許多出版社因疫情考量、自行退出台北國際書展；而將在 7 月下旬舉辦的香港書展，山道文化、蜂鳥出版、有種文化等曾出版社運書籍的出版社，根本拿不到攤位、無法參展。\n\n高下立判。\n\n鄧小樺：2022台北書展，亂世與封鎖中的耕耘… https://t.co/x2tAwwBfRC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/x2tAwwBfRC",
+          "expanded_url": "https://twitter.com/i/web/status/1534302919918493698",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 07 14:53:57 +0000 2022",
+    "id": 1534186908758093825,
+    "id_str": "1534186908758093825",
+    "text": "@superbil 果然得重新規劃桌面⋯⋯（大失血",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "superbil",
+          "name": "Φ ω Φ 🕳️ Sgr A*",
+          "id": 6134752,
+          "id_str": "6134752",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1534185898643845121,
+    "in_reply_to_status_id_str": "1534185898643845121",
+    "in_reply_to_user_id": 6134752,
+    "in_reply_to_user_id_str": "6134752",
+    "in_reply_to_screen_name": "superbil",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 07 14:48:49 +0000 2022",
+    "id": 1534185615884886016,
+    "id_str": "1534185615884886016",
+    "text": "@yikeouch 應該還能用啦，就只是無法升級 macOS 13。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yikeouch",
+          "name": "好痛呀呸",
+          "id": 15860253,
+          "id_str": "15860253",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1534184755763515392,
+    "in_reply_to_status_id_str": "1534184755763515392",
+    "in_reply_to_user_id": 15860253,
+    "in_reply_to_user_id_str": "15860253",
+    "in_reply_to_screen_name": "yikeouch",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 07 14:47:57 +0000 2022",
+    "id": 1534185397621731328,
+    "id_str": "1534185397621731328",
+    "text": "@superbil 我是 2009（或2010） iMac 27” 換到 2015 Late iMac，然後一直都外接一台外接 27” 組雙螢幕，24” 就會看起來不均衡呀⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "superbil",
+          "name": "Φ ω Φ 🕳️ Sgr A*",
+          "id": 6134752,
+          "id_str": "6134752",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1534184260675874816,
+    "in_reply_to_status_id_str": "1534184260675874816",
+    "in_reply_to_user_id": 6134752,
+    "in_reply_to_user_id_str": "6134752",
+    "in_reply_to_screen_name": "superbil",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 07 14:41:53 +0000 2022",
+    "id": 1534183870077149185,
+    "id_str": "1534183870077149185",
+    "text": "@superbil 這是變相漲價！！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "superbil",
+          "name": "Φ ω Φ 🕳️ Sgr A*",
+          "id": 6134752,
+          "id_str": "6134752",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1534183111864397824,
+    "in_reply_to_status_id_str": "1534183111864397824",
+    "in_reply_to_user_id": 6134752,
+    "in_reply_to_user_id_str": "6134752",
+    "in_reply_to_screen_name": "superbil",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 07 14:34:00 +0000 2022",
+    "id": 1534181887509295104,
+    "id_str": "1534181887509295104",
+    "text": "剛剛才補完 WWDC，赫然發現今年秋季要釋出的 macOS 13 Ventura，拋棄了目前仍爽爽服役中的 iMac 27” Late 2015 款，也就是說我必須認真規劃升級了⋯⋯\n\n但沒有新的 27” iMac 呀？？？ https://t.co/0a0MF7jvM1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0a0MF7jvM1",
+          "expanded_url": "https://twitter.com/lifehacker/status/1534180016941985792",
+          "display_url": "twitter.com/lifehacker/sta…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1534180016941985792,
+    "quoted_status_id_str": "1534180016941985792",
+    "quoted_status": {
+      "created_at": "Tue Jun 07 14:26:34 +0000 2022",
+      "id": 1534180016941985792,
+      "id_str": "1534180016941985792",
+      "text": "How to Install the macOS 13 Ventura Developer Beta https://t.co/a4CFgUxGy7 https://t.co/REUipLS5HO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/a4CFgUxGy7",
+            "expanded_url": "http://dlvr.it/SRmX8w",
+            "display_url": "dlvr.it/SRmX8w",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1534180014488309760,
+            "id_str": "1534180014488309760",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/media/FUqAmEEUUAAnZ8h.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FUqAmEEUUAAnZ8h.jpg",
+            "url": "https://t.co/REUipLS5HO",
+            "display_url": "pic.twitter.com/REUipLS5HO",
+            "expanded_url": "https://twitter.com/lifehacker/status/1534180016941985792/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1534180014488309760,
+            "id_str": "1534180014488309760",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/media/FUqAmEEUUAAnZ8h.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FUqAmEEUUAAnZ8h.jpg",
+            "url": "https://t.co/REUipLS5HO",
+            "display_url": "pic.twitter.com/REUipLS5HO",
+            "expanded_url": "https://twitter.com/lifehacker/status/1534180016941985792/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7144422,
+        "id_str": "7144422",
+        "name": "Lifehacker",
+        "screen_name": "lifehacker",
+        "location": "",
+        "description": "Do everything better.",
+        "url": "https://t.co/XvZbDRnyM0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/XvZbDRnyM0",
+                "expanded_url": "http://lifehacker.com",
+                "display_url": "lifehacker.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3920820,
+        "friends_count": 249,
+        "listed_count": 32831,
+        "created_at": "Fri Jun 29 03:44:14 +0000 2007",
+        "favourites_count": 957,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 103796,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "F8FAF0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145680063289077762/CBL8kAhT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145680063289077762/CBL8kAhT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7144422/1578605671",
+        "profile_link_color": "94B330",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DCE4B2",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 07 14:08:13 +0000 2022",
+    "id": 1534175401517322241,
+    "id_str": "1534175401517322241",
+    "text": "老實說，我支持所有遺體都在 24 小時內火化，包含我自己的。\n\n活著的人還有太多麻煩事要處理了，這真的可以省略。\n\n#應該算地獄梗",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "應該算地獄梗",
+          "indices": [
+            58,
+            65
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 07 12:08:27 +0000 2022",
+    "id": 1534145260883890176,
+    "id_str": "1534145260883890176",
+    "text": "RT @Intervain: whoever designed this packaging deserves a gold star... https://t.co/23McFRNw6S",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Intervain",
+          "name": "Magdalena",
+          "id": 23871012,
+          "id_str": "23871012",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1533820995806560256,
+          "id_str": "1533820995806560256",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/FUk6EbQWAAAibne.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FUk6EbQWAAAibne.jpg",
+          "url": "https://t.co/23McFRNw6S",
+          "display_url": "pic.twitter.com/23McFRNw6S",
+          "expanded_url": "https://twitter.com/Intervain/status/1533821024130695172/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 700,
+              "h": 700,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 700,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1533821024130695172,
+          "source_status_id_str": "1533821024130695172",
+          "source_user_id": 23871012,
+          "source_user_id_str": "23871012"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1533820995806560256,
+          "id_str": "1533820995806560256",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/FUk6EbQWAAAibne.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FUk6EbQWAAAibne.jpg",
+          "url": "https://t.co/23McFRNw6S",
+          "display_url": "pic.twitter.com/23McFRNw6S",
+          "expanded_url": "https://twitter.com/Intervain/status/1533821024130695172/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 700,
+              "h": 700,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 700,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1533821024130695172,
+          "source_status_id_str": "1533821024130695172",
+          "source_user_id": 23871012,
+          "source_user_id_str": "23871012"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 06 14:40:03 +0000 2022",
+      "id": 1533821024130695172,
+      "id_str": "1533821024130695172",
+      "text": "whoever designed this packaging deserves a gold star... https://t.co/23McFRNw6S",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1533820995806560256,
+            "id_str": "1533820995806560256",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/FUk6EbQWAAAibne.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FUk6EbQWAAAibne.jpg",
+            "url": "https://t.co/23McFRNw6S",
+            "display_url": "pic.twitter.com/23McFRNw6S",
+            "expanded_url": "https://twitter.com/Intervain/status/1533821024130695172/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 700,
+                "h": 700,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 700,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1533820995806560256,
+            "id_str": "1533820995806560256",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/FUk6EbQWAAAibne.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FUk6EbQWAAAibne.jpg",
+            "url": "https://t.co/23McFRNw6S",
+            "display_url": "pic.twitter.com/23McFRNw6S",
+            "expanded_url": "https://twitter.com/Intervain/status/1533821024130695172/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 700,
+                "h": 700,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 700,
+                "h": 700,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23871012,
+        "id_str": "23871012",
+        "name": "Magdalena",
+        "screen_name": "Intervain",
+        "location": "Montreal, Canada",
+        "description": "🦋🌻Character Artist at Blur Studio... opinions are my own.🌻🦋",
+        "url": "https://t.co/nN0GLqS9uS",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/nN0GLqS9uS",
+                "expanded_url": "https://linktr.ee/Intervain",
+                "display_url": "linktr.ee/Intervain",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13522,
+        "friends_count": 1901,
+        "listed_count": 211,
+        "created_at": "Thu Mar 12 01:37:45 +0000 2009",
+        "favourites_count": 23368,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 21597,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "07090B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1521643622847893505/aoZxcS6H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1521643622847893505/aoZxcS6H_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23871012/1644642470",
+        "profile_link_color": "120302",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C9C9C9",
+        "profile_text_color": "1C1F23",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 544,
+      "favorite_count": 3968,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 544,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 07 08:42:36 +0000 2022",
+    "id": 1534093453641912321,
+    "id_str": "1534093453641912321",
+    "text": "安裝之後首次接觸，單純紀念一下。 https://t.co/0xTggbAzbz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1534093447191179264,
+          "id_str": "1534093447191179264",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/FUox3LwVsAAq6DN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FUox3LwVsAAq6DN.jpg",
+          "url": "https://t.co/0xTggbAzbz",
+          "display_url": "pic.twitter.com/0xTggbAzbz",
+          "expanded_url": "https://twitter.com/wastemobile/status/1534093453641912321/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1534093447191179264,
+          "id_str": "1534093447191179264",
+          "indices": [
+            17,
+            40
+          ],
+          "media_url": "http://pbs.twimg.com/media/FUox3LwVsAAq6DN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FUox3LwVsAAq6DN.jpg",
+          "url": "https://t.co/0xTggbAzbz",
+          "display_url": "pic.twitter.com/0xTggbAzbz",
+          "expanded_url": "https://twitter.com/wastemobile/status/1534093453641912321/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 07 07:23:11 +0000 2022",
+    "id": 1534073468832034823,
+    "id_str": "1534073468832034823",
+    "text": "RT @wnmedia_tw: #DMA 發表去年台灣 #數位廣告量 調查，其重點觀察為👀整體市場規模達到544.3億🔥成長率回到兩位數達12.8% #社交媒體 平台總金額達206.6億，而持續增長的 #影音廣告 ，去年成長率來到21.1%，依產業別來看 #電商 仍是投資金額最…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DMA",
+          "indices": [
+            16,
+            20
+          ]
+        },
+        {
+          "text": "數位廣告量",
+          "indices": [
+            28,
+            34
+          ]
+        },
+        {
+          "text": "社交媒體",
+          "indices": [
+            75,
+            80
+          ]
+        },
+        {
+          "text": "影音廣告",
+          "indices": [
+            101,
+            106
+          ]
+        },
+        {
+          "text": "電商",
+          "indices": [
+            128,
+            131
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "wnmedia_tw",
+          "name": "潮網科技",
+          "id": 1341970195,
+          "id_str": "1341970195",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 07 07:01:23 +0000 2022",
+      "id": 1534067981554446336,
+      "id_str": "1534067981554446336",
+      "text": "#DMA 發表去年台灣 #數位廣告量 調查，其重點觀察為👀整體市場規模達到544.3億🔥成長率回到兩位數達12.8% #社交媒體 平台總金額達206.6億，而持續增長的 #影音廣告 ，去年成長率來到21.1%，依產業別來看 #電商… https://t.co/KL2DyqME2h",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "DMA",
+            "indices": [
+              0,
+              4
+            ]
+          },
+          {
+            "text": "數位廣告量",
+            "indices": [
+              12,
+              18
+            ]
+          },
+          {
+            "text": "社交媒體",
+            "indices": [
+              59,
+              64
+            ]
+          },
+          {
+            "text": "影音廣告",
+            "indices": [
+              85,
+              90
+            ]
+          },
+          {
+            "text": "電商",
+            "indices": [
+              112,
+              115
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KL2DyqME2h",
+            "expanded_url": "https://twitter.com/i/web/status/1534067981554446336",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1341970195,
+        "id_str": "1341970195",
+        "name": "潮網科技",
+        "screen_name": "wnmedia_tw",
+        "location": "台北 上海 廣州 深圳 馬來西亞 東京",
+        "description": "潮網科技廣泛佈網數位媒體全球化潮流、貫穿AdTech廣告科技及MarTech行銷數據領域、致力於電商科學化運營及智慧商機開發的New SaaS公司，自主研發【PUNWAVE】系列產品，為企業重整數據，提供一站式解決方案，同時具多項媒體代理資格，專業操作十多種媒體。\n\n業務諮詢專線：+886-2-23660699",
+        "url": "https://t.co/QAzz6DUHcc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/QAzz6DUHcc",
+                "expanded_url": "http://www.wavenet.com.tw/",
+                "display_url": "wavenet.com.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 207,
+        "friends_count": 90,
+        "listed_count": 4,
+        "created_at": "Wed Apr 10 13:47:26 +0000 2013",
+        "favourites_count": 222,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 569,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1077505924724514817/-bnlxLsA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1077505924724514817/-bnlxLsA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1341970195/1652262354",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jun 07 00:47:30 +0000 2022",
     "id": 1533973891290308610,
     "id_str": "1533973891290308610",
