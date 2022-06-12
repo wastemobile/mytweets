@@ -1,5 +1,51 @@
 Grailbird.data.tweets_2022_06 = [
   {
+    "created_at": "Sun Jun 12 03:45:27 +0000 2022",
+    "id": 1535830614913568768,
+    "id_str": "1535830614913568768",
+    "text": "剝了幾個玉荷包吃，真是又甜水又多，種子還異常的小，跟小時候的印象不太一樣，但完全沒有欣喜之意，腦中 OS 是：\n\n「所以你們也都是被人類私慾改造過的基因小怪物對吧？」\n\n該看醫生了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 12 02:22:53 +0000 2022",
     "id": 1535809836406886400,
     "id_str": "1535809836406886400",
