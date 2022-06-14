@@ -1,5 +1,423 @@
 Grailbird.data.tweets_2022_06 = [
   {
+    "created_at": "Tue Jun 14 01:02:47 +0000 2022",
+    "id": 1536514452010307584,
+    "id_str": "1536514452010307584",
+    "text": "英國作家協會與工會，聯合出了一份報告，希望能檢討並改革目前相當流行的「混生」出版業，也就是所謂的付費自助出版。\n\n這些作家平均付 2,000 英鎊出書，94% 的作家說賠錢、銷售數量的中位數僅 67 本，59% 的作家抱怨在一般書… https://t.co/gFpmvS7DPH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gFpmvS7DPH",
+          "expanded_url": "https://twitter.com/i/web/status/1536514452010307584",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 13 13:13:41 +0000 2022",
+    "id": 1536336004226830336,
+    "id_str": "1536336004226830336",
+    "text": "「怎麼驗都陰性」應該是特定國家的客製功能啦⋯⋯\n\nA feature not a bug, only for ______.\n\n怎麼驗都陰性？黑心業者違法進口中國製快篩被抓到了 https://t.co/FBo0ZdGQeR https://t.co/VxaQ0YSyuy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FBo0ZdGQeR",
+          "expanded_url": "https://www.mirrormedia.mg/story/20220613inv006/",
+          "display_url": "mirrormedia.mg/story/20220613…",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1536335997906001920,
+          "id_str": "1536335997906001920",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVIpc0LVIAAjtIk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVIpc0LVIAAjtIk.jpg",
+          "url": "https://t.co/VxaQ0YSyuy",
+          "display_url": "pic.twitter.com/VxaQ0YSyuy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1536336004226830336/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 430,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 430,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 430,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1536335997906001920,
+          "id_str": "1536335997906001920",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVIpc0LVIAAjtIk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVIpc0LVIAAjtIk.jpg",
+          "url": "https://t.co/VxaQ0YSyuy",
+          "display_url": "pic.twitter.com/VxaQ0YSyuy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1536336004226830336/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 430,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 430,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 430,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 13 01:56:49 +0000 2022",
+    "id": 1536165664980758528,
+    "id_str": "1536165664980758528",
+    "text": "這個真的好迷人！發現國外二手市場能買到，台幣 5~7 萬左右。 https://t.co/q8RPW87rDl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q8RPW87rDl",
+          "expanded_url": "https://twitter.com/djwz/status/1535794955284672512",
+          "display_url": "twitter.com/djwz/status/15…",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1535794955284672512,
+    "quoted_status_id_str": "1535794955284672512",
+    "quoted_status": {
+      "created_at": "Sun Jun 12 01:23:45 +0000 2022",
+      "id": 1535794955284672512,
+      "id_str": "1535794955284672512",
+      "text": "在智能手机和电子计算器出现之前，人们长期使用纯机械结构的计算工具，CURTA就是其中设计最完备的便携计算器。\n\n它诞生于二战的纷飞战火，曾经被大量使用在需要快速计算的场合，直到1972年才停产。之后也一直没有被成功复制过。\n\n今天… https://t.co/hfnCBnteTK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hfnCBnteTK",
+            "expanded_url": "https://twitter.com/i/web/status/1535794955284672512",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 22403539,
+        "id_str": "22403539",
+        "name": "加菲众",
+        "screen_name": "DJWZ",
+        "location": "",
+        "description": "疯狂的想象力来自于无穷的热爱！",
+        "url": "https://t.co/52RV1u8TuM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/52RV1u8TuM",
+                "expanded_url": "https://discord.gg/qgCUuhNTqu",
+                "display_url": "discord.gg/qgCUuhNTqu",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 766,
+        "friends_count": 841,
+        "listed_count": 21,
+        "created_at": "Sun Mar 01 20:38:53 +0000 2009",
+        "favourites_count": 262,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 254,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1533074766029918209/kK8w-j0M_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1533074766029918209/kK8w-j0M_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22403539/1643720705",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 92,
+      "favorite_count": 231,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 13 01:44:05 +0000 2022",
+    "id": 1536162460389941248,
+    "id_str": "1536162460389941248",
+    "text": "「壓迫感十足的宏觀人類歷史敘事、在人稱上進行跨越生命限制的轉生分裂，哇這本日本文學不太一樣耶！」\n\n感覺是本有趣的日系科幻小說。 #toread\n\n書評》愛情和友情就算在人類巨大宿命面前還是挺關鍵的：評上田岳弘《我的戀人》… https://t.co/SJauG0SnD2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "toread",
+          "indices": [
+            65,
+            72
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SJauG0SnD2",
+          "expanded_url": "https://twitter.com/i/web/status/1536162460389941248",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 12 03:45:27 +0000 2022",
     "id": 1535830614913568768,
     "id_str": "1535830614913568768",
