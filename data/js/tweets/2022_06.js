@@ -1,5 +1,290 @@
 Grailbird.data.tweets_2022_06 = [
   {
+    "created_at": "Thu Jun 16 23:42:07 +0000 2022",
+    "id": 1537581318199910400,
+    "id_str": "1537581318199910400",
+    "text": "既然看過影集《初創玩家（WeCrashed）》了，毫不意外這人會選這種虛擬加上虛擬、投機乘上投機的標的。\n\n不想被割、就別成為韭菜，比爾蓋茲最近這樣說。（超譯版）\n\n加密貨幣 x 碳信用市場 -「初創玩家」Adam Neumann… https://t.co/srIQT9DH1U",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/srIQT9DH1U",
+          "expanded_url": "https://twitter.com/i/web/status/1537581318199910400",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 16 23:23:22 +0000 2022",
+    "id": 1537576599511367681,
+    "id_str": "1537576599511367681",
+    "text": "衛福部中醫藥司黃怡超強調，臨時許可核定的清冠一號並不是Covid-19用藥，其適應症是「外感時疫」，原型為600多年前明代典籍《攝生眾妙方》中的「荊防敗毒散」。\n\n清冠一號「讓世界看見台灣」，但它真有療效嗎？ https://t.co/UZ2banMfiT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UZ2banMfiT",
+          "expanded_url": "https://bit.ly/3mSRiV8",
+          "display_url": "bit.ly/3mSRiV8",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 16 11:29:40 +0000 2022",
+    "id": 1537396989272285185,
+    "id_str": "1537396989272285185",
+    "text": "筆記術目前就只推這一本了。\n\n就像《The Velvet Underground &amp; Nico》對搖滾樂團、《搞定（GTD）》對任務管理效率工具一樣，這本應該列為對 PKM、數位筆記實踐者與開發者的新聖經，它也許不會最暢銷，但未來… https://t.co/cMMtTW4xuS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cMMtTW4xuS",
+          "expanded_url": "https://twitter.com/i/web/status/1537396989272285185",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1537392401102143488,
+    "in_reply_to_status_id_str": "1537392401102143488",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 32,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 16 11:11:26 +0000 2022",
+    "id": 1537392401102143488,
+    "id_str": "1537392401102143488",
+    "text": "這本不推，名不符實。\n\n主軸是很老土的 CODE（=Capture, Organize, Distill &amp; Express）、很傳統的筆記法。倒不是寫得差，資料也算豐富，但用「打造第二大腦」這樣的名字只寫出「要做筆記」這一件事，… https://t.co/KHF4LSCHuj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KHF4LSCHuj",
+          "expanded_url": "https://twitter.com/i/web/status/1537392401102143488",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 15 12:44:58 +0000 2022",
+    "id": 1537053553625137154,
+    "id_str": "1537053553625137154",
+    "text": "@tapentan @JediLin 剛看了幾首，好像都沒出現版權宣告。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tapentan",
+          "name": "BOW",
+          "id": 10015732,
+          "id_str": "10015732",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "JediLin",
+          "name": "🌈Jedi🦻👓",
+          "id": 7780572,
+          "id_str": "7780572",
+          "indices": [
+            10,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1536914063254781953,
+    "in_reply_to_status_id_str": "1536914063254781953",
+    "in_reply_to_user_id": 10015732,
+    "in_reply_to_user_id_str": "10015732",
+    "in_reply_to_screen_name": "tapentan",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jun 15 06:50:25 +0000 2022",
     "id": 1536964328493940736,
     "id_str": "1536964328493940736",
