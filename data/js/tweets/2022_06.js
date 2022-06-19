@@ -1,5 +1,486 @@
 Grailbird.data.tweets_2022_06 = [
   {
+    "created_at": "Sun Jun 19 02:38:19 +0000 2022",
+    "id": 1538350432916869120,
+    "id_str": "1538350432916869120",
+    "text": "Oracle VM.Standard.A1.Flex 使用 Ubuntu 22.04 好像蠻多小問題的⋯⋯\n\n而且我完全找不到 rebuild 的方法。\n\nhttps://t.co/hv7nOWsPoJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hv7nOWsPoJ",
+          "expanded_url": "https://bit.ly/3zLAdEg",
+          "display_url": "bit.ly/3zLAdEg",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Jun 19 01:36:41 +0000 2022",
+    "id": 1538334922686930945,
+    "id_str": "1538334922686930945",
+    "text": "而且 #Netflix 花了一億美金改拍這個故事，卻在最核心的關鍵，也就是男主角究竟以何心態發起了最終逃亡這個點，套上了好萊塢的浪漫英雄公式，有夠蠢。\n\nDoes George Saunders’s Escape From Spi… https://t.co/T0ul3463A3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T0ul3463A3",
+          "expanded_url": "https://twitter.com/i/web/status/1538334922686930945",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1538330627706982400,
+    "in_reply_to_status_id_str": "1538330627706982400",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 19 01:19:37 +0000 2022",
+    "id": 1538330627706982400,
+    "id_str": "1538330627706982400",
+    "text": "〈倘若真有「作家中的作家」，這傢伙就是桑德斯〉 https://t.co/6QRvF6SPsc https://t.co/31AM1Uhfbu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6QRvF6SPsc",
+          "expanded_url": "https://nyti.ms/3y2J2It",
+          "display_url": "nyti.ms/3y2J2It",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1538330622652952576,
+          "id_str": "1538330622652952576",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVk_jQZVsAAjxUr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVk_jQZVsAAjxUr.jpg",
+          "url": "https://t.co/31AM1Uhfbu",
+          "display_url": "pic.twitter.com/31AM1Uhfbu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1538330627706982400/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 795,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 528,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 795,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1538330622652952576,
+          "id_str": "1538330622652952576",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVk_jQZVsAAjxUr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FVk_jQZVsAAjxUr.jpg",
+          "url": "https://t.co/31AM1Uhfbu",
+          "display_url": "pic.twitter.com/31AM1Uhfbu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1538330627706982400/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 795,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 528,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 795,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1538330104689938433,
+    "in_reply_to_status_id_str": "1538330104689938433",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 19 01:17:32 +0000 2022",
+    "id": 1538330104689938433,
+    "id_str": "1538330104689938433",
+    "text": "小說中譯版收錄在由喬治・桑德斯短篇小說集《十二月十日》。\n\n10 篇風格迥異的短篇小說，2013 年度唯一榮登《紐約時報》暢銷書榜冠軍的短篇小說集，作者並以本書獲選《時代》雜誌年度百大影響人物。\n\n《十二月十日》 #kobo… https://t.co/pybRLRuQDl",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            107,
+            112
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pybRLRuQDl",
+          "expanded_url": "https://twitter.com/i/web/status/1538330104689938433",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1538329361895391233,
+    "in_reply_to_status_id_str": "1538329361895391233",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 19 01:14:35 +0000 2022",
+    "id": 1538329361895391233,
+    "id_str": "1538329361895391233",
+    "text": "《Escape from Spiderhead》改編自 George Saunders 刊登在 2010 New Yorker 的短篇科幻小說。\n\n男子接受藥物神秘實驗，交錯進行著大量性、愛、以及殺意，是蠻有意思的敘事，電影中自行… https://t.co/CM6kssmir3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CM6kssmir3",
+          "expanded_url": "https://twitter.com/i/web/status/1538329361895391233",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1538324144986550272,
+    "in_reply_to_status_id_str": "1538324144986550272",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 19 00:53:51 +0000 2022",
+    "id": 1538324144986550272,
+    "id_str": "1538324144986550272",
+    "text": "《蜘蛛頭監獄》在 imdb 得分為 5.5/10，應該更低。\n\n我認為 #Netflix 這種根據觀看數據、用戶評分，製作出自以為吻合大眾口味、因此能夠叫好叫座的企圖，已經多次證明失敗，該急流勇退了。… https://t.co/2hleiTDb82",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            36,
+            44
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2hleiTDb82",
+          "expanded_url": "https://twitter.com/i/web/status/1538324144986550272",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 18 02:25:20 +0000 2022",
+    "id": 1537984780683182081,
+    "id_str": "1537984780683182081",
+    "text": "好多夏日書單⋯⋯\n\nThe Ultimate Summer 2022 Reading List https://t.co/5YgMljq6ET",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5YgMljq6ET",
+          "expanded_url": "https://bit.ly/3QvkWgD",
+          "display_url": "bit.ly/3QvkWgD",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Thu Jun 16 23:42:07 +0000 2022",
     "id": 1537581318199910400,
     "id_str": "1537581318199910400",
