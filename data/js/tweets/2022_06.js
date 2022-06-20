@@ -1,5 +1,472 @@
 Grailbird.data.tweets_2022_06 = [
   {
+    "created_at": "Mon Jun 20 03:44:55 +0000 2022",
+    "id": 1538729582399959040,
+    "id_str": "1538729582399959040",
+    "text": "上篇衛報長文出自 Ben Tarnoff 新書內文改寫，主題好像是「網際網路社會主義」，來看看究竟有何建言與新論。\n\nInternet for the People: The Fight for Our Digital Futur… https://t.co/XafdHJaIs4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XafdHJaIs4",
+          "expanded_url": "https://twitter.com/i/web/status/1538729582399959040",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1538728902700306432,
+    "in_reply_to_status_id_str": "1538728902700306432",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 20 03:42:13 +0000 2022",
+    "id": 1538728902700306432,
+    "id_str": "1538728902700306432",
+    "text": "回想起來，1995 堪稱網路新世代的起始，Yahoo, Amazon, AuctionWeb(=eBay) 以及微軟視窗 95，也是 Netscape 上市、IE 成為內建，第一次瀏覽器大戰的時代。\n\n現在網路巨頭是主流，但那時… https://t.co/uIAJ0Gb9PL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uIAJ0Gb9PL",
+          "expanded_url": "https://twitter.com/i/web/status/1538728902700306432",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 20 02:56:36 +0000 2022",
+    "id": 1538717425583017984,
+    "id_str": "1538717425583017984",
+    "text": "RT @KooPeben: 🌊意大利米兰理工大学对该校教授\"陈蓁\"霸凌台湾学生事件的调查，有结果了。\n\n经过近三个月的调查，学校纪律委员会认为陈蓁的行为不当，也不符合该校的道德行为准则。意大利议员将这个消息告诉了@badiucao，我会继续跟踪执行的力度，以及他本人是否有回应。…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "KooPeben",
+          "name": "🇺🇦 KOO",
+          "id": 1127945557849194496,
+          "id_str": "1127945557849194496",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "badiucao",
+          "name": "巴丢草 Badiucao",
+          "id": 267695291,
+          "id_str": "267695291",
+          "indices": [
+            106,
+            115
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 19 12:26:06 +0000 2022",
+      "id": 1538498357425246208,
+      "id_str": "1538498357425246208",
+      "text": "🌊意大利米兰理工大学对该校教授\"陈蓁\"霸凌台湾学生事件的调查，有结果了。\n\n经过近三个月的调查，学校纪律委员会认为陈蓁的行为不当，也不符合该校的道德行为准则。意大利议员将这个消息告诉了@badiucao，我会继续跟踪执行的力度，以… https://t.co/ziRbUbqNmq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "badiucao",
+            "name": "巴丢草 Badiucao",
+            "id": 267695291,
+            "id_str": "267695291",
+            "indices": [
+              92,
+              101
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ziRbUbqNmq",
+            "expanded_url": "https://twitter.com/i/web/status/1538498357425246208",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1127945557849194496,
+        "id_str": "1127945557849194496",
+        "name": "🇺🇦 KOO",
+        "screen_name": "KooPeben",
+        "location": "",
+        "description": "不正确言论/随机翻译文章/持续播报普京闪电战⚡️",
+        "url": "https://t.co/I8WFYebEaN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/I8WFYebEaN",
+                "expanded_url": "https://www.getrevue.co/profile/Koo",
+                "display_url": "getrevue.co/profile/Koo",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 61787,
+        "friends_count": 201,
+        "listed_count": 317,
+        "created_at": "Mon May 13 14:35:51 +0000 2019",
+        "favourites_count": 2540,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 6355,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1280508859803721729/SRRRwxFc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280508859803721729/SRRRwxFc_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1127945557849194496/1651816443",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 257,
+      "favorite_count": 1483,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 257,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 20 02:00:04 +0000 2022",
+    "id": 1538703197820268544,
+    "id_str": "1538703197820268544",
+    "text": "Twitter創辦人、忠實的比特幣信徒 Jack Dorsey，帶領 Block 旗下比特幣部門 TBD 提出 Web5 概念，因為「Web 2 + Web 3 = Web 5」⋯⋯\n\n好棒棒，等 Web 13 問世再叫我嘍～… https://t.co/MMcErZSvqx",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MMcErZSvqx",
+          "expanded_url": "https://twitter.com/i/web/status/1538703197820268544",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 20 01:30:13 +0000 2022",
+    "id": 1538695683703595008,
+    "id_str": "1538695683703595008",
+    "text": "2019年的調查中指出，日本動漫創作者以正職身分工作的只有14%。去除部分大規模的製作公司後，一半以上都是簽約型式的SOHO族。\n\n中國付得起日本年收三倍的薪資，今後日本動漫人才被中國挖角的例子會越來越多。\n\n被買走的技術：日本動… https://t.co/U0IEmmW9MO",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/U0IEmmW9MO",
+          "expanded_url": "https://twitter.com/i/web/status/1538695683703595008",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 19 03:21:31 +0000 2022",
+    "id": 1538361307048529920,
+    "id_str": "1538361307048529920",
+    "text": "但後來接著看 #Netflix 《仿真之境》紀錄片，目前只看了兩集，覺得每個人都應該看看。\n\n並不是什麼網路的技術觀，單純是人類在便利環境下被放大的各種惡意，以及道德與法律顯得如何無力。\n\n其實還蠻呼應了《蜘蛛頭監獄》裡的人性實驗… https://t.co/WfLMOXFHXV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            7,
+            15
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WfLMOXFHXV",
+          "expanded_url": "https://twitter.com/i/web/status/1538361307048529920",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1538334922686930945,
+    "in_reply_to_status_id_str": "1538334922686930945",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 19 02:38:19 +0000 2022",
     "id": 1538350432916869120,
     "id_str": "1538350432916869120",
