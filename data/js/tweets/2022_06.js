@@ -1,5 +1,437 @@
 Grailbird.data.tweets_2022_06 = [
   {
+    "created_at": "Fri Jun 24 01:19:06 +0000 2022",
+    "id": 1540142440140591104,
+    "id_str": "1540142440140591104",
+    "text": "美國出版商協會（AAP）公布的 2022/03 數字（僅含主流出版商）看起來有些怪異。\n\n與去年相比，整體下降 6.4%；電子書衰退 12.2%、營收達 7,690 萬美金；有聲書成長 8.4%、6,350 萬美金。\n\n即使有聲書… https://t.co/DQxf7Yb83w",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DQxf7Yb83w",
+          "expanded_url": "https://twitter.com/i/web/status/1540142440140591104",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 23 23:44:30 +0000 2022",
+    "id": 1540118631756902400,
+    "id_str": "1540118631756902400",
+    "text": "RT @bridgeduan: 偷偷堂食的上海人。（传世经典照片） https://t.co/33XhXFmixM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "bridgeduan",
+          "name": "bridgeduan",
+          "id": 44186175,
+          "id_str": "44186175",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1539577737530441729,
+          "id_str": "1539577737530441729",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/FV2ty5WaAAEGOZJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FV2ty5WaAAEGOZJ.jpg",
+          "url": "https://t.co/33XhXFmixM",
+          "display_url": "pic.twitter.com/33XhXFmixM",
+          "expanded_url": "https://twitter.com/bridgeduan/status/1539577994477735937/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 690,
+              "h": 920,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 690,
+              "h": 920,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1539577994477735937,
+          "source_status_id_str": "1539577994477735937",
+          "source_user_id": 44186175,
+          "source_user_id_str": "44186175"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1539577737530441729,
+          "id_str": "1539577737530441729",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/FV2ty5WaAAEGOZJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FV2ty5WaAAEGOZJ.jpg",
+          "url": "https://t.co/33XhXFmixM",
+          "display_url": "pic.twitter.com/33XhXFmixM",
+          "expanded_url": "https://twitter.com/bridgeduan/status/1539577994477735937/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 690,
+              "h": 920,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 690,
+              "h": 920,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1539577994477735937,
+          "source_status_id_str": "1539577994477735937",
+          "source_user_id": 44186175,
+          "source_user_id_str": "44186175"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jun 22 11:56:12 +0000 2022",
+      "id": 1539577994477735937,
+      "id_str": "1539577994477735937",
+      "text": "偷偷堂食的上海人。（传世经典照片） https://t.co/33XhXFmixM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1539577737530441729,
+            "id_str": "1539577737530441729",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/FV2ty5WaAAEGOZJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FV2ty5WaAAEGOZJ.jpg",
+            "url": "https://t.co/33XhXFmixM",
+            "display_url": "pic.twitter.com/33XhXFmixM",
+            "expanded_url": "https://twitter.com/bridgeduan/status/1539577994477735937/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 690,
+                "h": 920,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 690,
+                "h": 920,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1539577737530441729,
+            "id_str": "1539577737530441729",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/FV2ty5WaAAEGOZJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FV2ty5WaAAEGOZJ.jpg",
+            "url": "https://t.co/33XhXFmixM",
+            "display_url": "pic.twitter.com/33XhXFmixM",
+            "expanded_url": "https://twitter.com/bridgeduan/status/1539577994477735937/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 690,
+                "h": 920,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 690,
+                "h": 920,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 44186175,
+        "id_str": "44186175",
+        "name": "bridgeduan",
+        "screen_name": "bridgeduan",
+        "location": "硅谷",
+        "description": "断桥 计算机博士 主要关注网络舆论、社会心理、组织行动、互联网产品架构等。\n2022年目标：做中文圈舆论研究这块的Youtube宝藏播主。",
+        "url": "https://t.co/4iyacEPR4V",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/4iyacEPR4V",
+                "expanded_url": "http://rujuwang.com",
+                "display_url": "rujuwang.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 35546,
+        "friends_count": 1967,
+        "listed_count": 272,
+        "created_at": "Tue Jun 02 19:25:02 +0000 2009",
+        "favourites_count": 135,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2834,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/721120660802527232/o-mBmCrr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/721120660802527232/o-mBmCrr_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 848,
+      "favorite_count": 3787,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 848,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 23 03:08:14 +0000 2022",
+    "id": 1539807516581695488,
+    "id_str": "1539807516581695488",
+    "text": "這書第一部分在講網際網路的基礎「管線」，這些基礎建設仍掌握在電信商、ISP 手中，Google 曾嘗試建立全球化的 ISP：Google Fiber，不敵各地的巨獸、以失敗告終。\n\n但是，Google, Facebook, Ama… https://t.co/D8FP8sjJDq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D8FP8sjJDq",
+          "expanded_url": "https://twitter.com/i/web/status/1539807516581695488",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1538729582399959040,
+    "in_reply_to_status_id_str": "1538729582399959040",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jun 23 01:50:07 +0000 2022",
     "id": 1539787857291640833,
     "id_str": "1539787857291640833",
