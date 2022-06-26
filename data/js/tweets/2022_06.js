@@ -1,5 +1,124 @@
 Grailbird.data.tweets_2022_06 = [
   {
+    "created_at": "Sun Jun 26 00:23:11 +0000 2022",
+    "id": 1540853143382028288,
+    "id_str": "1540853143382028288",
+    "text": "在本次羅案被推翻之前，美國共有13個州設有「觸發法案」（Trigger law），一旦羅案被推翻，30天內即可完成州層級的反墮胎立法；密蘇里州在2019年訂立的觸發法案甚至是「即時生效」，醫生進行墮胎手術被視為二級重罪。\n\n美最高… https://t.co/KwQhyG6MJe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KwQhyG6MJe",
+          "expanded_url": "https://twitter.com/i/web/status/1540853143382028288",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 25 07:17:34 +0000 2022",
+    "id": 1540595037897359360,
+    "id_str": "1540595037897359360",
+    "text": "@arguskao 有跑一個在玩呀，但不是用 docker，就只是從 NocoDB 首頁、按一個自動部署鍵，幾秒鐘在 Heroku 就跑起來了\n\nhttps://t.co/3VRIVUpVHS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "arguskao",
+          "name": "高藥師",
+          "id": 5522882,
+          "id_str": "5522882",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3VRIVUpVHS",
+          "expanded_url": "https://www.nocodb.com",
+          "display_url": "nocodb.com",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1540570531841224704,
+    "in_reply_to_status_id_str": "1540570531841224704",
+    "in_reply_to_user_id": 5522882,
+    "in_reply_to_user_id_str": "5522882",
+    "in_reply_to_screen_name": "arguskao",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jun 24 01:19:06 +0000 2022",
     "id": 1540142440140591104,
     "id_str": "1540142440140591104",
