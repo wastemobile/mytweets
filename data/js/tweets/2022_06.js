@@ -1,5 +1,254 @@
 Grailbird.data.tweets_2022_06 = [
   {
+    "created_at": "Mon Jun 27 01:30:59 +0000 2022",
+    "id": 1541232594737430528,
+    "id_str": "1541232594737430528",
+    "text": "新語（Newspeak）是喬治·奧威爾小說《一九八四》中設想的新人工語言，是大洋國的官方語言，被形容為「世界唯一會逐年減少詞彙的語言」。 #note\n\nhttps://t.co/nN9PN9b7ZA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            69,
+            74
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nN9PN9b7ZA",
+          "expanded_url": "https://bit.ly/3OHuIuv",
+          "display_url": "bit.ly/3OHuIuv",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1541231980183822336,
+    "in_reply_to_status_id_str": "1541231980183822336",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 27 01:28:33 +0000 2022",
+    "id": 1541231980183822336,
+    "id_str": "1541231980183822336",
+    "text": "「語言的腐敗是一種邪惡」，但英國詩人、作家即使富有想像力，他們對於邪惡的認知是不足的，因為他們不夠壞，他們的文化永遠也沒有那麼壞，正如中國這片土地上發明過花樣繁多，超出文明社會能夠想像的酷刑，他們唯有在作惡的時候登峰造極。\n\n他們… https://t.co/WTkwpuXLlh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WTkwpuXLlh",
+          "expanded_url": "https://twitter.com/i/web/status/1541231980183822336",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 27 01:15:30 +0000 2022",
+    "id": 1541228696219967488,
+    "id_str": "1541228696219967488",
+    "text": "營運不佳、裁員，大家都理解啦，硬要說自己在練如來神掌就真的搞笑了⋯⋯\n\n電商吹寒風？遠傳friDay購物大砍20%員工，遠時：啟動AI功能調整人力需求 https://t.co/pBLXxesfNj https://t.co/dkpFRPmcGE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pBLXxesfNj",
+          "expanded_url": "https://bit.ly/3nk3Rcw",
+          "display_url": "bit.ly/3nk3Rcw",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1541228689857183744,
+          "id_str": "1541228689857183744",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWOLU-CUAAAUhKC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWOLU-CUAAAUhKC.jpg",
+          "url": "https://t.co/dkpFRPmcGE",
+          "display_url": "pic.twitter.com/dkpFRPmcGE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1541228696219967488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 458,
+              "h": 287,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 458,
+              "h": 287,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 458,
+              "h": 287,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1541228689857183744,
+          "id_str": "1541228689857183744",
+          "indices": [
+            100,
+            123
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWOLU-CUAAAUhKC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWOLU-CUAAAUhKC.jpg",
+          "url": "https://t.co/dkpFRPmcGE",
+          "display_url": "pic.twitter.com/dkpFRPmcGE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1541228696219967488/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 458,
+              "h": 287,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 458,
+              "h": 287,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 458,
+              "h": 287,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jun 26 00:23:11 +0000 2022",
     "id": 1540853143382028288,
     "id_str": "1540853143382028288",
