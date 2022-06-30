@@ -1,5 +1,428 @@
 Grailbird.data.tweets_2022_06 = [
   {
+    "created_at": "Thu Jun 30 01:43:52 +0000 2022",
+    "id": 1542323000183164928,
+    "id_str": "1542323000183164928",
+    "text": "無賴派大師的灰暗絕望，與美韓 Z 世代的憂鬱躺平，如何通過這本頹喪之作連結起來？\n\n書封讚。\n\n人間失格：為何從南韓到美國，躺平青年都愛讀？ https://t.co/Ib368diPnQ https://t.co/3CaacJFPUp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ib368diPnQ",
+          "expanded_url": "https://bit.ly/3Nwa3bO",
+          "display_url": "bit.ly/3Nwa3bO",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1542322992461406208,
+          "id_str": "1542322992461406208",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWdulw6UYAAGnNw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWdulw6UYAAGnNw.jpg",
+          "url": "https://t.co/3CaacJFPUp",
+          "display_url": "pic.twitter.com/3CaacJFPUp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1542323000183164928/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1440,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1542322992461406208,
+          "id_str": "1542322992461406208",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/FWdulw6UYAAGnNw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FWdulw6UYAAGnNw.jpg",
+          "url": "https://t.co/3CaacJFPUp",
+          "display_url": "pic.twitter.com/3CaacJFPUp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1542323000183164928/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1440,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 29 09:14:54 +0000 2022",
+    "id": 1542074115028176896,
+    "id_str": "1542074115028176896",
+    "text": "嗯，接到博客來的詐騙電話，而且有之前訂購的書籍品項名稱，真的是有資料外洩啊⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 29 01:08:31 +0000 2022",
+    "id": 1541951714969866240,
+    "id_str": "1541951714969866240",
+    "text": "覺得公私鑰的生成應該是要獨立於錢包或平台，也就是在自己的電腦上離線製作與管理。\n\nMetaMask宣布棄用 2 種生成私鑰 API 方式，打算推出更安全方法  https://t.co/gDeHFTF9St",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gDeHFTF9St",
+          "expanded_url": "https://bit.ly/3NvsxJo",
+          "display_url": "bit.ly/3NvsxJo",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jun 27 22:53:07 +0000 2022",
+    "id": 1541555252595347456,
+    "id_str": "1541555252595347456",
+    "text": "RT @ETBlue: \"恩恩一家面對的事,以前是徐自強在面對\n他有不在場證明,被刑求,被關了21年\n後來終於重審無罪\n\n恩恩這件事情都可以操作成藍綠政治攻防\n他可以對恩恩一家人這樣\n哪天換成你我任何一個人單獨面對侯友宜,侯市府\n你就知道有多痛\"\n\n[討論] 陳東豪說了個關於侯…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ETBlue",
+          "name": "ETBlǔě.js 🇳🇫 Taiwan stands with Ukraine 🇺🇦",
+          "id": 23936214,
+          "id_str": "23936214",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jun 27 20:39:47 +0000 2022",
+      "id": 1541521698000105472,
+      "id_str": "1541521698000105472",
+      "text": "\"恩恩一家面對的事,以前是徐自強在面對\n他有不在場證明,被刑求,被關了21年\n後來終於重審無罪\n\n恩恩這件事情都可以操作成藍綠政治攻防\n他可以對恩恩一家人這樣\n哪天換成你我任何一個人單獨面對侯友宜,侯市府\n你就知道有多痛\"\n\n[討… https://t.co/7HQIR3FLOP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7HQIR3FLOP",
+            "expanded_url": "https://twitter.com/i/web/status/1541521698000105472",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 23936214,
+        "id_str": "23936214",
+        "name": "ETBlǔě.js 🇳🇫 Taiwan stands with Ukraine 🇺🇦",
+        "screen_name": "ETBlue",
+        "location": "Taiwan",
+        "description": "曾經懷著無國界的人類愛，直到敵國 wumao 跟 lunatics 席捲而來... 慈悲沒有敵人，敵人沒有慈悲，共勉之。\n\nhttps://t.co/itQnGX00VG\nhttps://t.co/z86Ejb0A68\nhttps://t.co/KAo4cHNSZP\nhttps://t.co/MmIJwJeXtz",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/itQnGX00VG",
+                "expanded_url": "http://gab.com/ETBlue",
+                "display_url": "gab.com/ETBlue",
+                "indices": [
+                  62,
+                  85
+                ]
+              },
+              {
+                "url": "https://t.co/z86Ejb0A68",
+                "expanded_url": "http://parler.com/profile/ETBlue",
+                "display_url": "parler.com/profile/ETBlue",
+                "indices": [
+                  86,
+                  109
+                ]
+              },
+              {
+                "url": "https://t.co/KAo4cHNSZP",
+                "expanded_url": "http://mewe.com/i/etblue",
+                "display_url": "mewe.com/i/etblue",
+                "indices": [
+                  110,
+                  133
+                ]
+              },
+              {
+                "url": "https://t.co/MmIJwJeXtz",
+                "expanded_url": "http://g0v.social/@etblue",
+                "display_url": "g0v.social/@etblue",
+                "indices": [
+                  134,
+                  157
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4952,
+        "friends_count": 981,
+        "listed_count": 64,
+        "created_at": "Thu Mar 12 12:05:51 +0000 2009",
+        "favourites_count": 209567,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 131168,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1142860880285065216/bdyMo-Oe_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142860880285065216/bdyMo-Oe_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23936214/1612815962",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 40,
+      "favorite_count": 187,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 40,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jun 27 01:30:59 +0000 2022",
     "id": 1541232594737430528,
     "id_str": "1541232594737430528",
