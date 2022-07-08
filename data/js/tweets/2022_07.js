@@ -1,5 +1,413 @@
 Grailbird.data.tweets_2022_07 = [
   {
+    "created_at": "Fri Jul 08 01:03:31 +0000 2022",
+    "id": 1545211946764361729,
+    "id_str": "1545211946764361729",
+    "text": "「《1984》少數派統治的哲學是一種性虐狂，它藉由超越性並否認性而達到其邏輯結論。這種直接往你臉上賞巴掌的政策在現實中是否能無限期延續下去，似乎有待商榷。」\n\n老師覺得嗑藥催眠比較有效。\n\n赫胥黎：致歐威爾，你的書還不錯，但是我描… https://t.co/ssBFSUFNpU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ssBFSUFNpU",
+          "expanded_url": "https://twitter.com/i/web/status/1545211946764361729",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 08 01:00:18 +0000 2022",
+    "id": 1545211135753723905,
+    "id_str": "1545211135753723905",
+    "text": "沒錯，隨抽隨看就行。\n\nMoyashi：閱讀衛斯理的方法 https://t.co/mTnOtuRKG2 https://t.co/f3GYjctbO0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mTnOtuRKG2",
+          "expanded_url": "https://bit.ly/3AwGkNd",
+          "display_url": "bit.ly/3AwGkNd",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1545211127386165248,
+          "id_str": "1545211127386165248",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXGxVV7VUAA0g4z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXGxVV7VUAA0g4z.jpg",
+          "url": "https://t.co/f3GYjctbO0",
+          "display_url": "pic.twitter.com/f3GYjctbO0",
+          "expanded_url": "https://twitter.com/wastemobile/status/1545211135753723905/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1545211127386165248,
+          "id_str": "1545211127386165248",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXGxVV7VUAA0g4z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXGxVV7VUAA0g4z.jpg",
+          "url": "https://t.co/f3GYjctbO0",
+          "display_url": "pic.twitter.com/f3GYjctbO0",
+          "expanded_url": "https://twitter.com/wastemobile/status/1545211135753723905/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 07 01:06:16 +0000 2022",
+    "id": 1544850252028514304,
+    "id_str": "1544850252028514304",
+    "text": "紐西蘭政府的「數位包容藍圖」（The Digital Inclusion Blueprint）\n\nhttps://t.co/P10dNJ9iGN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/P10dNJ9iGN",
+          "expanded_url": "https://bit.ly/3P4bIGK",
+          "display_url": "bit.ly/3P4bIGK",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1544849872464949248,
+    "in_reply_to_status_id_str": "1544849872464949248",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 07 01:04:46 +0000 2022",
+    "id": 1544849872464949248,
+    "id_str": "1544849872464949248",
+    "text": "餐廳菜單只是桌上的一個 QR code 也時常讓我惱怒。\n\n常遇到圖片過多、加載過慢、在手機上瀏覽體驗不佳，也許彈性資訊對時菜供應有其便利性，但企業若只看到成本降低，在人員數量、服務品質就會降低，更別提此文主論的數位落差。\n\nTh… https://t.co/utLECYqRqV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/utLECYqRqV",
+          "expanded_url": "https://twitter.com/i/web/status/1544849872464949248",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 07 00:15:08 +0000 2022",
+    "id": 1544837384411369473,
+    "id_str": "1544837384411369473",
+    "text": "各家漫畫APP的營收主要還是靠廣告，其次才是使用者購入電子漫畫單行本，同時也推廣訂閱制，可無廣告無限閱讀各類作品。\n\n數位漫畫平台．日本》電子閱讀形勢大好，Kindle普及、APP收費多元皆為助力，盜版也增加14倍… https://t.co/hgBbm7L1dI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hgBbm7L1dI",
+          "expanded_url": "https://twitter.com/i/web/status/1544837384411369473",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 22,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 05 13:38:17 +0000 2022",
+    "id": 1544314727614271488,
+    "id_str": "1544314727614271488",
+    "text": "持續了40年的一場戰役，浪漫。\n\n經典桌遊《龍與地下城》「資深城主」40年來靠精緻手作道具、場景延續遊戲 Inside the 40 Year-Long DnD Game｜科普長知識｜GQ Taiwan https://t.co/2YaZHufGfQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2YaZHufGfQ",
+          "expanded_url": "https://youtu.be/mZcsiKB7crA",
+          "display_url": "youtu.be/mZcsiKB7crA",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jul 05 03:05:47 +0000 2022",
     "id": 1544155551528931328,
     "id_str": "1544155551528931328",
