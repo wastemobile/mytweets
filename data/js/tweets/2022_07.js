@@ -1,5 +1,310 @@
 Grailbird.data.tweets_2022_07 = [
   {
+    "created_at": "Fri Jul 08 09:55:58 +0000 2022",
+    "id": 1545345944614363136,
+    "id_str": "1545345944614363136",
+    "text": "RT @loweruuu: 謝謝安倍先生一直以來聲援台灣、以及積極促成台日友好的立場。\n\n台灣失去一個很好的朋友，他會一直留在台灣人的心中。\n\n#心より哀悼の意を表します\n#安倍さんのご冥福を祈ります",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "心より哀悼の意を表します",
+          "indices": [
+            72,
+            85
+          ]
+        },
+        {
+          "text": "安倍さんのご冥福を祈ります",
+          "indices": [
+            86,
+            100
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "loweruuu",
+          "name": "小寫日子",
+          "id": 1040825480608247809,
+          "id_str": "1040825480608247809",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 08 09:55:15 +0000 2022",
+      "id": 1545345761164296192,
+      "id_str": "1545345761164296192",
+      "text": "謝謝安倍先生一直以來聲援台灣、以及積極促成台日友好的立場。\n\n台灣失去一個很好的朋友，他會一直留在台灣人的心中。\n\n#心より哀悼の意を表します\n#安倍さんのご冥福を祈ります https://t.co/AxpxX7mbvV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "心より哀悼の意を表します",
+            "indices": [
+              58,
+              71
+            ]
+          },
+          {
+            "text": "安倍さんのご冥福を祈ります",
+            "indices": [
+              72,
+              86
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AxpxX7mbvV",
+            "expanded_url": "https://twitter.com/kantei/status/961459977322770432",
+            "display_url": "twitter.com/kantei/status/…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1040825480608247809,
+        "id_str": "1040825480608247809",
+        "name": "小寫日子",
+        "screen_name": "loweruuu",
+        "location": "",
+        "description": "There is no place for fear. No place for panic. No place for mistakes. “With one breath, I'm part of it.”",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 18465,
+        "friends_count": 289,
+        "listed_count": 60,
+        "created_at": "Sat Sep 15 04:51:46 +0000 2018",
+        "favourites_count": 12448,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5912,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201886394538483712/7iI4i7EI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201886394538483712/7iI4i7EI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1040825480608247809/1537024642",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 961459977322770432,
+      "quoted_status_id_str": "961459977322770432",
+      "quoted_status": {
+        "created_at": "Thu Feb 08 04:41:36 +0000 2018",
+        "id": 961459977322770432,
+        "id_str": "961459977322770432",
+        "text": "【SNS更新】「台湾東部で発生した大きな地震により、亡くなられた方々への御冥福をお祈りするとともに、被害に遭われた皆様に、心からのお見舞いを申し上げます」全文は\nhttps://t.co/t2M4RNcADa… https://t.co/W3qMu1Kz1p",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/t2M4RNcADa",
+              "expanded_url": "https://www.facebook.com/sourikantei/photos/a.314382198661546.56598.314327765333656/1266541010112322/?type=3&theater",
+              "display_url": "facebook.com/sourikantei/ph…",
+              "indices": [
+                81,
+                104
+              ]
+            },
+            {
+              "url": "https://t.co/W3qMu1Kz1p",
+              "expanded_url": "https://twitter.com/i/web/status/961459977322770432",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                106,
+                129
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://social.userlocal.jp/\" rel=\"nofollow\">Social Insight Post</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 412940784,
+          "id_str": "412940784",
+          "name": "首相官邸",
+          "screen_name": "kantei",
+          "location": "",
+          "description": "本アカウントは首相官邸の公式アカウントです。日々の総理に関する情報や内閣の重要政策についての情報などをお届けします。",
+          "url": "https://t.co/YlmtZlwbSB",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/YlmtZlwbSB",
+                  "expanded_url": "https://www.kantei.go.jp/",
+                  "display_url": "kantei.go.jp",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 1497859,
+          "friends_count": 73,
+          "listed_count": 15709,
+          "created_at": "Tue Nov 15 09:24:43 +0000 2011",
+          "favourites_count": 0,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": true,
+          "statuses_count": 16719,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/875526183672098816/Lh9lcBBA_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/875526183672098816/Lh9lcBBA_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/412940784/1464569515",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 10971,
+        "favorite_count": 19530,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ja"
+      },
+      "retweet_count": 21,
+      "favorite_count": 210,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 961459977322770432,
+    "quoted_status_id_str": "961459977322770432",
+    "retweet_count": 21,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jul 08 01:03:31 +0000 2022",
     "id": 1545211946764361729,
     "id_str": "1545211946764361729",
