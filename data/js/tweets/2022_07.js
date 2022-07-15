@@ -1,5 +1,1426 @@
 Grailbird.data.tweets_2022_07 = [
   {
+    "created_at": "Fri Jul 15 09:46:51 +0000 2022",
+    "id": 1547880363501821955,
+    "id_str": "1547880363501821955",
+    "text": "RT @Brecht: Kobo 輸入 MONKEYS 享 73 折的活動已經開始了，活動五、六、日三天，購物車清起來 XD\n\nhttps://t.co/6YM5KcmhfU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Brecht",
+          "name": "布大叔 😈",
+          "id": 724233,
+          "id_str": "724233",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6YM5KcmhfU",
+          "expanded_url": "https://www.kobo.com/",
+          "display_url": "kobo.com",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 15 09:37:27 +0000 2022",
+      "id": 1547877996182179840,
+      "id_str": "1547877996182179840",
+      "text": "Kobo 輸入 MONKEYS 享 73 折的活動已經開始了，活動五、六、日三天，購物車清起來 XD\n\nhttps://t.co/6YM5KcmhfU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6YM5KcmhfU",
+            "expanded_url": "https://www.kobo.com/",
+            "display_url": "kobo.com",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 724233,
+        "id_str": "724233",
+        "name": "布大叔 😈",
+        "screen_name": "Brecht",
+        "location": "Taiwan",
+        "description": "40代大叔，每天任務是帶著團隊、坐在電腦前和網站搏鬥，沒有機會拖回大白鯨，但幸好也不會在大海出事。喜歡在慢跑時冥想或亂想。喜歡啤酒，但夏天只有短短一季，幸好也還有威士忌。喜歡閱讀，但越來越少有大段的時間可以窩在沙發上",
+        "url": "https://t.co/XeGwqeCIc5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/XeGwqeCIc5",
+                "expanded_url": "https://blog.brecht.im",
+                "display_url": "blog.brecht.im",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6674,
+        "friends_count": 1366,
+        "listed_count": 104,
+        "created_at": "Mon Jan 29 06:47:34 +0000 2007",
+        "favourites_count": 35309,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 53174,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1488394202845421569/TmX8rK-X_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1488394202845421569/TmX8rK-X_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/724233/1531096188",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 14,
+      "favorite_count": 25,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 15 07:51:53 +0000 2022",
+    "id": 1547851432254025729,
+    "id_str": "1547851432254025729",
+    "text": "好想看這部日劇裡的山口智子喔！\n\n謀殺、亂倫等過激元素，在《已經誰也不愛》裡每集都來個一兩次  https://t.co/VfxFasrn0A https://t.co/qHxdbmMRdk",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VfxFasrn0A",
+          "expanded_url": "https://bit.ly/3cgAgON",
+          "display_url": "bit.ly/3cgAgON",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1547851424347742209,
+          "id_str": "1547851424347742209",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXsSq2lUYAEMHuJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXsSq2lUYAEMHuJ.jpg",
+          "url": "https://t.co/qHxdbmMRdk",
+          "display_url": "pic.twitter.com/qHxdbmMRdk",
+          "expanded_url": "https://twitter.com/wastemobile/status/1547851432254025729/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 489,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 1042,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 1042,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1547851424347742209,
+          "id_str": "1547851424347742209",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXsSq2lUYAEMHuJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXsSq2lUYAEMHuJ.jpg",
+          "url": "https://t.co/qHxdbmMRdk",
+          "display_url": "pic.twitter.com/qHxdbmMRdk",
+          "expanded_url": "https://twitter.com/wastemobile/status/1547851432254025729/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 489,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 1042,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 1042,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 14 11:30:03 +0000 2022",
+    "id": 1547543947601670144,
+    "id_str": "1547543947601670144",
+    "text": "RT @LucasMeyer52459: 侯友宜故意把日本的「日」字倒下來下，是那些眷村仇日中國人表達「倒日」的意思。\n侯友宜故意去安倍的追悼會場向深藍靠攏、羞辱日本人。如果日本人懂的話是很嚴重的外交危機，只能希望日本人不要介意了。 https://t.co/gb9d4x9jpt",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "LucasMeyer52459",
+          "name": "Lucas Meyer",
+          "id": 1498486797579743235,
+          "id_str": "1498486797579743235",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1547523251840385026,
+          "id_str": "1547523251840385026",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXnoMsuagAIVWjm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXnoMsuagAIVWjm.jpg",
+          "url": "https://t.co/gb9d4x9jpt",
+          "display_url": "pic.twitter.com/gb9d4x9jpt",
+          "expanded_url": "https://twitter.com/LucasMeyer52459/status/1547523258635153409/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 538,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 457,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 538,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1547523258635153409,
+          "source_status_id_str": "1547523258635153409",
+          "source_user_id": 1498486797579743235,
+          "source_user_id_str": "1498486797579743235"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1547523251840385026,
+          "id_str": "1547523251840385026",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXnoMsuagAIVWjm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FXnoMsuagAIVWjm.jpg",
+          "url": "https://t.co/gb9d4x9jpt",
+          "display_url": "pic.twitter.com/gb9d4x9jpt",
+          "expanded_url": "https://twitter.com/LucasMeyer52459/status/1547523258635153409/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 538,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 457,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 538,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1547523258635153409,
+          "source_status_id_str": "1547523258635153409",
+          "source_user_id": 1498486797579743235,
+          "source_user_id_str": "1498486797579743235"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 14 10:07:51 +0000 2022",
+      "id": 1547523258635153409,
+      "id_str": "1547523258635153409",
+      "text": "侯友宜故意把日本的「日」字倒下來下，是那些眷村仇日中國人表達「倒日」的意思。\n侯友宜故意去安倍的追悼會場向深藍靠攏、羞辱日本人。如果日本人懂的話是很嚴重的外交危機，只能希望日本人不要介意了。 https://t.co/gb9d4x9jpt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1547523251840385026,
+            "id_str": "1547523251840385026",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXnoMsuagAIVWjm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXnoMsuagAIVWjm.jpg",
+            "url": "https://t.co/gb9d4x9jpt",
+            "display_url": "pic.twitter.com/gb9d4x9jpt",
+            "expanded_url": "https://twitter.com/LucasMeyer52459/status/1547523258635153409/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 800,
+                "h": 538,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 457,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 538,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1547523251840385026,
+            "id_str": "1547523251840385026",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXnoMsuagAIVWjm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXnoMsuagAIVWjm.jpg",
+            "url": "https://t.co/gb9d4x9jpt",
+            "display_url": "pic.twitter.com/gb9d4x9jpt",
+            "expanded_url": "https://twitter.com/LucasMeyer52459/status/1547523258635153409/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 800,
+                "h": 538,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 457,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 800,
+                "h": 538,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1498486797579743235,
+        "id_str": "1498486797579743235",
+        "name": "Lucas Meyer",
+        "screen_name": "LucasMeyer52459",
+        "location": "Taipei",
+        "description": "I am a Taiwanese. I support Taiwanese Independence.\nJsem Tchajwanec. Podporuji nezávislost Tchaj-wanu.\n台灣人 支持台獨",
+        "url": "https://t.co/uBTTq2r7YJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/uBTTq2r7YJ",
+                "expanded_url": "https://www.facebook.com/lucas.meyer.52459/",
+                "display_url": "facebook.com/lucas.meyer.52…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 940,
+        "friends_count": 68,
+        "listed_count": 4,
+        "created_at": "Tue Mar 01 02:34:48 +0000 2022",
+        "favourites_count": 293,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 307,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1498488124573646848/GesUAhjo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498488124573646848/GesUAhjo_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 623,
+      "favorite_count": 2669,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 623,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 14 01:27:40 +0000 2022",
+    "id": 1547392352397930496,
+    "id_str": "1547392352397930496",
+    "text": "也許可以再試試 Vivaldi。\n\n目前在 macOS 上使用的瀏覽器分別為：Safari, Firefox, Brave 以及 Tor，喔還有 MenubarX。\n\nApps We’re Trying: Vivaldi Web… https://t.co/ZEih9Iz8fU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZEih9Iz8fU",
+          "expanded_url": "https://twitter.com/i/web/status/1547392352397930496",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jul 14 01:19:11 +0000 2022",
+    "id": 1547390215328829445,
+    "id_str": "1547390215328829445",
+    "text": "這一句真的要學起來，「嗯，他很努力了」。\n\n謎之音：____________。 https://t.co/nTWaOikhC5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nTWaOikhC5",
+          "expanded_url": "https://twitter.com/cwctyty/status/1547159490071793665",
+          "display_url": "twitter.com/cwctyty/status…",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1547159490071793665,
+    "quoted_status_id_str": "1547159490071793665",
+    "quoted_status": {
+      "created_at": "Wed Jul 13 10:02:21 +0000 2022",
+      "id": 1547159490071793665,
+      "id_str": "1547159490071793665",
+      "text": "沒必要，檳榔就只能這樣了\n\n好暖喔\n\n#對不起我支持過柯文哲 https://t.co/veNBQ5fkS3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "對不起我支持過柯文哲",
+            "indices": [
+              19,
+              30
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1547159482241011713,
+            "id_str": "1547159482241011713",
+            "indices": [
+              31,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXidWhXaUAEzF0o.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXidWhXaUAEzF0o.jpg",
+            "url": "https://t.co/veNBQ5fkS3",
+            "display_url": "pic.twitter.com/veNBQ5fkS3",
+            "expanded_url": "https://twitter.com/cwctyty/status/1547159490071793665/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 766,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 766,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 543,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1547159482241011713,
+            "id_str": "1547159482241011713",
+            "indices": [
+              31,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXidWhXaUAEzF0o.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXidWhXaUAEzF0o.jpg",
+            "url": "https://t.co/veNBQ5fkS3",
+            "display_url": "pic.twitter.com/veNBQ5fkS3",
+            "expanded_url": "https://twitter.com/cwctyty/status/1547159490071793665/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 766,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 766,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 543,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1387197413765513219,
+        "id_str": "1387197413765513219",
+        "name": "股海航行靠剁手(支帳必封,不用吠)",
+        "screen_name": "cwctyty",
+        "location": "Yokohama City, Kanagawa",
+        "description": "中國殘體一律封鎖! 不要來我這邊戰/嘴... 我在TWEET不愛戰也懶得嘴. 看不順眼就封鎖我,不然我就封鎖你",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2107,
+        "friends_count": 71,
+        "listed_count": 13,
+        "created_at": "Wed Apr 28 00:10:51 +0000 2021",
+        "favourites_count": 36036,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12420,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1545383458167717888/N-36BopP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1545383458167717888/N-36BopP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387197413765513219/1657236846",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 128,
+      "favorite_count": 1292,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 13 09:00:16 +0000 2022",
+    "id": 1547143863147474944,
+    "id_str": "1547143863147474944",
+    "text": "RT @cwctyty: 客家人就是硬頸! \n#喝酒吃飯\n#對不起我支持過柯文哲 https://t.co/diTJUFibdq",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "喝酒吃飯",
+          "indices": [
+            23,
+            28
+          ]
+        },
+        {
+          "text": "對不起我支持過柯文哲",
+          "indices": [
+            29,
+            40
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "cwctyty",
+          "name": "股海航行靠剁手(支帳必封,不用吠)",
+          "id": 1387197413765513219,
+          "id_str": "1387197413765513219",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1547109436636135424,
+          "id_str": "1547109436636135424",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXhv1e9aAAAIUJS.png",
+          "media_url_https": "https://pbs.twimg.com/media/FXhv1e9aAAAIUJS.png",
+          "url": "https://t.co/diTJUFibdq",
+          "display_url": "pic.twitter.com/diTJUFibdq",
+          "expanded_url": "https://twitter.com/cwctyty/status/1547109617658109952/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 560,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 695,
+              "h": 844,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 695,
+              "h": 844,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1547109617658109952,
+          "source_status_id_str": "1547109617658109952",
+          "source_user_id": 1387197413765513219,
+          "source_user_id_str": "1387197413765513219"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1547109436636135424,
+          "id_str": "1547109436636135424",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXhv1e9aAAAIUJS.png",
+          "media_url_https": "https://pbs.twimg.com/media/FXhv1e9aAAAIUJS.png",
+          "url": "https://t.co/diTJUFibdq",
+          "display_url": "pic.twitter.com/diTJUFibdq",
+          "expanded_url": "https://twitter.com/cwctyty/status/1547109617658109952/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 560,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 695,
+              "h": 844,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 695,
+              "h": 844,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1547109617658109952,
+          "source_status_id_str": "1547109617658109952",
+          "source_user_id": 1387197413765513219,
+          "source_user_id_str": "1387197413765513219"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 13 06:44:11 +0000 2022",
+      "id": 1547109617658109952,
+      "id_str": "1547109617658109952",
+      "text": "客家人就是硬頸! \n#喝酒吃飯\n#對不起我支持過柯文哲 https://t.co/diTJUFibdq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "喝酒吃飯",
+            "indices": [
+              10,
+              15
+            ]
+          },
+          {
+            "text": "對不起我支持過柯文哲",
+            "indices": [
+              16,
+              27
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1547109436636135424,
+            "id_str": "1547109436636135424",
+            "indices": [
+              28,
+              51
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXhv1e9aAAAIUJS.png",
+            "media_url_https": "https://pbs.twimg.com/media/FXhv1e9aAAAIUJS.png",
+            "url": "https://t.co/diTJUFibdq",
+            "display_url": "pic.twitter.com/diTJUFibdq",
+            "expanded_url": "https://twitter.com/cwctyty/status/1547109617658109952/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 560,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 695,
+                "h": 844,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 695,
+                "h": 844,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1547109436636135424,
+            "id_str": "1547109436636135424",
+            "indices": [
+              28,
+              51
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXhv1e9aAAAIUJS.png",
+            "media_url_https": "https://pbs.twimg.com/media/FXhv1e9aAAAIUJS.png",
+            "url": "https://t.co/diTJUFibdq",
+            "display_url": "pic.twitter.com/diTJUFibdq",
+            "expanded_url": "https://twitter.com/cwctyty/status/1547109617658109952/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 560,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 695,
+                "h": 844,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 695,
+                "h": 844,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1387197413765513219,
+        "id_str": "1387197413765513219",
+        "name": "股海航行靠剁手(支帳必封,不用吠)",
+        "screen_name": "cwctyty",
+        "location": "Yokohama City, Kanagawa",
+        "description": "中國殘體一律封鎖! 不要來我這邊戰/嘴... 我在TWEET不愛戰也懶得嘴. 看不順眼就封鎖我,不然我就封鎖你",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2107,
+        "friends_count": 71,
+        "listed_count": 13,
+        "created_at": "Wed Apr 28 00:10:51 +0000 2021",
+        "favourites_count": 36036,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 12420,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1545383458167717888/N-36BopP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1545383458167717888/N-36BopP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1387197413765513219/1657236846",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 42,
+      "favorite_count": 147,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 42,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Jul 12 01:36:44 +0000 2022",
+    "id": 1546669857353084928,
+    "id_str": "1546669857353084928",
+    "text": "令這張照片享譽全球的，不是攝影師，而是愛因斯坦本人。他送給友人 Johanna Fantova 那一張上寫道：\n\n「伸出的舌頭，吐露著我的政治觀點」。\n\n愛因斯坦吐舌頭，原由和意義 https://t.co/tTHpQUHaCo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tTHpQUHaCo",
+          "expanded_url": "https://bit.ly/3yqdX0g",
+          "display_url": "bit.ly/3yqdX0g",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1528228919647686657,
+    "in_reply_to_status_id_str": "1528228919647686657",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 12 01:30:42 +0000 2022",
+    "id": 1546668338079641600,
+    "id_str": "1546668338079641600",
+    "text": "而亞馬遜 4月支付給個人與小型出版的 KU（Kindle Unlimited）看到飽、按頁計價版權費，來到 4,150萬美金。\n\n這些金額大多數應該都不在 AAP 統計之中，而總金額居然會有全美主流出版商電子書接近半數，這也讓人咋… https://t.co/LAmLBekBjx",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LAmLBekBjx",
+          "expanded_url": "https://twitter.com/i/web/status/1546668338079641600",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1546666477507395584,
+    "in_reply_to_status_id_str": "1546666477507395584",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jul 12 01:23:18 +0000 2022",
+    "id": 1546666477507395584,
+    "id_str": "1546666477507395584",
+    "text": "美國出版商協會（AAP）公布4月份數據，主流出版商相較去年仍呈現下跌趨勢，跌幅最大的是精裝書營收；其次則是電子書，營收 8,430萬美金，相較去年同期跌幅為 8.4%；唯一成長的是線上有聲書，6,660萬美金，成長5.6%。\n\nA… https://t.co/g4ICj0RR1e",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g4ICj0RR1e",
+          "expanded_url": "https://twitter.com/i/web/status/1546666477507395584",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jul 11 01:43:42 +0000 2022",
     "id": 1546309224484859905,
     "id_str": "1546309224484859905",
