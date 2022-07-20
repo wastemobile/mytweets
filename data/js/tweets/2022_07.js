@@ -1,5 +1,223 @@
 Grailbird.data.tweets_2022_07 = [
   {
+    "created_at": "Wed Jul 20 01:27:00 +0000 2022",
+    "id": 1549566511525744640,
+    "id_str": "1549566511525744640",
+    "text": "RT @OhWooYoung: 文策院回覆台劇給 B 站獨播的風波，幫翻譯「我只負責出錢，其他不關我的事」 https://t.co/Fs0OpxBZzD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OhWooYoung",
+          "name": "✞ 迷妹打字機",
+          "id": 6904132,
+          "id_str": "6904132",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Fs0OpxBZzD",
+          "expanded_url": "https://art.ltn.com.tw/article/breakingnews/3997613",
+          "display_url": "art.ltn.com.tw/article/breaki…",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 20 01:23:26 +0000 2022",
+      "id": 1549565615509102592,
+      "id_str": "1549565615509102592",
+      "text": "文策院回覆台劇給 B 站獨播的風波，幫翻譯「我只負責出錢，其他不關我的事」 https://t.co/Fs0OpxBZzD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Fs0OpxBZzD",
+            "expanded_url": "https://art.ltn.com.tw/article/breakingnews/3997613",
+            "display_url": "art.ltn.com.tw/article/breaki…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6904132,
+        "id_str": "6904132",
+        "name": "✞ 迷妹打字機",
+        "screen_name": "OhWooYoung",
+        "location": "",
+        "description": "-ˋˏ ♡ ˎˊ- \n坑底的狂熱\n興趣廣而淺\n因為喜歡韓國 (*´д`)~♡ \n所以生活變得有點不一樣\n(｡･ω･｡)ﾉ♡",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 838,
+        "friends_count": 118,
+        "listed_count": 8,
+        "created_at": "Tue Jun 19 01:11:36 +0000 2007",
+        "favourites_count": 26,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1285,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "474747",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1492477432208961537/9lSs4fWO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492477432208961537/9lSs4fWO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6904132/1642561468",
+        "profile_link_color": "397D7A",
+        "profile_sidebar_border_color": "858285",
+        "profile_sidebar_fill_color": "708580",
+        "profile_text_color": "4A354A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jul 20 01:19:02 +0000 2022",
+    "id": 1549564507088756736,
+    "id_str": "1549564507088756736",
+    "text": "「去年，美國銷售近 8.27 億本印刷書，創下 NPD BookScan 過去 20 年記錄，但統計 320 萬部作品中，銷量超過 5,000 冊的不足 1%。」\n\n這比例確實嚇人，大多數紙書都只是處在紙漿循環再利用的途中嗎⋯⋯… https://t.co/VRHlZGUadQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VRHlZGUadQ",
+          "expanded_url": "https://twitter.com/i/web/status/1549564507088756736",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jul 18 01:08:54 +0000 2022",
     "id": 1548837182499983360,
     "id_str": "1548837182499983360",
