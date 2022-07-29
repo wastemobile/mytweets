@@ -1,5 +1,170 @@
 Grailbird.data.tweets_2022_07 = [
   {
+    "created_at": "Fri Jul 29 01:56:58 +0000 2022",
+    "id": 1552835542710030336,
+    "id_str": "1552835542710030336",
+    "text": "BOOK Token 這份白皮書值得一讀。\n\n「擁有自己的書本是一項基本權利。綜觀歷史，當中央當局能夠控制資訊、並從人們手中拿走書籍時，對人類來說既危險又糟糕」。目前通行的電子書依舊架設在集中式管理機制上，NFT有改變的力量。… https://t.co/dzg5Hg0fXb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dzg5Hg0fXb",
+          "expanded_url": "https://twitter.com/i/web/status/1552835542710030336",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1552828212354301953,
+    "in_reply_to_status_id_str": "1552828212354301953",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 29 01:27:50 +0000 2022",
+    "id": 1552828212354301953,
+    "id_str": "1552828212354301953",
+    "text": "區塊鏈新創 Book Token 選擇以《古騰堡聖經》作為首本正式發售的NFT電子書，24小時內販售超過10萬美金；推出4小時後，就開始從第三方NFT市場收取到轉售二手電子書的版稅收入。… https://t.co/WfCnIUC51u",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WfCnIUC51u",
+          "expanded_url": "https://twitter.com/i/web/status/1552828212354301953",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1460445592354635779,
+    "in_reply_to_status_id_str": "1460445592354635779",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jul 29 01:18:34 +0000 2022",
+    "id": 1552825881281736704,
+    "id_str": "1552825881281736704",
+    "text": "500公尺高、200公尺寬、綿延沙烏地阿拉伯西北部170公里長的鏡面城市，是沙烏地阿拉伯未來超級城市NEOM的一部分，高速鐵路20分鐘內連接兩端。\n\n很酷，但為何外牆要設計成鏡面？\n\n沙烏地阿拉伯「THE LINE」線性城市！鏡面… https://t.co/Fzb63cTjxQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Fzb63cTjxQ",
+          "expanded_url": "https://twitter.com/i/web/status/1552825881281736704",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jul 28 01:58:47 +0000 2022",
     "id": 1552473613541842944,
     "id_str": "1552473613541842944",
