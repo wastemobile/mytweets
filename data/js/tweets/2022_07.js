@@ -1,5 +1,199 @@
 Grailbird.data.tweets_2022_07 = [
   {
+    "created_at": "Sat Jul 30 01:31:03 +0000 2022",
+    "id": 1553191409653407744,
+    "id_str": "1553191409653407744",
+    "text": "企鵝平裝本前 3,000 本的完整清單。 #note\n\nhttps://t.co/sTJKMyog4l https://t.co/oHqmAUK393",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            21,
+            26
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sTJKMyog4l",
+          "expanded_url": "http://www.penguinfirsteditions.com/index.php?cat=main_series001-099",
+          "display_url": "penguinfirsteditions.com/index.php?cat=…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1553191401390612481,
+          "id_str": "1553191401390612481",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/FY4LWbQUIAEb3PP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FY4LWbQUIAEb3PP.jpg",
+          "url": "https://t.co/oHqmAUK393",
+          "display_url": "pic.twitter.com/oHqmAUK393",
+          "expanded_url": "https://twitter.com/wastemobile/status/1553191409653407744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 725,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 853,
+              "h": 1412,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 411,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1553191401390612481,
+          "id_str": "1553191401390612481",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/FY4LWbQUIAEb3PP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FY4LWbQUIAEb3PP.jpg",
+          "url": "https://t.co/oHqmAUK393",
+          "display_url": "pic.twitter.com/oHqmAUK393",
+          "expanded_url": "https://twitter.com/wastemobile/status/1553191409653407744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 725,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 853,
+              "h": 1412,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 411,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1553187646498779137,
+    "in_reply_to_status_id_str": "1553187646498779137",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jul 30 01:16:06 +0000 2022",
+    "id": 1553187646498779137,
+    "id_str": "1553187646498779137",
+    "text": "今天（7/30）是「平裝本日」，第一批企鵝平裝本在英國上市的紀念日。\n\n1935年7月每本6便士（幣值約等目前2.5便士）出版了前十本，1954年7/30出版第1,000號。當時用顏色區分系列，橘色是小說、深藍色傳記、綠色是犯罪或… https://t.co/ODQMsly9M6",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ODQMsly9M6",
+          "expanded_url": "https://twitter.com/i/web/status/1553187646498779137",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jul 29 01:56:58 +0000 2022",
     "id": 1552835542710030336,
     "id_str": "1552835542710030336",
