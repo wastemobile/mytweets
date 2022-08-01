@@ -1,5 +1,185 @@
 Grailbird.data.tweets_2022_07 = [
   {
+    "created_at": "Sun Jul 31 03:13:32 +0000 2022",
+    "id": 1553579586645938176,
+    "id_str": "1553579586645938176",
+    "text": "來看看商周這期對 PChome 的分析。\n\n「很可能我們想的是20年後的生態圈，但20年後沒有我們。」（投資 PChome 資深股東在股東會上對以詹宏志為首的經營團隊這樣說。） https://t.co/BNT47hQmdg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1553579576952909824,
+          "id_str": "1553579576952909824",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/FY9sZN6UcAAztOi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FY9sZN6UcAAztOi.jpg",
+          "url": "https://t.co/BNT47hQmdg",
+          "display_url": "pic.twitter.com/BNT47hQmdg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1553579586645938176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1553579576952909824,
+          "id_str": "1553579576952909824",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/FY9sZN6UcAAztOi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FY9sZN6UcAAztOi.jpg",
+          "url": "https://t.co/BNT47hQmdg",
+          "display_url": "pic.twitter.com/BNT47hQmdg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1553579586645938176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1473838525426847744,
+    "in_reply_to_status_id_str": "1473838525426847744",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jul 31 01:59:35 +0000 2022",
+    "id": 1553560979027333122,
+    "id_str": "1553560979027333122",
+    "text": "串流音樂商買有聲書技術服務商還算合理，但付出 1.23 億美金？應該是做了冤大頭吧⋯⋯\n\nhttps://t.co/7rZbqVDD4F",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7rZbqVDD4F",
+          "expanded_url": "https://bit.ly/3ScVj58",
+          "display_url": "bit.ly/3ScVj58",
+          "indices": [
+            45,
+            68
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1458978108460072960,
+    "in_reply_to_status_id_str": "1458978108460072960",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jul 30 01:31:03 +0000 2022",
     "id": 1553191409653407744,
     "id_str": "1553191409653407744",
