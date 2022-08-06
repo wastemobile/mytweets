@@ -1,5 +1,1222 @@
 Grailbird.data.tweets_2022_08 = [
   {
+    "created_at": "Fri Aug 05 23:19:42 +0000 2022",
+    "id": 1555695069956435968,
+    "id_str": "1555695069956435968",
+    "text": "《The Sandman》（睡魔）終於上架 #Netflix #NeilGaiman\n\n1995 年首次入手前兩本 DC Comics 圖像小說，就是 1992 年出版的全彩睡魔，希望影集能在水準之上。… https://t.co/RwHEHOZihZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            22,
+            30
+          ]
+        },
+        {
+          "text": "NeilGaiman",
+          "indices": [
+            31,
+            42
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RwHEHOZihZ",
+          "expanded_url": "https://twitter.com/i/web/status/1555695069956435968",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 05 00:30:23 +0000 2022",
+    "id": 1555350468720672773,
+    "id_str": "1555350468720672773",
+    "text": "RT @darthmarutw: 這則專訪傳達了兩個重要訊息：1.外國人怎麼看台灣大選，選國民黨=選中共 https://t.co/fvHcDvCuAM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "darthmarutw",
+          "name": "達斯丸💙💛銀河帝國皇家高端黑武士",
+          "id": 8385732,
+          "id_str": "8385732",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1555342727705149441,
+          "id_str": "1555342727705149441",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/FZWv-GTaQAEMrTy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FZWv-GTaQAEMrTy.jpg",
+          "url": "https://t.co/fvHcDvCuAM",
+          "display_url": "pic.twitter.com/fvHcDvCuAM",
+          "expanded_url": "https://twitter.com/darthmarutw/status/1555342737532399617/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 554,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 946,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 314,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1555342737532399617,
+          "source_status_id_str": "1555342737532399617",
+          "source_user_id": 8385732,
+          "source_user_id_str": "8385732"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1555342727705149441,
+          "id_str": "1555342727705149441",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/FZWv-GTaQAEMrTy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FZWv-GTaQAEMrTy.jpg",
+          "url": "https://t.co/fvHcDvCuAM",
+          "display_url": "pic.twitter.com/fvHcDvCuAM",
+          "expanded_url": "https://twitter.com/darthmarutw/status/1555342737532399617/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 554,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 946,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 314,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1555342737532399617,
+          "source_status_id_str": "1555342737532399617",
+          "source_user_id": 8385732,
+          "source_user_id_str": "8385732"
+        },
+        {
+          "id": 1555342727709360129,
+          "id_str": "1555342727709360129",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/FZWv-GUagAEVG5z.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FZWv-GUagAEVG5z.jpg",
+          "url": "https://t.co/fvHcDvCuAM",
+          "display_url": "pic.twitter.com/fvHcDvCuAM",
+          "expanded_url": "https://twitter.com/darthmarutw/status/1555342737532399617/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 946,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 314,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 554,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1555342737532399617,
+          "source_status_id_str": "1555342737532399617",
+          "source_user_id": 8385732,
+          "source_user_id_str": "8385732"
+        },
+        {
+          "id": 1555342727700946944,
+          "id_str": "1555342727700946944",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/FZWv-GSaIAAq98w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FZWv-GSaIAAq98w.jpg",
+          "url": "https://t.co/fvHcDvCuAM",
+          "display_url": "pic.twitter.com/fvHcDvCuAM",
+          "expanded_url": "https://twitter.com/darthmarutw/status/1555342737532399617/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 554,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 314,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 946,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1555342737532399617,
+          "source_status_id_str": "1555342737532399617",
+          "source_user_id": 8385732,
+          "source_user_id_str": "8385732"
+        },
+        {
+          "id": 1555342727680004096,
+          "id_str": "1555342727680004096",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/FZWv-GNakAAn4zc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FZWv-GNakAAn4zc.jpg",
+          "url": "https://t.co/fvHcDvCuAM",
+          "display_url": "pic.twitter.com/fvHcDvCuAM",
+          "expanded_url": "https://twitter.com/darthmarutw/status/1555342737532399617/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 314,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 554,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 946,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1555342737532399617,
+          "source_status_id_str": "1555342737532399617",
+          "source_user_id": 8385732,
+          "source_user_id_str": "8385732"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 04 23:59:40 +0000 2022",
+      "id": 1555342737532399617,
+      "id_str": "1555342737532399617",
+      "text": "這則專訪傳達了兩個重要訊息：1.外國人怎麼看台灣大選，選國民黨=選中共 https://t.co/fvHcDvCuAM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1555342727705149441,
+            "id_str": "1555342727705149441",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/FZWv-GTaQAEMrTy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FZWv-GTaQAEMrTy.jpg",
+            "url": "https://t.co/fvHcDvCuAM",
+            "display_url": "pic.twitter.com/fvHcDvCuAM",
+            "expanded_url": "https://twitter.com/darthmarutw/status/1555342737532399617/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 554,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 946,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 314,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1555342727705149441,
+            "id_str": "1555342727705149441",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/FZWv-GTaQAEMrTy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FZWv-GTaQAEMrTy.jpg",
+            "url": "https://t.co/fvHcDvCuAM",
+            "display_url": "pic.twitter.com/fvHcDvCuAM",
+            "expanded_url": "https://twitter.com/darthmarutw/status/1555342737532399617/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 554,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 946,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 314,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1555342727709360129,
+            "id_str": "1555342727709360129",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/FZWv-GUagAEVG5z.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FZWv-GUagAEVG5z.jpg",
+            "url": "https://t.co/fvHcDvCuAM",
+            "display_url": "pic.twitter.com/fvHcDvCuAM",
+            "expanded_url": "https://twitter.com/darthmarutw/status/1555342737532399617/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 946,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 314,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 554,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1555342727700946944,
+            "id_str": "1555342727700946944",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/FZWv-GSaIAAq98w.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FZWv-GSaIAAq98w.jpg",
+            "url": "https://t.co/fvHcDvCuAM",
+            "display_url": "pic.twitter.com/fvHcDvCuAM",
+            "expanded_url": "https://twitter.com/darthmarutw/status/1555342737532399617/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 554,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 314,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 946,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1555342727680004096,
+            "id_str": "1555342727680004096",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/FZWv-GNakAAn4zc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FZWv-GNakAAn4zc.jpg",
+            "url": "https://t.co/fvHcDvCuAM",
+            "display_url": "pic.twitter.com/fvHcDvCuAM",
+            "expanded_url": "https://twitter.com/darthmarutw/status/1555342737532399617/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 314,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 554,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 946,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1555339762307067904,
+      "in_reply_to_status_id_str": "1555339762307067904",
+      "in_reply_to_user_id": 8385732,
+      "in_reply_to_user_id_str": "8385732",
+      "in_reply_to_screen_name": "darthmarutw",
+      "user": {
+        "id": 8385732,
+        "id_str": "8385732",
+        "name": "達斯丸💙💛銀河帝國皇家高端黑武士",
+        "screen_name": "darthmarutw",
+        "location": "Taiwan",
+        "description": "■MAY THE FORCE BE WITH YOU. ■MAY THE FORCE BE WITH UKRAINE.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 239,
+        "friends_count": 537,
+        "listed_count": 4,
+        "created_at": "Thu Aug 23 16:06:34 +0000 2007",
+        "favourites_count": 24915,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8288,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1151584239/image_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151584239/image_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/8385732/1645015739",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 36,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 04 15:20:48 +0000 2022",
+    "id": 1555212160246386693,
+    "id_str": "1555212160246386693",
+    "text": "看完《鏈鋸人》漫畫 https://t.co/rK4BqFHe77 #kobo\n\n要開始看《FIRE PUNCH 炎拳》了 https://t.co/X3boWsgkvI\n\n藤本樹是我的新偶像、邪教教主～ https://t.co/GLeCttoWQE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            34,
+            39
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rK4BqFHe77",
+          "expanded_url": "https://bit.ly/3zukTKp",
+          "display_url": "bit.ly/3zukTKp",
+          "indices": [
+            10,
+            33
+          ]
+        },
+        {
+          "url": "https://t.co/X3boWsgkvI",
+          "expanded_url": "https://bit.ly/3cTYgr9",
+          "display_url": "bit.ly/3cTYgr9",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1555212153308647425,
+          "id_str": "1555212153308647425",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/FZU5NqxVEAElts7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FZU5NqxVEAElts7.jpg",
+          "url": "https://t.co/GLeCttoWQE",
+          "display_url": "pic.twitter.com/GLeCttoWQE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1555212160246386693/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 353,
+              "h": 530,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 530,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1555212153308647425,
+          "id_str": "1555212153308647425",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/FZU5NqxVEAElts7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FZU5NqxVEAElts7.jpg",
+          "url": "https://t.co/GLeCttoWQE",
+          "display_url": "pic.twitter.com/GLeCttoWQE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1555212160246386693/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 353,
+              "h": 530,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 530,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1555212153270857730,
+          "id_str": "1555212153270857730",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/FZU5NqoUcAIRn05.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FZU5NqoUcAIRn05.jpg",
+          "url": "https://t.co/GLeCttoWQE",
+          "display_url": "pic.twitter.com/GLeCttoWQE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1555212160246386693/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 353,
+              "h": 530,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 530,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 353,
+              "h": 530,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 04 15:15:19 +0000 2022",
+    "id": 1555210783830597632,
+    "id_str": "1555210783830597632",
+    "text": "RT @AutumHuang: 📢請用力轉傳📢\n\n張善蹭說，應該學\n中共沒有人權，大量用AI, 要怎麼搜，就怎麼搜，這樣AI才會進步\n\n真的難以想像，他當過Google 的地區負責人 https://t.co/VkSzJVH1cA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AutumHuang",
+          "name": "Huang autum",
+          "id": 1117025388847222784,
+          "id_str": "1117025388847222784",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1555178850564579328,
+          "id_str": "1555178850564579328",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555178850564579328/pu/img/Y3wtRhDCwNe2plPS.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555178850564579328/pu/img/Y3wtRhDCwNe2plPS.jpg",
+          "url": "https://t.co/VkSzJVH1cA",
+          "display_url": "pic.twitter.com/VkSzJVH1cA",
+          "expanded_url": "https://twitter.com/AutumHuang/status/1555178899109056512/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1555178899109056512,
+          "source_status_id_str": "1555178899109056512",
+          "source_user_id": 1117025388847222784,
+          "source_user_id_str": "1117025388847222784"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1555178850564579328,
+          "id_str": "1555178850564579328",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555178850564579328/pu/img/Y3wtRhDCwNe2plPS.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555178850564579328/pu/img/Y3wtRhDCwNe2plPS.jpg",
+          "url": "https://t.co/VkSzJVH1cA",
+          "display_url": "pic.twitter.com/VkSzJVH1cA",
+          "expanded_url": "https://twitter.com/AutumHuang/status/1555178899109056512/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 540,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1555178899109056512,
+          "source_status_id_str": "1555178899109056512",
+          "source_user_id": 1117025388847222784,
+          "source_user_id_str": "1117025388847222784",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 38600,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1555178850564579328/pu/vid/480x270/IytcgIORek3jyqhP.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1555178850564579328/pu/pl/Z_Mtx0Zg_iQGocV_.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1555178850564579328/pu/vid/960x540/pAXJJPLQ21rhySk3.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1555178850564579328/pu/vid/640x360/3MRvvM-M_HgK_VVE.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 1117025388847222784,
+              "id_str": "1117025388847222784",
+              "name": "Huang autum",
+              "screen_name": "AutumHuang",
+              "location": "",
+              "description": "",
+              "url": null,
+              "entities": {
+                "description": {
+                  "urls": [
+
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 2041,
+              "friends_count": 2128,
+              "listed_count": 23,
+              "created_at": "Sat Apr 13 11:23:00 +0000 2019",
+              "favourites_count": 57988,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": false,
+              "statuses_count": 20801,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1472809102510542850/WiH-8BjT_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472809102510542850/WiH-8BjT_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117025388847222784/1635492694",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": true,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 04 13:08:38 +0000 2022",
+      "id": 1555178899109056512,
+      "id_str": "1555178899109056512",
+      "text": "📢請用力轉傳📢\n\n張善蹭說，應該學\n中共沒有人權，大量用AI, 要怎麼搜，就怎麼搜，這樣AI才會進步\n\n真的難以想像，他當過Google 的地區負責人 https://t.co/VkSzJVH1cA",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1555178850564579328,
+            "id_str": "1555178850564579328",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555178850564579328/pu/img/Y3wtRhDCwNe2plPS.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555178850564579328/pu/img/Y3wtRhDCwNe2plPS.jpg",
+            "url": "https://t.co/VkSzJVH1cA",
+            "display_url": "pic.twitter.com/VkSzJVH1cA",
+            "expanded_url": "https://twitter.com/AutumHuang/status/1555178899109056512/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1555178850564579328,
+            "id_str": "1555178850564579328",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555178850564579328/pu/img/Y3wtRhDCwNe2plPS.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555178850564579328/pu/img/Y3wtRhDCwNe2plPS.jpg",
+            "url": "https://t.co/VkSzJVH1cA",
+            "display_url": "pic.twitter.com/VkSzJVH1cA",
+            "expanded_url": "https://twitter.com/AutumHuang/status/1555178899109056512/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 38600,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1555178850564579328/pu/vid/480x270/IytcgIORek3jyqhP.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1555178850564579328/pu/pl/Z_Mtx0Zg_iQGocV_.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1555178850564579328/pu/vid/960x540/pAXJJPLQ21rhySk3.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1555178850564579328/pu/vid/640x360/3MRvvM-M_HgK_VVE.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1117025388847222784,
+        "id_str": "1117025388847222784",
+        "name": "Huang autum",
+        "screen_name": "AutumHuang",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2041,
+        "friends_count": 2128,
+        "listed_count": 23,
+        "created_at": "Sat Apr 13 11:23:00 +0000 2019",
+        "favourites_count": 57988,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20801,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1472809102510542850/WiH-8BjT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1472809102510542850/WiH-8BjT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117025388847222784/1635492694",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 456,
+      "favorite_count": 960,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 456,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Aug 04 02:41:49 +0000 2022",
     "id": 1555021156696043521,
     "id_str": "1555021156696043521",
