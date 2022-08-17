@@ -1,5 +1,462 @@
 Grailbird.data.tweets_2022_08 = [
   {
+    "created_at": "Wed Aug 17 01:50:26 +0000 2022",
+    "id": 1559719269562167296,
+    "id_str": "1559719269562167296",
+    "text": "大開眼界的問答。\n\n#名人專業問答 #睡魔 #NeilGaiman\n\n希臘神話關係混亂？《睡魔》作者尼爾蓋曼解答神話問題：「睡宙斯好處超多！」 Neil Gaiman Answers Mythology Questions｜名人專… https://t.co/7Mo62AO1PC",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "名人專業問答",
+          "indices": [
+            10,
+            17
+          ]
+        },
+        {
+          "text": "睡魔",
+          "indices": [
+            18,
+            21
+          ]
+        },
+        {
+          "text": "NeilGaiman",
+          "indices": [
+            22,
+            33
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7Mo62AO1PC",
+          "expanded_url": "https://twitter.com/i/web/status/1559719269562167296",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1555695069956435968,
+    "in_reply_to_status_id_str": "1555695069956435968",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 17 01:08:33 +0000 2022",
+    "id": 1559708727338422272,
+    "id_str": "1559708727338422272",
+    "text": "RT @miaopoya: 中國側翼有什麼資格罵別人綠營側翼？\n\n民主國家，關心政治應該是被鼓勵的公民參與。每個人都可以有自己的政治立場，有政黨傾向並非可恥之事。\n\n幫助中國侵略臺灣，拉共產黨打臺灣不同黨派，最終結果是會消滅臺灣民主。這樣的人，怎麼有資格假高尚指責別人有政治立場？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "miaopoya",
+          "name": "苗博雅",
+          "id": 1498716293146447878,
+          "id_str": "1498716293146447878",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Aug 16 11:55:51 +0000 2022",
+      "id": 1559509240485597187,
+      "id_str": "1559509240485597187",
+      "text": "中國側翼有什麼資格罵別人綠營側翼？\n\n民主國家，關心政治應該是被鼓勵的公民參與。每個人都可以有自己的政治立場，有政黨傾向並非可恥之事。\n\n幫助中國侵略臺灣，拉共產黨打臺灣不同黨派，最終結果是會消滅臺灣民主。這樣的人，怎麼有資格假高尚指責別人有政治立場？",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1498716293146447878,
+        "id_str": "1498716293146447878",
+        "name": "苗博雅",
+        "screen_name": "miaopoya",
+        "location": "台北市, 台灣",
+        "description": "臺北市議員 Taipei City Councilor, Taiwan",
+        "url": "https://t.co/cflG2zeEqj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/cflG2zeEqj",
+                "expanded_url": "https://portaly.cc/miaopoya",
+                "display_url": "portaly.cc/miaopoya",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 20110,
+        "friends_count": 100,
+        "listed_count": 84,
+        "created_at": "Tue Mar 01 17:47:19 +0000 2022",
+        "favourites_count": 84,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 79,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1498716527515693056/4DTL4G9s_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1498716527515693056/4DTL4G9s_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498716293146447878/1646247357",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00180402799fed03",
+        "url": "https://api.twitter.com/1.1/geo/id/00180402799fed03.json",
+        "place_type": "city",
+        "name": "台北市",
+        "full_name": "台北市, 台灣",
+        "country_code": "TW",
+        "country": "台灣",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                121.457132,
+                24.960508
+              ],
+              [
+                121.66582,
+                24.960508
+              ],
+              [
+                121.66582,
+                25.211004
+              ],
+              [
+                121.457132,
+                25.211004
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 267,
+      "favorite_count": 3318,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 267,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 17 00:33:27 +0000 2022",
+    "id": 1559699897267261440,
+    "id_str": "1559699897267261440",
+    "text": "以 SAT 題目測試，「閱讀小說對提升同義詞運用、類比、完成句子和閱讀理解 4 項語文能力具顯著關聯；閱讀非小說讀物則無助於在以上測試爭取較佳表現，或只顯示輕微影響。」。\n\n讀小說好處多多。\n\n想提升語文能力？閱讀小說，而不是非小… https://t.co/EdpQu9KUtF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EdpQu9KUtF",
+          "expanded_url": "https://twitter.com/i/web/status/1559699897267261440",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 16 00:49:19 +0000 2022",
+    "id": 1559341499992588288,
+    "id_str": "1559341499992588288",
+    "text": "真的不知道台灣六〇、七〇年代有這麼猛的漫畫!?\n\n不只是淳樸的古早年代──情色、虐殺、鬼魅，你不認識的台灣恐怖漫畫 ft. 怪奇閣 https://t.co/0GcAqtyqkY https://t.co/k3dZsPM0ry",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0GcAqtyqkY",
+          "expanded_url": "https://bit.ly/3dArmfL",
+          "display_url": "bit.ly/3dArmfL",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1559341491427758080,
+          "id_str": "1559341491427758080",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FaPk0yAUUAAXNLz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FaPk0yAUUAAXNLz.jpg",
+          "url": "https://t.co/k3dZsPM0ry",
+          "display_url": "pic.twitter.com/k3dZsPM0ry",
+          "expanded_url": "https://twitter.com/wastemobile/status/1559341499992588288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1559341491427758080,
+          "id_str": "1559341491427758080",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FaPk0yAUUAAXNLz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FaPk0yAUUAAXNLz.jpg",
+          "url": "https://t.co/k3dZsPM0ry",
+          "display_url": "pic.twitter.com/k3dZsPM0ry",
+          "expanded_url": "https://twitter.com/wastemobile/status/1559341499992588288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 720,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Aug 15 02:36:42 +0000 2022",
     "id": 1559006135398461440,
     "id_str": "1559006135398461440",
