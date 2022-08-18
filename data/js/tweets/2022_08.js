@@ -1,5 +1,2448 @@
 Grailbird.data.tweets_2022_08 = [
   {
+    "created_at": "Thu Aug 18 15:01:03 +0000 2022",
+    "id": 1560280622756548612,
+    "id_str": "1560280622756548612",
+    "text": "RT @NekomataIzayoi: 轉： https://t.co/xzE6TGSyWO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "NekomataIzayoi",
+          "name": "重尾猫妖齋",
+          "id": 11008692,
+          "id_str": "11008692",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1560273132652724224,
+          "id_str": "1560273132652724224",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fac0JcBaAAAuvqQ.png",
+          "media_url_https": "https://pbs.twimg.com/media/Fac0JcBaAAAuvqQ.png",
+          "url": "https://t.co/xzE6TGSyWO",
+          "display_url": "pic.twitter.com/xzE6TGSyWO",
+          "expanded_url": "https://twitter.com/NekomataIzayoi/status/1560273193889562630/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 828,
+              "h": 574,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 471,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 828,
+              "h": 574,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1560273193889562630,
+          "source_status_id_str": "1560273193889562630",
+          "source_user_id": 11008692,
+          "source_user_id_str": "11008692"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1560273132652724224,
+          "id_str": "1560273132652724224",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fac0JcBaAAAuvqQ.png",
+          "media_url_https": "https://pbs.twimg.com/media/Fac0JcBaAAAuvqQ.png",
+          "url": "https://t.co/xzE6TGSyWO",
+          "display_url": "pic.twitter.com/xzE6TGSyWO",
+          "expanded_url": "https://twitter.com/NekomataIzayoi/status/1560273193889562630/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 828,
+              "h": 574,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 471,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 828,
+              "h": 574,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 1560273193889562630,
+          "source_status_id_str": "1560273193889562630",
+          "source_user_id": 11008692,
+          "source_user_id_str": "11008692"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 18 14:31:32 +0000 2022",
+      "id": 1560273193889562630,
+      "id_str": "1560273193889562630",
+      "text": "轉： https://t.co/xzE6TGSyWO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1560273132652724224,
+            "id_str": "1560273132652724224",
+            "indices": [
+              3,
+              26
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fac0JcBaAAAuvqQ.png",
+            "media_url_https": "https://pbs.twimg.com/media/Fac0JcBaAAAuvqQ.png",
+            "url": "https://t.co/xzE6TGSyWO",
+            "display_url": "pic.twitter.com/xzE6TGSyWO",
+            "expanded_url": "https://twitter.com/NekomataIzayoi/status/1560273193889562630/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 828,
+                "h": 574,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 471,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 828,
+                "h": 574,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1560273132652724224,
+            "id_str": "1560273132652724224",
+            "indices": [
+              3,
+              26
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fac0JcBaAAAuvqQ.png",
+            "media_url_https": "https://pbs.twimg.com/media/Fac0JcBaAAAuvqQ.png",
+            "url": "https://t.co/xzE6TGSyWO",
+            "display_url": "pic.twitter.com/xzE6TGSyWO",
+            "expanded_url": "https://twitter.com/NekomataIzayoi/status/1560273193889562630/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 828,
+                "h": 574,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 471,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 828,
+                "h": 574,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 11008692,
+        "id_str": "11008692",
+        "name": "重尾猫妖齋",
+        "screen_name": "NekomataIzayoi",
+        "location": "Limbo",
+        "description": "Formosans, 咱愛做悲觀个積極主義者，Valar Morghulis. Fortes fortuna adiuvat. Deus Vult. Si vis pacem, para bellum. Valar Dohaeris. Ad astra per aspera. 🔁 or ❤≠endorsement.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 423,
+        "friends_count": 1098,
+        "listed_count": 7,
+        "created_at": "Mon Dec 10 03:27:02 +0000 2007",
+        "favourites_count": 41024,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25716,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1559876679644123136/d9T-DKKZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1559876679644123136/d9T-DKKZ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11008692/1633273765",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 14:18:03 +0000 2022",
+    "id": 1560269799229255681,
+    "id_str": "1560269799229255681",
+    "text": "對村上春樹來說，翻譯有點像是長跑般的「體能訓練」，他能每天維持一定進度堅持一整年。事實上從1981初翻費茲傑羅之後，村上這樣鍛鍊了二十年，才成功挑戰新譯了《大亨小傳》。\n\n據說最具村上特色的譯作，是卡佛的作品，很可惜無法用日文一窺… https://t.co/CTSAoiqFlb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CTSAoiqFlb",
+          "expanded_url": "https://twitter.com/i/web/status/1560269799229255681",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560264791863701505,
+    "in_reply_to_status_id_str": "1560264791863701505",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 13:58:09 +0000 2022",
+    "id": 1560264791863701505,
+    "id_str": "1560264791863701505",
+    "text": "約翰・歐文（John Irving）寫於1968的第一部長篇小說，描述兩個年輕人在歐洲遊歷的故事。\n\n村上寫的翻譯理由「想將這本當作範本，讓讀者知道，世界上也有這樣的小說」，因為他八〇年代中就是讀到歐文，才確認了自己的寫作發展方向… https://t.co/bdjzIejJLz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bdjzIejJLz",
+          "expanded_url": "https://twitter.com/i/web/status/1560264791863701505",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560262635999727616,
+    "in_reply_to_status_id_str": "1560262635999727616",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 13:49:35 +0000 2022",
+    "id": 1560262635999727616,
+    "id_str": "1560262635999727616",
+    "text": "Mark Strand 是美國詩人，村上翻譯了他的第一本短篇集《狗的人生》（無譯本），但前幾年簡中版出了兩本譯作。\n\n瑞蒙卡佛逝世後，村上造訪了卡佛的書房，在書架上第一次讀到 Mark Strand，之後便持續關注這位詩人。\n\n閱… https://t.co/G0ye5Qojyq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/G0ye5Qojyq",
+          "expanded_url": "https://twitter.com/i/web/status/1560262635999727616",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560259744018837504,
+    "in_reply_to_status_id_str": "1560259744018837504",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 13:38:05 +0000 2022",
+    "id": 1560259744018837504,
+    "id_str": "1560259744018837504",
+    "text": "《我的職業是小說家》有一篇寫於1999、當時他翻譯格蕾斯・佩蕾（Grace Paley ）小說的後記，這位女權主義社會運動家與作家，只留下三本短篇小說集、三本詩集，皆無中文譯本。\n\n村上非常欣賞她，譯第一本時就說要譯完她所有小說，… https://t.co/XKQk6pMgXV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XKQk6pMgXV",
+          "expanded_url": "https://twitter.com/i/web/status/1560259744018837504",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560157192619102208,
+    "in_reply_to_status_id_str": "1560157192619102208",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 07:09:04 +0000 2022",
+    "id": 1560161841883385857,
+    "id_str": "1560161841883385857",
+    "text": "@Meracat_ 還好我有先說對繪本完全不熟⋯⋯（逃",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Meracat_",
+          "name": "美拉 ",
+          "id": 128572982,
+          "id_str": "128572982",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1560155596074037248,
+    "in_reply_to_status_id_str": "1560155596074037248",
+    "in_reply_to_user_id": 128572982,
+    "in_reply_to_user_id_str": "128572982",
+    "in_reply_to_screen_name": "Meracat_",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:50:35 +0000 2022",
+    "id": 1560157192619102208,
+    "id_str": "1560157192619102208",
+    "text": "村上春樹早年翻譯過一本保羅・索魯的旅遊短篇，台灣沒有譯本，但馬可孛羅出了他蠻多本書，也非常多人極力推薦。\n\n我可能先挑這本來看看。\n\nhttps://t.co/bwEbBOuSAK https://t.co/rxQaWoLto5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bwEbBOuSAK",
+          "expanded_url": "https://bit.ly/3w8btn9",
+          "display_url": "bit.ly/3w8btn9",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1560157186981998592,
+          "id_str": "1560157186981998592",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/FabKsgvVsAA9qLg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FabKsgvVsAA9qLg.jpg",
+          "url": "https://t.co/rxQaWoLto5",
+          "display_url": "pic.twitter.com/rxQaWoLto5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560157192619102208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1560157186981998592,
+          "id_str": "1560157186981998592",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/FabKsgvVsAA9qLg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FabKsgvVsAA9qLg.jpg",
+          "url": "https://t.co/rxQaWoLto5",
+          "display_url": "pic.twitter.com/rxQaWoLto5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560157192619102208/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560153195598401537,
+    "in_reply_to_status_id_str": "1560153195598401537",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:34:42 +0000 2022",
+    "id": 1560153195598401537,
+    "id_str": "1560153195598401537",
+    "text": "謝爾．希爾弗斯坦的繪本，最知名的應該是《失落的一角》吧？村上春樹翻譯過一本較新的作品《愛心樹》。\n\n（可能只是被凹去做愛心⋯⋯!?）\n\nhttps://t.co/jumpdReTOf https://t.co/eRPVBT7fIQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jumpdReTOf",
+          "expanded_url": "https://bit.ly/3poixbw",
+          "display_url": "bit.ly/3poixbw",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1560153189596274688,
+          "id_str": "1560153189596274688",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/FabHD1UUIAApIHo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FabHD1UUIAApIHo.jpg",
+          "url": "https://t.co/eRPVBT7fIQ",
+          "display_url": "pic.twitter.com/eRPVBT7fIQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560153195598401537/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1560153189596274688,
+          "id_str": "1560153189596274688",
+          "indices": [
+            92,
+            115
+          ],
+          "media_url": "http://pbs.twimg.com/media/FabHD1UUIAApIHo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FabHD1UUIAApIHo.jpg",
+          "url": "https://t.co/eRPVBT7fIQ",
+          "display_url": "pic.twitter.com/eRPVBT7fIQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560153195598401537/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560152500920991744,
+    "in_reply_to_status_id_str": "1560152500920991744",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:31:57 +0000 2022",
+    "id": 1560152500920991744,
+    "id_str": "1560152500920991744",
+    "text": "娥蘇拉・勒瑰恩有四本「飛天貓」系列童書是村上春樹翻譯的，台灣麥田早年似乎出版過幾本，很難找到了。\n\n其實他真的說過「大部分的煩惱只要養貓就會好」，而且貓會不會飛並不重要。\n\nhttps://t.co/Kd7U9IxW6B https://t.co/7JTCxQvwe2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Kd7U9IxW6B",
+          "expanded_url": "https://bit.ly/3QT4eHs",
+          "display_url": "bit.ly/3QT4eHs",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1560152495850020864,
+          "id_str": "1560152495850020864",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/FabGbc6UYAAyLb7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FabGbc6UYAAyLb7.jpg",
+          "url": "https://t.co/7JTCxQvwe2",
+          "display_url": "pic.twitter.com/7JTCxQvwe2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560152500920991744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1560152495850020864,
+          "id_str": "1560152495850020864",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/FabGbc6UYAAyLb7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FabGbc6UYAAyLb7.jpg",
+          "url": "https://t.co/7JTCxQvwe2",
+          "display_url": "pic.twitter.com/7JTCxQvwe2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560152500920991744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560151528211488769,
+    "in_reply_to_status_id_str": "1560151528211488769",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:28:05 +0000 2022",
+    "id": 1560151528211488769,
+    "id_str": "1560151528211488769",
+    "text": "《第11本小說，第18本書》是一本書名與內容都極怪的小說，也是村上春樹極少數「間接翻譯」的作品（原文是挪威文）。極短與極長的文句交錯，短句很像瑞蒙・卡佛。\n\n村上是首次將此作家引入日本，而且續集《Novel 17》其實已經出版，但… https://t.co/Ta36pp87dG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ta36pp87dG",
+          "expanded_url": "https://twitter.com/i/web/status/1560151528211488769",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560151055014322177,
+    "in_reply_to_status_id_str": "1560151055014322177",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:26:12 +0000 2022",
+    "id": 1560151055014322177,
+    "id_str": "1560151055014322177",
+    "text": "約翰・齊佛（John Cheever）是二十世紀最重要的短篇小說家之一，村上春樹翻譯出版的是本集結18篇的選集，名為《大收音機／游泳者》。\n\n這兩篇台灣分別收錄在短篇小說集《離婚季節》與《游泳者》裡。\n\n《離婚季節》 #kobo… https://t.co/fyIE6Vuyoi",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            109,
+            114
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fyIE6Vuyoi",
+          "expanded_url": "https://twitter.com/i/web/status/1560151055014322177",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560150556580016130,
+    "in_reply_to_status_id_str": "1560150556580016130",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:24:13 +0000 2022",
+    "id": 1560150556580016130,
+    "id_str": "1560150556580016130",
+    "text": "《But Beautiful 然而，很美》是一本以爵士為主題的公路之旅，寫的都是爵士大家（的虛構或真實），台灣是韓良憶翻譯的。\n\n文字很美，但若像我這種對爵士不甚瞭解的讀者，感覺有點抓不住精髓，可能爵士迷會很愛。… https://t.co/lJQr22tnGq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lJQr22tnGq",
+          "expanded_url": "https://twitter.com/i/web/status/1560150556580016130",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560150111581155329,
+    "in_reply_to_status_id_str": "1560150111581155329",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:22:27 +0000 2022",
+    "id": 1560150111581155329,
+    "id_str": "1560150111581155329",
+    "text": "《極北》（Far North）是一本村上春樹自己讀完，覺得「這本書我非翻譯不可」的小說，也是一本末世啟示錄。\n\n主角一開始就在僅剩他一人的世界中生活，然後遇上了一名少女，真的太村上春樹了。（並不是）… https://t.co/dgXPFJqnWe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dgXPFJqnWe",
+          "expanded_url": "https://twitter.com/i/web/status/1560150111581155329",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560149103136296961,
+    "in_reply_to_status_id_str": "1560149103136296961",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:18:27 +0000 2022",
+    "id": 1560149103136296961,
+    "id_str": "1560149103136296961",
+    "text": "知名爵士貝斯手及作家 Bill Crow 出版過的兩本書村上都翻譯了，可惜都沒有中文譯本。\n\n《村上春樹雜文集》中有一篇〈紐約的秋天〉就是評比爾克勞的同名專輯，不認為他是爵士巨人，卻覺得他所構築的一方天地，讓爵士樂有了豐厚的深度與… https://t.co/1qM8nWjS1u",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1qM8nWjS1u",
+          "expanded_url": "https://twitter.com/i/web/status/1560149103136296961",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560148410778300416,
+    "in_reply_to_status_id_str": "1560148410778300416",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:15:41 +0000 2022",
+    "id": 1560148410778300416,
+    "id_str": "1560148410778300416",
+    "text": "有趣的是村上翻譯的另一本《July, July》（世界上所有的七月，可惜無中文譯本），2004年3月文藝春秋、2009年6月文春文庫重出，就在《1Q84》發行隔月。\n\n趣味點在於，許多讀者說村上實際挪用了這小說的概念。… https://t.co/hCUPUBZZIq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hCUPUBZZIq",
+          "expanded_url": "https://twitter.com/i/web/status/1560148410778300416",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560147843825864704,
+    "in_reply_to_status_id_str": "1560147843825864704",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:13:26 +0000 2022",
+    "id": 1560147843825864704,
+    "id_str": "1560147843825864704",
+    "text": "提姆・歐布萊恩（Tim O'Brien）以描寫越戰相關的戰爭小說聞名，村上春樹翻譯過三本。\n\n《負重》（The Things They Carried）是台灣唯一可見的，據說也是村上主動爭取翻譯，被洛杉磯時報讚為「當代、未來世代的… https://t.co/OiDDjMH2QF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OiDDjMH2QF",
+          "expanded_url": "https://twitter.com/i/web/status/1560147843825864704",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560147448688832513,
+    "in_reply_to_status_id_str": "1560147448688832513",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:11:52 +0000 2022",
+    "id": 1560147448688832513,
+    "id_str": "1560147448688832513",
+    "text": "《第凡內早餐》多數人應該只記得奧黛麗赫本的電影，劇本實際上改編自卡波提同名中篇小說（但改動很大）。早年台灣商務有出過繁體譯本。\n\n雖然村上春樹也都是寫愛情小說（嗯？），但這種甜膩浪漫實在有點對不上⋯⋯… https://t.co/h1hJNSF2YL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/h1hJNSF2YL",
+          "expanded_url": "https://twitter.com/i/web/status/1560147448688832513",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560146065466068992,
+    "in_reply_to_status_id_str": "1560146065466068992",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:06:22 +0000 2022",
+    "id": 1560146065466068992,
+    "id_str": "1560146065466068992",
+    "text": "楚門・卡波提以《冷血》一書聲名大噪，奠定其非小說、紀實文學的不滅地位，村上春樹翻譯過他五本作品（不含冷血）。\n\n聖誕憶舊集是卡波提回憶童年往事的短篇故事集（簡中），早年台灣遠流以《聖誕節的回憶》出版過譯本，絕版、不易取得。… https://t.co/pGVQ4Kw7lP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pGVQ4Kw7lP",
+          "expanded_url": "https://twitter.com/i/web/status/1560146065466068992",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560145489349120000,
+    "in_reply_to_status_id_str": "1560145489349120000",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 06:04:05 +0000 2022",
+    "id": 1560145489349120000,
+    "id_str": "1560145489349120000",
+    "text": "村上春樹在河出書房新社翻譯了9本克里斯・凡・艾斯伯格（Chris Van Allsburg）的繪本，只看過一本《北極特快車》，就是湯姆漢克主演的那部動畫原著。\n\n找不到其他台灣翻譯作品，但我對繪本不熟，眼殘漏掉在所難免。\n\n《北極… https://t.co/1nWGzpTf40",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1nWGzpTf40",
+          "expanded_url": "https://twitter.com/i/web/status/1560145489349120000",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560142605647630336,
+    "in_reply_to_status_id_str": "1560142605647630336",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:52:37 +0000 2022",
+    "id": 1560142605647630336,
+    "id_str": "1560142605647630336",
+    "text": "另一本《婚禮的成員》目前只有簡體版，台灣早年小知堂曾以《婚禮的獨行者》為名出版過。由於五〇年代麥卡勒斯曾親自改編成劇場作品，在百老匯連續上演501場，其實是非常具代表的作品。\n\n麥卡勒斯作品中的疏離感，是真的能在村上春樹作品中嗅出… https://t.co/SvZbzSy9bE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SvZbzSy9bE",
+          "expanded_url": "https://twitter.com/i/web/status/1560142605647630336",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560142329016569856,
+    "in_reply_to_status_id_str": "1560142329016569856",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:51:31 +0000 2022",
+    "id": 1560142329016569856,
+    "id_str": "1560142329016569856",
+    "text": "美國天才女作家卡森・麥卡勒斯也有兩本是村上春樹翻譯的。\n\n他說「我個人很喜愛麥卡勒斯的《心是孤獨的獵手》，她以敏銳的觀察和筆觸來描寫這個悲傷的世界。我一直把這部作品小心地保管在心中，留到最後才著手翻譯。」\n\n我的心頭好，但很吃心情… https://t.co/XhrF55RbSX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XhrF55RbSX",
+          "expanded_url": "https://twitter.com/i/web/status/1560142329016569856",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560141676147982336,
+    "in_reply_to_status_id_str": "1560141676147982336",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:48:56 +0000 2022",
+    "id": 1560141676147982336,
+    "id_str": "1560141676147982336",
+    "text": "另一本是1961年出版的《法蘭妮與卓依》。\n\n村上說 「行文魅力能充分與《麥田捕手》雀躍的新鮮文體匹敵。在此之後，沙林傑再也不曾寫出充滿如此生命力的強韌文字。」 \n\n有一種沙林傑被村上春樹蓋棺的感覺⋯⋯\n\n《法蘭妮與卓依》… https://t.co/zgW9py8XbB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zgW9py8XbB",
+          "expanded_url": "https://twitter.com/i/web/status/1560141676147982336",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560141206079713280,
+    "in_reply_to_status_id_str": "1560141206079713280",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:47:04 +0000 2022",
+    "id": 1560141206079713280,
+    "id_str": "1560141206079713280",
+    "text": "J.D.沙林傑有兩本小說是村上春樹翻譯的，相隔11年。\n\n首先當然是村上很愛的《麥田捕手》，甚至許多人將《挪威的森林》視為日本版麥田捕手。\n\n《麥田捕手》 #kobo https://t.co/3fPBz2xsEY https://t.co/pZBOVpFob2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            78,
+            83
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3fPBz2xsEY",
+          "expanded_url": "https://bit.ly/3A8rYR4",
+          "display_url": "bit.ly/3A8rYR4",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1560141200950042624,
+          "id_str": "1560141200950042624",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/Faa8KAIUIAAcEeO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Faa8KAIUIAAcEeO.jpg",
+          "url": "https://t.co/pZBOVpFob2",
+          "display_url": "pic.twitter.com/pZBOVpFob2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560141206079713280/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1560141200950042624,
+          "id_str": "1560141200950042624",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/Faa8KAIUIAAcEeO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Faa8KAIUIAAcEeO.jpg",
+          "url": "https://t.co/pZBOVpFob2",
+          "display_url": "pic.twitter.com/pZBOVpFob2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560141206079713280/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560140447967719424,
+    "in_reply_to_status_id_str": "1560140447967719424",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:44:03 +0000 2022",
+    "id": 1560140447967719424,
+    "id_str": "1560140447967719424",
+    "text": "2007年為準備錢德勒逝世50週年紀念，早川書房重出村上春樹的新版翻譯，第一本選的就是《漫長的告別》，台灣亦於2009年時做出了相同選擇，還收錄了村上的譯後記。\n\n這是一本推理小說專賣店永不下架的絕對傑作。\n\n《漫長的告別》… https://t.co/r7MZTR9Nxc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/r7MZTR9Nxc",
+          "expanded_url": "https://twitter.com/i/web/status/1560140447967719424",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560140050913931264,
+    "in_reply_to_status_id_str": "1560140050913931264",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:42:28 +0000 2022",
+    "id": 1560140050913931264,
+    "id_str": "1560140050913931264",
+    "text": "瑞蒙・卡佛以《當我們談論愛情時我們在談論什麼》這本短篇獲得成功，但此書出版時其實被編輯大幅刪減，多年之後才以《新手》（Beginners）一字不減重新出版，村上在1990、2010分別翻譯過這兩本。\n\n反正這本必讀，沒看過不妨直接… https://t.co/9Zl2uQuFDb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9Zl2uQuFDb",
+          "expanded_url": "https://twitter.com/i/web/status/1560140050913931264",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560139425790566400,
+    "in_reply_to_status_id_str": "1560139425790566400",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:39:59 +0000 2022",
+    "id": 1560139425790566400,
+    "id_str": "1560139425790566400",
+    "text": "有兩位作家是村上春樹翻譯了（幾乎）所有作品的，分別是在中央公論社出版的瑞蒙・卡佛全集8卷，以及早川書房從 2007-2017 出版的雷蒙・錢德勒7部長篇小說。\n\n若說費茲傑羅在意識上影響了村上，這兩位作家則是他遣詞用字與語法上的導師。\n\n各推薦一本就好。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560138911967432704,
+    "in_reply_to_status_id_str": "1560138911967432704",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:37:57 +0000 2022",
+    "id": 1560138911967432704,
+    "id_str": "1560138911967432704",
+    "text": "費茲傑羅其實沒有寫完結局、僅完成3/4，由其好友 Edmund Wilson 補完。村上也翻譯了這本，而且是今年（2022/4）剛出版。\n\n1976年的同名電影，由英國劇作家哈羅德・品特編寫劇本。2016 Amazon 還拍了影集… https://t.co/4OhjhCQfRf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4OhjhCQfRf",
+          "expanded_url": "https://twitter.com/i/web/status/1560138911967432704",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560137877643595778,
+    "in_reply_to_status_id_str": "1560137877643595778",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:33:50 +0000 2022",
+    "id": 1560137877643595778,
+    "id_str": "1560137877643595778",
+    "text": "《大亨小傳》台灣有很多譯本，新經典出版的那本有收錄村上春樹專文導讀，但我推薦漫遊者版本，文章去書店翻一下就好。\n\n大亨小傳（出版90週年經典重譯紀念版） #kobo https://t.co/thv4cQMtpj https://t.co/PMGGyse79F",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            77,
+            82
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/thv4cQMtpj",
+          "expanded_url": "https://bit.ly/3c4gdn0",
+          "display_url": "bit.ly/3c4gdn0",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1560137870769209344,
+          "id_str": "1560137870769209344",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/Faa5IKPVQAAqxRO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Faa5IKPVQAAqxRO.jpg",
+          "url": "https://t.co/PMGGyse79F",
+          "display_url": "pic.twitter.com/PMGGyse79F",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560137877643595778/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 353,
+              "h": 537,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 353,
+              "h": 537,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 537,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1560137870769209344,
+          "id_str": "1560137870769209344",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/Faa5IKPVQAAqxRO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Faa5IKPVQAAqxRO.jpg",
+          "url": "https://t.co/PMGGyse79F",
+          "display_url": "pic.twitter.com/PMGGyse79F",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560137877643595778/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 353,
+              "h": 537,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 353,
+              "h": 537,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 537,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560136666454470656,
+    "in_reply_to_status_id_str": "1560136666454470656",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:29:01 +0000 2022",
+    "id": 1560136666454470656,
+    "id_str": "1560136666454470656",
+    "text": "村上春樹翻譯了費茲傑羅幾本短篇、兩本長篇，但包含了「大亨」的整個脈絡。\n\n這本同名的〈冬之夢〉短篇，正是之後《大亨小傳》原型故事，村上自然沒有遺漏。\n\n《冬之夢：費茲傑羅短篇傑作選》 #kobo… https://t.co/6YRFK5rToP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            92,
+            97
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6YRFK5rToP",
+          "expanded_url": "https://twitter.com/i/web/status/1560136666454470656",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560135258938302465,
+    "in_reply_to_status_id_str": "1560135258938302465",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:23:26 +0000 2022",
+    "id": 1560135258938302465,
+    "id_str": "1560135258938302465",
+    "text": "村上春樹的第一本翻譯書，是費茲傑羅的《我失落的城市》，收錄七篇代表性短篇小說。\n\n他曾說「有好幾年，只有費茲傑羅是我的老師、是我的大學、是我的文學伙伴。」\n\nhttps://t.co/bcyVtzohjt https://t.co/IQUZ3qh2JM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bcyVtzohjt",
+          "expanded_url": "https://bit.ly/3SR2gcu",
+          "display_url": "bit.ly/3SR2gcu",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1560135254056194048,
+          "id_str": "1560135254056194048",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/Faa2v2OVUAAWkd3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Faa2v2OVUAAWkd3.jpg",
+          "url": "https://t.co/IQUZ3qh2JM",
+          "display_url": "pic.twitter.com/IQUZ3qh2JM",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560135258938302465/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1560135254056194048,
+          "id_str": "1560135254056194048",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/Faa2v2OVUAAWkd3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Faa2v2OVUAAWkd3.jpg",
+          "url": "https://t.co/IQUZ3qh2JM",
+          "display_url": "pic.twitter.com/IQUZ3qh2JM",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560135258938302465/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1560134697673363456,
+    "in_reply_to_status_id_str": "1560134697673363456",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 05:21:12 +0000 2022",
+    "id": 1560134697673363456,
+    "id_str": "1560134697673363456",
+    "text": "常在書腰上看到「這本在日本是村上春樹翻譯的」，認真一查，他居然翻譯超過70本!? 2017中央公論新社還出版了一本《村上春樹翻譯（幾乎）全作品》。\n\n不同於推薦閱讀，翻譯得一字一句不漏、處處斟酌、追根究底，還有私心喜愛，很好奇哪些… https://t.co/47sEJL53Iv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/47sEJL53Iv",
+          "expanded_url": "https://twitter.com/i/web/status/1560134697673363456",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 71,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Aug 18 01:29:01 +0000 2022",
     "id": 1560076268204224512,
     "id_str": "1560076268204224512",
