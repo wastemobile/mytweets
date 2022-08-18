@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2022_08 = [
   {
+    "created_at": "Thu Aug 18 01:29:01 +0000 2022",
+    "id": 1560076268204224512,
+    "id_str": "1560076268204224512",
+    "text": "「沒有別的影集可以勝過這部，可說是人生看到現在，音樂用得最滿、最到位的影集，幾乎每首歌都為劇情服務，認真的程度讓我嘖嘖稱奇！」\n\n看到什麼都能立即聽到的時代真是太好了～\n\n盤點最愛選曲：性愛自修室原聲帶… https://t.co/ls8VT0QJJr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ls8VT0QJJr",
+          "expanded_url": "https://twitter.com/i/web/status/1560076268204224512",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 18 00:20:00 +0000 2022",
+    "id": 1560058896823201792,
+    "id_str": "1560058896823201792",
+    "text": "「你可以說他這樣做，是因為妄想顯赫，但若說他想成為獨裁者，卻又沒行使（所有）權力。所以到底是為了甚麼？這令所有人摸不著頭腦。」\n\n封他為澳洲柯P。\n\n一人兼任 5 部長，澳洲前總理攬權風波 https://t.co/ejHm8hjFOe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ejHm8hjFOe",
+          "expanded_url": "https://bit.ly/3dsmt8g",
+          "display_url": "bit.ly/3dsmt8g",
+          "indices": [
+            95,
+            118
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Aug 17 01:50:26 +0000 2022",
     "id": 1559719269562167296,
     "id_str": "1559719269562167296",
