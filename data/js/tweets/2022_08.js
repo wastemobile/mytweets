@@ -1,5 +1,416 @@
 Grailbird.data.tweets_2022_08 = [
   {
+    "created_at": "Fri Aug 19 01:05:15 +0000 2022",
+    "id": 1560432675738906624,
+    "id_str": "1560432675738906624",
+    "text": "RT @TWistnichtChina: SKB 文明鋼筆、三文堂鋼筆雖然都是台灣創立的品牌，但近年主要生產線均已遷移至中國，望週知！！！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TWistnichtChina",
+          "name": "GeekyPenNerd",
+          "id": 828504194,
+          "id_str": "828504194",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 18 02:59:29 +0000 2022",
+      "id": 1560099033343213568,
+      "id_str": "1560099033343213568",
+      "text": "SKB 文明鋼筆、三文堂鋼筆雖然都是台灣創立的品牌，但近年主要生產線均已遷移至中國，望週知！！！",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 828504194,
+        "id_str": "828504194",
+        "name": "GeekyPenNerd",
+        "screen_name": "TWistnichtChina",
+        "location": "",
+        "description": "Taiwanese, not Chinese. Fountain pen lover (Soennecken rules!) Whovian.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 122,
+        "friends_count": 472,
+        "listed_count": 0,
+        "created_at": "Mon Sep 17 06:46:43 +0000 2012",
+        "favourites_count": 26976,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15431,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1545342208592990209/a97999iC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1545342208592990209/a97999iC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/828504194/1632477543",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 146,
+      "favorite_count": 871,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 146,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 19 00:57:26 +0000 2022",
+    "id": 1560430704894156801,
+    "id_str": "1560430704894156801",
+    "text": "嗯，沒有參加過「午夜發行派對」，好像很有趣。\n\nBTW，《美麗的世界，你在哪裡》蠻難看的。\n\nA History of the Midnight Release Party https://t.co/9tF2RF3joZ https://t.co/B8Y9T9uMFL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9tF2RF3joZ",
+          "expanded_url": "https://bit.ly/3c5x8pb",
+          "display_url": "bit.ly/3c5x8pb",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1560430696878841856,
+          "id_str": "1560430696878841856",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/FafDc4gUIAAArGI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FafDc4gUIAAArGI.jpg",
+          "url": "https://t.co/B8Y9T9uMFL",
+          "display_url": "pic.twitter.com/B8Y9T9uMFL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560430704894156801/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1117,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 654,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 371,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1560430696878841856,
+          "id_str": "1560430696878841856",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/FafDc4gUIAAArGI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FafDc4gUIAAArGI.jpg",
+          "url": "https://t.co/B8Y9T9uMFL",
+          "display_url": "pic.twitter.com/B8Y9T9uMFL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560430704894156801/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1117,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 654,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 371,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 19 00:46:23 +0000 2022",
+    "id": 1560427923865145344,
+    "id_str": "1560427923865145344",
+    "text": "似乎也看到推友試用後頗推薦的，但我就等完全開放下載後再說，拿電郵換瀏覽器嫌貴。\n\nFirst Look: Arc Browser https://t.co/Rv4dAaWtqg https://t.co/ZyLuTyPxLo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Rv4dAaWtqg",
+          "expanded_url": "https://bit.ly/3c2UhZk",
+          "display_url": "bit.ly/3c2UhZk",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1560427915669450753,
+          "id_str": "1560427915669450753",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/FafA6_sUsAElB5t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FafA6_sUsAElB5t.jpg",
+          "url": "https://t.co/ZyLuTyPxLo",
+          "display_url": "pic.twitter.com/ZyLuTyPxLo",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560427923865145344/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 860,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 860,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 487,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1560427915669450753,
+          "id_str": "1560427915669450753",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/FafA6_sUsAElB5t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FafA6_sUsAElB5t.jpg",
+          "url": "https://t.co/ZyLuTyPxLo",
+          "display_url": "pic.twitter.com/ZyLuTyPxLo",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560427923865145344/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 860,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 860,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 487,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Aug 18 15:01:03 +0000 2022",
     "id": 1560280622756548612,
     "id_str": "1560280622756548612",
