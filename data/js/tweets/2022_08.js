@@ -1,5 +1,744 @@
 Grailbird.data.tweets_2022_08 = [
   {
+    "created_at": "Thu Aug 25 02:26:16 +0000 2022",
+    "id": 1562627390546710529,
+    "id_str": "1562627390546710529",
+    "text": "1. 別花錢做耳燭，那是騙人的。\n2. 耳垢是抗菌劑，可以預防耳朵感染，還能保濕皮膚、防止異物，人體是自動製造耳垢出來的，它會自動清潔。\n3. 棉花棒是敵人。\n\n人體真是太奧妙了。 #note\n\n別再用棉花棒挖耳朵！聽力醫生解答耳… https://t.co/4jrk2G8PWR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            91,
+            96
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4jrk2G8PWR",
+          "expanded_url": "https://twitter.com/i/web/status/1562627390546710529",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 35,
+    "favorite_count": 146,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 25 01:04:35 +0000 2022",
+    "id": 1562606833344266242,
+    "id_str": "1562606833344266242",
+    "text": "寵物溝通教科書。（大誤）\n\n《一次搞懂量子通訊》 #kobo https://t.co/S6Dyqfb9h6 https://t.co/futEWM3kQ5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            25,
+            30
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/S6Dyqfb9h6",
+          "expanded_url": "https://bit.ly/3POkhp5",
+          "display_url": "bit.ly/3POkhp5",
+          "indices": [
+            31,
+            54
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1562606825882546178,
+          "id_str": "1562606825882546178",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fa9-oQxUcAIy7xZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fa9-oQxUcAIy7xZ.jpg",
+          "url": "https://t.co/futEWM3kQ5",
+          "display_url": "pic.twitter.com/futEWM3kQ5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1562606833344266242/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1562606825882546178,
+          "id_str": "1562606825882546178",
+          "indices": [
+            55,
+            78
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fa9-oQxUcAIy7xZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fa9-oQxUcAIy7xZ.jpg",
+          "url": "https://t.co/futEWM3kQ5",
+          "display_url": "pic.twitter.com/futEWM3kQ5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1562606833344266242/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1557525832041607168,
+    "in_reply_to_status_id_str": "1557525832041607168",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Aug 25 00:42:20 +0000 2022",
+    "id": 1562601231855468544,
+    "id_str": "1562601231855468544",
+    "text": "資訊量過大且荒謬至極。 https://t.co/d9xTcbK6hm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d9xTcbK6hm",
+          "expanded_url": "https://twitter.com/nocontextbrits/status/1562201274308644864",
+          "display_url": "twitter.com/nocontextbrits…",
+          "indices": [
+            12,
+            35
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1562201274308644864,
+    "quoted_status_id_str": "1562201274308644864",
+    "quoted_status": {
+      "created_at": "Tue Aug 23 22:13:02 +0000 2022",
+      "id": 1562201274308644864,
+      "id_str": "1562201274308644864",
+      "text": "This was the most insane stage of the pandemic. https://t.co/M3qII4PvQw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1562201258546843649,
+            "id_str": "1562201258546843649",
+            "indices": [
+              48,
+              71
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fa4NxItaUAEdwdr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fa4NxItaUAEdwdr.jpg",
+            "url": "https://t.co/M3qII4PvQw",
+            "display_url": "pic.twitter.com/M3qII4PvQw",
+            "expanded_url": "https://twitter.com/NoContextBrits/status/1562201274308644864/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 618,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 748,
+                "h": 823,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 748,
+                "h": 823,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1562201258546843649,
+            "id_str": "1562201258546843649",
+            "indices": [
+              48,
+              71
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fa4NxItaUAEdwdr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fa4NxItaUAEdwdr.jpg",
+            "url": "https://t.co/M3qII4PvQw",
+            "display_url": "pic.twitter.com/M3qII4PvQw",
+            "expanded_url": "https://twitter.com/NoContextBrits/status/1562201274308644864/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 618,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 748,
+                "h": 823,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 748,
+                "h": 823,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1377572924413124609,
+        "id_str": "1377572924413124609",
+        "name": "No Context Brits",
+        "screen_name": "NoContextBrits",
+        "location": "Great Britain",
+        "description": "A celebration of Britain. Contains sarcasm, irony and context.",
+        "url": "https://t.co/rMPTtp7qBr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/rMPTtp7qBr",
+                "expanded_url": "https://linktr.ee/nocontextbrits",
+                "display_url": "linktr.ee/nocontextbrits",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1074019,
+        "friends_count": 0,
+        "listed_count": 1771,
+        "created_at": "Thu Apr 01 10:46:07 +0000 2021",
+        "favourites_count": 177,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4808,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1515235815311527937/Kb0lr2LQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1515235815311527937/Kb0lr2LQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1377572924413124609/1661186387",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 30763,
+      "favorite_count": 334317,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 24 23:51:26 +0000 2022",
+    "id": 1562588425295130627,
+    "id_str": "1562588425295130627",
+    "text": "「%Arabica 咖啡，是一家由中國企業『上海拉比卡咖啡』全資擁有的跨國連鎖咖啡店」。\n\n遮蔽這麼重要的資訊，有洗白之嫌。\n\n搶進年產值800億的黑金市場，京都名咖啡店「%Arabica」台灣首店落腳象山 https://t.co/gYBKNZhiao",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gYBKNZhiao",
+          "expanded_url": "https://bit.ly/3AMFvQa",
+          "display_url": "bit.ly/3AMFvQa",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 27,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 24 23:37:23 +0000 2022",
+    "id": 1562584887114092544,
+    "id_str": "1562584887114092544",
+    "text": "今天是 2022-08-25。\n\n距離柯文哲台北市長任期最後一日 2022-12-25，還有 122 天。\n\n期待是水深火熱焦頭爛額的 122 天。\n\n貓貓讚。 https://t.co/ytX9cYFF0W",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ytX9cYFF0W",
+          "expanded_url": "https://twitter.com/37tdnmdbpbo8hi8/status/1562478001631416323",
+          "display_url": "twitter.com/37tdnmdbpbo8hi…",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1562478001631416323,
+    "quoted_status_id_str": "1562478001631416323",
+    "quoted_status": {
+      "created_at": "Wed Aug 24 16:32:39 +0000 2022",
+      "id": 1562478001631416323,
+      "id_str": "1562478001631416323",
+      "text": "柯文哲重新定義了「我不知道」。\n\n#柯黑 https://t.co/N3shPfpzgi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "柯黑",
+            "indices": [
+              17,
+              20
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1562477991938396161,
+            "id_str": "1562477991938396161",
+            "indices": [
+              21,
+              44
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fa8JdI7akAE_39J.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fa8JdI7akAE_39J.jpg",
+            "url": "https://t.co/N3shPfpzgi",
+            "display_url": "pic.twitter.com/N3shPfpzgi",
+            "expanded_url": "https://twitter.com/37TDNMDbpbO8HI8/status/1562478001631416323/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1170,
+                "h": 1951,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1562477991938396161,
+            "id_str": "1562477991938396161",
+            "indices": [
+              21,
+              44
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fa8JdI7akAE_39J.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fa8JdI7akAE_39J.jpg",
+            "url": "https://t.co/N3shPfpzgi",
+            "display_url": "pic.twitter.com/N3shPfpzgi",
+            "expanded_url": "https://twitter.com/37TDNMDbpbO8HI8/status/1562478001631416323/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 408,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1170,
+                "h": 1951,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1417068560539475974,
+        "id_str": "1417068560539475974",
+        "name": "大橋底下臨時工",
+        "screen_name": "37TDNMDbpbO8HI8",
+        "location": "",
+        "description": "前半生一帆風順，貪慕榮華富貴，泡沫瞬破，人生不知是否可重新再來？奮力從谷底爬起。 現在是橋下臨時工斜摃國中生陪讀書僮 。",
+        "url": "https://t.co/2EC2CuuVAQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2EC2CuuVAQ",
+                "expanded_url": "https://medium.com/@tempworker",
+                "display_url": "medium.com/@tempworker",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 313,
+        "friends_count": 365,
+        "listed_count": 2,
+        "created_at": "Mon Jul 19 10:27:39 +0000 2021",
+        "favourites_count": 6564,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2384,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1514282038584811520/1X3bFlzj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514282038584811520/1X3bFlzj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417068560539475974/1649868282",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Aug 23 02:08:49 +0000 2022",
     "id": 1561898222171279360,
     "id_str": "1561898222171279360",
