@@ -1,5 +1,1061 @@
 Grailbird.data.tweets_2022_08 = [
   {
+    "created_at": "Sun Aug 28 00:59:21 +0000 2022",
+    "id": 1563692681108152320,
+    "id_str": "1563692681108152320",
+    "text": "RT @mick_taiwan: 在 Apple Silicon (M1)， Homebrew 的預設安裝位置會在 /opt/homebrew/bin，用 zsh 的情況下有遇到cakebrew找不到 brew command 的問題，在 .zlogin 加上 export P…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "mick_taiwan",
+          "name": "Mick🧑🏻‍💻",
+          "id": 267163157,
+          "id_str": "267163157",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Aug 27 16:17:48 +0000 2022",
+      "id": 1563561429244203010,
+      "id_str": "1563561429244203010",
+      "text": "在 Apple Silicon (M1)， Homebrew 的預設安裝位置會在 /opt/homebrew/bin，用 zsh 的情況下有遇到cakebrew找不到 brew command 的問題，在 .zlogin 加上 e… https://t.co/0cDiHcL4iJ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0cDiHcL4iJ",
+            "expanded_url": "https://twitter.com/i/web/status/1563561429244203010",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 267163157,
+        "id_str": "267163157",
+        "name": "Mick🧑🏻‍💻",
+        "screen_name": "mick_taiwan",
+        "location": "Taiwan",
+        "description": "Software Engineer in Taiwan\nInterested: TfT/Meditation/Street Dancing/Reading\nTry hard: writing\nImposter",
+        "url": "https://t.co/F12o2pUbdq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/F12o2pUbdq",
+                "expanded_url": "http://mickzh.com",
+                "display_url": "mickzh.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 52,
+        "friends_count": 235,
+        "listed_count": 3,
+        "created_at": "Wed Mar 16 12:48:44 +0000 2011",
+        "favourites_count": 1995,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 736,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1525497039983099904/TM1RbvQk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1525497039983099904/TM1RbvQk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/267163157/1627742723",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1562990818222166017,
+      "quoted_status_id_str": "1562990818222166017",
+      "quoted_status": {
+        "created_at": "Fri Aug 26 02:30:24 +0000 2022",
+        "id": 1562990818222166017,
+        "id_str": "1562990818222166017",
+        "text": "這小工具還不錯，在已安裝 Homebrew 的 Mac 上輸入 brew install --cask cakebrew，各種套件的搜尋、安裝、更新與系統檢查，都像是系統原生應用般操作。\n\n據說先安裝應用、再安裝 Homebrew… https://t.co/0B32ca1dsw",
+        "truncated": true,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/0B32ca1dsw",
+              "expanded_url": "https://twitter.com/i/web/status/1562990818222166017",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 20709129,
+          "id_str": "20709129",
+          "name": "wastemobile",
+          "screen_name": "wastemobile",
+          "location": "地下城堡",
+          "description": "Cyberpunk wasteland.\n\nmedium: https://t.co/TiZfmTQ9mO",
+          "url": "https://t.co/Hsfttyyiok",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/Hsfttyyiok",
+                  "expanded_url": "https://readgoing.com",
+                  "display_url": "readgoing.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/TiZfmTQ9mO",
+                  "expanded_url": "http://medium.com/@wastemobile",
+                  "display_url": "medium.com/@wastemobile",
+                  "indices": [
+                    30,
+                    53
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 5530,
+          "friends_count": 1230,
+          "listed_count": 133,
+          "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+          "favourites_count": 3697,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 25272,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFF04D",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1573835714",
+          "profile_link_color": "0099CC",
+          "profile_sidebar_border_color": "FFF8AD",
+          "profile_sidebar_fill_color": "F6FFD1",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "regular",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 21,
+        "favorite_count": 69,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1562990818222166017,
+    "quoted_status_id_str": "1562990818222166017",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Aug 27 02:28:50 +0000 2022",
+    "id": 1563352812947288064,
+    "id_str": "1563352812947288064",
+    "text": "RT @degewa: 大塊文化郝明義：「我希望這樣綜合起來的50篇演講可以從深處回答一些問題：澤倫斯基到底是怎麼面對這場戰爭的？他內心深處的動力是什麼？他對烏克蘭戰勝俄羅斯的信心何來？他想把烏克蘭引領到什麼樣的未來？他對全世界，包括臺灣，要傳達的訊息是什麼？最後，身為一個人，…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "degewa",
+          "name": "འོད་ཟེར།唯色Woeser😷💙💛",
+          "id": 54163405,
+          "id_str": "54163405",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Aug 26 16:12:47 +0000 2022",
+      "id": 1563197776409726976,
+      "id_str": "1563197776409726976",
+      "text": "大塊文化郝明義：「我希望這樣綜合起來的50篇演講可以從深處回答一些問題：澤倫斯基到底是怎麼面對這場戰爭的？他內心深處的動力是什麼？他對烏克蘭戰勝俄羅斯的信心何來？他想把烏克蘭引領到什麼樣的未來？他對全世界，包括臺灣，要傳達的訊息是… https://t.co/W7nU8qG31v",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/W7nU8qG31v",
+            "expanded_url": "https://twitter.com/i/web/status/1563197776409726976",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 54163405,
+        "id_str": "54163405",
+        "name": "འོད་ཟེར།唯色Woeser😷💙💛",
+        "screen_name": "degewa",
+        "location": "拉薩；北京",
+        "description": "出版詩集、散文集、圖文遊記、西藏文革照片調查及口述、評論集等21本；譯成藏、英、法、日、德、捷克、波蘭等文字的譯著18本；包括與王力雄的中、英合集3本。 最新出版《疫年記西藏》。2本詩集待出版。仍在寫作長篇家族故事。2021年與藝術家Ian Boyden的展覽在美國及線上舉辦，有詩歌、繪畫、紀錄片及我父親的攝影等。",
+        "url": "https://t.co/wrGYc25OBL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/wrGYc25OBL",
+                "expanded_url": "http://woeser.middle-way.net",
+                "display_url": "woeser.middle-way.net",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 146347,
+        "friends_count": 3119,
+        "listed_count": 981,
+        "created_at": "Mon Jul 06 09:28:51 +0000 2009",
+        "favourites_count": 22398,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 82610,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497041847058763776/MLz9eKS7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497041847058763776/MLz9eKS7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/54163405/1609487581",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1563196838148091904,
+      "quoted_status_id_str": "1563196838148091904",
+      "quoted_status": {
+        "created_at": "Fri Aug 26 16:09:03 +0000 2022",
+        "id": 1563196838148091904,
+        "id_str": "1563196838148091904",
+        "text": "贊嘆這具有重要意義的策劃與出版🙏 https://t.co/k3Vvq6sxap https://t.co/WThR1LL2bx",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/k3Vvq6sxap",
+              "expanded_url": "https://twitter.com/degewa/status/1562993526756913154",
+              "display_url": "twitter.com/degewa/status/…",
+              "indices": [
+                17,
+                40
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1563196822671470606,
+              "id_str": "1563196822671470606",
+              "indices": [
+                41,
+                64
+              ],
+              "media_url": "http://pbs.twimg.com/media/FbGXOmFaMA4bvNE.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FbGXOmFaMA4bvNE.jpg",
+              "url": "https://t.co/WThR1LL2bx",
+              "display_url": "pic.twitter.com/WThR1LL2bx",
+              "expanded_url": "https://twitter.com/degewa/status/1563196838148091904/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1467,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 487,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 860,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1563196822671470606,
+              "id_str": "1563196822671470606",
+              "indices": [
+                41,
+                64
+              ],
+              "media_url": "http://pbs.twimg.com/media/FbGXOmFaMA4bvNE.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FbGXOmFaMA4bvNE.jpg",
+              "url": "https://t.co/WThR1LL2bx",
+              "display_url": "pic.twitter.com/WThR1LL2bx",
+              "expanded_url": "https://twitter.com/degewa/status/1563196838148091904/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1467,
+                  "h": 2048,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 487,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 860,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1563196822667296768,
+              "id_str": "1563196822667296768",
+              "indices": [
+                41,
+                64
+              ],
+              "media_url": "http://pbs.twimg.com/media/FbGXOmEagAA6wsp.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FbGXOmEagAA6wsp.jpg",
+              "url": "https://t.co/WThR1LL2bx",
+              "display_url": "pic.twitter.com/WThR1LL2bx",
+              "expanded_url": "https://twitter.com/degewa/status/1563196838148091904/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1108,
+                  "h": 1478,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 54163405,
+          "id_str": "54163405",
+          "name": "འོད་ཟེར།唯色Woeser😷💙💛",
+          "screen_name": "degewa",
+          "location": "拉薩；北京",
+          "description": "出版詩集、散文集、圖文遊記、西藏文革照片調查及口述、評論集等21本；譯成藏、英、法、日、德、捷克、波蘭等文字的譯著18本；包括與王力雄的中、英合集3本。 最新出版《疫年記西藏》。2本詩集待出版。仍在寫作長篇家族故事。2021年與藝術家Ian Boyden的展覽在美國及線上舉辦，有詩歌、繪畫、紀錄片及我父親的攝影等。",
+          "url": "https://t.co/wrGYc25OBL",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wrGYc25OBL",
+                  "expanded_url": "http://woeser.middle-way.net",
+                  "display_url": "woeser.middle-way.net",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 146347,
+          "friends_count": 3119,
+          "listed_count": 981,
+          "created_at": "Mon Jul 06 09:28:51 +0000 2009",
+          "favourites_count": 22398,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 82610,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1497041847058763776/MLz9eKS7_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497041847058763776/MLz9eKS7_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/54163405/1609487581",
+          "profile_link_color": "2FC2EF",
+          "profile_sidebar_border_color": "181A1E",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "666666",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1562993526756913154,
+        "quoted_status_id_str": "1562993526756913154",
+        "retweet_count": 1,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 22,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1563196838148091904,
+    "quoted_status_id_str": "1563196838148091904",
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 26 02:30:24 +0000 2022",
+    "id": 1562990818222166017,
+    "id_str": "1562990818222166017",
+    "text": "這小工具還不錯，在已安裝 Homebrew 的 Mac 上輸入 brew install --cask cakebrew，各種套件的搜尋、安裝、更新與系統檢查，都像是系統原生應用般操作。\n\n據說先安裝應用、再安裝 Homebrew… https://t.co/0B32ca1dsw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0B32ca1dsw",
+          "expanded_url": "https://twitter.com/i/web/status/1562990818222166017",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 69,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Aug 26 00:51:40 +0000 2022",
+    "id": 1562965970578071552,
+    "id_str": "1562965970578071552",
+    "text": "RT @HuangKeary: 台灣就是台灣，我那小小多山的國家 https://t.co/otWoCtDpGb",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "HuangKeary",
+          "name": "黃凱莉",
+          "id": 1001626265504247813,
+          "id_str": "1001626265504247813",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1562681535160991745,
+          "id_str": "1562681535160991745",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fa_Ck6hVQAERzSi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fa_Ck6hVQAERzSi.jpg",
+          "url": "https://t.co/otWoCtDpGb",
+          "display_url": "pic.twitter.com/otWoCtDpGb",
+          "expanded_url": "https://twitter.com/HuangKeary/status/1562681659744391168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 574,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1013,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1395,
+              "h": 1652,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1562681659744391168,
+          "source_status_id_str": "1562681659744391168",
+          "source_user_id": 1001626265504247813,
+          "source_user_id_str": "1001626265504247813"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1562681535160991745,
+          "id_str": "1562681535160991745",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fa_Ck6hVQAERzSi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fa_Ck6hVQAERzSi.jpg",
+          "url": "https://t.co/otWoCtDpGb",
+          "display_url": "pic.twitter.com/otWoCtDpGb",
+          "expanded_url": "https://twitter.com/HuangKeary/status/1562681659744391168/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 574,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1013,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1395,
+              "h": 1652,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1562681659744391168,
+          "source_status_id_str": "1562681659744391168",
+          "source_user_id": 1001626265504247813,
+          "source_user_id_str": "1001626265504247813"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Aug 25 06:01:55 +0000 2022",
+      "id": 1562681659744391168,
+      "id_str": "1562681659744391168",
+      "text": "台灣就是台灣，我那小小多山的國家 https://t.co/otWoCtDpGb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1562681535160991745,
+            "id_str": "1562681535160991745",
+            "indices": [
+              17,
+              40
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fa_Ck6hVQAERzSi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fa_Ck6hVQAERzSi.jpg",
+            "url": "https://t.co/otWoCtDpGb",
+            "display_url": "pic.twitter.com/otWoCtDpGb",
+            "expanded_url": "https://twitter.com/HuangKeary/status/1562681659744391168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 574,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1013,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1395,
+                "h": 1652,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1562681535160991745,
+            "id_str": "1562681535160991745",
+            "indices": [
+              17,
+              40
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fa_Ck6hVQAERzSi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fa_Ck6hVQAERzSi.jpg",
+            "url": "https://t.co/otWoCtDpGb",
+            "display_url": "pic.twitter.com/otWoCtDpGb",
+            "expanded_url": "https://twitter.com/HuangKeary/status/1562681659744391168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 574,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1013,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1395,
+                "h": 1652,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1001626265504247813,
+        "id_str": "1001626265504247813",
+        "name": "黃凱莉",
+        "screen_name": "HuangKeary",
+        "location": "Taiwan",
+        "description": "阮是台灣人\n台灣是我小小多山的國家",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 826,
+        "friends_count": 291,
+        "listed_count": 3,
+        "created_at": "Wed May 30 00:48:05 +0000 2018",
+        "favourites_count": 32618,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3975,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1473895517000462336/K8J0EY6G_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1473895517000462336/K8J0EY6G_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1001626265504247813/1636439228",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 512,
+      "favorite_count": 4661,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 512,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Aug 25 02:26:16 +0000 2022",
     "id": 1562627390546710529,
     "id_str": "1562627390546710529",
