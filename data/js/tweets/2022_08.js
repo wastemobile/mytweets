@@ -1,5 +1,2330 @@
 Grailbird.data.tweets_2022_08 = [
   {
+    "created_at": "Mon Aug 29 01:31:16 +0000 2022",
+    "id": 1564063099216207872,
+    "id_str": "1564063099216207872",
+    "text": "想起另一本很好看的《佛羅倫斯人魔》（The Monster of Florence），美國與義大利記者合作追蹤一名連殺了七對情侶、且被慘忍對待的真實懸案，記者甚至被指控為兇手。繁中已絕版，簡體版較易取得。\n\n漢尼拔人魔（Hanni… https://t.co/jcbAGGeZNX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jcbAGGeZNX",
+          "expanded_url": "https://twitter.com/i/web/status/1564063099216207872",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563905533769179136,
+    "in_reply_to_status_id_str": "1563905533769179136",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Aug 29 01:24:43 +0000 2022",
+    "id": 1564061450133327872,
+    "id_str": "1564061450133327872",
+    "text": "@chhsieh8 @real_WKC 嗯對，HBO《加州殺人魔》影集＝《惡魔的背影》原著，目前是真實犯罪書榜中第一名。\n\n其餘依序就是前20名書籍（或改編），以及個人私心推薦。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "chhsieh8",
+          "name": "Truthbetold",
+          "id": 282134934,
+          "id_str": "282134934",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "real_WKC",
+          "name": "人稱一流刀一流🍥",
+          "id": 1545006446,
+          "id_str": "1545006446",
+          "indices": [
+            10,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563905796198375424,
+    "in_reply_to_status_id_str": "1563905796198375424",
+    "in_reply_to_user_id": 282134934,
+    "in_reply_to_user_id_str": "282134934",
+    "in_reply_to_screen_name": "chhsieh8",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 15:05:09 +0000 2022",
+    "id": 1563905533769179136,
+    "id_str": "1563905533769179136",
+    "text": "《The Night Stalker》譯為暗夜尾隨者（追蹤者）、夜行者，無中文譯本，這書改拍過電影， #Netflix 上的紀錄片則叫《夜行者：極惡連環殺手》，八〇年代著名的連環殺手。\n\nRichard Ramirez 會在案發現… https://t.co/U01w2jehw5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            51,
+            59
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/U01w2jehw5",
+          "expanded_url": "https://twitter.com/i/web/status/1563905533769179136",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563813176658911233,
+    "in_reply_to_status_id_str": "1563813176658911233",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 08:58:10 +0000 2022",
+    "id": 1563813176658911233,
+    "id_str": "1563813176658911233",
+    "text": "還有一本私心很愛的《Zodiac》，簡體譯為《十二宮》（有兩個譯本），大衛芬奇拍的電影譯作《索命黃道帶》。\n\n「黃道十二宮殺手」始終成謎，作者真的是在《舊金山紀事報》任插畫家時捲入事件的，傑克葛倫霍演的角色。\n\n大概是因為兇手用密… https://t.co/cK5PeDCdUf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cK5PeDCdUf",
+          "expanded_url": "https://twitter.com/i/web/status/1563813176658911233",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563805318257074177,
+    "in_reply_to_status_id_str": "1563805318257074177",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 08:26:56 +0000 2022",
+    "id": 1563805318257074177,
+    "id_str": "1563805318257074177",
+    "text": "補一本《天堂的旗幟下》，沒有譯本，但 hulu 有拍七集的影集，蜘蛛人加菲爾德、與《正常人》女主角黛西·埃德加-瓊斯主演。\n\n極爭議題材，1984年猶他州摩門教一對母女被謀殺，行凶者聲稱是「神的旨意」，以信仰之名的殺戮。\n\n書名即… https://t.co/vgBR3jhfnr",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vgBR3jhfnr",
+          "expanded_url": "https://twitter.com/i/web/status/1563805318257074177",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563793008717230081,
+    "in_reply_to_status_id_str": "1563793008717230081",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 07:38:01 +0000 2022",
+    "id": 1563793008717230081,
+    "id_str": "1563793008717230081",
+    "text": "20.《The Road to Jonestown》\n\n無譯本。 但故事非常有名，所有談邪教的書與影片皆會提及。\n\n1950年代創立的人民聖殿教，教主吉姆瓊斯信仰馬克思主義，與政治人物關係密切。議員前往調查，登機前與三名媒體人員皆… https://t.co/94V8TzeQrY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/94V8TzeQrY",
+          "expanded_url": "https://twitter.com/i/web/status/1563793008717230081",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563792425159561217,
+    "in_reply_to_status_id_str": "1563792425159561217",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 07:35:42 +0000 2022",
+    "id": 1563792425159561217,
+    "id_str": "1563792425159561217",
+    "text": "19.《謊報：一樁性侵案謊言背後的真相》\n\n2016年普立茲新聞獎， #Netflix 影集《難，置信》原著。\n\n兩名調查記者深入一起性侵案的謊報事件，反映美國司法部門對性侵調查的草率，尤其是男性執法人員缺乏同理心的態度。… https://t.co/WhGNPVJTZy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            35,
+            43
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WhGNPVJTZy",
+          "expanded_url": "https://twitter.com/i/web/status/1563792425159561217",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563789392291909632,
+    "in_reply_to_status_id_str": "1563789392291909632",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 07:23:39 +0000 2022",
+    "id": 1563789392291909632,
+    "id_str": "1563789392291909632",
+    "text": "18.《開膛手傑克刀下的五個女人》\n\n開膛手傑克幾乎已是殘忍連環殺手的文化代名詞，這書用大量歷史資料聚焦在他的五名被害人身上。\n\n我這才知道原來開膛手只殺害過五名女子。\n\n#kobo https://t.co/11Q3yPhCXO https://t.co/FkCvlHezAu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            86,
+            91
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/11Q3yPhCXO",
+          "expanded_url": "https://bit.ly/3APmZ9I",
+          "display_url": "bit.ly/3APmZ9I",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1563789385497079810,
+          "id_str": "1563789385497079810",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbOyKSoUcAIjrNX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbOyKSoUcAIjrNX.jpg",
+          "url": "https://t.co/FkCvlHezAu",
+          "display_url": "pic.twitter.com/FkCvlHezAu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1563789392291909632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1563789385497079810,
+          "id_str": "1563789385497079810",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbOyKSoUcAIjrNX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbOyKSoUcAIjrNX.jpg",
+          "url": "https://t.co/FkCvlHezAu",
+          "display_url": "pic.twitter.com/FkCvlHezAu",
+          "expanded_url": "https://twitter.com/wastemobile/status/1563789392291909632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 501,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563787904840716290,
+    "in_reply_to_status_id_str": "1563787904840716290",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 07:17:44 +0000 2022",
+    "id": 1563787904840716290,
+    "id_str": "1563787904840716290",
+    "text": "17.《The Good Nurse》\n\n沒有中文譯本，講一名身為護士的美國連環殺手，謀殺高達300名患者。\n\n#Netflix 根據此書改編的電影《死亡天使》應該快上架了，潔西卡・雀絲坦主演。… https://t.co/txZrHLO8r6",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            56,
+            64
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/txZrHLO8r6",
+          "expanded_url": "https://twitter.com/i/web/status/1563787904840716290",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563786911482646529,
+    "in_reply_to_status_id_str": "1563786911482646529",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 07:13:48 +0000 2022",
+    "id": 1563786911482646529,
+    "id_str": "1563786911482646529",
+    "text": "16.《羽毛賊》\n\n這本書很另類，記得還是2021 Openbook 年度翻譯獎。\n\n故事圍繞在因為古典的「鮭魚毛鉤釣」活動，有人到自然史博物館偷珍貴的鳥類羽毛？\n\n應該是這清單中唯一沒有死人的一本。… https://t.co/1DLeFlRhlQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1DLeFlRhlQ",
+          "expanded_url": "https://twitter.com/i/web/status/1563786911482646529",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563785066358009856,
+    "in_reply_to_status_id_str": "1563785066358009856",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 07:06:28 +0000 2022",
+    "id": 1563785066358009856,
+    "id_str": "1563785066358009856",
+    "text": "15.《性掠食者與牠們的帝國》\n\n作者羅南・法羅，就是用《紐約客》文章踢爆哈維·溫斯坦性騷擾事件的那位。\n\n這書真正讓人毛骨悚然的，是權勢四周存在的層層共犯體系。\n\nhttps://t.co/3jUQBJoRq6 https://t.co/70S9fhhN8q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3jUQBJoRq6",
+          "expanded_url": "https://bit.ly/3Cz3R0Y",
+          "display_url": "bit.ly/3Cz3R0Y",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1563785060641226752,
+          "id_str": "1563785060641226752",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbOuOjSVQAAfPdM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbOuOjSVQAAfPdM.jpg",
+          "url": "https://t.co/70S9fhhN8q",
+          "display_url": "pic.twitter.com/70S9fhhN8q",
+          "expanded_url": "https://twitter.com/wastemobile/status/1563785066358009856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 353,
+              "h": 515,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 515,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 353,
+              "h": 515,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1563785060641226752,
+          "id_str": "1563785060641226752",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbOuOjSVQAAfPdM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbOuOjSVQAAfPdM.jpg",
+          "url": "https://t.co/70S9fhhN8q",
+          "display_url": "pic.twitter.com/70S9fhhN8q",
+          "expanded_url": "https://twitter.com/wastemobile/status/1563785066358009856/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 353,
+              "h": 515,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 515,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 353,
+              "h": 515,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563783297548685312,
+    "in_reply_to_status_id_str": "1563783297548685312",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 06:59:26 +0000 2022",
+    "id": 1563783297548685312,
+    "id_str": "1563783297548685312",
+    "text": "14.《什麼也別說》\n\n只有簡中譯本，據說是北愛爾蘭衝突中最臭名昭著的一樁案件，應該會有許多圍繞著該特殊情境的資訊。\n\n沒看過，我就也別說了。\n\nhttps://t.co/BhvEgLlVGf https://t.co/XKQd3gs12O",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BhvEgLlVGf",
+          "expanded_url": "https://bit.ly/3ASMiHR",
+          "display_url": "bit.ly/3ASMiHR",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1563783291756392448,
+          "id_str": "1563783291756392448",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbOsnlrUsAAqge6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbOsnlrUsAAqge6.jpg",
+          "url": "https://t.co/XKQd3gs12O",
+          "display_url": "pic.twitter.com/XKQd3gs12O",
+          "expanded_url": "https://twitter.com/wastemobile/status/1563783297548685312/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 488,
+              "h": 687,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 488,
+              "h": 687,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 483,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1563783291756392448,
+          "id_str": "1563783291756392448",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbOsnlrUsAAqge6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbOsnlrUsAAqge6.jpg",
+          "url": "https://t.co/XKQd3gs12O",
+          "display_url": "pic.twitter.com/XKQd3gs12O",
+          "expanded_url": "https://twitter.com/wastemobile/status/1563783297548685312/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 488,
+              "h": 687,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 488,
+              "h": 687,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 483,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563781211146727425,
+    "in_reply_to_status_id_str": "1563781211146727425",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 06:51:09 +0000 2022",
+    "id": 1563781211146727425,
+    "id_str": "1563781211146727425",
+    "text": "13.《Lost Girls》\n\n沒有中文譯本，但 #netflix 改編電影叫《失蹤的女孩：長島連續殺人事件》，圍繞在長島連環殺手犯下的在長島南岸屏障島上謀殺年輕女性性工作者的謀殺事件，目前仍未破案。… https://t.co/0aXw8XGbBo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "netflix",
+          "indices": [
+            26,
+            34
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0aXw8XGbBo",
+          "expanded_url": "https://twitter.com/i/web/status/1563781211146727425",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563780037567926273,
+    "in_reply_to_status_id_str": "1563780037567926273",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 06:46:29 +0000 2022",
+    "id": 1563780037567926273,
+    "id_str": "1563780037567926273",
+    "text": "12.《撕開的真相：我願為嫌犯辯護》\n\n一名堅決反對死刑的年輕法律系學生，面對一名死刑犯時，腦中突然出現「想要他死」的念頭⋯⋯\n\n這本雖說是真實案件，但重點擺在律師與死刑犯各自的人生體驗，也有點自傳味道，頗受好評。（但很囉唆⋯⋯… https://t.co/knGPeQ0fD9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/knGPeQ0fD9",
+          "expanded_url": "https://twitter.com/i/web/status/1563780037567926273",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563777565398953984,
+    "in_reply_to_status_id_str": "1563777565398953984",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 06:36:39 +0000 2022",
+    "id": 1563777565398953984,
+    "id_str": "1563777565398953984",
+    "text": "11.《無辜之人：小鎮冤案紀實》\n\n作者是大名鼎鼎的約翰・葛里遜，寫《黑色豪門企業》的那位法律驚悚小說之王，這是他第一本非小說著作。\n\n講述的是一名大聯盟職棒新秀隆恩・威廉森的冤獄案。… https://t.co/5q0JhfRr84",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5q0JhfRr84",
+          "expanded_url": "https://twitter.com/i/web/status/1563777565398953984",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563776148210794499,
+    "in_reply_to_status_id_str": "1563776148210794499",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 06:31:01 +0000 2022",
+    "id": 1563776148210794499,
+    "id_str": "1563776148210794499",
+    "text": "10. 《The Poisoner’s Handbook》\n\n沒有譯本，但感覺很有趣。直譯為《毒藥手冊：爵士時代的謀殺與法醫學的誕生》。\n\n1918年紐約市任命了第一位受過科學培訓的法醫，他與同樣是第一位毒理學家，描述了許多紐約爵… https://t.co/GLGmgDVPX4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GLGmgDVPX4",
+          "expanded_url": "https://twitter.com/i/web/status/1563776148210794499",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563774902284349440,
+    "in_reply_to_status_id_str": "1563774902284349440",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 06:26:04 +0000 2022",
+    "id": 1563774902284349440,
+    "id_str": "1563774902284349440",
+    "text": "9. 《破案神探》\n\n就 Netflix 同名影集的原著，比較著重在犯罪心理學與罪犯側寫剛開始被應用在案件調查的歷程描述，走訪許多正在服刑的連環殺手，了解其犯罪心理與動機。\n\n因為案件太多、描述有時過細，感覺影集更好看。… https://t.co/ZXSzINIbTh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZXSzINIbTh",
+          "expanded_url": "https://twitter.com/i/web/status/1563774902284349440",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563773495690944512,
+    "in_reply_to_status_id_str": "1563773495690944512",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 22,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 06:20:29 +0000 2022",
+    "id": 1563773495690944512,
+    "id_str": "1563773495690944512",
+    "text": "8. 《Columbine》\n\n沒有中文譯本，但可以看看 imdb 高達8分的《科倫拜校園事件》紀錄片，美國歷史上最血腥的校園槍擊事件。\n\nhttps://t.co/7UQ3eUQUj7 https://t.co/dXYYgHWVPp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7UQ3eUQUj7",
+          "expanded_url": "https://imdb.to/3RgMdTL",
+          "display_url": "imdb.to/3RgMdTL",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1563773488023756800,
+          "id_str": "1563773488023756800",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbOjs77UYAAIeVm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbOjs77UYAAIeVm.jpg",
+          "url": "https://t.co/dXYYgHWVPp",
+          "display_url": "pic.twitter.com/dXYYgHWVPp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1563773495690944512/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 480,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1563773488023756800,
+          "id_str": "1563773488023756800",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbOjs77UYAAIeVm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbOjs77UYAAIeVm.jpg",
+          "url": "https://t.co/dXYYgHWVPp",
+          "display_url": "pic.twitter.com/dXYYgHWVPp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1563773495690944512/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 480,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1563773487990206466,
+          "id_str": "1563773487990206466",
+          "indices": [
+            94,
+            117
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbOjs7zUcAIhRAU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbOjs7zUcAIhRAU.jpg",
+          "url": "https://t.co/dXYYgHWVPp",
+          "display_url": "pic.twitter.com/dXYYgHWVPp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1563773495690944512/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1000,
+              "h": 1500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563772622785040384,
+    "in_reply_to_status_id_str": "1563772622785040384",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 06:17:01 +0000 2022",
+    "id": 1563772622785040384,
+    "id_str": "1563772622785040384",
+    "text": "7. 《掠殺》\n\n從一名失蹤少女的綁架案，追蹤到一名沒有前科、甚至沒有交通違規的嫌疑犯，後來發現數十年間，至少有11名以上受害人被其殺害，幾乎毫無破綻。\n\n這本對 FBI 辦案人員的描寫出神入化，故事也真的很可怕。\n\n#kobo… https://t.co/3cxRUjK4uA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            109,
+            114
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3cxRUjK4uA",
+          "expanded_url": "https://twitter.com/i/web/status/1563772622785040384",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563770011444858881,
+    "in_reply_to_status_id_str": "1563770011444858881",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 06:06:38 +0000 2022",
+    "id": 1563770011444858881,
+    "id_str": "1563770011444858881",
+    "text": "6. 《The Stranger Beside Me》\n\n這本沒有中譯，講的是活躍於1973年至1978年的美國連環殺手泰德・邦迪（Ted Bundy）。\n\n前兩年電影《極惡人魔》是講這個連環殺手，但根據的是另一本書。… https://t.co/ci7zvACiH5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ci7zvACiH5",
+          "expanded_url": "https://twitter.com/i/web/status/1563770011444858881",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563768810590457856,
+    "in_reply_to_status_id_str": "1563768810590457856",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 06:01:52 +0000 2022",
+    "id": 1563768810590457856,
+    "id_str": "1563768810590457856",
+    "text": "5. 《Helter Skelter》\n\n這本只有簡體《好萊塢往事》，就是講那駭人聽聞的曼森家族殺人案。\n\n瓊・蒂蒂安曾說「我認識的許多洛杉磯人都認為，二十世紀六〇年代在1969年8月9日那天突然結束了⋯⋯從某種意義上說，確實如此… https://t.co/9fzE0BnR0D",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9fzE0BnR0D",
+          "expanded_url": "https://twitter.com/i/web/status/1563768810590457856",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563767578740158465,
+    "in_reply_to_status_id_str": "1563767578740158465",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 05:56:58 +0000 2022",
+    "id": 1563767578740158465,
+    "id_str": "1563767578740158465",
+    "text": "4. 《冷血》\n\n這書應該不用多提了，楚門卡波提於1966年出版的非虛構當代經典，被公認是非虛構小說鼻祖及新新聞主義先驅。繁體絕版已久，簡中版比較容易取得。拍過三部電影、一部影集。\n\n其實這兇殺案並不十分驚悚、也不太懸疑，真的是卡… https://t.co/l6X2XNxcdc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/l6X2XNxcdc",
+          "expanded_url": "https://twitter.com/i/web/status/1563767578740158465",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563765926004084736,
+    "in_reply_to_status_id_str": "1563765926004084736",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 05:50:24 +0000 2022",
+    "id": 1563765926004084736,
+    "id_str": "1563765926004084736",
+    "text": "3. 《花月殺手》\n\n美國調查局參與的第一宗大型謀殺案，胡佛因此聲名大噪，才成立了聯邦調查局（FBI）。二十多名富裕的印第安人離奇死亡，雖然三年後偵破，但作者發現更多被掩蓋的細節，極有可能真相未明。\n\n電影檔期訂在2023年，馬丁… https://t.co/7loWRwbF2Y",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7loWRwbF2Y",
+          "expanded_url": "https://twitter.com/i/web/status/1563765926004084736",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563763891540070400,
+    "in_reply_to_status_id_str": "1563763891540070400",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 31,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 05:42:19 +0000 2022",
+    "id": 1563763891540070400,
+    "id_str": "1563763891540070400",
+    "text": "2. 《白城魔鬼》\n\n二十世紀初芝加哥大興土木準備著世界博覽會，一名建築師打造著輝煌的白城奇蹟，一名連續殺人犯在黑夜建造魔鬼基地。\n\n這書雖歸在非小說類，但真的超越懸疑小說。長期雄踞真實犯罪類型首位的絕對佳作，必讀。\n\n#kobo… https://t.co/q8qjD61lwk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            110,
+            115
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q8qjD61lwk",
+          "expanded_url": "https://twitter.com/i/web/status/1563763891540070400",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563762136328704002,
+    "in_reply_to_status_id_str": "1563762136328704002",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 36,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 05:35:21 +0000 2022",
+    "id": 1563762136328704002,
+    "id_str": "1563762136328704002",
+    "text": "1. 《惡魔的背影》\n\n調查記者蜜雪兒追尋強暴50名女性、謀殺十餘人的「金州殺手」懸案，在加州各地有各種稱號，後來才確認是同一人，記者從各種極微小的線索、物件、與訪談拼湊出兇手模樣。\n\n成書前她不幸逝世，由親屬家人補完，書籍出版兩… https://t.co/xY87aXmxuX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xY87aXmxuX",
+          "expanded_url": "https://twitter.com/i/web/status/1563762136328704002",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1563758560927920128,
+    "in_reply_to_status_id_str": "1563758560927920128",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 39,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 05:21:08 +0000 2022",
+    "id": 1563758560927920128,
+    "id_str": "1563758560927920128",
+    "text": "影集《加州殺人魔》看了一集就趕緊停下，買原著譯本讀，因為發現在「真實犯罪」類別中，這書居然打敗雄霸多年的幾本神作、高居評價榜首位，讀來果真名副其實。\n\n真實比虛構更離奇，許多事件得經歷數十年抽絲剝繭，調查記者還得將事實寫成不忍釋卷… https://t.co/HKg9awOyHZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HKg9awOyHZ",
+          "expanded_url": "https://twitter.com/i/web/status/1563758560927920128",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 208,
+    "favorite_count": 802,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Aug 28 04:02:26 +0000 2022",
+    "id": 1563738754300317696,
+    "id_str": "1563738754300317696",
+    "text": "RT @MarshaBlackburn: 至感榮幸能與蔡總統@iingwen會面，重申對台灣自由及未來成就的支持 https://t.co/YP4cPzhjp3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "MarshaBlackburn",
+          "name": "Sen. Marsha Blackburn",
+          "id": 278145569,
+          "id_str": "278145569",
+          "indices": [
+            3,
+            19
+          ]
+        },
+        {
+          "screen_name": "iingwen",
+          "name": "蔡英文 Tsai Ing-wen",
+          "id": 155814794,
+          "id_str": "155814794",
+          "indices": [
+            30,
+            38
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1563115943890456577,
+          "id_str": "1563115943890456577",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbFNq1JXEAEbcZ8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbFNq1JXEAEbcZ8.jpg",
+          "url": "https://t.co/YP4cPzhjp3",
+          "display_url": "pic.twitter.com/YP4cPzhjp3",
+          "expanded_url": "https://twitter.com/MarshaBlackburn/status/1563115955307577345/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 400,
+              "h": 291,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 400,
+              "h": 291,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 291,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1563115955307577345,
+          "source_status_id_str": "1563115955307577345",
+          "source_user_id": 278145569,
+          "source_user_id_str": "278145569"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1563115943890456577,
+          "id_str": "1563115943890456577",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbFNq1JXEAEbcZ8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbFNq1JXEAEbcZ8.jpg",
+          "url": "https://t.co/YP4cPzhjp3",
+          "display_url": "pic.twitter.com/YP4cPzhjp3",
+          "expanded_url": "https://twitter.com/MarshaBlackburn/status/1563115955307577345/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 400,
+              "h": 291,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 400,
+              "h": 291,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 400,
+              "h": 291,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1563115955307577345,
+          "source_status_id_str": "1563115955307577345",
+          "source_user_id": 278145569,
+          "source_user_id_str": "278145569"
+        },
+        {
+          "id": 1563115943890489344,
+          "id_str": "1563115943890489344",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbFNq1JXkAA3zk9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbFNq1JXkAA3zk9.jpg",
+          "url": "https://t.co/YP4cPzhjp3",
+          "display_url": "pic.twitter.com/YP4cPzhjp3",
+          "expanded_url": "https://twitter.com/MarshaBlackburn/status/1563115955307577345/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1563115955307577345,
+          "source_status_id_str": "1563115955307577345",
+          "source_user_id": 278145569,
+          "source_user_id_str": "278145569"
+        },
+        {
+          "id": 1563115943890456576,
+          "id_str": "1563115943890456576",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbFNq1JXEAAJwOI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbFNq1JXEAAJwOI.jpg",
+          "url": "https://t.co/YP4cPzhjp3",
+          "display_url": "pic.twitter.com/YP4cPzhjp3",
+          "expanded_url": "https://twitter.com/MarshaBlackburn/status/1563115955307577345/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 691,
+              "h": 461,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 454,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 691,
+              "h": 461,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1563115955307577345,
+          "source_status_id_str": "1563115955307577345",
+          "source_user_id": 278145569,
+          "source_user_id_str": "278145569"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Aug 26 10:47:39 +0000 2022",
+      "id": 1563115955307577345,
+      "id_str": "1563115955307577345",
+      "text": "至感榮幸能與蔡總統@iingwen會面，重申對台灣自由及未來成就的支持 https://t.co/YP4cPzhjp3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "iingwen",
+            "name": "蔡英文 Tsai Ing-wen",
+            "id": 155814794,
+            "id_str": "155814794",
+            "indices": [
+              9,
+              17
+            ]
+          }
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1563115943890456577,
+            "id_str": "1563115943890456577",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbFNq1JXEAEbcZ8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbFNq1JXEAEbcZ8.jpg",
+            "url": "https://t.co/YP4cPzhjp3",
+            "display_url": "pic.twitter.com/YP4cPzhjp3",
+            "expanded_url": "https://twitter.com/MarshaBlackburn/status/1563115955307577345/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 400,
+                "h": 291,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 400,
+                "h": 291,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 400,
+                "h": 291,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1563115943890456577,
+            "id_str": "1563115943890456577",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbFNq1JXEAEbcZ8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbFNq1JXEAEbcZ8.jpg",
+            "url": "https://t.co/YP4cPzhjp3",
+            "display_url": "pic.twitter.com/YP4cPzhjp3",
+            "expanded_url": "https://twitter.com/MarshaBlackburn/status/1563115955307577345/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 400,
+                "h": 291,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 400,
+                "h": 291,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 400,
+                "h": 291,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1563115943890489344,
+            "id_str": "1563115943890489344",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbFNq1JXkAA3zk9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbFNq1JXkAA3zk9.jpg",
+            "url": "https://t.co/YP4cPzhjp3",
+            "display_url": "pic.twitter.com/YP4cPzhjp3",
+            "expanded_url": "https://twitter.com/MarshaBlackburn/status/1563115955307577345/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 640,
+                "h": 426,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 426,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 426,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1563115943890456576,
+            "id_str": "1563115943890456576",
+            "indices": [
+              36,
+              59
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbFNq1JXEAAJwOI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbFNq1JXEAAJwOI.jpg",
+            "url": "https://t.co/YP4cPzhjp3",
+            "display_url": "pic.twitter.com/YP4cPzhjp3",
+            "expanded_url": "https://twitter.com/MarshaBlackburn/status/1563115955307577345/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 691,
+                "h": 461,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 454,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 691,
+                "h": 461,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 278145569,
+        "id_str": "278145569",
+        "name": "Sen. Marsha Blackburn",
+        "screen_name": "MarshaBlackburn",
+        "location": "Brentwood, TN",
+        "description": "I am honored to serve the people of Tennessee.",
+        "url": "https://t.co/sdip4ai5Ok",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/sdip4ai5Ok",
+                "expanded_url": "http://blackburn.senate.gov",
+                "display_url": "blackburn.senate.gov",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 695162,
+        "friends_count": 2008,
+        "listed_count": 3495,
+        "created_at": "Wed Apr 06 18:05:33 +0000 2011",
+        "favourites_count": 1997,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 15491,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082735690213924864/VRFUWsuH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082735690213924864/VRFUWsuH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/278145569/1549925243",
+        "profile_link_color": "EF4244",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 673,
+      "favorite_count": 5634,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 673,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Aug 28 00:59:21 +0000 2022",
     "id": 1563692681108152320,
     "id_str": "1563692681108152320",
