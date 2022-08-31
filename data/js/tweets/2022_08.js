@@ -1,5 +1,923 @@
 Grailbird.data.tweets_2022_08 = [
   {
+    "created_at": "Wed Aug 31 01:11:20 +0000 2022",
+    "id": 1564782858786394112,
+    "id_str": "1564782858786394112",
+    "text": "近年歐美大出版公司真的會找 Sensitivity Readers，通常被稱為「敏感資訊審查員」，預先從書中發掘存在的偏見、刻板印象與文化誤解。\n\n但我真心覺得⋯⋯（已被審查）\n\n是外部專家還是言論審查？出版商引入「敏感性讀者」機… https://t.co/hgIMwHC218",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hgIMwHC218",
+          "expanded_url": "https://twitter.com/i/web/status/1564782858786394112",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 31 00:52:19 +0000 2022",
+    "id": 1564778073702117377,
+    "id_str": "1564778073702117377",
+    "text": "RT @nasubifly3: 市政8周年精彩回顧(1/∞)\n\n智慧垃圾桶。\nhttps://t.co/6nTtNWx96f https://t.co/MSr1QXpN8q",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nasubifly3",
+          "name": "おパイちゃん2",
+          "id": 1557282357807546368,
+          "id_str": "1557282357807546368",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6nTtNWx96f",
+          "expanded_url": "https://smartcity.taipei/projdetail/10",
+          "display_url": "smartcity.taipei/projdetail/10",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1564290239568695296,
+          "id_str": "1564290239568695296",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbV5r1caUAA4kxI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbV5r1caUAA4kxI.jpg",
+          "url": "https://t.co/MSr1QXpN8q",
+          "display_url": "pic.twitter.com/MSr1QXpN8q",
+          "expanded_url": "https://twitter.com/nasubifly3/status/1564290422301937665/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1027,
+              "h": 1062,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 658,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1027,
+              "h": 1062,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1564290422301937665,
+          "source_status_id_str": "1564290422301937665",
+          "source_user_id": 1557282357807546368,
+          "source_user_id_str": "1557282357807546368"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1564290239568695296,
+          "id_str": "1564290239568695296",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbV5r1caUAA4kxI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbV5r1caUAA4kxI.jpg",
+          "url": "https://t.co/MSr1QXpN8q",
+          "display_url": "pic.twitter.com/MSr1QXpN8q",
+          "expanded_url": "https://twitter.com/nasubifly3/status/1564290422301937665/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1027,
+              "h": 1062,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 658,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1027,
+              "h": 1062,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1564290422301937665,
+          "source_status_id_str": "1564290422301937665",
+          "source_user_id": 1557282357807546368,
+          "source_user_id_str": "1557282357807546368"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Aug 29 16:34:34 +0000 2022",
+      "id": 1564290422301937665,
+      "id_str": "1564290422301937665",
+      "text": "市政8周年精彩回顧(1/∞)\n\n智慧垃圾桶。\nhttps://t.co/6nTtNWx96f https://t.co/MSr1QXpN8q",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6nTtNWx96f",
+            "expanded_url": "https://smartcity.taipei/projdetail/10",
+            "display_url": "smartcity.taipei/projdetail/10",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1564290239568695296,
+            "id_str": "1564290239568695296",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbV5r1caUAA4kxI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbV5r1caUAA4kxI.jpg",
+            "url": "https://t.co/MSr1QXpN8q",
+            "display_url": "pic.twitter.com/MSr1QXpN8q",
+            "expanded_url": "https://twitter.com/nasubifly3/status/1564290422301937665/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1027,
+                "h": 1062,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 658,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1027,
+                "h": 1062,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1564290239568695296,
+            "id_str": "1564290239568695296",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/FbV5r1caUAA4kxI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FbV5r1caUAA4kxI.jpg",
+            "url": "https://t.co/MSr1QXpN8q",
+            "display_url": "pic.twitter.com/MSr1QXpN8q",
+            "expanded_url": "https://twitter.com/nasubifly3/status/1564290422301937665/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1027,
+                "h": 1062,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 658,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1027,
+                "h": 1062,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1557282357807546368,
+        "id_str": "1557282357807546368",
+        "name": "おパイちゃん2",
+        "screen_name": "nasubifly3",
+        "location": "Taiwan",
+        "description": "你好我是天龍人用骨頭養的小狗狗。\n我住在北市府。\n不但是塔綠斑。還支持台獨。\n最重要的是我的毛色是白色的。\n而且我膝蓋很軟，專長是五體投地跪在停車場。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4128,
+        "friends_count": 71,
+        "listed_count": 20,
+        "created_at": "Wed Aug 10 08:27:15 +0000 2022",
+        "favourites_count": 5566,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1306,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1564786854787854336/1sS54_WV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1564786854787854336/1sS54_WV_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557282357807546368/1661492570",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 83,
+      "favorite_count": 541,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 83,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Aug 31 00:45:55 +0000 2022",
+    "id": 1564776460912447488,
+    "id_str": "1564776460912447488",
+    "text": "另一本《聖母峰之死》（Into the Air）早年譯本叫做《巔峰》，是許多登山迷的必讀書目。\n\n1996年5月，尼泊爾放寬聖母峰登山人數限制，世界最高峰迎來史上最熱鬧的登山季。5月10日午夜34人出發，卻有12人罹難，作者強．克… https://t.co/qDkGKaIrLY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qDkGKaIrLY",
+          "expanded_url": "https://twitter.com/i/web/status/1564776460912447488",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1564774342570872835,
+    "in_reply_to_status_id_str": "1564774342570872835",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 31 00:37:30 +0000 2022",
+    "id": 1564774342570872835,
+    "id_str": "1564774342570872835",
+    "text": "強．克拉庫爾（Jon Krakauer）的原著不知有沒有機會出版，畢竟他之前兩本書不算賣得差吧，台灣應該也不太忌諱挑戰這種宗教異端題材。\n\n《阿拉斯加之死》（Into the Wild）是克拉庫爾根據廢棄巴士中男屍的日記與信件調查… https://t.co/EYYawVAQNX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EYYawVAQNX",
+          "expanded_url": "https://twitter.com/i/web/status/1564774342570872835",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1564772270119129089,
+    "in_reply_to_status_id_str": "1564772270119129089",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Aug 31 00:29:15 +0000 2022",
+    "id": 1564772270119129089,
+    "id_str": "1564772270119129089",
+    "text": "這部 Disney+ 就有播的影集真的大推。\n\n安德魯加菲爾德飾演的警探角色據說是編劇另創出來的，將許多事實背後複雜的人性掙扎透過這角色呈現，看來相當成功且巧妙。\n\n信仰原意多是善的，但教會與激進教眾總以善意鋪出通往地獄的路。… https://t.co/4DVg9j5fu2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4DVg9j5fu2",
+          "expanded_url": "https://twitter.com/i/web/status/1564772270119129089",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1563805318257074177,
+    "quoted_status_id_str": "1563805318257074177",
+    "quoted_status": {
+      "created_at": "Sun Aug 28 08:26:56 +0000 2022",
+      "id": 1563805318257074177,
+      "id_str": "1563805318257074177",
+      "text": "補一本《天堂的旗幟下》，沒有譯本，但 hulu 有拍七集的影集，蜘蛛人加菲爾德、與《正常人》女主角黛西·埃德加-瓊斯主演。\n\n極爭議題材，1984年猶他州摩門教一對母女被謀殺，行凶者聲稱是「神的旨意」，以信仰之名的殺戮。\n\n書名即… https://t.co/vgBR3jhfnr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vgBR3jhfnr",
+            "expanded_url": "https://twitter.com/i/web/status/1563805318257074177",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1563793008717230081,
+      "in_reply_to_status_id_str": "1563793008717230081",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "Cyberpunk wasteland.\n\nmedium: https://t.co/TiZfmTQ9mO",
+        "url": "https://t.co/Hsfttyyiok",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Hsfttyyiok",
+                "expanded_url": "https://readgoing.com",
+                "display_url": "readgoing.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/TiZfmTQ9mO",
+                "expanded_url": "http://medium.com/@wastemobile",
+                "display_url": "medium.com/@wastemobile",
+                "indices": [
+                  30,
+                  53
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5833,
+        "friends_count": 1230,
+        "listed_count": 137,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3698,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25307,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1573835714",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 5,
+    "favorite_count": 26,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 30 00:19:20 +0000 2022",
+    "id": 1564407386785193985,
+    "id_str": "1564407386785193985",
+    "text": "跟著文中連結去到香港「獨立書店：每周一書」本次以段義孚的著名作「逃避主義」為題的系列書單，好深沉。\n\n書店們：逃避主義 https://t.co/paHID1ERdi https://t.co/Jch6yfnMZC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/paHID1ERdi",
+          "expanded_url": "https://bit.ly/3KygR9e",
+          "display_url": "bit.ly/3KygR9e",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1564407375267774474,
+          "id_str": "1564407375267774474",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbXkOB7WQAo7hbW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbXkOB7WQAo7hbW.jpg",
+          "url": "https://t.co/Jch6yfnMZC",
+          "display_url": "pic.twitter.com/Jch6yfnMZC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1564407386785193985/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 899,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1439,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1564407375267774474,
+          "id_str": "1564407375267774474",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/media/FbXkOB7WQAo7hbW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FbXkOB7WQAo7hbW.jpg",
+          "url": "https://t.co/Jch6yfnMZC",
+          "display_url": "pic.twitter.com/Jch6yfnMZC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1564407386785193985/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 899,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1439,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 30 00:10:31 +0000 2022",
+    "id": 1564405164093554688,
+    "id_str": "1564405164093554688",
+    "text": "新聞學教授麥可．波倫是永遠的懷疑論者、靈性開發程度幾乎為零，透過訪問眾多在檯面上下投身啟靈藥探索的人物，將啟靈藥驚世駭俗的過去及最新的科學研究成果帶到讀者眼前。\n\n他親身體驗，用最理性、冷靜的筆，描述這最難以言喻、不可置信的體驗。… https://t.co/qW8wOIPKBb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qW8wOIPKBb",
+          "expanded_url": "https://twitter.com/i/web/status/1564405164093554688",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1564403842082516992,
+    "in_reply_to_status_id_str": "1564403842082516992",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Aug 30 00:05:15 +0000 2022",
+    "id": 1564403842082516992,
+    "id_str": "1564403842082516992",
+    "text": "原來 #Netflix 《改變你的心智》是根據同名書籍拍攝的，作者也有親自現身主持，探討四種啟靈藥物長達數世紀的神聖用途或其在現代社會的負面形象。\n\n謊稱 LSD 會過量致死，繼「大麻成癮性僅次海洛因」後台中警察局荒誕反毒糗事再一… https://t.co/MBNEonVOUX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MBNEonVOUX",
+          "expanded_url": "https://twitter.com/i/web/status/1564403842082516992",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 24,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Aug 29 01:31:16 +0000 2022",
     "id": 1564063099216207872,
     "id_str": "1564063099216207872",
