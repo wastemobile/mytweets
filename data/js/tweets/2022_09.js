@@ -1,5 +1,680 @@
 Grailbird.data.tweets_2022_09 = [
   {
+    "created_at": "Mon Sep 05 12:12:26 +0000 2022",
+    "id": 1566761170241228801,
+    "id_str": "1566761170241228801",
+    "text": "RT @Nicole_NotNico: 瑞典哥德堡大學V-Dem假訊息攻擊調查報告： 台灣是接受境外假訊息攻擊最頻繁的國家，已連續蟬聯9年第1名。\n\n#台灣No1 ತ_ತ https://t.co/OOde0ciF7I",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "台灣No1",
+          "indices": [
+            75,
+            81
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Nicole_NotNico",
+          "name": "🦖 Nicole Medigen 妮可高端 🦖",
+          "id": 1403642695424245761,
+          "id_str": "1403642695424245761",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1566583941263683584,
+          "id_str": "1566583941263683584",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fb2fy2HacAA7PNX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fb2fy2HacAA7PNX.jpg",
+          "url": "https://t.co/OOde0ciF7I",
+          "display_url": "pic.twitter.com/OOde0ciF7I",
+          "expanded_url": "https://twitter.com/Nicole_NotNico/status/1566583944916926464/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1566583944916926464,
+          "source_status_id_str": "1566583944916926464",
+          "source_user_id": 1403642695424245761,
+          "source_user_id_str": "1403642695424245761"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1566583941263683584,
+          "id_str": "1566583941263683584",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fb2fy2HacAA7PNX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fb2fy2HacAA7PNX.jpg",
+          "url": "https://t.co/OOde0ciF7I",
+          "display_url": "pic.twitter.com/OOde0ciF7I",
+          "expanded_url": "https://twitter.com/Nicole_NotNico/status/1566583944916926464/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 640,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1566583944916926464,
+          "source_status_id_str": "1566583944916926464",
+          "source_user_id": 1403642695424245761,
+          "source_user_id_str": "1403642695424245761"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Sep 05 00:28:12 +0000 2022",
+      "id": 1566583944916926464,
+      "id_str": "1566583944916926464",
+      "text": "瑞典哥德堡大學V-Dem假訊息攻擊調查報告： 台灣是接受境外假訊息攻擊最頻繁的國家，已連續蟬聯9年第1名。\n\n#台灣No1 ತ_ತ https://t.co/OOde0ciF7I",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "台灣No1",
+            "indices": [
+              55,
+              61
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1566583941263683584,
+            "id_str": "1566583941263683584",
+            "indices": [
+              66,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fb2fy2HacAA7PNX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fb2fy2HacAA7PNX.jpg",
+            "url": "https://t.co/OOde0ciF7I",
+            "display_url": "pic.twitter.com/OOde0ciF7I",
+            "expanded_url": "https://twitter.com/Nicole_NotNico/status/1566583944916926464/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1566583941263683584,
+            "id_str": "1566583941263683584",
+            "indices": [
+              66,
+              89
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fb2fy2HacAA7PNX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fb2fy2HacAA7PNX.jpg",
+            "url": "https://t.co/OOde0ciF7I",
+            "display_url": "pic.twitter.com/OOde0ciF7I",
+            "expanded_url": "https://twitter.com/Nicole_NotNico/status/1566583944916926464/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1403642695424245761,
+        "id_str": "1403642695424245761",
+        "name": "🦖 Nicole Medigen 妮可高端 🦖",
+        "screen_name": "Nicole_NotNico",
+        "location": "台灣",
+        "description": "🦜想任性的活著。  \n🍋有時會太酸。  \n💉高端仔，高三生。  \n🥺舊帳NicoleNotNico。  \n🆓自製梗圖不必問請自取。  \n🅱️會 Chain Block 小粉紅、華、膠、柯粉、民國派，誤B就...就那樣吧。  \n⛔反對移轉投票/不在籍投票。  \n🔥支持廢除港澳條例。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1259,
+        "friends_count": 1061,
+        "listed_count": 4,
+        "created_at": "Sat Jun 12 09:18:07 +0000 2021",
+        "favourites_count": 85190,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5011,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1403657223801163780/-EMYN2u7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1403657223801163780/-EMYN2u7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1403642695424245761/1623493619",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 95,
+      "favorite_count": 524,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 95,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 05 00:43:51 +0000 2022",
+    "id": 1566587883527426049,
+    "id_str": "1566587883527426049",
+    "text": "「在前總統尼克森 20 世紀 60 年代為尋求手段制衡反越戰的反文化族群而妖魔化啟靈藥的數十年後，越來越多證據顯示其治療潛力⋯⋯」\n\n〈知名作家 Michael Pollan 著作拍攝同名影集：改變你的心智，探索心智邊界與意識深處… https://t.co/wUTjzHWS2c",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wUTjzHWS2c",
+          "expanded_url": "https://twitter.com/i/web/status/1566587883527426049",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1565513083023265793,
+    "in_reply_to_status_id_str": "1565513083023265793",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 05 00:38:05 +0000 2022",
+    "id": 1566586430326902784,
+    "id_str": "1566586430326902784",
+    "text": "不妙！OpenSea八月NFT交易量不到5億美元，比巔峰時的 1 天量還低 https://t.co/xo2FLnSOQc\n\n居然還有5億美元⋯⋯ https://t.co/ekN8w8nui7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xo2FLnSOQc",
+          "expanded_url": "https://bit.ly/3BcWnPX",
+          "display_url": "bit.ly/3BcWnPX",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1566586424706490368,
+          "id_str": "1566586424706490368",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fb2iDZqUYAAL5UK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fb2iDZqUYAAL5UK.jpg",
+          "url": "https://t.co/ekN8w8nui7",
+          "display_url": "pic.twitter.com/ekN8w8nui7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1566586430326902784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1566586424706490368,
+          "id_str": "1566586424706490368",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fb2iDZqUYAAL5UK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fb2iDZqUYAAL5UK.jpg",
+          "url": "https://t.co/ekN8w8nui7",
+          "display_url": "pic.twitter.com/ekN8w8nui7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1566586430326902784/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 750,
+              "h": 375,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1466598044334702592,
+    "in_reply_to_status_id_str": "1466598044334702592",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 04 12:02:51 +0000 2022",
+    "id": 1566396368255471616,
+    "id_str": "1566396368255471616",
+    "text": "RT @Yui981516: @wastemobile 這本書很好看，記得裡面有句話：「活著和死亡原來都是極不容易的事」，不知為何我瞬間飆淚不能自己。讀的時候我做了許多畫記，並不是那些字句多有啟發，而是我在其中看見了自己，大推。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Yui981516",
+          "name": "脾氣不好的文編。",
+          "id": 870273062561660930,
+          "id_str": "870273062561660930",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "wastemobile",
+          "name": "wastemobile",
+          "id": 20709129,
+          "id_str": "20709129",
+          "indices": [
+            15,
+            27
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Sep 02 17:33:30 +0000 2022",
+      "id": 1565754804139200512,
+      "id_str": "1565754804139200512",
+      "text": "@wastemobile 這本書很好看，記得裡面有句話：「活著和死亡原來都是極不容易的事」，不知為何我瞬間飆淚不能自己。讀的時候我做了許多畫記，並不是那些字句多有啟發，而是我在其中看見了自己，大推。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1565513083023265793,
+      "in_reply_to_status_id_str": "1565513083023265793",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 870273062561660930,
+        "id_str": "870273062561660930",
+        "name": "脾氣不好的文編。",
+        "screen_name": "Yui981516",
+        "location": "台灣",
+        "description": "817，只喜歡在同溫層游泳。 踏入出版界後，才明白熱愛文字與文字工作者是兩碼子事，如果在哪本書的版權頁上寫著「編了這本書之後更想離職的文編」，不用懷疑，肯定是本人！",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 76,
+        "friends_count": 140,
+        "listed_count": 0,
+        "created_at": "Thu Jun 01 13:37:21 +0000 2017",
+        "favourites_count": 14063,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 398,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1308379668702142469/7pXZGRNp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308379668702142469/7pXZGRNp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/870273062561660930/1632499394",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Sep 04 01:48:26 +0000 2022",
     "id": 1566241747415445504,
     "id_str": "1566241747415445504",
