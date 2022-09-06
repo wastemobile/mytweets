@@ -1,5 +1,387 @@
 Grailbird.data.tweets_2022_09 = [
   {
+    "created_at": "Tue Sep 06 00:41:05 +0000 2022",
+    "id": 1566949574974984192,
+    "id_str": "1566949574974984192",
+    "text": "「本書是偽裝成政治哲學的風險管理學。」\n\n《暴民法：當國家為惡、政治失控、正義失靈，人民的反抗無罪》 #kobo https://t.co/lH8dfh6QCo https://t.co/ynYUZNNqrH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            51,
+            56
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lH8dfh6QCo",
+          "expanded_url": "https://bit.ly/3TDckGq",
+          "display_url": "bit.ly/3TDckGq",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1566949568574476288,
+          "id_str": "1566949568574476288",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fb7sVJ_VUAAswNu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fb7sVJ_VUAAswNu.jpg",
+          "url": "https://t.co/ynYUZNNqrH",
+          "display_url": "pic.twitter.com/ynYUZNNqrH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1566949574974984192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 353,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 500,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1566949568574476288,
+          "id_str": "1566949568574476288",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fb7sVJ_VUAAswNu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fb7sVJ_VUAAswNu.jpg",
+          "url": "https://t.co/ynYUZNNqrH",
+          "display_url": "pic.twitter.com/ynYUZNNqrH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1566949574974984192/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 353,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 353,
+              "h": 500,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 353,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1566949322872107008,
+    "in_reply_to_status_id_str": "1566949322872107008",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 06 00:40:05 +0000 2022",
+    "id": 1566949322872107008,
+    "id_str": "1566949322872107008",
+    "text": "「基於正義，我們每人都擁有一種不可侵犯性，禁止任何人侵犯我的權利。政府代理人雖然背負著風險，也背負比一般人更大的道德義務，必須保護我們的權利而非侵犯我們的權利。他們必須嚴守這些義務，不能退讓。如果他們退讓了，就不應該享有任何特殊豁… https://t.co/tHXoXApmrA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tHXoXApmrA",
+          "expanded_url": "https://twitter.com/i/web/status/1566949322872107008",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 06 00:20:42 +0000 2022",
+    "id": 1566944443285983232,
+    "id_str": "1566944443285983232",
+    "text": "收藏價 NT$ 1,500。\n\n從誕生到虛無的宏觀敘事 ── 恆成紙業全黑藝術之書：《物起源於黑 源於虛無》 https://t.co/a7EgmTdRaq https://t.co/mXx8kmWxRM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/a7EgmTdRaq",
+          "expanded_url": "https://bit.ly/3Bd2i7Q",
+          "display_url": "bit.ly/3Bd2i7Q",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1566944434058452992,
+          "id_str": "1566944434058452992",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fb7nqSbUYAAkK7I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fb7nqSbUYAAkK7I.jpg",
+          "url": "https://t.co/mXx8kmWxRM",
+          "display_url": "pic.twitter.com/mXx8kmWxRM",
+          "expanded_url": "https://twitter.com/wastemobile/status/1566944443285983232/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2000,
+              "h": 1333,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1566944434058452992,
+          "id_str": "1566944434058452992",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fb7nqSbUYAAkK7I.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fb7nqSbUYAAkK7I.jpg",
+          "url": "https://t.co/mXx8kmWxRM",
+          "display_url": "pic.twitter.com/mXx8kmWxRM",
+          "expanded_url": "https://twitter.com/wastemobile/status/1566944443285983232/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2000,
+              "h": 1333,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 06 00:14:08 +0000 2022",
+    "id": 1566942793238384640,
+    "id_str": "1566942793238384640",
+    "text": "BBC根據出版商與連鎖書店的電郵，揭露了一些（應該不算新聞的）書業資訊。\n\nWH Smith 要求出版商支付兩千英鎊換促銷空間，包含在排行榜中的位置，書店說排行榜不僅僅是實銷、還包含了「對未來銷售的預期」。這些書以四折進貨、實銷再… https://t.co/WAYdzA3517",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WAYdzA3517",
+          "expanded_url": "https://twitter.com/i/web/status/1566942793238384640",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Sep 05 12:12:26 +0000 2022",
     "id": 1566761170241228801,
     "id_str": "1566761170241228801",
