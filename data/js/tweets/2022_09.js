@@ -1,5 +1,360 @@
 Grailbird.data.tweets_2022_09 = [
   {
+    "created_at": "Wed Sep 14 02:12:06 +0000 2022",
+    "id": 1569871580066639874,
+    "id_str": "1569871580066639874",
+    "text": "年初安裝了 Uptime Kuma，因為 Watchtower 會自動升級新映像，真的裝完就沒再管過，每天都跑得好好的～\n\nhttps://t.co/nawKeR3pwG https://t.co/GrkPdsWLZ7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nawKeR3pwG",
+          "expanded_url": "https://bit.ly/3U7YLiA",
+          "display_url": "bit.ly/3U7YLiA",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1569871572298772480,
+          "id_str": "1569871572298772480",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FclN4KHaMAAuaOz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FclN4KHaMAAuaOz.jpg",
+          "url": "https://t.co/GrkPdsWLZ7",
+          "display_url": "pic.twitter.com/GrkPdsWLZ7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1569871580066639874/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 426,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 641,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 641,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1569871572298772480,
+          "id_str": "1569871572298772480",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FclN4KHaMAAuaOz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FclN4KHaMAAuaOz.jpg",
+          "url": "https://t.co/GrkPdsWLZ7",
+          "display_url": "pic.twitter.com/GrkPdsWLZ7",
+          "expanded_url": "https://twitter.com/wastemobile/status/1569871580066639874/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 426,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 641,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 641,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1480520538040995843,
+    "in_reply_to_status_id_str": "1480520538040995843",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Sep 14 01:36:17 +0000 2022",
+    "id": 1569862569757921282,
+    "id_str": "1569862569757921282",
+    "text": "RT @titanypw: Linux Foundation announces the OpenWallet Foundation to develop interoperable digital wallets | TechCrunch https://t.co/byYb6…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "titanypw",
+          "name": "Yuan-Ping Wu (Titan)",
+          "id": 21295001,
+          "id_str": "21295001",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 14 01:36:00 +0000 2022",
+      "id": 1569862495581478913,
+      "id_str": "1569862495581478913",
+      "text": "Linux Foundation announces the OpenWallet Foundation to develop interoperable digital wallets | TechCrunch https://t.co/byYb6hXH1r",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/byYb6hXH1r",
+            "expanded_url": "https://techcrunch.com/2022/09/13/linux-foundation-announces-the-openwallet-foundation-to-develop-interoperable-digital-wallets/",
+            "display_url": "techcrunch.com/2022/09/13/lin…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21295001,
+        "id_str": "21295001",
+        "name": "Yuan-Ping Wu (Titan)",
+        "screen_name": "titanypw",
+        "location": "Taipei, Taiwan",
+        "description": "I move text, and love reading & painting.  At the crossroads of technology and liberal arts, I'm eager to know this world, and always reluctant to go to sleep.",
+        "url": "https://t.co/F1hS7kzwIu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/F1hS7kzwIu",
+                "expanded_url": "https://podcast.starrocket.io",
+                "display_url": "podcast.starrocket.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1056,
+        "friends_count": 598,
+        "listed_count": 56,
+        "created_at": "Thu Feb 19 12:48:06 +0000 2009",
+        "favourites_count": 19539,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 41092,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2169797918/sigmund_freud_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2169797918/sigmund_freud_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21295001/1384016751",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 14 01:17:17 +0000 2022",
+    "id": 1569857786456195075,
+    "id_str": "1569857786456195075",
+    "text": "扳機社延伸創作 Projekt RED 的這部《電馭叛客：邊緣行者》（Cyberpunk: Edgerunners）已經上架，華麗、血腥、節奏極快（或許有些太快了），前半段確實將 Cyberpunk 2077 夜城的世界觀闡釋得相… https://t.co/rmnZgMk3fZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rmnZgMk3fZ",
+          "expanded_url": "https://twitter.com/i/web/status/1569857786456195075",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1276324414720634880,
+    "in_reply_to_status_id_str": "1276324414720634880",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Sep 13 01:12:33 +0000 2022",
     "id": 1569494208305836033,
     "id_str": "1569494208305836033",
