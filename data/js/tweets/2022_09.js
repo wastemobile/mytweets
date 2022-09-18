@@ -1,5 +1,545 @@
 Grailbird.data.tweets_2022_09 = [
   {
+    "created_at": "Sun Sep 18 03:50:02 +0000 2022",
+    "id": 1571345777636823041,
+    "id_str": "1571345777636823041",
+    "text": "兩年前在日本書市莫名暢銷、引發大部頭暴動的磚頭書（鈍器本）《独学大全》，簡中版已經出版。\n\nhttps://t.co/qRDLa61Lj5 https://t.co/H0Z6BkcqN2",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qRDLa61Lj5",
+          "expanded_url": "https://bit.ly/3xxUAmn",
+          "display_url": "bit.ly/3xxUAmn",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1571345769004924931,
+          "id_str": "1571345769004924931",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fc6KpszaAAM5U-i.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fc6KpszaAAM5U-i.jpg",
+          "url": "https://t.co/H0Z6BkcqN2",
+          "display_url": "pic.twitter.com/H0Z6BkcqN2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1571345777636823041/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 468,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 826,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1569,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1571345769004924931,
+          "id_str": "1571345769004924931",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fc6KpszaAAM5U-i.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fc6KpszaAAM5U-i.jpg",
+          "url": "https://t.co/H0Z6BkcqN2",
+          "display_url": "pic.twitter.com/H0Z6BkcqN2",
+          "expanded_url": "https://twitter.com/wastemobile/status/1571345777636823041/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 468,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 826,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1569,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1428914290719744009,
+    "in_reply_to_status_id_str": "1428914290719744009",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 18 03:31:44 +0000 2022",
+    "id": 1571341171838029824,
+    "id_str": "1571341171838029824",
+    "text": "RT @hoorubooks: 開店しています。本日は17時まで。\n\nあいにくの天気になりました、お越しの際はどうかお気をつけて。私深澤は明日から金曜日まで兵庫の豊岡におりますゆえ不在です。その間、冷蔵文庫さん @reizou_bunko にお店番をしてもらうのですが、素敵なチ…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hoorubooks",
+          "name": "つまずく本屋 ホォル",
+          "id": 1395268474440617989,
+          "id_str": "1395268474440617989",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "reizou_bunko",
+          "name": "冷蔵文庫",
+          "id": 1048057645800677376,
+          "id_str": "1048057645800677376",
+          "indices": [
+            106,
+            119
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Sep 18 02:08:58 +0000 2022",
+      "id": 1571320342794358784,
+      "id_str": "1571320342794358784",
+      "text": "開店しています。本日は17時まで。\n\nあいにくの天気になりました、お越しの際はどうかお気をつけて。私深澤は明日から金曜日まで兵庫の豊岡におりますゆえ不在です。その間、冷蔵文庫さん @reizou_bunko にお店番をしてもらうの… https://t.co/czYvE2UVV3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "reizou_bunko",
+            "name": "冷蔵文庫",
+            "id": 1048057645800677376,
+            "id_str": "1048057645800677376",
+            "indices": [
+              90,
+              103
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/czYvE2UVV3",
+            "expanded_url": "https://twitter.com/i/web/status/1571320342794358784",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1395268474440617989,
+        "id_str": "1395268474440617989",
+        "name": "つまずく本屋 ホォル",
+        "screen_name": "hoorubooks",
+        "location": "埼玉県川越市霞ヶ関北4-22-14",
+        "description": "埼玉の霞ケ関、角栄商店街の端っこ、 @amist_zakka 2階の本屋。ローカルプロジェクト【38℃】の吉田と共同運営。本も人もポーンと放り出されるような本屋を目指します。営業時間 : 10:00〜16:00 土日祝は17:00まで 水木休み ネットショップも。https://t.co/hyINWcB8M8",
+        "url": "https://t.co/Jy2J3IJeD2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Jy2J3IJeD2",
+                "expanded_url": "https://hoorubooks.wixsite.com/info",
+                "display_url": "hoorubooks.wixsite.com/info",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/hyINWcB8M8",
+                "expanded_url": "http://hoorubooks.thebase.in",
+                "display_url": "hoorubooks.thebase.in",
+                "indices": [
+                  132,
+                  155
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2546,
+        "friends_count": 2381,
+        "listed_count": 50,
+        "created_at": "Thu May 20 06:41:50 +0000 2021",
+        "favourites_count": 13295,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2809,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1395317810729869313/S-iL6xEm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395317810729869313/S-iL6xEm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395268474440617989/1621505573",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Sep 17 13:09:07 +0000 2022",
+    "id": 1571124088592269312,
+    "id_str": "1571124088592269312",
+    "text": "RT @irrenhaeusler: 英國下議院議長禁止中國代表團進入國會大廈瞻仰女王靈柩。\n\n為了表示強烈不滿，爾後中國政府也將禁止英國代表團瞻仰習主席靈柩。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "irrenhaeusler",
+          "name": "irrenhäusler",
+          "id": 10650922,
+          "id_str": "10650922",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Sep 17 01:20:38 +0000 2022",
+      "id": 1570945791761715200,
+      "id_str": "1570945791761715200",
+      "text": "英國下議院議長禁止中國代表團進入國會大廈瞻仰女王靈柩。\n\n為了表示強烈不滿，爾後中國政府也將禁止英國代表團瞻仰習主席靈柩。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 10650922,
+        "id_str": "10650922",
+        "name": "irrenhäusler",
+        "screen_name": "irrenhaeusler",
+        "location": "Deutschland & Taiwan",
+        "description": "\"Gehorsam folgt blind, Freiheit hat offene Augen.\"-- Dietrich Bonhoeffer // \n\n\"Ich vermag alles durch den, der mich mächtig macht.\" -- Philipper 4:13",
+        "url": "https://t.co/dhQ7Aq2A87",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/dhQ7Aq2A87",
+                "expanded_url": "http://kolumbusplatz1.blogspot.com/",
+                "display_url": "kolumbusplatz1.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 23134,
+        "friends_count": 1337,
+        "listed_count": 199,
+        "created_at": "Tue Nov 27 08:29:03 +0000 2007",
+        "favourites_count": 9,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10598,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1497516921960337410/SYamE3Ir_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497516921960337410/SYamE3Ir_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10650922/1647409692",
+        "profile_link_color": "FF4500",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 374,
+      "favorite_count": 4271,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 374,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Sep 17 09:21:56 +0000 2022",
+    "id": 1571066917171130368,
+    "id_str": "1571066917171130368",
+    "text": "尼爾・史蒂文森在小說《Snow Crash》中創造了 metaverse 這個名詞，現在他和比特幣基金會負責人合作創辦 Lamina1，想要打造開放元宇宙的基礎框架（底層）。\n\n最終應該有一個單一的元宇宙，就像單一的網際網路（但很… https://t.co/C7zdlYwr7G",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/C7zdlYwr7G",
+          "expanded_url": "https://twitter.com/i/web/status/1571066917171130368",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1454049752643878922,
+    "in_reply_to_status_id_str": "1454049752643878922",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 17 00:49:00 +0000 2022",
     "id": 1570937832994381824,
     "id_str": "1570937832994381824",
