@@ -1,5 +1,670 @@
 Grailbird.data.tweets_2022_09 = [
   {
+    "created_at": "Wed Sep 21 03:10:07 +0000 2022",
+    "id": 1572422896404037632,
+    "id_str": "1572422896404037632",
+    "text": "RT @meowmeowpower6: 11/26公投有「18歲公民權修憲案」大家記得要投同意，\n（在上班途中看到年輕底迪在馬路口舉牌倡議覺得好感動，沒用的中年人只能在這裡轉貼資訊）",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "meowmeowpower6",
+          "name": "少女Ａ",
+          "id": 4448008813,
+          "id_str": "4448008813",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Sep 21 03:09:05 +0000 2022",
+      "id": 1572422638198456320,
+      "id_str": "1572422638198456320",
+      "text": "11/26公投有「18歲公民權修憲案」大家記得要投同意，\n（在上班途中看到年輕底迪在馬路口舉牌倡議覺得好感動，沒用的中年人只能在這裡轉貼資訊）",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4448008813,
+        "id_str": "4448008813",
+        "name": "少女Ａ",
+        "screen_name": "meowmeowpower6",
+        "location": "楊勇緯家",
+        "description": "party pooper噁男仇女仔滾 🤏🤏🏼🤏🏽🤏🏾🤏🏿 🏳️‍🌈 🏳️‍⚧️身體最近不太好。小帳加互動過的人@lateinthe_night 📕：#歡迎光臨午場酒店",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10629,
+        "friends_count": 986,
+        "listed_count": 21,
+        "created_at": "Fri Dec 04 01:53:06 +0000 2015",
+        "favourites_count": 26300,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10759,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/919840732105412608/oOIffK0-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/919840732105412608/oOIffK0-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4448008813/1641285458",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Sep 21 02:24:03 +0000 2022",
+    "id": 1572411303733637121,
+    "id_str": "1572411303733637121",
+    "text": "報導最後一段，Roy Lichtenstein 以網點畫法戲仿 DC Comics “Girls’ Romances #105” 的《Sleeping Girl》，幾乎就是照圖重製，被稱為「剽竊藝術（Plagiarized art… https://t.co/eT0hD8Ixv9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eT0hD8Ixv9",
+          "expanded_url": "https://twitter.com/i/web/status/1572411303733637121",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1572398648557981697,
+    "in_reply_to_status_id_str": "1572398648557981697",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Sep 21 01:33:46 +0000 2022",
+    "id": 1572398648557981697,
+    "id_str": "1572398648557981697",
+    "text": "Ilan Manouach 最有名的「偽作」（藝術？）應該是 2012 年的《Katz》，他非常費心的將經典圖像小說《Maus》（鼠族）中的老鼠都改畫成貓，翻轉原著中的意象對應，還在漫畫展上公開展示。 https://t.co/Mt05bk0ybC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Mt05bk0ybC",
+          "expanded_url": "https://twitter.com/wastemobile/status/1408687084144009217",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            101,
+            124
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1572397259240898562,
+    "in_reply_to_status_id_str": "1572397259240898562",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1408687084144009217,
+    "quoted_status_id_str": "1408687084144009217",
+    "quoted_status": {
+      "created_at": "Sat Jun 26 07:22:27 +0000 2021",
+      "id": 1408687084144009217,
+      "id_str": "1408687084144009217",
+      "text": "No.2《鼠族》（臉譜） https://t.co/NMz95wacfw\n\n1992成為首部獲得普立茲獎的圖像小說，建議參考維基百科看看它厲害在哪裡，基本上必收 https://t.co/TzQZlVagJd https://t.co/MNcV4CXjAF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NMz95wacfw",
+            "expanded_url": "https://bit.ly/3A2Gvx9",
+            "display_url": "bit.ly/3A2Gvx9",
+            "indices": [
+              13,
+              36
+            ]
+          },
+          {
+            "url": "https://t.co/TzQZlVagJd",
+            "expanded_url": "https://bit.ly/2SZXu2v",
+            "display_url": "bit.ly/2SZXu2v",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1408687064724344834,
+            "id_str": "1408687064724344834",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/E4ypa_yVEAIy_7A.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E4ypa_yVEAIy_7A.jpg",
+            "url": "https://t.co/MNcV4CXjAF",
+            "display_url": "pic.twitter.com/MNcV4CXjAF",
+            "expanded_url": "https://twitter.com/wastemobile/status/1408687084144009217/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 655,
+                "h": 609,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 655,
+                "h": 609,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 655,
+                "h": 609,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1408687064724344834,
+            "id_str": "1408687064724344834",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/E4ypa_yVEAIy_7A.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E4ypa_yVEAIy_7A.jpg",
+            "url": "https://t.co/MNcV4CXjAF",
+            "display_url": "pic.twitter.com/MNcV4CXjAF",
+            "expanded_url": "https://twitter.com/wastemobile/status/1408687084144009217/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 655,
+                "h": 609,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 655,
+                "h": 609,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 655,
+                "h": 609,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1408687064724303874,
+            "id_str": "1408687064724303874",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/E4ypa_yUcAIMdIR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E4ypa_yUcAIMdIR.jpg",
+            "url": "https://t.co/MNcV4CXjAF",
+            "display_url": "pic.twitter.com/MNcV4CXjAF",
+            "expanded_url": "https://twitter.com/wastemobile/status/1408687084144009217/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1326,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 440,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 777,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1408685363720167426,
+      "in_reply_to_status_id_str": "1408685363720167426",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "Cyberpunk wasteland.\n\nmedium: https://t.co/TiZfmTQ9mO",
+        "url": "https://t.co/Hsfttyyiok",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Hsfttyyiok",
+                "expanded_url": "https://readgoing.com",
+                "display_url": "readgoing.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/TiZfmTQ9mO",
+                "expanded_url": "http://medium.com/@wastemobile",
+                "display_url": "medium.com/@wastemobile",
+                "indices": [
+                  30,
+                  53
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5853,
+        "friends_count": 1231,
+        "listed_count": 137,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3701,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25397,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1573835714",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Sep 21 01:28:14 +0000 2022",
+    "id": 1572397259240898562,
+    "id_str": "1572397259240898562",
+    "text": "概念漫畫藝術家 Ilan Manouach 將《海賊王》 21,450 頁裝訂成一本完全無法閱讀的「雕塑材料」，限量販售出 50 份。\n\n他並未向日方徵詢版權許可，因為這種物理上限制了閱讀可能的衍生概念作品不算侵犯版權。… https://t.co/J7k0Ctb99e",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/J7k0Ctb99e",
+          "expanded_url": "https://twitter.com/i/web/status/1572397259240898562",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 20 14:15:26 +0000 2022",
+    "id": 1572227940502634497,
+    "id_str": "1572227940502634497",
+    "text": "馬龍・詹姆斯獲獎之後，接著出版的是架構弘大、源自非洲神話的史詩奇幻大作《黑豹紅娘》，而且是三部曲，第二冊原文年初剛出版。\n\n布克獎得主寫奇幻據說完全不一樣，翻閱了一章確實有感，且隱約覺得這書讀電子版應該很快會暈頭轉向，考慮等繁中紙… https://t.co/N7OVZq21UF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N7OVZq21UF",
+          "expanded_url": "https://twitter.com/i/web/status/1572227940502634497",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1571857372498501634,
+    "in_reply_to_status_id_str": "1571857372498501634",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 20 13:25:37 +0000 2022",
+    "id": 1572215403673440256,
+    "id_str": "1572215403673440256",
+    "text": "《Leave No Trace》譯成《罪過留痕》堪稱一絕。\n\n史上最高性侵賠償金，美國童軍申請破產、超過8.2萬名受害者發聲。這紀錄片雖不若講美國天主教性侵的劇情片《Spotlight》那麼流暢，卻也忠實表達了殘酷歷史。\n\n人的變… https://t.co/PhJCbiOM9f",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PhJCbiOM9f",
+          "expanded_url": "https://twitter.com/i/web/status/1572215403673440256",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Sep 20 01:06:53 +0000 2022",
     "id": 1572029498136363009,
     "id_str": "1572029498136363009",
