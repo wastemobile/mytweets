@@ -1,5 +1,225 @@
 Grailbird.data.tweets_2022_09 = [
   {
+    "created_at": "Mon Sep 26 01:09:55 +0000 2022",
+    "id": 1574204584959959040,
+    "id_str": "1574204584959959040",
+    "text": "@D_SquirrelTail 感謝提醒～\n\n其實已經手建週誌一陣子，但還是有缺點（例如想搜尋某些特定日期），因此在了解強人複雜設置法後，還是希望盡量精簡，設置出比較符合自己需求的就好。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "D_SquirrelTail",
+          "name": "松鼠尾_🐿️",
+          "id": 733074458,
+          "id_str": "733074458",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1574041705489530883,
+    "in_reply_to_status_id_str": "1574041705489530883",
+    "in_reply_to_user_id": 733074458,
+    "in_reply_to_user_id_str": "733074458",
+    "in_reply_to_screen_name": "D_SquirrelTail",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 25 13:37:24 +0000 2022",
+    "id": 1574030308483117057,
+    "id_str": "1574030308483117057",
+    "text": "例行性的掃一下 Pi CM4 現貨，3～4 倍價格還沒有足量。\n\n我繼續等。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 25 13:33:31 +0000 2022",
+    "id": 1574029334116900865,
+    "id_str": "1574029334116900865",
+    "text": "@D_SquirrelTail 案情並不單純啊⋯⋯\n\n實際上是一層層匯總的時序文件，關鍵核心是這個 Periodic Notes 外掛，以及編寫得宜的多個模板，我光是拿來修修改改就頭昏腦脹。… https://t.co/XJ4cNLu1DF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "D_SquirrelTail",
+          "name": "松鼠尾_🐿️",
+          "id": 733074458,
+          "id_str": "733074458",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XJ4cNLu1DF",
+          "expanded_url": "https://twitter.com/i/web/status/1574029334116900865",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1574025239381409792,
+    "in_reply_to_status_id_str": "1574025239381409792",
+    "in_reply_to_user_id": 733074458,
+    "in_reply_to_user_id_str": "733074458",
+    "in_reply_to_screen_name": "D_SquirrelTail",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Sep 25 12:39:22 +0000 2022",
+    "id": 1574015706873548802,
+    "id_str": "1574015706873548802",
+    "text": "始終覺得 Obsidian/Logseq 的每日記事太瑣碎，若能改用「週記」（Weekly Log）就夠了，確實也有人這麼想，根據這篇折騰好久、一直弄不好，最後直接拉原作者的檔案下來研究，搭配幾個外掛、蠻複雜的才能做到。\n\n有個雛… https://t.co/EXmPw3899n",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EXmPw3899n",
+          "expanded_url": "https://twitter.com/i/web/status/1574015706873548802",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Sep 24 15:51:29 +0000 2022",
     "id": 1573701662941753347,
     "id_str": "1573701662941753347",
