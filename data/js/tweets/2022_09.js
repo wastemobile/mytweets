@@ -1,5 +1,754 @@
 Grailbird.data.tweets_2022_09 = [
   {
+    "created_at": "Tue Sep 27 01:54:23 +0000 2022",
+    "id": 1574578165648789504,
+    "id_str": "1574578165648789504",
+    "text": "已絕版的這本也很推薦，出版時間比較早（2016），主要從 Uber 與 Airbnb 切入，科技不代表「輕鬆解決問題」的答案，事情從來不是那麼簡單。\n\n《分享經濟的華麗騙局：用科技收租的網路新地主，正如何危害人類社會？》… https://t.co/anCKKqWcdE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/anCKKqWcdE",
+          "expanded_url": "https://twitter.com/i/web/status/1574578165648789504",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1574576427827011584,
+    "in_reply_to_status_id_str": "1574576427827011584",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 27 01:47:29 +0000 2022",
+    "id": 1574576427827011584,
+    "id_str": "1574576427827011584",
+    "text": "「巨型平台規避傳統勞資關係，減少專業人力成本。在平台接案的微工作者沒有權益保障，也沒有固定薪水，甚至連為哪家公司工作、工作的目的是什麼都不清楚，成為案主呼之即來、揮之即去的免洗人力。」\n\n《為演算法服務的免洗人力：平台資本主義時代… https://t.co/1fiJeDknVV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1fiJeDknVV",
+          "expanded_url": "https://twitter.com/i/web/status/1574576427827011584",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1574566783826026496,
+    "in_reply_to_status_id_str": "1574566783826026496",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 27 01:09:09 +0000 2022",
+    "id": 1574566783826026496,
+    "id_str": "1574566783826026496",
+    "text": "這本《Platform Capitalism》居然是香港守民出版社出了繁中版。\n\n資平台經濟於世界資本主義體系中的總體分析──《平台資本主義》序言 https://t.co/PXsJl0dDmc https://t.co/beREwRV3Vd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PXsJl0dDmc",
+          "expanded_url": "https://bit.ly/3Cd9kdl",
+          "display_url": "bit.ly/3Cd9kdl",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1574566776544776192,
+          "id_str": "1574566776544776192",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fdn8JA8VUAArnZ8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fdn8JA8VUAArnZ8.jpg",
+          "url": "https://t.co/beREwRV3Vd",
+          "display_url": "pic.twitter.com/beREwRV3Vd",
+          "expanded_url": "https://twitter.com/wastemobile/status/1574566783826026496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 396,
+              "h": 579,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 396,
+              "h": 579,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 396,
+              "h": 579,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1574566776544776192,
+          "id_str": "1574566776544776192",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fdn8JA8VUAArnZ8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fdn8JA8VUAArnZ8.jpg",
+          "url": "https://t.co/beREwRV3Vd",
+          "display_url": "pic.twitter.com/beREwRV3Vd",
+          "expanded_url": "https://twitter.com/wastemobile/status/1574566783826026496/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 396,
+              "h": 579,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 396,
+              "h": 579,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 396,
+              "h": 579,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 27 00:49:43 +0000 2022",
+    "id": 1574561890952368128,
+    "id_str": "1574561890952368128",
+    "text": "簡單的說，Amazon Kindle 目前是「14天內全額退款，即使讀者已經讀完整本書」，作家協會一直希望能限制在 48 小時內。\n\n目前則改成「已閱讀超過 10% 的退款申請，將不再適用快速自助服務」。\n\nAmazon refo… https://t.co/Rl8j6PFKvW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Rl8j6PFKvW",
+          "expanded_url": "https://twitter.com/i/web/status/1574561890952368128",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Sep 27 00:31:37 +0000 2022",
+    "id": 1574557335640383488,
+    "id_str": "1574557335640383488",
+    "text": "@Moses91930922 一種保護資料的家用磁碟陣列，與一般 RAID 4,5,6 略有不同，任意廠牌大小的磁碟都能用，會組成一個大容量硬碟。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Moses91930922",
+          "name": "Joanna上官非",
+          "id": 3049536126,
+          "id_str": "3049536126",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1574554190004727808,
+    "in_reply_to_status_id_str": "1574554190004727808",
+    "in_reply_to_user_id": 3049536126,
+    "in_reply_to_user_id_str": "3049536126",
+    "in_reply_to_screen_name": "Moses91930922",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 26 14:36:08 +0000 2022",
+    "id": 1574407476010659847,
+    "id_str": "1574407476010659847",
+    "text": "其實目前主備份是文內沒提的 NAS。\n\n我用的是很冷門的 Drobo，4D 用十二年、換到目前五槽 5N2 四年，每兩年即使沒壞也買一顆依序抽換，一開始 1T 單顆價格現在差不多是買到 3T，共用過 9 顆硬碟（含故障）。\n\n但… https://t.co/e0m0ccclLD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/e0m0ccclLD",
+          "expanded_url": "https://twitter.com/i/web/status/1574407476010659847",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1574390811659157505,
+    "in_reply_to_status_id_str": "1574390811659157505",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 26 13:29:54 +0000 2022",
+    "id": 1574390811659157505,
+    "id_str": "1574390811659157505",
+    "text": "文中提到這個 Backblaze 每年的硬碟故障率統計，我差不多一、兩年在固定更換硬碟前也都會看一下。\n\nBackblaze Hard Drive Data and Stats https://t.co/R8uXZXzbAn https://t.co/zuNife0TAw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/R8uXZXzbAn",
+          "expanded_url": "https://bit.ly/3StQMuo",
+          "display_url": "bit.ly/3StQMuo",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1574390803157250048,
+          "id_str": "1574390803157250048",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/FdlcGA_UcAA8uxV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FdlcGA_UcAA8uxV.jpg",
+          "url": "https://t.co/zuNife0TAw",
+          "display_url": "pic.twitter.com/zuNife0TAw",
+          "expanded_url": "https://twitter.com/wastemobile/status/1574390811659157505/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 451,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 795,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1880,
+              "h": 1246,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1574390803157250048,
+          "id_str": "1574390803157250048",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/FdlcGA_UcAA8uxV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FdlcGA_UcAA8uxV.jpg",
+          "url": "https://t.co/zuNife0TAw",
+          "display_url": "pic.twitter.com/zuNife0TAw",
+          "expanded_url": "https://twitter.com/wastemobile/status/1574390811659157505/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 451,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 795,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1880,
+              "h": 1246,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1574389729352507392,
+    "in_reply_to_status_id_str": "1574389729352507392",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 26 13:25:36 +0000 2022",
+    "id": 1574389729352507392,
+    "id_str": "1574389729352507392",
+    "text": "Wired 這篇將一般人該做的備份解釋得很清楚了，包含硬體、軟體、雲端，至少兩份的基本原則。\n\n備份就是得每年固定花些預算，不管是自己的硬碟、或雲端儲存的費用。Backblaze 一台電腦、每年不限空間是70美元，自己買硬碟也差不… https://t.co/gcXPJDhXlF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gcXPJDhXlF",
+          "expanded_url": "https://twitter.com/i/web/status/1574389729352507392",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 35,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Sep 26 08:31:05 +0000 2022",
+    "id": 1574315609319297024,
+    "id_str": "1574315609319297024",
+    "text": "RT @pinyutw2020: 新北市三重警分局遭爆有2名員警誤將民眾當成通緝犯、暴打至頭破血流，甚至以言語羞辱、施予私刑，超出正當的執法範圍。\n\n這不僅是嚴重人權侵害，更因極少數的有心人士造成大多數奉公守法的員警被迫承受壓力，而平常最愛代言警察的侯友宜市長持續裝死，侯市長應…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "pinyutw2020",
+          "name": "賴品妤 Lai Pin-Yu",
+          "id": 1542073276364558336,
+          "id_str": "1542073276364558336",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Sep 26 07:29:01 +0000 2022",
+      "id": 1574299989169565696,
+      "id_str": "1574299989169565696",
+      "text": "新北市三重警分局遭爆有2名員警誤將民眾當成通緝犯、暴打至頭破血流，甚至以言語羞辱、施予私刑，超出正當的執法範圍。\n\n這不僅是嚴重人權侵害，更因極少數的有心人士造成大多數奉公守法的員警被迫承受壓力，而平常最愛代言警察的侯友宜市長持續… https://t.co/epqEQjsAol",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/epqEQjsAol",
+            "expanded_url": "https://twitter.com/i/web/status/1574299989169565696",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1542073276364558336,
+        "id_str": "1542073276364558336",
+        "name": "賴品妤 Lai Pin-Yu",
+        "screen_name": "pinyutw2020",
+        "location": "",
+        "description": "LAI PIN-YU Taiwan member of parliament ✍🏻 Education and Culture Committee 📚 New Taipei City Constituency XII 🦅",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8073,
+        "friends_count": 56,
+        "listed_count": 27,
+        "created_at": "Wed Jun 29 09:12:15 +0000 2022",
+        "favourites_count": 626,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 115,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1542074885601501185/3MZ1qaam_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1542074885601501185/3MZ1qaam_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 438,
+      "favorite_count": 2476,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 438,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Sep 26 01:09:55 +0000 2022",
     "id": 1574204584959959040,
     "id_str": "1574204584959959040",
