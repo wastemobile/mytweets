@@ -1,5 +1,619 @@
 Grailbird.data.tweets_2022_09 = [
   {
+    "created_at": "Fri Sep 30 03:44:25 +0000 2022",
+    "id": 1575693018203504642,
+    "id_str": "1575693018203504642",
+    "text": "「對一些人來說，要接受一個寫作的女人，一個有意見且有性生活的女人，真是太不容易了。」 #read\n\n愛慾錄：「性解放」還是「性暴力」？女性作家挑戰經典荷蘭文學 https://t.co/e1JqnNcodY https://t.co/s8xTEErADA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "read",
+          "indices": [
+            43,
+            48
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/e1JqnNcodY",
+          "expanded_url": "https://bit.ly/3BW0VcS",
+          "display_url": "bit.ly/3BW0VcS",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1575693009953267712,
+          "id_str": "1575693009953267712",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fd38cbVUoAAbgjs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fd38cbVUoAAbgjs.jpg",
+          "url": "https://t.co/s8xTEErADA",
+          "display_url": "pic.twitter.com/s8xTEErADA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1575693018203504642/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1575693009953267712,
+          "id_str": "1575693009953267712",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fd38cbVUoAAbgjs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fd38cbVUoAAbgjs.jpg",
+          "url": "https://t.co/s8xTEErADA",
+          "display_url": "pic.twitter.com/s8xTEErADA",
+          "expanded_url": "https://twitter.com/wastemobile/status/1575693018203504642/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 30 03:05:25 +0000 2022",
+    "id": 1575683206132617216,
+    "id_str": "1575683206132617216",
+    "text": "所以會有 Pinata 這樣的雲端服務。\n\nNFT 是寫在區塊鏈的智能合約，附加檔案交給 Pinata 存放在 IPFS，理論上是被 pin 在那裡、可隨時永久存取，當然就得每月付費，否則依舊可能丟失。\n\nPinata https://t.co/84x9tu3iIV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/84x9tu3iIV",
+          "expanded_url": "https://bit.ly/3rfNaRo",
+          "display_url": "bit.ly/3rfNaRo",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1575681717167267840,
+    "in_reply_to_status_id_str": "1575681717167267840",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Sep 30 02:59:30 +0000 2022",
+    "id": 1575681717167267840,
+    "id_str": "1575681717167267840",
+    "text": "星際檔案系統 IPFS 並不是區塊鏈，更接近新款 BitTorrent，有人稱它為「blockchain 與 Web3 的（外接）硬碟」。\n\n並非永久保存或絕對安全，例如在電腦錨釘了某個檔案，但電腦壞掉、其他人的快取也刪掉了，那就… https://t.co/3ee8jGkJbb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3ee8jGkJbb",
+          "expanded_url": "https://twitter.com/i/web/status/1575681717167267840",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1575486887527006208,
+    "in_reply_to_status_id_str": "1575486887527006208",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 29 14:05:19 +0000 2022",
+    "id": 1575486887527006208,
+    "id_str": "1575486887527006208",
+    "text": "雖然買個 .eth/.bit 域名很潮，但認真說搞噱頭成分居多。\n\n網域買在 Cloudflare 的記得啟用 Web3 Gateway，設定一下就能讓所有人看到 IPFS/Planet 打造的星球了～\n\n5分鐘架站:像數位發展部… https://t.co/ORHrratdo5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ORHrratdo5",
+          "expanded_url": "https://twitter.com/i/web/status/1575486887527006208",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1575479652147044353,
+    "in_reply_to_status_id_str": "1575479652147044353",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 29 13:36:34 +0000 2022",
+    "id": 1575479652147044353,
+    "id_str": "1575479652147044353",
+    "text": "原來 IPFS 語義試圖讓所有取用物件都感覺是本地的，實際沒有「從遠端伺服器檢索」這種用法，而錨釘服務是告訴節點將某物件保留在某個位置的設定，避免 IPFS 的快取將這些物件移除。\n\n所以在 VPS 上自架節點、提供錨釘、固定對外… https://t.co/2zf0LtHKF2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2zf0LtHKF2",
+          "expanded_url": "https://twitter.com/i/web/status/1575479652147044353",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1575297115370057728,
+    "in_reply_to_status_id_str": "1575297115370057728",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Sep 29 04:18:24 +0000 2022",
+    "id": 1575339182108483584,
+    "id_str": "1575339182108483584",
+    "text": "其實 Basecamp 免費個人版也已取消，年底前申請完整版可以有免費的三人帳號，僅限一年，之後也是每人每月 $11。 https://t.co/Z9x2hR1fIG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z9x2hR1fIG",
+          "expanded_url": "https://twitter.com/wastemobile/status/1194591597511360513",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1194591597511360513,
+    "quoted_status_id_str": "1194591597511360513",
+    "quoted_status": {
+      "created_at": "Wed Nov 13 12:23:25 +0000 2019",
+      "id": 1194591597511360513,
+      "id_str": "1194591597511360513",
+      "text": "完全免費的 Basecamp 個人版發布！\n\n3個專案、20名參與者、1GB 儲存空間，夠用夠用～\n\nLaunch: Basecamp Gets Personal https://t.co/yp0SNKbGqD https://t.co/dLs07Fomly",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yp0SNKbGqD",
+            "expanded_url": "http://bit.ly/36YlsNA",
+            "display_url": "bit.ly/36YlsNA",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1194591585507237888,
+            "id_str": "1194591585507237888",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJQKt8HUYAAlvug.png",
+            "media_url_https": "https://pbs.twimg.com/media/EJQKt8HUYAAlvug.png",
+            "url": "https://t.co/dLs07Fomly",
+            "display_url": "pic.twitter.com/dLs07Fomly",
+            "expanded_url": "https://twitter.com/wastemobile/status/1194591597511360513/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1635,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 958,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 543,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1194591585507237888,
+            "id_str": "1194591585507237888",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/EJQKt8HUYAAlvug.png",
+            "media_url_https": "https://pbs.twimg.com/media/EJQKt8HUYAAlvug.png",
+            "url": "https://t.co/dLs07Fomly",
+            "display_url": "pic.twitter.com/dLs07Fomly",
+            "expanded_url": "https://twitter.com/wastemobile/status/1194591597511360513/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1635,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 958,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 543,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "Cyberpunk wasteland.\n\nmedium: https://t.co/TiZfmTQ9mO",
+        "url": "https://t.co/Hsfttyyiok",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Hsfttyyiok",
+                "expanded_url": "https://readgoing.com",
+                "display_url": "readgoing.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/TiZfmTQ9mO",
+                "expanded_url": "http://medium.com/@wastemobile",
+                "display_url": "medium.com/@wastemobile",
+                "indices": [
+                  30,
+                  53
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5858,
+        "friends_count": 1233,
+        "listed_count": 136,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3699,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25447,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1573835714",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "favorite_count": 40,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Sep 29 02:28:18 +0000 2022",
     "id": 1575311478193725442,
     "id_str": "1575311478193725442",
