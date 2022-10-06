@@ -1,5 +1,2481 @@
 Grailbird.data.tweets_2022_10 = [
   {
+    "created_at": "Thu Oct 06 06:36:08 +0000 2022",
+    "id": 1577910558749097984,
+    "id_str": "1577910558749097984",
+    "text": "RT @KobySakamoto: 先睹為快！日本京都橘高校吹奏部 人氣管樂隊國慶獻演前精彩快閃演出｜【直播回放】20221006｜三立新聞台 https://t.co/kE7Ogxo5ki @YouTubeより \n看到這、我就想要變成統派\n最好明天就跟日本統一",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "KobySakamoto",
+          "name": "Koby 坂本晉作",
+          "id": 1056201177941962753,
+          "id_str": "1056201177941962753",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            96,
+            104
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kE7Ogxo5ki",
+          "expanded_url": "https://youtu.be/UrpdQV2B9gw",
+          "display_url": "youtu.be/UrpdQV2B9gw",
+          "indices": [
+            72,
+            95
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 06 06:11:23 +0000 2022",
+      "id": 1577904330828525568,
+      "id_str": "1577904330828525568",
+      "text": "先睹為快！日本京都橘高校吹奏部 人氣管樂隊國慶獻演前精彩快閃演出｜【直播回放】20221006｜三立新聞台 https://t.co/kE7Ogxo5ki @YouTubeより \n看到這、我就想要變成統派\n最好明天就跟日本統一",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "YouTube",
+            "name": "YouTube",
+            "id": 10228272,
+            "id_str": "10228272",
+            "indices": [
+              78,
+              86
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kE7Ogxo5ki",
+            "expanded_url": "https://youtu.be/UrpdQV2B9gw",
+            "display_url": "youtu.be/UrpdQV2B9gw",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1056201177941962753,
+        "id_str": "1056201177941962753",
+        "name": "Koby 坂本晉作",
+        "screen_name": "KobySakamoto",
+        "location": "Taiwan 台中",
+        "description": "選舉至今、我有個疑惑\n究竟是國民黨還是民眾黨比較邪惡？",
+        "url": "https://t.co/ET3Y8o2JeQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ET3Y8o2JeQ",
+                "expanded_url": "https://toyforgorden.blogspot.com/",
+                "display_url": "toyforgorden.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7140,
+        "friends_count": 4786,
+        "listed_count": 30,
+        "created_at": "Sat Oct 27 15:09:18 +0000 2018",
+        "favourites_count": 35135,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 16885,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1576521996082417664/keMCfaZo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1576521996082417664/keMCfaZo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1056201177941962753/1664707062",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Oct 06 04:12:10 +0000 2022",
+    "id": 1577874329332637696,
+    "id_str": "1577874329332637696",
+    "text": "這就是 Cory Doctorow 反對的 snippet tax。\n\n數位平台與媒體分潤機制 政院：數位部負責研議 https://t.co/wCtUMeIwrP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wCtUMeIwrP",
+          "expanded_url": "https://bit.ly/3fNeNi0",
+          "display_url": "bit.ly/3fNeNi0",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1577494843437510657,
+    "in_reply_to_status_id_str": "1577494843437510657",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 06 02:37:11 +0000 2022",
+    "id": 1577850428221317120,
+    "id_str": "1577850428221317120",
+    "text": "整理整頓沒有什麼訣竅，就是狠下心來丟東西而已，實體抽象皆然。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 06 02:12:04 +0000 2022",
+    "id": 1577844104200798212,
+    "id_str": "1577844104200798212",
+    "text": "然後要在 2023 年初關閉了。 https://t.co/gScyVsIaGJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gScyVsIaGJ",
+          "expanded_url": "https://twitter.com/insidecyberbuzz/status/1577841616043225088",
+          "display_url": "twitter.com/insidecyberbuz…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1359319609669603328,
+    "in_reply_to_status_id_str": "1359319609669603328",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1577841616043225088,
+    "quoted_status_id_str": "1577841616043225088",
+    "quoted_status": {
+      "created_at": "Thu Oct 06 02:02:10 +0000 2022",
+      "id": 1577841616043225088,
+      "id_str": "1577841616043225088",
+      "text": "Meta 將於 2023 年初關閉電子報付費訂閱平台 Bulletin，競爭對手 Substack 同時則推出新 Android App。https://t.co/yAPKa0LlGH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yAPKa0LlGH",
+            "expanded_url": "https://www.inside.com.tw/article/29199-meta-shuts-down-bulletin",
+            "display_url": "inside.com.tw/article/29199-…",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 134829820,
+        "id_str": "134829820",
+        "name": "INSIDE的網路趨勢觀察",
+        "screen_name": "insideCyberbuzz",
+        "location": "Taipei, Taiwan",
+        "description": "We focus on social media and mobile internet related topics from business, marketing and technical perspectives.",
+        "url": "http://t.co/adLsviL9mz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/adLsviL9mz",
+                "expanded_url": "http://www.inside.com.tw/",
+                "display_url": "inside.com.tw",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 10129,
+        "friends_count": 44,
+        "listed_count": 257,
+        "created_at": "Mon Apr 19 15:25:57 +0000 2010",
+        "favourites_count": 113,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 24077,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/872364292930195456/bf_K0OgX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/872364292930195456/bf_K0OgX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/134829820/1630492331",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 06 01:49:50 +0000 2022",
+    "id": 1577838509045714944,
+    "id_str": "1577838509045714944",
+    "text": "Cloudflare 推出免費的 CAPTCHA 隱形替代方案：Turnstile；與蘋果合作使用 Private Access Tokens，因此使用支援的作業系統（macOS/iOS）皆能直接證明自己是人類（？）… https://t.co/EnI4mEhoP0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EnI4mEhoP0",
+          "expanded_url": "https://twitter.com/i/web/status/1577838509045714944",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 06 01:13:22 +0000 2022",
+    "id": 1577829335607611394,
+    "id_str": "1577829335607611394",
+    "text": "RT @BasicAppleGuy: Remembering Steve https://t.co/0IQE1GO604",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "BasicAppleGuy",
+          "name": "Basic Apple Guy",
+          "id": 1225462582280015879,
+          "id_str": "1225462582280015879",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1577642691986612224,
+          "id_str": "1577642691986612224",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/FeTpq25aYAArm4k.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FeTpq25aYAArm4k.jpg",
+          "url": "https://t.co/0IQE1GO604",
+          "display_url": "pic.twitter.com/0IQE1GO604",
+          "expanded_url": "https://twitter.com/BasicAppleGuy/status/1577642781870546944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1577642781870546944,
+          "source_status_id_str": "1577642781870546944",
+          "source_user_id": 1225462582280015879,
+          "source_user_id_str": "1225462582280015879"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1577642691986612224,
+          "id_str": "1577642691986612224",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/FeTpq25aYAArm4k.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FeTpq25aYAArm4k.jpg",
+          "url": "https://t.co/0IQE1GO604",
+          "display_url": "pic.twitter.com/0IQE1GO604",
+          "expanded_url": "https://twitter.com/BasicAppleGuy/status/1577642781870546944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1577642781870546944,
+          "source_status_id_str": "1577642781870546944",
+          "source_user_id": 1225462582280015879,
+          "source_user_id_str": "1225462582280015879"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Oct 05 12:52:05 +0000 2022",
+      "id": 1577642781870546944,
+      "id_str": "1577642781870546944",
+      "text": "Remembering Steve https://t.co/0IQE1GO604",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1577642691986612224,
+            "id_str": "1577642691986612224",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/FeTpq25aYAArm4k.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FeTpq25aYAArm4k.jpg",
+            "url": "https://t.co/0IQE1GO604",
+            "display_url": "pic.twitter.com/0IQE1GO604",
+            "expanded_url": "https://twitter.com/BasicAppleGuy/status/1577642781870546944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1577642691986612224,
+            "id_str": "1577642691986612224",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/FeTpq25aYAArm4k.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FeTpq25aYAArm4k.jpg",
+            "url": "https://t.co/0IQE1GO604",
+            "display_url": "pic.twitter.com/0IQE1GO604",
+            "expanded_url": "https://twitter.com/BasicAppleGuy/status/1577642781870546944/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1225462582280015879,
+        "id_str": "1225462582280015879",
+        "name": "Basic Apple Guy",
+        "screen_name": "BasicAppleGuy",
+        "location": "Dynamic Island",
+        "description": "Basic (ˈbeɪ.sɪk’; Adj): lover of all things mainstream, popular, & trending in the world of .",
+        "url": "https://t.co/r6HgFi8eEO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/r6HgFi8eEO",
+                "expanded_url": "https://basicappleguy.com",
+                "display_url": "basicappleguy.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 130102,
+        "friends_count": 86,
+        "listed_count": 678,
+        "created_at": "Thu Feb 06 16:54:28 +0000 2020",
+        "favourites_count": 9392,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11727,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1522623872717099013/h5fNVE5d_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1522623872717099013/h5fNVE5d_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1225462582280015879/1661978812",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 633,
+      "favorite_count": 6888,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 633,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Oct 06 00:28:56 +0000 2022",
+    "id": 1577818149935673344,
+    "id_str": "1577818149935673344",
+    "text": "RT @thecat: 嗯嗯 完全同意作者對 note-taking 軟體的看法(尤其第二段是精華)，簡單講就是勤於書寫將大腦想法 dump 出來很重要沒錯，但絕對不要陷入被筆記系統癱瘓的冏境，例如總是花大量時間在整理 zk card 或加各種 tag 互連結果反而沒幹正事~🤗…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Oct 06 00:19:32 +0000 2022",
+      "id": 1577815786084651008,
+      "id_str": "1577815786084651008",
+      "text": "嗯嗯 完全同意作者對 note-taking 軟體的看法(尤其第二段是精華)，簡單講就是勤於書寫將大腦想法 dump 出來很重要沒錯，但絕對不要陷入被筆記系統癱瘓的冏境，例如總是花大量時間在整理 zk card 或加各種 tag… https://t.co/sVjdudEJp0",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sVjdudEJp0",
+            "expanded_url": "https://twitter.com/i/web/status/1577815786084651008",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807633,
+        "id_str": "807633",
+        "name": "Jeremy Lu",
+        "screen_name": "thecat",
+        "location": "right here, right now",
+        "description": "Fullstack web developer by day, amateur haskeller by night, avid cyclist and swimmer in between. Ask me anything about statechart, react and cycling. λ",
+        "url": "https://t.co/FhWiwLHxkV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FhWiwLHxkV",
+                "expanded_url": "https://www.stateskit.com",
+                "display_url": "stateskit.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7230,
+        "friends_count": 1643,
+        "listed_count": 94,
+        "created_at": "Sat Mar 03 01:42:09 +0000 2007",
+        "favourites_count": 32232,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 71347,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807633/1633176429",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 42,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 05 15:15:24 +0000 2022",
+    "id": 1577678850946760705,
+    "id_str": "1577678850946760705",
+    "text": "@c9s 只是一篇介紹 DotSama ecosystem 錢包的文章中帶到，就講 NOVA 那一段。\n\n我猜可能就原來開發 Fearless 的團隊主力自立門戶了。\n\nhttps://t.co/jPi75fIVUo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "c9s",
+          "name": "Yo-An Lin",
+          "id": 783117,
+          "id_str": "783117",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jPi75fIVUo",
+          "expanded_url": "https://medium.com/polkadot-ecosystem-promoteam/top-4-wallets-of-the-dotsama-ecosystem-browser-and-mobile-versions-793af63771c",
+          "display_url": "medium.com/polkadot-ecosy…",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1577677733252935680,
+    "in_reply_to_status_id_str": "1577677733252935680",
+    "in_reply_to_user_id": 783117,
+    "in_reply_to_user_id_str": "783117",
+    "in_reply_to_screen_name": "c9s",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 05 14:29:31 +0000 2022",
+    "id": 1577667303491088385,
+    "id_str": "1577667303491088385",
+    "text": "@c9s 開發 Fearless Wallet 的公司 Soramitsu，跳出了一組八個人的團隊去開發了 Nova Wallet，算叛逃？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "c9s",
+          "name": "Yo-An Lin",
+          "id": 783117,
+          "id_str": "783117",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1577663247104167936,
+    "in_reply_to_status_id_str": "1577663247104167936",
+    "in_reply_to_user_id": 783117,
+    "in_reply_to_user_id_str": "783117",
+    "in_reply_to_screen_name": "c9s",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 05 04:25:12 +0000 2022",
+    "id": 1577515220561317888,
+    "id_str": "1577515220561317888",
+    "text": "難得看到與品牌如此契合的商業創新。\n\n實際觀察到「會員轉贈」一年累計上億次，便利簡化後順便擴延，一人訂購、全家全台共享兌換，應該真的能把全家都拉進全家，非常厲害。\n\n一人買咖啡4人都可以取！全家「家庭訂閱共享」上線，步驟一次看… https://t.co/xeYiRxl0xR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xeYiRxl0xR",
+          "expanded_url": "https://twitter.com/i/web/status/1577515220561317888",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "favorite_count": 100,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 05 04:11:04 +0000 2022",
+    "id": 1577511667075686400,
+    "id_str": "1577511667075686400",
+    "text": "RT @OOBE: 希望在十年內，台灣至少有一個大眾運輸工具可以使用 iPhone 的交通卡，並使用「快速交通模式」。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OOBE",
+          "name": "OOBE",
+          "id": 4496321,
+          "id_str": "4496321",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Oct 05 03:40:45 +0000 2022",
+      "id": 1577504037750329344,
+      "id_str": "1577504037750329344",
+      "text": "希望在十年內，台灣至少有一個大眾運輸工具可以使用 iPhone 的交通卡，並使用「快速交通模式」。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4496321,
+        "id_str": "4496321",
+        "name": "OOBE",
+        "screen_name": "OOBE",
+        "location": "Taiwan",
+        "description": "🔰 A sorcerer's apprentice. 歡迎訂閱「小星星通訊」:https://t.co/KIjgzAOnvE",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/KIjgzAOnvE",
+                "expanded_url": "http://news.oobe.tw",
+                "display_url": "news.oobe.tw",
+                "indices": [
+                  39,
+                  62
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14543,
+        "friends_count": 2302,
+        "listed_count": 171,
+        "created_at": "Fri Apr 13 13:16:07 +0000 2007",
+        "favourites_count": 92034,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 111696,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "798058",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1503282956210946050/brFs6FIw_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1503282956210946050/brFs6FIw_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4496321/1506265793",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "AA4D73",
+        "profile_text_color": "F87364",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 66,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 05 03:04:13 +0000 2022",
+    "id": 1577494843437510657,
+    "id_str": "1577494843437510657",
+    "text": "作者文中有提出七條頗具體的做法，涉及網路廣告的技術、商業運作等，簡單說是「解鎖廣告市場（unrigging the ad market）」，改變現在網路廣告的許多層面，從媒體購買、技術、廣告型態，一直到用法律、高額懲罰去限制廣告詐… https://t.co/eX9JpNVhC2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eX9JpNVhC2",
+          "expanded_url": "https://twitter.com/i/web/status/1577494843437510657",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1577494360781791232,
+    "in_reply_to_status_id_str": "1577494360781791232",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 05 03:02:18 +0000 2022",
+    "id": 1577494360781791232,
+    "id_str": "1577494360781791232",
+    "text": "如標題所言，這些「巨型科技公司並非偷了新聞出版商的內容，他們其實是偷了出版商的錢」。\n\n這個偷錢的意思，是指網路廣告的佔比，以及許多違法、侵犯隱私的網路廣告技術，拿走了原本新聞出版商生產內容能獲得的金錢回收。\n\n隱含的前提是，廣告依舊是媒體的主要收益來源。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1577493993482440705,
+    "in_reply_to_status_id_str": "1577493993482440705",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 05 03:00:51 +0000 2022",
+    "id": 1577493993482440705,
+    "id_str": "1577493993482440705",
+    "text": "大型新聞商，例如梅鐸新聞集團，並不打算解決問題。推動摘錄稅實際上是與巨型科技公司的合謀，更大程度的穩固新聞獨佔地位，讓中小型媒體陷入更大的困境。\n\n摘錄稅無關民主，那只是迫使合謀的兩端巨商，微微吐出一點不義之財而已。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1577493640863440896,
+    "in_reply_to_status_id_str": "1577493640863440896",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 05 02:59:27 +0000 2022",
+    "id": 1577493640863440896,
+    "id_str": "1577493640863440896",
+    "text": "首先，作者反對許多國家（含歐盟）積極推動的摘錄稅（snippet tax），類似google news聚合各家新聞的應用需要付費。\n\n新聞需要被討論，為了討論、分析、評論的引用（摘要），通常被視為版權系統中的一種「限制與例外」，意… https://t.co/K21eEDA5hV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/K21eEDA5hV",
+          "expanded_url": "https://twitter.com/i/web/status/1577493640863440896",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1577492920638132224,
+    "in_reply_to_status_id_str": "1577492920638132224",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 05 02:56:35 +0000 2022",
+    "id": 1577492920638132224,
+    "id_str": "1577492920638132224",
+    "text": "4 月看到 Cory Doctorow 這篇很有意思的文章，不十分了解關於網路廣告某些深入的市場規則與技術，但對於媒體（尤其是傳統媒體）如何在網路世界存活的思考，還是值得一讀。\n\nBig Tech Isn’t Stealing N… https://t.co/dznRGi2sGk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dznRGi2sGk",
+          "expanded_url": "https://twitter.com/i/web/status/1577492920638132224",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 05 00:44:45 +0000 2022",
+    "id": 1577459742535917570,
+    "id_str": "1577459742535917570",
+    "text": "美國影集三不五時就看到「送傳票」的橋段，雇人盯哨、親自送到對象手上，現在法院批准使用聊天機器人和論壇帖子送達傳票通知的方式，真是與時俱進。\n\n躲進元宇宙還是得收傳票啦～\n\nOoki DAO 起訴案》法院裁定 CFTC 可透過聊天機… https://t.co/p1LmicuTGX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/p1LmicuTGX",
+          "expanded_url": "https://twitter.com/i/web/status/1577459742535917570",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 04 13:14:42 +0000 2022",
+    "id": 1577286087176728577,
+    "id_str": "1577286087176728577",
+    "text": "紀錄片主要是根據主角記者寫的《Money Men》一書，但 2022/6 剛出版，還沒有中文譯本。\n\n商周有出一本《歐陸最瘋狂金融風暴：威卡騙局》，是《經濟週刊》記者的深度報導，還獲得2020年德國新聞記者獎，若想找些細部資料，應… https://t.co/WzNFyiXooy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WzNFyiXooy",
+          "expanded_url": "https://twitter.com/i/web/status/1577286087176728577",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1577284550652092417,
+    "in_reply_to_status_id_str": "1577284550652092417",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 04 13:08:36 +0000 2022",
+    "id": 1577284550652092417,
+    "id_str": "1577284550652092417",
+    "text": "這部講威卡金融醜聞的紀錄片也是大推。 #Netflix\n\n威卡是德國DAX指數 30 支成分股之一的 FinTech 明星，被英國《金融時報》記者踢爆詐欺、洗錢、與俄國特務合謀等醜事，德國金管會還出來坦，控告外國記者、限制賣空，最… https://t.co/iqXpCjX6g9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            19,
+            27
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iqXpCjX6g9",
+          "expanded_url": "https://twitter.com/i/web/status/1577284550652092417",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1577218415437103105,
+    "in_reply_to_status_id_str": "1577218415437103105",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 04 09:35:20 +0000 2022",
+    "id": 1577230883123122176,
+    "id_str": "1577230883123122176",
+    "text": "RT @Raspberry_Pi: Raspberry Pi + Game Boy pieces + mechanical keyboard = cool Frankenstein DIY handheld PC\n\nhttps://t.co/xxbaVqnmtg\n\n(About…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Raspberry_Pi",
+          "name": "Raspberry Pi",
+          "id": 302666251,
+          "id_str": "302666251",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xxbaVqnmtg",
+          "expanded_url": "https://www.raspberrypi.com/news/raspberry-pi-game-boy-pieces-mechanical-keyboard-cool-frankenstein-diy-handheld-pc/",
+          "display_url": "raspberrypi.com/news/raspberry…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Oct 04 08:06:07 +0000 2022",
+      "id": 1577208430242443264,
+      "id_str": "1577208430242443264",
+      "text": "Raspberry Pi + Game Boy pieces + mechanical keyboard = cool Frankenstein DIY handheld PC\n\nhttps://t.co/xxbaVqnmtg… https://t.co/RFTh27AQBu",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xxbaVqnmtg",
+            "expanded_url": "https://www.raspberrypi.com/news/raspberry-pi-game-boy-pieces-mechanical-keyboard-cool-frankenstein-diy-handheld-pc/",
+            "display_url": "raspberrypi.com/news/raspberry…",
+            "indices": [
+              90,
+              113
+            ]
+          },
+          {
+            "url": "https://t.co/RFTh27AQBu",
+            "expanded_url": "https://twitter.com/i/web/status/1577208430242443264",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 302666251,
+        "id_str": "302666251",
+        "name": "Raspberry Pi",
+        "screen_name": "Raspberry_Pi",
+        "location": "Cambridge, UK",
+        "description": "We make inexpensive, small computers for home, industry, education and much more. Follow @raspberrypi_org for free education initiatives. Be awesome!",
+        "url": "https://t.co/A5TkJiCZcT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/A5TkJiCZcT",
+                "expanded_url": "http://www.raspberrypi.com",
+                "display_url": "raspberrypi.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 543267,
+        "friends_count": 1196,
+        "listed_count": 7738,
+        "created_at": "Sat May 21 15:20:40 +0000 2011",
+        "favourites_count": 20590,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 41672,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1577210655010131970/9K0gWduC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1577210655010131970/9K0gWduC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/302666251/1650376834",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 65,
+      "favorite_count": 332,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 65,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Oct 04 08:45:48 +0000 2022",
+    "id": 1577218415437103105,
+    "id_str": "1577218415437103105",
+    "text": "那時也就是在推特上看了看熱鬧， #Netflix 這三集紀錄片整理得不錯，補完了許多當時不太知道的角色、事件與內幕。\n\n《散戶大戰華爾街：GameStop傳奇》 https://t.co/zUTWY3rl89 https://t.co/n0lPGiSDsU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            16,
+            24
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zUTWY3rl89",
+          "expanded_url": "https://bit.ly/3SOgaLy",
+          "display_url": "bit.ly/3SOgaLy",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1577218408461922304,
+          "id_str": "1577218408461922304",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/FeNnyTmUcAA_y9V.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FeNnyTmUcAA_y9V.jpg",
+          "url": "https://t.co/n0lPGiSDsU",
+          "display_url": "pic.twitter.com/n0lPGiSDsU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1577218415437103105/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1577218408461922304,
+          "id_str": "1577218408461922304",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/media/FeNnyTmUcAA_y9V.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FeNnyTmUcAA_y9V.jpg",
+          "url": "https://t.co/n0lPGiSDsU",
+          "display_url": "pic.twitter.com/n0lPGiSDsU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1577218415437103105/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 665,
+              "h": 374,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 04 08:31:05 +0000 2022",
+    "id": 1577214711451373569,
+    "id_str": "1577214711451373569",
+    "text": "「把 iPhone 變悠遊卡太小家子氣，變成加值機多酷啊！把這麼一大台縮到每個人手上，這技術含量高多了。」（謎之音）\n\n今天是 2022-10-04。\n\n距離柯文哲台北市長任期最後一日 2022-12-25，還有 82 天。… https://t.co/2O8uPqIGst",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2O8uPqIGst",
+          "expanded_url": "https://twitter.com/i/web/status/1577214711451373569",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 35,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 04 04:25:08 +0000 2022",
+    "id": 1577152819852779520,
+    "id_str": "1577152819852779520",
+    "text": "各車廠可以盡量剽竊、侵佔特斯拉的製車技術了，Elon Musk 會「為了和平，請特斯拉犧牲部分主權，換取大家停戰」。 https://t.co/4jPt4wOPn6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4jPt4wOPn6",
+          "expanded_url": "https://twitter.com/zhusee2/status/1577128862642642945",
+          "display_url": "twitter.com/zhusee2/status…",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1577128862642642945,
+    "quoted_status_id_str": "1577128862642642945",
+    "quoted_status": {
+      "created_at": "Tue Oct 04 02:49:57 +0000 2022",
+      "id": 1577128862642642945,
+      "id_str": "1577128862642642945",
+      "text": "1️⃣俄羅斯無故侵略烏克蘭\n2️⃣俄羅斯併吞部分烏克蘭領土\n\n➡️現在在這裡\nElon Musk 跳出來提案「為了和平，不然請烏克蘭犧牲部分主權，換取俄羅斯停戰怎麼樣」 https://t.co/OBmAnbmWFP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OBmAnbmWFP",
+            "expanded_url": "https://twitter.com/elonmusk/status/1576969255031296000",
+            "display_url": "twitter.com/elonmusk/statu…",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7748892,
+        "id_str": "7748892",
+        "name": "Zhusee🏳️‍🌈",
+        "screen_name": "zhusee2",
+        "location": "Taiwan",
+        "description": "#StandWithUkriane 🇺🇦\n奶茶聯盟 #MilkTeaAlliance",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2182,
+        "friends_count": 487,
+        "listed_count": 33,
+        "created_at": "Fri Jul 27 00:32:19 +0000 2007",
+        "favourites_count": 12240,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25747,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "020812",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149554022333812742/onyiCkPY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149554022333812742/onyiCkPY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7748892/1562910014",
+        "profile_link_color": "225699",
+        "profile_sidebar_border_color": "2280A9",
+        "profile_sidebar_fill_color": "020812",
+        "profile_text_color": "2280A9",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1576969255031296000,
+      "quoted_status_id_str": "1576969255031296000",
+      "retweet_count": 10,
+      "favorite_count": 33,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Oct 04 03:26:17 +0000 2022",
+    "id": 1577138006271533056,
+    "id_str": "1577138006271533056",
+    "text": "好喔，原能會主委需要四個年輕高挑長髮女秘書，還大言不慚的說其中一名需要是24小時跟著他的機要秘書，這到底是在忙什麼？台灣核電廠都在轉型成核彈發射場嗎？\n\n這真的不行。 https://t.co/MTgxw7HGDw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MTgxw7HGDw",
+          "expanded_url": "https://twitter.com/msntaiwan/status/1577131988078641152",
+          "display_url": "twitter.com/msntaiwan/stat…",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1577131988078641152,
+    "quoted_status_id_str": "1577131988078641152",
+    "quoted_status": {
+      "created_at": "Tue Oct 04 03:02:22 +0000 2022",
+      "id": 1577131988078641152,
+      "id_str": "1577131988078641152",
+      "text": "#MSN台灣 【閣員爆性騷霸凌5】謝曉星立院列席報告預算突請假 10點開記者會說明 https://t.co/OYkk9IQsHh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "MSN台灣",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OYkk9IQsHh",
+            "expanded_url": "http://www.msn.com/zh-tw/news/national/%E9%96%A3%E5%93%A1%E7%88%86%E6%80%A7%E9%A8%B7%E9%9C%B8%E5%87%8C5-%E8%AC%9D%E6%9B%89%E6%98%9F%E7%AB%8B%E9%99%A2%E5%88%97%E5%B8%AD%E5%A0%B1%E5%91%8A%E9%A0%90%E7%AE%97%E7%AA%81%E8%AB%8B%E5%81%87-10%E9%BB%9E%E9%96%8B%E8%A8%98%E8%80%85%E6%9C%83%E8%AA%AA%E6%98%8E/ar-AA12yTVf?ocid=ob-tw-zhtw-605",
+            "display_url": "msn.com/zh-tw/news/nat…",
+            "indices": [
+              42,
+              65
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://oxfordblue.azurewebsites.net\" rel=\"nofollow\">OxfordBlue-Twitter</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 108271296,
+        "id_str": "108271296",
+        "name": "MSN 台灣",
+        "screen_name": "msntaiwan",
+        "location": "台灣",
+        "description": "MSN 台灣官方粉絲頁，為你提供全方位即時新聞、深度報導、熱門話題、好吃好玩通通有...MSN 台灣官方網站還有你最需要的Outlook、OneDrive、Skype入口，讓你茫茫網海不迷失，一站就知天下事！",
+        "url": "https://t.co/2D4kFNW2xK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2D4kFNW2xK",
+                "expanded_url": "https://www.msn.com/zh-tw/",
+                "display_url": "msn.com/zh-tw/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6248,
+        "friends_count": 19,
+        "listed_count": 106,
+        "created_at": "Mon Jan 25 11:53:50 +0000 2010",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 134626,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842669100937576448/0iZ84rj-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842669100937576448/0iZ84rj-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/108271296/1489744961",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 6,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Oct 04 02:50:13 +0000 2022",
     "id": 1577128929378172928,
     "id_str": "1577128929378172928",
