@@ -1,5 +1,185 @@
 Grailbird.data.tweets_2022_10 = [
   {
+    "created_at": "Sun Oct 09 04:15:46 +0000 2022",
+    "id": 1578962400228757504,
+    "id_str": "1578962400228757504",
+    "text": "晴天，有時殺人。\n\n赤川次郎的小說《晴れ、ときどき殺人》名字真讚。 https://t.co/TqxTrz4Hit",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1578962393173852160,
+          "id_str": "1578962393173852160",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/FemZ7k7UAAA4Dxn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FemZ7k7UAAA4Dxn.jpg",
+          "url": "https://t.co/TqxTrz4Hit",
+          "display_url": "pic.twitter.com/TqxTrz4Hit",
+          "expanded_url": "https://twitter.com/wastemobile/status/1578962400228757504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 386,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 386,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 386,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1578962393173852160,
+          "id_str": "1578962393173852160",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/media/FemZ7k7UAAA4Dxn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FemZ7k7UAAA4Dxn.jpg",
+          "url": "https://t.co/TqxTrz4Hit",
+          "display_url": "pic.twitter.com/TqxTrz4Hit",
+          "expanded_url": "https://twitter.com/wastemobile/status/1578962400228757504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 386,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 600,
+              "h": 386,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 386,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Oct 08 09:14:42 +0000 2022",
+    "id": 1578675239503876096,
+    "id_str": "1578675239503876096",
+    "text": "@n__ny 完全分不清到底是 bugs 還是隱藏功能的神作啊！（遠目",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "n__ny",
+          "name": "ナナヤ",
+          "id": 7711532,
+          "id_str": "7711532",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1578674601638658050,
+    "in_reply_to_status_id_str": "1578674601638658050",
+    "in_reply_to_user_id": 7711532,
+    "in_reply_to_user_id_str": "7711532",
+    "in_reply_to_screen_name": "n__ny",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Oct 08 08:54:20 +0000 2022",
     "id": 1578670116434112512,
     "id_str": "1578670116434112512",
