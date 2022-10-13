@@ -1,5 +1,330 @@
 Grailbird.data.tweets_2022_10 = [
   {
+    "created_at": "Thu Oct 13 01:27:04 +0000 2022",
+    "id": 1580369496425971714,
+    "id_str": "1580369496425971714",
+    "text": "這報導在說美國不少人利用 WFH 的遠端工作型態，同時做兩份、四份「全職」工作；還有個 92,300 人的 Reddit 論壇，彼此交流分享如何兼顧、以及不要被抓包的心得。\n\n真斜槓。👍\n\nThese Remote Tech Wo… https://t.co/3oMdAvHZED",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3oMdAvHZED",
+          "expanded_url": "https://twitter.com/i/web/status/1580369496425971714",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 30,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Oct 13 00:30:06 +0000 2022",
+    "id": 1580355161788076033,
+    "id_str": "1580355161788076033",
+    "text": "沒想到這本2007年的老書被挖出來，2014出過簡中版，進階職場識人術。\n\n重點在於作者之一就是「海爾病態人格檢核表」（Hare Psychopathy Checklist）的那個海爾，可以說當代心理變態都是他定義出來的。\n\n騙子… https://t.co/g7kac4NwHE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g7kac4NwHE",
+          "expanded_url": "https://twitter.com/i/web/status/1580355161788076033",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Oct 12 15:22:04 +0000 2022",
+    "id": 1580217244860063746,
+    "id_str": "1580217244860063746",
+    "text": "RT @rauchg: Really cool example of @sveltejs​kit 🤝 @vercel\nSo snappy yet deals with lots of fast-changing data\n\nhttps://t.co/NINycQVeeE htt…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "sveltejs",
+          "name": "Svelte",
+          "id": 801833412487184384,
+          "id_str": "801833412487184384",
+          "indices": [
+            35,
+            44
+          ]
+        },
+        {
+          "screen_name": "vercel",
+          "name": "Vercel",
+          "id": 4686835494,
+          "id_str": "4686835494",
+          "indices": [
+            51,
+            58
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NINycQVeeE",
+          "expanded_url": "https://stockanalysis.com",
+          "display_url": "stockanalysis.com",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 10 17:00:10 +0000 2022",
+      "id": 1579517155015815168,
+      "id_str": "1579517155015815168",
+      "text": "Really cool example of @sveltejs​kit 🤝 @vercel\nSo snappy yet deals with lots of fast-changing data… https://t.co/7ayzjeem3q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "sveltejs",
+            "name": "Svelte",
+            "id": 801833412487184384,
+            "id_str": "801833412487184384",
+            "indices": [
+              23,
+              32
+            ]
+          },
+          {
+            "screen_name": "vercel",
+            "name": "Vercel",
+            "id": 4686835494,
+            "id_str": "4686835494",
+            "indices": [
+              39,
+              46
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7ayzjeem3q",
+            "expanded_url": "https://twitter.com/i/web/status/1579517155015815168",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15540222,
+        "id_str": "15540222",
+        "name": "Guillermo Rauch",
+        "screen_name": "rauchg",
+        "location": "San Francisco, CA",
+        "description": "@vercel CEO",
+        "url": "https://t.co/qGYOw0OjLA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/qGYOw0OjLA",
+                "expanded_url": "http://rauchg.com",
+                "display_url": "rauchg.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 118988,
+        "friends_count": 10,
+        "listed_count": 2492,
+        "created_at": "Tue Jul 22 22:54:37 +0000 2008",
+        "favourites_count": 34808,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 32473,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1576257734810312704/ucxb4lHy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1576257734810312704/ucxb4lHy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15540222/1664665800",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 122,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed Oct 12 01:28:32 +0000 2022",
     "id": 1580007475952070656,
     "id_str": "1580007475952070656",
