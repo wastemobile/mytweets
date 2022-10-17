@@ -1,5 +1,561 @@
 Grailbird.data.tweets_2022_10 = [
   {
+    "created_at": "Mon Oct 17 01:19:43 +0000 2022",
+    "id": 1581817198246432768,
+    "id_str": "1581817198246432768",
+    "text": "RT @april17tw: 黃珊珊在新書自稱防疫旅館是她想的。\n\n阿中：「這樣的講法確實是一種剽竊的行為，防疫旅館一開始的構想和規劃，是由石崇良次長那時做一個很快的規劃。」\n\n黃珊珊最愛罵阿中說萬華破口，這話出自石崇良次長，阿中是當時指揮官主動承擔。\n\n下屬失言阿中承擔，下屬…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "april17tw",
+          "name": "拾柒",
+          "id": 1019023832,
+          "id_str": "1019023832",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Oct 16 08:48:06 +0000 2022",
+      "id": 1581567648571461633,
+      "id_str": "1581567648571461633",
+      "text": "黃珊珊在新書自稱防疫旅館是她想的。\n\n阿中：「這樣的講法確實是一種剽竊的行為，防疫旅館一開始的構想和規劃，是由石崇良次長那時做一個很快的規劃。」\n\n黃珊珊最愛罵阿中說萬華破口，這話出自石崇良次長，阿中是當時指揮官主動承擔。\n\n下屬… https://t.co/ltexONgmUP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ltexONgmUP",
+            "expanded_url": "https://twitter.com/i/web/status/1581567648571461633",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1019023832,
+        "id_str": "1019023832",
+        "name": "拾柒",
+        "screen_name": "april17tw",
+        "location": "Taiwan",
+        "description": "筆記仔。偶爾美術魂爆發一下。",
+        "url": "https://t.co/OIJSdqAk00",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OIJSdqAk00",
+                "expanded_url": "https://www.instagram.com/april17tw/",
+                "display_url": "instagram.com/april17tw/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7099,
+        "friends_count": 285,
+        "listed_count": 42,
+        "created_at": "Tue Dec 18 04:56:15 +0000 2012",
+        "favourites_count": 91451,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 18404,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "A2A392",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1514573926361305092/8sdG6RhO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1514573926361305092/8sdG6RhO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1019023832/1642645642",
+        "profile_link_color": "5BD9DF",
+        "profile_sidebar_border_color": "89675B",
+        "profile_sidebar_fill_color": "937C74",
+        "profile_text_color": "C09B82",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 131,
+      "favorite_count": 1150,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 131,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 17 01:03:40 +0000 2022",
+    "id": 1581813157839794176,
+    "id_str": "1581813157839794176",
+    "text": "他最著名的著作，是在1990年代中期逐漸轉向「真實烏托邦」計畫，並在花費四年巡迴世界各地與群眾交流後，完成的《真實烏托邦》一書。\n\n2014年曾來台在中央研究院發表關於真實烏托邦的演講，還恰好遇上太陽花抗爭運動。\n\n《真實烏托邦》… https://t.co/pwyYCnqRui",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pwyYCnqRui",
+          "expanded_url": "https://twitter.com/i/web/status/1581813157839794176",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1581812378437492736,
+    "in_reply_to_status_id_str": "1581812378437492736",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 17 01:00:34 +0000 2022",
+    "id": 1581812378437492736,
+    "id_str": "1581812378437492736",
+    "text": "艾瑞克．萊特是當代美國最重要的社會學家之一，當代階級研究最重要的左派社會學家、新馬克思主義學者，這書是他罹患急性骨髓性白血病（Acute myeloid leukemia, AML）住院治療時，為了讓關心他的朋友能夠得知近況，並與… https://t.co/k0EqYkyT3z",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/k0EqYkyT3z",
+          "expanded_url": "https://twitter.com/i/web/status/1581812378437492736",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1581811527476080640,
+    "in_reply_to_status_id_str": "1581811527476080640",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 17 00:57:11 +0000 2022",
+    "id": 1581811527476080640,
+    "id_str": "1581811527476080640",
+    "text": "端傳媒新開設的專欄「尋找一塊墓地」，希望認真地和讀者談死亡﹑遺憾﹑悔恨，但也談生命﹑愛﹑希望和那些無法解決的道德難題。\n\n《命若星塵》：Erik Olin Wright －－愛﹑社會學，與苦難中的真實烏托邦… https://t.co/dycWSKvBoN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dycWSKvBoN",
+          "expanded_url": "https://twitter.com/i/web/status/1581811527476080640",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 16 03:47:37 +0000 2022",
+    "id": 1581492032400334848,
+    "id_str": "1581492032400334848",
+    "text": "Gamecores 機核網站遠端訪問了《蔑視》開發商 Ebb Software，談這款從 2014 年就啟動開發的環境敘事手法遊戲（過程中曾多次重啟）。\n\nhttps://t.co/Uk0WWLrEjo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Uk0WWLrEjo",
+          "expanded_url": "https://bit.ly/3VtAbcB",
+          "display_url": "bit.ly/3VtAbcB",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1581098272378060800,
+    "in_reply_to_status_id_str": "1581098272378060800",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 16 03:14:09 +0000 2022",
+    "id": 1581483609013202944,
+    "id_str": "1581483609013202944",
+    "text": "看了庵野秀明企劃劇本的《新・超人力霸王》，有夠鏘。（稱讚意味）\n\n所以「新・日本英雄宇宙」就等明年的《新・假面騎士》了～\n\nhttps://t.co/gIwenXoEvB https://t.co/wr3YEhIYgy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gIwenXoEvB",
+          "expanded_url": "https://bit.ly/3VqZbkV",
+          "display_url": "bit.ly/3VqZbkV",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1581483601845112832,
+          "id_str": "1581483601845112832",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FfKO9PIVUAA4TU0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FfKO9PIVUAA4TU0.jpg",
+          "url": "https://t.co/wr3YEhIYgy",
+          "display_url": "pic.twitter.com/wr3YEhIYgy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1581483609013202944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1581483601845112832,
+          "id_str": "1581483601845112832",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FfKO9PIVUAA4TU0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FfKO9PIVUAA4TU0.jpg",
+          "url": "https://t.co/wr3YEhIYgy",
+          "display_url": "pic.twitter.com/wr3YEhIYgy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1581483609013202944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 724,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1581483601870233601,
+          "id_str": "1581483601870233601",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/FfKO9POUoAEPw-2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FfKO9POUoAEPw-2.jpg",
+          "url": "https://t.co/wr3YEhIYgy",
+          "display_url": "pic.twitter.com/wr3YEhIYgy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1581483609013202944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 307,
+              "h": 333,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 307,
+              "h": 333,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 307,
+              "h": 333,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Oct 16 00:05:43 +0000 2022",
     "id": 1581436186370797568,
     "id_str": "1581436186370797568",
