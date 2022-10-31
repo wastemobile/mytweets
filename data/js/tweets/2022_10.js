@@ -1,5 +1,425 @@
 Grailbird.data.tweets_2022_10 = [
   {
+    "created_at": "Sun Oct 30 10:34:31 +0000 2022",
+    "id": 1586667861581307904,
+    "id_str": "1586667861581307904",
+    "text": "RT @soundfury: 獵島計畫：潛入觀音山蓄水池，13組藝術家再現台灣島嶼生態 https://t.co/5yCLrXsNNe",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "soundfury",
+          "name": "張鐵志 T.C. Chang",
+          "id": 8185232,
+          "id_str": "8185232",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5yCLrXsNNe",
+          "expanded_url": "https://www.verse.com.tw/article/hunterisland-plan?utm_source=twitter&utm_medium=share&utm_content=hunterisland-plan",
+          "display_url": "verse.com.tw/article/hunter…",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Oct 30 10:33:41 +0000 2022",
+      "id": 1586667650238668800,
+      "id_str": "1586667650238668800",
+      "text": "獵島計畫：潛入觀音山蓄水池，13組藝術家再現台灣島嶼生態 https://t.co/5yCLrXsNNe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5yCLrXsNNe",
+            "expanded_url": "https://www.verse.com.tw/article/hunterisland-plan?utm_source=twitter&utm_medium=share&utm_content=hunterisland-plan",
+            "display_url": "verse.com.tw/article/hunter…",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 8185232,
+        "id_str": "8185232",
+        "name": "張鐵志 T.C. Chang",
+        "screen_name": "soundfury",
+        "location": "Taiwan",
+        "description": "a culture critic from Taiwan. Founder and chief editor of VERSE。曾任《彭博商業周刊/中文版》創刊總主筆、香港《號外》雜誌總編輯等。a former PhD candidate of pol. sci. at Columbia U.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 65668,
+        "friends_count": 904,
+        "listed_count": 464,
+        "created_at": "Tue Aug 14 16:22:52 +0000 2007",
+        "favourites_count": 1417,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 17667,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1402448053747867648/y1D2gWph_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402448053747867648/y1D2gWph_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 30 07:09:26 +0000 2022",
+    "id": 1586616248309145600,
+    "id_str": "1586616248309145600",
+    "text": "制服強強劍!!\n\n跪～\n\nhttps://t.co/Sfx3UjhYTU https://t.co/V5rZlcnMiF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Sfx3UjhYTU",
+          "expanded_url": "https://bit.ly/3WgaegV",
+          "display_url": "bit.ly/3WgaegV",
+          "indices": [
+            13,
+            36
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1586616241245937664,
+          "id_str": "1586616241245937664",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/FgTLEK5UYAA0rfO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FgTLEK5UYAA0rfO.jpg",
+          "url": "https://t.co/V5rZlcnMiF",
+          "display_url": "pic.twitter.com/V5rZlcnMiF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1586616248309145600/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 453,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1586616241245937664,
+          "id_str": "1586616241245937664",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/FgTLEK5UYAA0rfO.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FgTLEK5UYAA0rfO.jpg",
+          "url": "https://t.co/V5rZlcnMiF",
+          "display_url": "pic.twitter.com/V5rZlcnMiF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1586616248309145600/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 453,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1555212160246386693,
+    "in_reply_to_status_id_str": "1555212160246386693",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Oct 30 03:46:35 +0000 2022",
+    "id": 1586565201121271808,
+    "id_str": "1586565201121271808",
+    "text": "記得一開始在網站上看到這種可自訂接受 cookies 的設置，都是 opt-in（預設只有必要選項，其他選擇同意），最近幾乎都變成 opt-out（預設全選，得自己剔除）。\n\n我應該有一時疏忽錯點過。 https://t.co/vgK7nQ9Wuh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1586565194347556864,
+          "id_str": "1586565194347556864",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/FgSco2YVsAAvkUQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FgSco2YVsAAvkUQ.jpg",
+          "url": "https://t.co/vgK7nQ9Wuh",
+          "display_url": "pic.twitter.com/vgK7nQ9Wuh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1586565201121271808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 618,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 1268,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1090,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1586565194347556864,
+          "id_str": "1586565194347556864",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/FgSco2YVsAAvkUQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FgSco2YVsAAvkUQ.jpg",
+          "url": "https://t.co/vgK7nQ9Wuh",
+          "display_url": "pic.twitter.com/vgK7nQ9Wuh",
+          "expanded_url": "https://twitter.com/wastemobile/status/1586565201121271808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 618,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1152,
+              "h": 1268,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1090,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1377811339792371715,
+    "in_reply_to_status_id_str": "1377811339792371715",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Oct 30 02:53:17 +0000 2022",
     "id": 1586551786969608192,
     "id_str": "1586551786969608192",
