@@ -1,5 +1,594 @@
 Grailbird.data.tweets_2022_10 = [
   {
+    "created_at": "Mon Oct 31 04:56:59 +0000 2022",
+    "id": 1586945303726280705,
+    "id_str": "1586945303726280705",
+    "text": "RT @nattwiit: 耶穌因對當時的體制批判\n因而遭受猶太領導懲罰\n以肉身釘在十字架上\n\n成為神靈 肉身苦痛仍會令祂餘悸猶存嗎\n\n基督教常宣揚耶穌替世人但苦痛\n藉此提醒/警戒世人\n算不算情緒勒索?\n\n耶穌當時願抵抗體制\n反觀目前多數的基督教徒 是否故步自封",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "nattwiit",
+          "name": "nattwiit",
+          "id": 1412513247379349511,
+          "id_str": "1412513247379349511",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Oct 31 04:55:34 +0000 2022",
+      "id": 1586944948402016257,
+      "id_str": "1586944948402016257",
+      "text": "耶穌因對當時的體制批判\n因而遭受猶太領導懲罰\n以肉身釘在十字架上\n\n成為神靈 肉身苦痛仍會令祂餘悸猶存嗎\n\n基督教常宣揚耶穌替世人但苦痛\n藉此提醒/警戒世人\n算不算情緒勒索?\n\n耶穌當時願抵抗體制\n反觀目前多數的基督教徒 是否故步自封",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1412513247379349511,
+        "id_str": "1412513247379349511",
+        "name": "nattwiit",
+        "screen_name": "nattwiit",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 15549,
+        "friends_count": 133,
+        "listed_count": 17,
+        "created_at": "Tue Jul 06 20:46:36 +0000 2021",
+        "favourites_count": 20691,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 293,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1528556019093491712/kB318uTo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1528556019093491712/kB318uTo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1412513247379349511/1646047188",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 26,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 31 02:52:36 +0000 2022",
+    "id": 1586914001996288000,
+    "id_str": "1586914001996288000",
+    "text": "全世界的書店都不容易。\n\n題外話，之前到北藝中心看劇場，也逛了一下青鳥那展場，雖說以企劃行銷接標案、替許多想沾點書籍殘存價值的場域鍍點金，也是人家的本事，但老是拿「獨立書店」當看板，實在有點反胃。\n\n日本書店如何掙扎求存？… https://t.co/uD4AkcTvQm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uD4AkcTvQm",
+          "expanded_url": "https://twitter.com/i/web/status/1586914001996288000",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 31 02:37:14 +0000 2022",
+    "id": 1586910136395657216,
+    "id_str": "1586910136395657216",
+    "text": "@dr_hannahc 是啦，只是當個段子發，何況接下來 Twitter 若真的裁掉 50% 員工，必然會有真實案例⋯⋯😎",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dr_hannahc",
+          "name": "Dr. Hannah Hana 🍒🌟",
+          "id": 30319855,
+          "id_str": "30319855",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1586904681913073665,
+    "in_reply_to_status_id_str": "1586904681913073665",
+    "in_reply_to_user_id": 30319855,
+    "in_reply_to_user_id_str": "30319855",
+    "in_reply_to_screen_name": "dr_hannahc",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 31 02:33:39 +0000 2022",
+    "id": 1586909233412308992,
+    "id_str": "1586909233412308992",
+    "text": "其實比較期待 Not Big Issue 小誌 / 獨立刊物市集重生，但這也可以草率地逛逛。\n\n11月4日～11月6日\n\n最酷的藝術書展：破紀錄集結400個獨立出版單位，「草率季」亮點攤位公開… https://t.co/1dnEDy6QFU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1dnEDy6QFU",
+          "expanded_url": "https://twitter.com/i/web/status/1586909233412308992",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 31 02:25:04 +0000 2022",
+    "id": 1586907075350695936,
+    "id_str": "1586907075350695936",
+    "text": "想看看這本《類型世界：流行小說與21世紀書籍文化》（Genre Worlds: Popular Fiction and Twenty-First-Century Book Culture），卻發現它是當下英文書極為稀少、沒有發行電… https://t.co/2sur469nlN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2sur469nlN",
+          "expanded_url": "https://twitter.com/i/web/status/1586907075350695936",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1586906302344675329,
+    "in_reply_to_status_id_str": "1586906302344675329",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 31 02:22:00 +0000 2022",
+    "id": 1586906302344675329,
+    "id_str": "1586906302344675329",
+    "text": "「言情小說處在數位創新的前端。」\n\n非常真實的描述。原因實際上是綜合性的，從作者端到讀者端，幾乎都是原生嵌在數位與網路世界，在這波電子書尚未成形之際，甚至連隨身設備都未普及，羅曼史連載與閱讀就已在水面下波濤洶湧。\n\n言情小說改寫出… https://t.co/Q1QHUXIFK0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Q1QHUXIFK0",
+          "expanded_url": "https://twitter.com/i/web/status/1586906302344675329",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Oct 31 02:03:45 +0000 2022",
+    "id": 1586901708977774592,
+    "id_str": "1586901708977774592",
+    "text": "Elon Musk 對 Twitter 的第一個具體計畫：\n\n每月針對驗證標章（俗稱的「藍勾勾」）收取 $20 美金的費用，工程師必須在 11/7 前完成此一功能，否則開除。\n\n上線後，現有的藍勾勾將保留 90 天，之後若未付費，… https://t.co/cimEP6qmH2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cimEP6qmH2",
+          "expanded_url": "https://twitter.com/i/web/status/1586901708977774592",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1586204467543695366,
+    "in_reply_to_status_id_str": "1586204467543695366",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1586883942870749185,
+    "quoted_status_id_str": "1586883942870749185",
+    "quoted_status": {
+      "created_at": "Mon Oct 31 00:53:09 +0000 2022",
+      "id": 1586883942870749185,
+      "id_str": "1586883942870749185",
+      "text": "NEW: Twitter is planning to start charging $20 a month for verification. It’s Elon Musk’s first big project.\n\nOh, a… https://t.co/ewlHHpGXOs",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ewlHHpGXOs",
+            "expanded_url": "https://twitter.com/i/web/status/1586883942870749185",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14752818,
+        "id_str": "14752818",
+        "name": "Alex Heath",
+        "screen_name": "alexeheath",
+        "location": "Los Angeles",
+        "description": "editor @verge",
+        "url": "https://t.co/hetFYKEhJQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/hetFYKEhJQ",
+                "expanded_url": "https://linktr.ee/alexheath",
+                "display_url": "linktr.ee/alexheath",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 36994,
+        "friends_count": 2996,
+        "listed_count": 1188,
+        "created_at": "Tue May 13 01:31:28 +0000 2008",
+        "favourites_count": 9750,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 43051,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "D0D6DA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1572509420604608512/2VSuaxbh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1572509420604608512/2VSuaxbh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14752818/1556755440",
+        "profile_link_color": "FAB81E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6002,
+      "favorite_count": 18403,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 31,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Oct 30 10:34:31 +0000 2022",
     "id": 1586667861581307904,
     "id_str": "1586667861581307904",
