@@ -1,5 +1,704 @@
 Grailbird.data.tweets_2022_11 = [
   {
+    "created_at": "Sat Nov 05 02:05:59 +0000 2022",
+    "id": 1588714211475324929,
+    "id_str": "1588714211475324929",
+    "text": "這部剛上 #Netflix 的迷你影集（4集）非常好看，也不是說毫無缺點，但監獄神探的設定、糾纏交錯的故事線、碎碎念到有些煩人的小人物們頗具喜感的情境演出，像一部毫無冷場的長電影，一口氣就看完了。\n\nBBC 出品真的是品質保證，好… https://t.co/ShpeQtDs9B",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            5,
+            13
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ShpeQtDs9B",
+          "expanded_url": "https://twitter.com/i/web/status/1588714211475324929",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 04 23:51:21 +0000 2022",
+    "id": 1588680327777902592,
+    "id_str": "1588680327777902592",
+    "text": "可以去看展、順便買回來，到 11/14 （週二、三、四公休）。\n\nMangasick 獲日本青林工藝舍相助，獨立出版了24位作者、橫跨1960至2010、另類生態系當中的24個漫畫亞種，非常精彩，應該是必收。\n\n搜羅日本地下文化中… https://t.co/eIBkbMPFQV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eIBkbMPFQV",
+          "expanded_url": "https://twitter.com/i/web/status/1588680327777902592",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 04 23:41:20 +0000 2022",
+    "id": 1588677808628568064,
+    "id_str": "1588677808628568064",
+    "text": "「我認同你的主張，但我厭惡你的做法」。\n\n做。\n\nhttps://t.co/14c2hFViC4 https://t.co/MvXnFF1TTV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/14c2hFViC4",
+          "expanded_url": "https://bit.ly/3E2BZTf",
+          "display_url": "bit.ly/3E2BZTf",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1588677798121508864,
+          "id_str": "1588677798121508864",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FgweCkuVEAAJpgT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FgweCkuVEAAJpgT.jpg",
+          "url": "https://t.co/MvXnFF1TTV",
+          "display_url": "pic.twitter.com/MvXnFF1TTV",
+          "expanded_url": "https://twitter.com/wastemobile/status/1588677808628568064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 592,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1044,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1783,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1588677798121508864,
+          "id_str": "1588677798121508864",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FgweCkuVEAAJpgT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FgweCkuVEAAJpgT.jpg",
+          "url": "https://t.co/MvXnFF1TTV",
+          "display_url": "pic.twitter.com/MvXnFF1TTV",
+          "expanded_url": "https://twitter.com/wastemobile/status/1588677808628568064/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 592,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1044,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1783,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 04 15:31:21 +0000 2022",
+    "id": 1588554501715529730,
+    "id_str": "1588554501715529730",
+    "text": "Z-Library 沒有消失，它潛入暗網了。\n\n如果你知道 Tor 的話，維基百科就有網址。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1588383230691930113,
+    "in_reply_to_status_id_str": "1588383230691930113",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 04 04:10:47 +0000 2022",
+    "id": 1588383230691930113,
+    "id_str": "1588383230691930113",
+    "text": "嗯嗯，不解釋。 https://t.co/0VuZjwhf9Y",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0VuZjwhf9Y",
+          "expanded_url": "https://twitter.com/goodereader/status/1588382496106086402",
+          "display_url": "twitter.com/goodereader/st…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1588382496106086402,
+    "quoted_status_id_str": "1588382496106086402",
+    "quoted_status": {
+      "created_at": "Fri Nov 04 04:07:52 +0000 2022",
+      "id": 1588382496106086402,
+      "id_str": "1588382496106086402",
+      "text": "Z-Library domains are seized and pirate book site is dead https://t.co/0xNpg9TSvV via @goodereadermike",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Goodereadermike",
+            "name": "Michael Kozlowski",
+            "id": 51816250,
+            "id_str": "51816250",
+            "indices": [
+              86,
+              102
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0xNpg9TSvV",
+            "expanded_url": "https://goodereader.com/blog/e-book-news/z-library-domains-are-seized-and-pirate-book-site-is-dead",
+            "display_url": "goodereader.com/blog/e-book-ne…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 93138546,
+        "id_str": "93138546",
+        "name": "Good e-Reader",
+        "screen_name": "Goodereader",
+        "location": "Vancouver, British Columbia",
+        "description": "Good e-Reader is the leading news agency devoted to Audiobooks, E-Readers, Digital Publishing and eBooks.",
+        "url": "https://t.co/R1U3UpAAQj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/R1U3UpAAQj",
+                "expanded_url": "https://goodereader.com",
+                "display_url": "goodereader.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 11404,
+        "friends_count": 16,
+        "listed_count": 461,
+        "created_at": "Sat Nov 28 07:19:02 +0000 2009",
+        "favourites_count": 2162,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23178,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1800365268/Avatar_Logo_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1800365268/Avatar_Logo_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/93138546/1640335415",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 04 00:39:03 +0000 2022",
+    "id": 1588329943858958336,
+    "id_str": "1588329943858958336",
+    "text": "「超級應用程式」（X, super app, everything app...）是 Twitter 最糟糕的一種想像與目標。\n\nhttps://t.co/vuDxahvbJA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vuDxahvbJA",
+          "expanded_url": "https://cnb.cx/3UlSTS6",
+          "display_url": "cnb.cx/3UlSTS6",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 03 14:01:26 +0000 2022",
+    "id": 1588169482601607169,
+    "id_str": "1588169482601607169",
+    "text": "RT @OOBE: \"原來冨樫也看高達──《獵人》念能力名稱暗藏的文本，你知道幾部？（上） ｜ BIOS monthly\" ( https://t.co/OxaByZUOwp )",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OOBE",
+          "name": "OOBE",
+          "id": 4496321,
+          "id_str": "4496321",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OxaByZUOwp",
+          "expanded_url": "https://www.biosmonthly.com/article/11144",
+          "display_url": "biosmonthly.com/article/11144",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Nov 03 13:58:27 +0000 2022",
+      "id": 1588168732001583104,
+      "id_str": "1588168732001583104",
+      "text": "\"原來冨樫也看高達──《獵人》念能力名稱暗藏的文本，你知道幾部？（上） ｜ BIOS monthly\" ( https://t.co/OxaByZUOwp )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OxaByZUOwp",
+            "expanded_url": "https://www.biosmonthly.com/article/11144",
+            "display_url": "biosmonthly.com/article/11144",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitthat.com/\" rel=\"nofollow\">twitthat</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4496321,
+        "id_str": "4496321",
+        "name": "OOBE",
+        "screen_name": "OOBE",
+        "location": "Taiwan",
+        "description": "🔰 A sorcerer's apprentice. 歡迎訂閱「小星星通訊」:https://t.co/KIjgzAOnvE",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/KIjgzAOnvE",
+                "expanded_url": "http://news.oobe.tw",
+                "display_url": "news.oobe.tw",
+                "indices": [
+                  39,
+                  62
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 14557,
+        "friends_count": 2298,
+        "listed_count": 172,
+        "created_at": "Fri Apr 13 13:16:07 +0000 2007",
+        "favourites_count": 93014,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 111959,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "798058",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1503282956210946050/brFs6FIw_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1503282956210946050/brFs6FIw_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4496321/1506265793",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "AA4D73",
+        "profile_text_color": "F87364",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Nov 03 01:10:22 +0000 2022",
     "id": 1587975438239862784,
     "id_str": "1587975438239862784",
