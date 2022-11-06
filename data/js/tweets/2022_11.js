@@ -1,5 +1,618 @@
 Grailbird.data.tweets_2022_11 = [
   {
+    "created_at": "Sun Nov 06 01:18:08 +0000 2022",
+    "id": 1589064556458168321,
+    "id_str": "1589064556458168321",
+    "text": "Ado 的野貓聲線唱椎名林檎〈罪と罰〉確實合適，但坐在半輛汽車裡的椎名林檎，那性感無人能敵，無。\n\n日流最狂合作 Ado x 椎名林檎，雙世代現象級歌姬打造驚悚電影主題曲〈行方知れず〉 https://t.co/C0Z4zrHnyE https://t.co/ojf8z1mOda",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/C0Z4zrHnyE",
+          "expanded_url": "https://bit.ly/3t55ZaR",
+          "display_url": "bit.ly/3t55ZaR",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1589064549092638720,
+          "id_str": "1589064549092638720",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fg19ycXVQAAImr_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fg19ycXVQAAImr_.jpg",
+          "url": "https://t.co/ojf8z1mOda",
+          "display_url": "pic.twitter.com/ojf8z1mOda",
+          "expanded_url": "https://twitter.com/wastemobile/status/1589064556458168321/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 594,
+              "h": 594,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 594,
+              "h": 594,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 594,
+              "h": 594,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1589064549092638720,
+          "id_str": "1589064549092638720",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fg19ycXVQAAImr_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fg19ycXVQAAImr_.jpg",
+          "url": "https://t.co/ojf8z1mOda",
+          "display_url": "pic.twitter.com/ojf8z1mOda",
+          "expanded_url": "https://twitter.com/wastemobile/status/1589064556458168321/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 594,
+              "h": 594,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 594,
+              "h": 594,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 594,
+              "h": 594,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Nov 06 00:54:52 +0000 2022",
+    "id": 1589058700467408897,
+    "id_str": "1589058700467408897",
+    "text": "蓋・福克斯面具源自1605年11月失敗的火藥陰謀（Gunpowder Plot）中最著名的主事者：這群人企圖炸毀上議院，刺殺國王詹姆斯一世，目的是在英格蘭恢復天主教君主制；事跡敗露後，福克斯被以叛國罪判處死刑。\n\nCool.\n\n一… https://t.co/eAO7nz8tJe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eAO7nz8tJe",
+          "expanded_url": "https://twitter.com/i/web/status/1589058700467408897",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 05 15:37:59 +0000 2022",
+    "id": 1588918555743236096,
+    "id_str": "1588918555743236096",
+    "text": "RT @jack: Folks at Twitter past and present are strong and resilient. They will always find a way no matter how difficult the moment. I rea…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "jack",
+          "name": "jack",
+          "id": 12,
+          "id_str": "12",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 05 15:17:00 +0000 2022",
+      "id": 1588913276980633600,
+      "id_str": "1588913276980633600",
+      "text": "Folks at Twitter past and present are strong and resilient. They will always find a way no matter how difficult the… https://t.co/L6v6jlL2Kd",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/L6v6jlL2Kd",
+            "expanded_url": "https://twitter.com/i/web/status/1588913276980633600",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12,
+        "id_str": "12",
+        "name": "jack",
+        "screen_name": "jack",
+        "location": "",
+        "description": "#bitcoin",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6455606,
+        "friends_count": 4589,
+        "listed_count": 32983,
+        "created_at": "Tue Mar 21 20:50:14 +0000 2006",
+        "favourites_count": 35278,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 28653,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/12/1584998840",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11362,
+      "favorite_count": 90144,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11362,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Nov 05 05:16:44 +0000 2022",
+    "id": 1588762216022835200,
+    "id_str": "1588762216022835200",
+    "text": "Digital Nomad History #note https://t.co/uTywELrGIT https://t.co/vCdFjwpYkL",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            22,
+            27
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uTywELrGIT",
+          "expanded_url": "https://bit.ly/3DGFdKE",
+          "display_url": "bit.ly/3DGFdKE",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1588762209445765120,
+          "id_str": "1588762209445765120",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fgxqz9aUYAAvH-Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fgxqz9aUYAAvH-Y.jpg",
+          "url": "https://t.co/vCdFjwpYkL",
+          "display_url": "pic.twitter.com/vCdFjwpYkL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1588762216022835200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 294,
+              "h": 450,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 294,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 294,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1588762209445765120,
+          "id_str": "1588762209445765120",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fgxqz9aUYAAvH-Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fgxqz9aUYAAvH-Y.jpg",
+          "url": "https://t.co/vCdFjwpYkL",
+          "display_url": "pic.twitter.com/vCdFjwpYkL",
+          "expanded_url": "https://twitter.com/wastemobile/status/1588762216022835200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 294,
+              "h": 450,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 294,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 294,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1587251884305293312,
+    "in_reply_to_status_id_str": "1587251884305293312",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "tl"
+  },
+  {
+    "created_at": "Sat Nov 05 02:55:42 +0000 2022",
+    "id": 1588726723717521408,
+    "id_str": "1588726723717521408",
+    "text": "喜歡。\n\nThis Dieter Rams-Inspired Turntable Is Spearheading The Transparent Design Trend! https://t.co/iqopYPRPFs https://t.co/GlSLhutUgl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iqopYPRPFs",
+          "expanded_url": "https://bit.ly/3fvsvGR",
+          "display_url": "bit.ly/3fvsvGR",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1588726715655692290,
+          "id_str": "1588726715655692290",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/FgxKh8vUoAIRnXx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FgxKh8vUoAIRnXx.jpg",
+          "url": "https://t.co/GlSLhutUgl",
+          "display_url": "pic.twitter.com/GlSLhutUgl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1588726723717521408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1050,
+              "h": 700,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1050,
+              "h": 700,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1588726715655692290,
+          "id_str": "1588726715655692290",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/FgxKh8vUoAIRnXx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FgxKh8vUoAIRnXx.jpg",
+          "url": "https://t.co/GlSLhutUgl",
+          "display_url": "pic.twitter.com/GlSLhutUgl",
+          "expanded_url": "https://twitter.com/wastemobile/status/1588726723717521408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1050,
+              "h": 700,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1050,
+              "h": 700,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Nov 05 02:05:59 +0000 2022",
     "id": 1588714211475324929,
     "id_str": "1588714211475324929",
