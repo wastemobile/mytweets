@@ -1,5 +1,795 @@
 Grailbird.data.tweets_2022_11 = [
   {
+    "created_at": "Sat Nov 12 01:27:02 +0000 2022",
+    "id": 1591241125792473088,
+    "id_str": "1591241125792473088",
+    "text": "這波推特騷亂很奇怪的是，沒看到什麼新的推文持續備份方案，都破釜沈舟？",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 12 00:50:02 +0000 2022",
+    "id": 1591231813921693696,
+    "id_str": "1591231813921693696",
+    "text": "HarperCollins 的工會員工正在進行無限期罷工，談判要求包含將最低起薪由 45,000 美金提高到 5 萬。\n\n疫情過後的業績持續下滑，HarperCollins 最近一季的收入比去年同期下降了 11%。… https://t.co/0HgWPInCDW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0HgWPInCDW",
+          "expanded_url": "https://twitter.com/i/web/status/1591231813921693696",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 12 00:39:29 +0000 2022",
+    "id": 1591229157526372353,
+    "id_str": "1591229157526372353",
+    "text": "Audio-Technica 鐵三角竟然復刻了1980年發布的可攜式黑膠唱盤機「Sound Burger」！\n\n以無線功能重新問世，可以用藍牙音箱；USB-C 充電後能連續播放 12 小時。… https://t.co/g1hrJIIIJ4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g1hrJIIIJ4",
+          "expanded_url": "https://twitter.com/i/web/status/1591229157526372353",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 12 00:20:20 +0000 2022",
+    "id": 1591224337134411776,
+    "id_str": "1591224337134411776",
+    "text": "根據「https://t.co/rZPwozzZBl」於2022年發表的最新數據，前三名分別是澳門、澤西島、冰島，台灣是第七名。網速前十名的國家中，只有三個地方人口數超過了100萬——台灣、日本和法國。\n\n想起來要換牆裡的室內線⋯… https://t.co/Y6ZI3JTujI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rZPwozzZBl",
+          "expanded_url": "http://Cable.co.uk",
+          "display_url": "Cable.co.uk",
+          "indices": [
+            3,
+            26
+          ]
+        },
+        {
+          "url": "https://t.co/Y6ZI3JTujI",
+          "expanded_url": "https://twitter.com/i/web/status/1591224337134411776",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 12 00:13:04 +0000 2022",
+    "id": 1591222510716354561,
+    "id_str": "1591222510716354561",
+    "text": "繼台灣跨鏈項目 XY Finance揭露約有價值 200 萬美元代幣放在 FTX 未能取出，台灣 Steaker 公告暫停了許多方案，停止計息、也無法贖回。\n\n「本次 FTX 黑天鵝事件屬無法預期的系統性風險⋯⋯」，當真是一場遊戲… https://t.co/auLw7GC617",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/auLw7GC617",
+          "expanded_url": "https://twitter.com/i/web/status/1591222510716354561",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 11 09:18:53 +0000 2022",
+    "id": 1590997481869168642,
+    "id_str": "1590997481869168642",
+    "text": "出版社老闆 Roger Lathbury 在沙林傑逝世三個月後，寫了一篇〈背叛沙林傑〉的文章，講述了這段故事。\n\n原來打算在 1997/1/1 出版（沙林傑的生日），無限期延後；前面所提角谷美智子《紐約時報》的惡評，刊出於 2/2… https://t.co/3OAuogszyR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3OAuogszyR",
+          "expanded_url": "https://twitter.com/i/web/status/1590997481869168642",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1590995444611833857,
+    "in_reply_to_status_id_str": "1590995444611833857",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 11 09:10:47 +0000 2022",
+    "id": 1590995444611833857,
+    "id_str": "1590995444611833857",
+    "text": "出版社申請了編目，西雅圖一位作家在研究 Jeff Bezos 某篇文章時，意外發現了《Hapworth 16, 1924》的預出版日期、他妹妹又剛好是《舊金山商業時報》記者，寫了一篇文章，媒體接續大肆報導。\n\n然後⋯⋯即將發行前，… https://t.co/kQ4eAclZUV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kQ4eAclZUV",
+          "expanded_url": "https://twitter.com/i/web/status/1590995444611833857",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1590992884387696640,
+    "in_reply_to_status_id_str": "1590992884387696640",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 11 09:00:37 +0000 2022",
+    "id": 1590992884387696640,
+    "id_str": "1590992884387696640",
+    "text": "女主角任職的 1996 年，維吉尼亞州某不知名的一人出版社提議將〈Hapworth 16, 1924〉獨立出書，沒想到早就不再出書的沙林傑居然答應了，還與出版社老闆見面。&lt;- 電影有演到這裡。\n\n但是⋯⋯\n\nhttps://t.co/xgZYJwbkQG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xgZYJwbkQG",
+          "expanded_url": "https://bit.ly/3NVVVuc",
+          "display_url": "bit.ly/3NVVVuc",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1590990278433075200,
+    "in_reply_to_status_id_str": "1590990278433075200",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 11 08:50:16 +0000 2022",
+    "id": 1590990278433075200,
+    "id_str": "1590990278433075200",
+    "text": "片中有個很有趣但不完整的出版故事。\n\n〈Hapworth 16, 1924〉是沙林傑生涯發表的最後作品，在《紐約客》大篇幅刊出後惡評如潮。角谷美智子在《紐約時報》稱該小說「酸臭、難以置信，毫無吸引力……充滿離題、自戀的旁白，廢話多… https://t.co/T1cN6uFgkE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T1cN6uFgkE",
+          "expanded_url": "https://twitter.com/i/web/status/1590990278433075200",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1590988701341224962,
+    "in_reply_to_status_id_str": "1590988701341224962",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 11 08:44:00 +0000 2022",
+    "id": 1590988701341224962,
+    "id_str": "1590988701341224962",
+    "text": "前兩天看了《紐約追夢日記》。\n\n原名《My Salinger Year》，根據 Joanna Rakoff 同名自傳體小說改編，是作者 23 歲時在紐約老牌文學經紀公司 Harold Ober 的親身經歷。正如書名所示，麥田捕手沙… https://t.co/SnNxV2dOrR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SnNxV2dOrR",
+          "expanded_url": "https://twitter.com/i/web/status/1590988701341224962",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 11 01:48:03 +0000 2022",
+    "id": 1590884025614630913,
+    "id_str": "1590884025614630913",
+    "text": "自 2007/11/19 首代 Kindle 推出，滿 15 年了。\n\n它並非技術創新的產品，甚至是種刻意降階的專屬硬體，但形塑了新一代數位閱讀。今日電子書約佔美國書籍市場 21%，Kindle 約有 68% 佔比。\n\n很可惜其實… https://t.co/HZpo9IC04S",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HZpo9IC04S",
+          "expanded_url": "https://twitter.com/i/web/status/1590884025614630913",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Nov 11 01:15:10 +0000 2022",
+    "id": 1590875749468499968,
+    "id_str": "1590875749468499968",
+    "text": "Orange 搶先推出 Pi 5，8 核處理器（4 大 4 小），記憶體 4/8/16/32GB，還支援 WiFi 6 與 Bluetooth 5.0，規格看起來不錯。 #note\n\nhttps://t.co/laAtZpek58 https://t.co/k2PmbXYFlW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            85,
+            90
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/laAtZpek58",
+          "expanded_url": "https://bit.ly/3hvU2s7",
+          "display_url": "bit.ly/3hvU2s7",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1590875742182641664,
+          "id_str": "1590875742182641664",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/FhPtDwaVEAAOOD4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FhPtDwaVEAAOOD4.jpg",
+          "url": "https://t.co/k2PmbXYFlW",
+          "display_url": "pic.twitter.com/k2PmbXYFlW",
+          "expanded_url": "https://twitter.com/wastemobile/status/1590875749468499968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 645,
+              "h": 399,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 645,
+              "h": 399,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 645,
+              "h": 399,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1590875742182641664,
+          "id_str": "1590875742182641664",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/FhPtDwaVEAAOOD4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FhPtDwaVEAAOOD4.jpg",
+          "url": "https://t.co/k2PmbXYFlW",
+          "display_url": "pic.twitter.com/k2PmbXYFlW",
+          "expanded_url": "https://twitter.com/wastemobile/status/1590875749468499968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 645,
+              "h": 399,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 645,
+              "h": 399,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 645,
+              "h": 399,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Nov 10 13:10:57 +0000 2022",
+    "id": 1590693494489681920,
+    "id_str": "1590693494489681920",
+    "text": "所以藍勾勾就是認證你有付錢。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Nov 10 01:33:08 +0000 2022",
     "id": 1590517882597052417,
     "id_str": "1590517882597052417",
