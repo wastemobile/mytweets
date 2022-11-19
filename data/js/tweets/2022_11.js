@@ -1,5 +1,170 @@
 Grailbird.data.tweets_2022_11 = [
   {
+    "created_at": "Sat Nov 19 04:07:30 +0000 2022",
+    "id": 1593818220435496961,
+    "id_str": "1593818220435496961",
+    "text": "@prvdkn 這小程式已經不相容新版備份檔了，殘念。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "prvdkn",
+          "name": "ℑ𝔳𝔞𝔫 𝔄𝔫𝔱𝔬𝔫𝔬𝔳",
+          "id": 1075751600570937346,
+          "id_str": "1075751600570937346",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1593817873411362816,
+    "in_reply_to_status_id_str": "1593817873411362816",
+    "in_reply_to_user_id": 1075751600570937346,
+    "in_reply_to_user_id_str": "1075751600570937346",
+    "in_reply_to_screen_name": "prvdkn",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 19 04:06:24 +0000 2022",
+    "id": 1593817946966568960,
+    "id_str": "1593817946966568960",
+    "text": "@purebox 讚喔～感謝推薦！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "purebox",
+          "name": "盒",
+          "id": 10144682,
+          "id_str": "10144682",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1593817689675292673,
+    "in_reply_to_status_id_str": "1593817689675292673",
+    "in_reply_to_user_id": 10144682,
+    "in_reply_to_user_id_str": "10144682",
+    "in_reply_to_screen_name": "purebox",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 19 03:56:32 +0000 2022",
+    "id": 1593815460340195328,
+    "id_str": "1593815460340195328",
+    "text": "邏輯上是先下載一次推特提供的全備份，之後用個小程式持續叫 API 將後續推文加上去。\n\nRuby 套件 grailbird_updater 九年前停更，七年前我用它把所有（公開）推文都擺在 github，隨時都覺得它會掛，但每天用… https://t.co/XPGQDPNWBQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XPGQDPNWBQ",
+          "expanded_url": "https://twitter.com/i/web/status/1593815460340195328",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1591241125792473088,
+    "in_reply_to_status_id_str": "1591241125792473088",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Nov 18 23:45:21 +0000 2022",
     "id": 1593752247782887424,
     "id_str": "1593752247782887424",
