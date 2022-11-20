@@ -1,5 +1,326 @@
 Grailbird.data.tweets_2022_11 = [
   {
+    "created_at": "Sun Nov 20 03:00:49 +0000 2022",
+    "id": 1594163828576911363,
+    "id_str": "1594163828576911363",
+    "text": "這種實體隔離網閘（air-gapped）的錢包用法，應該與曾研究過的 Keystone 硬體冷錢包接近。\n\n後來發現這家廠商註冊於中國香港，就果斷放棄了。 https://t.co/Jjs1ECLSal",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Jjs1ECLSal",
+          "expanded_url": "https://twitter.com/wastemobile/status/1532872550564257792",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1594117152704851969,
+    "in_reply_to_status_id_str": "1594117152704851969",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1532872550564257792,
+    "quoted_status_id_str": "1532872550564257792",
+    "quoted_status": {
+      "created_at": "Fri Jun 03 23:51:10 +0000 2022",
+      "id": 1532872550564257792,
+      "id_str": "1532872550564257792",
+      "text": "Keystone 硬體冷錢包好像是最安全的，機器本體有相機、螢幕、指紋掃瞄，實體隔離、無法連接網路（韌體需用 microSD 插入更新），與手機端熱錢包用 QR code 互相拍來拍去。\n\n沒拿出這顆私人銀行確認交易，什麼都不算數… https://t.co/NVyUTxJltU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NVyUTxJltU",
+            "expanded_url": "https://twitter.com/i/web/status/1532872550564257792",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1532864473022705664,
+      "in_reply_to_status_id_str": "1532864473022705664",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "Cyberpunk wasteland",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5948,
+        "friends_count": 1234,
+        "listed_count": 137,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3716,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25768,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1573835714",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 20 00:38:30 +0000 2022",
+    "id": 1594128012869480449,
+    "id_str": "1594128012869480449",
+    "text": "若真想用私人網域、架設一個人或小團體使用的類 Twitter 微型部落格，mastodon 實在太重、太耗資源了，建議裝 Misskey 即可；docker compose 三分鐘在 1GB 小主機也能跑起來。\n\n聯邦宇宙自由互通… https://t.co/tMIgr9QmEi",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tMIgr9QmEi",
+          "expanded_url": "https://twitter.com/i/web/status/1594128012869480449",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1593051665342820353,
+    "in_reply_to_status_id_str": "1593051665342820353",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Nov 20 00:13:14 +0000 2022",
+    "id": 1594121653578960898,
+    "id_str": "1594121653578960898",
+    "text": "Square Off PRO 是一款可以捲起來攜帶的數位西洋棋盤。\n\nSwap 則是會自行移動棋子棋盤的最新款，科技感更重了。\n\nThis Bluetooth Chessboard Rekindled My Love of Che… https://t.co/TCFcwO2vhR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TCFcwO2vhR",
+          "expanded_url": "https://twitter.com/i/web/status/1594121653578960898",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1383036545238585352,
+    "in_reply_to_status_id_str": "1383036545238585352",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Nov 19 23:55:21 +0000 2022",
+    "id": 1594117152704851969,
+    "id_str": "1594117152704851969",
+    "text": "在一台舊手機上使用 imToken 設置冷錢包這部分教學還蠻有趣的，下載安裝好後關閉該手機的網路、藍牙等所有連線，離線簽名，使用另一台正常手機的熱錢包掃 QRcode 來獲取轉帳交易確認。\n\n加密貨幣用戶必修課：測評八款實用型錢包… https://t.co/urzFzxo5xN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/urzFzxo5xN",
+          "expanded_url": "https://twitter.com/i/web/status/1594117152704851969",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Nov 19 04:07:30 +0000 2022",
     "id": 1593818220435496961,
     "id_str": "1593818220435496961",
