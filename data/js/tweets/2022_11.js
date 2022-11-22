@@ -1,5 +1,392 @@
 Grailbird.data.tweets_2022_11 = [
   {
+    "created_at": "Tue Nov 22 01:14:42 +0000 2022",
+    "id": 1594861899975368704,
+    "id_str": "1594861899975368704",
+    "text": "RT @yftzeng: 人月神話作者 Frederick Brooks 於 11/17 逝世，謝謝他的作品，對我影響至深。\n\n前幾日，我們也失去了良葛格。\n\n年紀愈長，經歷愈多，然後驚覺，那些曾經陪著我們度過的人，漸漸都成為了心中的回憶。或許總有那麼一天，我們悼念的，會超過我…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yftzeng",
+          "name": "Ant",
+          "id": 14842888,
+          "id_str": "14842888",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Nov 21 13:25:48 +0000 2022",
+      "id": 1594683497079529474,
+      "id_str": "1594683497079529474",
+      "text": "人月神話作者 Frederick Brooks 於 11/17 逝世，謝謝他的作品，對我影響至深。\n\n前幾日，我們也失去了良葛格。\n\n年紀愈長，經歷愈多，然後驚覺，那些曾經陪著我們度過的人，漸漸都成為了心中的回憶。或許總有那麼一天… https://t.co/hiahyQyhUc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hiahyQyhUc",
+            "expanded_url": "https://twitter.com/i/web/status/1594683497079529474",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14842888,
+        "id_str": "14842888",
+        "name": "Ant",
+        "screen_name": "yftzeng",
+        "location": "",
+        "description": "左手編程右手賦，亦是浪漫亦是癡。\n~ 貼文多是提醒自己丶反省自己 ~\n~ 我的轉文 ≠ 我同意它 ~",
+        "url": "https://t.co/WabTLUx73R",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/WabTLUx73R",
+                "expanded_url": "http://blog.gcos.me",
+                "display_url": "blog.gcos.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3552,
+        "friends_count": 12,
+        "listed_count": 43,
+        "created_at": "Tue May 20 06:41:44 +0000 2008",
+        "favourites_count": 64,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 135,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1276394688547700736/4bB27kD3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276394688547700736/4bB27kD3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14842888/1425498025",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 24,
+      "favorite_count": 76,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Nov 22 01:11:37 +0000 2022",
+    "id": 1594861122020057090,
+    "id_str": "1594861122020057090",
+    "text": "日本創作平台 pixiv 及其轄下平台禁止了特定內容的「約稿」（リクエスト，消費者付錢，要求畫師繪畫特定內容），因為 Master 信用卡支付系統的要求。\n\nDMM 7月已經全面停止支援 Master。\n\n在流量等同於生命值的網路… https://t.co/2VB57x5ff1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2VB57x5ff1",
+          "expanded_url": "https://twitter.com/i/web/status/1594861122020057090",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Tue Nov 22 00:46:35 +0000 2022",
+    "id": 1594854823891197953,
+    "id_str": "1594854823891197953",
+    "text": "日本二手書店 Value Books 線上與實體通路擁有160 萬庫存舊書，每天約收進兩萬冊，其中一萬本因各種原因沒有市場價值，只能銷毀。\n\n努力很久終於找到能以較小批量回收製造再生紙的廠商，製成「曾經是書的筆記本」販售。\n\n「曾… https://t.co/5kndKkUZ8j",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5kndKkUZ8j",
+          "expanded_url": "https://twitter.com/i/web/status/1594854823891197953",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 38,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Nov 22 00:32:24 +0000 2022",
+    "id": 1594851255213785089,
+    "id_str": "1594851255213785089",
+    "text": "在 10/31 法官裁定停止之後，即使企鵝藍燈書屋打算上訴，但 Simon &amp; Schuster 目前的母公司派拉蒙並不打算延長 11/22 的交易截止日，幾乎確定此樁交易告終。\n\nS&amp;S 最近書籍銷售創新高，派拉蒙能從企鵝藍燈收… https://t.co/MxOD97P7It",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MxOD97P7It",
+          "expanded_url": "https://twitter.com/i/web/status/1594851255213785089",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            125,
+            148
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1456429902639468545,
+    "in_reply_to_status_id_str": "1456429902639468545",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Nov 22 00:14:05 +0000 2022",
+    "id": 1594846643039395841,
+    "id_str": "1594846643039395841",
+    "text": "去年亞馬遜廣告業務增長 58%，收入超過 310 億美元，成為僅次於 Google 和 Facebook 的美國第 3 大網上廣告銷售商。今年首 3 季的廣告收入，已超過該公司從 Prime、Prime Video 以及電子書和有… https://t.co/nVOm4lse6J",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nVOm4lse6J",
+          "expanded_url": "https://twitter.com/i/web/status/1594846643039395841",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Nov 21 09:01:28 +0000 2022",
     "id": 1594616976906674176,
     "id_str": "1594616976906674176",
