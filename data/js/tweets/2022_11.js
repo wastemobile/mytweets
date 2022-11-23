@@ -1,5 +1,254 @@
 Grailbird.data.tweets_2022_11 = [
   {
+    "created_at": "Tue Nov 22 23:29:49 +0000 2022",
+    "id": 1595197892641181696,
+    "id_str": "1595197892641181696",
+    "text": "Tumblr 正在火速添加對 ActivityPub 的支援，很快就能與 Mastondon 聯邦宇宙網路互連。\n\n即使 WordPress 安裝外掛後也能做到，但 Automattic 這一手牌算是玩得十分傑出。… https://t.co/oFrn6s5VDV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oFrn6s5VDV",
+          "expanded_url": "https://twitter.com/i/web/status/1595197892641181696",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1587605921244467200,
+    "in_reply_to_status_id_str": "1587605921244467200",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Nov 22 03:21:51 +0000 2022",
+    "id": 1594893896034967552,
+    "id_str": "1594893896034967552",
+    "text": "RT @hirakujira: @wastemobile 看到朋友說要買這個…\n\nhttps://t.co/7SZqOw19T4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hirakujira",
+          "name": "Hiraku 吉拉",
+          "id": 25838548,
+          "id_str": "25838548",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "wastemobile",
+          "name": "wastemobile",
+          "id": 20709129,
+          "id_str": "20709129",
+          "indices": [
+            16,
+            28
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7SZqOw19T4",
+          "expanded_url": "https://gridplus.io/products/grid-lattice1",
+          "display_url": "gridplus.io/products/grid-…",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Nov 20 05:25:44 +0000 2022",
+      "id": 1594200298280538113,
+      "id_str": "1594200298280538113",
+      "text": "@wastemobile 看到朋友說要買這個…\n\nhttps://t.co/7SZqOw19T4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7SZqOw19T4",
+            "expanded_url": "https://gridplus.io/products/grid-lattice1",
+            "display_url": "gridplus.io/products/grid-…",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 1594163828576911363,
+      "in_reply_to_status_id_str": "1594163828576911363",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 25838548,
+        "id_str": "25838548",
+        "name": "Hiraku 吉拉",
+        "screen_name": "hirakujira",
+        "location": "黑魔法研究室",
+        "description": "🎂 今天是他的生日",
+        "url": "https://t.co/Ipfzj2QLH5",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Ipfzj2QLH5",
+                "expanded_url": "https://hiraku.dev",
+                "display_url": "hiraku.dev",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9011,
+        "friends_count": 835,
+        "listed_count": 177,
+        "created_at": "Sun Mar 22 16:27:51 +0000 2009",
+        "favourites_count": 455,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 94905,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1578780868327636993/QFUtY3sc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1578780868327636993/QFUtY3sc_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Nov 22 01:14:42 +0000 2022",
     "id": 1594861899975368704,
     "id_str": "1594861899975368704",
