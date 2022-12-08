@@ -1,5 +1,739 @@
 Grailbird.data.tweets_2022_12 = [
   {
+    "created_at": "Wed Dec 07 00:06:52 +0000 2022",
+    "id": 1600280644793212930,
+    "id_str": "1600280644793212930",
+    "text": "這篇應該是 Ledger Stax 新款加密錢包的行銷文，但用上了 E Ink 觸控螢幕、曲面假書脊的造型，好像還不錯～\n\nTony Fadell Is Trying to Build the iPod of Crypto… https://t.co/1UVqL9uLBU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1UVqL9uLBU",
+          "expanded_url": "https://twitter.com/i/web/status/1600280644793212930",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 06 23:55:29 +0000 2022",
+    "id": 1600277781245370368,
+    "id_str": "1600277781245370368",
+    "text": "稍微舒緩囤書積讀癮的大絕招：整理書架。\n\n偶爾還能騰出點空間，以便擺下更多書⋯⋯!?\n\n大絕招中的大絕招：只整理一座書架就好。\n\nhttps://t.co/TYYFKtbXe1 https://t.co/y76L4Kzrnf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TYYFKtbXe1",
+          "expanded_url": "https://bit.ly/3VyG4F0",
+          "display_url": "bit.ly/3VyG4F0",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1600277769316769792,
+          "id_str": "1600277769316769792",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/FjVUJw4UoAAiL1d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FjVUJw4UoAAiL1d.jpg",
+          "url": "https://t.co/y76L4Kzrnf",
+          "display_url": "pic.twitter.com/y76L4Kzrnf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1600277781245370368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1600277769316769792,
+          "id_str": "1600277769316769792",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/FjVUJw4UoAAiL1d.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FjVUJw4UoAAiL1d.jpg",
+          "url": "https://t.co/y76L4Kzrnf",
+          "display_url": "pic.twitter.com/y76L4Kzrnf",
+          "expanded_url": "https://twitter.com/wastemobile/status/1600277781245370368/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1599924128836128768,
+    "in_reply_to_status_id_str": "1599924128836128768",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 06 23:19:25 +0000 2022",
+    "id": 1600268707137134592,
+    "id_str": "1600268707137134592",
+    "text": "RT @lizzystewart: Every year I draw the cover of every book I've read in the last twelve months. I've ceased to remember why I do this, I j…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "lizzystewart",
+          "name": "Lizzy Stewart",
+          "id": 31156902,
+          "id_str": "31156902",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 06 14:55:53 +0000 2022",
+      "id": 1600141986899447809,
+      "id_str": "1600141986899447809",
+      "text": "Every year I draw the cover of every book I've read in the last twelve months. I've ceased to remember why I do thi… https://t.co/jMho2gOodD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jMho2gOodD",
+            "expanded_url": "https://twitter.com/i/web/status/1600141986899447809",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 31156902,
+        "id_str": "31156902",
+        "name": "Lizzy Stewart",
+        "screen_name": "lizzystewart",
+        "location": "London",
+        "description": "Illustrator/Author\nrep'd by @AndreaAgency (children's books)\nand Jane Finigan @LandRAgency (adult)\nShe/Her",
+        "url": "https://t.co/UthNf1KsYj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UthNf1KsYj",
+                "expanded_url": "https://linktr.ee/lizzystewart",
+                "display_url": "linktr.ee/lizzystewart",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13352,
+        "friends_count": 1422,
+        "listed_count": 286,
+        "created_at": "Tue Apr 14 16:15:26 +0000 2009",
+        "favourites_count": 8738,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12103,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1538162336896360448/LSPUOauO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1538162336896360448/LSPUOauO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/31156902/1655561400",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1713,
+      "favorite_count": 18723,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1713,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Dec 06 00:30:12 +0000 2022",
+    "id": 1599924128836128768,
+    "id_str": "1599924128836128768",
+    "text": "古德哈特定律（Goodhart's law）：「一項指標一旦變成了目標，它將不再是個好指標了。」（通常是因為人開始主動介入、偏向化改變了結果。）\n\n強迫性閱讀導致膚淺的理解。\n\nRead less… https://t.co/xF8VE1xmGT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xF8VE1xmGT",
+          "expanded_url": "https://twitter.com/i/web/status/1599924128836128768",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1599292871684763649,
+    "in_reply_to_status_id_str": "1599292871684763649",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 05 07:16:23 +0000 2022",
+    "id": 1599663962202996736,
+    "id_str": "1599663962202996736",
+    "text": "RT @thecat: 完蛋了 ChatGPT 要被中國出征啦~ 😆 😆 😆 https://t.co/cFU7Vxy6Ro",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thecat",
+          "name": "Jeremy Lu",
+          "id": 807633,
+          "id_str": "807633",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1599663218150240256,
+          "id_str": "1599663218150240256",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/FjMlOLYacAAMNSE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FjMlOLYacAAMNSE.jpg",
+          "url": "https://t.co/cFU7Vxy6Ro",
+          "display_url": "pic.twitter.com/cFU7Vxy6Ro",
+          "expanded_url": "https://twitter.com/thecat/status/1599663225624485889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1650,
+              "h": 732,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 302,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 532,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1599663225624485889,
+          "source_status_id_str": "1599663225624485889",
+          "source_user_id": 807633,
+          "source_user_id_str": "807633"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1599663218150240256,
+          "id_str": "1599663218150240256",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/FjMlOLYacAAMNSE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FjMlOLYacAAMNSE.jpg",
+          "url": "https://t.co/cFU7Vxy6Ro",
+          "display_url": "pic.twitter.com/cFU7Vxy6Ro",
+          "expanded_url": "https://twitter.com/thecat/status/1599663225624485889/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1650,
+              "h": 732,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 302,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 532,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1599663225624485889,
+          "source_status_id_str": "1599663225624485889",
+          "source_user_id": 807633,
+          "source_user_id_str": "807633"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Dec 05 07:13:27 +0000 2022",
+      "id": 1599663225624485889,
+      "id_str": "1599663225624485889",
+      "text": "完蛋了 ChatGPT 要被中國出征啦~ 😆 😆 😆 https://t.co/cFU7Vxy6Ro",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1599663218150240256,
+            "id_str": "1599663218150240256",
+            "indices": [
+              27,
+              50
+            ],
+            "media_url": "http://pbs.twimg.com/media/FjMlOLYacAAMNSE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FjMlOLYacAAMNSE.jpg",
+            "url": "https://t.co/cFU7Vxy6Ro",
+            "display_url": "pic.twitter.com/cFU7Vxy6Ro",
+            "expanded_url": "https://twitter.com/thecat/status/1599663225624485889/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1650,
+                "h": 732,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 302,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 532,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1599663218150240256,
+            "id_str": "1599663218150240256",
+            "indices": [
+              27,
+              50
+            ],
+            "media_url": "http://pbs.twimg.com/media/FjMlOLYacAAMNSE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FjMlOLYacAAMNSE.jpg",
+            "url": "https://t.co/cFU7Vxy6Ro",
+            "display_url": "pic.twitter.com/cFU7Vxy6Ro",
+            "expanded_url": "https://twitter.com/thecat/status/1599663225624485889/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1650,
+                "h": 732,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 302,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 532,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807633,
+        "id_str": "807633",
+        "name": "Jeremy Lu",
+        "screen_name": "thecat",
+        "location": "right here, right now",
+        "description": "Fullstack web developer by day, amateur haskeller by night, avid cyclist and swimmer in between. Ask me anything about statechart, react and cycling. λ",
+        "url": "https://t.co/FhWiwLHxkV",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FhWiwLHxkV",
+                "expanded_url": "https://www.stateskit.com",
+                "display_url": "stateskit.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7627,
+        "friends_count": 1636,
+        "listed_count": 98,
+        "created_at": "Sat Mar 03 01:42:09 +0000 2007",
+        "favourites_count": 35403,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 73937,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2757923060/70b16cbe6266b7dc04c2d57e1a432fd0_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807633/1633176429",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 109,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Mon Dec 05 00:30:45 +0000 2022",
     "id": 1599561882909945856,
     "id_str": "1599561882909945856",
