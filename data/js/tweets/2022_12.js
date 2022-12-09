@@ -1,5 +1,227 @@
 Grailbird.data.tweets_2022_12 = [
   {
+    "created_at": "Fri Dec 09 00:15:55 +0000 2022",
+    "id": 1601007698820022272,
+    "id_str": "1601007698820022272",
+    "text": "RT @thenewslens: 日裔學者福山稱讚「赫緒曼很少做量化研究，但他卻能用非經濟學者也能輕易看懂的英文撰寫一系列的書籍，他不受研究方法的拘束卻能優遊於社會科學的諸多重要領域，如政治學、經濟學或哲學，因此避開了一般學者常犯的『專業導致的學術貧乏』。」 https://t…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "thenewslens",
+          "name": "The News Lens",
+          "id": 1565291311,
+          "id_str": "1565291311",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Dec 09 00:03:04 +0000 2022",
+      "id": 1601004464256978944,
+      "id_str": "1601004464256978944",
+      "text": "日裔學者福山稱讚「赫緒曼很少做量化研究，但他卻能用非經濟學者也能輕易看懂的英文撰寫一系列的書籍，他不受研究方法的拘束卻能優遊於社會科學的諸多重要領域，如政治學、經濟學或哲學，因此避開了一般學者常犯的『專業導致的學術貧乏』。」 https://t.co/iGR8qhZoyo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iGR8qhZoyo",
+            "expanded_url": "http://dlvr.it/Sf4Dvz",
+            "display_url": "dlvr.it/Sf4Dvz",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1565291311,
+        "id_str": "1565291311",
+        "name": "The News Lens",
+        "screen_name": "thenewslens",
+        "location": "Taiwan",
+        "description": "The News Lens 是一個媒體實驗。希望能夠提供多元、不同面向的觀點，讓一個事件有不同的切入角度，並讓社交網路世代的使用者，能夠更輕鬆的分享、討論和參與他們有興趣的議題。",
+        "url": "https://t.co/iH8E1UJF3L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/iH8E1UJF3L",
+                "expanded_url": "https://www.thenewslens.com/",
+                "display_url": "thenewslens.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 17347,
+        "friends_count": 83,
+        "listed_count": 297,
+        "created_at": "Wed Jul 03 08:54:12 +0000 2013",
+        "favourites_count": 1475,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 57801,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1260743228975837189/uTNpuiIx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260743228975837189/uTNpuiIx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565291311/1583117228",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 08 09:28:19 +0000 2022",
+    "id": 1600784325946982402,
+    "id_str": "1600784325946982402",
+    "text": "接下來就靠安娜了。\n\nZ-Library 被封、洗白轉正後，嚴謹保密先行的 Anna’s Archive 檢索網站啟動，正逐漸找回四散各處的影子圖書館資源。\n\nhttps://t.co/CJzi6XW3xl",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CJzi6XW3xl",
+          "expanded_url": "https://bit.ly/3XYLv1A",
+          "display_url": "bit.ly/3XYLv1A",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1589797147171774464,
+    "in_reply_to_status_id_str": "1589797147171774464",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Dec 07 00:06:52 +0000 2022",
     "id": 1600280644793212930,
     "id_str": "1600280644793212930",
