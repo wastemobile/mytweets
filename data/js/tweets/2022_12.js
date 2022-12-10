@@ -1,5 +1,480 @@
 Grailbird.data.tweets_2022_12 = [
   {
+    "created_at": "Sat Dec 10 00:15:35 +0000 2022",
+    "id": 1601370003332165633,
+    "id_str": "1601370003332165633",
+    "text": "沒想到 //Stack 這個獨立小誌每月訂閱制的服務還活著，只是價格由幾年前的 5.5 英鎊，漲至 8 英鎊。 #note\n\nhttps://t.co/lavCauGshK https://t.co/WblVGYH9Gg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            56,
+            61
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lavCauGshK",
+          "expanded_url": "https://www.stackmagazines.com/",
+          "display_url": "stackmagazines.com",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1601369996189347843,
+          "id_str": "1601369996189347843",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fjk1hvDVsAMlU1G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fjk1hvDVsAMlU1G.jpg",
+          "url": "https://t.co/WblVGYH9Gg",
+          "display_url": "pic.twitter.com/WblVGYH9Gg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1601370003332165633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 849,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 282,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 497,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1601369996189347843,
+          "id_str": "1601369996189347843",
+          "indices": [
+            87,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fjk1hvDVsAMlU1G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fjk1hvDVsAMlU1G.jpg",
+          "url": "https://t.co/WblVGYH9Gg",
+          "display_url": "pic.twitter.com/WblVGYH9Gg",
+          "expanded_url": "https://twitter.com/wastemobile/status/1601370003332165633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 849,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 282,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 497,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1601362990518763521,
+    "in_reply_to_status_id_str": "1601362990518763521",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 09 23:47:43 +0000 2022",
+    "id": 1601362990518763521,
+    "id_str": "1601362990518763521",
+    "text": "「這一本本手工味濃厚的小誌，也以全新的角度，提醒了周遭那些近在眼前，卻時常被我們忽略的故事，以截然不同於傳統的方式，讓屬於台灣社會或流行文化的基因，再次於我們眼前展開。」\n\nZine 編輯收藏櫃｜4本腦洞大開、在流行邊緣探險的獵奇… https://t.co/9UHXHzSjkU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9UHXHzSjkU",
+          "expanded_url": "https://twitter.com/i/web/status/1601362990518763521",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1598101450353446912,
+    "in_reply_to_status_id_str": "1598101450353446912",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 09 15:25:17 +0000 2022",
+    "id": 1601236549131440128,
+    "id_str": "1601236549131440128",
+    "text": "看了幾篇政治長文，感覺綠營若是分不清支持小英，和支持民進黨之間的差別，不太妙。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 09 11:27:33 +0000 2022",
+    "id": 1601176722900422657,
+    "id_str": "1601176722900422657",
+    "text": "滿出邊界。 https://t.co/qt677H7cfy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1601176713223757824,
+          "id_str": "1601176713223757824",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/FjiFvL5UYAAskOn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FjiFvL5UYAAskOn.jpg",
+          "url": "https://t.co/qt677H7cfy",
+          "display_url": "pic.twitter.com/qt677H7cfy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1601176722900422657/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1601176713223757824,
+          "id_str": "1601176713223757824",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/FjiFvL5UYAAskOn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FjiFvL5UYAAskOn.jpg",
+          "url": "https://t.co/qt677H7cfy",
+          "display_url": "pic.twitter.com/qt677H7cfy",
+          "expanded_url": "https://twitter.com/wastemobile/status/1601176722900422657/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 24,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Dec 09 04:27:00 +0000 2022",
+    "id": 1601070888723496960,
+    "id_str": "1601070888723496960",
+    "text": "不負眾望，2022年度遊戲由《艾爾登法環》拿下，而《戰神：諸神黃昏》橫掃劇情、演員、動作／冒險、無障礙創新、遊戲音樂、音效設計等 6 項大獎。\n\n《艾爾登法環》奪年度遊戲，TGA遊戲大獎2022完整得獎名單… https://t.co/hBlfOJvl6v",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hBlfOJvl6v",
+          "expanded_url": "https://twitter.com/i/web/status/1601070888723496960",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1597555697511673857,
+    "in_reply_to_status_id_str": "1597555697511673857",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 09 01:07:53 +0000 2022",
+    "id": 1601020776198463488,
+    "id_str": "1601020776198463488",
+    "text": "從 2018 就剪掉了有線電視 Cable、買了數位天線看那幾台新聞（開票），其他都是數位串流，原本相同月費可看兩種串流服務，接下來大概只能看 1.5 種了吧⋯⋯\n\nStreaming TV's Party Is Over. No… https://t.co/b57vt40lCH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/b57vt40lCH",
+          "expanded_url": "https://twitter.com/i/web/status/1601020776198463488",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Dec 09 00:15:55 +0000 2022",
     "id": 1601007698820022272,
     "id_str": "1601007698820022272",
