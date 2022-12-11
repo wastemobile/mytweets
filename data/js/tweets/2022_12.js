@@ -1,5 +1,362 @@
 Grailbird.data.tweets_2022_12 = [
   {
+    "created_at": "Sun Dec 11 02:12:19 +0000 2022",
+    "id": 1601761769063841794,
+    "id_str": "1601761769063841794",
+    "text": "購買 AdGuard 終身授權用了三年多，最近才知道它的延伸功能（Extensions）能安裝 Tampermonkey 腳本，透過 AdGuard for Mac 的中介，讓 Safari 瀏覽時也能運作，怎麼會現在才知道啊！… https://t.co/hie5EBBtGN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hie5EBBtGN",
+          "expanded_url": "https://twitter.com/i/web/status/1601761769063841794",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 10 10:42:52 +0000 2022",
+    "id": 1601527863475175425,
+    "id_str": "1601527863475175425",
+    "text": "用 Docker 安裝 IPFS 跑個常態節點卡實在。\n\nhttps://t.co/ksAanlfTRU https://t.co/pTzlCCxxNT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ksAanlfTRU",
+          "expanded_url": "https://bit.ly/3FhdIbA",
+          "display_url": "bit.ly/3FhdIbA",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1601527854457507840,
+          "id_str": "1601527854457507840",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/FjnFGS7VUAA45BN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FjnFGS7VUAA45BN.jpg",
+          "url": "https://t.co/pTzlCCxxNT",
+          "display_url": "pic.twitter.com/pTzlCCxxNT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1601527863475175425/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 851,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1452,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 482,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1601527854457507840,
+          "id_str": "1601527854457507840",
+          "indices": [
+            53,
+            76
+          ],
+          "media_url": "http://pbs.twimg.com/media/FjnFGS7VUAA45BN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FjnFGS7VUAA45BN.jpg",
+          "url": "https://t.co/pTzlCCxxNT",
+          "display_url": "pic.twitter.com/pTzlCCxxNT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1601527863475175425/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 851,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1452,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 482,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1600784325946982402,
+    "in_reply_to_status_id_str": "1600784325946982402",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 10 04:51:03 +0000 2022",
+    "id": 1601439327846039552,
+    "id_str": "1601439327846039552",
+    "text": "我居然沒意識到植物學教授桑溪就是《阿達一族》「初代星期三」的克莉絲汀娜蕾茜（Christina Ricci）⋯⋯（掩面） https://t.co/7pzgjtZOqm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7pzgjtZOqm",
+          "expanded_url": "https://twitter.com/thenewslens/status/1601432534197604354",
+          "display_url": "twitter.com/thenewslens/st…",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1597222647254831104,
+    "in_reply_to_status_id_str": "1597222647254831104",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1601432534197604354,
+    "quoted_status_id_str": "1601432534197604354",
+    "quoted_status": {
+      "created_at": "Sat Dec 10 04:24:03 +0000 2022",
+      "id": 1601432534197604354,
+      "id_str": "1601432534197604354",
+      "text": "Netflix影集《星期三》一上線旋即引爆全球熱潮，而片中其實也藏了許多值得玩味的寓意。尤其英美文學中，以相同首字母押頭韻的文字遊戲，由古至今，廣泛運用在詩詞歌謠、書名文章、報章雜誌標題等。《星期三》首季從一至第八話，劇名標題原文… https://t.co/rJZjdepsCK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rJZjdepsCK",
+            "expanded_url": "http://dlvr.it/Sf7Tjh",
+            "display_url": "dlvr.it/Sf7Tjh",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1565291311,
+        "id_str": "1565291311",
+        "name": "The News Lens",
+        "screen_name": "thenewslens",
+        "location": "Taiwan",
+        "description": "The News Lens 是一個媒體實驗。希望能夠提供多元、不同面向的觀點，讓一個事件有不同的切入角度，並讓社交網路世代的使用者，能夠更輕鬆的分享、討論和參與他們有興趣的議題。",
+        "url": "https://t.co/iH8E1UJF3L",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/iH8E1UJF3L",
+                "expanded_url": "https://www.thenewslens.com/",
+                "display_url": "thenewslens.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 17360,
+        "friends_count": 83,
+        "listed_count": 297,
+        "created_at": "Wed Jul 03 08:54:12 +0000 2013",
+        "favourites_count": 1475,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 57893,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1260743228975837189/uTNpuiIx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260743228975837189/uTNpuiIx_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565291311/1583117228",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Dec 10 00:15:35 +0000 2022",
     "id": 1601370003332165633,
     "id_str": "1601370003332165633",
