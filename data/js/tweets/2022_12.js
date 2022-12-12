@@ -1,5 +1,513 @@
 Grailbird.data.tweets_2022_12 = [
   {
+    "created_at": "Mon Dec 12 13:24:34 +0000 2022",
+    "id": 1602293333358833665,
+    "id_str": "1602293333358833665",
+    "text": "「我們可能需要繼續使用蘋果的產品，因為其他的替代品太糟，但我們至少不應該信任蘋果。」\n\n蘋果目前從廣告賺了大約40億美金，預計2026達到300億，這無可避免使它成了「監控資本主義」的一員。\n\n隱私＝「除了我們，沒有人可以訪問你的… https://t.co/Vh6dbrxgoZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Vh6dbrxgoZ",
+          "expanded_url": "https://twitter.com/i/web/status/1602293333358833665",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 12 13:09:44 +0000 2022",
+    "id": 1602289600021426176,
+    "id_str": "1602289600021426176",
+    "text": "“I want a personal instance that has the main corpus of information but that I could feed books and other data into… https://t.co/5BhWD20GLp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5BhWD20GLp",
+          "expanded_url": "https://twitter.com/i/web/status/1602289600021426176",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 12 03:38:29 +0000 2022",
+    "id": 1602145841816297473,
+    "id_str": "1602145841816297473",
+    "text": "RT @honeypie: 「幾近滅絕的孤獨萎縮成的黑色標本」\n「一份適合當代讀者的 #ガロ系 閱讀指南」\n（引自《漫漶》附冊）\n\n兩三年前才開始密集看「ガロ系」漫畫，起點是鼎鼎大名柘植義春《螺旋式》。在「豆瓣」挖寶，看遍粉絲自力翻譯的簡中版義春作品，接著看「異常漫畫研究中心」…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ガロ系",
+          "indices": [
+            43,
+            47
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "honeypie",
+          "name": "馬世芳 Shihfang Ma",
+          "id": 56643,
+          "id_str": "56643",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Dec 12 03:37:05 +0000 2022",
+      "id": 1602145487934861312,
+      "id_str": "1602145487934861312",
+      "text": "「幾近滅絕的孤獨萎縮成的黑色標本」\n「一份適合當代讀者的 #ガロ系 閱讀指南」\n（引自《漫漶》附冊）\n\n兩三年前才開始密集看「ガロ系」漫畫，起點是鼎鼎大名柘植義春《螺旋式》。在「豆瓣」挖寶，看遍粉絲自力翻譯的簡中版義春作品，接著看… https://t.co/2tRUTM9ZR7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ガロ系",
+            "indices": [
+              29,
+              33
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2tRUTM9ZR7",
+            "expanded_url": "https://twitter.com/i/web/status/1602145487934861312",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 56643,
+        "id_str": "56643",
+        "name": "馬世芳 Shihfang Ma",
+        "screen_name": "honeypie",
+        "location": "Taipei, Taiwan",
+        "description": "台灣廣播人，作家，主持人。",
+        "url": "https://t.co/fjCJ68B14q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/fjCJ68B14q",
+                "expanded_url": "http://honeypie.org",
+                "display_url": "honeypie.org",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7157,
+        "friends_count": 171,
+        "listed_count": 84,
+        "created_at": "Mon Dec 11 04:35:41 +0000 2006",
+        "favourites_count": 65,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16451,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1499206035923664897/wqhDycsi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1499206035923664897/wqhDycsi_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/56643/1646273584",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "444444",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sun Dec 11 06:39:52 +0000 2022",
+    "id": 1601829100611506177,
+    "id_str": "1601829100611506177",
+    "text": "安裝腳本後實測，由於 AdGuard for Mac 是始終運行著的中介軟體，不管用 Safari 或 Firefox 在符合條件的頁面上都能運作，不需要分別安裝外掛。\n\nBrave 與 Vivaldi 沒作用，但不確定是否因為之… https://t.co/pnAX0i5jEF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pnAX0i5jEF",
+          "expanded_url": "https://twitter.com/i/web/status/1601829100611506177",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1601761769063841794,
+    "in_reply_to_status_id_str": "1601761769063841794",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 11 06:34:57 +0000 2022",
+    "id": 1601827862859829253,
+    "id_str": "1601827862859829253",
+    "text": "@codatail 完全同意。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "codatail",
+          "name": "松鼠尾🐿️",
+          "id": 733074458,
+          "id_str": "733074458",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1601822854579789824,
+    "in_reply_to_status_id_str": "1601822854579789824",
+    "in_reply_to_user_id": 733074458,
+    "in_reply_to_user_id_str": "733074458",
+    "in_reply_to_screen_name": "codatail",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 11 03:28:29 +0000 2022",
+    "id": 1601780935745097729,
+    "id_str": "1601780935745097729",
+    "text": "Obsidian v1.1.0 即將要加入的核心外掛，居然是能做心智圖、情緒板的 Canvas，許多搶先安裝體驗的人釋出不少實際操作影片，看起來蠻穩定，功能也齊全到有點匪夷所思，完全能替代 Scapple。\n\n這還是 Markdo… https://t.co/mCn3i18GXJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mCn3i18GXJ",
+          "expanded_url": "https://twitter.com/i/web/status/1601780935745097729",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1581169429806620672,
+    "in_reply_to_status_id_str": "1581169429806620672",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 11 02:48:59 +0000 2022",
+    "id": 1601770993969639427,
+    "id_str": "1601770993969639427",
+    "text": "日本作家利根川風太以「製書家」自居，總是自己選紙、裝訂、手工製作少量出版，也製作一些手工筆記本販售，多半都是限量的。\n\n想入手「黒い本」，黑紙手工裝訂筆記本，但得先準備淺色的筆才行，或是金色。… https://t.co/DEwCPGQ42N",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DEwCPGQ42N",
+          "expanded_url": "https://twitter.com/i/web/status/1601770993969639427",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1594854823891197953,
+    "in_reply_to_status_id_str": "1594854823891197953",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Sun Dec 11 02:12:19 +0000 2022",
     "id": 1601761769063841794,
     "id_str": "1601761769063841794",
