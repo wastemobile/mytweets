@@ -1,5 +1,651 @@
 Grailbird.data.tweets_2022_12 = [
   {
+    "created_at": "Tue Dec 13 12:44:29 +0000 2022",
+    "id": 1602645633264848896,
+    "id_str": "1602645633264848896",
+    "text": "RT @H0ngk0ngBear: 願主保佑6位年輕義士\n尤其是15歲和16歲未成年的兩位\n\n年輕的他們 為了公義\n承擔了祖輩父輩留下的政治孽債\n投入烽煙四起的戰場\n放棄了美麗的青春歲月\n忍受惡人強加的陷害和折磨\n\n願主賜予他們平安和堅毅\n願主憐愛我族的孩子們\n願 #主佑香港民…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "H0ngk0ngBear",
+          "name": "Hongkong Bear 港熊 🤍💙",
+          "id": 945452122170056704,
+          "id_str": "945452122170056704",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Dec 13 12:27:37 +0000 2022",
+      "id": 1602641387299942401,
+      "id_str": "1602641387299942401",
+      "text": "願主保佑6位年輕義士\n尤其是15歲和16歲未成年的兩位\n\n年輕的他們 為了公義\n承擔了祖輩父輩留下的政治孽債\n投入烽煙四起的戰場\n放棄了美麗的青春歲月\n忍受惡人強加的陷害和折磨\n\n願主賜予他們平安和堅毅\n願主憐愛我族的孩子們\n願… https://t.co/2XyaONK3Tv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2XyaONK3Tv",
+            "expanded_url": "https://twitter.com/i/web/status/1602641387299942401",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 945452122170056704,
+        "id_str": "945452122170056704",
+        "name": "Hongkong Bear 港熊 🤍💙",
+        "screen_name": "H0ngk0ngBear",
+        "location": "香港民族 Hong Kong Nation",
+        "description": "#HongKongNationalists\n#HongKongNationalism\n#香港民族主義者\n#香港民族主義\n#香港民族\nhēung-góng-màhn-juhk-jyú-yih-jé (Jyutping粤拼)\nhiang-káng-bîn-tso̍k-tsú-gī-chiá (Tâi-Lô台羅)",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2804,
+        "friends_count": 1933,
+        "listed_count": 41,
+        "created_at": "Tue Dec 26 00:32:06 +0000 2017",
+        "favourites_count": 76123,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23351,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976304793709813760/z5Snx1XG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976304793709813760/z5Snx1XG_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/945452122170056704/1665560235",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1602628815834218496,
+      "quoted_status_id_str": "1602628815834218496",
+      "quoted_status": {
+        "created_at": "Tue Dec 13 11:37:39 +0000 2022",
+        "id": 1602628815834218496,
+        "id_str": "1602628815834218496",
+        "text": "首批理大內暴動罪成 4人判囚50個月至53個月 2人判入教導所\nhttps://t.co/O3ulsYDaed https://t.co/b9ORpIZ61N",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/O3ulsYDaed",
+              "expanded_url": "https://bit.ly/3VVpbEP",
+              "display_url": "bit.ly/3VVpbEP",
+              "indices": [
+                32,
+                55
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1602628807055200256,
+              "id_str": "1602628807055200256",
+              "indices": [
+                56,
+                79
+              ],
+              "media_url": "http://pbs.twimg.com/media/Fj2uaK9VUAAMzEs.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Fj2uaK9VUAAMzEs.jpg",
+              "url": "https://t.co/b9ORpIZ61N",
+              "display_url": "pic.twitter.com/b9ORpIZ61N",
+              "expanded_url": "https://twitter.com/inmediahk/status/1602628815834218496/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 1280,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1602628807055200256,
+              "id_str": "1602628807055200256",
+              "indices": [
+                56,
+                79
+              ],
+              "media_url": "http://pbs.twimg.com/media/Fj2uaK9VUAAMzEs.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Fj2uaK9VUAAMzEs.jpg",
+              "url": "https://t.co/b9ORpIZ61N",
+              "display_url": "pic.twitter.com/b9ORpIZ61N",
+              "expanded_url": "https://twitter.com/inmediahk/status/1602628815834218496/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 1280,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 15435701,
+          "id_str": "15435701",
+          "name": "inmediahknet",
+          "screen_name": "inmediahk",
+          "location": "Hong Kong",
+          "description": "Est. 2004. Most influential citizen media in Hong Kong. Mission: to serve as an independent news & media platform for democratic and social movements.",
+          "url": "https://t.co/GTjyoaVNI5",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/GTjyoaVNI5",
+                  "expanded_url": "https://www.inmediahk.net",
+                  "display_url": "inmediahk.net",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 49671,
+          "friends_count": 1,
+          "listed_count": 433,
+          "created_at": "Tue Jul 15 02:38:19 +0000 2008",
+          "favourites_count": 5,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 55087,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/875721763031728129/oDOqaJb0_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/875721763031728129/oDOqaJb0_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/15435701/1463649680",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 28,
+        "favorite_count": 20,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 8,
+      "favorite_count": 29,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1602628815834218496,
+    "quoted_status_id_str": "1602628815834218496",
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 13 00:15:41 +0000 2022",
+    "id": 1602457191524761600,
+    "id_str": "1602457191524761600",
+    "text": "庵野秀明主導的「新．日本英雄宇宙」將要完成，《新・假面騎士》定檔 2023/03 上映。\n\nMoyashi：「新．超人」—— 過期的正義 https://t.co/NmttygEdRd https://t.co/olGqf5rMqH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NmttygEdRd",
+          "expanded_url": "https://bit.ly/3uQMvHD",
+          "display_url": "bit.ly/3uQMvHD",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1602457184465362944,
+          "id_str": "1602457184465362944",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fj0SUa_UoAAygMT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fj0SUa_UoAAygMT.jpg",
+          "url": "https://t.co/olGqf5rMqH",
+          "display_url": "pic.twitter.com/olGqf5rMqH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1602457191524761600/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 544,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1757,
+              "h": 797,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 308,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1602457184465362944,
+          "id_str": "1602457184465362944",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fj0SUa_UoAAygMT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fj0SUa_UoAAygMT.jpg",
+          "url": "https://t.co/olGqf5rMqH",
+          "display_url": "pic.twitter.com/olGqf5rMqH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1602457191524761600/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 544,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1757,
+              "h": 797,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 308,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1581483609013202944,
+    "in_reply_to_status_id_str": "1581483609013202944",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 13 00:09:47 +0000 2022",
+    "id": 1602455707797725186,
+    "id_str": "1602455707797725186",
+    "text": "所以樹莓派預計 2023 下半年供應回穩，終於，希望。\n\nhttps://t.co/8sHh2FbWfX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8sHh2FbWfX",
+          "expanded_url": "https://liliputing.com/you-might-actually-be-able-to-buy-raspberry-pi-hardware-again-in-2023/",
+          "display_url": "liliputing.com/you-might-actu…",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 13 00:02:15 +0000 2022",
+    "id": 1602453811909435392,
+    "id_str": "1602453811909435392",
+    "text": "「大多數 2021 或 2022 年誕生的種子期加密貨幣新創公司都將燒光資金；80% 以上新創將無法融資；風投將投資其他領域（例如人工智慧）。」\n\n看起來 ABC 新創要出現了⋯⋯ AI + Blockchain + Cheat.\n\nhttps://t.co/NYYBqPcqfa",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NYYBqPcqfa",
+          "expanded_url": "https://bit.ly/3YiJNIt",
+          "display_url": "bit.ly/3YiJNIt",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Dec 12 13:51:45 +0000 2022",
+    "id": 1602300173408935939,
+    "id_str": "1602300173408935939",
+    "text": "影集看完了，非常疑惑，還是讀一下小說。\n\n進度 25% 大致已明白，影集抽取故事主軸線、但簡化修改組合了某些旁枝，也將許多科技產物炫化集合了一番，應該是有達到更娛樂、更媚俗的順暢觀影體驗。但小說確實有一點過度元素組合、大雜燴的問題… https://t.co/bq6sHcrb6l",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bq6sHcrb6l",
+          "expanded_url": "https://twitter.com/i/web/status/1602300173408935939",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1583260388845420544,
+    "in_reply_to_status_id_str": "1583260388845420544",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Dec 12 13:24:34 +0000 2022",
     "id": 1602293333358833665,
     "id_str": "1602293333358833665",
