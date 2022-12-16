@@ -1,5 +1,768 @@
 Grailbird.data.tweets_2022_12 = [
   {
+    "created_at": "Fri Dec 16 08:17:27 +0000 2022",
+    "id": 1603665595802587136,
+    "id_str": "1603665595802587136",
+    "text": "這個可以。\n\n希望以後閱讀與社群軟體都內建此功能。\n\n用魔法打敗魔法！ChatGPT的「剋星」，AI文本檢測器GPT-2 Output Detector來了 https://t.co/I3EgwzqFhG https://t.co/J18dpUqSzw",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/I3EgwzqFhG",
+          "expanded_url": "https://bit.ly/3HGHNE1",
+          "display_url": "bit.ly/3HGHNE1",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1603665589330882561,
+          "id_str": "1603665589330882561",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkFdW16VsAESMwb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkFdW16VsAESMwb.jpg",
+          "url": "https://t.co/J18dpUqSzw",
+          "display_url": "pic.twitter.com/J18dpUqSzw",
+          "expanded_url": "https://twitter.com/wastemobile/status/1603665595802587136/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 728,
+              "h": 382,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 728,
+              "h": 382,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1603665589330882561,
+          "id_str": "1603665589330882561",
+          "indices": [
+            103,
+            126
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkFdW16VsAESMwb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkFdW16VsAESMwb.jpg",
+          "url": "https://t.co/J18dpUqSzw",
+          "display_url": "pic.twitter.com/J18dpUqSzw",
+          "expanded_url": "https://twitter.com/wastemobile/status/1603665595802587136/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 728,
+              "h": 382,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 728,
+              "h": 382,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 15 06:25:28 +0000 2022",
+    "id": 1603275028472025090,
+    "id_str": "1603275028472025090",
+    "text": "回頭看看一年多前 Readwise 發布的閱讀應用「宣言」，為什麼想做？想要做什麼？打算怎麼做？對比目前的公開測試版驗證一下。\n\n從網路文章到 PDF，從推文串到電子書，與之間的一切；不是筆記軟體、不是閱讀社群服務。\n\nThe N… https://t.co/KmISl9D2qt",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KmISl9D2qt",
+          "expanded_url": "https://twitter.com/i/web/status/1603275028472025090",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1603201340229836800,
+    "in_reply_to_status_id_str": "1603201340229836800",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 15 04:04:51 +0000 2022",
+    "id": 1603239638063194112,
+    "id_str": "1603239638063194112",
+    "text": "好可怕的地震！",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Dec 15 03:08:30 +0000 2022",
+    "id": 1603225458815877120,
+    "id_str": "1603225458815877120",
+    "text": "@imknight 一言以蔽之，目前最大差異是 Matter 發展了朗讀、語音（段落）標記等功能，Readwide 則是由電子書摘記起家、擴展到網路文章資源。\n\n我相信單就閱讀介面、尤其是 App，Matter 應該還強些，但 2… https://t.co/RJA81KcETz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "imknight",
+          "name": "Knight ",
+          "id": 1569331,
+          "id_str": "1569331",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RJA81KcETz",
+          "expanded_url": "https://twitter.com/i/web/status/1603225458815877120",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1603218690635624448,
+    "in_reply_to_status_id_str": "1603218690635624448",
+    "in_reply_to_user_id": 1569331,
+    "in_reply_to_user_id_str": "1569331",
+    "in_reply_to_screen_name": "imknight",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 15 02:51:28 +0000 2022",
+    "id": 1603221172488876035,
+    "id_str": "1603221172488876035",
+    "text": "Alfred 終於開始先期測試 Workflow 的聚合平台。\n\nhttps://t.co/GI9hCXpuoS https://t.co/SEbdrXkp2m",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GI9hCXpuoS",
+          "expanded_url": "https://alfred.app/",
+          "display_url": "alfred.app",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1603221163378819072,
+          "id_str": "1603221163378819072",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fj_JJ2OVQAAxVwl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fj_JJ2OVQAAxVwl.jpg",
+          "url": "https://t.co/SEbdrXkp2m",
+          "display_url": "pic.twitter.com/SEbdrXkp2m",
+          "expanded_url": "https://twitter.com/wastemobile/status/1603221172488876035/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1470,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 488,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 861,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1603221163378819072,
+          "id_str": "1603221163378819072",
+          "indices": [
+            57,
+            80
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fj_JJ2OVQAAxVwl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fj_JJ2OVQAAxVwl.jpg",
+          "url": "https://t.co/SEbdrXkp2m",
+          "display_url": "pic.twitter.com/SEbdrXkp2m",
+          "expanded_url": "https://twitter.com/wastemobile/status/1603221172488876035/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1470,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 488,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 861,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 15 01:32:40 +0000 2022",
+    "id": 1603201340229836800,
+    "id_str": "1603201340229836800",
+    "text": "相較 Yukread 只能單純彙整各種數位閱讀資訊來源，Readwise 的核心是實際閱讀時自己主動加上的圈選摘記，很早就替摘記加上了 inline tagging 功能，能更有效的將散落資訊主觀規整。\n\n摘記後的重點是如何在思考… https://t.co/dNjozKlGpJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dNjozKlGpJ",
+          "expanded_url": "https://twitter.com/i/web/status/1603201340229836800",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1603192680871129088,
+    "in_reply_to_status_id_str": "1603192680871129088",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 15 01:17:36 +0000 2022",
+    "id": 1603197548209967104,
+    "id_str": "1603197548209967104",
+    "text": "@Ralphsun73221 我確實也開始認真考慮這麼做了，\n\n然後買個 Android 電子墨水平板⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Ralphsun73221",
+          "name": "🐑🐑推特上古 Ř 公🐑🐑",
+          "id": 74089098,
+          "id_str": "74089098",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1603195778323079168,
+    "in_reply_to_status_id_str": "1603195778323079168",
+    "in_reply_to_user_id": 74089098,
+    "in_reply_to_user_id_str": "74089098",
+    "in_reply_to_screen_name": "Ralphsun73221",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 15 00:58:15 +0000 2022",
+    "id": 1603192680871129088,
+    "id_str": "1603192680871129088",
+    "text": "整合路線的最佳服務 Readwise Reader 也進入開放測試了。\n\n從彙整電子書（kindle/iBooks/PDF）的畫線註記開始，添加了對網路文章的摘記，接著以 Reader 之名開始拉進電子報、RSS 訂閱，還能將 T… https://t.co/1OniFBw5pY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1OniFBw5pY",
+          "expanded_url": "https://twitter.com/i/web/status/1603192680871129088",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1603034484495904773,
+    "in_reply_to_status_id_str": "1603034484495904773",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 15 00:13:17 +0000 2022",
+    "id": 1603181365943357440,
+    "id_str": "1603181365943357440",
+    "text": "SvelteKit 進入 1.0 正式版時代。 https://t.co/dbUq6HaPBy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dbUq6HaPBy",
+          "expanded_url": "https://twitter.com/sveltejs/status/1603075264287760390",
+          "display_url": "twitter.com/sveltejs/statu…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1603075264287760390,
+    "quoted_status_id_str": "1603075264287760390",
+    "quoted_status": {
+      "created_at": "Wed Dec 14 17:11:41 +0000 2022",
+      "id": 1603075264287760390,
+      "id_str": "1603075264287760390",
+      "text": "It's here.\n\nhttps://t.co/mP8vD5zcta",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mP8vD5zcta",
+            "expanded_url": "https://svelte.dev/blog/announcing-sveltekit-1.0",
+            "display_url": "svelte.dev/blog/announcin…",
+            "indices": [
+              12,
+              35
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 801833412487184384,
+        "id_str": "801833412487184384",
+        "name": "Svelte",
+        "screen_name": "sveltejs",
+        "location": "pkg.devDependencies",
+        "description": "Cybernetically enhanced web apps",
+        "url": "https://t.co/jXHSiov6Rr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/jXHSiov6Rr",
+                "expanded_url": "https://svelte.dev",
+                "display_url": "svelte.dev",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 59666,
+        "friends_count": 2,
+        "listed_count": 933,
+        "created_at": "Thu Nov 24 17:02:37 +0000 2016",
+        "favourites_count": 706,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1315,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1121395911849062400/7exmJEg4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121395911849062400/7exmJEg4_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/801833412487184384/1555857193",
+        "profile_link_color": "FF3E00",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 888,
+      "favorite_count": 3635,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Dec 14 14:29:38 +0000 2022",
     "id": 1603034484495904773,
     "id_str": "1603034484495904773",
