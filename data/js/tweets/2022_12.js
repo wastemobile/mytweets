@@ -1,5 +1,1521 @@
 Grailbird.data.tweets_2022_12 = [
   {
+    "created_at": "Tue Dec 20 03:19:09 +0000 2022",
+    "id": 1605040080086659072,
+    "id_str": "1605040080086659072",
+    "text": "書名《我們為何而戰》取自二戰時美國戰爭部於 1942 至 1945 製作的一系列宣傳片，幫助士兵暸解美國參與戰爭的原因；事實上也是對希特勒 1935 年宣傳片《意志的勝利》的回應。\n\n有些感傷，媒體與通路早已日換星移，但台灣依舊處… https://t.co/RbZgKx0hVw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RbZgKx0hVw",
+          "expanded_url": "https://twitter.com/i/web/status/1605040080086659072",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1605038645781483521,
+    "in_reply_to_status_id_str": "1605038645781483521",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 20 03:13:27 +0000 2022",
+    "id": 1605038645781483521,
+    "id_str": "1605038645781483521",
+    "text": "作者 Chris Blattman 今年出版的《Why We Fight》值得一讀。\n\n主要從政治經濟學研究當前的武裝衝突，分析框架是博弈論，也納入了社會心理學的觀點。前半部是〈The Roots of War〉、後半則是〈The… https://t.co/AWRD7ysh8U",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AWRD7ysh8U",
+          "expanded_url": "https://twitter.com/i/web/status/1605038645781483521",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1605036567386394624,
+    "in_reply_to_status_id_str": "1605036567386394624",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 20 03:05:12 +0000 2022",
+    "id": 1605036567386394624,
+    "id_str": "1605036567386394624",
+    "text": "文中第一段提及的事件：遭到北韓駭客入侵的美國資安研究人員，以一己之力癱瘓北韓網路。\n\nhttps://t.co/REdFJ3CqGI",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/REdFJ3CqGI",
+          "expanded_url": "https://bit.ly/3PEU5Pi",
+          "display_url": "bit.ly/3PEU5Pi",
+          "indices": [
+            43,
+            66
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1605036042188296193,
+    "in_reply_to_status_id_str": "1605036042188296193",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Dec 20 03:03:07 +0000 2022",
+    "id": 1605036042188296193,
+    "id_str": "1605036042188296193",
+    "text": "「2023 幾乎肯定會有更大規模的網路攻擊，可能癱瘓台灣的機場和軌道運輸⋯⋯」\n\n俄國入侵烏克蘭，與升級的美中衝突，讓存在了幾十年的風險趨近臨界點，2023 將會是極為脆弱的一年，而且毫無疑問網路會是前哨戰。\n\nCyber War… https://t.co/X6L0SQzpSo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/X6L0SQzpSo",
+          "expanded_url": "https://twitter.com/i/web/status/1605036042188296193",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 13:47:21 +0000 2022",
+    "id": 1604473392760950791,
+    "id_str": "1604473392760950791",
+    "text": "RT @autisticcat: 這陣子都在餵樓下的小貓一家，今天發現有一隻不動了 😔\n\n趕緊查了一下該怎麼做，於是發現毛孩的彩虹天堂這個組織。從通報到接走不到一小時，非常認真值得信賴，通報的流程也很清楚，後續還會將結果放在粉專上，但服務範圍目前好像只有中彰投雲嘉南，有需要的推…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "autisticcat",
+          "name": "咪咪貓貓 (強化系)",
+          "id": 160195925,
+          "id_str": "160195925",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Dec 18 13:44:39 +0000 2022",
+      "id": 1604472715880325120,
+      "id_str": "1604472715880325120",
+      "text": "這陣子都在餵樓下的小貓一家，今天發現有一隻不動了 😔\n\n趕緊查了一下該怎麼做，於是發現毛孩的彩虹天堂這個組織。從通報到接走不到一小時，非常認真值得信賴，通報的流程也很清楚，後續還會將結果放在粉專上，但服務範圍目前好像只有中彰投雲嘉… https://t.co/lGi2PNDl55",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lGi2PNDl55",
+            "expanded_url": "https://twitter.com/i/web/status/1604472715880325120",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 160195925,
+        "id_str": "160195925",
+        "name": "咪咪貓貓 (強化系)",
+        "screen_name": "autisticcat",
+        "location": "",
+        "description": "ENFP｜貓帳｜台獨｜出版｜瑜珈｜手沖｜Gura｜ACG｜人外｜#ohmyMADS｜#貓咪放大｜",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 531,
+        "friends_count": 1041,
+        "listed_count": 6,
+        "created_at": "Sun Jun 27 13:21:39 +0000 2010",
+        "favourites_count": 16330,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 5186,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1575805920353062912/tCSEGLCy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1575805920353062912/tCSEGLCy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/160195925/1629045179",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1517199423549419523,
+      "quoted_status_id_str": "1517199423549419523",
+      "quoted_status": {
+        "created_at": "Thu Apr 21 17:51:45 +0000 2022",
+        "id": 1517199423549419523,
+        "id_str": "1517199423549419523",
+        "text": "別再捐：浪浪的後盾\n統一發票捐號9427\n\n要捐可以捐：毛孩的彩虹天堂，他們是專門為流浪動物收屍安葬的團體，在Line有專號可通報屍體發現。 https://t.co/7FIKu21z8S https://t.co/frkK8wUdUh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+
+          ],
+          "symbols": [
+
+          ],
+          "user_mentions": [
+
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/7FIKu21z8S",
+              "expanded_url": "https://twitter.com/HaleandMargaret/status/1517114699900665856",
+              "display_url": "twitter.com/HaleandMargare…",
+              "indices": [
+                71,
+                94
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1517199417933185024,
+              "id_str": "1517199417933185024",
+              "indices": [
+                95,
+                118
+              ],
+              "media_url": "http://pbs.twimg.com/media/FQ4s1QdWQAAmJbk.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FQ4s1QdWQAAmJbk.jpg",
+              "url": "https://t.co/frkK8wUdUh",
+              "display_url": "pic.twitter.com/frkK8wUdUh",
+              "expanded_url": "https://twitter.com/nhlkng/status/1517199423549419523/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1125,
+                  "h": 932,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1125,
+                  "h": 932,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 563,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1517199417933185024,
+              "id_str": "1517199417933185024",
+              "indices": [
+                95,
+                118
+              ],
+              "media_url": "http://pbs.twimg.com/media/FQ4s1QdWQAAmJbk.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/FQ4s1QdWQAAmJbk.jpg",
+              "url": "https://t.co/frkK8wUdUh",
+              "display_url": "pic.twitter.com/frkK8wUdUh",
+              "expanded_url": "https://twitter.com/nhlkng/status/1517199423549419523/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1125,
+                  "h": 932,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1125,
+                  "h": 932,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 563,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1026073256,
+          "id_str": "1026073256",
+          "name": "一家都是大橘為重",
+          "screen_name": "hkgg852",
+          "location": "",
+          "description": "我可以被這個世界淘汰，但不可以被世界擊敗",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": [
+
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 215,
+          "friends_count": 456,
+          "listed_count": 1,
+          "created_at": "Fri Dec 21 10:01:06 +0000 2012",
+          "favourites_count": 4654,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2929,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "ACDED6",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1588892398226378752/bOLsdDXi_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1588892398226378752/bOLsdDXi_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1026073256/1650041711",
+          "profile_link_color": "038543",
+          "profile_sidebar_border_color": "EEEEEE",
+          "profile_sidebar_fill_color": "F6F6F6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none",
+          "withheld_in_countries": [
+
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1517114699900665856,
+        "quoted_status_id_str": "1517114699900665856",
+        "retweet_count": 31,
+        "favorite_count": 50,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "zh"
+      },
+      "retweet_count": 3,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 1517199423549419523,
+    "quoted_status_id_str": "1517199423549419523",
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 08:31:03 +0000 2022",
+    "id": 1604393793423233025,
+    "id_str": "1604393793423233025",
+    "text": "附上紐約雜誌旗下 Strategist 編輯們於 2018 年親測評選的百大好筆清單，包含鋼筆、鋼珠筆、原子筆等諸多類型，並根據順滑度、抗污程度、滲透、手感、外觀五項評分。\n\n獲得滿分的只有兩支：Squire 鋼珠筆，以及 OHT… https://t.co/BWTZ3AwLsm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BWTZ3AwLsm",
+          "expanded_url": "https://twitter.com/i/web/status/1604393793423233025",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1604388949979328513,
+    "in_reply_to_status_id_str": "1604388949979328513",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 57,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 08:11:48 +0000 2022",
+    "id": 1604388949979328513,
+    "id_str": "1604388949979328513",
+    "text": "想從 P8126 筆芯反向找筆，這就非常困難。但發現一個 RefillFinder 網站有整理各式各樣筆芯的資訊，留著備用。\n\n是有列出幾個老牌子 Delta, Monteverde, Retro 51, OMAS（已停止營業），… https://t.co/pewZ3pp0XB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pewZ3pp0XB",
+          "expanded_url": "https://twitter.com/i/web/status/1604388949979328513",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1604371461103267842,
+    "in_reply_to_status_id_str": "1604371461103267842",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 07:46:34 +0000 2022",
+    "id": 1604382600088285184,
+    "id_str": "1604382600088285184",
+    "text": "@VK678 動作也太快？才剛剛查完資訊、還沒決定買哪支，沒有在這網站買過啊！\n\n所以⋯⋯等您分享經驗⋯⋯ 😓",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "VK678",
+          "name": "賈賽役定",
+          "id": 443842036,
+          "id_str": "443842036",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1604380458581577729,
+    "in_reply_to_status_id_str": "1604380458581577729",
+    "in_reply_to_user_id": 443842036,
+    "in_reply_to_user_id_str": "443842036",
+    "in_reply_to_screen_name": "VK678",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 07:02:18 +0000 2022",
+    "id": 1604371461103267842,
+    "id_str": "1604371461103267842",
+    "text": "最重要的資訊，不管印著 BARONFIG 或 STUDIO NEAT，替換的其實都是德製 Schmidt P8126 規格鋼珠筆芯，單支通常 120 塊台幣左右，不便宜，但被眾家好筆欽點選用，應該有口碑吧。 https://t.co/ZZFZWL0pc5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1604371454090305536,
+          "id_str": "1604371454090305536",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkPfVlDUYAAq3PR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkPfVlDUYAAq3PR.jpg",
+          "url": "https://t.co/ZZFZWL0pc5",
+          "display_url": "pic.twitter.com/ZZFZWL0pc5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1604371461103267842/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1604371454090305536,
+          "id_str": "1604371454090305536",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkPfVlDUYAAq3PR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkPfVlDUYAAq3PR.jpg",
+          "url": "https://t.co/ZZFZWL0pc5",
+          "display_url": "pic.twitter.com/ZZFZWL0pc5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1604371461103267842/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1604371454107127808,
+          "id_str": "1604371454107127808",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkPfVlHVEAAdCr_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkPfVlHVEAAdCr_.jpg",
+          "url": "https://t.co/ZZFZWL0pc5",
+          "display_url": "pic.twitter.com/ZZFZWL0pc5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1604371461103267842/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1604370017142812672,
+    "in_reply_to_status_id_str": "1604370017142812672",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 06:56:34 +0000 2022",
+    "id": 1604370017142812672,
+    "id_str": "1604370017142812672",
+    "text": "另一支極簡風的則是 Studio Neat 出品 Mark One，按壓式，筆身黑、白兩種，配上銀鎳與黃銅兩種按壓頭，共四種可選。\n\nhttps://t.co/zbaHvXNYRh https://t.co/9Qo4uPnPKi",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zbaHvXNYRh",
+          "expanded_url": "https://bit.ly/3jeSDat",
+          "display_url": "bit.ly/3jeSDat",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1604370010129866754,
+          "id_str": "1604370010129866754",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkPeBh4UoAIFaqI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkPeBh4UoAIFaqI.jpg",
+          "url": "https://t.co/9Qo4uPnPKi",
+          "display_url": "pic.twitter.com/9Qo4uPnPKi",
+          "expanded_url": "https://twitter.com/wastemobile/status/1604370017142812672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1120,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 486,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1120,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1604370010129866754,
+          "id_str": "1604370010129866754",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkPeBh4UoAIFaqI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkPeBh4UoAIFaqI.jpg",
+          "url": "https://t.co/9Qo4uPnPKi",
+          "display_url": "pic.twitter.com/9Qo4uPnPKi",
+          "expanded_url": "https://twitter.com/wastemobile/status/1604370017142812672/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1120,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 486,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1120,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1604368978540761089,
+    "in_reply_to_status_id_str": "1604368978540761089",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 06:52:26 +0000 2022",
+    "id": 1604368978540761089,
+    "id_str": "1604368978540761089",
+    "text": "確實也有出按壓款 Squire Click Ballpoint Pen，但就只有兩種顏色可選。\n\nhttps://t.co/xPqEio7lNe https://t.co/MXJgwgffTp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xPqEio7lNe",
+          "expanded_url": "https://bit.ly/3BFsg3t",
+          "display_url": "bit.ly/3BFsg3t",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1604368971691462656,
+          "id_str": "1604368971691462656",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkPdFFZUEAAdTm0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkPdFFZUEAAdTm0.jpg",
+          "url": "https://t.co/MXJgwgffTp",
+          "display_url": "pic.twitter.com/MXJgwgffTp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1604368978540761089/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1604368971691462656,
+          "id_str": "1604368971691462656",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkPdFFZUEAAdTm0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkPdFFZUEAAdTm0.jpg",
+          "url": "https://t.co/MXJgwgffTp",
+          "display_url": "pic.twitter.com/MXJgwgffTp",
+          "expanded_url": "https://twitter.com/wastemobile/status/1604368978540761089/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1604368545202114560,
+    "in_reply_to_status_id_str": "1604368545202114560",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 06:50:43 +0000 2022",
+    "id": 1604368545202114560,
+    "id_str": "1604368545202114560",
+    "text": "綜合許多資訊比較，最受推薦、握持與平衡感最佳、品質細緻、且價格合宜、能長久使用的，是 Baronfig 出品的 Squire Rollerball Pen。\n\n是非常暢銷、出了許多限量特殊版；唯一的缺點，就是它出芯是採用旋轉式，感… https://t.co/GAfI61TtFE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GAfI61TtFE",
+          "expanded_url": "https://twitter.com/i/web/status/1604368545202114560",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1604366429674823680,
+    "in_reply_to_status_id_str": "1604366429674823680",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 06:42:19 +0000 2022",
+    "id": 1604366429674823680,
+    "id_str": "1604366429674823680",
+    "text": "覺得應該找一支好一點的日常用筆，一直用到充滿美美的歲月痕跡，而不是滿桌滿抽屜各式各樣、只用一半的筆。\n\n我想找一支不用擔心蓋子遺失、筆蕊可收可替換的鋼珠筆。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 30,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 03:26:00 +0000 2022",
+    "id": 1604317025114808320,
+    "id_str": "1604317025114808320",
+    "text": "這份線上邊做邊學，將 Svelte 與 SvelteKit 官方教學各拆成基礎與進階的四段式教學。基礎兩份學完就可以搗鼓一番，再慢慢摸回進階。\n\n據說是用什麼 WebContainer 技術做的，Safari 居然不支援，好久沒遇… https://t.co/ZcEkNMiOzT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZcEkNMiOzT",
+          "expanded_url": "https://twitter.com/i/web/status/1604317025114808320",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1505026679269253122,
+    "quoted_status_id_str": "1505026679269253122",
+    "quoted_status": {
+      "created_at": "Sat Mar 19 03:41:37 +0000 2022",
+      "id": 1505026679269253122,
+      "id_str": "1505026679269253122",
+      "text": "這裡將 Svelte 官方教學內容精簡了一半，但重點都在，蠻適合當初學課程。\n\n〈Svelte 從小白到入門〉1-17 https://t.co/N7O6Gvrpq9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/N7O6Gvrpq9",
+            "expanded_url": "https://bit.ly/3KXnTTL",
+            "display_url": "bit.ly/3KXnTTL",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "荒原裡的一隻廢棄手機",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5998,
+        "friends_count": 1232,
+        "listed_count": 137,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3719,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 25893,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1573835714",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 03:13:59 +0000 2022",
+    "id": 1604314000174374913,
+    "id_str": "1604314000174374913",
+    "text": "完全忘記 blog 這字其實演變自 Weblog。\n\nhttps://t.co/25Qj6qS0Ni",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/25Qj6qS0Ni",
+          "expanded_url": "https://bit.ly/3VaEpo2",
+          "display_url": "bit.ly/3VaEpo2",
+          "indices": [
+            27,
+            50
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Dec 18 01:24:05 +0000 2022",
+    "id": 1604286343391064064,
+    "id_str": "1604286343391064064",
+    "text": "一篇文學感十足的長文，真人實事。\n\n地產公司開發了名為 Brenda 的 AI 客服機器人，能夠回答許多客戶的提問，但也時常無法理解、或遇到困難，此時她會丟出 HUMAN_FALLBACK 求救。\n\n60名學士以上的人類「備援員」… https://t.co/SYxUTl1pQ7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SYxUTl1pQ7",
+          "expanded_url": "https://twitter.com/i/web/status/1604286343391064064",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Dec 17 06:50:18 +0000 2022",
     "id": 1604006052550168576,
     "id_str": "1604006052550168576",
