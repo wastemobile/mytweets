@@ -1,5 +1,720 @@
 Grailbird.data.tweets_2022_12 = [
   {
+    "created_at": "Thu Dec 22 05:23:37 +0000 2022",
+    "id": 1605796178934829062,
+    "id_str": "1605796178934829062",
+    "text": "郭台銘罵中國政府「禽獸不如」，了解。 https://t.co/ltfCirClk3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ltfCirClk3",
+          "expanded_url": "https://twitter.com/astmarcochu/status/1605732204612440064",
+          "display_url": "twitter.com/astmarcochu/st…",
+          "indices": [
+            19,
+            42
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1605740740608290816,
+    "in_reply_to_status_id_str": "1605740740608290816",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1605732204612440064,
+    "quoted_status_id_str": "1605732204612440064",
+    "quoted_status": {
+      "created_at": "Thu Dec 22 01:09:25 +0000 2022",
+      "id": 1605732204612440064,
+      "id_str": "1605732204612440064",
+      "text": "有點好奇，次蛋白單位疫苗台灣有Novavax、mRNA部份，莫德納提供原始株＋BA.1、原始株+BA.4/5兩種次世代疫苗，然後只因為沒有採購BNT的次世代，政府就要被郭台銘叫作「禽獸」，那不曉得什麼都沒有的中國要叫作什麼？",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2271955915,
+        "id_str": "2271955915",
+        "name": "Marco Chu",
+        "screen_name": "astmarcochu",
+        "location": "Nantou County, Taiwan",
+        "description": "竹山人。讀政治學和國際關係，住過嘉義、花蓮和台南，目前正在埔里工作。喜歡旅行、閱讀、買書、攝影、吃吃喝喝、拾玉、閒晃和烹飪，並書寫相關議題。偶爾投書報章雜誌。期待可以移居東海岸。平日亦接案寫作，意者歡迎私訊內洽。如果推特內容讓你開心，也歡迎自由捐款，支持寫作，帳號：（007）44268106956，謝謝：）",
+        "url": "https://t.co/6lOZ5QtlBi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/6lOZ5QtlBi",
+                "expanded_url": "http://wonderverge.blogspot.tw",
+                "display_url": "wonderverge.blogspot.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 26391,
+        "friends_count": 1925,
+        "listed_count": 97,
+        "created_at": "Wed Jan 01 18:24:34 +0000 2014",
+        "favourites_count": 17017,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7507,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1496493436756656135/j8Wn9PZH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1496493436756656135/j8Wn9PZH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2271955915/1577357069",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 58,
+      "favorite_count": 617,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 22 01:43:20 +0000 2022",
+    "id": 1605740740608290816,
+    "id_str": "1605740740608290816",
+    "text": "所以不管郭台銘未來要選什麼，都記得他是中國復星的掮客。 https://t.co/Ml1lFvonwu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ml1lFvonwu",
+          "expanded_url": "https://twitter.com/usahanablanc/status/1605557859961667585",
+          "display_url": "twitter.com/usahanablanc/s…",
+          "indices": [
+            28,
+            51
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1605557859961667585,
+    "quoted_status_id_str": "1605557859961667585",
+    "quoted_status": {
+      "created_at": "Wed Dec 21 13:36:38 +0000 2022",
+      "id": 1605557859961667585,
+      "id_str": "1605557859961667585",
+      "text": "提醒大家一件事：\n台灣是上海復星唯一買家！\n\n台灣疫情控制太好，3劑疫苗也都打的差不多了，又有充足的摩德納次世代現貨，根本不需要再買BNT。合理懷疑是…\n\n他要當盤子OK呀，反正鴻海員工那麼多，老闆買給員工打合情合理。台灣政府為什… https://t.co/ENZakV4q8S",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ENZakV4q8S",
+            "expanded_url": "https://twitter.com/i/web/status/1605557859961667585",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 217687480,
+        "id_str": "217687480",
+        "name": "takumi",
+        "screen_name": "usahanablanc",
+        "location": "Taipei ",
+        "description": "On ne voit bien qu'avec le coeur. L'essentiel est invisible pour les yeux. (Le petit prince) 💫台灣就是台灣 。討厭各種「膠」，喜歡珍奧斯汀 #JaneAusten。 時々 #강동원 💙💛 #對藍白沒有愛與包容",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 21895,
+        "friends_count": 318,
+        "listed_count": 96,
+        "created_at": "Sat Nov 20 06:36:44 +0000 2010",
+        "favourites_count": 312132,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 105562,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1596147603493703682/URh8I6w3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1596147603493703682/URh8I6w3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/217687480/1670850795",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 169,
+      "favorite_count": 1108,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 7,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 22 00:17:49 +0000 2022",
+    "id": 1605719217893830657,
+    "id_str": "1605719217893830657",
+    "text": "好像真的第一次看到人偶造型智慧音箱，雖然不愛大同寶寶，但蠻有創意的。此例一開，應該會看到更多有趣造型的後續吧？\n\n大同寶寶變身智慧管家，內建 Google 語音助理、可播串流音樂  https://t.co/2dKcU5V2ap https://t.co/Ox8rQGhu7r",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2dKcU5V2ap",
+          "expanded_url": "https://bit.ly/3POithK",
+          "display_url": "bit.ly/3POithK",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1605719212051218432,
+          "id_str": "1605719212051218432",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkipHatVQAAZ-K-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkipHatVQAAZ-K-.jpg",
+          "url": "https://t.co/Ox8rQGhu7r",
+          "display_url": "pic.twitter.com/Ox8rQGhu7r",
+          "expanded_url": "https://twitter.com/wastemobile/status/1605719217893830657/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1605719212051218432,
+          "id_str": "1605719212051218432",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkipHatVQAAZ-K-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkipHatVQAAZ-K-.jpg",
+          "url": "https://t.co/Ox8rQGhu7r",
+          "display_url": "pic.twitter.com/Ox8rQGhu7r",
+          "expanded_url": "https://twitter.com/wastemobile/status/1605719217893830657/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 356,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 21 13:38:06 +0000 2022",
+    "id": 1605558231065014273,
+    "id_str": "1605558231065014273",
+    "text": "因為沒看過《黑暗元素三部曲》小說，幾次電影改拍都只停留在《黃金羅盤》，現在終於知道故事後面在講什麼了⋯⋯\n\nHis Dark Materials Season 3 https://t.co/0eHnJWyolL https://t.co/NcBf4f0378",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0eHnJWyolL",
+          "expanded_url": "https://bit.ly/3PGw4HL",
+          "display_url": "bit.ly/3PGw4HL",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1605558225025126400,
+          "id_str": "1605558225025126400",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkgWsvTUUAAfRxg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkgWsvTUUAAfRxg.jpg",
+          "url": "https://t.co/NcBf4f0378",
+          "display_url": "pic.twitter.com/NcBf4f0378",
+          "expanded_url": "https://twitter.com/wastemobile/status/1605558231065014273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 448,
+              "h": 252,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 448,
+              "h": 252,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 448,
+              "h": 252,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1605558225025126400,
+          "id_str": "1605558225025126400",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkgWsvTUUAAfRxg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkgWsvTUUAAfRxg.jpg",
+          "url": "https://t.co/NcBf4f0378",
+          "display_url": "pic.twitter.com/NcBf4f0378",
+          "expanded_url": "https://twitter.com/wastemobile/status/1605558231065014273/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 448,
+              "h": 252,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 448,
+              "h": 252,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 448,
+              "h": 252,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Dec 21 13:25:10 +0000 2022",
+    "id": 1605554974305370112,
+    "id_str": "1605554974305370112",
+    "text": "為什麼 2022 年用遊戲主機觀看 P 站的數據，Playstation 會一支獨秀的怒漲 20.6% ？？？\n\nPornhub The 2022 Year in Review https://t.co/8l9DtN44Hz https://t.co/eXqSw2ZsX4",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8l9DtN44Hz",
+          "expanded_url": "https://bit.ly/3hIVsjA",
+          "display_url": "bit.ly/3hIVsjA",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1605554968294932480,
+          "id_str": "1605554968294932480",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkgTvLCVQAAtDBN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkgTvLCVQAAtDBN.jpg",
+          "url": "https://t.co/eXqSw2ZsX4",
+          "display_url": "pic.twitter.com/eXqSw2ZsX4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1605554974305370112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 620,
+              "h": 693,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 608,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 620,
+              "h": 693,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1605554968294932480,
+          "id_str": "1605554968294932480",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkgTvLCVQAAtDBN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkgTvLCVQAAtDBN.jpg",
+          "url": "https://t.co/eXqSw2ZsX4",
+          "display_url": "pic.twitter.com/eXqSw2ZsX4",
+          "expanded_url": "https://twitter.com/wastemobile/status/1605554974305370112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 620,
+              "h": 693,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 608,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 620,
+              "h": 693,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1380340492366311427,
+    "in_reply_to_status_id_str": "1380340492366311427",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Dec 20 03:19:09 +0000 2022",
     "id": 1605040080086659072,
     "id_str": "1605040080086659072",
