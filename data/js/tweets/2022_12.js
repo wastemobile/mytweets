@@ -1,5 +1,1727 @@
 Grailbird.data.tweets_2022_12 = [
   {
+    "created_at": "Sat Dec 31 02:11:53 +0000 2022",
+    "id": 1609009416220864514,
+    "id_str": "1609009416220864514",
+    "text": "E-Ink 設備在 2023 顯然會是「手寫筆記」大噴發的一年。\n\n但價位與功能比較下去，還是買 iPad Air 比較實際。\n\nhttps://t.co/otxP7F3jTZ https://t.co/z8ovGvU4U5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/otxP7F3jTZ",
+          "expanded_url": "https://bit.ly/3jFNVmd",
+          "display_url": "bit.ly/3jFNVmd",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1609009408142635011,
+          "id_str": "1609009408142635011",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/FlRZiCSacAM3w3g.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FlRZiCSacAM3w3g.jpg",
+          "url": "https://t.co/z8ovGvU4U5",
+          "display_url": "pic.twitter.com/z8ovGvU4U5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1609009416220864514/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 714,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 714,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 476,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1609009408142635011,
+          "id_str": "1609009408142635011",
+          "indices": [
+            89,
+            112
+          ],
+          "media_url": "http://pbs.twimg.com/media/FlRZiCSacAM3w3g.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FlRZiCSacAM3w3g.jpg",
+          "url": "https://t.co/z8ovGvU4U5",
+          "display_url": "pic.twitter.com/z8ovGvU4U5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1609009416220864514/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 714,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 714,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 476,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 31 02:05:46 +0000 2022",
+    "id": 1609007877242621952,
+    "id_str": "1609007877242621952",
+    "text": "蘋果「密碼」程式，是與 Bitwarden、1Password 相同的登入管理（含2FA）；「鑰匙圈存取」則是管理金鑰用的；YubiKey 是存證書與金鑰的硬體鑰匙圈。 \n\n除了終端機、與上列兩個，好像沒有其他便利一般人管理金鑰的… https://t.co/viGPIKIA7B",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/viGPIKIA7B",
+          "expanded_url": "https://twitter.com/i/web/status/1609007877242621952",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608271971057537024,
+    "in_reply_to_status_id_str": "1608271971057537024",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 31 01:31:21 +0000 2022",
+    "id": 1608999214264242179,
+    "id_str": "1608999214264242179",
+    "text": "錯過了新舞臺藝術節「物件在劇場」，只能來讀一下耿一偉引進的這本《物的力量：從道具到物件劇場》 #toRead https://t.co/X4GObPoNV2 https://t.co/MCQJg6GacX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "toRead",
+          "indices": [
+            47,
+            54
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/X4GObPoNV2",
+          "expanded_url": "https://bit.ly/3WTefr7",
+          "display_url": "bit.ly/3WTefr7",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1608999205217132546,
+          "id_str": "1608999205217132546",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/FlRQQJbaYAIAOr5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FlRQQJbaYAIAOr5.jpg",
+          "url": "https://t.co/MCQJg6GacX",
+          "display_url": "pic.twitter.com/MCQJg6GacX",
+          "expanded_url": "https://twitter.com/wastemobile/status/1608999214264242179/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1353,
+              "h": 1353,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1608999205217132546,
+          "id_str": "1608999205217132546",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/media/FlRQQJbaYAIAOr5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FlRQQJbaYAIAOr5.jpg",
+          "url": "https://t.co/MCQJg6GacX",
+          "display_url": "pic.twitter.com/MCQJg6GacX",
+          "expanded_url": "https://twitter.com/wastemobile/status/1608999214264242179/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1353,
+              "h": 1353,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 31 01:12:41 +0000 2022",
+    "id": 1608994519848189954,
+    "id_str": "1608994519848189954",
+    "text": "無所事事的人有時被稱為 niksnut，意思是（語氣可能是開玩笑也可能是認真）這個人一無是處。\n\n但荷蘭語 Niksen 被重新解讀為正面行為，荷蘭人正擁抱一種生活方式，亦即虛度光陰未必就直接等同於浪費生命。\n\n《無所事事的哲學》… https://t.co/BB446SMMny",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BB446SMMny",
+          "expanded_url": "https://twitter.com/i/web/status/1608994519848189954",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1103475145367150593,
+    "in_reply_to_status_id_str": "1103475145367150593",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 13:02:14 +0000 2022",
+    "id": 1608810692932685825,
+    "id_str": "1608810692932685825",
+    "text": "@Tacochiachi 哈哈哈，很棒的形容，老實說⋯⋯還是有。\n\n但這本是由 124 個短篇章組成的，部分像是雙線故事進行，但不是很嚴謹的拆分；許多新創物、怪異新名詞解釋之類的一如既往，故事算順暢，部分關鍵場景推進還是有草率感。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Tacochiachi",
+          "name": "TucK 451°F",
+          "id": 72563295,
+          "id_str": "72563295",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608806705412079617,
+    "in_reply_to_status_id_str": "1608806705412079617",
+    "in_reply_to_user_id": 72563295,
+    "in_reply_to_user_id_str": "72563295",
+    "in_reply_to_screen_name": "Tacochiachi",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 07:05:55 +0000 2022",
+    "id": 1608721025025597441,
+    "id_str": "1608721025025597441",
+    "text": "只能湊個兔呸。\n\n三種不同元素下去人體煉成，應該能展開 AT 力場了才對。 https://t.co/mPI9SFdoLc",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1608721008726536197,
+          "id_str": "1608721008726536197",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/FlNTO-vacAUD1mr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FlNTO-vacAUD1mr.jpg",
+          "url": "https://t.co/mPI9SFdoLc",
+          "display_url": "pic.twitter.com/mPI9SFdoLc",
+          "expanded_url": "https://twitter.com/wastemobile/status/1608721025025597441/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1608721008726536197,
+          "id_str": "1608721008726536197",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/FlNTO-vacAUD1mr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FlNTO-vacAUD1mr.jpg",
+          "url": "https://t.co/mPI9SFdoLc",
+          "display_url": "pic.twitter.com/mPI9SFdoLc",
+          "expanded_url": "https://twitter.com/wastemobile/status/1608721025025597441/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1552155416229908480,
+    "in_reply_to_status_id_str": "1552155416229908480",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 03:47:42 +0000 2022",
+    "id": 1608671139936768000,
+    "id_str": "1608671139936768000",
+    "text": "@rail61958205 好啦～M2 MacBook Air 給它買下去（並不是",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "rail61958205",
+          "name": "rail61958205",
+          "id": 123416501,
+          "id_str": "123416501",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608670803398373376,
+    "in_reply_to_status_id_str": "1608670803398373376",
+    "in_reply_to_user_id": 123416501,
+    "in_reply_to_user_id_str": "123416501",
+    "in_reply_to_screen_name": "rail61958205",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 03:45:13 +0000 2022",
+    "id": 1608670515690102785,
+    "id_str": "1608670515690102785",
+    "text": "@rail61958205 哈哈哈，你好厲害！\n\n但我還是沒看出究竟是 Macbook Air 或其他⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "rail61958205",
+          "name": "rail61958205",
+          "id": 123416501,
+          "id_str": "123416501",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608668849263738880,
+    "in_reply_to_status_id_str": "1608668849263738880",
+    "in_reply_to_user_id": 123416501,
+    "in_reply_to_user_id_str": "123416501",
+    "in_reply_to_screen_name": "rail61958205",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 03:39:25 +0000 2022",
+    "id": 1608669055120211969,
+    "id_str": "1608669055120211969",
+    "text": "如首推所說，這五本是比爾蓋茲的推薦，沒必要照單全收。\n\n但我覺得若根據這五種不同類別，各挑一本領域符合、又更趨近自己（可能的）興趣範圍的書，不熟悉就挑薄一點的經典硬嗑下去，應該會是很有趣的挑戰。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608666633865932800,
+    "in_reply_to_status_id_str": "1608666633865932800",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 03:29:47 +0000 2022",
+    "id": 1608666633865932800,
+    "id_str": "1608666633865932800",
+    "text": "科普：《門得列夫之夢》\n\n化學普及讀物，門得列夫是發明週期表的人。兼具哲學與科學知識背景的小說家史查森，從門得列夫所做的夢揭開序幕，帶領讀者穿越時空，回溯西方科學之源，追尋化學元素產生的身世之謎。… https://t.co/sSjsRjgZXH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sSjsRjgZXH",
+          "expanded_url": "https://twitter.com/i/web/status/1608666633865932800",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608666082881179648,
+    "in_reply_to_status_id_str": "1608666082881179648",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 03:27:36 +0000 2022",
+    "id": 1608666082881179648,
+    "id_str": "1608666082881179648",
+    "text": "心靈成長：《比賽，從心開始》（The Inner Game of Tennis）\n\n1974 年出版、經典的「教練聖經」，核心思維是除了外在比賽，選手（任何人）真正需要克服與鍛鍊的，是如何打贏與自己內心的賽事。… https://t.co/s1mY2giKot",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/s1mY2giKot",
+          "expanded_url": "https://twitter.com/i/web/status/1608666082881179648",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608665024465358851,
+    "in_reply_to_status_id_str": "1608665024465358851",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 03:23:24 +0000 2022",
+    "id": 1608665024465358851,
+    "id_str": "1608665024465358851",
+    "text": "歷史：《無敵》（Team of Rivals）\n\n封面圖片為1862年，林肯於內閣成員前首次宣讀解放宣言時所繪，選這圖片非常精準，因為這書不是傳統的林肯傳記，而是他如何延攬競爭對手入閣、組成無敵團隊的故事。… https://t.co/NgD8XUNbXW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NgD8XUNbXW",
+          "expanded_url": "https://twitter.com/i/web/status/1608665024465358851",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608663297871732739,
+    "in_reply_to_status_id_str": "1608663297871732739",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 03:16:32 +0000 2022",
+    "id": 1608663297871732739,
+    "id_str": "1608663297871732739",
+    "text": "現代人物傳記：《Surrender》 by Bono\n\n這本 U2 主唱的自傳是剛出的新書，由於比爾蓋茲與其熟識，有置入之嫌～\n\n我知道那一代科技人都很愛 U2，包含賈伯斯在內，並不是非常理解，若出中文版或許會真的嘗試理解一下。… https://t.co/LlWnsCwB3c",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LlWnsCwB3c",
+          "expanded_url": "https://twitter.com/i/web/status/1608663297871732739",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608662326001172481,
+    "in_reply_to_status_id_str": "1608662326001172481",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 03:12:40 +0000 2022",
+    "id": 1608662326001172481,
+    "id_str": "1608662326001172481",
+    "text": "科幻小說：海萊茵《異鄉異客》\n\n首批火星移民唯一留存的孤兒，25年後返回地球，以截然不同的角度體驗地球文明，最後成為創立宗教的先知。\n\n在崇尚打破偶像崇拜與自由性愛的六〇年代，在嬉皮文化崛起前就預言（或推動）了它的澎拜發展。… https://t.co/Q6mV5O3Idy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Q6mV5O3Idy",
+          "expanded_url": "https://twitter.com/i/web/status/1608662326001172481",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608659958278795264,
+    "in_reply_to_status_id_str": "1608659958278795264",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 03:03:16 +0000 2022",
+    "id": 1608659958278795264,
+    "id_str": "1608659958278795264",
+    "text": "比爾蓋茲愛推書舉世聞名，書單隨便找都一大串，但他最近推薦了五本最喜歡的書，書目有點怪，「框架」卻值得大推。\n\n簡單說，科幻小說、當代人物傳記、歷史（人物）、心靈成長，與科普，五類書各挑一本來讀，倘若這些類別平日離你很遠，就更應該在… https://t.co/qRKVr3G0mL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qRKVr3G0mL",
+          "expanded_url": "https://twitter.com/i/web/status/1608659958278795264",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "favorite_count": 94,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 01:49:38 +0000 2022",
+    "id": 1608641429487915009,
+    "id_str": "1608641429487915009",
+    "text": "《邊緣世界》完食，期待下一部《代理人》趕快出。\n\nWilliam Gibson 在致謝中寫了一句：「羅伯・葛雷安先生（Robert Graham）慷慨地為我提供必要的寫作硬體。」\n\n現在滿腦子都在想這「寫作硬體」究竟是什麼⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1605917527174836225,
+    "in_reply_to_status_id_str": "1605917527174836225",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Dec 30 01:41:24 +0000 2022",
+    "id": 1608639358168621058,
+    "id_str": "1608639358168621058",
+    "text": "爛番茄評比統計的「最差小說改編電影」，《黃金羅盤》果然入列，原因很簡單，刻意掩蓋了原著小說對虛偽宗教組織的批判核心意識，僅擷取甜膩的 YA 奇幻元素，就像抽掉靈魂的行屍走肉。\n\nhttps://t.co/0HwDfeObad https://t.co/aijhJs3uTR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0HwDfeObad",
+          "expanded_url": "https://bit.ly/3i1OING",
+          "display_url": "bit.ly/3i1OING",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1608639349641601025,
+          "id_str": "1608639349641601025",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/FlMI9y8aYAEHgSC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FlMI9y8aYAEHgSC.jpg",
+          "url": "https://t.co/aijhJs3uTR",
+          "display_url": "pic.twitter.com/aijhJs3uTR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1608639358168621058/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 451,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 724,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 724,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1608639349641601025,
+          "id_str": "1608639349641601025",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/FlMI9y8aYAEHgSC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FlMI9y8aYAEHgSC.jpg",
+          "url": "https://t.co/aijhJs3uTR",
+          "display_url": "pic.twitter.com/aijhJs3uTR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1608639358168621058/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 451,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 724,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 724,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1605851278986293248,
+    "in_reply_to_status_id_str": "1605851278986293248",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 29 03:34:29 +0000 2022",
+    "id": 1608305428777123840,
+    "id_str": "1608305428777123840",
+    "text": "@archerlotus0203 啊！感謝指正，眼花了⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "archerlotus0203",
+          "name": "archerlotus",
+          "id": 2254299570,
+          "id_str": "2254299570",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608305095027965954,
+    "in_reply_to_status_id_str": "1608305095027965954",
+    "in_reply_to_user_id": 2254299570,
+    "in_reply_to_user_id_str": "2254299570",
+    "in_reply_to_screen_name": "archerlotus0203",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 29 03:21:35 +0000 2022",
+    "id": 1608302181236748288,
+    "id_str": "1608302181236748288",
+    "text": "《林登・約翰遜傳》預計五卷，簡中版今年剛出版第二卷。\n\n反覆改寫、旁徵博引，翻遍每一頁資料、訪談每一位能談之人，原先認為可以用六年時間、以三卷寫完約翰遜的一生，結果這部從 1976 年開始的巨著，第五卷還沒出版，他已 87 歲高齡… https://t.co/1egTv63nVa",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1egTv63nVa",
+          "expanded_url": "https://twitter.com/i/web/status/1608302181236748288",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608299486069116930,
+    "in_reply_to_status_id_str": "1608299486069116930",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 29 03:10:52 +0000 2022",
+    "id": 1608299486069116930,
+    "id_str": "1608299486069116930",
+    "text": "第一本書《The Power Broker》有簡中譯本，獲得 1975 年普立茲獎，傳主是 Robert Moses，傳奇的紐約城市規劃與建設者。\n\n一個靦腆的理想主義者，與美國腐敗的官僚主義對抗，在 34 年間打造了紐約與其向外… https://t.co/XiTFEZ3oC5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XiTFEZ3oC5",
+          "expanded_url": "https://twitter.com/i/web/status/1608299486069116930",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608297688843571200,
+    "in_reply_to_status_id_str": "1608297688843571200",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 29 03:03:44 +0000 2022",
+    "id": 1608297688843571200,
+    "id_str": "1608297688843571200",
+    "text": "卡羅被稱為最後一個十九世紀風格的傳記作家，他會翻遍所有細微瑣碎的資料，手寫到白紙上，修改至第四或五稿時才用老式 Smith Corona 牌 Electra 210 型打字機，再用打字稿修改。\n\n從1976年開始創作多卷本傳記《林… https://t.co/EFq2Ap73wH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EFq2Ap73wH",
+          "expanded_url": "https://twitter.com/i/web/status/1608297688843571200",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608296263589695488,
+    "in_reply_to_status_id_str": "1608296263589695488",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 14,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 29 02:58:04 +0000 2022",
+    "id": 1608296263589695488,
+    "id_str": "1608296263589695488",
+    "text": "“Turn every page. Don’t assume anything. Turn every goddam page.”\n\n片名出自 1959 年卡羅還是名小記者，主編對其挖掘訊息的能力大為讚賞，拉他去做調查記者時告誡他… https://t.co/QE0RxOlqnl",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QE0RxOlqnl",
+          "expanded_url": "https://twitter.com/i/web/status/1608296263589695488",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608294850931355648,
+    "in_reply_to_status_id_str": "1608294850931355648",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 29 02:52:27 +0000 2022",
+    "id": 1608294850931355648,
+    "id_str": "1608294850931355648",
+    "text": "還不知哪裡能看到，但接下來必定要看的一部紀錄片《Turn Every Page》。\n\n講述羅伯特·卡羅（Robert Caro）與其編輯 50 年之間的故事。卡羅獲得兩次普立茲獎、兩次國家圖書獎，但事實上他只寫了兩部書，第二部甚至… https://t.co/f6aEcTMkEc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/f6aEcTMkEc",
+          "expanded_url": "https://twitter.com/i/web/status/1608294850931355648",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 37,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 29 01:21:32 +0000 2022",
+    "id": 1608271971057537024,
+    "id_str": "1608271971057537024",
+    "text": "目前是同時使用蘋果內建的密碼管理程式，以及 Bitwarden，它是開源可自架的，但官方雲端價格非常親人，個人版年費美金 10 元，家庭版 6 人份也只要 $40，我已經是第二年付費使用了。\n\n從 LastPass 匯入至 Bit… https://t.co/aSRVQ9EzUM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aSRVQ9EzUM",
+          "expanded_url": "https://twitter.com/i/web/status/1608271971057537024",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1608261688687751168,
+    "in_reply_to_status_id_str": "1608261688687751168",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Dec 29 00:57:24 +0000 2022",
+    "id": 1608265898028331010,
+    "id_str": "1608265898028331010",
+    "text": "日本連鎖燒肉店焼肉ライク替健身人士提供低脂高蛋白燒肉餐「月票」，每月 10,780 日元，原本預計顧客每曰光顧十來次，最後發現超過 20 次，只好調高價格成 14,080。\n\n月訂閱制這樣玩有夠讚。\n\n要健身，也可月費吃燒肉 |… https://t.co/e4Up7eZ4bF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/e4Up7eZ4bF",
+          "expanded_url": "https://twitter.com/i/web/status/1608265898028331010",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 38,
+    "favorite_count": 404,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu Dec 29 00:40:41 +0000 2022",
+    "id": 1608261688687751168,
+    "id_str": "1608261688687751168",
+    "text": "Wired 雜誌根據一些歷史資料、數據解析，以及 LastPass 對於資訊洩漏事件的回應（或幾乎不回應），建議所有人都不要再使用 LastPass。\n\nYes, It's Time to Ditch LastPass https://t.co/KkIfoKTdRy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KkIfoKTdRy",
+          "expanded_url": "https://bit.ly/3hTUlh9",
+          "display_url": "bit.ly/3hTUlh9",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1606441173413154816,
+    "in_reply_to_status_id_str": "1606441173413154816",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Dec 28 04:53:47 +0000 2022",
     "id": 1607962996579667969,
     "id_str": "1607962996579667969",
