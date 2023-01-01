@@ -1,5 +1,291 @@
 Grailbird.data.tweets_2022_12 = [
   {
+    "created_at": "Sat Dec 31 09:47:58 +0000 2022",
+    "id": 1609124193546960896,
+    "id_str": "1609124193546960896",
+    "text": "深白色居然發專輯了 https://t.co/Q0QzM6YxV5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Q0QzM6YxV5",
+          "expanded_url": "https://music.apple.com/tw/album/%E9%80%86%E7%81%AB/1660762057?i=1660762059",
+          "display_url": "music.apple.com/tw/album/%E9%8…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 31 08:47:03 +0000 2022",
+    "id": 1609108862904459266,
+    "id_str": "1609108862904459266",
+    "text": "雖然我與這篇文章的選擇不太一樣，但 2022 真可以說是數位工具進行減法工程的一年，很棒。\n\n2022 年我不再使用的工具 - 還是喜歡，但用不到了 https://t.co/ms3DFQGknJ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ms3DFQGknJ",
+          "expanded_url": "https://bit.ly/3jpQGaZ",
+          "display_url": "bit.ly/3jpQGaZ",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Dec 31 07:40:37 +0000 2022",
+    "id": 1609092142936510464,
+    "id_str": "1609092142936510464",
+    "text": "RT @scheeinfo: For Sale on eBay: A Military Database of Fingerprints and Iris Scans https://t.co/Y2v1XtrkQ7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "scheeinfo",
+          "name": "T.H.｜@schee@mastodon.social",
+          "id": 13500732,
+          "id_str": "13500732",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y2v1XtrkQ7",
+          "expanded_url": "https://www.nytimes.com/2022/12/27/technology/for-sale-on-ebay-a-military-database-of-fingerprints-and-iris-scans.html?smid=tw-share",
+          "display_url": "nytimes.com/2022/12/27/tec…",
+          "indices": [
+            84,
+            107
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Dec 31 07:37:30 +0000 2022",
+      "id": 1609091360744931328,
+      "id_str": "1609091360744931328",
+      "text": "For Sale on eBay: A Military Database of Fingerprints and Iris Scans https://t.co/Y2v1XtrkQ7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Y2v1XtrkQ7",
+            "expanded_url": "https://www.nytimes.com/2022/12/27/technology/for-sale-on-ebay-a-military-database-of-fingerprints-and-iris-scans.html?smid=tw-share",
+            "display_url": "nytimes.com/2022/12/27/tec…",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 13500732,
+        "id_str": "13500732",
+        "name": "T.H.｜@schee@mastodon.social",
+        "screen_name": "scheeinfo",
+        "location": "Taiwan",
+        "description": "Worked on Taiwan’s internet for 20+ yrs · littoral · deep knowledge abt TW @oktaiwanonline · prsnl acct | 中文 @thschee",
+        "url": "https://t.co/IRh6FTTm8P",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/IRh6FTTm8P",
+                "expanded_url": "https://blog.schee.info",
+                "display_url": "blog.schee.info",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3899,
+        "friends_count": 379,
+        "listed_count": 247,
+        "created_at": "Fri Feb 15 02:34:56 +0000 2008",
+        "favourites_count": 19929,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3422,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1375489948237791233/4r6Tl9SA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375489948237791233/4r6Tl9SA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13500732/1642766569",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Sat Dec 31 02:11:53 +0000 2022",
     "id": 1609009416220864514,
     "id_str": "1609009416220864514",
