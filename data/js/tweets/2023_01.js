@@ -1,5 +1,416 @@
 Grailbird.data.tweets_2023_01 = [
   {
+    "created_at": "Tue Jan 03 01:02:49 +0000 2023",
+    "id": 1610079199540432901,
+    "id_str": "1610079199540432901",
+    "text": "鑰匙被有心人摸走了，自然會開門進去搬東西。\n\n比特幣核心開發者「私鑰洩漏」被駭超 200 BTC！CZ：證明自託管也有風險 https://t.co/kqdpfUeHfg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kqdpfUeHfg",
+          "expanded_url": "https://bit.ly/3GbZdpP",
+          "display_url": "bit.ly/3GbZdpP",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1609007877242621952,
+    "in_reply_to_status_id_str": "1609007877242621952",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 02 15:29:03 +0000 2023",
+    "id": 1609934806191833088,
+    "id_str": "1609934806191833088",
+    "text": "沒用過 Heptabase，這篇其台籍創辦人寫的 2022 功能開發回顧，算是蠻清楚的（後半是中文）。\n\n功能很強，但看起來是專有格式、儲存於（本地）資料庫、透過雲端同步；其說明wiki中一次都沒提到如何匯出；無試用，僅提供一週內… https://t.co/u83QrBuOVd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/u83QrBuOVd",
+          "expanded_url": "https://twitter.com/i/web/status/1609934806191833088",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1609108862904459266,
+    "in_reply_to_status_id_str": "1609108862904459266",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 02 08:16:03 +0000 2023",
+    "id": 1609825837305720832,
+    "id_str": "1609825837305720832",
+    "text": "@TheFO01 @rainachang0723 主要還是用 Pocket 閱讀已去除大多數網頁雜項元素的精簡後文章，一般網頁用 reader 載入還是嫌慢。\n\nhttps://t.co/6PhLoSlguj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TheFO01",
+          "name": "戇呆",
+          "id": 1633241959,
+          "id_str": "1633241959",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "rainachang0723",
+          "name": "Raina. C",
+          "id": 62828768,
+          "id_str": "62828768",
+          "indices": [
+            9,
+            24
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6PhLoSlguj",
+          "expanded_url": "https://bit.ly/3IhhNPR",
+          "display_url": "bit.ly/3IhhNPR",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1609821741295235072,
+    "in_reply_to_status_id_str": "1609821741295235072",
+    "in_reply_to_user_id": 1633241959,
+    "in_reply_to_user_id_str": "1633241959",
+    "in_reply_to_screen_name": "TheFO01",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 02 07:53:16 +0000 2023",
+    "id": 1609820103989919744,
+    "id_str": "1609820103989919744",
+    "text": "@rainachang0723 若習慣用 Pocket 稍後再讀服務的話，Kobo 閱讀器內建支援，使用流程應該是最簡單的。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "rainachang0723",
+          "name": "Raina. C",
+          "id": 62828768,
+          "id_str": "62828768",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1609811686474801154,
+    "in_reply_to_status_id_str": "1609811686474801154",
+    "in_reply_to_user_id": 62828768,
+    "in_reply_to_user_id_str": "62828768",
+    "in_reply_to_screen_name": "rainachang0723",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 02 07:46:41 +0000 2023",
+    "id": 1609818446698795009,
+    "id_str": "1609818446698795009",
+    "text": "RT @in_somewhere: https://t.co/iH876uhqlu\n中央流行疫情指揮中心今天公布，昨天自桃園國際機場入境的中國來台旅客共採檢524人次，其中陰性為378人、陽性為146人，陽性率為27.8%。\n\n莊人祥說，台灣暫時沒有開放中國觀光客入境，再加上邊…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "in_somewhere",
+          "name": "金醬厚🥟🍓🍑🌶️🪺",
+          "id": 584930188,
+          "id_str": "584930188",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iH876uhqlu",
+          "expanded_url": "https://www.cna.com.tw/news/ahel/202301020127.aspx",
+          "display_url": "cna.com.tw/news/ahel/2023…",
+          "indices": [
+            18,
+            41
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 02 07:23:33 +0000 2023",
+      "id": 1609812625315237889,
+      "id_str": "1609812625315237889",
+      "text": "https://t.co/iH876uhqlu\n中央流行疫情指揮中心今天公布，昨天自桃園國際機場入境的中國來台旅客共採檢524人次，其中陰性為378人、陽性為146人，陽性率為27.8%。\n\n莊人祥說，台灣暫時沒有開放中國觀光客入… https://t.co/YVSkEUWhoZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iH876uhqlu",
+            "expanded_url": "https://www.cna.com.tw/news/ahel/202301020127.aspx",
+            "display_url": "cna.com.tw/news/ahel/2023…",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "https://t.co/YVSkEUWhoZ",
+            "expanded_url": "https://twitter.com/i/web/status/1609812625315237889",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 584930188,
+        "id_str": "584930188",
+        "name": "金醬厚🥟🍓🍑🌶️🪺",
+        "screen_name": "in_somewhere",
+        "location": "",
+        "description": "Anything Is Possible。 也沒什麼特別，平常就是看看書聽聽音樂，吹吹風。黑貓按讚專科。🙌台灣是我的國家🙌。基本禮貌 轉載請標示出處。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3838,
+        "friends_count": 683,
+        "listed_count": 34,
+        "created_at": "Sat May 19 17:03:17 +0000 2012",
+        "favourites_count": 15192,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 60896,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1539907412488253440/79MB_xDf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1539907412488253440/79MB_xDf_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/584930188/1666869145",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 34,
+      "favorite_count": 286,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 34,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jan 02 06:59:39 +0000 2023",
     "id": 1609806609089454086,
     "id_str": "1609806609089454086",
