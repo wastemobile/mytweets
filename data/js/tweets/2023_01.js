@@ -1,5 +1,634 @@
 Grailbird.data.tweets_2023_01 = [
   {
+    "created_at": "Fri Jan 13 00:35:34 +0000 2023",
+    "id": 1613696218349309956,
+    "id_str": "1613696218349309956",
+    "text": "一份新的閱讀報告顯示，84% 的法國年輕人仍熱愛閱讀，最愛看的種類是連環漫畫、小說、日本漫畫，不限紙本，看螢幕的時間比看紙書長。\n\n紙本書在法國仍佔超過 90% 的銷售量，電子書以一種「邊緣化」的速率發展──只有 1% 的法國人「… https://t.co/PLH23RYTL3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PLH23RYTL3",
+          "expanded_url": "https://twitter.com/i/web/status/1613696218349309956",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 12 01:15:50 +0000 2023",
+    "id": 1613343966522667008,
+    "id_str": "1613343966522667008",
+    "text": "只根據自己推文曾紀錄過的 Overdrive 數據（數位下載數），成長曲線明顯：\n\n2016 近兩億\n2018 2.25億\n2020 4.17億\n2021 5.55億\n\n127 Libraries loan out 1 milli… https://t.co/iy0G9Z1ibY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iy0G9Z1ibY",
+          "expanded_url": "https://twitter.com/i/web/status/1613343966522667008",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 12 00:11:20 +0000 2023",
+    "id": 1613327732724895744,
+    "id_str": "1613327732724895744",
+    "text": "我對愛沙尼亞的印象，就是《極樂迪斯可》，以及家庭圖書館平均藏書 218 本，勇冠全球。 https://t.co/9cPAb1hYUU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9cPAb1hYUU",
+          "expanded_url": "https://twitter.com/wastemobile/status/1052008058535067650",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1613321679064928256,
+    "in_reply_to_status_id_str": "1613321679064928256",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1052008058535067650,
+    "quoted_status_id_str": "1052008058535067650",
+    "quoted_status": {
+      "created_at": "Tue Oct 16 01:27:21 +0000 2018",
+      "id": 1052008058535067650,
+      "id_str": "1052008058535067650",
+      "text": "沒想到還有這種統計：「澳洲每個家庭擁有 148 本書，書迷國愛沙尼亞有 218 本；北歐挪威家庭平均有 212 本、瑞典有 210 本，擊敗英國的 143 本以及美國的 114 本；日本有 102 本，新加坡只有 52 本。」… https://t.co/7iRGcojvJ2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7iRGcojvJ2",
+            "expanded_url": "https://twitter.com/i/web/status/1052008058535067650",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "荒原裡的一隻廢棄手機",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6166,
+        "friends_count": 1234,
+        "listed_count": 139,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3716,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26030,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1573835714",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jan 12 00:03:25 +0000 2023",
+    "id": 1613325740451434496,
+    "id_str": "1613325740451434496",
+    "text": "Sanjeev 拆解一台90年代的 Brother AX-325 電動打字機，改用 Arduino 控制，提問則通過樹莓派連接 OpenAI GPT-3 API，然後⋯⋯打字印出來，就像一台住著幽靈的打字機。\n\n一種呆萌的酷。… https://t.co/9ge3SHJMwq",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9ge3SHJMwq",
+          "expanded_url": "https://twitter.com/i/web/status/1613325740451434496",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 11 23:47:17 +0000 2023",
+    "id": 1613321679064928256,
+    "id_str": "1613321679064928256",
+    "text": "花100歐元即可成為愛沙尼亞的「數位居民」，沒有居留權、沒有簽證，但可以開銀行帳戶、設立公司、金融支付。愛沙尼亞的公司，居然有三成是數位居民創立的。\n\n「未來已來，只是尚未流行。」\n\n愛沙尼亞的中國「數字居民」：通往新身份之路… https://t.co/ugkJ7I1soT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ugkJ7I1soT",
+          "expanded_url": "https://twitter.com/i/web/status/1613321679064928256",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 55,
+    "favorite_count": 277,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 11 14:51:15 +0000 2023",
+    "id": 1613186785601019904,
+    "id_str": "1613186785601019904",
+    "text": "@_i_select @1Password 看了它的宣告頁，怪怪的。\n\n只解釋 Passkey 私鑰是由硬體＋生物辨識生成，沒明講是否（上傳）交給它管理了，但為了跨平台、以及新推出的行動無密碼驗證器，很像是「私鑰託管」，類似現在錢… https://t.co/dwCJv3h9Dw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "_i_select",
+          "name": "I Select 為您精選",
+          "id": 1608830617587961857,
+          "id_str": "1608830617587961857",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "1Password",
+          "name": "1Password",
+          "id": 793926,
+          "id_str": "793926",
+          "indices": [
+            11,
+            21
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dwCJv3h9Dw",
+          "expanded_url": "https://twitter.com/i/web/status/1613186785601019904",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1613178507789762563,
+    "in_reply_to_status_id_str": "1613178507789762563",
+    "in_reply_to_user_id": 1608830617587961857,
+    "in_reply_to_user_id_str": "1608830617587961857",
+    "in_reply_to_screen_name": "_i_select",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 11 14:15:36 +0000 2023",
+    "id": 1613177811031953408,
+    "id_str": "1613177811031953408",
+    "text": "What is wrong with Apple Passkeys? https://t.co/fs5fC6v51d https://t.co/vVJ1yC2o7S",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fs5fC6v51d",
+          "expanded_url": "https://bit.ly/3GVYZEN",
+          "display_url": "bit.ly/3GVYZEN",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1613177801733177345,
+          "id_str": "1613177801733177345",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/FmMoqefaAAE09ZK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FmMoqefaAAE09ZK.jpg",
+          "url": "https://t.co/vVJ1yC2o7S",
+          "display_url": "pic.twitter.com/vVJ1yC2o7S",
+          "expanded_url": "https://twitter.com/wastemobile/status/1613177811031953408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1600,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1613177801733177345,
+          "id_str": "1613177801733177345",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/FmMoqefaAAE09ZK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FmMoqefaAAE09ZK.jpg",
+          "url": "https://t.co/vVJ1yC2o7S",
+          "display_url": "pic.twitter.com/vVJ1yC2o7S",
+          "expanded_url": "https://twitter.com/wastemobile/status/1613177811031953408/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1600,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1607392578303070209,
+    "in_reply_to_status_id_str": "1607392578303070209",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jan 11 13:11:54 +0000 2023",
+    "id": 1613161782696349696,
+    "id_str": "1613161782696349696",
+    "text": "金球獎最佳戲劇類影集「龍族前傳」（House of the Dragon），是轉來轉去、經過一百次都沒有打開來看的影集，可見被《冰與火之歌》爛尾傷害得有多深⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jan 10 23:31:28 +0000 2023",
     "id": 1612955311920513024,
     "id_str": "1612955311920513024",
