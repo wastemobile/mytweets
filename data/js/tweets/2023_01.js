@@ -1,5 +1,170 @@
 Grailbird.data.tweets_2023_01 = [
   {
+    "created_at": "Mon Jan 23 00:57:35 +0000 2023",
+    "id": 1617325637634764801,
+    "id_str": "1617325637634764801",
+    "text": "隱形的電子書市場\n\nKDP Global Fund Payouts（單位 million 百萬美金）\n\n2022: 522.1\n2021: 450.1\n2020: 377\n2019: 301.4\n2018: 267.9\n2017:… https://t.co/fTzUsSExvv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fTzUsSExvv",
+          "expanded_url": "https://twitter.com/i/web/status/1617325637634764801",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1617324049943908355,
+    "in_reply_to_status_id_str": "1617324049943908355",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 23 00:51:16 +0000 2023",
+    "id": 1617324049943908355,
+    "id_str": "1617324049943908355",
+    "text": "美國出版商協會公布至 2022/11 的數字顯示，相比 2021、一般消費市場的電子書銷售下降了 6.3%，總額為 9.28 億美元，亦即 2022 全年、以有參加 AAP 的美國出版商統計，差不多 10 億。\n\n而 Kindle… https://t.co/2x4taJSBM4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2x4taJSBM4",
+          "expanded_url": "https://twitter.com/i/web/status/1617324049943908355",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1606914444189401088,
+    "in_reply_to_status_id_str": "1606914444189401088",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 22 07:16:48 +0000 2023",
+    "id": 1617058686094172162,
+    "id_str": "1617058686094172162",
+    "text": "比對 OverDrive（僅有數位版），《沼澤謀殺案》是有聲書借閱第一名（未進電子書前十）；《不存在的罪人》電子書借閱第四（未進有聲書榜）。\n\n電子書借閱首位《The Last Thing He Told Me》，簡繁中文版權皆已… https://t.co/LrSdAbxnPR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LrSdAbxnPR",
+          "expanded_url": "https://twitter.com/i/web/status/1617058686094172162",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1617037083251740673,
+    "in_reply_to_status_id_str": "1617037083251740673",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jan 22 05:50:58 +0000 2023",
     "id": 1617037083251740673,
     "id_str": "1617037083251740673",
