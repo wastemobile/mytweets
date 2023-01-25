@@ -1,5 +1,604 @@
 Grailbird.data.tweets_2023_01 = [
   {
+    "created_at": "Wed Jan 25 00:53:40 +0000 2023",
+    "id": 1618049428463693824,
+    "id_str": "1618049428463693824",
+    "text": "檢查了各英語系圖書市場，以及主流媒體對 Colleen Hoover 2022 銷售奇蹟的分析解讀，除了續集新帶舊效應外，主要還是社群媒體（主要是 TikTok）年輕女性的貢獻。\n\n尊稱 Queen of BookTok，各平台加… https://t.co/NJNXcTbz8m",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NJNXcTbz8m",
+          "expanded_url": "https://twitter.com/i/web/status/1618049428463693824",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1617058686094172162,
+    "in_reply_to_status_id_str": "1617058686094172162",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jan 25 00:15:01 +0000 2023",
+    "id": 1618039700966739970,
+    "id_str": "1618039700966739970",
+    "text": "看起來 iOS 16.3 提升了安全性，可選擇從目前的「標準資料保護」變更成「iCloud 進階資料保護」，也開始能用硬體鑰匙（例如 YubiKey 5 NFC）二次驗證 Apple ID。\n\n但需要兩個安全密鑰，一個隨身攜帶，另… https://t.co/01REBfEbOk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/01REBfEbOk",
+          "expanded_url": "https://twitter.com/i/web/status/1618039700966739970",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1615555683998633985,
+    "in_reply_to_status_id_str": "1615555683998633985",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 23 15:05:22 +0000 2023",
+    "id": 1617538989107580929,
+    "id_str": "1617538989107580929",
+    "text": "還有一個非常奇葩的建構 hvx，也是用 golang 寫的，企圖實作一個完全分散的社交網路。\n\n它的思維是：一般資訊以 ActivityPub 協議參與聯邦宇宙；私訊套用端到端加密的 Matrix 協議；然後資訊儲存在 IPFS… https://t.co/xwCFZETCpP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xwCFZETCpP",
+          "expanded_url": "https://twitter.com/i/web/status/1617538989107580929",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1617351859769053184,
+    "in_reply_to_status_id_str": "1617351859769053184",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 23 14:58:20 +0000 2023",
+    "id": 1617537222374469633,
+    "id_str": "1617537222374469633",
+    "text": "這當然是要先截圖留存一下～ https://t.co/Lh77qiQyeI https://t.co/QpnADF4KaE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Lh77qiQyeI",
+          "expanded_url": "https://twitter.com/notionhq/status/1615789775520432129",
+          "display_url": "twitter.com/notionhq/statu…",
+          "indices": [
+            14,
+            37
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1617537214216548353,
+          "id_str": "1617537214216548353",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/FnKlhrhaMAEnEtZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FnKlhrhaMAEnEtZ.jpg",
+          "url": "https://t.co/QpnADF4KaE",
+          "display_url": "pic.twitter.com/QpnADF4KaE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1617537222374469633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1617537214216548353,
+          "id_str": "1617537214216548353",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/FnKlhrhaMAEnEtZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FnKlhrhaMAEnEtZ.jpg",
+          "url": "https://t.co/QpnADF4KaE",
+          "display_url": "pic.twitter.com/QpnADF4KaE",
+          "expanded_url": "https://twitter.com/wastemobile/status/1617537222374469633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 675,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 1334,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1615789775520432129,
+    "quoted_status_id_str": "1615789775520432129",
+    "quoted_status": {
+      "created_at": "Wed Jan 18 19:14:37 +0000 2023",
+      "id": 1615789775520432129,
+      "id_str": "1615789775520432129",
+      "text": "We just hit 1 MILLION MEMBERS across community-led Notion groups, representing all of these countries (wow!):\n\n🇵🇱🇷🇺… https://t.co/ovQAWeEMOk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ovQAWeEMOk",
+            "expanded_url": "https://twitter.com/i/web/status/1615789775520432129",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 708915428454576128,
+        "id_str": "708915428454576128",
+        "name": "Notion",
+        "screen_name": "NotionHQ",
+        "location": "San Francisco, CA",
+        "description": "The all-in-one workspace — for your tasks, notes, wikis, and calendar.",
+        "url": "https://t.co/By9b4I5PYg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/By9b4I5PYg",
+                "expanded_url": "http://www.notion.so",
+                "display_url": "notion.so",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 369905,
+        "friends_count": 3556,
+        "listed_count": 4008,
+        "created_at": "Sun Mar 13 07:19:43 +0000 2016",
+        "favourites_count": 41985,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 48765,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1510138251889328128/mCjpYHqx_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1510138251889328128/mCjpYHqx_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/708915428454576128/1642615516",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 162,
+      "favorite_count": 3687,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 23 14:23:39 +0000 2023",
+    "id": 1617528493113507841,
+    "id_str": "1617528493113507841",
+    "text": "哈哈哈！這人真的是很用力噴華納～\n\n但完全同意。\n\nDC 電影宇宙如何走向失敗？這個視頻告訴你！ https://t.co/4mySzTrAoC https://t.co/6OqQ6XvRuO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4mySzTrAoC",
+          "expanded_url": "https://youtu.be/V0gu6OhdTwo",
+          "display_url": "youtu.be/V0gu6OhdTwo",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1617528487405039624,
+          "id_str": "1617528487405039624",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/FnKdltnaMAg_hqr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FnKdltnaMAg_hqr.jpg",
+          "url": "https://t.co/6OqQ6XvRuO",
+          "display_url": "pic.twitter.com/6OqQ6XvRuO",
+          "expanded_url": "https://twitter.com/wastemobile/status/1617528493113507841/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 404,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 404,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1617528487405039624,
+          "id_str": "1617528487405039624",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/media/FnKdltnaMAg_hqr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FnKdltnaMAg_hqr.jpg",
+          "url": "https://t.co/6OqQ6XvRuO",
+          "display_url": "pic.twitter.com/6OqQ6XvRuO",
+          "expanded_url": "https://twitter.com/wastemobile/status/1617528493113507841/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 382,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 404,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 720,
+              "h": 404,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 23 02:41:46 +0000 2023",
+    "id": 1617351859769053184,
+    "id_str": "1617351859769053184",
+    "text": "Headless Mastodon = GoToSocial.\n\n以 Go 撰寫、僅有 API 的超輕量主機，單用戶、百人左右關注數量只耗用 50 至 100MB 記憶體，安裝在樹莓派或低標 VPS 上也不吃力。\n\n(GtS +… https://t.co/4PsRTyjDyd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4PsRTyjDyd",
+          "expanded_url": "https://twitter.com/i/web/status/1617351859769053184",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1614550718131875841,
+    "in_reply_to_status_id_str": "1614550718131875841",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Jan 23 00:57:35 +0000 2023",
     "id": 1617325637634764801,
     "id_str": "1617325637634764801",
