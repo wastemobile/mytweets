@@ -1,5 +1,478 @@
 Grailbird.data.tweets_2023_01 = [
   {
+    "created_at": "Fri Jan 27 03:30:26 +0000 2023",
+    "id": 1618813658477527042,
+    "id_str": "1618813658477527042",
+    "text": "RT @initiumnews: 【日媒：告發園子溫導演性侵害的女性演員千葉美裸已輕生離世】\n\n據日媒《週刊文春》報道，去年揭發日本名導園子溫性侵事件的演員千葉美裸自殺離世，得年36歲。報道稱，再加上千葉美裸的推特顯示，她在去年早已患病，同時受事件負面影響，於是在去年12月做出…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "initiumnews",
+          "name": "端傳媒 Initium Media",
+          "id": 3232393554,
+          "id_str": "3232393554",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 27 02:47:45 +0000 2023",
+      "id": 1618802914876874753,
+      "id_str": "1618802914876874753",
+      "text": "【日媒：告發園子溫導演性侵害的女性演員千葉美裸已輕生離世】\n\n據日媒《週刊文春》報道，去年揭發日本名導園子溫性侵事件的演員千葉美裸自殺離世，得年36歲。報道稱，再加上千葉美裸的推特顯示，她在去年早已患病，同時受事件負面影響，於是在… https://t.co/L2wrdN1lmy",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/L2wrdN1lmy",
+            "expanded_url": "https://twitter.com/i/web/status/1618802914876874753",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3232393554,
+        "id_str": "3232393554",
+        "name": "端傳媒 Initium Media",
+        "screen_name": "initiumnews",
+        "location": "",
+        "description": "端傳媒成立於 2015 年，面向全球華文讀者，專注於原創深度報導和評論。上線以來獲得逾 80 個新聞及攝影大獎，累積付費會員超過 60,000 名。 端傳媒官方Telegram頻道：https://t.co/P2lktHvxgK",
+        "url": "https://t.co/MuSv6GqPay",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/MuSv6GqPay",
+                "expanded_url": "https://bit.ly/2MzG2OZ",
+                "display_url": "bit.ly/2MzG2OZ",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/P2lktHvxgK",
+                "expanded_url": "http://t.me/theinitiumnews",
+                "display_url": "t.me/theinitiumnews",
+                "indices": [
+                  91,
+                  114
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 253037,
+        "friends_count": 635,
+        "listed_count": 1852,
+        "created_at": "Mon Jun 01 10:16:14 +0000 2015",
+        "favourites_count": 401,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 33405,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1606703307321659392/r5erV3CM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1606703307321659392/r5erV3CM_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3232393554/1674304220",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 100,
+      "favorite_count": 203,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 100,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 27 03:24:58 +0000 2023",
+    "id": 1618812281365893120,
+    "id_str": "1618812281365893120",
+    "text": "Taylor Jenkins Reid 在小說中寫了 24 首原創歌詞，所以雖然是虛構樂團，但真的發行了專輯（目前釋出一首可聽），毫無疑問是滿滿的七〇年代感～\n\nhttps://t.co/0ARXyKtxLF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0ARXyKtxLF",
+          "expanded_url": "https://music.apple.com/tw/album/aurora/1666114835",
+          "display_url": "music.apple.com/tw/album/auror…",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1618809206727139329,
+    "in_reply_to_status_id_str": "1618809206727139329",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 27 03:12:45 +0000 2023",
+    "id": 1618809206727139329,
+    "id_str": "1618809206727139329",
+    "text": "《Daisy Jones &amp; the Six》，非常期待的書籍改編影集釋出簡短預告，3/3 上檔。\n\n小說是作者喜歡用的偽紀實訪談，虛構了七〇年代搖滾樂團崛起、解散的故事，還與前一本《The Seven Husbands of E… https://t.co/d1Um06HPmN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d1Um06HPmN",
+          "expanded_url": "https://twitter.com/i/web/status/1618809206727139329",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 27 01:51:45 +0000 2023",
+    "id": 1618788822556475393,
+    "id_str": "1618788822556475393",
+    "text": "@arguskao 玩玩就砍掉了，沒有深入使用類 Airtable 的需求。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "arguskao",
+          "name": "高藥師",
+          "id": 5522882,
+          "id_str": "5522882",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1618788370804789256,
+    "in_reply_to_status_id_str": "1618788370804789256",
+    "in_reply_to_user_id": 5522882,
+    "in_reply_to_user_id_str": "5522882",
+    "in_reply_to_screen_name": "arguskao",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jan 27 01:01:13 +0000 2023",
+    "id": 1618776102981472257,
+    "id_str": "1618776102981472257",
+    "text": "嗚哈！9/29 《沈默的艦隊》真人電影。\n\n小擔心，希望 Amazon 盯緊一點。\n\nAmazon Original『沈黙の艦隊』 https://t.co/KbvzewHC2W https://t.co/GxyIufLoAa",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KbvzewHC2W",
+          "expanded_url": "https://silent-service.jp/",
+          "display_url": "silent-service.jp",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1618776088280465410,
+          "id_str": "1618776088280465410",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FncMRpDagAIrRRU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FncMRpDagAIrRRU.jpg",
+          "url": "https://t.co/GxyIufLoAa",
+          "display_url": "pic.twitter.com/GxyIufLoAa",
+          "expanded_url": "https://twitter.com/wastemobile/status/1618776102981472257/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 516,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 910,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1554,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1618776088280465410,
+          "id_str": "1618776088280465410",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/FncMRpDagAIrRRU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FncMRpDagAIrRRU.jpg",
+          "url": "https://t.co/GxyIufLoAa",
+          "display_url": "pic.twitter.com/GxyIufLoAa",
+          "expanded_url": "https://twitter.com/wastemobile/status/1618776102981472257/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 516,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 910,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1554,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Thu Jan 26 01:41:35 +0000 2023",
     "id": 1618423874412236801,
     "id_str": "1618423874412236801",
