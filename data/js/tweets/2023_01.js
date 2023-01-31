@@ -1,5 +1,704 @@
 Grailbird.data.tweets_2023_01 = [
   {
+    "created_at": "Tue Jan 31 00:39:35 +0000 2023",
+    "id": 1620220211071971329,
+    "id_str": "1620220211071971329",
+    "text": "這篇在討論歐盟著作權標準，挑戰當然是目前與未來海量的 AI 生成產物。最後幾段關於程式寫作的「感覺」，非常貼切，大概是擋不住的趨勢。\n\n當 AI 跨過奇點、彼此開始用人類看不懂的語言溝通時，它們一定會將 OpenAI 尊為教主，讚… https://t.co/cWTzn0QnRy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cWTzn0QnRy",
+          "expanded_url": "https://twitter.com/i/web/status/1620220211071971329",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jan 31 00:00:47 +0000 2023",
+    "id": 1620210449890574336,
+    "id_str": "1620210449890574336",
+    "text": "建築面積僅 13 坪，山之內淡打造了名為「ある漫画家の自邸」的木製獨立住宅，想法源自士郎正宗於《攻殼機動隊》所提出對世界各地與故事產生巨大影響的「Ghost」概念，故設計理念命名為「Architecture of Ghost」。… https://t.co/umnLYFb0Gf",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/umnLYFb0Gf",
+          "expanded_url": "https://twitter.com/i/web/status/1620210449890574336",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1612955311920513024,
+    "in_reply_to_status_id_str": "1612955311920513024",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Mon Jan 30 14:37:54 +0000 2023",
+    "id": 1620068793828651009,
+    "id_str": "1620068793828651009",
+    "text": "RT @caitchang: 現在又出現了黨派去遊說中國「開放」台灣食品，但要先了解的是中國先前在2021年制定了一個新規定，又特別對台灣食藥署要求在半個月內處理完食品業的註冊、再特別用紙本寄出，然後接連1年內陸續禁，水產衝擊最大，為什麼？（1/6）",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "caitchang",
+          "name": "Cait Chang",
+          "id": 42413619,
+          "id_str": "42413619",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 30 14:30:56 +0000 2023",
+      "id": 1620067041637183488,
+      "id_str": "1620067041637183488",
+      "text": "現在又出現了黨派去遊說中國「開放」台灣食品，但要先了解的是中國先前在2021年制定了一個新規定，又特別對台灣食藥署要求在半個月內處理完食品業的註冊、再特別用紙本寄出，然後接連1年內陸續禁，水產衝擊最大，為什麼？（1/6）",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 42413619,
+        "id_str": "42413619",
+        "name": "Cait Chang",
+        "screen_name": "caitchang",
+        "location": "",
+        "description": "PD of @readerscaitlog ⏸️\nCorrespondent.",
+        "url": "https://t.co/S067T36RJa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/S067T36RJa",
+                "expanded_url": "http://caitchang.tumblr.com",
+                "display_url": "caitchang.tumblr.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1070,
+        "friends_count": 454,
+        "listed_count": 25,
+        "created_at": "Mon May 25 14:25:49 +0000 2009",
+        "favourites_count": 4887,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13167,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "66625F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/484274776320376834/EGJCpeze_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/484274776320376834/EGJCpeze_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/42413619/1499621742",
+        "profile_link_color": "542D0D",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Jan 30 02:32:50 +0000 2023",
+    "id": 1619886323694997504,
+    "id_str": "1619886323694997504",
+    "text": "RT @patrick_shieh: @wastemobile https://t.co/VZzbEFjHBp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "patrick_shieh",
+          "name": "Patrick",
+          "id": 403154712,
+          "id_str": "403154712",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "wastemobile",
+          "name": "wastemobile",
+          "id": 20709129,
+          "id_str": "20709129",
+          "indices": [
+            19,
+            31
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VZzbEFjHBp",
+          "expanded_url": "https://cn.nytimes.com/culture/20221012/chip-war-chris-miller/zh-hant/?fbclid=IwAR0rKJH4eAP2r7pHzQIIlPsJApy6HeF31jb0P15poWYiJ-rYT8AuigMSx18",
+          "display_url": "cn.nytimes.com/culture/202210…",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jan 30 02:29:17 +0000 2023",
+      "id": 1619885431205789697,
+      "id_str": "1619885431205789697",
+      "text": "@wastemobile https://t.co/VZzbEFjHBp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "wastemobile",
+            "name": "wastemobile",
+            "id": 20709129,
+            "id_str": "20709129",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VZzbEFjHBp",
+            "expanded_url": "https://cn.nytimes.com/culture/20221012/chip-war-chris-miller/zh-hant/?fbclid=IwAR0rKJH4eAP2r7pHzQIIlPsJApy6HeF31jb0P15poWYiJ-rYT8AuigMSx18",
+            "display_url": "cn.nytimes.com/culture/202210…",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1619854086840647680,
+      "in_reply_to_status_id_str": "1619854086840647680",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 403154712,
+        "id_str": "403154712",
+        "name": "Patrick",
+        "screen_name": "patrick_shieh",
+        "location": "Taipei or Hangzhou",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 80,
+        "friends_count": 237,
+        "listed_count": 2,
+        "created_at": "Wed Nov 02 02:58:39 +0000 2011",
+        "favourites_count": 1699,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3148,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "BADFCD",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3223842920/66ebf951d9b563cf0137efa7ededbe3e_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3223842920/66ebf951d9b563cf0137efa7ededbe3e_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/403154712/1370176304",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "F2E195",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "qme"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "qme"
+  },
+  {
+    "created_at": "Mon Jan 30 00:24:44 +0000 2023",
+    "id": 1619854086840647680,
+    "id_str": "1619854086840647680",
+    "text": "《Chip War》看起來是整理了當代半導體發展的歷史時序，這篇讀書筆記做了摘要大綱。 #note\n\nhttps://t.co/OqBDiFsWHk https://t.co/AgN9DsCuH8",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            44,
+            49
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OqBDiFsWHk",
+          "expanded_url": "https://bit.ly/3HFxHTs",
+          "display_url": "bit.ly/3HFxHTs",
+          "indices": [
+            51,
+            74
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1619854078309462021,
+          "id_str": "1619854078309462021",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fnrgs62acAUH-sz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fnrgs62acAUH-sz.jpg",
+          "url": "https://t.co/AgN9DsCuH8",
+          "display_url": "pic.twitter.com/AgN9DsCuH8",
+          "expanded_url": "https://twitter.com/wastemobile/status/1619854086840647680/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 331,
+              "h": 500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 331,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 331,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1619854078309462021,
+          "id_str": "1619854078309462021",
+          "indices": [
+            75,
+            98
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fnrgs62acAUH-sz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fnrgs62acAUH-sz.jpg",
+          "url": "https://t.co/AgN9DsCuH8",
+          "display_url": "pic.twitter.com/AgN9DsCuH8",
+          "expanded_url": "https://twitter.com/wastemobile/status/1619854086840647680/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 331,
+              "h": 500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 331,
+              "h": 500,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 331,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 29 23:51:36 +0000 2023",
+    "id": 1619845751106068480,
+    "id_str": "1619845751106068480",
+    "text": "「Bondee 發行商 Metadream 雖設在新加坡，並稱自家是美韓共同協作開發，但輕易被發現公司前身是中國因有資安疑慮問題而無預警下架的App『啫喱』⋯⋯」\n\n居然從盜幣進化到信用卡盜刷了，真的扯。\n\n剖析》虛擬社交 Bon… https://t.co/0I86RH1Yzy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0I86RH1Yzy",
+          "expanded_url": "https://twitter.com/i/web/status/1619845751106068480",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jan 29 07:50:02 +0000 2023",
+    "id": 1619603764545212416,
+    "id_str": "1619603764545212416",
+    "text": "2005 年華萊士在 Kenyon College 的演講，Llittle, Brown and Company 在 2009 年發行成書。\n\n〈這是水〉 (This is Water)  22 分鐘完整中譯字幕版。… https://t.co/0qBbUVcRMM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0qBbUVcRMM",
+          "expanded_url": "https://twitter.com/i/web/status/1619603764545212416",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1619546764230680581,
+    "in_reply_to_status_id_str": "1619546764230680581",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Jan 29 06:37:15 +0000 2023",
     "id": 1619585445226229766,
     "id_str": "1619585445226229766",
