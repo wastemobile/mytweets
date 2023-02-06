@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2023_01 = [
   {
+    "created_at": "Tue Jan 31 23:38:57 +0000 2023",
+    "id": 1620567342714609664,
+    "id_str": "1620567342714609664",
+    "text": "在連串爭議下，學術出版商開始放棄含糊的取態，接連有期刊宣佈封殺 AI，《Science》與《Nature》分別更新編輯政策，ChatGPT 或任何 AI 工具生成的文本、數據、圖像或圖表，都不能用於作品之中。\n\n學術期刊否定 AI… https://t.co/EtbNYgb6Ch",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EtbNYgb6Ch",
+          "expanded_url": "https://twitter.com/i/web/status/1620567342714609664",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1620220211071971329,
+    "in_reply_to_status_id_str": "1620220211071971329",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jan 31 14:33:05 +0000 2023",
+    "id": 1620429967820746752,
+    "id_str": "1620429967820746752",
+    "text": "James Daunt 回答邦諾書店是否進行顧客分析時說，「前任書店經營者花大量時間精力企圖回答這個問題，我基本上不理會，甚至開始覺得這根本不是個問題，完全無關緊要。我們的書店適合任何人。」\n\n好書店存活，壞書店消亡。\n\nHow… https://t.co/wbKWHkgP4q",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wbKWHkgP4q",
+          "expanded_url": "https://twitter.com/i/web/status/1620429967820746752",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1611740680342351873,
+    "in_reply_to_status_id_str": "1611740680342351873",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jan 31 00:39:35 +0000 2023",
     "id": 1620220211071971329,
     "id_str": "1620220211071971329",
