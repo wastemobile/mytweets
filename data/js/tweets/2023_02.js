@@ -1,5 +1,225 @@
 Grailbird.data.tweets_2023_02 = [
   {
+    "created_at": "Thu Feb 16 02:05:58 +0000 2023",
+    "id": 1626040157257486336,
+    "id_str": "1626040157257486336",
+    "text": "Follow the rule =&gt; Break the rule =&gt; Be the Rule.\n\n守破離（Shu Ha Ri）是日本劍道哲學，大概也是所有學習的一種基礎概念。首先固守著師傅教導的基本招式、熟練體會，接著嘗試打破… https://t.co/y69NV9Bstw",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/y69NV9Bstw",
+          "expanded_url": "https://twitter.com/i/web/status/1626040157257486336",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            123,
+            146
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 54,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 16 00:42:15 +0000 2023",
+    "id": 1626019088949719040,
+    "id_str": "1626019088949719040",
+    "text": "「時代改變了，而這一切的一切，正如1995年那個力求突破窠臼的日本樂壇，globe是時候應該回來了，也許小室哲哉是時候再度踏上旅程，尋找年輕新世代的新聲音了。」\n\nglobe誕生秘話：你或許不知道，這個小室哲哉一手打造的樂團，原先… https://t.co/UP6VGKA8QB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UP6VGKA8QB",
+          "expanded_url": "https://twitter.com/i/web/status/1626019088949719040",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1611871232521302019,
+    "in_reply_to_status_id_str": "1611871232521302019",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 16 00:37:19 +0000 2023",
+    "id": 1626017847494471680,
+    "id_str": "1626017847494471680",
+    "text": "「自我表達是一場艱苦的戰鬥，為了取悅他人和更廣泛的社群，不斷編輯自己。 在我看來，從這些心態中成長和治癒，讓自己成為最真實的自我，是我們能為自己做的最有力量和最美麗的自愛行為之一。」\n\nThe magic of Kush Jutl… https://t.co/7MNI5xW8hE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7MNI5xW8hE",
+          "expanded_url": "https://twitter.com/i/web/status/1626017847494471680",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Feb 15 14:57:55 +0000 2023",
+    "id": 1625872037020598273,
+    "id_str": "1625872037020598273",
+    "text": "Z-library 以一種奇妙的「個人網址」型態重回明網。\n\n透過 singlelogin(dot)me 網域登入，每位用戶會獲得獨一無二的個人網址，以成千上萬的網址、創造海量的私人網站，避免 DNS 封鎖；萬一登入網頁不可得，還… https://t.co/IK95Y5xAB5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IK95Y5xAB5",
+          "expanded_url": "https://twitter.com/i/web/status/1625872037020598273",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1601527863475175425,
+    "in_reply_to_status_id_str": "1601527863475175425",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Feb 15 03:34:44 +0000 2023",
     "id": 1625700107936231427,
     "id_str": "1625700107936231427",
