@@ -1,5 +1,372 @@
 Grailbird.data.tweets_2023_02 = [
   {
+    "created_at": "Fri Feb 17 01:11:48 +0000 2023",
+    "id": 1626388915639963652,
+    "id_str": "1626388915639963652",
+    "text": "可怕的震動卻沒看到什麼即時地震推，推特真的壞掉了，",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 17 01:07:37 +0000 2023",
+    "id": 1626387859065430016,
+    "id_str": "1626387859065430016",
+    "text": "應該是美國歷史上必讀書單中最少被閱讀的書（the least-read must-read），Python 的《萬有引力之虹》出版50週年了，我們卻愈來愈接近那個荒謬的世界⋯⋯\n\nhttps://t.co/NFoK0E8qFp https://t.co/6OeRNaUJmH",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NFoK0E8qFp",
+          "expanded_url": "https://bit.ly/3lIixEE",
+          "display_url": "bit.ly/3lIixEE",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1626387843223552000,
+          "id_str": "1626387843223552000",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpIXIF5agAARo32.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpIXIF5agAARo32.jpg",
+          "url": "https://t.co/6OeRNaUJmH",
+          "display_url": "pic.twitter.com/6OeRNaUJmH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1626387859065430016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1626387843223552000,
+          "id_str": "1626387843223552000",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpIXIF5agAARo32.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpIXIF5agAARo32.jpg",
+          "url": "https://t.co/6OeRNaUJmH",
+          "display_url": "pic.twitter.com/6OeRNaUJmH",
+          "expanded_url": "https://twitter.com/wastemobile/status/1626387859065430016/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Feb 17 00:47:57 +0000 2023",
+    "id": 1626382911481192448,
+    "id_str": "1626382911481192448",
+    "text": "所以，Copilot 究竟有沒有「學習」那些受版權保護、甚或是 GitHub 私密倉儲裡的程式代碼呢？\n\n編碼爭議：一場可能改寫 AI 版權規則的集體訴訟 | *CUP媒體 https://t.co/L5Ff64W5Ux https://t.co/VVTEkXsJUZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/L5Ff64W5Ux",
+          "expanded_url": "https://bit.ly/3Ei1lMz",
+          "display_url": "bit.ly/3Ei1lMz",
+          "indices": [
+            87,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1626382899993018368,
+          "id_str": "1626382899993018368",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpISoW7agAA-57g.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpISoW7agAA-57g.jpg",
+          "url": "https://t.co/VVTEkXsJUZ",
+          "display_url": "pic.twitter.com/VVTEkXsJUZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1626382911481192448/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1626382899993018368,
+          "id_str": "1626382899993018368",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpISoW7agAA-57g.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpISoW7agAA-57g.jpg",
+          "url": "https://t.co/VVTEkXsJUZ",
+          "display_url": "pic.twitter.com/VVTEkXsJUZ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1626382911481192448/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Feb 16 14:27:26 +0000 2023",
+    "id": 1626226754426904589,
+    "id_str": "1626226754426904589",
+    "text": "Rating: 1/10，一顆星的定義：A complete failure in every way（全面的災難性失敗）。\n\n比對其他遊戲網站評分，Wired 給《霍格華茲的傳承》遊戲的完全是對原作者的情緒性宣洩，還扣「反猶太主… https://t.co/5V6o0V0EOX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5V6o0V0EOX",
+          "expanded_url": "https://twitter.com/i/web/status/1626226754426904589",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Feb 16 02:05:58 +0000 2023",
     "id": 1626040157257486336,
     "id_str": "1626040157257486336",
