@@ -1,5 +1,193 @@
 Grailbird.data.tweets_2023_02 = [
   {
+    "created_at": "Sat Feb 18 01:23:00 +0000 2023",
+    "id": 1626754119578062849,
+    "id_str": "1626754119578062849",
+    "text": "想吃地道的「炸魚薯條」。（無意義發言\n\n倫敦小眾指南｜撒點死亡、摻點犯罪：城市角落裡，被黑暗籠罩的戀愛傳說 https://t.co/3C9secgtre https://t.co/djq2FTVeB3",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3C9secgtre",
+          "expanded_url": "https://bit.ly/3xwPXIV",
+          "display_url": "bit.ly/3xwPXIV",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1626754110514139136,
+          "id_str": "1626754110514139136",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpNkPp4aEAAVYF6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpNkPp4aEAAVYF6.jpg",
+          "url": "https://t.co/djq2FTVeB3",
+          "display_url": "pic.twitter.com/djq2FTVeB3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1626754119578062849/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 450,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1626754110514139136,
+          "id_str": "1626754110514139136",
+          "indices": [
+            78,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpNkPp4aEAAVYF6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpNkPp4aEAAVYF6.jpg",
+          "url": "https://t.co/djq2FTVeB3",
+          "display_url": "pic.twitter.com/djq2FTVeB3",
+          "expanded_url": "https://twitter.com/wastemobile/status/1626754119578062849/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 408,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 750,
+              "h": 450,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1360398829409890304,
+    "in_reply_to_status_id_str": "1360398829409890304",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 18 00:42:08 +0000 2023",
+    "id": 1626743837090787333,
+    "id_str": "1626743837090787333",
+    "text": "從個人資料洩漏簡史看來，未來也持續必然會發生。\n\n「不使用重複密碼」是個人避險最重要法則，因此需要密碼記憶軟體或服務；甚至使用「替身電郵」，讓註冊組合皆是唯一；多重驗證一律開啟，無能力提供的網站就別去。\n\nThe WIRED Gu… https://t.co/Db79xyWlUl",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Db79xyWlUl",
+          "expanded_url": "https://twitter.com/i/web/status/1626743837090787333",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Feb 17 01:11:48 +0000 2023",
     "id": 1626388915639963652,
     "id_str": "1626388915639963652",
