@@ -1,5 +1,248 @@
 Grailbird.data.tweets_2023_02 = [
   {
+    "created_at": "Sat Feb 18 23:54:36 +0000 2023",
+    "id": 1627094259685007362,
+    "id_str": "1627094259685007362",
+    "text": "16 秒的影片、累積 4,500 萬觀看，讓出版 11 年的冷門小說銷量一度衝上亞馬遜排行榜首位。\n\n真實的感性訴求是這事件的關鍵。\n\n律師花14年寫書「出版11年無人知」　女兒16秒影片神助攻！賣到缺貨 https://t.co/YbpVThDnFF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YbpVThDnFF",
+          "expanded_url": "https://bit.ly/3IwF2VX",
+          "display_url": "bit.ly/3IwF2VX",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1593752247782887424,
+    "in_reply_to_status_id_str": "1593752247782887424",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 18 13:32:08 +0000 2023",
+    "id": 1626937613549711360,
+    "id_str": "1626937613549711360",
+    "text": "靠！黃小楨出新單曲耶！\n\n你有聽過黃小楨嗎？ 新舊作總回顧 https://t.co/tnrH1P3b6G https://t.co/9nO30f1pJT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tnrH1P3b6G",
+          "expanded_url": "https://bit.ly/3YYzLf7",
+          "display_url": "bit.ly/3YYzLf7",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1626937604007669761,
+          "id_str": "1626937604007669761",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpQLIYaaMAEnIsk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpQLIYaaMAEnIsk.jpg",
+          "url": "https://t.co/9nO30f1pJT",
+          "display_url": "pic.twitter.com/9nO30f1pJT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1626937613549711360/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 816,
+              "h": 730,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 608,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 816,
+              "h": 730,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1626937604007669761,
+          "id_str": "1626937604007669761",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpQLIYaaMAEnIsk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpQLIYaaMAEnIsk.jpg",
+          "url": "https://t.co/9nO30f1pJT",
+          "display_url": "pic.twitter.com/9nO30f1pJT",
+          "expanded_url": "https://twitter.com/wastemobile/status/1626937613549711360/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 816,
+              "h": 730,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 608,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 816,
+              "h": 730,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 23,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 18 02:26:32 +0000 2023",
+    "id": 1626770108164222976,
+    "id_str": "1626770108164222976",
+    "text": "Twitter 之前提供三種雙重驗證方式：簡訊、第三方驗證軟體、以及安全金鑰（硬體），近日宣布一般用戶未來將無法選擇簡訊驗證，除非你是藍勾勾付費訂戶。\n\n主要應該是 cost down 吧，與什麼安全性或濫用無關。\n\nhttps://t.co/PwexgBGd0A",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PwexgBGd0A",
+          "expanded_url": "https://bit.ly/3Kq80bg",
+          "display_url": "bit.ly/3Kq80bg",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1626743837090787333,
+    "in_reply_to_status_id_str": "1626743837090787333",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 18 01:23:00 +0000 2023",
     "id": 1626754119578062849,
     "id_str": "1626754119578062849",
