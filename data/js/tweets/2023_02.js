@@ -1,5 +1,322 @@
 Grailbird.data.tweets_2023_02 = [
   {
+    "created_at": "Sat Feb 25 04:08:38 +0000 2023",
+    "id": 1629332516611178496,
+    "id_str": "1629332516611178496",
+    "text": "台灣 #Netflix 這部《以神之名：信仰的背叛》 3/3 上線，聚焦四名自稱先知的韓國宗教領袖犯罪，大家記得看。 https://t.co/Db6B0oUeet",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Db6B0oUeet",
+          "expanded_url": "https://twitter.com/ameliewu/status/1629284214641426432",
+          "display_url": "twitter.com/ameliewu/statu…",
+          "indices": [
+            59,
+            82
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1629284214641426432,
+    "quoted_status_id_str": "1629284214641426432",
+    "quoted_status": {
+      "created_at": "Sat Feb 25 00:56:42 +0000 2023",
+      "id": 1629284214641426432,
+      "id_str": "1629284214641426432",
+      "text": "韓國基督教福音宣教會 (攝理教會) 向法院提出禁止播放紀錄片《我是神：神背叛的人們》假處分申請，這是韓國首次對 Netflix 原創內容提出禁止播放假處分申請 https://t.co/xL9uVv4oVJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xL9uVv4oVJ",
+            "expanded_url": "https://twitter.com/Forna____/status/1628724541005635584",
+            "display_url": "twitter.com/Forna____/stat…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6904132,
+        "id_str": "6904132",
+        "name": "✞ 迷妹打字機",
+        "screen_name": "ameliewu",
+        "location": "",
+        "description": "-ˋˏ ♡ ˎˊ- \n덕후 타자기\n坑底的狂熱 (*´д`)~♡\n興趣廣而淺\n(｡･ω･｡)ﾉ♡",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 990,
+        "friends_count": 116,
+        "listed_count": 9,
+        "created_at": "Tue Jun 19 01:11:36 +0000 2007",
+        "favourites_count": 32,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1339,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "474747",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1492477432208961537/9lSs4fWO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492477432208961537/9lSs4fWO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6904132/1642561468",
+        "profile_link_color": "397D7A",
+        "profile_sidebar_border_color": "858285",
+        "profile_sidebar_fill_color": "708580",
+        "profile_text_color": "4A354A",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1628724541005635584,
+      "quoted_status_id_str": "1628724541005635584",
+      "retweet_count": 3,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 29,
+    "favorite_count": 55,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Feb 25 04:03:39 +0000 2023",
+    "id": 1629331265576120320,
+    "id_str": "1629331265576120320",
+    "text": "RT @tvcafe: 因為站在書店看太恥，最後我是把這本週刊買回來看了。\n\n報導詳細介紹數位台籍網紅進行認知戰的切入點與手法，方法有很多，但都是藉由台灣人民對生活的不滿/少見寡聞發揮最大的影響力，最終目的都是要往親中勢力傾靠。\n\n想想若不是我們堅決討厭中國，應該也會不知不覺被…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tvcafe",
+          "name": "tvcafe",
+          "id": 8877872,
+          "id_str": "8877872",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Feb 24 16:31:06 +0000 2023",
+      "id": 1629156977451630594,
+      "id_str": "1629156977451630594",
+      "text": "因為站在書店看太恥，最後我是把這本週刊買回來看了。\n\n報導詳細介紹數位台籍網紅進行認知戰的切入點與手法，方法有很多，但都是藉由台灣人民對生活的不滿/少見寡聞發揮最大的影響力，最終目的都是要往親中勢力傾靠。\n\n想想若不是我們堅決討厭… https://t.co/IgS4ygOOan",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IgS4ygOOan",
+            "expanded_url": "https://twitter.com/i/web/status/1629156977451630594",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 8877872,
+        "id_str": "8877872",
+        "name": "tvcafe",
+        "screen_name": "tvcafe",
+        "location": "",
+        "description": "紀錄 #日本買房 //疫情的眼淚 #返台F計劃 #隔離祭 // 雙貓室友 #Gabee是隻貓 #茶米茶金 // 外頭的可愛生物 #外出取材",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1952,
+        "friends_count": 259,
+        "listed_count": 20,
+        "created_at": "Fri Sep 14 14:43:35 +0000 2007",
+        "favourites_count": 26491,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23550,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/53360856/P4240007_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/53360856/P4240007_normal.JPG",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 62,
+      "favorite_count": 436,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 62,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 25 01:23:52 +0000 2023",
     "id": 1629291052963332096,
     "id_str": "1629291052963332096",
