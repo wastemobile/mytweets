@@ -1,5 +1,115 @@
 Grailbird.data.tweets_2023_02 = [
   {
+    "created_at": "Mon Feb 27 14:55:17 +0000 2023",
+    "id": 1630220027243941888,
+    "id_str": "1630220027243941888",
+    "text": "跟風自架了 memos，順道設置一下讓附加檔案儲存到 Cloudflare R2 Storage，真的很輕很快很優秀；而且社群貢獻的 iOS App, Logseq 外掛、Raycast 整合⋯⋯，一應俱全。\n\nTwitter l… https://t.co/LOT5FacFWY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LOT5FacFWY",
+          "expanded_url": "https://twitter.com/i/web/status/1630220027243941888",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "favorite_count": 70,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Feb 27 08:46:21 +0000 2023",
+    "id": 1630127181484662792,
+    "id_str": "1630127181484662792",
+    "text": "《我該如何閱讀》開門就在挑戰《如何閱讀一本書》那種「該」讀什麼書的「權威」，要讀得自在一點、開心一點、不必為了「用」而讀，可以讀樂趣（讀爽的）。\n\n看到便宜二手書不妨撿來翻翻；簡中倒是持續有譯本《如何再次拿起书》、《阅读的乐趣》。… https://t.co/WuspD9Zhc9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WuspD9Zhc9",
+          "expanded_url": "https://twitter.com/i/web/status/1630127181484662792",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1038247903289008128,
+    "in_reply_to_status_id_str": "1038247903289008128",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Feb 25 04:08:38 +0000 2023",
     "id": 1629332516611178496,
     "id_str": "1629332516611178496",
