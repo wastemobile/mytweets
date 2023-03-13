@@ -1,5 +1,736 @@
 Grailbird.data.tweets_2023_03 = [
   {
+    "created_at": "Mon Mar 13 13:06:32 +0000 2023",
+    "id": 1635266089415479297,
+    "id_str": "1635266089415479297",
+    "text": "推薦看看 #Netflix 《弗蘭·利波維茲：假裝我們在城市》迷你影集，由大導演馬丁・史柯西茲拍攝其好友、被稱為紐約最睿智幽默又毒舌的才女 Fran Lebowitz，每一集都讓人開心極了～… https://t.co/i19rDqTQ3M",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            5,
+            13
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/i19rDqTQ3M",
+          "expanded_url": "https://twitter.com/i/web/status/1635266089415479297",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            97,
+            120
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1635263399293771776,
+    "in_reply_to_status_id_str": "1635263399293771776",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Mar 13 12:55:50 +0000 2023",
+    "id": 1635263399293771776,
+    "id_str": "1635263399293771776",
+    "text": "“Think before you speak. Read before you think.” \n\n—Fran Lebowitz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Mar 13 00:28:59 +0000 2023",
+    "id": 1635075449079627777,
+    "id_str": "1635075449079627777",
+    "text": "根據 Wired 雜誌拿到的新版 Twitter API 價格：存取 5,000 萬則推文的入門款，每月 42,000 美金；能存取一億與兩億則的進階款，分別要價 12萬5,000 與 21 萬，嗯，每月。\n\n失心瘋。… https://t.co/7BpxPW2aLL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7BpxPW2aLL",
+          "expanded_url": "https://twitter.com/i/web/status/1635075449079627777",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 21,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Mar 13 00:05:22 +0000 2023",
+    "id": 1635069504035373056,
+    "id_str": "1635069504035373056",
+    "text": "RT @UselessIdeasBot: 我主要的灵感来源很简单，就是制造自己想用的工具。 ‣\n\n—— Keith Blount (Scrivener 设计师、开发者) https://t.co/JIrNzI4eJP",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "UselessIdeasBot",
+          "name": "Useless Ideas",
+          "id": 1255521274865913857,
+          "id_str": "1255521274865913857",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JIrNzI4eJP",
+          "expanded_url": "https://ift.tt/FTdDRor",
+          "display_url": "ift.tt/FTdDRor",
+          "indices": [
+            85,
+            108
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Mar 12 23:15:04 +0000 2023",
+      "id": 1635056846107975680,
+      "id_str": "1635056846107975680",
+      "text": "我主要的灵感来源很简单，就是制造自己想用的工具。 ‣\n\n—— Keith Blount (Scrivener 设计师、开发者) https://t.co/JIrNzI4eJP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JIrNzI4eJP",
+            "expanded_url": "https://ift.tt/FTdDRor",
+            "display_url": "ift.tt/FTdDRor",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1255521274865913857,
+        "id_str": "1255521274865913857",
+        "name": "Useless Ideas",
+        "screen_name": "UselessIdeasBot",
+        "location": "",
+        "description": "灵感买家俱乐部（https://t.co/3bL139YMQQ）旗下项目。",
+        "url": "https://t.co/Q0z9X6M6aM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Q0z9X6M6aM",
+                "expanded_url": "https://t.me/uselessideas",
+                "display_url": "t.me/uselessideas",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/3bL139YMQQ",
+                "expanded_url": "https://club.q24.io",
+                "display_url": "club.q24.io",
+                "indices": [
+                  8,
+                  31
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 687,
+        "friends_count": 2,
+        "listed_count": 14,
+        "created_at": "Wed Apr 29 15:36:43 +0000 2020",
+        "favourites_count": 4,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 838,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1264544492247330816/sQTNVWAr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1264544492247330816/sQTNVWAr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255521274865913857/1590325930",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 12 01:51:23 +0000 2023",
+    "id": 1634733796309475329,
+    "id_str": "1634733796309475329",
+    "text": "“Shittify” 這詞彙似乎是 2008 年出現於俚語詞典上，指個人可怕的生活狀態，也就是「搞砸了、崩潰了」。\n\n下面這篇文章是從網路「創造新詞」的語言學角度出發，解讀「垃圾化」事件的另一個面向，蠻有趣的。\n\nhttps://t.co/9yOofQ2eWZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9yOofQ2eWZ",
+          "expanded_url": "https://bit.ly/401RB1k",
+          "display_url": "bit.ly/401RB1k",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1634730650124308481,
+    "in_reply_to_status_id_str": "1634730650124308481",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 16,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 12 01:38:53 +0000 2023",
+    "id": 1634730650124308481,
+    "id_str": "1634730650124308481",
+    "text": "往回翻會發現，Cory 2022 第一次使用「垃圾化（enshittified）」這詞彙，主要是在罵 Amazon，當它「什麼都買得到」後，並沒有替顧客找出最好最實惠的產品，只讓擁有廣告預算的廠商獲得無止盡的曝光。\n\n電商平台雙邊… https://t.co/cORDXWqoCB",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cORDXWqoCB",
+          "expanded_url": "https://twitter.com/i/web/status/1634730650124308481",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1634728685050925058,
+    "in_reply_to_status_id_str": "1634728685050925058",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 19,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 12 01:31:04 +0000 2023",
+    "id": 1634728685050925058,
+    "id_str": "1634728685050925058",
+    "text": "有人深入延伸，認為傅利曼所說「企業的社會責任就是增加自身的利潤」，是網路平台垃圾化的根本原因；同時由於風險投資、IPO 等機制，幾乎無限制的支撐企業進行前面的「討好雙邊」，最終是要收割的。\n\n文內有提出一些應對方法，似乎也就是：追… https://t.co/vi0cwihD3k",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vi0cwihD3k",
+          "expanded_url": "https://twitter.com/i/web/status/1634728685050925058",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1634725860921184256,
+    "in_reply_to_status_id_str": "1634725860921184256",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 12 01:19:51 +0000 2023",
+    "id": 1634725860921184256,
+    "id_str": "1634725860921184256",
+    "text": "衛報近日的專欄文章，特別將此現象套在被馬斯克收購的 Twitter 身上，挑明用戶與廣告商都被綁架在逐漸垃圾化的網路世界。\n\n我們知道網路效應（network effects）與技術驅動這兩件事是主因，但還沒有找到好的解決方法。\n\nhttps://t.co/cUZieAgsYM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cUZieAgsYM",
+          "expanded_url": "https://bit.ly/3JwZFlj",
+          "display_url": "bit.ly/3JwZFlj",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1634724609588330498,
+    "in_reply_to_status_id_str": "1634724609588330498",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 12 01:14:53 +0000 2023",
+    "id": 1634724609588330498,
+    "id_str": "1634724609588330498",
+    "text": "兩天後因 Wired 雜誌的轉載與放大，讓「垃圾化」這名詞成了新興詞彙，指原作為雙邊市場的平台（並不單指 TikTok），在用好處收買並鎖住雙方後，替自己與股東的利益收割雙方，最終讓平台成為無用的垃圾。\n\n後面是簡中的全譯文，推薦… https://t.co/NN2kHRXR6r",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NN2kHRXR6r",
+          "expanded_url": "https://twitter.com/i/web/status/1634724609588330498",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1634723426492645378,
+    "in_reply_to_status_id_str": "1634723426492645378",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 28,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Mar 12 01:10:11 +0000 2023",
+    "id": 1634723426492645378,
+    "id_str": "1634723426492645378",
+    "text": "「平台的消亡：首先他們對用戶很好；接著濫用使用者，對商業用戶更好；最後他們濫用商業用戶，替自己奪回所有利益。然後，平台就死了。」\n\n出自 Cory Doctorow 年初發表的一篇文章：〈Tiktok 的「垃圾化」）。他創造 en… https://t.co/y6q8Gnpc4Y",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/y6q8Gnpc4Y",
+          "expanded_url": "https://twitter.com/i/web/status/1634723426492645378",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 45,
+    "favorite_count": 142,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Mar 11 23:51:02 +0000 2023",
+    "id": 1634703507424182273,
+    "id_str": "1634703507424182273",
+    "text": "目前看到最精準的解讀。\n\nChatGPT 與 LLMs 其實是非常聰明的鸚鵡，它很有用、接下來會帶出很多有趣的事，但依舊是隻鸚鵡。\n\n人類必須神智清楚的學習善用它，否則，你就成了鸚鵡。… https://t.co/hbMk8kODW8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hbMk8kODW8",
+          "expanded_url": "https://twitter.com/i/web/status/1634703507424182273",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 123,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Mar 11 07:39:10 +0000 2023",
     "id": 1634458928720547846,
     "id_str": "1634458928720547846",
