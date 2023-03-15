@@ -1,5 +1,678 @@
 Grailbird.data.tweets_2023_03 = [
   {
+    "created_at": "Wed Mar 15 01:36:44 +0000 2023",
+    "id": 1635817272139980800,
+    "id_str": "1635817272139980800",
+    "text": "不是我不明白這世界變化快⋯⋯",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 15 00:36:27 +0000 2023",
+    "id": 1635802103028551681,
+    "id_str": "1635802103028551681",
+    "text": "認真的說，幾年前 Sony 就將對消費者的業務關閉、讓顧客移轉到 Kobo 的平台了，現在則是完全停止與閱讀器相關的一切支援，算是正式關閉了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1635799833977184256,
+    "in_reply_to_status_id_str": "1635799833977184256",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Mar 15 00:27:26 +0000 2023",
+    "id": 1635799833977184256,
+    "id_str": "1635799833977184256",
+    "text": "2004 推出第一款電子墨水閱讀器 Librié，2006 繼任者 PRS-500 要價 $350 美金。Kindle 問世後，Sony 依舊持續推出硬體、平台、經營電子書業務等，許多小巧、金屬外殼的閱讀器在日本也蠻暢銷。\n\n20… https://t.co/ilGeFsr3KK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ilGeFsr3KK",
+          "expanded_url": "https://twitter.com/i/web/status/1635799833977184256",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Mar 14 13:41:09 +0000 2023",
+    "id": 1635637192172216320,
+    "id_str": "1635637192172216320",
+    "text": "看完了。\n\n人為何會被洗腦？不只《以神之名》，揭開邪教特徵與惡行的5本書！搞懂邪教伎倆避免成為下一個受害者 https://t.co/fgQwvs5S8x",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fgQwvs5S8x",
+          "expanded_url": "https://bit.ly/3JhuRnn",
+          "display_url": "bit.ly/3JhuRnn",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1634000231460380672,
+    "in_reply_to_status_id_str": "1634000231460380672",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Mar 14 11:03:55 +0000 2023",
+    "id": 1635597621116178432,
+    "id_str": "1635597621116178432",
+    "text": "RT @vic22111: 本日聖騎士對抗高金的影片 https://t.co/Y7mhsjkSlD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "vic22111",
+          "name": "周軒",
+          "id": 897271416,
+          "id_str": "897271416",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1635585064779259906,
+          "id_str": "1635585064779259906",
+          "indices": [
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1635585064779259906/pu/img/q9FXxGGxvqPy5g5k.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1635585064779259906/pu/img/q9FXxGGxvqPy5g5k.jpg",
+          "url": "https://t.co/Y7mhsjkSlD",
+          "display_url": "pic.twitter.com/Y7mhsjkSlD",
+          "expanded_url": "https://twitter.com/vic22111/status/1635585135906295808/video/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 540,
+              "h": 540,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 540,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 540,
+              "h": 540,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1635585135906295808,
+          "source_status_id_str": "1635585135906295808",
+          "source_user_id": 897271416,
+          "source_user_id_str": "897271416"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1635585064779259906,
+          "id_str": "1635585064779259906",
+          "indices": [
+            27,
+            50
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1635585064779259906/pu/img/q9FXxGGxvqPy5g5k.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1635585064779259906/pu/img/q9FXxGGxvqPy5g5k.jpg",
+          "url": "https://t.co/Y7mhsjkSlD",
+          "display_url": "pic.twitter.com/Y7mhsjkSlD",
+          "expanded_url": "https://twitter.com/vic22111/status/1635585135906295808/video/1",
+          "type": "video",
+          "sizes": {
+            "medium": {
+              "w": 540,
+              "h": 540,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 540,
+              "h": 540,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 540,
+              "h": 540,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1635585135906295808,
+          "source_status_id_str": "1635585135906295808",
+          "source_user_id": 897271416,
+          "source_user_id_str": "897271416",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 59041,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1635585064779259906/pu/vid/320x320/zZq_6S2pnPkulqb0.mp4?tag=12"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1635585064779259906/pu/vid/540x540/7XnK83-eawl8pv3e.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1635585064779259906/pu/pl/diLMpOCoSpBpQdRA.m3u8?tag=12&container=fmp4"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 897271416,
+              "id_str": "897271416",
+              "name": "周軒",
+              "screen_name": "vic22111",
+              "location": "",
+              "description": "聽說現在沒推特帳戶都不算流行",
+              "url": null,
+              "entities": {
+                "description": {
+                  "urls": [
+
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 13489,
+              "friends_count": 111,
+              "listed_count": 62,
+              "created_at": "Mon Oct 22 10:41:03 +0000 2012",
+              "favourites_count": 26,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": false,
+              "verified": false,
+              "statuses_count": 580,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1414272272970354691/heX0xcI7_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414272272970354691/heX0xcI7_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/897271416/1626023867",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": true,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Mar 14 10:14:18 +0000 2023",
+      "id": 1635585135906295808,
+      "id_str": "1635585135906295808",
+      "text": "本日聖騎士對抗高金的影片 https://t.co/Y7mhsjkSlD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1635585064779259906,
+            "id_str": "1635585064779259906",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1635585064779259906/pu/img/q9FXxGGxvqPy5g5k.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1635585064779259906/pu/img/q9FXxGGxvqPy5g5k.jpg",
+            "url": "https://t.co/Y7mhsjkSlD",
+            "display_url": "pic.twitter.com/Y7mhsjkSlD",
+            "expanded_url": "https://twitter.com/vic22111/status/1635585135906295808/video/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 540,
+                "h": 540,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 540,
+                "h": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 540,
+                "h": 540,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1635585064779259906,
+            "id_str": "1635585064779259906",
+            "indices": [
+              13,
+              36
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1635585064779259906/pu/img/q9FXxGGxvqPy5g5k.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1635585064779259906/pu/img/q9FXxGGxvqPy5g5k.jpg",
+            "url": "https://t.co/Y7mhsjkSlD",
+            "display_url": "pic.twitter.com/Y7mhsjkSlD",
+            "expanded_url": "https://twitter.com/vic22111/status/1635585135906295808/video/1",
+            "type": "video",
+            "sizes": {
+              "medium": {
+                "w": 540,
+                "h": 540,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 540,
+                "h": 540,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 540,
+                "h": 540,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 59041,
+              "variants": [
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1635585064779259906/pu/vid/320x320/zZq_6S2pnPkulqb0.mp4?tag=12"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1635585064779259906/pu/vid/540x540/7XnK83-eawl8pv3e.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1635585064779259906/pu/pl/diLMpOCoSpBpQdRA.m3u8?tag=12&container=fmp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 897271416,
+        "id_str": "897271416",
+        "name": "周軒",
+        "screen_name": "vic22111",
+        "location": "",
+        "description": "聽說現在沒推特帳戶都不算流行",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13489,
+        "friends_count": 111,
+        "listed_count": 62,
+        "created_at": "Mon Oct 22 10:41:03 +0000 2012",
+        "favourites_count": 26,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 580,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1414272272970354691/heX0xcI7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1414272272970354691/heX0xcI7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/897271416/1626023867",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 595,
+      "favorite_count": 3155,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 595,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Mar 14 00:42:34 +0000 2023",
+    "id": 1635441251339345920,
+    "id_str": "1635441251339345920",
+    "text": "第三年續訂 Bitwarden，單人年費 $10 美金，家庭版年費 $40 可以六個人用（等於再打66折），如此低廉的價格就完全沒有自架的動力了。\n\n不過最近有看到一款架構比較新、同樣可自架的密碼管理系統 Passbolt，找時間… https://t.co/VOHbVsqAKZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VOHbVsqAKZ",
+          "expanded_url": "https://twitter.com/i/web/status/1635441251339345920",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1507481186406260741,
+    "in_reply_to_status_id_str": "1507481186406260741",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Mar 13 13:06:32 +0000 2023",
     "id": 1635266089415479297,
     "id_str": "1635266089415479297",
