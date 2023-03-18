@@ -1,5 +1,927 @@
 Grailbird.data.tweets_2023_03 = [
   {
+    "created_at": "Sat Mar 18 07:45:24 +0000 2023",
+    "id": 1636997215842623488,
+    "id_str": "1636997215842623488",
+    "text": "Dodge the next Dockerpocalypse: how to own your own Docker Registry address #note\n\nhttps://t.co/sVJNkR84wU",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            76,
+            81
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sVJNkR84wU",
+          "expanded_url": "https://httptoolkit.com/blog/docker-image-registry-facade/",
+          "display_url": "httptoolkit.com/blog/docker-im…",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Mar 17 23:49:24 +0000 2023",
+    "id": 1636877427036286976,
+    "id_str": "1636877427036286976",
+    "text": "美國的 Z 世代書蟲比較喜歡紙本平裝書，這與我觀察身邊相同世代的年輕人差不多，他們不太愛電子書。\n\nGen Zers are bookworms but say they're shunning e-books…… https://t.co/j0IbCqzWV8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/j0IbCqzWV8",
+          "expanded_url": "https://twitter.com/i/web/status/1636877427036286976",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 17 23:38:59 +0000 2023",
+    "id": 1636874802702200832,
+    "id_str": "1636874802702200832",
+    "text": "「很快就到了呢！」\n\n「路上小心，去任何你想去的地方吧！」\n\n看完製作影片、重看一次廣告時，腦中都是小田切讓拍完頭、從旁邊拼命跑到尾巴的幕後畫面⋯⋯\n\n日本相鐵創意廣告「父親與女兒的風景」！148秒一鏡到底濃縮12年鐵道上的父女情… https://t.co/MrRJhOR0jZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MrRJhOR0jZ",
+          "expanded_url": "https://twitter.com/i/web/status/1636874802702200832",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 43,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 17 14:06:06 +0000 2023",
+    "id": 1636730632318652418,
+    "id_str": "1636730632318652418",
+    "text": "串一下 AI 功能後就可以「又」開賣了吧⋯⋯ https://t.co/ShLLxHkxdd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ShLLxHkxdd",
+          "expanded_url": "https://twitter.com/technews_tw/status/1636729615325741056",
+          "display_url": "twitter.com/technews_tw/st…",
+          "indices": [
+            23,
+            46
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1636729615325741056,
+    "quoted_status_id_str": "1636729615325741056",
+    "quoted_status": {
+      "created_at": "Fri Mar 17 14:02:03 +0000 2023",
+      "id": 1636729615325741056,
+      "id_str": "1636729615325741056",
+      "text": "重點在於「又」停賣。 #Google #GoogleGlass https://t.co/vvQMMwSSXs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Google",
+            "indices": [
+              11,
+              18
+            ]
+          },
+          {
+            "text": "GoogleGlass",
+            "indices": [
+              19,
+              31
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/vvQMMwSSXs",
+            "expanded_url": "http://dlvr.it/Sl31JJ",
+            "display_url": "dlvr.it/Sl31JJ",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2799026833,
+        "id_str": "2799026833",
+        "name": "TechNews 科技新報",
+        "screen_name": "technews_tw",
+        "location": "台灣, 台北市",
+        "description": "科技新報 （TechNews）於 2013 年下半年成立，是一群對資訊科技、能源、半導體、行動運算、網際網路、醫療、生物科技具有高度熱忱與興趣的產業與新媒體人士所共同組成的時代新媒體，以產出有觀點與特色的原創文章為主要任務。",
+        "url": "https://t.co/M6D1we8Ub2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/M6D1we8Ub2",
+                "expanded_url": "https://technews.tw",
+                "display_url": "technews.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2567,
+        "friends_count": 35,
+        "listed_count": 57,
+        "created_at": "Tue Sep 09 01:49:20 +0000 2014",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 67807,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2799026833/1410228878",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 17 12:14:41 +0000 2023",
+    "id": 1636702593836781568,
+    "id_str": "1636702593836781568",
+    "text": "RT @inewsknowledge: 日本廣告沒有極限! 全真人演出.父女替身達50名 \"相模鐵道\"廣告刻畫12年父女親情 小田切讓.山崎天感性演出再掀話題│https://t.co/ikVh7Vii6g https://t.co/VFTSBTM395",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "inewsknowledge",
+          "name": "三立iNEWS",
+          "id": 943028613451939840,
+          "id_str": "943028613451939840",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ikVh7Vii6g",
+          "expanded_url": "https://youtu.be/RAFrV8HB1us",
+          "display_url": "youtu.be/RAFrV8HB1us",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1636653959803961344,
+          "id_str": "1636653959803961344",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/FraQGuZaAAAU7OR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FraQGuZaAAAU7OR.jpg",
+          "url": "https://t.co/VFTSBTM395",
+          "display_url": "pic.twitter.com/VFTSBTM395",
+          "expanded_url": "https://twitter.com/inewsknowledge/status/1636698911242088448/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1636698911242088448,
+          "source_status_id_str": "1636698911242088448",
+          "source_user_id": 943028613451939840,
+          "source_user_id_str": "943028613451939840"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1636653959803961344,
+          "id_str": "1636653959803961344",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/media/FraQGuZaAAAU7OR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FraQGuZaAAAU7OR.jpg",
+          "url": "https://t.co/VFTSBTM395",
+          "display_url": "pic.twitter.com/VFTSBTM395",
+          "expanded_url": "https://twitter.com/inewsknowledge/status/1636698911242088448/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1636698911242088448,
+          "source_status_id_str": "1636698911242088448",
+          "source_user_id": 943028613451939840,
+          "source_user_id_str": "943028613451939840"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Mar 17 12:00:03 +0000 2023",
+      "id": 1636698911242088448,
+      "id_str": "1636698911242088448",
+      "text": "日本廣告沒有極限! 全真人演出.父女替身達50名 \"相模鐵道\"廣告刻畫12年父女親情 小田切讓.山崎天感性演出再掀話題│https://t.co/ikVh7Vii6g https://t.co/VFTSBTM395",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ikVh7Vii6g",
+            "expanded_url": "https://youtu.be/RAFrV8HB1us",
+            "display_url": "youtu.be/RAFrV8HB1us",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1636653959803961344,
+            "id_str": "1636653959803961344",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/FraQGuZaAAAU7OR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FraQGuZaAAAU7OR.jpg",
+            "url": "https://t.co/VFTSBTM395",
+            "display_url": "pic.twitter.com/VFTSBTM395",
+            "expanded_url": "https://twitter.com/inewsknowledge/status/1636698911242088448/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1636653959803961344,
+            "id_str": "1636653959803961344",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/FraQGuZaAAAU7OR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FraQGuZaAAAU7OR.jpg",
+            "url": "https://t.co/VFTSBTM395",
+            "display_url": "pic.twitter.com/VFTSBTM395",
+            "expanded_url": "https://twitter.com/inewsknowledge/status/1636698911242088448/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1280,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 943028613451939840,
+        "id_str": "943028613451939840",
+        "name": "三立iNEWS",
+        "screen_name": "inewsknowledge",
+        "location": "台北市, 台灣",
+        "description": "【 三立iNEWS】 2300【鄭知道了】鄭弘儀掌握最新政治局勢【1819錢進大頭條】高毓璘帶您頭條搶先看 【2000大世界】苑曉琬掃描各國政經局勢、社會脈動 【2100 Catch!大錢潮】志郁帶您財富大自由、 【2200 關我什麼事】 陳斐娟帶您關心理財大小事",
+        "url": "https://t.co/d4NrXZB5xO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/d4NrXZB5xO",
+                "expanded_url": "https://youtu.be/CKjSm5ZeehE",
+                "display_url": "youtu.be/CKjSm5ZeehE",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 13697,
+        "friends_count": 62,
+        "listed_count": 98,
+        "created_at": "Tue Dec 19 08:01:56 +0000 2017",
+        "favourites_count": 189,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29416,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1298210525680037890/XgI7A8g5_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1298210525680037890/XgI7A8g5_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/943028613451939840/1614758150",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 17 11:54:21 +0000 2023",
+    "id": 1636697474739077120,
+    "id_str": "1636697474739077120",
+    "text": "《一射千金》這紀錄片值得看，和想像不太一樣。\n\n當然解釋了 Pornhub 因利益、刻意鬆放檢驗機制，讓不當影片反覆上架流通，遭圍剿、尤其是被支付系統阻擋的事。\n\n但 #Netflix 感覺有刻意平衡，因為反方主導者「國家反性剝削… https://t.co/tfYaDgwIW0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            84,
+            92
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tfYaDgwIW0",
+          "expanded_url": "https://twitter.com/i/web/status/1636697474739077120",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1636190564843675650,
+    "in_reply_to_status_id_str": "1636190564843675650",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 17 11:24:37 +0000 2023",
+    "id": 1636689993124188161,
+    "id_str": "1636689993124188161",
+    "text": "新軸心國？ https://t.co/teihvZUMAK",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/teihvZUMAK",
+          "expanded_url": "https://twitter.com/europechinese/status/1636674299020087298",
+          "display_url": "twitter.com/europechinese/…",
+          "indices": [
+            6,
+            29
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1636674299020087298,
+    "quoted_status_id_str": "1636674299020087298",
+    "quoted_status": {
+      "created_at": "Fri Mar 17 10:22:15 +0000 2023",
+      "id": 1636674299020087298,
+      "id_str": "1636674299020087298",
+      "text": "中國外交部正式宣佈，習近平下週一3月20日起，對俄羅斯進行國事訪問，行程3天。\n有記者問及習近平訪俄期間，會否討論中國向俄羅斯提供軍援，外交部發言人汪文斌回答說，中俄之間的合作正大光明，坦坦蕩蕩。\n https://t.co/XVbhZlRfGr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/XVbhZlRfGr",
+            "expanded_url": "http://europechinese.blogspot.com/2023/03/3.html",
+            "display_url": "europechinese.blogspot.com/2023/03/3.html",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 298107738,
+        "id_str": "298107738",
+        "name": "歐洲動態",
+        "screen_name": "europechinese",
+        "location": "",
+        "description": "這是一個有關歐洲最新政經消息的推特",
+        "url": "https://t.co/yauKhyahmk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/yauKhyahmk",
+                "expanded_url": "https://www.patreon.com/dungtaai",
+                "display_url": "patreon.com/dungtaai",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 21478,
+        "friends_count": 176,
+        "listed_count": 259,
+        "created_at": "Fri May 13 18:09:42 +0000 2011",
+        "favourites_count": 1259,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14974,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192112382853541888/VuUCmtlJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192112382853541888/VuUCmtlJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/298107738/1584036392",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Mar 17 03:03:56 +0000 2023",
     "id": 1636563993514090497,
     "id_str": "1636563993514090497",
