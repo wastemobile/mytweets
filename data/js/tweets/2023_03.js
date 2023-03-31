@@ -1,5 +1,542 @@
 Grailbird.data.tweets_2023_03 = [
   {
+    "created_at": "Fri Mar 31 02:31:44 +0000 2023",
+    "id": 1641629320178454529,
+    "id_str": "1641629320178454529",
+    "text": "那時是看到這篇書摘才找書的，可以先讀一下。\n\n《AI背後的暗知識》：「明知識」、「默知識」，與既不可感受也不能表達的「暗知識」 https://t.co/bjkkoUjIoW https://t.co/TnMwKaRzGQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bjkkoUjIoW",
+          "expanded_url": "https://bit.ly/3KoCsm4",
+          "display_url": "bit.ly/3KoCsm4",
+          "indices": [
+            64,
+            87
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1641629312775499777,
+          "id_str": "1641629312775499777",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fsg9KYjaMAE5guw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fsg9KYjaMAE5guw.jpg",
+          "url": "https://t.co/TnMwKaRzGQ",
+          "display_url": "pic.twitter.com/TnMwKaRzGQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1641629320178454529/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 479,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 761,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 761,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1641629312775499777,
+          "id_str": "1641629312775499777",
+          "indices": [
+            88,
+            111
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fsg9KYjaMAE5guw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fsg9KYjaMAE5guw.jpg",
+          "url": "https://t.co/TnMwKaRzGQ",
+          "display_url": "pic.twitter.com/TnMwKaRzGQ",
+          "expanded_url": "https://twitter.com/wastemobile/status/1641629320178454529/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 479,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 761,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 761,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1641628867491418112,
+    "in_reply_to_status_id_str": "1641628867491418112",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 31 02:29:56 +0000 2023",
+    "id": 1641628867491418112,
+    "id_str": "1641628867491418112",
+    "text": "也推一本兩年前舊書《AI背後的暗知識》，AI科普讀物，最有趣的是作者企圖將未來的知識圖譜劃分成人類知識與機器知識，又分為明知識、默知識、與暗知識三種。\n\n近來玩耍 chatGPT 時腦中常迸出這個知識圖譜，想著AI究竟只是搬來了我… https://t.co/HQXjvC1nW1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HQXjvC1nW1",
+          "expanded_url": "https://twitter.com/i/web/status/1641628867491418112",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1641625575101169665,
+    "in_reply_to_status_id_str": "1641625575101169665",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 31 02:16:51 +0000 2023",
+    "id": 1641625575101169665,
+    "id_str": "1641625575101169665",
+    "text": "啟明這本剛出的小說相當切合時事。\n\n看過兩年前簡中版《我這樣的機器》，架空歷史小說，虛構一個圖靈並沒有被逼死、人工智慧高度發展的平行世界，用人與機器人的三角關係糖衣包裹著嚴肅主題，相比麥克尤恩之前的作品來說算很甜很易讀的一本。… https://t.co/zyWMi7GLdH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zyWMi7GLdH",
+          "expanded_url": "https://twitter.com/i/web/status/1641625575101169665",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Mar 31 01:43:56 +0000 2023",
+    "id": 1641617290432237568,
+    "id_str": "1641617290432237568",
+    "text": "芬蘭的有聲書 2021 成長約16%，與前一期50%的高成長率相比已有平緩趨勢；Storytel 則持續攻城掠地，併購了芬蘭擁有 56 間實體店面、最大連鎖書店的有聲書部門。\n\n話說雖然是相同客戶群、相同的產品屬性，實體踏入數位領… https://t.co/tlt5QCD3oe",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tlt5QCD3oe",
+          "expanded_url": "https://twitter.com/i/web/status/1641617290432237568",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1447761186347372547,
+    "in_reply_to_status_id_str": "1447761186347372547",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 30 04:09:19 +0000 2023",
+    "id": 1641291487999852544,
+    "id_str": "1641291487999852544",
+    "text": "今年11月是太空歌劇月啊～\n\n《反叛之月》（Rebel Moon）定檔 11/22 在 #Netflix 播放，查克史奈德的星際大戰電影啊！當初還真的是向盧卡斯提案，但後來重新開發成新故事，至少兩部。\n\n沒意外的話，《沙丘 2》也… https://t.co/SbKQA044HR",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Netflix",
+          "indices": [
+            44,
+            52
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SbKQA044HR",
+          "expanded_url": "https://twitter.com/i/web/status/1641291487999852544",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Mar 30 03:38:19 +0000 2023",
+    "id": 1641283690209873920,
+    "id_str": "1641283690209873920",
+    "text": "參考一下行家解說。\n\n我在 Mac 上開起來常駐會消耗 6xx MB 記憶體，跑起容器、虛擬機當然耗更多（設上限為 8GB），但就只是開發、測試、體驗，不會跑成常態服務，測完有需要就改用 Pi 或 VPS 運行了，但能在日常機器上… https://t.co/EVnj1T6Jer",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EVnj1T6Jer",
+          "expanded_url": "https://twitter.com/i/web/status/1641283690209873920",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1640361285614436356,
+    "in_reply_to_status_id_str": "1640361285614436356",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1641264225069989889,
+    "quoted_status_id_str": "1641264225069989889",
+    "quoted_status": {
+      "created_at": "Thu Mar 30 02:20:59 +0000 2023",
+      "id": 1641264225069989889,
+      "id_str": "1641264225069989889",
+      "text": "体验了一下 OrbStack，https://t.co/K5BFO1Ye72，确实快，完全可以整体取代 Docker Desktop + 类 VirtualBox 虚拟机，在它上面 Linux 虚拟机的创建只需要不到一分钟，而且跟… https://t.co/YsYwvWhsAt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/K5BFO1Ye72",
+            "expanded_url": "https://orbstack.dev/",
+            "display_url": "orbstack.dev",
+            "indices": [
+              15,
+              38
+            ]
+          },
+          {
+            "url": "https://t.co/YsYwvWhsAt",
+            "expanded_url": "https://twitter.com/i/web/status/1641264225069989889",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 272736093,
+        "id_str": "272736093",
+        "name": "Barret李靖",
+        "screen_name": "Barret_China",
+        "location": "Hangzhou,Zhejiang,China",
+        "description": "小胡子哥，一个有趣的灵魂",
+        "url": "https://t.co/Gsh8w12enE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Gsh8w12enE",
+                "expanded_url": "http://www.barretlee.com",
+                "display_url": "barretlee.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 31415,
+        "friends_count": 548,
+        "listed_count": 311,
+        "created_at": "Sun Mar 27 02:48:44 +0000 2011",
+        "favourites_count": 265,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2817,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/639253390522843136/c96rrAfr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/272736093/1452847478",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 127,
+      "favorite_count": 506,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Mar 30 01:38:39 +0000 2023",
     "id": 1641253571080630273,
     "id_str": "1641253571080630273",
