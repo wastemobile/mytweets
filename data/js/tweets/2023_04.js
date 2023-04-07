@@ -1,5 +1,714 @@
 Grailbird.data.tweets_2023_04 = [
   {
+    "created_at": "Fri Apr 07 00:23:10 +0000 2023",
+    "id": 1644133679432876034,
+    "id_str": "1644133679432876034",
+    "text": "雖說 GitBook 從開源製書工具轉型成企業文件、知識管理服務後，就不太關注它，但當下熱門的大語言模型生成式AI，確實是這類服務的必要整合。\n\n之後只要是沒有導入AI、並根據自身領域知識訓練過，就別稱自己是「知識型企業」了吧。… https://t.co/uhAmui7wk5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uhAmui7wk5",
+          "expanded_url": "https://twitter.com/i/web/status/1644133679432876034",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 07 00:03:01 +0000 2023",
+    "id": 1644128609341435904,
+    "id_str": "1644128609341435904",
+    "text": "Substack 新推出的「短評（Notes）」，運作起來像是結合了微網誌（like Twitter）與 Medium 的圈選摘記。\n\n官方聲明這樣說，看起來確實很像大家熟悉的社群媒體，但關鍵差異在看不見的地方：Substack… https://t.co/bxXxnkpVoz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bxXxnkpVoz",
+          "expanded_url": "https://twitter.com/i/web/status/1644128609341435904",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 06 13:05:46 +0000 2023",
+    "id": 1643963206124306435,
+    "id_str": "1643963206124306435",
+    "text": "RT @AnnnnnaAnnnnnna: 要被樂樂笑死了啦！\n\n他潛入洛杉磯糞紅的抗議隊伍惡搞，\n最後返回正常的一方，暢談自己的信念！\n\n由於糞紅一直叫「賣國賊、賣國賊⋯⋯」\n樂樂和友軍們乾脆搭配著喊「習近平、習近平⋯⋯」\n\n結果現場響起一片「習近平賣國賊！習近平賣國賊！⋯⋯」…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AnnnnnaAnnnnnna",
+          "name": "習噗噗閹割者",
+          "id": 1540913795454734336,
+          "id_str": "1540913795454734336",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Apr 06 10:03:08 +0000 2023",
+      "id": 1643917243670208512,
+      "id_str": "1643917243670208512",
+      "text": "要被樂樂笑死了啦！\n\n他潛入洛杉磯糞紅的抗議隊伍惡搞，\n最後返回正常的一方，暢談自己的信念！\n\n由於糞紅一直叫「賣國賊、賣國賊⋯⋯」\n樂樂和友軍們乾脆搭配著喊「習近平、習近平⋯⋯」\n\n結果現場響起一片「習近平賣國賊！習近平賣國賊！… https://t.co/EjNAiFOmpj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EjNAiFOmpj",
+            "expanded_url": "https://twitter.com/i/web/status/1643917243670208512",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1540913795454734336,
+        "id_str": "1540913795454734336",
+        "name": "習噗噗閹割者",
+        "screen_name": "AnnnnnaAnnnnnna",
+        "location": "",
+        "description": "看到糞紅就鎖，沒有自介並且鎖推的，我也鎖。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3929,
+        "friends_count": 304,
+        "listed_count": 19,
+        "created_at": "Sun Jun 26 04:24:23 +0000 2022",
+        "favourites_count": 55855,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 20247,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1540917109697368064/OS8veoGa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1540917109697368064/OS8veoGa_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 348,
+      "favorite_count": 2127,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 348,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 06 02:09:00 +0000 2023",
+    "id": 1643797926936981504,
+    "id_str": "1643797926936981504",
+    "text": "RT @hakkanews: 坪林百年首家獨立書店成立　負責人樂見孩子流連  https://t.co/647tLGtagt  #客新聞 https://t.co/GDoHTleP1r",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "客新聞",
+          "indices": [
+            64,
+            68
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "hakkanews",
+          "name": "客新聞 HakkaNews",
+          "id": 1506845120699957250,
+          "id_str": "1506845120699957250",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/647tLGtagt",
+          "expanded_url": "https://ift.tt/xHqscB7",
+          "display_url": "ift.tt/xHqscB7",
+          "indices": [
+            39,
+            62
+          ]
+        },
+        {
+          "url": "https://t.co/GDoHTleP1r",
+          "expanded_url": "https://ift.tt/toO05Vm",
+          "display_url": "ift.tt/toO05Vm",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Apr 06 02:07:47 +0000 2023",
+      "id": 1643797619276230656,
+      "id_str": "1643797619276230656",
+      "text": "坪林百年首家獨立書店成立　負責人樂見孩子流連  https://t.co/647tLGtagt  #客新聞 https://t.co/GDoHTleP1r",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "客新聞",
+            "indices": [
+              49,
+              53
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/647tLGtagt",
+            "expanded_url": "https://ift.tt/xHqscB7",
+            "display_url": "ift.tt/xHqscB7",
+            "indices": [
+              24,
+              47
+            ]
+          },
+          {
+            "url": "https://t.co/GDoHTleP1r",
+            "expanded_url": "https://ift.tt/toO05Vm",
+            "display_url": "ift.tt/toO05Vm",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1506845120699957250,
+        "id_str": "1506845120699957250",
+        "name": "客新聞 HakkaNews",
+        "screen_name": "hakkanews",
+        "location": "Taiwan",
+        "description": "客新聞 | HakkaNews 是財團法人客家公共傳播基金會旗下的客家新聞傳媒頻道。，透過報導海內外重要新聞、客庄大小事，連結客家，結合在地與全球，期待更多人共下看見客家的各種美好。",
+        "url": "https://t.co/Kyvm3DrnsG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Kyvm3DrnsG",
+                "expanded_url": "https://hakkanews.tw",
+                "display_url": "hakkanews.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 102,
+        "friends_count": 4,
+        "listed_count": 5,
+        "created_at": "Thu Mar 24 04:07:41 +0000 2022",
+        "favourites_count": 2,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4133,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1506845276350590977/FKpBdBgK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1506845276350590977/FKpBdBgK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506845120699957250/1648095772",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 05 14:36:54 +0000 2023",
+    "id": 1643623755392901124,
+    "id_str": "1643623755392901124",
+    "text": "羅伯．葛特利編輯生涯的傳奇事蹟不勝枚舉，我最喜歡的就是當初《第二十二條軍規》原本叫做 Catch 18，但那時恰好有一本戰爭小說《Mila 18》出版，他靈機一動、神來一筆改成了 Catch-22。\n\n《嗜讀者：改寫美國文學史的傳… https://t.co/1sV6sgfxkZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1sV6sgfxkZ",
+          "expanded_url": "https://twitter.com/i/web/status/1643623755392901124",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1643045916910440448,
+    "in_reply_to_status_id_str": "1643045916910440448",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 05 11:34:24 +0000 2023",
+    "id": 1643577827495907328,
+    "id_str": "1643577827495907328",
+    "text": "RT @pirrer: 2022 博客來年度損益較前一年衰退 46.6%\n\n\"博客來2022的年度損益為2億1495萬元，比起2021年的4億230萬，衰退46.6%，回到2010年前的狀態\"\n\nhttps://t.co/eFzgcrnwng https://t.co/2x4C…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "pirrer",
+          "name": "fox hsiao",
+          "id": 7007922,
+          "id_str": "7007922",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eFzgcrnwng",
+          "expanded_url": "https://www.facebook.com/ml.tpe/posts/pfbid02ABRCQeT5XKYDrEbuDpw1We5fGzZQ4mypKFmRnoQWvXVYuM7yuP97aSDRYdcKiFxsl",
+          "display_url": "facebook.com/ml.tpe/posts/p…",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Apr 05 10:43:20 +0000 2023",
+      "id": 1643564973082443776,
+      "id_str": "1643564973082443776",
+      "text": "2022 博客來年度損益較前一年衰退 46.6%\n\n\"博客來2022的年度損益為2億1495萬元，比起2021年的4億230萬，衰退46.6%，回到2010年前的狀態\"\n\nhttps://t.co/eFzgcrnwng… https://t.co/a3g63OrDH3",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eFzgcrnwng",
+            "expanded_url": "https://www.facebook.com/ml.tpe/posts/pfbid02ABRCQeT5XKYDrEbuDpw1We5fGzZQ4mypKFmRnoQWvXVYuM7yuP97aSDRYdcKiFxsl",
+            "display_url": "facebook.com/ml.tpe/posts/p…",
+            "indices": [
+              86,
+              109
+            ]
+          },
+          {
+            "url": "https://t.co/a3g63OrDH3",
+            "expanded_url": "https://twitter.com/i/web/status/1643564973082443776",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7007922,
+        "id_str": "7007922",
+        "name": "fox hsiao",
+        "screen_name": "pirrer",
+        "location": "Keelung (基隆)",
+        "description": "Lets talk abt startup, game, crypto & AI.\nA starter, Co-founder of iCook / INSIDE",
+        "url": "https://t.co/dXXoPRuauv",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/dXXoPRuauv",
+                "expanded_url": "http://coldplay.tw",
+                "display_url": "coldplay.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4601,
+        "friends_count": 941,
+        "listed_count": 71,
+        "created_at": "Fri Jun 22 01:23:29 +0000 2007",
+        "favourites_count": 2118,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 8763,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1121840475676131328/LVsRJPkY_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121840475676131328/LVsRJPkY_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7007922/1556302750",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 26,
+      "favorite_count": 248,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Apr 04 13:51:14 +0000 2023",
     "id": 1643249873226203141,
     "id_str": "1643249873226203141",
