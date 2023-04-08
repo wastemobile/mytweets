@@ -1,5 +1,246 @@
 Grailbird.data.tweets_2023_04 = [
   {
+    "created_at": "Fri Apr 07 13:24:37 +0000 2023",
+    "id": 1644330337697415168,
+    "id_str": "1644330337697415168",
+    "text": "以英國著名演員命名的勞倫斯・奧立佛獎，是國際公認的舞台劇藝術大獎，《Prima Facie》獲得 2023 最佳新劇，Jodie Comer 同時獲得最佳女演員，實至名歸，來二刷一下～… https://t.co/0N961b5KlQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0N961b5KlQ",
+          "expanded_url": "https://twitter.com/i/web/status/1644330337697415168",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1641720847730884608,
+    "in_reply_to_status_id_str": "1641720847730884608",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 07 11:23:14 +0000 2023",
+    "id": 1644299790069669888,
+    "id_str": "1644299790069669888",
+    "text": "我覺得應該是 Railway https://t.co/2jHd2prOfi https://t.co/kuIehv8BY7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2jHd2prOfi",
+          "expanded_url": "https://railway.app",
+          "display_url": "railway.app",
+          "indices": [
+            15,
+            38
+          ]
+        },
+        {
+          "url": "https://t.co/kuIehv8BY7",
+          "expanded_url": "https://twitter.com/ingramchen/status/1644155843909394432",
+          "display_url": "twitter.com/ingramchen/sta…",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1644155843909394432,
+    "quoted_status_id_str": "1644155843909394432",
+    "quoted_status": {
+      "created_at": "Fri Apr 07 01:51:14 +0000 2023",
+      "id": 1644155843909394432,
+      "id_str": "1644155843909394432",
+      "text": "vercel 就是這個世代的 heroku\n\nheroku 現在的下場就是 vercel 未來的樣子\n\n你信不信？",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 5989982,
+        "id_str": "5989982",
+        "name": "Ingram Chen ⓥ",
+        "screen_name": "ingramchen",
+        "location": "Taipei, Taiwan",
+        "description": "DinBenDon Creator - https://t.co/pSw4gTNMHQ ;\nhttps://t.co/eZRuBw1xAc ;\nride a bike ;",
+        "url": "https://t.co/9i4sjXh7bP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/9i4sjXh7bP",
+                "expanded_url": "http://ingramchen.io",
+                "display_url": "ingramchen.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/pSw4gTNMHQ",
+                "expanded_url": "http://dinbendon.net",
+                "display_url": "dinbendon.net",
+                "indices": [
+                  20,
+                  43
+                ]
+              },
+              {
+                "url": "https://t.co/eZRuBw1xAc",
+                "expanded_url": "http://kaif.io",
+                "display_url": "kaif.io",
+                "indices": [
+                  46,
+                  69
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3714,
+        "friends_count": 131,
+        "listed_count": 63,
+        "created_at": "Sat May 12 14:58:50 +0000 2007",
+        "favourites_count": 5158,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17504,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1561539488194916352/J3HQngU8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1561539488194916352/J3HQngU8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5989982/1354332200",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 07 00:23:10 +0000 2023",
     "id": 1644133679432876034,
     "id_str": "1644133679432876034",
