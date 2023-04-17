@@ -1,5 +1,484 @@
 Grailbird.data.tweets_2023_04 = [
   {
+    "created_at": "Mon Apr 17 00:25:40 +0000 2023",
+    "id": 1647758187632951296,
+    "id_str": "1647758187632951296",
+    "text": "NVIDIA Jetson Orin Nano 8GB 新版開發套件，好像是目前獲得邊緣 AI 算力 CP 值最高的選擇，表定足瓦號稱 40 TOPS。 #note\n\n替 PC 安裝一張 Asus AI 加速卡 CRL-G18U-… https://t.co/JAQhQzo8i8",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            77,
+            82
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JAQhQzo8i8",
+          "expanded_url": "https://twitter.com/i/web/status/1647758187632951296",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Apr 16 22:12:44 +0000 2023",
+    "id": 1647724735407722497,
+    "id_str": "1647724735407722497",
+    "text": "莫拉維克悖論（Moravec's Paradox）：\n\n人類所獨有的高階智慧能力只需要非常少的計算能力，例如推理，但是無意識的技能和直覺卻需要極大的運算能力。\n\n「困難的問題是易解的，簡單的問題是難解的。」 #note\n\nhttps://t.co/lJPVSEg0u6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "note",
+          "indices": [
+            104,
+            109
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lJPVSEg0u6",
+          "expanded_url": "https://bit.ly/41eb6VE",
+          "display_url": "bit.ly/41eb6VE",
+          "indices": [
+            111,
+            134
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Apr 16 14:09:06 +0000 2023",
+    "id": 1647603022137266178,
+    "id_str": "1647603022137266178",
+    "text": "亞馬遜每年這封執行長寫給股東的信，最後都會附上 1997 貝佐斯寫的那第一封信，這麼多年沒變過。\n\n電商業務營收：\n\n1997 年 1.478 億美金\n…\n2019: 2,450 億\n…\n2022: 4,340 億\n\nAmazon… https://t.co/zNv68WJKaQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zNv68WJKaQ",
+          "expanded_url": "https://twitter.com/i/web/status/1647603022137266178",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Apr 16 13:09:37 +0000 2023",
+    "id": 1647588052603396097,
+    "id_str": "1647588052603396097",
+    "text": "奪取 AI，酷。 https://t.co/wKN3aPGDkG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wKN3aPGDkG",
+          "expanded_url": "https://twitter.com/kaosensei_1412/status/1647573265131642881",
+          "display_url": "twitter.com/kaosensei_1412…",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1647573265131642881,
+    "quoted_status_id_str": "1647573265131642881",
+    "quoted_status": {
+      "created_at": "Sun Apr 16 12:10:51 +0000 2023",
+      "id": 1647573265131642881,
+      "id_str": "1647573265131642881",
+      "text": "啊啊，董啟章，真好看。\n\nhttps://t.co/IXEmzgxYTf https://t.co/KDJyE1c5PP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/IXEmzgxYTf",
+            "expanded_url": "https://matters.news/@dung_kaicheung/385415-%E5%9C%A8ai%E5%90%9B%E8%87%A8%E6%99%82%E4%BB%A3%E7%9A%84%E6%96%87%E5%AD%B8%E5%AF%AB%E4%BD%9C-bafybeieb3kznp4mp7rct4cxakpnqfeg7lehl64qmkwa7gflrwp2qwp6b3u?fbclid=IwAR06ijtiwuUP-HtoCtifVIk_IbYZDFYpQOIatqAdxxHevXgTrGgy8tz_zYY",
+            "display_url": "matters.news/@dung_kaicheun…",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1647573173519679488,
+            "id_str": "1647573173519679488",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ft1bEnUagAAfwwW.png",
+            "media_url_https": "https://pbs.twimg.com/media/Ft1bEnUagAAfwwW.png",
+            "url": "https://t.co/KDJyE1c5PP",
+            "display_url": "pic.twitter.com/KDJyE1c5PP",
+            "expanded_url": "https://twitter.com/kaosensei_1412/status/1647573265131642881/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 578,
+                "h": 558,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 578,
+                "h": 558,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 578,
+                "h": 558,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1647573173519679488,
+            "id_str": "1647573173519679488",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ft1bEnUagAAfwwW.png",
+            "media_url_https": "https://pbs.twimg.com/media/Ft1bEnUagAAfwwW.png",
+            "url": "https://t.co/KDJyE1c5PP",
+            "display_url": "pic.twitter.com/KDJyE1c5PP",
+            "expanded_url": "https://twitter.com/kaosensei_1412/status/1647573265131642881/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 578,
+                "h": 558,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 578,
+                "h": 558,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 578,
+                "h": 558,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1221995548007206912,
+        "id_str": "1221995548007206912",
+        "name": "K 先生",
+        "screen_name": "kaosensei_1412",
+        "location": "",
+        "description": "「有了疑惑，便就不畫，哪怕只有一絲疑惑存在，就不會去追，貪婪傲慢而又頑固呢。也因此，洋一先生做的麵包很美味，既不中庸、又不妥協，沒必要，你只要保持這樣就好了。」PM of @FirstoryHQ",
+        "url": "https://t.co/oeF6IFFhtt",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/oeF6IFFhtt",
+                "expanded_url": "https://letterboxd.com/kaosensei1412/films/diary/",
+                "display_url": "letterboxd.com/kaosensei1412/…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 747,
+        "friends_count": 268,
+        "listed_count": 23,
+        "created_at": "Tue Jan 28 03:17:11 +0000 2020",
+        "favourites_count": 7303,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3102,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1358265282263879680/5Uh3IC8T_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1358265282263879680/5Uh3IC8T_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1221995548007206912/1580182905",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Apr 15 23:52:20 +0000 2023",
+    "id": 1647387409833951233,
+    "id_str": "1647387409833951233",
+    "text": "”MacGuffin” 是電影術語，意指能用以推展劇情的物件、人物、或目標，例如《黑色追緝令》中的手提箱、《北非諜影》中的通行證。即使並非劇中主角，有時甚至觀眾自始至終都對它一無所知，卻扮演著關鍵性的引導作用。\n\n荷蘭獨立雜誌《M… https://t.co/ByUeZCZ0uF",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ByUeZCZ0uF",
+          "expanded_url": "https://twitter.com/i/web/status/1647387409833951233",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "favorite_count": 126,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Apr 15 00:08:45 +0000 2023",
     "id": 1647029156088250368,
     "id_str": "1647029156088250368",
