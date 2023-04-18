@@ -1,5 +1,170 @@
 Grailbird.data.tweets_2023_04 = [
   {
+    "created_at": "Tue Apr 18 00:01:11 +0000 2023",
+    "id": 1648114413210324995,
+    "id_str": "1648114413210324995",
+    "text": "不久前也看了《Dancing Pina》。\n\n紀錄兩組分別位於德國與塞內加爾的年輕舞蹈團隊，重新學習、研究、演繹碧娜・鮑許的舞作《伊菲珍妮亞在陶里斯》與《春之祭》。街舞、古典芭蕾、傳統與當代非洲舞蹈的舞者，與 Pina 舞作的交互… https://t.co/4EzSoKJPbK",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4EzSoKJPbK",
+          "expanded_url": "https://twitter.com/i/web/status/1648114413210324995",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1647956726597971969,
+    "in_reply_to_status_id_str": "1647956726597971969",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Apr 17 23:25:50 +0000 2023",
+    "id": 1648105519163523072,
+    "id_str": "1648105519163523072",
+    "text": "「去年 12 月 Credit Karma 進行的調查中，大約 1/3 受訪者表示，他們去年最大的財務錯誤是為從未使用的服務付費」。\n\n見推檢查一下每月自動扣款的訂閱服務。\n\n你知道自己訂閱了甚麼嗎？那些一點點削走你薪水的訂閱……… https://t.co/Kv4dBKWTQ5",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Kv4dBKWTQ5",
+          "expanded_url": "https://twitter.com/i/web/status/1648105519163523072",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Mon Apr 17 13:34:35 +0000 2023",
+    "id": 1647956726597971969,
+    "id_str": "1647956726597971969",
+    "text": "在 Apple TV 用 NT$90 買了《Cunningham 機遇之舞》。\n\n電影導演雅拉．柯芙根（Alla Kovgan）紀念現代舞大師摩斯康寧漢（Merce Cunningham）百歲冥誕的紀錄片，混合了很多舊映像與新演出… https://t.co/wqyabWvYar",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wqyabWvYar",
+          "expanded_url": "https://twitter.com/i/web/status/1647956726597971969",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Mon Apr 17 00:25:40 +0000 2023",
     "id": 1647758187632951296,
     "id_str": "1647758187632951296",
