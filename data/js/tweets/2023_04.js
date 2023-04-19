@@ -1,5 +1,170 @@
 Grailbird.data.tweets_2023_04 = [
   {
+    "created_at": "Wed Apr 19 12:20:40 +0000 2023",
+    "id": 1648662899718758402,
+    "id_str": "1648662899718758402",
+    "text": "Drobo 掛了一顆硬碟，抽出來看貼紙是 2014/9，真夠本了；依舊訂一顆 WD NAS 紅標，用 PChome 勉強趕上 24h 到貨。\n\n話說 Drobo 已經在年初停止生產與支援，之後大概得挑一台 Synology 或 A… https://t.co/5QfPjXQjQm",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5QfPjXQjQm",
+          "expanded_url": "https://twitter.com/i/web/status/1648662899718758402",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1574407476010659847,
+    "in_reply_to_status_id_str": "1574407476010659847",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 19 11:39:11 +0000 2023",
+    "id": 1648652461576720389,
+    "id_str": "1648652461576720389",
+    "text": "好吧，我同意衛報的這篇劇評，雖然女演員氣質還蠻符合的。\n\nhttps://t.co/4Ni8XelqgT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4Ni8XelqgT",
+          "expanded_url": "https://bit.ly/40l5tnh",
+          "display_url": "bit.ly/40l5tnh",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1646511378373689345,
+    "in_reply_to_status_id_str": "1646511378373689345",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Apr 18 01:56:42 +0000 2023",
+    "id": 1648143485160267776,
+    "id_str": "1648143485160267776",
+    "text": "去年六月焦頭爛額處理胖糖貓照護，錯過了文溫德斯《Pina》十週年數位紀念 3D 版大螢幕上映，真的非常可惜。\n\n還是找了影片來看，不管是《春之祭》或《穆勒咖啡館》，震懾心扉的感覺與起碼二十年前初次接觸時完全一致，不需語言與理性的理… https://t.co/HxiMzjCCEg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HxiMzjCCEg",
+          "expanded_url": "https://twitter.com/i/web/status/1648143485160267776",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1648114413210324995,
+    "in_reply_to_status_id_str": "1648114413210324995",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Apr 18 00:01:11 +0000 2023",
     "id": 1648114413210324995,
     "id_str": "1648114413210324995",
