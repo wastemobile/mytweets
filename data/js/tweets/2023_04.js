@@ -1,5 +1,481 @@
 Grailbird.data.tweets_2023_04 = [
   {
+    "created_at": "Thu Apr 20 01:33:32 +0000 2023",
+    "id": 1648862430704058368,
+    "id_str": "1648862430704058368",
+    "text": "RT @clio_chen: 現代寓言😆😆😆 https://t.co/PaSsTtFM7b",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "clio_chen",
+          "name": "克里歐 (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧",
+          "id": 3317445594,
+          "id_str": "3317445594",
+          "indices": [
+            3,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1648729591014637568,
+          "id_str": "1648729591014637568",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/FuF20-MaQAAb6X0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FuF20-MaQAAb6X0.jpg",
+          "url": "https://t.co/PaSsTtFM7b",
+          "display_url": "pic.twitter.com/PaSsTtFM7b",
+          "expanded_url": "https://twitter.com/clio_chen/status/1648729593682198528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 474,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1550,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 836,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1648729593682198528,
+          "source_status_id_str": "1648729593682198528",
+          "source_user_id": 3317445594,
+          "source_user_id_str": "3317445594"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1648729591014637568,
+          "id_str": "1648729591014637568",
+          "indices": [
+            23,
+            46
+          ],
+          "media_url": "http://pbs.twimg.com/media/FuF20-MaQAAb6X0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FuF20-MaQAAb6X0.jpg",
+          "url": "https://t.co/PaSsTtFM7b",
+          "display_url": "pic.twitter.com/PaSsTtFM7b",
+          "expanded_url": "https://twitter.com/clio_chen/status/1648729593682198528/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 474,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1550,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 836,
+              "h": 1200,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1648729593682198528,
+          "source_status_id_str": "1648729593682198528",
+          "source_user_id": 3317445594,
+          "source_user_id_str": "3317445594"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Apr 19 16:45:41 +0000 2023",
+      "id": 1648729593682198528,
+      "id_str": "1648729593682198528",
+      "text": "現代寓言😆😆😆 https://t.co/PaSsTtFM7b",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1648729591014637568,
+            "id_str": "1648729591014637568",
+            "indices": [
+              8,
+              31
+            ],
+            "media_url": "http://pbs.twimg.com/media/FuF20-MaQAAb6X0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FuF20-MaQAAb6X0.jpg",
+            "url": "https://t.co/PaSsTtFM7b",
+            "display_url": "pic.twitter.com/PaSsTtFM7b",
+            "expanded_url": "https://twitter.com/clio_chen/status/1648729593682198528/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 474,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1550,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 836,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1648729591014637568,
+            "id_str": "1648729591014637568",
+            "indices": [
+              8,
+              31
+            ],
+            "media_url": "http://pbs.twimg.com/media/FuF20-MaQAAb6X0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FuF20-MaQAAb6X0.jpg",
+            "url": "https://t.co/PaSsTtFM7b",
+            "display_url": "pic.twitter.com/PaSsTtFM7b",
+            "expanded_url": "https://twitter.com/clio_chen/status/1648729593682198528/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 474,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1550,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 836,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3317445594,
+        "id_str": "3317445594",
+        "name": "克里歐 (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧",
+        "screen_name": "clio_chen",
+        "location": "",
+        "description": "出版業脫出中，現為工廠裡的文字打工仔💺✏️⏳🕢🥂",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 75,
+        "friends_count": 92,
+        "listed_count": 0,
+        "created_at": "Mon Aug 17 06:59:55 +0000 2015",
+        "favourites_count": 4976,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 458,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1541466831353171968/RyVfXwxC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1541466831353171968/RyVfXwxC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3317445594/1650735986",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Wed Apr 19 22:48:06 +0000 2023",
+    "id": 1648820799355392000,
+    "id_str": "1648820799355392000",
+    "text": "韓國文化體育觀光部《2021年內容產業調查報告》指出，韓國出版業2020年出現貿易順差，且逐年增長──2020約9千萬美元，2021年約1億1千萬美元。\n\n這個就真的厲害了，是「韓流」席捲全世界的成果展現。\n\n出版業沒未來？「圖書… https://t.co/fYFxcoiEBk",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fYFxcoiEBk",
+          "expanded_url": "https://twitter.com/i/web/status/1648820799355392000",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1647029156088250368,
+    "in_reply_to_status_id_str": "1647029156088250368",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 19 22:21:51 +0000 2023",
+    "id": 1648814190591873025,
+    "id_str": "1648814190591873025",
+    "text": "只募到目標資金的六成、88家傳統書店、4名員工的支持，2020依舊上線運行。除了疫情，最大助力來自 Ingram、美國最大圖書批發商，資料庫、接單、物流，幾乎就是全後端。\n\n2018「只有200家獨立書店的線上年度銷售額超過1萬美… https://t.co/VUhJ1WJLgJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VUhJ1WJLgJ",
+          "expanded_url": "https://twitter.com/i/web/status/1648814190591873025",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1645933569943162881,
+    "in_reply_to_status_id_str": "1645933569943162881",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Apr 19 14:34:44 +0000 2023",
+    "id": 1648696639442530304,
+    "id_str": "1648696639442530304",
+    "text": "看了龍應台紐時文章，前面的人物、意見、討論都沒啥問題，文筆很好，只有結論錯了。\n\n改成「如果國民黨獲勝，急於解決台灣問題的中國會因獲得內應、誤判情勢而輕易攻打台灣，如俄國入侵烏克蘭那樣；如果民進黨保住了權力，美日為後盾，誰知道呢？… https://t.co/y2FVRFtXTs",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/y2FVRFtXTs",
+          "expanded_url": "https://twitter.com/i/web/status/1648696639442530304",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 26,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 19 12:20:40 +0000 2023",
     "id": 1648662899718758402,
     "id_str": "1648662899718758402",
