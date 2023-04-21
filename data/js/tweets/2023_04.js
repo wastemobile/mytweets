@@ -1,5 +1,457 @@
 Grailbird.data.tweets_2023_04 = [
   {
+    "created_at": "Fri Apr 21 02:47:02 +0000 2023",
+    "id": 1649243314439487488,
+    "id_str": "1649243314439487488",
+    "text": "招牌很可愛～ https://t.co/evCyGyOi65",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/evCyGyOi65",
+          "expanded_url": "https://twitter.com/tomei_1111/status/1649236657680572417",
+          "display_url": "twitter.com/tomei_1111/sta…",
+          "indices": [
+            7,
+            30
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1649223754013376512,
+    "in_reply_to_status_id_str": "1649223754013376512",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1649236657680572417,
+    "quoted_status_id_str": "1649236657680572417",
+    "quoted_status": {
+      "created_at": "Fri Apr 21 02:20:35 +0000 2023",
+      "id": 1649236657680572417,
+      "id_str": "1649236657680572417",
+      "text": "いよいよ、12時からオープンです！ https://t.co/1Dv0dKPOw4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1649236615901085698,
+            "id_str": "1649236615901085698",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/FuND9tFaAAI6q5I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FuND9tFaAAI6q5I.jpg",
+            "url": "https://t.co/1Dv0dKPOw4",
+            "display_url": "pic.twitter.com/1Dv0dKPOw4",
+            "expanded_url": "https://twitter.com/tomei_1111/status/1649236657680572417/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1649236615901085698,
+            "id_str": "1649236615901085698",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/FuND9tFaAAI6q5I.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FuND9tFaAAI6q5I.jpg",
+            "url": "https://t.co/1Dv0dKPOw4",
+            "display_url": "pic.twitter.com/1Dv0dKPOw4",
+            "expanded_url": "https://twitter.com/tomei_1111/status/1649236657680572417/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1625555235304538113,
+        "id_str": "1625555235304538113",
+        "name": "透明書店@4/21本日オープン",
+        "screen_name": "tomei_1111",
+        "location": "東京都台東区寿3-13-14",
+        "description": "蔵前に新しくオープンした本屋です。書店での営みを透明に発信していきます。\n大江戸線蔵前駅A5出口より徒歩1分。\n平日：12:00〜14:00/15:00~20:00、休祝日：11:00〜14:00、15:00~19:00、定休日は火水",
+        "url": "https://t.co/gogQ0OaWWd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/gogQ0OaWWd",
+                "expanded_url": "https://tomei-bookstore.com",
+                "display_url": "tomei-bookstore.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 947,
+        "friends_count": 0,
+        "listed_count": 12,
+        "created_at": "Tue Feb 14 17:59:23 +0000 2023",
+        "favourites_count": 49,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 71,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1645016263356477440/bHiXnWRa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1645016263356477440/bHiXnWRa_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625555235304538113/1678533042",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 75,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 21 01:29:18 +0000 2023",
+    "id": 1649223754013376512,
+    "id_str": "1649223754013376512",
+    "text": "擬化為吉祥物的水母，則是套入了 ChatGPT 的「副店長」，可以用語音及鍵盤與客人對話，向顧客推薦書籍，同時也能即時比對庫存數據；右上角顯示書店的營業目標達成率，水母也會因此數據而展示開心或沮喪。\n\n店租30萬日圓，含人事的總費… https://t.co/YuNGdTzb18",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YuNGdTzb18",
+          "expanded_url": "https://twitter.com/i/web/status/1649223754013376512",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1649222632972353537,
+    "in_reply_to_status_id_str": "1649222632972353537",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 21 01:24:51 +0000 2023",
+    "id": 1649222632972353537,
+    "id_str": "1649222632972353537",
+    "text": "freee 開設的第一間（可能也是唯一一間）「透明書店」在東京開始營運了，陳列出 3,000 本書，其中 1,000 種是個人或小規模出版品。\n\n店面很小，就像間預算不高的獨立書店，符合其雲端軟體替小企業服務的本質。… https://t.co/wXHpk7WUNG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wXHpk7WUNG",
+          "expanded_url": "https://twitter.com/i/web/status/1649222632972353537",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            110,
+            133
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1636008095452393473,
+    "quoted_status_id_str": "1636008095452393473",
+    "quoted_status": {
+      "created_at": "Wed Mar 15 14:15:00 +0000 2023",
+      "id": 1636008095452393473,
+      "id_str": "1636008095452393473",
+      "text": "日本以提供中小企業會計軟體 SaaS 服務的 freee，去年即開始籌劃「透明書店」品牌，即將於四月下旬在東京開設實體書店，除了研究設計如何以技術來改善書店業務外，也將利用 ChatGPT 從網路搜集暢銷書等統計數據，向顧客提供推… https://t.co/bmA9Ok7qIl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bmA9Ok7qIl",
+            "expanded_url": "https://twitter.com/i/web/status/1636008095452393473",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1632529433373310977,
+      "in_reply_to_status_id_str": "1632529433373310977",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "荒原裡的一支廢棄手機",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6603,
+        "friends_count": 1227,
+        "listed_count": 142,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3786,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26441,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1681691911",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1635784004862607360,
+      "quoted_status_id_str": "1635784004862607360",
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Apr 20 01:33:32 +0000 2023",
     "id": 1648862430704058368,
     "id_str": "1648862430704058368",
