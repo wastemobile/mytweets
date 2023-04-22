@@ -1,5 +1,339 @@
 Grailbird.data.tweets_2023_04 = [
   {
+    "created_at": "Fri Apr 21 22:30:46 +0000 2023",
+    "id": 1649541210397343744,
+    "id_str": "1649541210397343744",
+    "text": "惡人還需惡人磨。 https://t.co/AR3fNtkR7N",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AR3fNtkR7N",
+          "expanded_url": "https://twitter.com/cdtchinese/status/1649527187949912064",
+          "display_url": "twitter.com/cdtchinese/sta…",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1649527187949912064,
+    "quoted_status_id_str": "1649527187949912064",
+    "quoted_status": {
+      "created_at": "Fri Apr 21 21:35:02 +0000 2023",
+      "id": 1649527187949912064,
+      "id_str": "1649527187949912064",
+      "text": "当买家在平台“白嫖”成本极低时，“恶”会扩散，成为一种集体行为，一个薅到的带着身边人一起薅。从去年帮助商家维权开始，刘晓平大概接触了超过5000起诉讼，这些被定义为“白嫖党”的人里，超过 60%是二十多岁的年轻人，出现了明显地域集… https://t.co/F2JBZphb48",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/F2JBZphb48",
+            "expanded_url": "https://twitter.com/i/web/status/1649527187949912064",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 85875473,
+        "id_str": "85875473",
+        "name": "中国数字时代",
+        "screen_name": "CDTChinese",
+        "location": "UC Berkeley",
+        "description": "中国数字时代（China Digital Times, CDT）中文官方推特账号。英文账号：@CDT\n中国数字时代致力于记录和传播中文互联网上被审查的信息，以及人们对抗政治压迫的努力。",
+        "url": "https://t.co/cgrUsoiY4w",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/cgrUsoiY4w",
+                "expanded_url": "http://chinadigitaltimes.net/chinese",
+                "display_url": "chinadigitaltimes.net/chinese",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 299149,
+        "friends_count": 241,
+        "listed_count": 1420,
+        "created_at": "Wed Oct 28 18:13:55 +0000 2009",
+        "favourites_count": 99,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 58321,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1858536295/CDTdarkblue2_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1858536295/CDTdarkblue2_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/85875473/1597170385",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 27,
+      "favorite_count": 76,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 21 14:48:51 +0000 2023",
+    "id": 1649424966742429696,
+    "id_str": "1649424966742429696",
+    "text": "覺得 ChatGPT 好讚，Siri 好廢。\n\n好奇查了一下，原來 Siri 全名是 Speech Interpretation and Recognition Interface（語音解析及辨識介面），果然只是語言小助手而已，至… https://t.co/hrSrawgqgJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hrSrawgqgJ",
+          "expanded_url": "https://twitter.com/i/web/status/1649424966742429696",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 21 08:11:31 +0000 2023",
+    "id": 1649324973968982016,
+    "id_str": "1649324973968982016",
+    "text": "@book686 母公司 freee 其實近千人，2021 營收開始破百億日圓（雖然近幾年都是虧損），也是上市公司（TYO: 4478），股價約 ¥3,800，市值約 2,200 億。\n\n我覺得這小小的透明書店應該能開一陣子⋯⋯XD",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "book686",
+          "name": "686",
+          "id": 47693,
+          "id_str": "47693",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1649319676961501184,
+    "in_reply_to_status_id_str": "1649319676961501184",
+    "in_reply_to_user_id": 47693,
+    "in_reply_to_user_id_str": "47693",
+    "in_reply_to_screen_name": "book686",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 21 07:45:20 +0000 2023",
+    "id": 1649318383362646016,
+    "id_str": "1649318383362646016",
+    "text": "@book686 綜合一些新聞訪談得知：其開設書店的概念是「透明」，意指將經營狀況彈性視覺化，從資金到營運計畫、以及後續的銷售額等，都透明的傳達。也選擇透明的水母當吉祥物，設計與每30分鐘的銷售額連動，用動畫展示書店元氣度。\n\n歸根究底，還是為了雲端IT本業進行實驗與實踐。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "book686",
+          "name": "686",
+          "id": 47693,
+          "id_str": "47693",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1649299132337754112,
+    "in_reply_to_status_id_str": "1649299132337754112",
+    "in_reply_to_user_id": 47693,
+    "in_reply_to_user_id_str": "47693",
+    "in_reply_to_screen_name": "book686",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Apr 21 02:47:02 +0000 2023",
     "id": 1649243314439487488,
     "id_str": "1649243314439487488",
