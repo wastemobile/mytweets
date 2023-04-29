@@ -1,5 +1,415 @@
 Grailbird.data.tweets_2023_04 = [
   {
+    "created_at": "Sat Apr 29 00:08:22 +0000 2023",
+    "id": 1652102489410527232,
+    "id_str": "1652102489410527232",
+    "text": "台灣 6/2。 https://t.co/gcY11S9BPG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gcY11S9BPG",
+          "expanded_url": "https://twitter.com/shin_kr/status/1651888996769841161",
+          "display_url": "twitter.com/shin_kr/status…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1602457191524761600,
+    "in_reply_to_status_id_str": "1602457191524761600",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1651888996769841161,
+    "quoted_status_id_str": "1651888996769841161",
+    "quoted_status": {
+      "created_at": "Fri Apr 28 10:00:02 +0000 2023",
+      "id": 1651888996769841161,
+      "id_str": "1651888996769841161",
+      "text": "#シン・仮面ライダー 海外公開に関して続々決定してまいりました。\n\n・タイ：5/20公開\n・台湾：6/2公開\n・香港／マカオ：6/22公開\n（全て現地時間）\n\nそのほか東南アジア諸国でも決定しております。\n詳細はこちらより↓… https://t.co/YJmbEylmby",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "シン・仮面ライダー",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YJmbEylmby",
+            "expanded_url": "https://twitter.com/i/web/status/1651888996769841161",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1374901389550227458,
+        "id_str": "1374901389550227458",
+        "name": "『シン・仮面ライダー』【公式】",
+        "screen_name": "Shin_KR",
+        "location": "",
+        "description": "『シン・仮面ライダー』絶賛公開中 原作： #石ノ森章太郎 脚本・監督： #庵野秀明 出演： #池松壮亮 #浜辺美波 #柄本佑 #シン・仮面ライダー #仮面ライダー ©石森プロ・東映/2023「シン・仮面ライダー」製作委員会",
+        "url": "https://t.co/jWWsy2ePG2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/jWWsy2ePG2",
+                "expanded_url": "https://shin-kamen-rider.jp/",
+                "display_url": "shin-kamen-rider.jp",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 167306,
+        "friends_count": 0,
+        "listed_count": 715,
+        "created_at": "Thu Mar 25 01:50:59 +0000 2021",
+        "favourites_count": 1,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1410,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1504642789107449858/6Voha-ov_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1504642789107449858/6Voha-ov_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374901389550227458/1679632024",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1284,
+      "favorite_count": 4649,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 28 01:55:02 +0000 2023",
+    "id": 1651766942381002752,
+    "id_str": "1651766942381002752",
+    "text": "用中文和 Bing 聊天，我問了它一個限制級問題（略），它一字一句慢慢吐出一段答案，接著畫面突然一閃、答案消失，變成了簡體中文的「不好意思，我現在無法對此作出回應。要不我們換個話題？」\n\n自我審查搞錯了地域範圍吧。 https://t.co/h1LI4QhamR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1651766936131506177,
+          "id_str": "1651766936131506177",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/FuxBRufakAEWUU3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FuxBRufakAEWUU3.jpg",
+          "url": "https://t.co/h1LI4QhamR",
+          "display_url": "pic.twitter.com/h1LI4QhamR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1651766942381002752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1040,
+              "h": 308,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1040,
+              "h": 308,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 201,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1651766936131506177,
+          "id_str": "1651766936131506177",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/FuxBRufakAEWUU3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FuxBRufakAEWUU3.jpg",
+          "url": "https://t.co/h1LI4QhamR",
+          "display_url": "pic.twitter.com/h1LI4QhamR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1651766942381002752/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1040,
+              "h": 308,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1040,
+              "h": 308,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 201,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Apr 28 00:03:14 +0000 2023",
+    "id": 1651738807547629568,
+    "id_str": "1651738807547629568",
+    "text": "前幾天聲援富察的美國筆會（PEN America），發布新年度的《全球寫作自由度》報告（Freedom to Write Index 2022）。\n\n毫無意外，以實際關押 90 人、有風險 137 人的遙遙領先幅度，中國持續蟬聯冠… https://t.co/FJLjWg9buM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FJLjWg9buM",
+          "expanded_url": "https://twitter.com/i/web/status/1651738807547629568",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Apr 27 22:32:31 +0000 2023",
+    "id": 1651715978353590272,
+    "id_str": "1651715978353590272",
+    "text": "預告明年的美國總統大選將會是一場「深偽」選舉，即使存在「內容溯源與真實性聯盟」（C2PA），但很明顯投入新AI工具與應用的熱錢遠遠超過。\n\n愚蠢的假新聞都能在社群與惡質媒體瘋傳，不意外之後每一場選舉都是深偽戰爭。\n\nBrace Y… https://t.co/R5TB3gwoeE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/R5TB3gwoeE",
+          "expanded_url": "https://twitter.com/i/web/status/1651715978353590272",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Apr 26 22:06:00 +0000 2023",
     "id": 1651346919778828289,
     "id_str": "1651346919778828289",
