@@ -1,5 +1,698 @@
 Grailbird.data.tweets_2023_04 = [
   {
+    "created_at": "Sun Apr 30 03:20:30 +0000 2023",
+    "id": 1652513228231151616,
+    "id_str": "1652513228231151616",
+    "text": "RT @tferriss: \"Don't aim to be the best. Be the only.\" — Kevin Kelly (@kevin2kelly) https://t.co/3ilKM41qpC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "tferriss",
+          "name": "Tim Ferriss",
+          "id": 11740902,
+          "id_str": "11740902",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "kevin2kelly",
+          "name": "Kevin Kelly",
+          "id": 1532061,
+          "id_str": "1532061",
+          "indices": [
+            70,
+            82
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1651663546374057997,
+          "id_str": "1651663546374057997",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1651663546374057997/pu/img/47Bik_ztzhHft1Hy.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1651663546374057997/pu/img/47Bik_ztzhHft1Hy.jpg",
+          "url": "https://t.co/3ilKM41qpC",
+          "display_url": "pic.twitter.com/3ilKM41qpC",
+          "expanded_url": "https://twitter.com/tferriss/status/1651664135724171264/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 606,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 606,
+              "h": 1080,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1651664135724171264,
+          "source_status_id_str": "1651664135724171264",
+          "source_user_id": 11740902,
+          "source_user_id_str": "11740902"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1651663546374057997,
+          "id_str": "1651663546374057997",
+          "indices": [
+            84,
+            107
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1651663546374057997/pu/img/47Bik_ztzhHft1Hy.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1651663546374057997/pu/img/47Bik_ztzhHft1Hy.jpg",
+          "url": "https://t.co/3ilKM41qpC",
+          "display_url": "pic.twitter.com/3ilKM41qpC",
+          "expanded_url": "https://twitter.com/tferriss/status/1651664135724171264/video/1",
+          "type": "video",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 606,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 606,
+              "h": 1080,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1651664135724171264,
+          "source_status_id_str": "1651664135724171264",
+          "source_user_id": 11740902,
+          "source_user_id_str": "11740902",
+          "video_info": {
+            "aspect_ratio": [
+              101,
+              180
+            ],
+            "duration_millis": 59142,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1651663546374057997/pu/vid/606x1080/MHaPC-PGnA7F6dHB.mp4?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1651663546374057997/pu/vid/320x570/wXNIc_NrcTFzhOaP.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1651663546374057997/pu/pl/s5aMak5LfoNTZntn.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1651663546374057997/pu/vid/480x854/YVAaFVZPt0jLiOAI.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "id": 11740902,
+              "id_str": "11740902",
+              "name": "Tim Ferriss",
+              "screen_name": "tferriss",
+              "location": "My free weekly newsletter 👉",
+              "description": "Author of 5 #1 NYT/WSJ bestsellers, early-stage investor (https://t.co/cpVCd1qHwS), Tim Ferriss Show podcast (900M+ downloads), founder of https://t.co/9bQjti1v6c",
+              "url": "https://t.co/wIdFrMID5Q",
+              "entities": {
+                "url": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/wIdFrMID5Q",
+                      "expanded_url": "http://tim.blog/friday",
+                      "display_url": "tim.blog/friday",
+                      "indices": [
+                        0,
+                        23
+                      ]
+                    }
+                  ]
+                },
+                "description": {
+                  "urls": [
+                    {
+                      "url": "https://t.co/cpVCd1qHwS",
+                      "expanded_url": "http://angel.co/tim",
+                      "display_url": "angel.co/tim",
+                      "indices": [
+                        58,
+                        81
+                      ]
+                    },
+                    {
+                      "url": "https://t.co/9bQjti1v6c",
+                      "expanded_url": "http://saiseifoundation.org",
+                      "display_url": "saiseifoundation.org",
+                      "indices": [
+                        139,
+                        162
+                      ]
+                    }
+                  ]
+                }
+              },
+              "protected": false,
+              "followers_count": 1910938,
+              "friends_count": 2865,
+              "listed_count": 23880,
+              "created_at": "Wed Jan 02 04:36:53 +0000 2008",
+              "favourites_count": 36083,
+              "utc_offset": null,
+              "time_zone": null,
+              "geo_enabled": true,
+              "verified": false,
+              "statuses_count": 38432,
+              "lang": null,
+              "contributors_enabled": false,
+              "is_translator": false,
+              "is_translation_enabled": false,
+              "profile_background_color": "9AE4E8",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1590221913128837121/SfucaJh8_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1590221913128837121/SfucaJh8_normal.jpg",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/11740902/1629114070",
+              "profile_link_color": "0000FF",
+              "profile_sidebar_border_color": "87BC44",
+              "profile_sidebar_fill_color": "E0FF92",
+              "profile_text_color": "000000",
+              "profile_use_background_image": true,
+              "has_extended_profile": false,
+              "default_profile": false,
+              "default_profile_image": false,
+              "following": false,
+              "follow_request_sent": false,
+              "notifications": false,
+              "translator_type": "none",
+              "withheld_in_countries": [
+
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Apr 27 19:06:31 +0000 2023",
+      "id": 1651664135724171264,
+      "id_str": "1651664135724171264",
+      "text": "\"Don't aim to be the best. Be the only.\" — Kevin Kelly (@kevin2kelly) https://t.co/3ilKM41qpC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "kevin2kelly",
+            "name": "Kevin Kelly",
+            "id": 1532061,
+            "id_str": "1532061",
+            "indices": [
+              56,
+              68
+            ]
+          }
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1651663546374057997,
+            "id_str": "1651663546374057997",
+            "indices": [
+              70,
+              93
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1651663546374057997/pu/img/47Bik_ztzhHft1Hy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1651663546374057997/pu/img/47Bik_ztzhHft1Hy.jpg",
+            "url": "https://t.co/3ilKM41qpC",
+            "display_url": "pic.twitter.com/3ilKM41qpC",
+            "expanded_url": "https://twitter.com/tferriss/status/1651664135724171264/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 606,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 606,
+                "h": 1080,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1651663546374057997,
+            "id_str": "1651663546374057997",
+            "indices": [
+              70,
+              93
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1651663546374057997/pu/img/47Bik_ztzhHft1Hy.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1651663546374057997/pu/img/47Bik_ztzhHft1Hy.jpg",
+            "url": "https://t.co/3ilKM41qpC",
+            "display_url": "pic.twitter.com/3ilKM41qpC",
+            "expanded_url": "https://twitter.com/tferriss/status/1651664135724171264/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 606,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 606,
+                "h": 1080,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                101,
+                180
+              ],
+              "duration_millis": 59142,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1651663546374057997/pu/vid/606x1080/MHaPC-PGnA7F6dHB.mp4?tag=12"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1651663546374057997/pu/vid/320x570/wXNIc_NrcTFzhOaP.mp4?tag=12"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1651663546374057997/pu/pl/s5aMak5LfoNTZntn.m3u8?tag=12&container=fmp4"
+                },
+                {
+                  "bitrate": 950000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1651663546374057997/pu/vid/480x854/YVAaFVZPt0jLiOAI.mp4?tag=12"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 11740902,
+        "id_str": "11740902",
+        "name": "Tim Ferriss",
+        "screen_name": "tferriss",
+        "location": "My free weekly newsletter 👉",
+        "description": "Author of 5 #1 NYT/WSJ bestsellers, early-stage investor (https://t.co/cpVCd1qHwS), Tim Ferriss Show podcast (900M+ downloads), founder of https://t.co/9bQjti1v6c",
+        "url": "https://t.co/wIdFrMID5Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/wIdFrMID5Q",
+                "expanded_url": "http://tim.blog/friday",
+                "display_url": "tim.blog/friday",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/cpVCd1qHwS",
+                "expanded_url": "http://angel.co/tim",
+                "display_url": "angel.co/tim",
+                "indices": [
+                  58,
+                  81
+                ]
+              },
+              {
+                "url": "https://t.co/9bQjti1v6c",
+                "expanded_url": "http://saiseifoundation.org",
+                "display_url": "saiseifoundation.org",
+                "indices": [
+                  139,
+                  162
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1910938,
+        "friends_count": 2865,
+        "listed_count": 23880,
+        "created_at": "Wed Jan 02 04:36:53 +0000 2008",
+        "favourites_count": 36083,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 38432,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1590221913128837121/SfucaJh8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1590221913128837121/SfucaJh8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11740902/1629114070",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 246,
+      "favorite_count": 1173,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 246,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Apr 30 02:20:27 +0000 2023",
+    "id": 1652498118318104577,
+    "id_str": "1652498118318104577",
+    "text": "@kaosensei_1412 感謝釋疑。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "kaosensei_1412",
+          "name": "K 先生",
+          "id": 1221995548007206912,
+          "id_str": "1221995548007206912",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1652495064281776129,
+    "in_reply_to_status_id_str": "1652495064281776129",
+    "in_reply_to_user_id": 1221995548007206912,
+    "in_reply_to_user_id_str": "1221995548007206912",
+    "in_reply_to_screen_name": "kaosensei_1412",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Apr 29 22:22:09 +0000 2023",
+    "id": 1652438145852661760,
+    "id_str": "1652438145852661760",
+    "text": "小英翻譯過漢娜．鄂蘭的書？\n\nhttps://t.co/iTj3k0maF6 https://t.co/HZMPOA22rX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iTj3k0maF6",
+          "expanded_url": "https://bit.ly/3ADvdAH",
+          "display_url": "bit.ly/3ADvdAH",
+          "indices": [
+            15,
+            38
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1652438138932072448,
+          "id_str": "1652438138932072448",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fu6ju3xakAALmT0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fu6ju3xakAALmT0.jpg",
+          "url": "https://t.co/HZMPOA22rX",
+          "display_url": "pic.twitter.com/HZMPOA22rX",
+          "expanded_url": "https://twitter.com/wastemobile/status/1652438145852661760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1652438138932072448,
+          "id_str": "1652438138932072448",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fu6ju3xakAALmT0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fu6ju3xakAALmT0.jpg",
+          "url": "https://t.co/HZMPOA22rX",
+          "display_url": "pic.twitter.com/HZMPOA22rX",
+          "expanded_url": "https://twitter.com/wastemobile/status/1652438145852661760/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Apr 29 00:08:22 +0000 2023",
     "id": 1652102489410527232,
     "id_str": "1652102489410527232",
