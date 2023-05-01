@@ -1,5 +1,236 @@
 Grailbird.data.tweets_2023_04 = [
   {
+    "created_at": "Sun Apr 30 12:01:16 +0000 2023",
+    "id": 1652644283684618242,
+    "id_str": "1652644283684618242",
+    "text": "RT @ltntw: 小戴！！太感動了！！\n這次一路走來對手都非常強大，小戴先是在四強扳倒先前對戰五連敗的世界球后山口茜，決賽再克服過去對戰五次僅拿一勝的世界第2安洗瑩，連贏世界第1和世界第2，小戴這面金牌純度太高！\n \n圖文報導：https://t.co/tk4kNQU54S…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ltntw",
+          "name": "自由時報",
+          "id": 3029501171,
+          "id_str": "3029501171",
+          "indices": [
+            3,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tk4kNQU54S",
+          "expanded_url": "https://sports.ltn.com.tw/news/breakingnews/4286757",
+          "display_url": "sports.ltn.com.tw/news/breakingn…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Apr 30 11:53:37 +0000 2023",
+      "id": 1652642359476375556,
+      "id_str": "1652642359476375556",
+      "text": "小戴！！太感動了！！\n這次一路走來對手都非常強大，小戴先是在四強扳倒先前對戰五連敗的世界球后山口茜，決賽再克服過去對戰五次僅拿一勝的世界第2安洗瑩，連贏世界第1和世界第2，小戴這面金牌純度太高！\n \n圖文報導：… https://t.co/y6axK44dRj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/y6axK44dRj",
+            "expanded_url": "https://twitter.com/i/web/status/1652642359476375556",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3029501171,
+        "id_str": "3029501171",
+        "name": "自由時報",
+        "screen_name": "ltntw",
+        "location": "台北市內湖區瑞光路399號14樓",
+        "description": "提供第一手全球各地最全球各地最即時的突發事件報導，為網友精準掌握新聞脈動。Liberty Times is the largest newspaper by circulation in Taiwan, providing national and international real-time news.",
+        "url": "https://t.co/NNg4IPIkTF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/NNg4IPIkTF",
+                "expanded_url": "http://www.ltn.com.tw/",
+                "display_url": "ltn.com.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 106386,
+        "friends_count": 75,
+        "listed_count": 637,
+        "created_at": "Wed Feb 11 04:46:42 +0000 2015",
+        "favourites_count": 234,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 10764,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1633682079782416384/UwZ4H7_e_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1633682079782416384/UwZ4H7_e_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3029501171/1678335136",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 455,
+      "favorite_count": 3268,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 455,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Apr 30 11:46:31 +0000 2023",
+    "id": 1652640570010128385,
+    "id_str": "1652640570010128385",
+    "text": "很奇怪，每隔一陣子總得碰（到）一下 WordPress，什麼怪東西都有外掛可嚐鮮。\n\n雖說多半用 Docker 快開快用快殺，但遇上非得嚴謹安裝的場合，這份教學總是要翻出來看看（有持續更新）。從零開始，在Ubuntu小主機上也能跑… https://t.co/n7eYkM0Jpg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/n7eYkM0Jpg",
+          "expanded_url": "https://twitter.com/i/web/status/1652640570010128385",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sun Apr 30 03:20:30 +0000 2023",
     "id": 1652513228231151616,
     "id_str": "1652513228231151616",
