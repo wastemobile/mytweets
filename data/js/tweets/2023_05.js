@@ -1,5 +1,299 @@
 Grailbird.data.tweets_2023_05 = [
   {
+    "created_at": "Sat May 06 00:01:39 +0000 2023",
+    "id": 1654637511283703809,
+    "id_str": "1654637511283703809",
+    "text": "「對已經擁有知識框架的人來說，是增進效率的便利工具。」\n\n「ChatGPT 像是知識的放大鏡，若知識程度是 1 或 2 時，可能變成 10 或 20。但是，0 放大後依舊是 0。」\n\n小林昌樹（《研究技術》作者）與讀書猿（《自學百… https://t.co/HaKuiglbOo",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HaKuiglbOo",
+          "expanded_url": "https://twitter.com/i/web/status/1654637511283703809",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1653892921517805568,
+    "in_reply_to_status_id_str": "1653892921517805568",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 05 22:10:02 +0000 2023",
+    "id": 1654609424554819584,
+    "id_str": "1654609424554819584",
+    "text": "近日，據《衛報》報導，《Vice》集團似乎正準備申請破產重組。\n\n被視為新世代的革命性媒體，YouTube 多達1670萬位訂閱者，市值一度達到驚人的57億美元，持續重組新聞部門、裁員、取消品牌節目，幾個月依舊找不到接手的買家。\n\nhttps://t.co/b105OgNlkZ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/b105OgNlkZ",
+          "expanded_url": "https://bit.ly/3AX7o7p",
+          "display_url": "bit.ly/3AX7o7p",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 05 14:56:34 +0000 2023",
+    "id": 1654500340610260992,
+    "id_str": "1654500340610260992",
+    "text": "RT @WuPingJu: 早上發現 Umami Cloud 要開始收費，找了一下替代方案，結果發現 Cloudflare Web Analytics 好像挺不錯的，於是就迅速安裝開始用，目前感覺好像完全堪用！\n\n寫了一篇小小的紀錄，接下來一兩週若數據跟 Umami 沒差太多，…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WuPingJu",
+          "name": "P.J. Wu 吳秉儒",
+          "id": 159287109,
+          "id_str": "159287109",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri May 05 14:53:56 +0000 2023",
+      "id": 1654499676391981056,
+      "id_str": "1654499676391981056",
+      "text": "早上發現 Umami Cloud 要開始收費，找了一下替代方案，結果發現 Cloudflare Web Analytics 好像挺不錯的，於是就迅速安裝開始用，目前感覺好像完全堪用！\n\n寫了一篇小小的紀錄，接下來一兩週若數據跟 U… https://t.co/N0UtCEHfil",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/N0UtCEHfil",
+            "expanded_url": "https://twitter.com/i/web/status/1654499676391981056",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 159287109,
+        "id_str": "159287109",
+        "name": "P.J. Wu 吳秉儒",
+        "screen_name": "WuPingJu",
+        "location": "Taiwan",
+        "description": "喜歡嘗試不同生產力工具並分享使用心得\n\n相關內容可以看：\nPin 起來：https://t.co/RRfex5bsa9\n電子報：https://t.co/mGiJ3KoNt0",
+        "url": "https://t.co/X31aJFnF5V",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/X31aJFnF5V",
+                "expanded_url": "https://pinchlime.com",
+                "display_url": "pinchlime.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/RRfex5bsa9",
+                "expanded_url": "http://pinchlime.com",
+                "display_url": "pinchlime.com",
+                "indices": [
+                  36,
+                  59
+                ]
+              },
+              {
+                "url": "https://t.co/mGiJ3KoNt0",
+                "expanded_url": "http://pinchlime.com/newsletters",
+                "display_url": "pinchlime.com/newsletters",
+                "indices": [
+                  64,
+                  87
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3526,
+        "friends_count": 550,
+        "listed_count": 56,
+        "created_at": "Fri Jun 25 00:01:35 +0000 2010",
+        "favourites_count": 5174,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1952,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1466990675266707460/JusBwhfm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1466990675266707460/JusBwhfm_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/159287109/1520611019",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri May 05 09:30:05 +0000 2023",
     "id": 1654418176351019010,
     "id_str": "1654418176351019010",
