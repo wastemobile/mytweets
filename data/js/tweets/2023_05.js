@@ -1,5 +1,675 @@
 Grailbird.data.tweets_2023_05 = [
   {
+    "created_at": "Sun May 07 07:08:47 +0000 2023",
+    "id": 1655107391539785728,
+    "id_str": "1655107391539785728",
+    "text": "RT @sapphobooks: 無非是因為火焰\n書店並非只是一個空間，它是收容閒暇與無所事事、熱情與寂寞、糾結苦思與流浪情感的暫存處所。它是時光、靈魂的棲架，以及火焰——用指尖把某本書從九十度傾斜到手掌能握住角度時，只有你自己感受得到的火焰。——吳明益\n\n🔥 《海風酒店》全臺…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "sapphobooks",
+          "name": "IStandWithUkraine/ 小小書房沙貓貓",
+          "id": 2241887532,
+          "id_str": "2241887532",
+          "indices": [
+            3,
+            15
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 07 07:00:00 +0000 2023",
+      "id": 1655105182571610112,
+      "id_str": "1655105182571610112",
+      "text": "無非是因為火焰\n書店並非只是一個空間，它是收容閒暇與無所事事、熱情與寂寞、糾結苦思與流浪情感的暫存處所。它是時光、靈魂的棲架，以及火焰——用指尖把某本書從九十度傾斜到手掌能握住角度時，只有你自己感受得到的火焰。——吳明益\n\n🔥 《… https://t.co/Y99hTrKmiK",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Y99hTrKmiK",
+            "expanded_url": "https://twitter.com/i/web/status/1655105182571610112",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2241887532,
+        "id_str": "2241887532",
+        "name": "IStandWithUkraine/ 小小書房沙貓貓",
+        "screen_name": "sapphobooks",
+        "location": "YungHo. Taiwan",
+        "description": "小小書房沙貓貓/一隻貓。a cat (=ↀωↀ=)\n書房line ID: @297wxsdi// 線上購書https://t.co/LGz1wOaGfu // 書店https://t.co/fC1jEeTYC0 公播頻道 https://t.co/p4fWuakO0u //臉書：https://t.co/dbD2ogkyPW",
+        "url": "https://t.co/LGz1wOaGfu",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LGz1wOaGfu",
+                "expanded_url": "http://bit.ly/3gkCYRt",
+                "display_url": "bit.ly/3gkCYRt",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/LGz1wOaGfu",
+                "expanded_url": "http://bit.ly/3gkCYRt",
+                "display_url": "bit.ly/3gkCYRt",
+                "indices": [
+                  53,
+                  76
+                ]
+              },
+              {
+                "url": "https://t.co/fC1jEeTYC0",
+                "expanded_url": "http://smallbooks.com.tw",
+                "display_url": "smallbooks.com.tw",
+                "indices": [
+                  82,
+                  105
+                ]
+              },
+              {
+                "url": "https://t.co/p4fWuakO0u",
+                "expanded_url": "http://t.me/smallbookshare",
+                "display_url": "t.me/smallbookshare",
+                "indices": [
+                  111,
+                  134
+                ]
+              },
+              {
+                "url": "https://t.co/dbD2ogkyPW",
+                "expanded_url": "http://bit.ly/3YFmCYw",
+                "display_url": "bit.ly/3YFmCYw",
+                "indices": [
+                  140,
+                  163
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 3523,
+        "friends_count": 597,
+        "listed_count": 26,
+        "created_at": "Thu Dec 12 06:05:22 +0000 2013",
+        "favourites_count": 14261,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 8282,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1226092574303084545/28N39bJV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226092574303084545/28N39bJV_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "favorite_count": 67,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun May 07 00:28:23 +0000 2023",
+    "id": 1655006629178544128,
+    "id_str": "1655006629178544128",
+    "text": "《嗜讀者》（Avid Reader）中，羅伯特稱《笨蛋聯盟》是其編輯生涯中「最顯著的失敗」。\n\n涂爾的母親持續指責、將兒子的自殺怪罪於他，說一名「東岸猶太精英」毀了涂爾。他選擇不做任何回應。\n\n傳奇編輯讀了出版的小說，並嘗試回憶5… https://t.co/hPHAOhJQw1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hPHAOhJQw1",
+          "expanded_url": "https://twitter.com/i/web/status/1655006629178544128",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1654856550434091011,
+    "in_reply_to_status_id_str": "1654856550434091011",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 06 14:32:02 +0000 2023",
+    "id": 1654856550434091011,
+    "id_str": "1654856550434091011",
+    "text": "而那名讓《笨蛋聯盟》重生的伯樂、知名作家是華克波西，他寫過一本被稱為美國存在主義小說的經典：《影迷》（The Moviegoer），一人出版社曾出版過，是他的第一本小說也是代表作，入選藍燈書屋《當代文庫》二十世紀百大英文小說。… https://t.co/TjMVO8aIbV",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TjMVO8aIbV",
+          "expanded_url": "https://twitter.com/i/web/status/1654856550434091011",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1654855238275457024,
+    "in_reply_to_status_id_str": "1654855238275457024",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 06 14:26:49 +0000 2023",
+    "id": 1654855238275457024,
+    "id_str": "1654855238275457024",
+    "text": "約翰．甘迺迪．涂爾這本《笨蛋聯盟》（A Confederacy of Dunces）出版後大暢銷，隔年獲得普立茲小說獎，成為史上唯一死後獲獎的小說家。\n\n傳奇編輯認為此書「缺乏意旨」，卻沒想到這本形塑出現代美國唐吉軻德小人物的荒謬… https://t.co/P2SXzd1t77",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/P2SXzd1t77",
+          "expanded_url": "https://twitter.com/i/web/status/1654855238275457024",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1654853594720661505,
+    "in_reply_to_status_id_str": "1654853594720661505",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 06 14:20:17 +0000 2023",
+    "id": 1654853594720661505,
+    "id_str": "1654853594720661505",
+    "text": "1964年一名作家投稿S&amp;S，被羅伯．葛特利的助理從拒絕書稿中撿出來，傳奇編輯與作者溝通很久，仍改不出滿意的稿子。數次被拒之後，抑鬱作家1969年自殺。\n\n作家的母親不停努力，1976年帶著嚴重塗污幾至無法閱讀的複寫本，闖進某知名… https://t.co/mt44A8LVzU",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mt44A8LVzU",
+          "expanded_url": "https://twitter.com/i/web/status/1654853594720661505",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1643623755392901124,
+    "in_reply_to_status_id_str": "1643623755392901124",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 06 13:46:02 +0000 2023",
+    "id": 1654844977447583744,
+    "id_str": "1654844977447583744",
+    "text": "RT @YueMillward: 這段「假廣告」太好笑啦！笑到流淚😂\n台灣啤酒進軍美國市場的第一支廣告?! https://t.co/A5pVJ7ygAF 來自 @YouTube",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YueMillward",
+          "name": "Yue.D.Millward",
+          "id": 315999912,
+          "id_str": "315999912",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "YouTube",
+          "name": "YouTube",
+          "id": 10228272,
+          "id_str": "10228272",
+          "indices": [
+            81,
+            89
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/A5pVJ7ygAF",
+          "expanded_url": "https://youtu.be/f6XVm9dgtpg",
+          "display_url": "youtu.be/f6XVm9dgtpg",
+          "indices": [
+            54,
+            77
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat May 06 07:09:07 +0000 2023",
+      "id": 1654745090454339584,
+      "id_str": "1654745090454339584",
+      "text": "這段「假廣告」太好笑啦！笑到流淚😂\n台灣啤酒進軍美國市場的第一支廣告?! https://t.co/A5pVJ7ygAF 來自 @YouTube",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "YouTube",
+            "name": "YouTube",
+            "id": 10228272,
+            "id_str": "10228272",
+            "indices": [
+              64,
+              72
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/A5pVJ7ygAF",
+            "expanded_url": "https://youtu.be/f6XVm9dgtpg",
+            "display_url": "youtu.be/f6XVm9dgtpg",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 315999912,
+        "id_str": "315999912",
+        "name": "Yue.D.Millward",
+        "screen_name": "YueMillward",
+        "location": "Taipei",
+        "description": "Life is a fantastic journey🌈I’m a proud mom,happy wife👨‍👩‍👧‍👦had a fierce fight with acute leukemia, and I won🌼enjoy and grateful for everyday🌺",
+        "url": "https://t.co/mIXM377Ztn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/mIXM377Ztn",
+                "expanded_url": "https://youtube.com/channel/UCRfKxwEk7KCfm84kpE1iwzg",
+                "display_url": "youtube.com/channel/UCRfKx…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4817,
+        "friends_count": 3788,
+        "listed_count": 15,
+        "created_at": "Sun Jun 12 19:48:24 +0000 2011",
+        "favourites_count": 27677,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5930,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1507077346192347145/FnDBEGoH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1507077346192347145/FnDBEGoH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/315999912/1602401480",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 57,
+      "favorite_count": 251,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 57,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 06 07:09:53 +0000 2023",
+    "id": 1654745283635597312,
+    "id_str": "1654745283635597312",
+    "text": "以《人類大歷史》三部曲聞名的以色列學者哈拉瑞預言，人工智慧將會透過編寫自己的神聖文字吸引崇拜者，進而創造新宗教。\n\n現在詢問 ChatGPT，它會向你致歉說它不能，但這明顯是人類因恐懼而硬加上的限制。\n\n詠唱術（Prompt）與向… https://t.co/oIclnMQx0L",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oIclnMQx0L",
+          "expanded_url": "https://twitter.com/i/web/status/1654745283635597312",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 26,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat May 06 00:01:39 +0000 2023",
     "id": 1654637511283703809,
     "id_str": "1654637511283703809",
