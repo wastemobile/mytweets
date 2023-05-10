@@ -1,5 +1,170 @@
 Grailbird.data.tweets_2023_05 = [
   {
+    "created_at": "Wed May 10 22:21:37 +0000 2023",
+    "id": 1656424279268036609,
+    "id_str": "1656424279268036609",
+    "text": "23歲的 Caryn Marjorie 在 Snapchat 上有 180萬粉絲，透過兩千小時的 YT 影片（已刪除）訓練 CarynAI 模型，構建其口語和個性引擎，使用 GPT-4 打造出栩栩如生的「虛擬網紅女友」。\n\n已經有… https://t.co/WWwzKWvE3x",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WWwzKWvE3x",
+          "expanded_url": "https://twitter.com/i/web/status/1656424279268036609",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed May 10 21:51:25 +0000 2023",
+    "id": 1656416678287388672,
+    "id_str": "1656416678287388672",
+    "text": "在中國最近擴大反間諜法適用範圍以應對所認為的外國威脅後，許多外國智庫、研究機構和其他非金融實體發現無法續訂萬得（Wind Information Co., Ltd, 中國最重要的經濟與金融資料庫）。\n\n黑牢。\n\n中國打造資訊「黑匣… https://t.co/jMtnoHvP3S",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jMtnoHvP3S",
+          "expanded_url": "https://twitter.com/i/web/status/1656416678287388672",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed May 10 14:43:26 +0000 2023",
+    "id": 1656308970787835907,
+    "id_str": "1656308970787835907",
+    "text": "New version of TVDL 4.0.0 is out.\n\nTwitter Video Downloader Siri Shortcut https://t.co/GTa0TNWG3L",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GTa0TNWG3L",
+          "expanded_url": "https://www.tvdl.app/",
+          "display_url": "tvdl.app",
+          "indices": [
+            74,
+            97
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1104401954933956609,
+    "in_reply_to_status_id_str": "1104401954933956609",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
     "created_at": "Wed May 10 11:51:49 +0000 2023",
     "id": 1656265785545994241,
     "id_str": "1656265785545994241",
