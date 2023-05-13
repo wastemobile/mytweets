@@ -1,5 +1,1076 @@
 Grailbird.data.tweets_2023_05 = [
   {
+    "created_at": "Sat May 13 01:33:22 +0000 2023",
+    "id": 1657197307782393856,
+    "id_str": "1657197307782393856",
+    "text": "雅克里諾除了廣告和管理的職務，也必須扮演好「成年人監督」的角色。馬斯克將專注於新技術及產品設計，兩人將一同把 Twitter 轉型為全方位的 X 應用程式⋯⋯\n\n危機四伏。\n\n雅克里諾掌推特 挽救廣告收入、扭轉馬斯克「善變」形象成… https://t.co/gh5MEGMboN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gh5MEGMboN",
+          "expanded_url": "https://twitter.com/i/web/status/1657197307782393856",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1656787925559029762,
+    "in_reply_to_status_id_str": "1656787925559029762",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 12 10:33:07 +0000 2023",
+    "id": 1656970752980287488,
+    "id_str": "1656970752980287488",
+    "text": "看看恰瓜首秀吧。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 23:05:59 +0000 2023",
+    "id": 1656797833058713601,
+    "id_str": "1656797833058713601",
+    "text": "歐盟區內的用戶可以透過線上表單向 OpenAI 申請排除個人資料，以及不使用提供的自訂資料來訓練 AI，但必須忍受一些不便。\n\n正如許多企業已經察覺的，用戶提供的資料皆會被吸入 AI，現在就是更大規模的開放訓練時期無誤，人工智慧確… https://t.co/heYvfN9AV1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/heYvfN9AV1",
+          "expanded_url": "https://twitter.com/i/web/status/1656797833058713601",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 22:51:52 +0000 2023",
+    "id": 1656794280630034432,
+    "id_str": "1656794280630034432",
+    "text": "RT @book686: 左邊是「台灣現代舞先驅」蔡瑞月的口述史《浴火玫瑰》，推書前想起有另一本 衛城出版 的《假如我是一隻海燕》，則是寫台灣現代舞的歷史，內容應該可以相互參看。 https://t.co/thqIJJoWOs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "book686",
+          "name": "686",
+          "id": 47693,
+          "id_str": "47693",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1656674307307872256,
+          "id_str": "1656674307307872256",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fv2wgUuaIAAhBZ1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fv2wgUuaIAAhBZ1.jpg",
+          "url": "https://t.co/thqIJJoWOs",
+          "display_url": "pic.twitter.com/thqIJJoWOs",
+          "expanded_url": "https://twitter.com/book686/status/1656674318557024256/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 482,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1870,
+              "h": 1325,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 850,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1656674318557024256,
+          "source_status_id_str": "1656674318557024256",
+          "source_user_id": 47693,
+          "source_user_id_str": "47693"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1656674307307872256,
+          "id_str": "1656674307307872256",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fv2wgUuaIAAhBZ1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fv2wgUuaIAAhBZ1.jpg",
+          "url": "https://t.co/thqIJJoWOs",
+          "display_url": "pic.twitter.com/thqIJJoWOs",
+          "expanded_url": "https://twitter.com/book686/status/1656674318557024256/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 482,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1870,
+              "h": 1325,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 850,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1656674318557024256,
+          "source_status_id_str": "1656674318557024256",
+          "source_user_id": 47693,
+          "source_user_id_str": "47693"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu May 11 14:55:11 +0000 2023",
+      "id": 1656674318557024256,
+      "id_str": "1656674318557024256",
+      "text": "左邊是「台灣現代舞先驅」蔡瑞月的口述史《浴火玫瑰》，推書前想起有另一本 衛城出版 的《假如我是一隻海燕》，則是寫台灣現代舞的歷史，內容應該可以相互參看。 https://t.co/thqIJJoWOs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1656674307307872256,
+            "id_str": "1656674307307872256",
+            "indices": [
+              77,
+              100
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fv2wgUuaIAAhBZ1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fv2wgUuaIAAhBZ1.jpg",
+            "url": "https://t.co/thqIJJoWOs",
+            "display_url": "pic.twitter.com/thqIJJoWOs",
+            "expanded_url": "https://twitter.com/book686/status/1656674318557024256/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 482,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1870,
+                "h": 1325,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 850,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1656674307307872256,
+            "id_str": "1656674307307872256",
+            "indices": [
+              77,
+              100
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fv2wgUuaIAAhBZ1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fv2wgUuaIAAhBZ1.jpg",
+            "url": "https://t.co/thqIJJoWOs",
+            "display_url": "pic.twitter.com/thqIJJoWOs",
+            "expanded_url": "https://twitter.com/book686/status/1656674318557024256/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 482,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1870,
+                "h": 1325,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 850,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1656674099601743874,
+      "in_reply_to_status_id_str": "1656674099601743874",
+      "in_reply_to_user_id": 47693,
+      "in_reply_to_user_id_str": "47693",
+      "in_reply_to_screen_name": "book686",
+      "user": {
+        "id": 47693,
+        "id_str": "47693",
+        "name": "686",
+        "screen_name": "book686",
+        "location": "Taipei, Taiwan",
+        "description": "台灣資深影評人、有河book書店主人、友善書業合作社前理事主席、《閱讀的島》前總編輯，著有《看電影的人》、《異色的雜念》二本影評集，前者曾獲2016台北國際書展大獎。",
+        "url": "https://t.co/Y0gvgzW58T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Y0gvgzW58T",
+                "expanded_url": "https://www.facebook.com/book686",
+                "display_url": "facebook.com/book686",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6143,
+        "friends_count": 5733,
+        "listed_count": 119,
+        "created_at": "Thu Dec 07 10:42:18 +0000 2006",
+        "favourites_count": 4055,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 27516,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1594940000558194688/2V-tXoHd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1594940000558194688/2V-tXoHd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/47693/1669098245",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 22:26:37 +0000 2023",
+    "id": 1656787925559029762,
+    "id_str": "1656787925559029762",
+    "text": "推特（X/Twitter）再六週左右就會有一位新的女性 CEO 上任，馬老闆自己屈居執行董事與 CTO，繼續關注產品、軟體與系統維運。\n\n應該是找了個高階廣告業務，順便處理老闆懶得管的雜務吧？\n\nElon Musk says he… https://t.co/ZLNby3Vyp7",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZLNby3Vyp7",
+          "expanded_url": "https://twitter.com/i/web/status/1656787925559029762",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 22:07:40 +0000 2023",
+    "id": 1656783155079282688,
+    "id_str": "1656783155079282688",
+    "text": "虛擬網紅女友講話愈來愈流氓，還和訂閱者進行了露骨的性對話。Marjorie 說「我和團隊正日以繼夜的工作，避免這種情事再度發生。」\n\n應該是正努力開 VIP 進階會員層級吧？\n\nhttps://t.co/QpqpN0LOUv https://t.co/6hDlLgvUvR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QpqpN0LOUv",
+          "expanded_url": "https://bit.ly/3Mhr1NS",
+          "display_url": "bit.ly/3Mhr1NS",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1656783141452017664,
+          "id_str": "1656783141452017664",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fv4TfTgacAAhNeF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fv4TfTgacAAhNeF.jpg",
+          "url": "https://t.co/6hDlLgvUvR",
+          "display_url": "pic.twitter.com/6hDlLgvUvR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1656783155079282688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1300,
+              "h": 975,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1656783141452017664,
+          "id_str": "1656783141452017664",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fv4TfTgacAAhNeF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fv4TfTgacAAhNeF.jpg",
+          "url": "https://t.co/6hDlLgvUvR",
+          "display_url": "pic.twitter.com/6hDlLgvUvR",
+          "expanded_url": "https://twitter.com/wastemobile/status/1656783155079282688/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1300,
+              "h": 975,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1656424279268036609,
+    "in_reply_to_status_id_str": "1656424279268036609",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 13:48:32 +0000 2023",
+    "id": 1656657543824048128,
+    "id_str": "1656657543824048128",
+    "text": "有人說是體溫，有人說是（血液）酸鹼度，現在說是肥皂香氣。\n\n這麼重要的問題，科學家可以認真一點嗎？ https://t.co/uTmplGrwmy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uTmplGrwmy",
+          "expanded_url": "https://twitter.com/technews_tw/status/1656653773354438656",
+          "display_url": "twitter.com/technews_tw/st…",
+          "indices": [
+            50,
+            73
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1656653773354438656,
+    "quoted_status_id_str": "1656653773354438656",
+    "quoted_status": {
+      "created_at": "Thu May 11 13:33:33 +0000 2023",
+      "id": 1656653773354438656,
+      "id_str": "1656653773354438656",
+      "text": "蚊子表示：啊，真香。 #蚊子叮咬 #香氣 https://t.co/gG3qOT2wTM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "蚊子叮咬",
+            "indices": [
+              11,
+              16
+            ]
+          },
+          {
+            "text": "香氣",
+            "indices": [
+              17,
+              20
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gG3qOT2wTM",
+            "expanded_url": "http://dlvr.it/SntGJ8",
+            "display_url": "dlvr.it/SntGJ8",
+            "indices": [
+              21,
+              44
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2799026833,
+        "id_str": "2799026833",
+        "name": "TechNews 科技新報",
+        "screen_name": "technews_tw",
+        "location": "台灣, 台北市",
+        "description": "科技新報 （TechNews）於 2013 年下半年成立，是一群對資訊科技、能源、半導體、行動運算、網際網路、醫療、生物科技具有高度熱忱與興趣的產業與新媒體人士所共同組成的時代新媒體，以產出有觀點與特色的原創文章為主要任務。",
+        "url": "https://t.co/M6D1we8Ub2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/M6D1we8Ub2",
+                "expanded_url": "https://technews.tw",
+                "display_url": "technews.tw",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2599,
+        "friends_count": 35,
+        "listed_count": 59,
+        "created_at": "Tue Sep 09 01:49:20 +0000 2014",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 69735,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/827442298237526016/-VTGpmXn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2799026833/1410228878",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 12:33:12 +0000 2023",
+    "id": 1656638584479453184,
+    "id_str": "1656638584479453184",
+    "text": "我還在曠野上遊蕩，明顯是趕不上了。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 11 01:53:47 +0000 2023",
+    "id": 1656477672267223041,
+    "id_str": "1656477672267223041",
+    "text": "RT @pirrer: ChatGPT 創辦人 Sam Altman 是個末日準備者 ( Prepper )，你以為他有地堡 ? 不，他有的是一大片 Big Sur 的土地 XDD\n\nPrepper 是指相信戰爭或災難即將發生，他們積極地為區域性或國際性的社會崩潰，自然災難做準…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "pirrer",
+          "name": "fox hsiao",
+          "id": 7007922,
+          "id_str": "7007922",
+          "indices": [
+            3,
+            10
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed May 10 14:36:11 +0000 2023",
+      "id": 1656307148526325762,
+      "id_str": "1656307148526325762",
+      "text": "ChatGPT 創辦人 Sam Altman 是個末日準備者 ( Prepper )，你以為他有地堡 ? 不，他有的是一大片 Big Sur 的土地 XDD\n\nPrepper 是指相信戰爭或災難即將發生，他們積極地為區域性或國際性… https://t.co/eWaXVlYyHU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eWaXVlYyHU",
+            "expanded_url": "https://twitter.com/i/web/status/1656307148526325762",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 7007922,
+        "id_str": "7007922",
+        "name": "fox hsiao",
+        "screen_name": "pirrer",
+        "location": "Keelung (基隆)",
+        "description": "https://t.co/ADltMSqInz\n\nLets talk abt startup, game, crypto & AI.\nA starter, Founder of iCook / INSIDE",
+        "url": "https://t.co/rOwFyWyljU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/rOwFyWyljU",
+                "expanded_url": "http://whenyousay.no",
+                "display_url": "whenyousay.no",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/ADltMSqInz",
+                "expanded_url": "http://portaly.cc/bitcoin",
+                "display_url": "portaly.cc/bitcoin",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6744,
+        "friends_count": 984,
+        "listed_count": 94,
+        "created_at": "Fri Jun 22 01:23:29 +0000 2007",
+        "favourites_count": 2446,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9432,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "050505",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1121840475676131328/LVsRJPkY_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1121840475676131328/LVsRJPkY_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7007922/1556302750",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 59,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed May 10 22:21:37 +0000 2023",
     "id": 1656424279268036609,
     "id_str": "1656424279268036609",
