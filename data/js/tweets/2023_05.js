@@ -1,5 +1,622 @@
 Grailbird.data.tweets_2023_05 = [
   {
+    "created_at": "Thu May 18 23:38:10 +0000 2023",
+    "id": 1659342646484299776,
+    "id_str": "1659342646484299776",
+    "text": "《玲音》（lain），1998播出的13集日本動畫，超現實與前衛的風格，普遍被視為典型的心理恐怖、文學性動畫。\n\n同時也是賽博龐克邪典，故事裡透過網路搜集集體無意識而成為「神」的電腦程式，雖未以AI稱呼，卻異常貼近現實，讓這次駭客… https://t.co/b2h0snxIal",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/b2h0snxIal",
+          "expanded_url": "https://twitter.com/i/web/status/1659342646484299776",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1659339606989611008,
+    "in_reply_to_status_id_str": "1659339606989611008",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 18 23:26:06 +0000 2023",
+    "id": 1659339606989611008,
+    "id_str": "1659339606989611008",
+    "text": "2004成立的 MyAnimeList，幾經轉手已被日本公司 Media Do 收購，應該是目前英文介面與內容最齊全的動漫資料庫網站。\n\n日前它被駭客入侵（已恢復），所有清單都變成動畫《Serial Experiments Lai… https://t.co/spi6PCmREn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/spi6PCmREn",
+          "expanded_url": "https://twitter.com/i/web/status/1659339606989611008",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu May 18 22:40:53 +0000 2023",
+    "id": 1659328228782379008,
+    "id_str": "1659328228782379008",
+    "text": "才剛剛結束日本「杉の下意匠室」的首次海外個展，立即接上與韓國雜誌的品牌合作快閃，台南真是狂～\n\n台南 U.I.J 友愛街旅館攜手韓國雜誌 Magazine B！百本刊物、特色選品打造旅館實驗場域… https://t.co/kmsXCYEOv1",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kmsXCYEOv1",
+          "expanded_url": "https://twitter.com/i/web/status/1659328228782379008",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Thu May 18 22:11:17 +0000 2023",
+    "id": 1659320780428292096,
+    "id_str": "1659320780428292096",
+    "text": "RT @raycat2021: 《商业周刊》最新封面报道，详述了可口可乐工程师游晓蓉盗窃知识产权的来龙去脉，很多生动生动细节。\n副标题写出了作者对案件的看法：\nShannon You是一个很好的化学家，一个不易合作的同事，一个小偷。\n她计划用偷来的知识产权到中国开一家公司。\n这…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "raycat2021",
+          "name": "徐老猫",
+          "id": 1565895325944270849,
+          "id_str": "1565895325944270849",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu May 18 13:25:39 +0000 2023",
+      "id": 1659188499147550723,
+      "id_str": "1659188499147550723",
+      "text": "《商业周刊》最新封面报道，详述了可口可乐工程师游晓蓉盗窃知识产权的来龙去脉，很多生动生动细节。\n副标题写出了作者对案件的看法：\nShannon You是一个很好的化学家，一个不易合作的同事，一个小偷。\n她计划用偷来的知识产权到中国… https://t.co/ePnTw95hqA",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ePnTw95hqA",
+            "expanded_url": "https://twitter.com/i/web/status/1659188499147550723",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1565895325944270849,
+        "id_str": "1565895325944270849",
+        "name": "徐老猫",
+        "screen_name": "raycat2021",
+        "location": "Land of Abundance",
+        "description": "A disciple of Mont Pelerin, ex-McKinsey；全球财经/美股趋势，跟踪顶尖经济学家/分析师。静观世间兴替，感悟国家/公司/个人财富之道。 不定时随学随写，非投资建议。偶尔用网图，通知即删。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 37044,
+        "friends_count": 2915,
+        "listed_count": 419,
+        "created_at": "Sat Sep 03 02:52:04 +0000 2022",
+        "favourites_count": 4704,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3492,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1593960369914933248/IWhkfyKB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1593960369914933248/IWhkfyKB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565895325944270849/1664633125",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 509,
+      "favorite_count": 1531,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 509,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed May 17 12:34:15 +0000 2023",
+    "id": 1658813177243791360,
+    "id_str": "1658813177243791360",
+    "text": "科技記者或許追得到矽谷大咖的獨家就會紅，但長期持續關心深度或跨界的文化議題，有時更能吸引到忠實讀者。\n\nLaurie 一直都對科技與人性，以及與性、愛、死亡等切入角度特別感興趣，她在 CNN 製作過一系列 6 集的《Mostly… https://t.co/2ah3Xko1xZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2ah3Xko1xZ",
+          "expanded_url": "https://twitter.com/i/web/status/1658813177243791360",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1658811581646635014,
+    "in_reply_to_status_id_str": "1658811581646635014",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 28,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed May 17 12:27:54 +0000 2023",
+    "id": 1658811581646635014,
+    "id_str": "1658811581646635014",
+    "text": "2019 離開 CNN 後，成立自己的數位媒體公司 Dot Dot Dot；目前還在派拉蒙的串流媒體上製作《60 Minutes+》深度報導。\n\n60 Minutes+ Correspondent Laurie Segall Is… https://t.co/Z3qtzt3Ixj",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z3qtzt3Ixj",
+          "expanded_url": "https://twitter.com/i/web/status/1658811581646635014",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1658810870477234177,
+    "in_reply_to_status_id_str": "1658810870477234177",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed May 17 12:25:05 +0000 2023",
+    "id": 1658810870477234177,
+    "id_str": "1658810870477234177",
+    "text": "發現一本在 Kindle 裡緩慢看著的《Special Characters》居然即將出中文版，作者是 CNN 前資深記者 Laurie Segall。\n\n她最有名的是用搜尋與數位足跡與殘骸，重建了波士頓爆炸主嫌的 IG；還有堵到… https://t.co/vElC06VRJv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vElC06VRJv",
+          "expanded_url": "https://twitter.com/i/web/status/1658810870477234177",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 91,
+    "favorite_count": 349,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue May 16 12:56:11 +0000 2023",
+    "id": 1658456311460433920,
+    "id_str": "1658456311460433920",
+    "text": "沒想到區塊鏈 Solana 想搞日常落地應用啊～\n\n【專訪】買咖啡、經營會員都行！「最生活」的區塊鏈Solana強在哪？從三大挑戰看懂下一步 https://t.co/LvXsyGjvxI https://t.co/hQmXNSPjw5",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LvXsyGjvxI",
+          "expanded_url": "https://bit.ly/42UW6wR",
+          "display_url": "bit.ly/42UW6wR",
+          "indices": [
+            71,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1658456304061665280,
+          "id_str": "1658456304061665280",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/FwQFOL8aUAAwQOc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FwQFOL8aUAAwQOc.jpg",
+          "url": "https://t.co/hQmXNSPjw5",
+          "display_url": "pic.twitter.com/hQmXNSPjw5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1658456311460433920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1658456304061665280,
+          "id_str": "1658456304061665280",
+          "indices": [
+            95,
+            118
+          ],
+          "media_url": "http://pbs.twimg.com/media/FwQFOL8aUAAwQOc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FwQFOL8aUAAwQOc.jpg",
+          "url": "https://t.co/hQmXNSPjw5",
+          "display_url": "pic.twitter.com/hQmXNSPjw5",
+          "expanded_url": "https://twitter.com/wastemobile/status/1658456311460433920/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1200,
+              "h": 1600,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue May 16 06:10:37 +0000 2023",
     "id": 1658354246130212865,
     "id_str": "1658354246130212865",
