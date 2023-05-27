@@ -1,5 +1,1046 @@
 Grailbird.data.tweets_2023_05 = [
   {
+    "created_at": "Sat May 27 00:46:34 +0000 2023",
+    "id": 1662258963566456837,
+    "id_str": "1662258963566456837",
+    "text": "趁這一波研究 Short Story Cycle 終於也購入了《時間裡的癡人》（A Visit from the Goon Squad）紙本，找時間重讀。 https://t.co/5ebxibqwNF",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5ebxibqwNF",
+          "expanded_url": "https://twitter.com/wastemobile/status/1403629633573036038",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662106205073076227,
+    "in_reply_to_status_id_str": "1662106205073076227",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1403629633573036038,
+    "quoted_status_id_str": "1403629633573036038",
+    "quoted_status": {
+      "created_at": "Sat Jun 12 08:25:57 +0000 2021",
+      "id": 1403629633573036038,
+      "id_str": "1403629633573036038",
+      "text": "2011《時間裡的癡人》\n\n如搖滾樂概念專輯，A、B兩面共13章，不同主角、不同敘事技巧，各自獨立為短篇，人物之間有錯綜複雜的關係，評價兩極，但拿下42個文學獎。\n\n讀的是簡轉繁電子書（相同譯本），有種在霧中只聞花香、不見花影的朦… https://t.co/tr14eVkqOt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tr14eVkqOt",
+            "expanded_url": "https://twitter.com/i/web/status/1403629633573036038",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1403579386184355841,
+      "in_reply_to_status_id_str": "1403579386184355841",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "遺失在荒原的一支廢棄手機",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6810,
+        "friends_count": 1232,
+        "listed_count": 147,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3807,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26568,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1685014200",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 27 00:20:44 +0000 2023",
+    "id": 1662252462458241025,
+    "id_str": "1662252462458241025",
+    "text": "博客來還有兩本《無盡的玩笑》現書，我的那本在小七等著了～\n\nhttps://t.co/7SMlnaVCc0 https://t.co/fDK07gXrFx",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7SMlnaVCc0",
+          "expanded_url": "https://www.books.com.tw/products/CN11863176",
+          "display_url": "books.com.tw/products/CN118…",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1662252454757666816,
+          "id_str": "1662252454757666816",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/FxGBzPTaEAAOpO-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FxGBzPTaEAAOpO-.jpg",
+          "url": "https://t.co/fDK07gXrFx",
+          "display_url": "pic.twitter.com/fDK07gXrFx",
+          "expanded_url": "https://twitter.com/wastemobile/status/1662252462458241025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1936,
+              "h": 920,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 570,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 323,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1662252454757666816,
+          "id_str": "1662252454757666816",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/FxGBzPTaEAAOpO-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FxGBzPTaEAAOpO-.jpg",
+          "url": "https://t.co/fDK07gXrFx",
+          "display_url": "pic.twitter.com/fDK07gXrFx",
+          "expanded_url": "https://twitter.com/wastemobile/status/1662252462458241025/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1936,
+              "h": 920,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 570,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 323,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1650766840480792576,
+    "in_reply_to_status_id_str": "1650766840480792576",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 26 14:39:34 +0000 2023",
+    "id": 1662106205073076227,
+    "id_str": "1662106205073076227",
+    "text": "之前推過村上春樹翻譯了瑞蒙・卡佛全集，而普遍被視為卡佛巔峰之作的《Cathedral》，也是一本由12篇短篇集結的 short story cycle。\n\n相同地點，但一致的主題是心靈的「淨化作用」；最可怕的，那些「沒說出口的」才… https://t.co/NCntX1oDed",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NCntX1oDed",
+          "expanded_url": "https://twitter.com/i/web/status/1662106205073076227",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662085688492449793,
+    "in_reply_to_status_id_str": "1662085688492449793",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 26 13:18:02 +0000 2023",
+    "id": 1662085688492449793,
+    "id_str": "1662085688492449793",
+    "text": "在 1919《小城畸人》之前，還有喬伊斯 1914 的《都柏林人》。\n\n以「共享場域」為核心的 short story cycle，都柏林確有其地，小城（Winesburg, Ohio）是虛構的。\n\n「眾生相」，或一群抑鬱掙扎的人… https://t.co/DZ8QX6GO9q",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DZ8QX6GO9q",
+          "expanded_url": "https://twitter.com/i/web/status/1662085688492449793",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662077588460961794,
+    "in_reply_to_status_id_str": "1662077588460961794",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 26 12:45:51 +0000 2023",
+    "id": 1662077588460961794,
+    "id_str": "1662077588460961794",
+    "text": "另外必需提一下福克納的《Go Down, Moses》（簡中）。\n\n評論說福克納從1929《聲音與憤怒》開始進入鼎盛時期，1942《去吧，摩西》是第13部長篇小說、鼎盛時期的終結。\n\n它實際是兩個中篇、五個短篇的集結，福克納卻堅稱… https://t.co/dkCsObc0i2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dkCsObc0i2",
+          "expanded_url": "https://twitter.com/i/web/status/1662077588460961794",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662074681229467648,
+    "in_reply_to_status_id_str": "1662074681229467648",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 26 12:34:18 +0000 2023",
+    "id": 1662074681229467648,
+    "id_str": "1662074681229467648",
+    "text": "艾莉絲．孟若獲諾貝爾獎後想聞香一下，她雖以短篇小說著名，但想讀比較長的作品，就買了標題寫著「唯一長篇」的《雌性生活》（Loves of Girls and Women）。\n\n結果？是 short story cycle。是「專注一… https://t.co/7YKBAPCBXn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7YKBAPCBXn",
+          "expanded_url": "https://twitter.com/i/web/status/1662074681229467648",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662022438451040256,
+    "in_reply_to_status_id_str": "1662022438451040256",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 26 09:06:42 +0000 2023",
+    "id": 1662022438451040256,
+    "id_str": "1662022438451040256",
+    "text": "科幻領域，以《火星紀事》與《華氏451度》舉世聞名的雷・布萊伯利，就在這兩本小說中間的 1951 年，也出版了一本曾被改編成邪典電影的《The Illustrated Man》，一名全身紋身的神秘男子，引出18則天馬行空的短篇合集… https://t.co/LXeuH28ekT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LXeuH28ekT",
+          "expanded_url": "https://twitter.com/i/web/status/1662022438451040256",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662014914582704128,
+    "in_reply_to_status_id_str": "1662014914582704128",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 26 08:36:49 +0000 2023",
+    "id": 1662014914582704128,
+    "id_str": "1662014914582704128",
+    "text": "海明威 1925 出版的短篇小說集《我們的時代》，被稱為二十世紀最獨特的短篇小說集之一，結構縝密、形式特別、夾帶爆炸性的威力，讓年輕的海明威一鳴驚人，角谷評論說這本也有借鑑 1919 出版的《小城畸人》獨樹一幟的結構。\n\n《我們的… https://t.co/bBGRWlMXb2",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bBGRWlMXb2",
+          "expanded_url": "https://twitter.com/i/web/status/1662014914582704128",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662013388048986112,
+    "in_reply_to_status_id_str": "1662013388048986112",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 26 08:30:45 +0000 2023",
+    "id": 1662013388048986112,
+    "id_str": "1662013388048986112",
+    "text": "還有丹尼斯・約翰遜的《耶穌之子》，角谷美智子直接將其列為受《小城畸人》影響的作品。讀幾則就能感受到，在混亂中出現的幾名年輕人，到底是不是同一個人？或只是在相同地方出現的不同人？\n\n這很有契科夫劇場的味道，有些人不發聲，但你得注意他… https://t.co/qug8rrt5CA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qug8rrt5CA",
+          "expanded_url": "https://twitter.com/i/web/status/1662013388048986112",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662011916162826240,
+    "in_reply_to_status_id_str": "1662011916162826240",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1629118881418838021,
+    "quoted_status_id_str": "1629118881418838021",
+    "quoted_status": {
+      "created_at": "Fri Feb 24 13:59:43 +0000 2023",
+      "id": 1629118881418838021,
+      "id_str": "1629118881418838021",
+      "text": "Denis Johnson《Jesus’ Son》，簡中譯本《耶穌之子》。\n\n最近剛讀完的短篇小說，最後讀了三遍。「骯髒現實主義（Dirty realism）」代表作，看起來像是不同短篇，讀完真覺得是同一人的故事。\n\n也許很多人光… https://t.co/g0HbPaaGbE",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/g0HbPaaGbE",
+            "expanded_url": "https://twitter.com/i/web/status/1629118881418838021",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1629115959188520973,
+      "in_reply_to_status_id_str": "1629115959188520973",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "遺失在荒原的一支廢棄手機",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6810,
+        "friends_count": 1232,
+        "listed_count": 147,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3807,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26568,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1685014200",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 26 08:24:54 +0000 2023",
+    "id": 1662011916162826240,
+    "id_str": "1662011916162826240",
+    "text": "之前介紹村上春樹在日本翻譯的這本經典越戰文學《負重》，形式上是一則則的短篇，敘事者是一整排士兵的不同角度，講述同一場戰役並行又交錯的多角度故事，也被歸為這不知如何翻譯的 short story cycle 類型。 https://t.co/QOe5qBrOVn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QOe5qBrOVn",
+          "expanded_url": "https://twitter.com/wastemobile/status/1560147843825864704",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            107,
+            130
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662009826556391424,
+    "in_reply_to_status_id_str": "1662009826556391424",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1560147843825864704,
+    "quoted_status_id_str": "1560147843825864704",
+    "quoted_status": {
+      "created_at": "Thu Aug 18 06:13:26 +0000 2022",
+      "id": 1560147843825864704,
+      "id_str": "1560147843825864704",
+      "text": "提姆・歐布萊恩（Tim O'Brien）以描寫越戰相關的戰爭小說聞名，村上春樹翻譯過三本。\n\n《負重》（The Things They Carried）是台灣唯一可見的，據說也是村上主動爭取翻譯，被洛杉磯時報讚為「當代、未來世代的… https://t.co/OiDDjMH2QF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OiDDjMH2QF",
+            "expanded_url": "https://twitter.com/i/web/status/1560147843825864704",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1560147448688832513,
+      "in_reply_to_status_id_str": "1560147448688832513",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "遺失在荒原的一支廢棄手機",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6810,
+        "friends_count": 1232,
+        "listed_count": 147,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3807,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26568,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1685014200",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 26 08:16:35 +0000 2023",
+    "id": 1662009826556391424,
+    "id_str": "1662009826556391424",
+    "text": "Short story cycle.\n\n簡單說類似短篇小說集，各則故事皆獨立，但被整合在某種框架敘事內，可能是某一個地方、單一主角的多重角度、或相同時空背景內的多主角與敘事者，也可能是其他連貫或模糊相關的模式。\n\n不適合電子書，因… https://t.co/yW9ycyso9M",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yW9ycyso9M",
+          "expanded_url": "https://twitter.com/i/web/status/1662009826556391424",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662007314751311872,
+    "in_reply_to_status_id_str": "1662007314751311872",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri May 26 08:06:37 +0000 2023",
+    "id": 1662007314751311872,
+    "id_str": "1662007314751311872",
+    "text": "被《角谷的藏書架》提醒一直沒看這本傳說中的經典神作，看了幾則，非常非常吸引人，但發現「這類書」並不太適合電子書，應該是公版了，但台灣僅遠流這一個版本，紙本絕版、只繼續賣電子書，所以去買了二手紙本。\n\n稍微研究一下，原來這類書是有名… https://t.co/CZDsZj5KRg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CZDsZj5KRg",
+          "expanded_url": "https://twitter.com/i/web/status/1662007314751311872",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "favorite_count": 56,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu May 25 23:07:51 +0000 2023",
     "id": 1661871730468728834,
     "id_str": "1661871730468728834",
