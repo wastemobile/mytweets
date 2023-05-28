@@ -1,5 +1,280 @@
 Grailbird.data.tweets_2023_05 = [
   {
+    "created_at": "Sat May 27 21:22:23 +0000 2023",
+    "id": 1662569963746656256,
+    "id_str": "1662569963746656256",
+    "text": "《人類簡史》作者尤瓦爾・赫拉利（Yuval Harari）強調語言是幾乎所有人類文化的構成要素，擁有語言生成能力的 AI 將通過語言影響人類對世界的看法，AI Hack 了人類文明的作業系統，建議「強制要求 AI 披露自己是 AI… https://t.co/pw8A9LPWIP",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pw8A9LPWIP",
+          "expanded_url": "https://twitter.com/i/web/status/1662569963746656256",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 27 08:44:45 +0000 2023",
+    "id": 1662379299767476231,
+    "id_str": "1662379299767476231",
+    "text": "2022 年日本紙本出版市場，書籍 6,497 億日圓，雜誌 4,795 億。\n\n鑽石社 Diamond 內部會議評估，很有可能 2027 年紙本雜誌市場會幾近於完全消失。\n\nhttps://t.co/mOjNfbH59A",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mOjNfbH59A",
+          "expanded_url": "https://bit.ly/3WJ8iyo",
+          "display_url": "bit.ly/3WJ8iyo",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662378358477578241,
+    "in_reply_to_status_id_str": "1662378358477578241",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 27 08:41:00 +0000 2023",
+    "id": 1662378358477578241,
+    "id_str": "1662378358477578241",
+    "text": "回顧一下歷史轉折點。\n\n過去很久日本出版業界都是非常獨特的「雜大於書」，雜誌營收比書籍銷售額高，這連續41年的狀況是在平成28年（2016）第一次翻轉，雜誌 7,339 億日圓，輸給了書籍的 7,370 億。\n\nhttps://t.co/bhZA0okiyj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bhZA0okiyj",
+          "expanded_url": "https://bit.ly/43aAHzB",
+          "display_url": "bit.ly/43aAHzB",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662376707259797505,
+    "in_reply_to_status_id_str": "1662376707259797505",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 27 08:34:27 +0000 2023",
+    "id": 1662376707259797505,
+    "id_str": "1662376707259797505",
+    "text": "與書店數8789家（2020）相比，便利店有5萬6948家（截至2021年1月），即使雜誌社說「實銷率低」，但為了品牌、發行量、廣告，還是得硬著頭皮塞進便利店。\n\n但便利店覺得放亞馬遜或Netflix預付卡營業額更高些。2002年… https://t.co/g9OTOCwmwO",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g9OTOCwmwO",
+          "expanded_url": "https://twitter.com/i/web/status/1662376707259797505",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662374274592825351,
+    "in_reply_to_status_id_str": "1662374274592825351",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat May 27 08:24:47 +0000 2023",
+    "id": 1662374274592825351,
+    "id_str": "1662374274592825351",
+    "text": "日本某大型便利商店體系，討論是否今年內撤除店內雜誌販售架面，出版物流連續赤字、計畫調漲運輸費用，加上明年四月物流業年加班時數上限960小時的新制，以及俄國入侵烏克蘭影響的紙價、能源費，《文藝春秋》已從2019的880元、調漲到1,… https://t.co/rAAlpug5ft",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rAAlpug5ft",
+          "expanded_url": "https://twitter.com/i/web/status/1662374274592825351",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1473638650701578242,
+    "in_reply_to_status_id_str": "1473638650701578242",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat May 27 00:46:34 +0000 2023",
     "id": 1662258963566456837,
     "id_str": "1662258963566456837",
