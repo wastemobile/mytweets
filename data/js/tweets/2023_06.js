@@ -1,5 +1,152 @@
 Grailbird.data.tweets_2023_06 = [
   {
+    "created_at": "Sat Jun 03 08:45:42 +0000 2023",
+    "id": 1664916253268639751,
+    "id_str": "1664916253268639751",
+    "text": "紐約一間酒吧老闆告訴《紐約時報》：「QR code是浪漫的相反詞，它阻礙交流和親密感。」\n\n「我們終於回到適當的菜單，菜單是餐廳靈魂之窗，而QR code是沒有靈魂的。」\n\n對餐廳業主和員工來說，此點餐方式一開始聲稱能協助餐廳改善… https://t.co/D3uGMzGQdy",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D3uGMzGQdy",
+          "expanded_url": "https://twitter.com/i/web/status/1664916253268639751",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 63,
+    "favorite_count": 299,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 03 08:19:29 +0000 2023",
+    "id": 1664909655552786432,
+    "id_str": "1664909655552786432",
+    "text": "「極權主義意識形態的目標不是改變外部世界，或者社會的革命性演變，而是改變人性。集中營是實驗室，在集中營裡試驗改變人性和羞恥心，所以集中營不光是囚徒們的事情，也不光是根據嚴格的『科學』標準來管理他們的人的事情；它關係到所有的人。」",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1664909294582767617,
+    "in_reply_to_status_id_str": "1664909294582767617",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sat Jun 03 08:18:03 +0000 2023",
+    "id": 1664909294582767617,
+    "id_str": "1664909294582767617",
+    "text": "「在群眾領袖奪取權力以實現他的謊言之前，他們的宣傳就是以其極端地嘲弄事實為標誌，因為根據他們的觀點，事實完全取決於能夠編造事實的人的力量。」",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1664777362842451970,
+    "in_reply_to_status_id_str": "1664777362842451970",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Fri Jun 02 23:33:48 +0000 2023",
     "id": 1664777362842451970,
     "id_str": "1664777362842451970",
