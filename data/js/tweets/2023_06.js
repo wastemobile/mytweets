@@ -1,5 +1,796 @@
 Grailbird.data.tweets_2023_06 = [
   {
+    "created_at": "Tue Jun 06 01:02:20 +0000 2023",
+    "id": 1665886809514196993,
+    "id_str": "1665886809514196993",
+    "text": "5/30，日本最長壽的週刊雜誌《週刊朝日》，101年後終於不敵數位化浪潮，紙本正式劃下句點。\n\n最後一期封面，以編輯部內部一景、搭配33位同仁們擺出各種上班的忙碌狀態作意象，讓雜誌的停刊回歸到工作人員為主角。\n\n101年長征劃下句… https://t.co/k5OdclbezY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/k5OdclbezY",
+          "expanded_url": "https://twitter.com/i/web/status/1665886809514196993",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1665885715115413504,
+    "in_reply_to_status_id_str": "1665885715115413504",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 06 00:57:59 +0000 2023",
+    "id": 1665885715115413504,
+    "id_str": "1665885715115413504",
+    "text": "創刊於1922、歷史最悠久的《週刊朝日》，紙本停刊。\n\n綜合週刊的雛形，可說是「週刊之鬼」扇谷正造總編開創的。糙紙印刷、獨家爆料、電車裡懸掛於乘客頭頂的「中吊」廣告；他曾在1958新年第一期讓每期約10萬冊的《週刊朝日》一舉突破1… https://t.co/5h5NOj06SI",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5h5NOj06SI",
+          "expanded_url": "https://twitter.com/i/web/status/1665885715115413504",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662379299767476231,
+    "in_reply_to_status_id_str": "1662379299767476231",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 06 00:28:14 +0000 2023",
+    "id": 1665878226609258496,
+    "id_str": "1665878226609258496",
+    "text": "2022年，日本漫畫推算銷售額總計達6770億日圓，連續3年創新高，漫畫占整個出版市場41.5%。\n\n電子漫畫同比成長8.9%至4479億，占總體66%。\n\n《週刊少年JUMP》1995發行數量達653萬冊，目前126萬冊。… https://t.co/P5kNaI0Qbv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/P5kNaI0Qbv",
+          "expanded_url": "https://twitter.com/i/web/status/1665878226609258496",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1115910263256100870,
+    "in_reply_to_status_id_str": "1115910263256100870",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Tue Jun 06 00:06:20 +0000 2023",
+    "id": 1665872714077204480,
+    "id_str": "1665872714077204480",
+    "text": "「Zuzalu 是一個沒有性行為的火人節，是針對加密富豪的成人夏令營，或者更直接地說，是一個無休止的會議。」\n\n聚集了一群希望通過科技追求永生的加密富豪⋯⋯？\n\n揭秘V神的社群實驗 “Zuzalu”：位於美麗海灘的菁英烏托邦… https://t.co/XNcC6eBTyJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XNcC6eBTyJ",
+          "expanded_url": "https://twitter.com/i/web/status/1665872714077204480",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            114,
+            137
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 04 14:29:40 +0000 2023",
+    "id": 1665365206275444737,
+    "id_str": "1665365206275444737",
+    "text": "RT @wu_inoue: 烏克蘭總統回憶，戰爭剛爆發時，他打給很多國家尋求支援，很多人勸他投降，只有英國首相跟他說堅持住，救援馬上到。 https://t.co/gkYnVxMLeg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "wu_inoue",
+          "name": "修武 いのうえ おさむ",
+          "id": 1561887754094399488,
+          "id_str": "1561887754094399488",
+          "indices": [
+            3,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 1665153889405120512,
+          "id_str": "1665153889405120512",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/FxvQo9paMAA280H.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FxvQo9paMAA280H.jpg",
+          "url": "https://t.co/gkYnVxMLeg",
+          "display_url": "pic.twitter.com/gkYnVxMLeg",
+          "expanded_url": "https://twitter.com/wu_inoue/status/1665153892026314758/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 642,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1076,
+              "h": 1016,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1076,
+              "h": 1016,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1665153892026314758,
+          "source_status_id_str": "1665153892026314758",
+          "source_user_id": 1561887754094399488,
+          "source_user_id_str": "1561887754094399488"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1665153889405120512,
+          "id_str": "1665153889405120512",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/FxvQo9paMAA280H.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FxvQo9paMAA280H.jpg",
+          "url": "https://t.co/gkYnVxMLeg",
+          "display_url": "pic.twitter.com/gkYnVxMLeg",
+          "expanded_url": "https://twitter.com/wu_inoue/status/1665153892026314758/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 642,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1076,
+              "h": 1016,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1076,
+              "h": 1016,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1665153892026314758,
+          "source_status_id_str": "1665153892026314758",
+          "source_user_id": 1561887754094399488,
+          "source_user_id_str": "1561887754094399488"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 04 00:29:59 +0000 2023",
+      "id": 1665153892026314758,
+      "id_str": "1665153892026314758",
+      "text": "烏克蘭總統回憶，戰爭剛爆發時，他打給很多國家尋求支援，很多人勸他投降，只有英國首相跟他說堅持住，救援馬上到。 https://t.co/gkYnVxMLeg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1665153889405120512,
+            "id_str": "1665153889405120512",
+            "indices": [
+              55,
+              78
+            ],
+            "media_url": "http://pbs.twimg.com/media/FxvQo9paMAA280H.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FxvQo9paMAA280H.jpg",
+            "url": "https://t.co/gkYnVxMLeg",
+            "display_url": "pic.twitter.com/gkYnVxMLeg",
+            "expanded_url": "https://twitter.com/wu_inoue/status/1665153892026314758/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 642,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1076,
+                "h": 1016,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1076,
+                "h": 1016,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1665153889405120512,
+            "id_str": "1665153889405120512",
+            "indices": [
+              55,
+              78
+            ],
+            "media_url": "http://pbs.twimg.com/media/FxvQo9paMAA280H.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FxvQo9paMAA280H.jpg",
+            "url": "https://t.co/gkYnVxMLeg",
+            "display_url": "pic.twitter.com/gkYnVxMLeg",
+            "expanded_url": "https://twitter.com/wu_inoue/status/1665153892026314758/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 642,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1076,
+                "h": 1016,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1076,
+                "h": 1016,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1561887754094399488,
+        "id_str": "1561887754094399488",
+        "name": "修武 いのうえ おさむ",
+        "screen_name": "wu_inoue",
+        "location": "",
+        "description": "好色大叔。\nTransparent OD 愛好。\n吉他、香菸、酒和肉。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 453,
+        "friends_count": 1747,
+        "listed_count": 43,
+        "created_at": "Tue Aug 23 01:27:29 +0000 2022",
+        "favourites_count": 29311,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4651,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1561887981165690881/wADuj2Di_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1561887981165690881/wADuj2Di_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561887754094399488/1678360267",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 142,
+      "favorite_count": 1473,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 142,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Sun Jun 04 12:56:17 +0000 2023",
+    "id": 1665341706101747712,
+    "id_str": "1665341706101747712",
+    "text": "RT @XeVNjzRbGTLQRDi: 在日本，根据道路交通法，一般来说，一个成年人骑自行车时是不允许带另一个人的，这被认为是非法的，最高处罚5万日元。（除了特定的儿童座椅内的儿童）\n\n来日本旅游或者刚来日本留学的人一定要注意当地的法律法规。 https://t.co/fkK…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "XeVNjzRbGTLQRDi",
+          "name": "大种马",
+          "id": 1144849158412443648,
+          "id_str": "1144849158412443648",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Jun 04 03:19:51 +0000 2023",
+      "id": 1665196639173382144,
+      "id_str": "1665196639173382144",
+      "text": "在日本，根据道路交通法，一般来说，一个成年人骑自行车时是不允许带另一个人的，这被认为是非法的，最高处罚5万日元。（除了特定的儿童座椅内的儿童）\n\n来日本旅游或者刚来日本留学的人一定要注意当地的法律法规。 https://t.co/fkKMF6g149",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 1665196622110928896,
+            "id_str": "1665196622110928896",
+            "indices": [
+              102,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fxv3gVYaMAAAij-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fxv3gVYaMAAAij-.jpg",
+            "url": "https://t.co/fkKMF6g149",
+            "display_url": "pic.twitter.com/fkKMF6g149",
+            "expanded_url": "https://twitter.com/XeVNjzRbGTLQRDi/status/1665196639173382144/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 472,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 923,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 923,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1665196622110928896,
+            "id_str": "1665196622110928896",
+            "indices": [
+              102,
+              125
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fxv3gVYaMAAAij-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fxv3gVYaMAAAij-.jpg",
+            "url": "https://t.co/fkKMF6g149",
+            "display_url": "pic.twitter.com/fkKMF6g149",
+            "expanded_url": "https://twitter.com/XeVNjzRbGTLQRDi/status/1665196639173382144/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 472,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 923,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 923,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1144849158412443648,
+        "id_str": "1144849158412443648",
+        "name": "大种马",
+        "screen_name": "XeVNjzRbGTLQRDi",
+        "location": "Matsuyama-shi, Ehime",
+        "description": "会变容易的，每天都会容易一点点。但是你得每天都坚持做。这才是最难的部分，会变得容易的。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2460,
+        "friends_count": 283,
+        "listed_count": 12,
+        "created_at": "Sat Jun 29 06:04:44 +0000 2019",
+        "favourites_count": 18569,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 10089,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1638772123438288896/IPPdHmIQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1638772123438288896/IPPdHmIQ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144849158412443648/1676616378",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "0809644c2c399a48",
+        "url": "https://api.twitter.com/1.1/geo/id/0809644c2c399a48.json",
+        "place_type": "city",
+        "name": "松山市",
+        "full_name": "愛媛 松山市",
+        "country_code": "JP",
+        "country": "日本",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                132.491125,
+                33.687285
+              ],
+              [
+                132.926666,
+                33.687285
+              ],
+              [
+                132.926666,
+                34.073779
+              ],
+              [
+                132.491125,
+                34.073779
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 201,
+      "favorite_count": 1516,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 201,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Sat Jun 03 08:45:42 +0000 2023",
     "id": 1664916253268639751,
     "id_str": "1664916253268639751",
