@@ -1,5 +1,176 @@
 Grailbird.data.tweets_2023_06 = [
   {
+    "created_at": "Wed Jun 07 01:18:39 +0000 2023",
+    "id": 1666253302231887873,
+    "id_str": "1666253302231887873",
+    "text": "這支 Watchy 電子墨水手錶的外觀與組裝過程都像玩具，價格差不多兩千台幣，若單純看時間、當計步器還不錯。\n\n若能有心率與睡眠偵測，大概就接近開源、E-Ink 版、醜一點的 Withings Steel HR。… https://t.co/6BTi3KbekO",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6BTi3KbekO",
+          "expanded_url": "https://twitter.com/i/web/status/1666253302231887873",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 07 00:20:32 +0000 2023",
+    "id": 1666238675091619840,
+    "id_str": "1666238675091619840",
+    "text": "「知覺是片斷的，心智是淺薄的，所謂的內心世界只是大腦拼湊出來的騙局！」\n\n這本書解釋了「何以大腦經常達不到我們的期望、讓我們一頭霧水，同時卻又遠遠超過目前人工智慧的成果。」\n\n《思考不過是一場即興演出》 #kobo… https://t.co/g1vEh2Ywzz",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "kobo",
+          "indices": [
+            102,
+            107
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g1vEh2Ywzz",
+          "expanded_url": "https://twitter.com/i/web/status/1666238675091619840",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1666237830920830978,
+    "in_reply_to_status_id_str": "1666237830920830978",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 07 00:17:10 +0000 2023",
+    "id": 1666237830920830978,
+    "id_str": "1666237830920830978",
+    "text": "最近時常有這種感覺：若記憶力再好一點，我就更像 AI 了，許多時候聽起來言之有理的侃侃而談，只不過是掩蓋記憶模糊的胡言亂語。\n\n「我們在討論政見時，會以為自己站在理性和真理的一方，但其實政治立場很多時是由認知偏差所引導。」\n\nhttps://t.co/LypwhZq0tV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LypwhZq0tV",
+          "expanded_url": "https://bit.ly/42w7OwC",
+          "display_url": "bit.ly/42w7OwC",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Tue Jun 06 01:02:20 +0000 2023",
     "id": 1665886809514196993,
     "id_str": "1665886809514196993",
