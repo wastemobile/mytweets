@@ -1,5 +1,465 @@
 Grailbird.data.tweets_2023_06 = [
   {
+    "created_at": "Thu Jun 08 07:12:37 +0000 2023",
+    "id": 1666704768226721792,
+    "id_str": "1666704768226721792",
+    "text": "RT @llimitlessmary: 媒體不敢報，求擴散。\n\n新北市長侯友宜轄下的新北市發生「幼稚園人員自行餵四級管制安眠藥（巴比妥俗稱紅中）給幼童」，文長，但時間序及資料完整。\n\nhttps://t.co/ePxHpJpzYQ https://t.co/TiPBbVz0qs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "llimitlessmary",
+          "name": "旻旻特木耳",
+          "id": 322423725,
+          "id_str": "322423725",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ePxHpJpzYQ",
+          "expanded_url": "https://m.facebook.com/story.php?story_fbid=6608073895923680&id=100001634048232&mibextid=qC1gEa",
+          "display_url": "m.facebook.com/story.php?stor…",
+          "indices": [
+            92,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1666658612088012800,
+          "id_str": "1666658612088012800",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/FyEpLWdaAAADiKj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FyEpLWdaAAADiKj.jpg",
+          "url": "https://t.co/TiPBbVz0qs",
+          "display_url": "pic.twitter.com/TiPBbVz0qs",
+          "expanded_url": "https://twitter.com/llimitlessmary/status/1666658619725852673/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 707,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 401,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 828,
+              "h": 1405,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1666658619725852673,
+          "source_status_id_str": "1666658619725852673",
+          "source_user_id": 322423725,
+          "source_user_id_str": "322423725"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1666658612088012800,
+          "id_str": "1666658612088012800",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/FyEpLWdaAAADiKj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FyEpLWdaAAADiKj.jpg",
+          "url": "https://t.co/TiPBbVz0qs",
+          "display_url": "pic.twitter.com/TiPBbVz0qs",
+          "expanded_url": "https://twitter.com/llimitlessmary/status/1666658619725852673/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 707,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 401,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 828,
+              "h": 1405,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1666658619725852673,
+          "source_status_id_str": "1666658619725852673",
+          "source_user_id": 322423725,
+          "source_user_id_str": "322423725"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jun 08 04:09:14 +0000 2023",
+      "id": 1666658619725852673,
+      "id_str": "1666658619725852673",
+      "text": "媒體不敢報，求擴散。\n\n新北市長侯友宜轄下的新北市發生「幼稚園人員自行餵四級管制安眠藥（巴比妥俗稱紅中）給幼童」，文長，但時間序及資料完整。\n\nhttps://t.co/ePxHpJpzYQ https://t.co/TiPBbVz0qs",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ePxHpJpzYQ",
+            "expanded_url": "https://m.facebook.com/story.php?story_fbid=6608073895923680&id=100001634048232&mibextid=qC1gEa",
+            "display_url": "m.facebook.com/story.php?stor…",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1666658612088012800,
+            "id_str": "1666658612088012800",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/FyEpLWdaAAADiKj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FyEpLWdaAAADiKj.jpg",
+            "url": "https://t.co/TiPBbVz0qs",
+            "display_url": "pic.twitter.com/TiPBbVz0qs",
+            "expanded_url": "https://twitter.com/llimitlessmary/status/1666658619725852673/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 707,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 401,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 828,
+                "h": 1405,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1666658612088012800,
+            "id_str": "1666658612088012800",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/FyEpLWdaAAADiKj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FyEpLWdaAAADiKj.jpg",
+            "url": "https://t.co/TiPBbVz0qs",
+            "display_url": "pic.twitter.com/TiPBbVz0qs",
+            "expanded_url": "https://twitter.com/llimitlessmary/status/1666658619725852673/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 707,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 401,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 828,
+                "h": 1405,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 322423725,
+        "id_str": "322423725",
+        "name": "旻旻特木耳",
+        "screen_name": "llimitlessmary",
+        "location": "",
+        "description": "不要fo我，推特精神病人會焦慮。 說教仔我沒義務承接你的情緒發言，如果上了就是貼人什麼粉什麼標籤，我善用封鎖，謝謝。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 7237,
+        "friends_count": 439,
+        "listed_count": 32,
+        "created_at": "Thu Jun 23 04:29:24 +0000 2011",
+        "favourites_count": 105942,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 25770,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1596157135007936514/xJsaKsGX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1596157135007936514/xJsaKsGX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/322423725/1669388502",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 482,
+      "favorite_count": 638,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 482,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 08 03:29:28 +0000 2023",
+    "id": 1666648609704779776,
+    "id_str": "1666648609704779776",
+    "text": "為什麼會有人出這個？（讚嘆之意\n\n《蝙蝠車 Batmobile 全圖鑑》 https://t.co/6hSAhEmGgk https://t.co/DzFhxNTeSS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6hSAhEmGgk",
+          "expanded_url": "https://bit.ly/43r3PCN",
+          "display_url": "bit.ly/43r3PCN",
+          "indices": [
+            37,
+            60
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1666648604550004736,
+          "id_str": "1666648604550004736",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/FyEgE1eagAAvdSs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FyEgE1eagAAvdSs.jpg",
+          "url": "https://t.co/DzFhxNTeSS",
+          "display_url": "pic.twitter.com/DzFhxNTeSS",
+          "expanded_url": "https://twitter.com/wastemobile/status/1666648609704779776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1666648604550004736,
+          "id_str": "1666648604550004736",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/FyEgE1eagAAvdSs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FyEgE1eagAAvdSs.jpg",
+          "url": "https://t.co/DzFhxNTeSS",
+          "display_url": "pic.twitter.com/DzFhxNTeSS",
+          "expanded_url": "https://twitter.com/wastemobile/status/1666648609704779776/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 348,
+              "h": 348,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jun 07 01:18:39 +0000 2023",
     "id": 1666253302231887873,
     "id_str": "1666253302231887873",
