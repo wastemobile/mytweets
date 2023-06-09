@@ -1,5 +1,60 @@
 Grailbird.data.tweets_2023_06 = [
   {
+    "created_at": "Thu Jun 08 23:03:00 +0000 2023",
+    "id": 1666943941604937728,
+    "id_str": "1666943941604937728",
+    "text": "Reddit 第三方應用的末日來臨。\n\n4/18 Reddit 宣佈 API 即將收費，許多第三方開發者還認為是個良性發展，直到價格公布：每 1,000 次 API 呼叫收費 $0.24，對例如 Apollo 這樣的第三方應用來說… https://t.co/Mavp4RtQMc",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Mavp4RtQMc",
+          "expanded_url": "https://twitter.com/i/web/status/1666943941604937728",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jun 08 07:12:37 +0000 2023",
     "id": 1666704768226721792,
     "id_str": "1666704768226721792",
