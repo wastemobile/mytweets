@@ -1,5 +1,635 @@
 Grailbird.data.tweets_2023_06 = [
   {
+    "created_at": "Fri Jun 09 14:02:25 +0000 2023",
+    "id": 1667170288126111746,
+    "id_str": "1667170288126111746",
+    "text": "RT @yihong0618: 前阵子 Mac m1 总是无缘无故的卡死，自从把 docker desktop 换成 Orb 后，问题再也没出现过。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "yihong0618",
+          "name": "yihong0618",
+          "id": 1017648622668795904,
+          "id_str": "1017648622668795904",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jun 09 05:30:39 +0000 2023",
+      "id": 1667041497555017728,
+      "id_str": "1667041497555017728",
+      "text": "前阵子 Mac m1 总是无缘无故的卡死，自从把 docker desktop 换成 Orb 后，问题再也没出现过。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1017648622668795904,
+        "id_str": "1017648622668795904",
+        "name": "yihong0618",
+        "screen_name": "yihong0618",
+        "location": "",
+        "description": "喜欢王小波，大概我们能成为朋友。\n我的任何公开资料随便用于训练 AI.\n我的 2023 https://t.co/QyV8PiZmOY \n我的2022 https://t.co/NLYTn7xtta \n我的2021 https://t.co/1IuPNNDVqq",
+        "url": "https://t.co/jC9yT8us8S",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/jC9yT8us8S",
+                "expanded_url": "https://yihong.run",
+                "display_url": "yihong.run",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/QyV8PiZmOY",
+                "expanded_url": "http://github.com/yihong0618/2023",
+                "display_url": "github.com/yihong0618/2023",
+                "indices": [
+                  44,
+                  67
+                ]
+              },
+              {
+                "url": "https://t.co/NLYTn7xtta",
+                "expanded_url": "http://github.com/yihong0618/2022",
+                "display_url": "github.com/yihong0618/2022",
+                "indices": [
+                  76,
+                  99
+                ]
+              },
+              {
+                "url": "https://t.co/1IuPNNDVqq",
+                "expanded_url": "http://github.com/yihong0618/2021",
+                "display_url": "github.com/yihong0618/2021",
+                "indices": [
+                  108,
+                  131
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 51143,
+        "friends_count": 2416,
+        "listed_count": 392,
+        "created_at": "Fri Jul 13 05:55:13 +0000 2018",
+        "favourites_count": 37730,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 16178,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209446924006223872/wSIVSKnh_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 90,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 09 13:59:56 +0000 2023",
+    "id": 1667169663485194243,
+    "id_str": "1667169663485194243",
+    "text": "無法反駁。 https://t.co/w6uQQNe1gy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/w6uQQNe1gy",
+          "expanded_url": "https://twitter.com/eason06011008/status/1667064933463494656",
+          "display_url": "twitter.com/eason06011008/…",
+          "indices": [
+            6,
+            29
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1667064933463494656,
+    "quoted_status_id_str": "1667064933463494656",
+    "quoted_status": {
+      "created_at": "Fri Jun 09 07:03:47 +0000 2023",
+      "id": 1667064933463494656,
+      "id_str": "1667064933463494656",
+      "text": "應該很少人知道，三商巧福在東京有開海外分店\n\n三商巧福就是ㄘ方便而已，生日買一送一去吃很划算。\nhttps://t.co/ePP3C1cUHL https://t.co/YEYZOL4cea",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ePP3C1cUHL",
+            "expanded_url": "https://udn.com/news/story/120911/7222689",
+            "display_url": "udn.com/news/story/120…",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1667064924684828673,
+            "id_str": "1667064924684828673",
+            "indices": [
+              72,
+              95
+            ],
+            "media_url": "http://pbs.twimg.com/media/FyKat21aQAEeNI_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FyKat21aQAEeNI_.jpg",
+            "url": "https://t.co/YEYZOL4cea",
+            "display_url": "pic.twitter.com/YEYZOL4cea",
+            "expanded_url": "https://twitter.com/Eason06011008/status/1667064933463494656/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 511,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 828,
+                "h": 1101,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 828,
+                "h": 1101,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1667064924684828673,
+            "id_str": "1667064924684828673",
+            "indices": [
+              72,
+              95
+            ],
+            "media_url": "http://pbs.twimg.com/media/FyKat21aQAEeNI_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FyKat21aQAEeNI_.jpg",
+            "url": "https://t.co/YEYZOL4cea",
+            "display_url": "pic.twitter.com/YEYZOL4cea",
+            "expanded_url": "https://twitter.com/Eason06011008/status/1667064933463494656/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 511,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 828,
+                "h": 1101,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 828,
+                "h": 1101,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 972357394117287936,
+        "id_str": "972357394117287936",
+        "name": "🏳️‍🌈人生很難ㄉ大叔🇹🇼",
+        "screen_name": "Eason06011008",
+        "location": "Taichung City, Taiwan",
+        "description": "好笑的梗圖或趣事隨意轉推無所謂。但極度不歡迎截圖或轉推我的推文去發表自己的高見和立場，不要那麼沒禮貌！！！！人生好難 /一直以為我跟何寶榮不一樣，原來寂寞的時候，所有的人都一樣。",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 8520,
+        "friends_count": 782,
+        "listed_count": 18,
+        "created_at": "Sat Mar 10 06:24:03 +0000 2018",
+        "favourites_count": 238290,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 61661,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1643971599908102144/p1S02Bt3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1643971599908102144/p1S02Bt3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972357394117287936/1646931698",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 26,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 09 12:36:38 +0000 2023",
+    "id": 1667148698135187457,
+    "id_str": "1667148698135187457",
+    "text": "如果要刺青，唯一想法就是把一些日常保健常用的穴道，例如合關、足三里⋯⋯，用優美精緻的圖案標出來。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 22,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 09 11:44:39 +0000 2023",
+    "id": 1667135618449539073,
+    "id_str": "1667135618449539073",
+    "text": "RT @SatanismTemple: 知名動畫《SCP Confinement》的作者Lord Bung在 6/9 晚間刪除了自己的YouTube帳號，同時包含了一系列已經出到第七集的動畫。\n\n剛好看到歐美動畫的翻譯者「不可以銫銫」提到這件事，因此花了一點時間去查發生什麼事，…",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SatanismTemple",
+          "name": "撒旦主義聖殿Temple of Satanism",
+          "id": 4751792641,
+          "id_str": "4751792641",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jun 08 19:38:34 +0000 2023",
+      "id": 1666892493831700480,
+      "id_str": "1666892493831700480",
+      "text": "知名動畫《SCP Confinement》的作者Lord Bung在 6/9 晚間刪除了自己的YouTube帳號，同時包含了一系列已經出到第七集的動畫。\n\n剛好看到歐美動畫的翻譯者「不可以銫銫」提到這件事，因此花了一點時間去查發生… https://t.co/iIYIG07gqP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/iIYIG07gqP",
+            "expanded_url": "https://twitter.com/i/web/status/1666892493831700480",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4751792641,
+        "id_str": "4751792641",
+        "name": "撒旦主義聖殿Temple of Satanism",
+        "screen_name": "SatanismTemple",
+        "location": "Taiwan",
+        "description": "草創於2020年6月25日/臺灣撒旦教/正式向政府申請中/\n\n創辦人&編輯&發言人：劉昊/\n\n主張無神論、不可知論、人本主義、自我實現/不定時翻譯國外撒旦教內容/",
+        "url": "https://t.co/pNgPxEYBvf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/pNgPxEYBvf",
+                "expanded_url": "https://templeofsatanism.mystrikingly.com/",
+                "display_url": "templeofsatanism.mystrikingly.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2462,
+        "friends_count": 82,
+        "listed_count": 5,
+        "created_at": "Wed Jan 13 06:04:44 +0000 2016",
+        "favourites_count": 392,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 936,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1589155739729563648/s5QCvKrA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1589155739729563648/s5QCvKrA_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4751792641/1630996160",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 110,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jun 08 23:03:00 +0000 2023",
     "id": 1666943941604937728,
     "id_str": "1666943941604937728",
