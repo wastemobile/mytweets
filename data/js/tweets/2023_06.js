@@ -1,5 +1,542 @@
 Grailbird.data.tweets_2023_06 = [
   {
+    "created_at": "Thu Jun 15 22:05:24 +0000 2023",
+    "id": 1669466159316611072,
+    "id_str": "1669466159316611072",
+    "text": "喔，喬伊斯《都柏林人》於1914/6/15出版，首刷只有 1,250 本，雖頗受好評，但第一年只賣出了 499 本，距離喬伊斯能分紅的門檻僅一本之遙⋯⋯ https://t.co/7bkQnD0DSz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7bkQnD0DSz",
+          "expanded_url": "https://twitter.com/wastemobile/status/1662085688492449793",
+          "display_url": "twitter.com/wastemobile/st…",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1662085688492449793,
+    "quoted_status_id_str": "1662085688492449793",
+    "quoted_status": {
+      "created_at": "Fri May 26 13:18:02 +0000 2023",
+      "id": 1662085688492449793,
+      "id_str": "1662085688492449793",
+      "text": "在 1919《小城畸人》之前，還有喬伊斯 1914 的《都柏林人》。\n\n以「共享場域」為核心的 short story cycle，都柏林確有其地，小城（Winesburg, Ohio）是虛構的。\n\n「眾生相」，或一群抑鬱掙扎的人… https://t.co/DZ8QX6GO9q",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DZ8QX6GO9q",
+            "expanded_url": "https://twitter.com/i/web/status/1662085688492449793",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1662077588460961794,
+      "in_reply_to_status_id_str": "1662077588460961794",
+      "in_reply_to_user_id": 20709129,
+      "in_reply_to_user_id_str": "20709129",
+      "in_reply_to_screen_name": "wastemobile",
+      "user": {
+        "id": 20709129,
+        "id_str": "20709129",
+        "name": "wastemobile",
+        "screen_name": "wastemobile",
+        "location": "地下城堡",
+        "description": "遺失在荒原的一支廢棄手機",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 6874,
+        "friends_count": 1231,
+        "listed_count": 150,
+        "created_at": "Thu Feb 12 19:37:57 +0000 2009",
+        "favourites_count": 3823,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 26642,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFF04D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709129/1685225549",
+        "profile_link_color": "0099CC",
+        "profile_sidebar_border_color": "FFF8AD",
+        "profile_sidebar_fill_color": "F6FFD1",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 15 14:09:34 +0000 2023",
+    "id": 1669346414516916225,
+    "id_str": "1669346414516916225",
+    "text": "RT @b1ackprize: 這路線圖好讚欸😍😍😍\n獨立山轉三圈半那裡快笑死\n好真實 🤣🤣🤣\nhttps://t.co/qJX3VaazQE https://t.co/Z13FXANU8d",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "b1ackprize",
+          "name": "獎獎",
+          "id": 148595817,
+          "id_str": "148595817",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qJX3VaazQE",
+          "expanded_url": "https://47rail.jp/get-routemap/taiwan/",
+          "display_url": "47rail.jp/get-routemap/t…",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1668834287498719241,
+          "id_str": "1668834287498719241",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fyjj8U9acAkZGPB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fyjj8U9acAkZGPB.jpg",
+          "url": "https://t.co/Z13FXANU8d",
+          "display_url": "pic.twitter.com/Z13FXANU8d",
+          "expanded_url": "https://twitter.com/b1ackprize/status/1668834820376645632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 481,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1448,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 848,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1668834820376645632,
+          "source_status_id_str": "1668834820376645632",
+          "source_user_id": 148595817,
+          "source_user_id_str": "148595817"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1668834287498719241,
+          "id_str": "1668834287498719241",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fyjj8U9acAkZGPB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fyjj8U9acAkZGPB.jpg",
+          "url": "https://t.co/Z13FXANU8d",
+          "display_url": "pic.twitter.com/Z13FXANU8d",
+          "expanded_url": "https://twitter.com/b1ackprize/status/1668834820376645632/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 481,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1448,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 848,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1668834820376645632,
+          "source_status_id_str": "1668834820376645632",
+          "source_user_id": 148595817,
+          "source_user_id_str": "148595817"
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jun 14 04:16:41 +0000 2023",
+      "id": 1668834820376645632,
+      "id_str": "1668834820376645632",
+      "text": "這路線圖好讚欸😍😍😍\n獨立山轉三圈半那裡快笑死\n好真實 🤣🤣🤣\nhttps://t.co/qJX3VaazQE https://t.co/Z13FXANU8d",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qJX3VaazQE",
+            "expanded_url": "https://47rail.jp/get-routemap/taiwan/",
+            "display_url": "47rail.jp/get-routemap/t…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1668834287498719241,
+            "id_str": "1668834287498719241",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fyjj8U9acAkZGPB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fyjj8U9acAkZGPB.jpg",
+            "url": "https://t.co/Z13FXANU8d",
+            "display_url": "pic.twitter.com/Z13FXANU8d",
+            "expanded_url": "https://twitter.com/b1ackprize/status/1668834820376645632/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1448,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 848,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1668834287498719241,
+            "id_str": "1668834287498719241",
+            "indices": [
+              56,
+              79
+            ],
+            "media_url": "http://pbs.twimg.com/media/Fyjj8U9acAkZGPB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Fyjj8U9acAkZGPB.jpg",
+            "url": "https://t.co/Z13FXANU8d",
+            "display_url": "pic.twitter.com/Z13FXANU8d",
+            "expanded_url": "https://twitter.com/b1ackprize/status/1668834820376645632/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1448,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 848,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 148595817,
+        "id_str": "148595817",
+        "name": "獎獎",
+        "screen_name": "b1ackprize",
+        "location": "初始空島",
+        "description": "究極手 Lv.1",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1317,
+        "friends_count": 768,
+        "listed_count": 8,
+        "created_at": "Thu May 27 03:15:36 +0000 2010",
+        "favourites_count": 18486,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 9999,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1643485042327576576/jVU9dGQM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1643485042327576576/jVU9dGQM_normal.jpg",
+        "profile_link_color": "7FDBB6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 334,
+      "favorite_count": 1368,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "is_quote_status": false,
+    "retweet_count": 334,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Thu Jun 15 00:51:08 +0000 2023",
+    "id": 1669145481451282432,
+    "id_str": "1669145481451282432",
+    "text": "R.I.P. Robert Gottlieb.\n\n改寫美國文學史的傳奇編輯羅伯・葛特利過世。\n\nhttps://t.co/NQmTZeNorp",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NQmTZeNorp",
+          "expanded_url": "https://nyti.ms/42MGMRH",
+          "display_url": "nyti.ms/42MGMRH",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1655006629178544128,
+    "in_reply_to_status_id_str": "1655006629178544128",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jun 14 22:54:48 +0000 2023",
     "id": 1669116205133877248,
     "id_str": "1669116205133877248",
