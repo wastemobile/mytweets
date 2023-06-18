@@ -1,5 +1,284 @@
 Grailbird.data.tweets_2023_06 = [
   {
+    "created_at": "Fri Jun 16 22:25:34 +0000 2023",
+    "id": 1669833621681876993,
+    "id_str": "1669833621681876993",
+    "text": "簡單的說，過去幾年人們（特別是年輕一代）對新聞的興趣下降、接收來源更傾向社群網路、來自傳統新聞機構的比例愈來愈少，而且參與度（讚好、分享及留言）也有減少。\n\n世界對新聞正失去興趣，年輕一代更信任 TikTok 和名人 | *CUP… https://t.co/9fIPv4mt7j",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9fIPv4mt7j",
+          "expanded_url": "https://twitter.com/i/web/status/1669833621681876993",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "favorite_count": 79,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 16 22:03:08 +0000 2023",
+    "id": 1669827977906130944,
+    "id_str": "1669827977906130944",
+    "text": "Abode.\n\n藝術家 Stuart 繼 BLINK 之後，再次扮演挑戰巨人歌利亞的大衛，募資開發《Abode》軟體四套件，對準著 Adobe 昂貴的「付費訂閱制」而來，將會是單次買斷制，集資贊助者還能獲得終生免費更新。\n\n我至少… https://t.co/kTPTbPMzfA",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kTPTbPMzfA",
+          "expanded_url": "https://twitter.com/i/web/status/1669827977906130944",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1426366698651676675,
+    "in_reply_to_status_id_str": "1426366698651676675",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Fri Jun 16 02:07:08 +0000 2023",
+    "id": 1669526993250189312,
+    "id_str": "1669526993250189312",
+    "text": "推這句「既無常識也無能力」，侯友宜的完美定義。 https://t.co/1z8kmkGt1r",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1z8kmkGt1r",
+          "expanded_url": "https://twitter.com/thenewslens/status/1669494769343672320",
+          "display_url": "twitter.com/thenewslens/st…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1669494769343672320,
+    "quoted_status_id_str": "1669494769343672320",
+    "quoted_status": {
+      "created_at": "Thu Jun 15 23:59:05 +0000 2023",
+      "id": 1669494769343672320,
+      "id_str": "1669494769343672320",
+      "text": "發生幼稚園兒童遭餵食含有第三級管制藥物品巴比妥鹽成分的不明藥物後；6月13日一場記者會，連同去年的恩恩案，徹底掀開新北市政府團隊的顢頇無能。讓社會大眾清楚看到他們的危機處理都只是先隱匿，繼之大事化小，從未記取教訓痛加檢討。 https://t.co/nRTLIecBz5",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nRTLIecBz5",
+            "expanded_url": "https://www.thenewslens.com/article/187180?utm_source=dlvr.it&utm_medium=twitter",
+            "display_url": "thenewslens.com/article/187180…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1565291311,
+        "id_str": "1565291311",
+        "name": "The News Lens",
+        "screen_name": "thenewslens",
+        "location": "Taiwan",
+        "description": "The News Lens 是一個媒體實驗。希望能夠提供多元、不同面向的觀點，讓一個事件有不同的切入角度，並讓社交網路世代的使用者，能夠更輕鬆的分享、討論和參與他們有興趣的議題。",
+        "url": "https://t.co/Qwm1x5DD2j",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Qwm1x5DD2j",
+                "expanded_url": "https://www.thenewslens.com/",
+                "display_url": "thenewslens.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 17954,
+        "friends_count": 83,
+        "listed_count": 324,
+        "created_at": "Wed Jul 03 08:54:12 +0000 2013",
+        "favourites_count": 1540,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 65993,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1636316736059473920/xzZgT4hI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1636316736059473920/xzZgT4hI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565291311/1678846826",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "zh"
+    },
+    "retweet_count": 0,
+    "favorite_count": 8,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Thu Jun 15 22:05:24 +0000 2023",
     "id": 1669466159316611072,
     "id_str": "1669466159316611072",
