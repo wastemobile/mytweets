@@ -1,5 +1,57 @@
 Grailbird.data.tweets_2023_06 = [
   {
+    "created_at": "Thu Jun 22 14:04:53 +0000 2023",
+    "id": 1671881949634494465,
+    "id_str": "1671881949634494465",
+    "text": "嗯，#戒菸 滿月。\n\n多數想抽菸的時候，只要深呼吸幾次，感受一下肺部重生的狀態，就能勉強渡過。\n\n但還是有比較難的時候，就只好嚼一下尼古清，總算熬過去。\n\n 希望接下來愈來愈輕鬆才是。",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "戒菸",
+          "indices": [
+            2,
+            5
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1662989583955677184,
+    "in_reply_to_status_id_str": "1662989583955677184",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "zh"
+  },
+  {
     "created_at": "Wed Jun 21 21:57:15 +0000 2023",
     "id": 1671638435441033216,
     "id_str": "1671638435441033216",
