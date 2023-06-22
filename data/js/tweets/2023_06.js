@@ -1,5 +1,314 @@
 Grailbird.data.tweets_2023_06 = [
   {
+    "created_at": "Wed Jun 21 21:57:15 +0000 2023",
+    "id": 1671638435441033216,
+    "id_str": "1671638435441033216",
+    "text": "日本週刊史：101年歷史的《週刊朝日》停刊，誰來負擔「知情權」的成本？ https://t.co/ojEonpXagI https://t.co/uqu3AQqufY",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ojEonpXagI",
+          "expanded_url": "https://bit.ly/3p8NS5D",
+          "display_url": "bit.ly/3p8NS5D",
+          "indices": [
+            36,
+            59
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1671638428017106944,
+          "id_str": "1671638428017106944",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/FzLaSybaIAAkVws.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FzLaSybaIAAkVws.jpg",
+          "url": "https://t.co/uqu3AQqufY",
+          "display_url": "pic.twitter.com/uqu3AQqufY",
+          "expanded_url": "https://twitter.com/wastemobile/status/1671638435441033216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1671638428017106944,
+          "id_str": "1671638428017106944",
+          "indices": [
+            60,
+            83
+          ],
+          "media_url": "http://pbs.twimg.com/media/FzLaSybaIAAkVws.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FzLaSybaIAAkVws.jpg",
+          "url": "https://t.co/uqu3AQqufY",
+          "display_url": "pic.twitter.com/uqu3AQqufY",
+          "expanded_url": "https://twitter.com/wastemobile/status/1671638435441033216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1671061232978399232,
+    "in_reply_to_status_id_str": "1671061232978399232",
+    "in_reply_to_user_id": 20709129,
+    "in_reply_to_user_id_str": "20709129",
+    "in_reply_to_screen_name": "wastemobile",
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "zh"
+  },
+  {
+    "created_at": "Wed Jun 21 12:58:33 +0000 2023",
+    "id": 1671502868501909505,
+    "id_str": "1671502868501909505",
+    "text": "RT @YukiTake_life: M2の15ｲﾝﾁMacBookAir買いました\n\nいいねくれたらPCスキル頑張って磨いちゃうぞ https://t.co/2vr2ECvD3j",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "YukiTake_life",
+          "name": "竹内有紀",
+          "id": 1178971067898982401,
+          "id_str": "1178971067898982401",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709129,
+      "id_str": "20709129",
+      "name": "wastemobile",
+      "screen_name": "wastemobile",
+      "protected": false,
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1654041285/waste_normal.jpg"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jun 20 14:23:28 +0000 2023",
+      "id": 1671161849398833153,
+      "id_str": "1671161849398833153",
+      "text": "M2の15ｲﾝﾁMacBookAir買いました\n\nいいねくれたらPCスキル頑張って磨いちゃうぞ https://t.co/ms1g1n8UrG… https://t.co/ms1g1n8UrG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ms1g1n8UrG",
+            "expanded_url": "https://twitter.com/i/web/status/1671161849398833153",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              48,
+              71
+            ]
+          },
+          {
+            "url": "https://t.co/ms1g1n8UrG",
+            "expanded_url": "https://twitter.com/i/web/status/1671161849398833153",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1178971067898982401,
+        "id_str": "1178971067898982401",
+        "name": "竹内有紀",
+        "screen_name": "YukiTake_life",
+        "location": "",
+        "description": "PREMIUM専属@PREMIUM_AV    7/8イベントin岡山 7/9イベントin姫路",
+        "url": "https://t.co/ZAJPOrBad3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZAJPOrBad3",
+                "expanded_url": "https://www.instagram.com/yuki.takeuchi_life/",
+                "display_url": "instagram.com/yuki.takeuchi_…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 55522,
+        "friends_count": 552,
+        "listed_count": 317,
+        "created_at": "Tue Oct 01 09:53:14 +0000 2019",
+        "favourites_count": 29195,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6324,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1611355556471767040/8H5zdOb6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611355556471767040/8H5zdOb6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1178971067898982401/1673956344",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": [
+
+        ]
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 22,
+      "favorite_count": 648,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": true,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": true,
+    "lang": "ja"
+  },
+  {
     "created_at": "Wed Jun 21 03:07:30 +0000 2023",
     "id": 1671354127132295168,
     "id_str": "1671354127132295168",
